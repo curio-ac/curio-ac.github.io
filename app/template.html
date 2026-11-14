@@ -40,7 +40,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 .post[dir=ltr] .actions{left:auto;right:8px}
 .post[dir=ltr] .meta{left:16px;right:78px}
 .post[dir=ltr] .cap{left:20px;right:70px}
-.vis{position:absolute;top:12%;left:16px;right:16px;height:46%;z-index:3;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none}
+.vis{position:absolute;top:11%;left:16px;right:16px;height:46%;z-index:3;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none}
 .vis.on{display:flex;animation:pop .4s cubic-bezier(.3,1.5,.5,1)}
 .withvis .shade{background:rgba(0,0,0,.55)}.withvis .emo{display:none}
 .v-num{font-size:clamp(64px,20vw,104px);font-weight:900;color:#ffd166;line-height:1;text-shadow:0 6px 30px rgba(0,0,0,.5)}
@@ -63,7 +63,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 .emo{position:absolute;top:20%;left:0;right:0;text-align:center;font-size:84px;z-index:3;pointer-events:none}
 .emo.pop{animation:pop .45s cubic-bezier(.3,1.6,.5,1)}
 @keyframes pop{from{transform:scale(.4) rotate(-15deg);opacity:0}}
-.cap{position:absolute;bottom:128px;left:70px;right:20px;display:flex;flex-wrap:wrap;justify-content:center;align-content:flex-start;gap:4px 10px;text-align:center;z-index:3;pointer-events:none}
+.cap{position:absolute;top:60%;left:70px;right:20px;display:flex;flex-wrap:wrap;justify-content:center;align-content:flex-start;gap:4px 10px;text-align:center;z-index:3;pointer-events:none}
 .cap.pop{animation:cpop .22s ease-out}
 @keyframes cpop{from{transform:scale(.82);opacity:.3}}
 .cap span{font-size:clamp(21px,6vw,27px);font-weight:900;line-height:1.15;text-shadow:0 3px 0 rgba(0,0,0,.35),0 0 18px rgba(0,0,0,.35);transition:color .1s,transform .12s;display:inline-block}
@@ -74,7 +74,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 .prog i{display:block;height:100%;width:0;background:#fff}
 .meta{position:absolute;bottom:22px;right:16px;left:78px;z-index:3}
 .chip{display:inline-block;background:rgba(255,255,255,.2);backdrop-filter:blur(6px);padding:4px 12px;border-radius:99px;font-size:13px;margin-bottom:8px}
-.meta h2{font-size:18px;font-weight:900;margin-bottom:4px;text-shadow:0 2px 8px rgba(0,0,0,.4)}
+.meta h2{font-size:15px;font-weight:900;margin-bottom:4px;text-shadow:0 2px 8px rgba(0,0,0,.4)}
 .meta a{color:#fff;opacity:.85;font-size:13px}
 .actions{position:absolute;left:8px;bottom:96px;display:flex;flex-direction:column;gap:16px;z-index:3}
 .actions button{background:none;border:0;color:#fff;font-size:30px;display:flex;flex-direction:column;align-items:center;cursor:pointer;filter:drop-shadow(0 2px 6px rgba(0,0,0,.45));transition:transform .2s;width:54px}
