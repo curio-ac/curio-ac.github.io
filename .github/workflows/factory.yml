@@ -7,7 +7,7 @@ on:
         description: "videos per language"
         default: "5"
   schedule:
-    - cron: "17 1 * * *"
+    - cron: "17 8 * * *"
 
 permissions:
   contents: write

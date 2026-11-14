@@ -118,12 +118,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 <body>
 <div id="top"><div class="logo">curi<b>o</b></div><div><button id="btnStats" title="האלגוריתם">📊</button><button id="btnSound" title="קול">🔊</button></div></div>
 <div id="feed"></div>
-<div id="start" class="ov">
-  <div class="logo">curi<b>o</b></div>
-  <p>לגלול. ללמוד. להתפלא.</p>
-  <div class="langs"><button data-l="he">עברית 🔊</button><button data-l="en" class="alt">English 🔊</button><button data-l="he,en" class="alt">שתיהן · Both</button></div>
-  <small>גלילה למעלה = נושא הבא · נגיעה בצד שמאל/ימין = קדימה/אחורה · נגיעה במרכז = עצירה</small>
-</div>
+<div id="tap" style="position:fixed;top:64px;left:50%;transform:translateX(-50%);z-index:15;background:rgba(0,0,0,.65);padding:9px 18px;border-radius:99px;font-size:15px;font-weight:700;pointer-events:none">🔇 הקש להפעלת קול · Tap for sound</div>
 <div id="panel" class="ov"><div class="box"><h3>📊 מה האלגוריתם למד עליך</h3><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
 <div id="toast"></div>
 <script>
@@ -328,7 +323,11 @@ const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)activat
 // ---------- ממשק ----------
 const $=id=>document.getElementById(id);let tt;
 function toast(m){const t=$("toast");t.textContent=m;t.classList.add("on");clearTimeout(tt);tt=setTimeout(()=>t.classList.remove("on"),1800)}
-document.querySelectorAll("#start .langs button").forEach(b=>b.onclick=()=>{LANGS=b.dataset.l.split(",");initAudio();$("start").remove();for(let i=0;i<3;i++)add();requestAnimationFrame(tick)});
+// התחלה אוטומטית בשתי השפות. הדפדפן מתיר קול רק אחרי נגיעה ראשונה
+LANGS=["he","en"];player.muted=true;for(let i=0;i<3;i++)add();requestAnimationFrame(tick);
+const unlock=()=>{document.removeEventListener("pointerdown",unlock,true);const t=$("tap");if(t)t.remove();initAudio();player.muted=muted;
+  if(cur&&!cur.it.quiz){player.play().catch(()=>{});let h=0;for(const ch of cur.it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h)}};
+document.addEventListener("pointerdown",unlock,true);
 $("btnSound").onclick=()=>{muted=!muted;player.muted=muted;if(master)master.gain.value=muted?0:1;$("btnSound").textContent=muted?"🔇":"🔊"};
 $("btnStats").onclick=()=>{
   const max=Math.max(...Object.keys(CATS).map(w));
