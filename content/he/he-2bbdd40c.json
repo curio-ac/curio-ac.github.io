@@ -1,0 +1,405 @@
+{
+ "id": "he-2bbdd40c",
+ "lang": "he",
+ "title": "הסוד המדהים של הזיקית",
+ "cat": "biology",
+ "emoji": "🦎",
+ "sentences": [
+  "עיני הזיקית רואות שתי תמונות שונות בו-זמנית.",
+  "היא מסוגלת להניע כל עין לכיוון אחר באופן עצמאי.",
+  "לשונה הארוכה נשלחת אל הטרף במהירות של 0.07 שניות.",
+  "למרות שאין לה אוזן חיצונית, היא שומעת בטווח 200–600 הרץ.",
+  "גופה הפחוס מאפשר לה להתמתח ולהתכווץ בהתאם לסביבה.",
+  "הזיקונית הננסית היא הזוחל הקטן ביותר בעולם, באורך 30 מ\"מ."
+ ],
+ "tim": {
+  "w": [
+   [
+    "עיני",
+    0.08,
+    0.24
+   ],
+   [
+    "הזיקית",
+    0.24,
+    0.56
+   ],
+   [
+    "רואות",
+    0.58,
+    0.82
+   ],
+   [
+    "שתי",
+    0.9,
+    1.0
+   ],
+   [
+    "תמונות",
+    1.0,
+    1.36
+   ],
+   [
+    "שונות",
+    1.36,
+    1.68
+   ],
+   [
+    "בו-זמנית.",
+    1.68,
+    2.22
+   ],
+   [
+    "היא",
+    2.62,
+    2.64
+   ],
+   [
+    "מסוגלת",
+    2.64,
+    3.16
+   ],
+   [
+    "להניע",
+    3.16,
+    3.52
+   ],
+   [
+    "כל",
+    3.52,
+    3.7
+   ],
+   [
+    "עין",
+    3.7,
+    4.04
+   ],
+   [
+    "לכיוון",
+    4.04,
+    4.34
+   ],
+   [
+    "אחר",
+    4.34,
+    4.54
+   ],
+   [
+    "באופן",
+    4.54,
+    4.86
+   ],
+   [
+    "עצמאי.",
+    4.86,
+    5.2
+   ],
+   [
+    "לשונה",
+    5.58,
+    5.84
+   ],
+   [
+    "הארוכה",
+    5.84,
+    6.3
+   ],
+   [
+    "נשלחת",
+    6.3,
+    6.76
+   ],
+   [
+    "אל",
+    6.76,
+    6.86
+   ],
+   [
+    "הטרף",
+    6.86,
+    7.18
+   ],
+   [
+    "במהירות",
+    7.22,
+    7.72
+   ],
+   [
+    "של",
+    7.72,
+    7.86
+   ],
+   [
+    "0.07",
+    7.86,
+    8.82
+   ],
+   [
+    "שניות.",
+    8.82,
+    9.56
+   ],
+   [
+    "למרות",
+    9.92,
+    10.24
+   ],
+   [
+    "שאין",
+    10.24,
+    10.6
+   ],
+   [
+    "לה",
+    10.6,
+    10.72
+   ],
+   [
+    "אוזן",
+    10.76,
+    10.96
+   ],
+   [
+    "חיצונית,",
+    10.96,
+    11.58
+   ],
+   [
+    "היא",
+    11.86,
+    11.96
+   ],
+   [
+    "שומעת",
+    11.96,
+    12.3
+   ],
+   [
+    "בטווח",
+    12.3,
+    12.58
+   ],
+   [
+    "200–600",
+    12.6,
+    13.28
+   ],
+   [
+    "הרץ.",
+    13.28,
+    13.5
+   ],
+   [
+    "גופה",
+    14.08,
+    14.32
+   ],
+   [
+    "הפחוס",
+    14.32,
+    14.72
+   ],
+   [
+    "מאפשר",
+    14.72,
+    15.12
+   ],
+   [
+    "לה",
+    15.12,
+    15.26
+   ],
+   [
+    "להתמתח",
+    15.26,
+    15.78
+   ],
+   [
+    "ולהתכווץ",
+    15.78,
+    16.26
+   ],
+   [
+    "בהתאם",
+    16.28,
+    16.7
+   ],
+   [
+    "לסביבה.",
+    16.7,
+    17.18
+   ],
+   [
+    "הזיקונית",
+    17.58,
+    18.02
+   ],
+   [
+    "הננסית",
+    18.02,
+    18.52
+   ],
+   [
+    "היא",
+    18.52,
+    18.64
+   ],
+   [
+    "הזוחל",
+    18.64,
+    18.98
+   ],
+   [
+    "הקטן",
+    18.98,
+    19.34
+   ],
+   [
+    "ביותר",
+    19.34,
+    19.68
+   ],
+   [
+    "בעולם,",
+    19.68,
+    20.14
+   ],
+   [
+    "באורך",
+    20.14,
+    20.44
+   ],
+   [
+    "30",
+    20.64,
+    20.74
+   ],
+   [
+    "מ\"מ.",
+    20.74,
+    21.0
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   35,
+   43
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Chamaeleon_MS5669.jpg/960px-Chamaeleon_MS5669.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Marco Schmidt [1]",
+   "page": "https://commons.wikimedia.org/wiki/File:Chamaeleon_MS5669.jpg",
+   "desc": "Chamaeleon MS5669 — Furcifer pardalis, between Diego Suarez and Ankarana, N Madagascar"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Calumma_Parsonii_Ste_Marie_Madagascar.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "JialiangGao www.peace-on-earth.org",
+   "page": "https://commons.wikimedia.org/wiki/File:Calumma_Parsonii_Ste_Marie_Madagascar.jpg",
+   "desc": "Calumma Parsonii Ste Marie Madagascar — A Parson's chameleon (Calumma parsonii) at the Island of Sainte Marie, Madagascar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg/960px-Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Garst, Warren, 1922-2016, photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg",
+   "desc": "Chameleon catching prey - DPLA - be0b8c96f3ee6b396f72d0578fbcc1c0 — 35 mm slide; color. Scientific Classification: Kingdom: Animalia; Phylum: Chordata; Class: Reptilia; Order: Squamata; Family: Chamaelonidae; Genus: Chamaelo; Genus species: Chamaelo sp. Animal"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chameleon_-_Tanzania_-_Usambara_Mountains.jpg/960px-Chameleon_-_Tanzania_-_Usambara_Mountains.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 539,
+   "license": "CC BY 2.0",
+   "artist": "User Ales.kocourek on en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Chameleon_-_Tanzania_-_Usambara_Mountains.jpg",
+   "desc": "Chameleon - Tanzania - Usambara Mountains — A West Usambara Two-horned Chameleon (two horns), in the Usambara Mountains, Tanzania"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamaeleo_namaquensis_%28Namib-Naukluft%2C_2011%29.jpg/960px-Chamaeleo_namaquensis_%28Namib-Naukluft%2C_2011%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Yathin S Krishnappa",
+   "page": "https://commons.wikimedia.org/wiki/File:Chamaeleo_namaquensis_(Namib-Naukluft,_2011).jpg",
+   "desc": "Chamaeleo namaquensis (Namib-Naukluft, 2011) — A Namaqua chameleon in threat display, Namib desert, Namibia. The chameleon was in the middle of a highway C14 and was approached to be moved off the road. The chameleon then changed its color to black and display"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juvenile_Brookesia_micra_on_finger_tip.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 2.5",
+   "artist": "Frank Glaw, Jörn Köhler, Ted M. Townsend, Miguel Vences",
+   "page": "https://commons.wikimedia.org/wiki/File:Juvenile_Brookesia_micra_on_finger_tip.png",
+   "desc": "Juvenile Brookesia micra on finger tip — A juvenile Brookesia micra standing on a human finger tip."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "chameleon eyes",
+   "box": [
+    454,
+    768,
+    545,
+    826
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 0.07,
+   "unit": "שניות",
+   "label": "מהירות שליחת לשון"
+  },
+  {
+   "type": "stat",
+   "value": 200,
+   "unit": "הרץ",
+   "label": "טווח שמיעה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.03,
+   "dim": "length",
+   "unit_value_in": "m"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "זיקיתיים",
+  "url": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%A7%D7%99%D7%AA%D7%99%D7%99%D7%9D",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (piper)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

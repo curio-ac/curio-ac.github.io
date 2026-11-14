@@ -1,0 +1,341 @@
+{
+ "id": "he-7732a9ed",
+ "lang": "he",
+ "title": "ההר הכי גבוה בעולם?",
+ "cat": "geography",
+ "emoji": "🏔️",
+ "sentences": [
+  "האוורסט הוא לא בהכרח ההר הגבוה ביותר בעולם.",
+  "הוא מתנשא לגובה של 8,848.86 מטרים על גבול נפאל וטיבט.",
+  "השם הטיבטי שלו הוא 'אלת אם העולם'.",
+  "השם המוכר ניתן על שם המודד הבריטי ג'ורג' איוורסט.",
+  "אבל הר מאונה קיאה בהוואי גבוה ממנו אם מודדים מקרקעית האוקיינוס."
+ ],
+ "tim": {
+  "w": [
+   [
+    "האוורסט",
+    0.08,
+    0.78
+   ],
+   [
+    "הוא",
+    0.88,
+    0.98
+   ],
+   [
+    "לא",
+    0.98,
+    1.26
+   ],
+   [
+    "בהכרח",
+    1.26,
+    1.92
+   ],
+   [
+    "ההר",
+    1.92,
+    2.44
+   ],
+   [
+    "הגבוה",
+    2.44,
+    2.9
+   ],
+   [
+    "ביותר",
+    2.9,
+    3.38
+   ],
+   [
+    "בעולם.",
+    3.38,
+    3.7
+   ],
+   [
+    "הוא",
+    4.52,
+    4.62
+   ],
+   [
+    "מתנשא",
+    4.62,
+    5.14
+   ],
+   [
+    "לגובה",
+    5.14,
+    5.52
+   ],
+   [
+    "של",
+    5.52,
+    5.74
+   ],
+   [
+    "8,848.86",
+    5.98,
+    8.88
+   ],
+   [
+    "מטרים",
+    8.88,
+    9.98
+   ],
+   [
+    "על",
+    9.98,
+    10.46
+   ],
+   [
+    "גבול",
+    10.46,
+    10.76
+   ],
+   [
+    "נפאל",
+    10.76,
+    11.24
+   ],
+   [
+    "וטיבט.",
+    11.24,
+    11.34
+   ],
+   [
+    "השם",
+    12.72,
+    12.92
+   ],
+   [
+    "הטיבטי",
+    12.92,
+    13.44
+   ],
+   [
+    "שלו",
+    13.44,
+    13.76
+   ],
+   [
+    "הוא",
+    13.76,
+    13.94
+   ],
+   [
+    "'אלת",
+    13.94,
+    14.62
+   ],
+   [
+    "אם",
+    14.76,
+    14.9
+   ],
+   [
+    "העולם'.",
+    14.9,
+    15.38
+   ],
+   [
+    "השם",
+    16.2,
+    16.4
+   ],
+   [
+    "המוכר",
+    16.4,
+    16.9
+   ],
+   [
+    "ניתן",
+    16.9,
+    17.24
+   ],
+   [
+    "על",
+    17.24,
+    17.34
+   ],
+   [
+    "שם",
+    17.34,
+    17.56
+   ],
+   [
+    "המודד",
+    17.56,
+    17.96
+   ],
+   [
+    "הבריטי",
+    17.96,
+    18.44
+   ],
+   [
+    "ג'ורג'",
+    18.44,
+    18.84
+   ],
+   [
+    "איוורסט.",
+    19.0,
+    19.18
+   ],
+   [
+    "אבל",
+    20.12,
+    20.22
+   ],
+   [
+    "הר",
+    20.22,
+    20.5
+   ],
+   [
+    "מאונה",
+    20.5,
+    21.0
+   ],
+   [
+    "קיאה",
+    21.0,
+    21.5
+   ],
+   [
+    "בהוואי",
+    21.5,
+    22.18
+   ],
+   [
+    "גבוה",
+    22.46,
+    22.88
+   ],
+   [
+    "ממנו",
+    22.88,
+    23.28
+   ],
+   [
+    "אם",
+    23.54,
+    23.64
+   ],
+   [
+    "מודדים",
+    23.64,
+    24.02
+   ],
+   [
+    "מקרקעית",
+    24.02,
+    24.58
+   ],
+   [
+    "האוקיינוס.",
+    24.58,
+    25.24
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   25,
+   34
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg/960px-Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 391,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mount_Everest_as_seen_from_Drukair2.jpg: shrimpo1967 derivative work: Papa Lima ",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg",
+   "desc": "Mount Everest as seen from Drukair2 PLW edit — View northward to Mount Everest from an aircraft from airline company Drukair in Bhutan. The aircraft is south of the mountains, directed north. Mount Everest is above the ridge connecting Nuptse and Lhotse."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006_edit_1.jpg/960px-Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006_edit_1.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Luca Galuzzi (Lucag)",
+   "page": "https://commons.wikimedia.org/wiki/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006_edit_1.jpg",
+   "desc": "Everest North Face toward Base Camp Tibet Luca Galuzzi 2006 edit 1 — Mount Everest North Face as seen from the path to the base camp, Tibet."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_George_Everest.jpg/960px-Sir_George_Everest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Singh.abhinav 021",
+   "page": "https://commons.wikimedia.org/wiki/File:Sir_George_Everest.jpg",
+   "desc": "Sir George Everest — Some history learnt!!"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Volcanic_Cones_and_Radio_Telescope_on_Mauna_Kea_volcano_in_Hawaii_2006.jpg/960px-Volcanic_Cones_and_Radio_Telescope_on_Mauna_Kea_volcano_in_Hawaii_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Steve Cadman (https://www.flickr.com/people/stevecadman/)",
+   "page": "https://commons.wikimedia.org/wiki/File:Volcanic_Cones_and_Radio_Telescope_on_Mauna_Kea_volcano_in_Hawaii_2006.jpg",
+   "desc": "Volcanic Cones and Radio Telescope on Mauna Kea volcano in Hawaii 2006 — Volcanic cones and a radio telescope on Mauna Kea volcano in Hawaii."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 8848.86,
+   "unit": "מטרים",
+   "label": "גובה האוורסט"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "George Everest",
+   "box": [
+    163,
+    467,
+    245,
+    532
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 10203,
+   "dim": "length",
+   "unit_value_in": "m"
+  }
+ ],
+ "geo": [
+  27.988,
+  86.925
+ ],
+ "source": {
+  "title": "אוורסט",
+  "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%95%D7%A8%D7%A1%D7%98",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

@@ -1,0 +1,348 @@
+{
+ "id": "he-a8f4262b",
+ "lang": "he",
+ "title": "הסוד הלוהט של כדור הארץ",
+ "cat": "geography",
+ "emoji": "🌋",
+ "sentences": [
+  "הרי געש הם ביטוי לחום עצום בתוך כדור הארץ.",
+  "המאגמה עולה למעלה כי היא פחות צפופה מסלע מוצק.",
+  "היא פורצת דרך סדקים בקרום כדור הארץ בהתפרצות געשית.",
+  "המונח וולקנו מגיע מהר געש באיטליה בשם וולקנו.",
+  "וולקן הוא גם שמו של אל האש במיתולוגיה הרומית.",
+  "חקר הרי געש נקרא וולקנולוגיה, ענף במדעי הגאולוגיה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הרי",
+    0.08,
+    0.28
+   ],
+   [
+    "געש",
+    0.28,
+    0.46
+   ],
+   [
+    "הם",
+    0.46,
+    0.56
+   ],
+   [
+    "ביטוי",
+    0.56,
+    0.96
+   ],
+   [
+    "לחום",
+    0.96,
+    1.18
+   ],
+   [
+    "עצום",
+    1.18,
+    1.4
+   ],
+   [
+    "בתוך",
+    1.4,
+    1.7
+   ],
+   [
+    "כדור",
+    1.9,
+    2.08
+   ],
+   [
+    "הארץ.",
+    2.08,
+    2.48
+   ],
+   [
+    "המאגמה",
+    3.02,
+    3.48
+   ],
+   [
+    "עולה",
+    3.48,
+    3.76
+   ],
+   [
+    "למעלה",
+    3.76,
+    4.14
+   ],
+   [
+    "כי",
+    4.14,
+    4.44
+   ],
+   [
+    "היא",
+    4.44,
+    4.54
+   ],
+   [
+    "פחות",
+    4.54,
+    4.78
+   ],
+   [
+    "צפופה",
+    5.02,
+    5.14
+   ],
+   [
+    "מסלע",
+    5.14,
+    5.54
+   ],
+   [
+    "מוצק.",
+    5.54,
+    5.7
+   ],
+   [
+    "היא",
+    6.06,
+    6.12
+   ],
+   [
+    "פורצת",
+    6.12,
+    6.48
+   ],
+   [
+    "דרך",
+    6.48,
+    6.68
+   ],
+   [
+    "סדקים",
+    6.68,
+    7.1
+   ],
+   [
+    "בקרום",
+    7.1,
+    7.48
+   ],
+   [
+    "כדור",
+    7.48,
+    7.84
+   ],
+   [
+    "הארץ",
+    7.84,
+    8.32
+   ],
+   [
+    "בהתפרצות",
+    8.52,
+    8.86
+   ],
+   [
+    "געשית.",
+    8.86,
+    9.26
+   ],
+   [
+    "המונח",
+    9.82,
+    10.18
+   ],
+   [
+    "וולקנו",
+    10.26,
+    10.62
+   ],
+   [
+    "מגיע",
+    10.62,
+    11.0
+   ],
+   [
+    "מהר",
+    11.0,
+    11.32
+   ],
+   [
+    "געש",
+    11.32,
+    11.64
+   ],
+   [
+    "באיטליה",
+    11.66,
+    12.08
+   ],
+   [
+    "בשם",
+    12.08,
+    12.52
+   ],
+   [
+    "וולקנו.",
+    12.52,
+    13.2
+   ],
+   [
+    "וולקן",
+    13.58,
+    13.88
+   ],
+   [
+    "הוא",
+    13.88,
+    13.96
+   ],
+   [
+    "גם",
+    13.96,
+    14.12
+   ],
+   [
+    "שמו",
+    14.12,
+    14.42
+   ],
+   [
+    "של",
+    14.42,
+    14.56
+   ],
+   [
+    "אל",
+    14.56,
+    14.78
+   ],
+   [
+    "האש",
+    14.78,
+    15.08
+   ],
+   [
+    "במיתולוגיה",
+    15.08,
+    15.72
+   ],
+   [
+    "הרומית.",
+    15.72,
+    16.06
+   ],
+   [
+    "חקר",
+    16.54,
+    16.8
+   ],
+   [
+    "הרי",
+    16.8,
+    16.96
+   ],
+   [
+    "געש",
+    16.96,
+    17.22
+   ],
+   [
+    "נקרא",
+    17.24,
+    17.6
+   ],
+   [
+    "וולקנולוגיה,",
+    17.6,
+    18.25
+   ],
+   [
+    "ענף",
+    19.14,
+    19.24
+   ],
+   [
+    "במדעי",
+    19.24,
+    19.62
+   ],
+   [
+    "הגאולוגיה.",
+    19.62,
+    19.98
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   27,
+   35,
+   44
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gilbert_laccolite_dome.jpg/960px-Gilbert_laccolite_dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 380,
+   "license": "Public domain",
+   "artist": "Grove Karl Gilbert (1843-1918)",
+   "page": "https://commons.wikimedia.org/wiki/File:Gilbert_laccolite_dome.jpg",
+   "desc": "Gilbert laccolite dome — Drawing of Mount Ellsworth (Utah, US) and the dome structure in rock layers around it, by geologist Grove Kral Gilbert in 1877. Mount Ellsworth consists of a laccolite, a big body of intruded and solidified magma. Overly"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dr._Carmine_Minopoli%2C_INGV.jpg/960px-Dr._Carmine_Minopoli%2C_INGV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Francesco Guerra Photo",
+   "page": "https://commons.wikimedia.org/wiki/File:Dr._Carmine_Minopoli,_INGV.jpg",
+   "desc": "Dr. Carmine Minopoli, INGV — Portrait of Carmine Minopoli of INGV standing before Pisciarelli Caldera in Phlegraean Fields"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "הר געש",
+  "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A8_%D7%92%D7%A2%D7%A9",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (piper)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

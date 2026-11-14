@@ -1,0 +1,335 @@
+{
+ "id": "he-f306209c",
+ "lang": "he",
+ "title": "הסוד של לאונרדו דה וינצ'י",
+ "cat": "history",
+ "emoji": "🎨",
+ "sentences": [
+  "אמו של לאונרדו דה וינצ'י הייתה שפחה.",
+  "הוא נולד ב-1452 כילד לא חוקי בכפר קטן בטוסקנה.",
+  "ללאונרדו לא היה שם משפחה במובן המודרני שלנו.",
+  "השם 'דה וינצ'י' פשוט אומר 'מווינצ'י'.",
+  "הוא היה גאון אוניברסלי: מדען, מהנדס וצייר דגול.",
+  "פרופ' קרלו וצ'ה טוען שאמו הייתה שפחה צ'רקסית-יהודית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "אמו",
+    0,
+    0.28
+   ],
+   [
+    "של",
+    0.28,
+    0.46
+   ],
+   [
+    "לאונרדו",
+    0.46,
+    1.02
+   ],
+   [
+    "דה",
+    1.02,
+    1.14
+   ],
+   [
+    "וינצ'י",
+    1.14,
+    1.66
+   ],
+   [
+    "הייתה",
+    1.66,
+    2.12
+   ],
+   [
+    "שפחה.",
+    2.12,
+    2.64
+   ],
+   [
+    "הוא",
+    3.3,
+    3.4
+   ],
+   [
+    "נולד",
+    3.4,
+    3.7
+   ],
+   [
+    "ב-1452",
+    3.7,
+    5.34
+   ],
+   [
+    "כילד",
+    5.34,
+    6.12
+   ],
+   [
+    "לא",
+    6.12,
+    6.26
+   ],
+   [
+    "חוקי",
+    6.26,
+    6.72
+   ],
+   [
+    "בכפר",
+    6.72,
+    7.16
+   ],
+   [
+    "קטן",
+    7.16,
+    7.58
+   ],
+   [
+    "בטוסקנה.",
+    7.58,
+    8.68
+   ],
+   [
+    "ללאונרדו",
+    9.06,
+    9.74
+   ],
+   [
+    "לא",
+    9.74,
+    9.92
+   ],
+   [
+    "היה",
+    9.92,
+    10.2
+   ],
+   [
+    "שם",
+    10.2,
+    10.52
+   ],
+   [
+    "משפחה",
+    10.52,
+    11.0
+   ],
+   [
+    "במובן",
+    11.0,
+    11.44
+   ],
+   [
+    "המודרני",
+    11.44,
+    11.96
+   ],
+   [
+    "שלנו.",
+    11.96,
+    12.32
+   ],
+   [
+    "השם",
+    12.94,
+    13.24
+   ],
+   [
+    "'דה",
+    13.24,
+    13.4
+   ],
+   [
+    "וינצ'י'",
+    13.4,
+    13.94
+   ],
+   [
+    "פשוט",
+    14.0,
+    14.28
+   ],
+   [
+    "אומר",
+    14.28,
+    14.52
+   ],
+   [
+    "'מווינצ'י'.",
+    14.52,
+    15.27
+   ],
+   [
+    "הוא",
+    16.26,
+    16.28
+   ],
+   [
+    "היה",
+    16.28,
+    16.5
+   ],
+   [
+    "גאון",
+    16.5,
+    17.06
+   ],
+   [
+    "אוניברסלי:",
+    17.06,
+    17.9
+   ],
+   [
+    "מדען,",
+    18.34,
+    18.44
+   ],
+   [
+    "מהנדס",
+    18.88,
+    19.44
+   ],
+   [
+    "וצייר",
+    19.44,
+    20.16
+   ],
+   [
+    "דגול.",
+    20.16,
+    20.62
+   ],
+   [
+    "פרופ'",
+    21.26,
+    21.68
+   ],
+   [
+    "קרלו",
+    21.86,
+    22.1
+   ],
+   [
+    "וצ'ה",
+    22.1,
+    22.54
+   ],
+   [
+    "טוען",
+    22.54,
+    23.02
+   ],
+   [
+    "שאמו",
+    23.02,
+    23.52
+   ],
+   [
+    "הייתה",
+    23.52,
+    23.84
+   ],
+   [
+    "שפחה",
+    23.84,
+    24.22
+   ],
+   [
+    "צ'רקסית-יהודית.",
+    24.22,
+    25.32
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   30,
+   38
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/VinciSantAmato1.jpg/960px-VinciSantAmato1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY-SA 4.0",
+   "artist": "LigaDue",
+   "page": "https://commons.wikimedia.org/wiki/File:VinciSantAmato1.jpg",
+   "desc": "VinciSantAmato1 — Sant'Amato (Villa), Village of Vinci, Tuscany, Italy"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/IMG_4302_-_Milano%2C_Monumento_a_Leonardo_-_Leonardo_progetta_il_cavallo_sforzesco_-_Foto_Giovanni_Dall%27Orto_20-jan_2007.jpg/960px-IMG_4302_-_Milano%2C_Monumento_a_Leonardo_-_Leonardo_progetta_il_cavallo_sforzesco_-_Foto_Giovanni_Dall%27Orto_20-jan_2007.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1084,
+   "license": "Attribution",
+   "artist": "G.dallorto",
+   "page": "https://commons.wikimedia.org/wiki/File:IMG_4302_-_Milano,_Monumento_a_Leonardo_-_Leonardo_progetta_il_cavallo_sforzesco_-_Foto_Giovanni_Dall%27Orto_20-jan_2007.jpg",
+   "desc": "IMG 4302 - Milano, Monumento a Leonardo - Leonardo progetta il cavallo sforzesco - Foto Giovanni Dall'Orto 20-jan 2007 — The monument to Leonardo da Vinci in Piazza della Scala in Milan, Italy. Detail: Leonardo shows Ludovico Sforza his sculpture of the \"Sforz"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/960px-Francesco_Melzi_-_Portrait_of_Leonardo.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1031,
+   "license": "Public domain",
+   "artist": "Attributed to Francesco Melzi",
+   "page": "https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo.png",
+   "desc": "Francesco Melzi - Portrait of Leonardo — "
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1452
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Leonardo da Vinci portrait",
+   "box": [
+    426,
+    350,
+    873,
+    646
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "לאונרדו דה וינצ'י",
+  "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%90%D7%95%D7%A0%D7%A8%D7%93%D7%95_%D7%93%D7%94_%D7%95%D7%99%D7%A0%D7%A6%27%D7%99",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

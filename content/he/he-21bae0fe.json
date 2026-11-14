@@ -1,0 +1,352 @@
+{
+ "id": "he-21bae0fe",
+ "lang": "he",
+ "title": "המהפכה של הפניצילין",
+ "cat": "medicine",
+ "emoji": "💊",
+ "sentences": [
+  "פניצילין הצילה מיליוני אנשים מזיהומים קטלניים.",
+  "התרופה הזו היא קבוצת אנטיביוטיקה מסוג בטא לקטם.",
+  "היא מופרשת באופן טבעי על ידי פטריית העובש פניציליום.",
+  "אלכסנדר פלמינג גילה אותה בשנת 1928.",
+  "הווארד פלורי וארנסט בוריס צ'יין זיקקו אותה לשימוש קליני.",
+  "זו האנטיביוטיקה הראשונה שנתגלתה אי פעם."
+ ],
+ "tim": {
+  "w": [
+   [
+    "פניצילין",
+    0,
+    0.76
+   ],
+   [
+    "הצילה",
+    0.76,
+    1.38
+   ],
+   [
+    "מיליוני",
+    1.38,
+    1.94
+   ],
+   [
+    "אנשים",
+    1.94,
+    2.36
+   ],
+   [
+    "מזיהומים",
+    2.36,
+    3.1
+   ],
+   [
+    "קטלניים.",
+    3.1,
+    3.78
+   ],
+   [
+    "התרופה",
+    4.48,
+    4.82
+   ],
+   [
+    "הזו",
+    4.82,
+    5.28
+   ],
+   [
+    "היא",
+    5.28,
+    5.42
+   ],
+   [
+    "קבוצת",
+    5.5,
+    5.82
+   ],
+   [
+    "אנטיביוטיקה",
+    5.82,
+    6.68
+   ],
+   [
+    "מסוג",
+    6.68,
+    7.16
+   ],
+   [
+    "בטא",
+    7.16,
+    7.6
+   ],
+   [
+    "לקטם.",
+    7.6,
+    7.98
+   ],
+   [
+    "היא",
+    8.6,
+    8.68
+   ],
+   [
+    "מופרשת",
+    8.68,
+    9.24
+   ],
+   [
+    "באופן",
+    9.3,
+    9.6
+   ],
+   [
+    "טבעי",
+    9.6,
+    10.16
+   ],
+   [
+    "על",
+    10.34,
+    10.44
+   ],
+   [
+    "ידי",
+    10.44,
+    10.64
+   ],
+   [
+    "פטריית",
+    10.64,
+    11.22
+   ],
+   [
+    "העובש",
+    11.22,
+    11.7
+   ],
+   [
+    "פניציליום.",
+    11.7,
+    12.4
+   ],
+   [
+    "אלכסנדר",
+    13.18,
+    13.72
+   ],
+   [
+    "פלמינג",
+    13.72,
+    14.3
+   ],
+   [
+    "גילה",
+    14.42,
+    14.7
+   ],
+   [
+    "אותה",
+    14.78,
+    14.88
+   ],
+   [
+    "בשנת",
+    14.88,
+    15.26
+   ],
+   [
+    "1928.",
+    15.26,
+    16.48
+   ],
+   [
+    "הווארד",
+    17.38,
+    17.7
+   ],
+   [
+    "פלורי",
+    17.78,
+    18.14
+   ],
+   [
+    "וארנסט",
+    18.72,
+    18.82
+   ],
+   [
+    "בוריס",
+    18.82,
+    19.12
+   ],
+   [
+    "צ'יין",
+    19.12,
+    19.54
+   ],
+   [
+    "זיקקו",
+    19.54,
+    20.3
+   ],
+   [
+    "אותה",
+    20.3,
+    20.52
+   ],
+   [
+    "לשימוש",
+    20.52,
+    20.96
+   ],
+   [
+    "קליני.",
+    20.96,
+    21.3
+   ],
+   [
+    "זו",
+    21.96,
+    22.06
+   ],
+   [
+    "האנטיביוטיקה",
+    22.06,
+    22.86
+   ],
+   [
+    "הראשונה",
+    22.86,
+    23.46
+   ],
+   [
+    "שנתגלתה",
+    23.46,
+    24.3
+   ],
+   [
+    "אי",
+    24.42,
+    24.62
+   ],
+   [
+    "פעם.",
+    24.62,
+    24.84
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   23,
+   29,
+   38
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Diagram_illustrating_high_potency_of_penicillin_Wellcome_L0012314.jpg/960px-Diagram_illustrating_high_potency_of_penicillin_Wellcome_L0012314.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 509,
+   "license": "CC BY 4.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Diagram_illustrating_high_potency_of_penicillin_Wellcome_L0012314.jpg",
+   "desc": "Diagram illustrating high potency of penicillin Wellcome L0012314 — Diagram illustrating high potency of penicillin when first partially purified Iconographic Collections"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1st_gen.png/960px-1st_gen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 106,
+   "license": "CC BY-SA 3.0",
+   "artist": "Keeperoftheforest",
+   "page": "https://commons.wikimedia.org/wiki/File:1st_gen.png",
+   "desc": "1st gen — 3 chemical structures of 1st generation"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Penicillin-biosynthesis.png/960px-Penicillin-biosynthesis.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 921,
+   "license": "CC BY-SA 3.0",
+   "artist": "Cacycle",
+   "page": "https://commons.wikimedia.org/wiki/File:Penicillin-biosynthesis.png",
+   "desc": "Penicillin-biosynthesis — Penicillin biosynthesis"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nobelpristagare_Fleming_Midi.jpg/960px-Nobelpristagare_Fleming_Midi.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Nobelpristagare_Fleming_Midi.jpg",
+   "desc": "Nobelpristagare Fleming Midi — Alexander Fleming receives the Nobel Prize from King Gustaf V of Sweden."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ernst_Boris_Chain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 887,
+   "license": "CC BY 4.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Ernst_Boris_Chain.jpg",
+   "desc": "Ernst Boris Chain — Group portrait(back row, left to right) Selman Waksman, Howard Florey, Jacques Tréfouël, Ernst Boris Chain, Andre Gratia, (front row left to right) Pierre Fredericq and Maurice Welsch. Taken by unknown photographer at Ox"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BB%D0%B5%D1%81%D0%BD%D0%B5%D0%B2%D1%8B%D1%85_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%BF%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B5.jpg/960px-%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BB%D0%B5%D1%81%D0%BD%D0%B5%D0%B2%D1%8B%D1%85_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%BF%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Andrei Trigubovich",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BB%D0%B5%D1%81%D0%BD%D0%B5%D0%B2%D1%8B%D1%85_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%BF%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B5.jpg",
+   "desc": "Колонии плесневых грибов на питательной среде — Colonies of micromycetes or mold fungi on the surface of nutrient agar medium in a Petri dish. On the photo growth of a mixture cultures of the genera Trichoderma, Cladosporium, Penicillium."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Penicillium mold",
+   "box": [
+    73,
+    131,
+    943,
+    869
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1928
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "פניצילין",
+  "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A0%D7%99%D7%A6%D7%99%D7%9C%D7%99%D7%9F",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

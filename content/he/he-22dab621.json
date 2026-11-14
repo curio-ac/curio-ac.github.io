@@ -1,0 +1,381 @@
+{
+ "id": "he-22dab621",
+ "lang": "he",
+ "title": "הקסם מאחורי האור",
+ "cat": "physics",
+ "emoji": "🌈",
+ "sentences": [
+  "קשת בענן היא תופעה אופטית מרתקת.",
+  "אופטיקה חוקרת את התנהגות האור ויחסי הגומלין שלו עם חומר.",
+  "התחום מסביר איך פועלים העין האנושית, המצלמה והטלסקופ.",
+  "אופטיקה עוסקת בספקטרום האלקטרומגנטי, כולל אור נראה, תת-אדום ועל-סגול.",
+  "חלק מהתופעות תלויות בטבע הקוונטי של האור.",
+  "הנדסה אופטית מיישמת את הידע הזה במערכות תאורה וטכנולוגיה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "קשת",
+    0.02,
+    0.3
+   ],
+   [
+    "בענן",
+    0.3,
+    0.92
+   ],
+   [
+    "היא",
+    0.92,
+    1.2
+   ],
+   [
+    "תופעה",
+    1.46,
+    1.8
+   ],
+   [
+    "אופטית",
+    1.9,
+    2.3
+   ],
+   [
+    "מרתקת.",
+    2.3,
+    2.6
+   ],
+   [
+    "אופטיקה",
+    3.76,
+    4.26
+   ],
+   [
+    "חוקרת",
+    4.6,
+    4.78
+   ],
+   [
+    "את",
+    4.78,
+    4.92
+   ],
+   [
+    "התנהגות",
+    4.92,
+    5.46
+   ],
+   [
+    "האור",
+    5.64,
+    5.88
+   ],
+   [
+    "ויחסי",
+    6.12,
+    6.62
+   ],
+   [
+    "הגומלין",
+    6.62,
+    7.06
+   ],
+   [
+    "שלו",
+    7.06,
+    7.38
+   ],
+   [
+    "עם",
+    7.38,
+    7.54
+   ],
+   [
+    "חומר.",
+    7.54,
+    7.88
+   ],
+   [
+    "התחום",
+    8.54,
+    8.9
+   ],
+   [
+    "מסביר",
+    8.9,
+    9.36
+   ],
+   [
+    "איך",
+    9.36,
+    9.56
+   ],
+   [
+    "פועלים",
+    9.64,
+    9.92
+   ],
+   [
+    "העין",
+    9.92,
+    10.48
+   ],
+   [
+    "האנושית,",
+    10.48,
+    11.02
+   ],
+   [
+    "המצלמה",
+    11.76,
+    11.9
+   ],
+   [
+    "והטלסקופ.",
+    11.98,
+    12.62
+   ],
+   [
+    "אופטיקה",
+    13.54,
+    14.02
+   ],
+   [
+    "עוסקת",
+    14.34,
+    14.44
+   ],
+   [
+    "בספקטרום",
+    14.98,
+    15.14
+   ],
+   [
+    "האלקטרומגנטי,",
+    15.14,
+    15.74
+   ],
+   [
+    "כולל",
+    16.46,
+    16.74
+   ],
+   [
+    "אור",
+    16.82,
+    16.98
+   ],
+   [
+    "נראה,",
+    16.98,
+    17.46
+   ],
+   [
+    "תת-אדום",
+    17.82,
+    18.4
+   ],
+   [
+    "ועל-סגול.",
+    18.4,
+    19.02
+   ],
+   [
+    "חלק",
+    19.96,
+    20.16
+   ],
+   [
+    "מהתופעות",
+    20.16,
+    20.88
+   ],
+   [
+    "תלויות",
+    21.12,
+    21.4
+   ],
+   [
+    "בטבע",
+    21.7,
+    21.88
+   ],
+   [
+    "הקוונטי",
+    21.88,
+    22.58
+   ],
+   [
+    "של",
+    22.58,
+    22.72
+   ],
+   [
+    "האור.",
+    22.72,
+    23.42
+   ],
+   [
+    "הנדסה",
+    23.96,
+    24.2
+   ],
+   [
+    "אופטית",
+    24.2,
+    24.62
+   ],
+   [
+    "מיישמת",
+    24.92,
+    25.5
+   ],
+   [
+    "את",
+    25.5,
+    25.6
+   ],
+   [
+    "הידע",
+    25.62,
+    26.02
+   ],
+   [
+    "הזה",
+    26.02,
+    26.2
+   ],
+   [
+    "במערכות",
+    26.36,
+    26.92
+   ],
+   [
+    "תאורה",
+    27.3,
+    27.4
+   ],
+   [
+    "וטכנולוגיה.",
+    27.4,
+    28.14
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   24,
+   33,
+   40
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2013_Rainbow_over_Washfold.jpg/960px-2013_Rainbow_over_Washfold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 353,
+   "license": "CC BY-SA 3.0",
+   "artist": "Kreuzschnabel",
+   "page": "https://commons.wikimedia.org/wiki/File:2013_Rainbow_over_Washfold.jpg",
+   "desc": "2013 Rainbow over Washfold — Rainbow over Washfold, North Yorkshire"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dispersive_Prism_Illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 563,
+   "license": "CC BY-SA 3.0",
+   "artist": "Dispersive_Prism_Illustration_by_Spigget.jpg: Spigget derivative work: Cepheiden",
+   "page": "https://commons.wikimedia.org/wiki/File:Dispersive_Prism_Illustration.jpg",
+   "desc": "Dispersive Prism Illustration — A dispersive equillateral prism refracting and reflecting an incoming beam of uniform white light rendered into the sRGB IEC61966-2.1 color space"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Electromagnetic_Spectrum_illustration_by_the_FDA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "FDA",
+   "page": "https://commons.wikimedia.org/wiki/File:Electromagnetic_Spectrum_illustration_by_the_FDA.jpg",
+   "desc": "Electromagnetic Spectrum illustration by the FDA — Electromagnetic Spectrum illustration by the FDA"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Double-slit_experiment_results_Tonomura_2.jpg/960px-Double-slit_experiment_results_Tonomura_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 2088,
+   "license": "CC BY-SA 3.0",
+   "artist": "user:Belsazar",
+   "page": "https://commons.wikimedia.org/wiki/File:Double-slit_experiment_results_Tonomura_2.jpg",
+   "desc": "Double-slit experiment results Tonomura 2 — Results of a double-slit-experiment performed by Dr. Tonomura showing the build-up of an interference pattern of single electrons. Numbers of electrons are 11 (a), 200 (b), 6000 (c), 40000 (d), 140000 (e)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/MoST_Fiber_Optic_Cable_Display.jpg/960px-MoST_Fiber_Optic_Cable_Display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1082,
+   "license": "CC BY-SA 4.0",
+   "artist": "Winver351",
+   "page": "https://commons.wikimedia.org/wiki/File:MoST_Fiber_Optic_Cable_Display.jpg",
+   "desc": "MoST Fiber Optic Cable Display — A photograph taken at the Museum of Science and Technology located in Syracuse, New York, with an exhibit, from left to right, a fiber cassette, a fiber optic splitter, and a fiber access terminal."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "light beam interaction with matter",
+   "box": [
+    276,
+    341,
+    638,
+    658
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "electromagnetic spectrum",
+   "box": [
+    229,
+    0,
+    714,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "optical engineering system",
+   "box": [
+    101,
+    60,
+    773,
+    837
+   ]
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "אופטיקה",
+  "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A4%D7%98%D7%99%D7%A7%D7%94",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

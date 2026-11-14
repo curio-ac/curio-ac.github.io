@@ -1,0 +1,381 @@
+{
+ "id": "he-ddfced8f",
+ "lang": "he",
+ "title": "הגיהנום של מערכת השמש",
+ "cat": "space",
+ "emoji": "🔥",
+ "sentences": [
+  "בנוגה חם מספיק כדי להתיך עופרת.",
+  "זהו כוכב הלכת השני מהשמש, אחרי כוכב חמה.",
+  "הוא דומה מאוד בגודלו ובהרכבו לכדור הארץ.",
+  "האטמוספירה הסמיכה שלו שומרת על חום קיצוני של מעל 500 מעלות.",
+  "נוגה מסתובב סביב עצמו לאחור, ממזרח למערב.",
+  "אין לו ירחים, אך הוא מאיר חזק יותר מכל כוכב אחר."
+ ],
+ "tim": {
+  "w": [
+   [
+    "בנוגה",
+    0.06,
+    0.56
+   ],
+   [
+    "חם",
+    0.56,
+    0.92
+   ],
+   [
+    "מספיק",
+    0.92,
+    1.46
+   ],
+   [
+    "כדי",
+    1.7,
+    1.9
+   ],
+   [
+    "להתיך",
+    1.9,
+    2.44
+   ],
+   [
+    "עופרת.",
+    2.44,
+    2.84
+   ],
+   [
+    "זהו",
+    3.86,
+    4.16
+   ],
+   [
+    "כוכב",
+    4.16,
+    4.56
+   ],
+   [
+    "הלכת",
+    4.56,
+    5.08
+   ],
+   [
+    "השני",
+    5.08,
+    5.52
+   ],
+   [
+    "מהשמש,",
+    5.52,
+    6.2
+   ],
+   [
+    "אחרי",
+    6.74,
+    7.08
+   ],
+   [
+    "כוכב",
+    7.08,
+    7.54
+   ],
+   [
+    "חמה.",
+    7.54,
+    7.88
+   ],
+   [
+    "הוא",
+    8.76,
+    8.86
+   ],
+   [
+    "דומה",
+    8.86,
+    9.18
+   ],
+   [
+    "מאוד",
+    9.18,
+    9.62
+   ],
+   [
+    "בגודלו",
+    9.62,
+    10.32
+   ],
+   [
+    "ובהרכבו",
+    10.32,
+    11.18
+   ],
+   [
+    "לכדור",
+    11.18,
+    11.68
+   ],
+   [
+    "הארץ.",
+    11.68,
+    12.12
+   ],
+   [
+    "האטמוספירה",
+    13.22,
+    13.94
+   ],
+   [
+    "הסמיכה",
+    13.94,
+    14.58
+   ],
+   [
+    "שלו",
+    14.58,
+    14.98
+   ],
+   [
+    "שומרת",
+    14.98,
+    15.8
+   ],
+   [
+    "על",
+    15.8,
+    15.92
+   ],
+   [
+    "חום",
+    15.92,
+    16.22
+   ],
+   [
+    "קיצוני",
+    16.22,
+    16.82
+   ],
+   [
+    "של",
+    16.82,
+    17.08
+   ],
+   [
+    "מעל",
+    17.08,
+    17.52
+   ],
+   [
+    "500",
+    17.52,
+    18.06
+   ],
+   [
+    "מעלות.",
+    18.06,
+    18.68
+   ],
+   [
+    "נוגה",
+    19.94,
+    20.22
+   ],
+   [
+    "מסתובב",
+    20.22,
+    20.86
+   ],
+   [
+    "סביב",
+    20.86,
+    21.22
+   ],
+   [
+    "עצמו",
+    21.22,
+    21.66
+   ],
+   [
+    "לאחור,",
+    21.66,
+    22.22
+   ],
+   [
+    "ממזרח",
+    22.66,
+    23.28
+   ],
+   [
+    "למערב.",
+    23.28,
+    23.74
+   ],
+   [
+    "אין",
+    24.74,
+    24.9
+   ],
+   [
+    "לו",
+    24.9,
+    25.04
+   ],
+   [
+    "ירחים,",
+    25.04,
+    25.68
+   ],
+   [
+    "אך",
+    26.0,
+    26.12
+   ],
+   [
+    "הוא",
+    26.12,
+    26.2
+   ],
+   [
+    "מאיר",
+    26.2,
+    26.6
+   ],
+   [
+    "חזק",
+    26.6,
+    27.16
+   ],
+   [
+    "יותר",
+    27.22,
+    27.36
+   ],
+   [
+    "מכל",
+    27.36,
+    28.08
+   ],
+   [
+    "כוכב",
+    28.08,
+    28.52
+   ],
+   [
+    "אחר.",
+    28.52,
+    28.92
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   21,
+   32,
+   39
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Drip_formed_from_molten_lead_%28FindID_226687%29.jpg/960px-Drip_formed_from_molten_lead_%28FindID_226687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 867,
+   "license": "CC BY-SA 2.0",
+   "artist": "Sussex Archaeological Society, Laura Burnett, 2008-07-29 07:41:02",
+   "page": "https://commons.wikimedia.org/wiki/File:Drip_formed_from_molten_lead_(FindID_226687).jpg",
+   "desc": "Drip formed from molten lead (FindID 226687) — Waste product from melting lead in the form of a solidified drip. Whilst lead was widely used and cast locally in Roman, Medieval and Post Medieval periods the patina suggests a post medieval period. The item is 2"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Solar_System_XXX_RTL.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 41,
+   "license": "Public domain",
+   "artist": "Ramiy",
+   "page": "https://commons.wikimedia.org/wiki/File:Solar_System_XXX_RTL.png",
+   "desc": "Solar System XXX RTL — rtl version of Image:Solar System XXX.png."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Comparison_of_planets_and_stars_%28sheet_by_sheet%29_%28Apr_2015_update%29.png/960px-Comparison_of_planets_and_stars_%28sheet_by_sheet%29_%28Apr_2015_update%29.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 473,
+   "license": "CC BY-SA 4.0",
+   "artist": "Jcpag2012 and Dave Jarvis",
+   "page": "https://commons.wikimedia.org/wiki/File:Comparison_of_planets_and_stars_(sheet_by_sheet)_(Apr_2015_update).png",
+   "desc": "Comparison of planets and stars (sheet by sheet) (Apr 2015 update) — Updated comparison of stars by size"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Venuspioneeruv.jpg/960px-Venuspioneeruv.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 774,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Venuspioneeruv.jpg",
+   "desc": "Venuspioneeruv — Ultraviolet image of Venus's clouds as seen by the Pioneer Venus Orbiter (F ). The immense C- or Y-shaped features which are visible only in these wavelengths are individually short lived, but reform often enough to be c"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA23791-Venus-RealAndEnhancedContrastViews-20200608_(cropped).jpg",
+   "desc": "PIA23791-Venus-RealAndEnhancedContrastViews-20200608 (cropped) — PIA23791: Venus from Mariner 10 https://photojournal.jpl.nasa.gov/catalog/PIA23791 Click here for the combined view for PIA23791 Click on an individual image below for the larger versions: Click "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 500,
+   "unit": "°C",
+   "label": "טמפרטורה גבוהה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 50,
+   "unit": "פי",
+   "label": "צפיפות אטמוספירה"
+  },
+  {
+   "type": "stat",
+   "value": 243,
+   "unit": "ימי ארץ",
+   "label": "זמן סיבוב"
+  },
+  {
+   "type": "focus",
+   "target": "Venus",
+   "box": [
+    66,
+    84,
+    933,
+    916
+   ]
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "נוגה",
+  "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%92%D7%94",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

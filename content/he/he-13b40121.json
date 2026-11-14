@@ -1,0 +1,390 @@
+{
+ "id": "he-13b40121",
+ "lang": "he",
+ "title": "הסודות של הקולוסיאום",
+ "cat": "history",
+ "emoji": "🏟️",
+ "sentences": [
+  "הקולוסיאום הוא האמפיתיאטרון הגדול ביותר שנבנה אי פעם.",
+  "הוא הוקם במרכז רומא בבטון ובאבן.",
+  "בנייתו החלה בשנת 70 לספירה והושלמה עשור לאחר מכן.",
+  "הוא הכיל עד 70,000 צופים שצפו בקרבות גלדיאטורים וקרבות ימיים.",
+  "לאחר שחדל לשמש כמרכז בידור, המבנה שימש גם כמבצר ומגורים.",
+  "למרות רעידות אדמה ושוד, הוא נותר סמל מובהק לאימפריה הרומית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הקולוסיאום",
+    0.08,
+    0.8
+   ],
+   [
+    "הוא",
+    0.8,
+    1.12
+   ],
+   [
+    "האמפיתיאטרון",
+    1.12,
+    2.2
+   ],
+   [
+    "הגדול",
+    2.2,
+    2.8
+   ],
+   [
+    "ביותר",
+    2.8,
+    3.34
+   ],
+   [
+    "שנבנה",
+    3.34,
+    4.02
+   ],
+   [
+    "אי",
+    4.06,
+    4.26
+   ],
+   [
+    "פעם.",
+    4.26,
+    4.52
+   ],
+   [
+    "הוא",
+    5.42,
+    5.44
+   ],
+   [
+    "הוקם",
+    5.44,
+    5.74
+   ],
+   [
+    "במרכז",
+    5.74,
+    6.3
+   ],
+   [
+    "רומא",
+    6.3,
+    6.74
+   ],
+   [
+    "בבטון",
+    6.74,
+    7.6
+   ],
+   [
+    "ובאבן.",
+    7.6,
+    8.12
+   ],
+   [
+    "בנייתו",
+    9.08,
+    9.58
+   ],
+   [
+    "החלה",
+    9.58,
+    9.98
+   ],
+   [
+    "בשנת",
+    9.98,
+    10.38
+   ],
+   [
+    "70",
+    10.4,
+    10.74
+   ],
+   [
+    "לספירה",
+    10.78,
+    11.52
+   ],
+   [
+    "והושלמה",
+    11.52,
+    12.54
+   ],
+   [
+    "עשור",
+    12.54,
+    13.06
+   ],
+   [
+    "לאחר",
+    13.06,
+    13.48
+   ],
+   [
+    "מכן.",
+    13.48,
+    13.58
+   ],
+   [
+    "הוא",
+    14.68,
+    14.74
+   ],
+   [
+    "הכיל",
+    14.74,
+    15.14
+   ],
+   [
+    "עד",
+    15.14,
+    15.38
+   ],
+   [
+    "70,000",
+    15.38,
+    16.22
+   ],
+   [
+    "צופים",
+    16.22,
+    16.8
+   ],
+   [
+    "שצפו",
+    16.8,
+    17.6
+   ],
+   [
+    "בקרבות",
+    17.6,
+    18.2
+   ],
+   [
+    "גלדיאטורים",
+    18.26,
+    19.06
+   ],
+   [
+    "וקרבות",
+    19.06,
+    19.78
+   ],
+   [
+    "ימיים.",
+    19.78,
+    20.12
+   ],
+   [
+    "לאחר",
+    21.06,
+    21.44
+   ],
+   [
+    "שחדל",
+    21.44,
+    22.0
+   ],
+   [
+    "לשמש",
+    22.0,
+    22.36
+   ],
+   [
+    "כמרכז",
+    22.36,
+    22.94
+   ],
+   [
+    "בידור,",
+    22.94,
+    23.04
+   ],
+   [
+    "המבנה",
+    23.76,
+    24.22
+   ],
+   [
+    "שימש",
+    24.22,
+    24.56
+   ],
+   [
+    "גם",
+    24.56,
+    24.74
+   ],
+   [
+    "כמבצר",
+    24.74,
+    25.54
+   ],
+   [
+    "ומגורים.",
+    25.54,
+    26.16
+   ],
+   [
+    "למרות",
+    26.96,
+    27.36
+   ],
+   [
+    "רעידות",
+    27.36,
+    27.78
+   ],
+   [
+    "אדמה",
+    27.78,
+    28.14
+   ],
+   [
+    "ושוד,",
+    28.14,
+    28.76
+   ],
+   [
+    "הוא",
+    29.08,
+    29.14
+   ],
+   [
+    "נותר",
+    29.14,
+    29.4
+   ],
+   [
+    "סמל",
+    29.4,
+    29.96
+   ],
+   [
+    "מובהק",
+    29.96,
+    30.56
+   ],
+   [
+    "לאימפריה",
+    30.6,
+    31.22
+   ],
+   [
+    "הרומית.",
+    31.22,
+    31.36
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   14,
+   23,
+   33,
+   43
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Roma06%28js%29.jpg/960px-Roma06%28js%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 453,
+   "license": "CC BY 3.0",
+   "artist": "Jerzy Strzelecki",
+   "page": "https://commons.wikimedia.org/wiki/File:Roma06(js).jpg",
+   "desc": "Roma06(js) — Roma, Colosseo."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Colosseo%2C_Roma.jpg/960px-Colosseo%2C_Roma.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Daniel Ventura",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseo,_Roma.jpg",
+   "desc": "Colosseo, Roma — Il Colosseo a Roma"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Christian_Martyrs%27_Last_Prayer_GA%26C.jpg/960px-The_Christian_Martyrs%27_Last_Prayer_GA%26C.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 420,
+   "license": "Public domain",
+   "artist": "ז'אן-לאון ז'רום",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Christian_Martyrs%27_Last_Prayer_GA%26C.jpg",
+   "desc": "The Christian Martyrs' Last Prayer GA&C — William T. Walters commissioned this painting in 1863, but the artist did not deliver it until 20 years later. In a letter to Walters, Gérôme identified the setting as ancient Rome's racecourse, the Circus Maximus. He "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Colosseopiranesi.jpg/960px-Colosseopiranesi.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 519,
+   "license": "Public domain",
+   "artist": "clop",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseopiranesi.jpg",
+   "desc": "Colosseopiranesi — Giovanni Battista Piranesi: \"Interno del Colosseo con edicole per la Via Crucis\" 1750 circa. Incisione (Colosseum with Stations of the Cross. Engraving)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/960px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 423,
+   "license": "CC BY-SA 2.5",
+   "artist": "Diliff",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+   "desc": "Colosseum in Rome-April 2007-1- copie 2B — A 4×4 segment panorama of the Colosseum at dusk. Taken by myself with a Canon 5D and 50mm f/1.8 lens at f/5.6."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 70000,
+   "unit": "צופים",
+   "label": "האמפיתיאטרון הגדול"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 70
+  },
+  {
+   "type": "stat",
+   "value": 70000,
+   "unit": "צופים",
+   "label": "קיבולת מקסימלית"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  41.89,
+  12.492
+ ],
+ "source": {
+  "title": "קולוסיאום",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9C%D7%95%D7%A1%D7%99%D7%90%D7%95%D7%9D",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

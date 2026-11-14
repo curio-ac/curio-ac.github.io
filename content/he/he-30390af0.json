@@ -1,0 +1,417 @@
+{
+ "id": "he-30390af0",
+ "lang": "he",
+ "title": "הקרחונים: סודות קפואים",
+ "cat": "geography",
+ "emoji": "🏔️",
+ "sentences": [
+  "רוב המים המתוקים בכדור הארץ כלואים בקרחונים.",
+  "קרחון נוצר מהצטברות ודחיסת שלג לאורך שנים רבות.",
+  "הם נוצרים בעיקר בקטבים וברכסי הרים גבוהים.",
+  "בגלל משקלם העצום, הקרחונים נעים באיטיות ומעצבים את פני השטח.",
+  "קרחונים ימיים צפים בים אחרי שניתקו מקרחון יבשתי.",
+  "רוב נפחו של קרחון ימי נמצא מתחת למים.",
+  "שכבות הקרח משמרות מידע קריטי על האקלים בעבר."
+ ],
+ "tim": {
+  "w": [
+   [
+    "רוב",
+    0.08,
+    0.24
+   ],
+   [
+    "המים",
+    0.24,
+    0.52
+   ],
+   [
+    "המתוקים",
+    0.52,
+    1.12
+   ],
+   [
+    "בכדור",
+    1.12,
+    1.56
+   ],
+   [
+    "הארץ",
+    1.56,
+    2.08
+   ],
+   [
+    "כלואים",
+    2.3,
+    2.62
+   ],
+   [
+    "בקרחונים.",
+    2.62,
+    3.44
+   ],
+   [
+    "קרחון",
+    4.14,
+    4.5
+   ],
+   [
+    "נוצר",
+    4.5,
+    5.02
+   ],
+   [
+    "מהצטברות",
+    5.02,
+    5.92
+   ],
+   [
+    "ודחיסת",
+    6.02,
+    6.6
+   ],
+   [
+    "שלג",
+    6.64,
+    7.06
+   ],
+   [
+    "לאורך",
+    7.06,
+    7.52
+   ],
+   [
+    "שנים",
+    7.52,
+    7.9
+   ],
+   [
+    "רבות.",
+    7.9,
+    8.3
+   ],
+   [
+    "הם",
+    9.18,
+    9.24
+   ],
+   [
+    "נוצרים",
+    9.44,
+    9.64
+   ],
+   [
+    "בעיקר",
+    9.64,
+    10.24
+   ],
+   [
+    "בקטבים",
+    10.24,
+    10.92
+   ],
+   [
+    "וברכסי",
+    10.92,
+    11.68
+   ],
+   [
+    "הרים",
+    11.68,
+    12.0
+   ],
+   [
+    "גבוהים.",
+    12.0,
+    12.6
+   ],
+   [
+    "בגלל",
+    13.5,
+    13.74
+   ],
+   [
+    "משקלם",
+    13.74,
+    14.28
+   ],
+   [
+    "העצום,",
+    14.28,
+    15.0
+   ],
+   [
+    "הקרחונים",
+    15.48,
+    15.84
+   ],
+   [
+    "נעים",
+    15.84,
+    16.28
+   ],
+   [
+    "באיטיות",
+    16.28,
+    16.96
+   ],
+   [
+    "ומעצבים",
+    17.2,
+    17.88
+   ],
+   [
+    "את",
+    17.88,
+    18.0
+   ],
+   [
+    "פני",
+    18.0,
+    18.28
+   ],
+   [
+    "השטח.",
+    18.28,
+    18.82
+   ],
+   [
+    "קרחונים",
+    20.06,
+    20.4
+   ],
+   [
+    "ימיים",
+    20.4,
+    20.9
+   ],
+   [
+    "צפים",
+    20.9,
+    21.5
+   ],
+   [
+    "בים",
+    21.5,
+    21.86
+   ],
+   [
+    "אחרי",
+    21.86,
+    22.36
+   ],
+   [
+    "שניתקו",
+    22.36,
+    22.94
+   ],
+   [
+    "מקרחון",
+    22.94,
+    23.54
+   ],
+   [
+    "יבשתי.",
+    23.54,
+    24.08
+   ],
+   [
+    "רוב",
+    25.1,
+    25.3
+   ],
+   [
+    "נפחו",
+    25.3,
+    25.7
+   ],
+   [
+    "של",
+    25.7,
+    25.82
+   ],
+   [
+    "קרחון",
+    25.82,
+    26.28
+   ],
+   [
+    "ימי",
+    26.28,
+    26.62
+   ],
+   [
+    "נמצא",
+    26.62,
+    27.1
+   ],
+   [
+    "מתחת",
+    27.1,
+    27.62
+   ],
+   [
+    "למים.",
+    27.62,
+    28.77
+   ],
+   [
+    "שכבות",
+    29.08,
+    29.5
+   ],
+   [
+    "הקרח",
+    29.66,
+    30.0
+   ],
+   [
+    "משמרות",
+    30.04,
+    30.6
+   ],
+   [
+    "מידע",
+    30.66,
+    31.0
+   ],
+   [
+    "קריטי",
+    31.0,
+    31.58
+   ],
+   [
+    "על",
+    31.58,
+    31.76
+   ],
+   [
+    "האקלים",
+    31.76,
+    32.26
+   ],
+   [
+    "בעבר.",
+    32.26,
+    32.88
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   22,
+   32,
+   40,
+   48
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/155_-_Glacier_Perito_Moreno_-_Panorama_de_la_partie_nord_-_Janvier_2010.jpg/960px-155_-_Glacier_Perito_Moreno_-_Panorama_de_la_partie_nord_-_Janvier_2010.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 94,
+   "license": "CC BY-SA 3.0",
+   "artist": "Martin St-Amant (S23678)",
+   "page": "https://commons.wikimedia.org/wiki/File:155_-_Glacier_Perito_Moreno_-_Panorama_de_la_partie_nord_-_Janvier_2010.jpg",
+   "desc": "155 - Glacier Perito Moreno - Panorama de la partie nord - Janvier 2010 — Panorama of Perito Moreno Glacier, in Los Glaciares National Park, southern Argentina"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Greenland_ice_sheet_USGS.jpg/960px-Greenland_ice_sheet_USGS.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 476,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Greenland_ice_sheet_USGS.jpg",
+   "desc": "Greenland ice sheet USGS — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Glacier_Bay_Alaska_-_Flickr_-_gailhampshire_%284%29.jpg/960px-Glacier_Bay_Alaska_-_Flickr_-_gailhampshire_%284%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 2.0",
+   "artist": "gailhampshire from Cradley, Malvern, U.K",
+   "page": "https://commons.wikimedia.org/wiki/File:Glacier_Bay_Alaska_-_Flickr_-_gailhampshire_(4).jpg",
+   "desc": "Glacier Bay Alaska - Flickr - gailhampshire (4) — Glacier Bay Alaska"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Iceberg-Antarctica.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 511,
+   "license": "CC BY-SA 3.0",
+   "artist": "Uwe Kils",
+   "page": "https://commons.wikimedia.org/wiki/File:Iceberg-Antarctica.jpg",
+   "desc": "Iceberg-Antarctica — A capsized iceberg in Antarctica"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Iceberg.jpg/960px-Iceberg.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1046,
+   "license": "CC BY-SA 3.0",
+   "artist": "Created by Uwe Kils (iceberg) and User:Wiska Bodo (sky).",
+   "page": "https://commons.wikimedia.org/wiki/File:Iceberg.jpg",
+   "desc": "Iceberg — A photomontage of what a whole iceberg might look like. The upper part is a real image (Image:Iceberg-Antarctica.jpg). The part below the waterline is another iceberg image upside down. An older, cropped version of this "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Icecore_4.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Photo by Lonnie Thompson, Byrd Polar Research Center, Ohio State University.",
+   "page": "https://commons.wikimedia.org/wiki/File:Icecore_4.jpg",
+   "desc": "Icecore 4 — Ice Core sample taken from drill."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "underwater section of iceberg",
+   "box": [
+    375,
+    128,
+    893,
+    853
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "קרחון",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%97%D7%95%D7%9F",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

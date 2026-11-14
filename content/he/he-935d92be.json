@@ -1,0 +1,368 @@
+{
+ "id": "he-935d92be",
+ "lang": "he",
+ "title": "האיש העשירי על הירח",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "צ'ארלס דיוק הוא האדם העשירי שדרך על הירח.",
+  "הוא שירת כטייס מודול הירח במשימת אפולו 16 ב-1972.",
+  "דיוק למד הנדסה באקדמיה הימית ובמכון הטכנולוגי של מסצ'וסטס.",
+  "את קריירת הטיסה שלו החל בחיל האוויר האמריקאי כבר ב-1957.",
+  "במהלך שירותו צבר 4,147 שעות טיסה, רובן על מטוסי סילון.",
+  "האסטרונאוט המנוסה הזה נשוי ואב לשני בנים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "צ'ארלס",
+    0.08,
+    0.54
+   ],
+   [
+    "דיוק",
+    0.54,
+    0.92
+   ],
+   [
+    "הוא",
+    0.92,
+    1.2
+   ],
+   [
+    "האדם",
+    1.2,
+    1.52
+   ],
+   [
+    "העשירי",
+    1.52,
+    2.12
+   ],
+   [
+    "שדרך",
+    2.12,
+    2.66
+   ],
+   [
+    "על",
+    2.66,
+    2.8
+   ],
+   [
+    "הירח.",
+    2.8,
+    3.4
+   ],
+   [
+    "הוא",
+    3.8,
+    3.9
+   ],
+   [
+    "שירת",
+    3.9,
+    4.24
+   ],
+   [
+    "כטייס",
+    4.28,
+    4.72
+   ],
+   [
+    "מודול",
+    4.78,
+    5.02
+   ],
+   [
+    "הירח",
+    5.02,
+    5.54
+   ],
+   [
+    "במשימת",
+    5.54,
+    6.1
+   ],
+   [
+    "אפולו",
+    6.1,
+    6.6
+   ],
+   [
+    "16",
+    6.6,
+    6.86
+   ],
+   [
+    "ב-1972.",
+    6.86,
+    7.96
+   ],
+   [
+    "דיוק",
+    9.62,
+    9.86
+   ],
+   [
+    "למד",
+    9.86,
+    10.2
+   ],
+   [
+    "הנדסה",
+    10.2,
+    10.7
+   ],
+   [
+    "באקדמיה",
+    10.7,
+    11.34
+   ],
+   [
+    "הימית",
+    11.34,
+    11.8
+   ],
+   [
+    "ובמכון",
+    11.92,
+    12.38
+   ],
+   [
+    "הטכנולוגי",
+    12.38,
+    13.02
+   ],
+   [
+    "של",
+    13.02,
+    13.2
+   ],
+   [
+    "מסצ'וסטס.",
+    13.2,
+    13.92
+   ],
+   [
+    "את",
+    14.54,
+    14.64
+   ],
+   [
+    "קריירת",
+    14.64,
+    15.1
+   ],
+   [
+    "הטיסה",
+    15.4,
+    15.52
+   ],
+   [
+    "שלו",
+    15.52,
+    15.8
+   ],
+   [
+    "החל",
+    15.8,
+    16.12
+   ],
+   [
+    "בחיל",
+    16.12,
+    16.46
+   ],
+   [
+    "האוויר",
+    16.46,
+    16.8
+   ],
+   [
+    "האמריקאי",
+    16.8,
+    17.5
+   ],
+   [
+    "כבר",
+    17.7,
+    17.82
+   ],
+   [
+    "ב-1957.",
+    17.82,
+    18.67
+   ],
+   [
+    "במהלך",
+    20.16,
+    20.54
+   ],
+   [
+    "שירותו",
+    20.54,
+    21.04
+   ],
+   [
+    "צבר",
+    21.04,
+    21.42
+   ],
+   [
+    "4,147",
+    21.42,
+    23.02
+   ],
+   [
+    "שעות",
+    23.02,
+    23.38
+   ],
+   [
+    "טיסה,",
+    23.38,
+    23.72
+   ],
+   [
+    "רובן",
+    24.14,
+    24.46
+   ],
+   [
+    "על",
+    24.46,
+    24.6
+   ],
+   [
+    "מטוסי",
+    24.6,
+    25.06
+   ],
+   [
+    "סילון.",
+    25.06,
+    25.54
+   ],
+   [
+    "האסטרונאוט",
+    26.16,
+    26.78
+   ],
+   [
+    "המנוסה",
+    26.78,
+    27.28
+   ],
+   [
+    "הזה",
+    27.28,
+    27.46
+   ],
+   [
+    "נשוי",
+    27.46,
+    28.06
+   ],
+   [
+    "ואב",
+    28.06,
+    28.46
+   ],
+   [
+    "לשני",
+    28.46,
+    28.82
+   ],
+   [
+    "בנים.",
+    28.82,
+    29.16
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   36,
+   46
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Duke_on_the_Craters_Edge_-_GPN-2000-001132.jpg/960px-Duke_on_the_Craters_Edge_-_GPN-2000-001132.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 728,
+   "license": "Public domain",
+   "artist": "NASA John W. Young",
+   "page": "https://commons.wikimedia.org/wiki/File:Duke_on_the_Craters_Edge_-_GPN-2000-001132.jpg",
+   "desc": "Duke on the Craters Edge - GPN-2000-001132 — Astronaut Charles M. Duke Jr., Lunar Module pilot of the Apollo 16 mission, is photographed collecting lunar samples at Station no. 1 during the first Apollo 16 extravehicular activity at the Descartes landing site."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/960px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 460,
+   "license": "Public domain",
+   "artist": "U.S. Air Force photo/Lance Cheung",
+   "page": "https://commons.wikimedia.org/wiki/File:SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg",
+   "desc": "SSG Desiree Palacios makes final settings on her camera before a sortie in a F-16D Fighting Falcon — Staff Sgt. Desiree Palacios tests and makes final settings on her camera before taxing out to on sortie in a F-16D Fighting Falcon with the 182d Fighter Squadr"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Official_NASA_portrait_Charles_Moss_Duke_Jr.jpg/960px-Official_NASA_portrait_Charles_Moss_Duke_Jr.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Official_NASA_portrait_Charles_Moss_Duke_Jr.jpg",
+   "desc": "Official NASA portrait Charles Moss Duke Jr — Portrait of Astronaut Charles M. Duke Jr.,in space suit with a lunar globe in front of him and an American flag behind him."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "אדם",
+   "label": "הלך על הירח"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4147,
+   "unit": "שעות",
+   "label": "צבר שעות טיסה"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "צ'ארלס דיוק",
+  "url": "https://he.wikipedia.org/wiki/%D7%A6%27%D7%90%D7%A8%D7%9C%D7%A1_%D7%93%D7%99%D7%95%D7%A7",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

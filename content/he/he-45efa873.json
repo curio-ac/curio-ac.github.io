@@ -1,0 +1,338 @@
+{
+ "id": "he-45efa873",
+ "lang": "he",
+ "title": "המסע המפתיע של הקפה",
+ "cat": "history",
+ "emoji": "☕",
+ "sentences": [
+  "צמח הקפה הגיע אלינו מאתיופיה הרחוקה.",
+  "התימנים הפיצו את המשקה לכל העולם החל מהמאה ה-15.",
+  "עבורם, הקפה הוא מסורת תרבותית וחברתית חשובה מאוד.",
+  "יש הטוענים שהשם מגיע מממלכת קאפה שבאתיופיה.",
+  "שם המקומיים בכלל קוראים לו בון או בונה.",
+  "האירופאי הראשון שדיווח עליו היה המיסיונר פדרו פאיש בשנת 1603."
+ ],
+ "tim": {
+  "w": [
+   [
+    "צמח",
+    0.08,
+    0.3
+   ],
+   [
+    "הקפה",
+    0.3,
+    0.62
+   ],
+   [
+    "הגיע",
+    0.62,
+    0.86
+   ],
+   [
+    "אלינו",
+    0.86,
+    1.26
+   ],
+   [
+    "מאתיופיה",
+    1.26,
+    1.76
+   ],
+   [
+    "הרחוקה.",
+    1.76,
+    2.32
+   ],
+   [
+    "התימנים",
+    2.74,
+    3.0
+   ],
+   [
+    "הפיצו",
+    3.0,
+    3.38
+   ],
+   [
+    "את",
+    3.38,
+    3.44
+   ],
+   [
+    "המשקה",
+    3.44,
+    3.74
+   ],
+   [
+    "לכל",
+    3.74,
+    4.0
+   ],
+   [
+    "העולם",
+    4.0,
+    4.24
+   ],
+   [
+    "החל",
+    4.24,
+    4.44
+   ],
+   [
+    "מהמאה",
+    4.44,
+    5.08
+   ],
+   [
+    "ה-15.",
+    5.08,
+    5.73
+   ],
+   [
+    "עבורם,",
+    6.4,
+    6.92
+   ],
+   [
+    "הקפה",
+    7.34,
+    7.62
+   ],
+   [
+    "הוא",
+    7.62,
+    7.66
+   ],
+   [
+    "מסורת",
+    7.66,
+    8.12
+   ],
+   [
+    "תרבותית",
+    8.12,
+    8.58
+   ],
+   [
+    "וחברתית",
+    8.58,
+    9.06
+   ],
+   [
+    "חשובה",
+    9.08,
+    9.44
+   ],
+   [
+    "מאוד.",
+    9.44,
+    9.74
+   ],
+   [
+    "יש",
+    10.06,
+    10.16
+   ],
+   [
+    "הטוענים",
+    10.16,
+    10.6
+   ],
+   [
+    "שהשם",
+    10.6,
+    11.02
+   ],
+   [
+    "מגיע",
+    11.02,
+    11.26
+   ],
+   [
+    "מממלכת",
+    11.26,
+    11.84
+   ],
+   [
+    "קאפה",
+    12.02,
+    12.12
+   ],
+   [
+    "שבאתיופיה.",
+    12.12,
+    12.78
+   ],
+   [
+    "שם",
+    13.2,
+    13.34
+   ],
+   [
+    "המקומיים",
+    13.34,
+    13.74
+   ],
+   [
+    "בכלל",
+    13.74,
+    14.04
+   ],
+   [
+    "קוראים",
+    14.04,
+    14.46
+   ],
+   [
+    "לו",
+    14.46,
+    14.6
+   ],
+   [
+    "בון",
+    14.6,
+    14.84
+   ],
+   [
+    "או",
+    14.84,
+    14.92
+   ],
+   [
+    "בונה.",
+    14.92,
+    15.12
+   ],
+   [
+    "האירופאי",
+    15.58,
+    16.0
+   ],
+   [
+    "הראשון",
+    16.0,
+    16.46
+   ],
+   [
+    "שדיווח",
+    16.46,
+    16.9
+   ],
+   [
+    "עליו",
+    16.9,
+    17.18
+   ],
+   [
+    "היה",
+    17.18,
+    17.36
+   ],
+   [
+    "המיסיונר",
+    17.36,
+    17.82
+   ],
+   [
+    "פדרו",
+    17.82,
+    18.14
+   ],
+   [
+    "פאיש",
+    18.14,
+    18.46
+   ],
+   [
+    "בשנת",
+    18.5,
+    18.9
+   ],
+   [
+    "1603.",
+    18.9,
+    19.7
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   23,
+   30,
+   38
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Coffee_Ceremony%2C_Ethiopia_%288186977293%29.jpg/960px-Coffee_Ceremony%2C_Ethiopia_%288186977293%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 759,
+   "license": "CC BY-SA 2.0",
+   "artist": "Rod Waddington from Kergunyah, Australia",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_Ceremony,_Ethiopia_(8186977293).jpg",
+   "desc": "Coffee Ceremony, Ethiopia (8186977293) — Lake Tana"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/DRUZE_MAN_SERVING_COFFEE_ITAMAR_GRINBERG_IMOT_%2814024329350%29.jpg/960px-DRUZE_MAN_SERVING_COFFEE_ITAMAR_GRINBERG_IMOT_%2814024329350%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 2.0",
+   "artist": "Israel_photo_gallery",
+   "page": "https://commons.wikimedia.org/wiki/File:DRUZE_MAN_SERVING_COFFEE_ITAMAR_GRINBERG_IMOT_(14024329350).jpg",
+   "desc": "DRUZE MAN SERVING COFFEE ITAMAR GRINBERG IMOT (14024329350) — Druze hospitality center in the Galilee. A druze pouring coffee out ot a traditional coffee pot. Photo taken by Itamar Grinberg for the Israeli Ministry of Tourism. Credit attribution requested Gali"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pedro_Paez_%281564-1622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1043,
+   "license": "CC0",
+   "artist": "Grentidez",
+   "page": "https://commons.wikimedia.org/wiki/File:Pedro_Paez_(1564-1622).jpg",
+   "desc": "Pedro Paez (1564-1622) — Jesuit father Pedro Páez, missionnary in Ethiopia."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1603
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "קפה",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A4%D7%94",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (piper)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

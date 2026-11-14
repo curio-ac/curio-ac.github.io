@@ -1,0 +1,360 @@
+{
+ "id": "he-dc5b869a",
+ "lang": "he",
+ "title": "התעלה שתחזיר השקעה בעוד 600 שנה",
+ "cat": "history",
+ "emoji": "🏗️",
+ "sentences": [
+  "תעלת הדנובה-הים השחור תחזיר השקעה בעוד 600 שנה.",
+  "הפרויקט העצום ברומניה מקצר את הדרך ב-400 ק\"מ.",
+  "הוא מחבר את נמל רוטרדם שבהולנד לים השחור.",
+  "העבודות התחילו ב-1949, נעצרו, וחודשו ב-1976.",
+  "הזרוע הראשית נבנתה לאורך 64.4 ק\"מ עד 1984.",
+  "הכנסות של 3 מיליון אירו בשנה הופכות את ההשקעה לבת 600 שנה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "תעלת",
+    0.08,
+    0.4
+   ],
+   [
+    "הדנובה-הים",
+    0.4,
+    1.04
+   ],
+   [
+    "השחור",
+    1.04,
+    1.4
+   ],
+   [
+    "תחזיר",
+    1.4,
+    1.86
+   ],
+   [
+    "השקעה",
+    1.86,
+    2.24
+   ],
+   [
+    "בעוד",
+    2.24,
+    2.4
+   ],
+   [
+    "600",
+    2.4,
+    2.58
+   ],
+   [
+    "שנה.",
+    2.58,
+    3.4
+   ],
+   [
+    "הפרויקט",
+    3.4,
+    3.8
+   ],
+   [
+    "העצום",
+    3.8,
+    4.02
+   ],
+   [
+    "ברומניה",
+    4.02,
+    4.42
+   ],
+   [
+    "מקצר",
+    4.42,
+    4.84
+   ],
+   [
+    "את",
+    4.84,
+    4.96
+   ],
+   [
+    "הדרך",
+    4.96,
+    5.18
+   ],
+   [
+    "ב-400",
+    5.18,
+    5.96
+   ],
+   [
+    "ק\"מ.",
+    5.96,
+    6.96
+   ],
+   [
+    "הוא",
+    7.06,
+    7.1
+   ],
+   [
+    "מחבר",
+    7.1,
+    7.4
+   ],
+   [
+    "את",
+    7.4,
+    7.58
+   ],
+   [
+    "נמל",
+    7.58,
+    7.82
+   ],
+   [
+    "רוטרדם",
+    7.82,
+    8.22
+   ],
+   [
+    "שבהולנד",
+    8.22,
+    9.04
+   ],
+   [
+    "לים",
+    9.06,
+    9.3
+   ],
+   [
+    "השחור.",
+    9.3,
+    9.56
+   ],
+   [
+    "העבודות",
+    10.04,
+    10.38
+   ],
+   [
+    "התחילו",
+    10.38,
+    10.7
+   ],
+   [
+    "ב-1949,",
+    10.7,
+    13.14
+   ],
+   [
+    "נעצרו,",
+    13.34,
+    14.22
+   ],
+   [
+    "וחודשו",
+    14.46,
+    14.84
+   ],
+   [
+    "ב-1976.",
+    14.84,
+    16.9
+   ],
+   [
+    "הזרוע",
+    17.36,
+    17.68
+   ],
+   [
+    "הראשית",
+    17.68,
+    18.08
+   ],
+   [
+    "נבנתה",
+    18.08,
+    18.4
+   ],
+   [
+    "לאורך",
+    18.4,
+    18.74
+   ],
+   [
+    "64.4",
+    18.88,
+    20.02
+   ],
+   [
+    "ק\"מ",
+    20.02,
+    20.92
+   ],
+   [
+    "עד",
+    20.92,
+    21.16
+   ],
+   [
+    "1984.",
+    21.16,
+    22.66
+   ],
+   [
+    "הכנסות",
+    23.22,
+    23.6
+   ],
+   [
+    "של",
+    23.6,
+    23.74
+   ],
+   [
+    "3",
+    23.74,
+    24.2
+   ],
+   [
+    "מיליון",
+    24.2,
+    24.66
+   ],
+   [
+    "אירו",
+    24.66,
+    24.86
+   ],
+   [
+    "בשנה",
+    24.86,
+    25.16
+   ],
+   [
+    "הופכות",
+    25.16,
+    25.52
+   ],
+   [
+    "את",
+    25.52,
+    25.62
+   ],
+   [
+    "ההשקעה",
+    25.62,
+    26.02
+   ],
+   [
+    "לבת",
+    26.02,
+    26.3
+   ],
+   [
+    "600",
+    26.3,
+    26.46
+   ],
+   [
+    "שנה.",
+    26.46,
+    26.66
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   24,
+   30,
+   38
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ecluza_N%C3%A3vodari%2C_1.jpeg/960px-Ecluza_N%C3%A3vodari%2C_1.jpeg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Aisano",
+   "page": "https://commons.wikimedia.org/wiki/File:Ecluza_N%C3%A3vodari,_1.jpeg",
+   "desc": "Ecluza Nãvodari, 1 — Die Schleuse Năvodari im Donau-Schwarzmeer-Kanal."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/I.25280-2_Inaugurare_%282%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 542,
+   "license": "Attribution",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:I.25280-2_Inaugurare_(2).jpg",
+   "desc": "I.25280-2 Inaugurare (2) — The Romanian Danube-Black Sea canal on the day of its inauguration by Nicolae Ceaușescu."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Danube-Black_Sea_canal_%28Agigea%29.jpg/960px-Danube-Black_Sea_canal_%28Agigea%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Aleksasfi",
+   "page": "https://commons.wikimedia.org/wiki/File:Danube-Black_Sea_canal_(Agigea).jpg",
+   "desc": "Danube-Black Sea canal (Agigea) — Danube-Black Sea Canal never Agigea (Romania)"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 600,
+   "unit": "שנה",
+   "label": "החזר השקעה"
+  },
+  {
+   "type": "compare",
+   "value": 400000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 1949
+  },
+  {
+   "type": "stat",
+   "value": 64.4,
+   "unit": "ק\"מ",
+   "label": "אורך הזרוע"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  44.198,
+  28.398
+ ],
+ "source": {
+  "title": "תעלת דנובה–הים השחור",
+  "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%9C%D7%AA_%D7%93%D7%A0%D7%95%D7%91%D7%94%E2%80%93%D7%94%D7%99%D7%9D_%D7%94%D7%A9%D7%97%D7%95%D7%A8",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (piper)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

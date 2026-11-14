@@ -1,0 +1,391 @@
+{
+ "id": "he-b926a3d5",
+ "lang": "he",
+ "title": "הסוד מאחורי Cry Me a River",
+ "cat": "art",
+ "emoji": "🎤",
+ "sentences": [
+  "ג'סטין טימברלייק הודה שהלהיט הזה מבוסס על הפרידה מבריטני ספירס.",
+  "השיר יצא ב-2002 כחלק מהאלבום Justified.",
+  "טימברלייק כתב והפיק אותו יחד עם טימבלנד וסקוט סטורץ'.",
+  "הוא זכה בפרס גראמי על ביצוע הפופ הטוב ביותר לזמר.",
+  "השיר נכנס לרשימת 500 השירים הגדולים של מגזין רולינג סטון.",
+  "ב-2021, טימברלייק התנצל לאחר שהואשם שניצל את הפרידה לקידום הקריירה שלו."
+ ],
+ "tim": {
+  "w": [
+   [
+    "ג'סטין",
+    0.08,
+    0.18
+   ],
+   [
+    "טימברלייק",
+    0.18,
+    0.66
+   ],
+   [
+    "הודה",
+    0.66,
+    0.82
+   ],
+   [
+    "שהלהיט",
+    0.82,
+    1.28
+   ],
+   [
+    "הזה",
+    1.28,
+    1.42
+   ],
+   [
+    "מבוסס",
+    1.42,
+    1.92
+   ],
+   [
+    "על",
+    1.92,
+    2.04
+   ],
+   [
+    "הפרידה",
+    2.04,
+    2.34
+   ],
+   [
+    "מבריטני",
+    2.34,
+    2.76
+   ],
+   [
+    "ספירס.",
+    2.76,
+    3.2
+   ],
+   [
+    "השיר",
+    3.7,
+    3.82
+   ],
+   [
+    "יצא",
+    3.82,
+    4.08
+   ],
+   [
+    "ב-2002",
+    4.08,
+    5.02
+   ],
+   [
+    "כחלק",
+    5.02,
+    5.56
+   ],
+   [
+    "מהאלבום",
+    5.56,
+    5.9
+   ],
+   [
+    "Justified.",
+    5.9,
+    6.06
+   ],
+   [
+    "טימברלייק",
+    6.98,
+    7.08
+   ],
+   [
+    "כתב",
+    7.08,
+    7.44
+   ],
+   [
+    "והפיק",
+    7.44,
+    7.74
+   ],
+   [
+    "אותו",
+    7.74,
+    7.88
+   ],
+   [
+    "יחד",
+    7.88,
+    8.16
+   ],
+   [
+    "עם",
+    8.16,
+    8.28
+   ],
+   [
+    "טימבלנד",
+    8.28,
+    8.82
+   ],
+   [
+    "וסקוט",
+    8.82,
+    9.1
+   ],
+   [
+    "סטורץ'.",
+    9.1,
+    9.46
+   ],
+   [
+    "הוא",
+    10.0,
+    10.08
+   ],
+   [
+    "זכה",
+    10.08,
+    10.34
+   ],
+   [
+    "בפרס",
+    10.34,
+    10.66
+   ],
+   [
+    "גראמי",
+    10.74,
+    11.02
+   ],
+   [
+    "על",
+    11.02,
+    11.12
+   ],
+   [
+    "ביצוע",
+    11.12,
+    11.42
+   ],
+   [
+    "הפופ",
+    11.42,
+    11.64
+   ],
+   [
+    "הטוב",
+    11.64,
+    11.9
+   ],
+   [
+    "ביותר",
+    11.9,
+    12.2
+   ],
+   [
+    "לזמר.",
+    12.2,
+    12.52
+   ],
+   [
+    "השיר",
+    13.14,
+    13.24
+   ],
+   [
+    "נכנס",
+    13.24,
+    13.52
+   ],
+   [
+    "לרשימת",
+    13.52,
+    13.94
+   ],
+   [
+    "500",
+    13.94,
+    14.18
+   ],
+   [
+    "השירים",
+    14.18,
+    14.72
+   ],
+   [
+    "הגדולים",
+    14.72,
+    15.08
+   ],
+   [
+    "של",
+    15.08,
+    15.2
+   ],
+   [
+    "מגזין",
+    15.2,
+    15.62
+   ],
+   [
+    "רולינג",
+    15.62,
+    15.94
+   ],
+   [
+    "סטון.",
+    15.94,
+    16.3
+   ],
+   [
+    "ב-2021,",
+    16.62,
+    18.06
+   ],
+   [
+    "טימברלייק",
+    18.4,
+    18.8
+   ],
+   [
+    "התנצל",
+    18.8,
+    19.12
+   ],
+   [
+    "לאחר",
+    19.12,
+    19.44
+   ],
+   [
+    "שהואשם",
+    19.44,
+    19.76
+   ],
+   [
+    "שניצל",
+    19.76,
+    20.14
+   ],
+   [
+    "את",
+    20.14,
+    20.22
+   ],
+   [
+    "הפרידה",
+    20.22,
+    20.54
+   ],
+   [
+    "לקידום",
+    20.54,
+    20.88
+   ],
+   [
+    "הקריירה",
+    20.88,
+    21.4
+   ],
+   [
+    "שלו.",
+    21.4,
+    21.6
+   ]
+  ],
+  "b": [
+   0,
+   10,
+   16,
+   25,
+   35,
+   45
+  ]
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Justin_Timberlake_concert_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Nikkiboom",
+   "page": "https://commons.wikimedia.org/wiki/File:Justin_Timberlake_concert_1.jpg",
+   "desc": "Justin Timberlake concert 1 — American musician Justin Timberlake performing \"All Over Again\" live in the FutureSex/LoveShow tour. Air Canada Centre, Toronto, Canada."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Timbaland_%2847903248821%29_%28cropped%29.jpg/960px-Timbaland_%2847903248821%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 959,
+   "license": "CC BY 2.0",
+   "artist": "Collision Conf",
+   "page": "https://commons.wikimedia.org/wiki/File:Timbaland_(47903248821)_(cropped).jpg",
+   "desc": "Timbaland (47903248821) (cropped) — 21 May 2019; Timbaland, Producer &amp; Artist, Mosley Music Group, on Centre Stage during day one of Collision 2019 at Enercare Center in Toronto, Canada. Photo by Stephen McCarthy/Collision via Sportsfile"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Grammy-award_silhouette.jpg/960px-Grammy-award_silhouette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 734,
+   "license": "CC BY-SA 4.0",
+   "artist": "Graph+sas",
+   "page": "https://commons.wikimedia.org/wiki/File:Grammy-award_silhouette.jpg",
+   "desc": "Grammy-award silhouette — Grammy award"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Copies_of_Rolling_Stone_July_8-22%2C_2010.JPG/960px-Copies_of_Rolling_Stone_July_8-22%2C_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1281,
+   "license": "CC BY-SA 3.0",
+   "artist": "BrokenSphere",
+   "page": "https://commons.wikimedia.org/wiki/File:Copies_of_Rolling_Stone_July_8-22,_2010.JPG",
+   "desc": "Copies of Rolling Stone July 8-22, 2010 — Copies of issue no. 1108/1109 for July 8-22, 2010 of Rolling Stone at Borders on Powell Street in San Francisco, California. The interview of Gen. Stanley McChrystal that appeared in this issue led to his resignation."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2002
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 500,
+   "unit": "שירים",
+   "label": "השירים הגדולים"
+  },
+  {
+   "type": "timeline",
+   "year": 2021
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Cry Me a River (שיר של ג'סטין טימברלייק)",
+  "url": "https://he.wikipedia.org/wiki/Cry_Me_a_River_%28%D7%A9%D7%99%D7%A8_%D7%A9%D7%9C_%D7%92%27%D7%A1%D7%98%D7%99%D7%9F_%D7%98%D7%99%D7%9E%D7%91%D7%A8%D7%9C%D7%99%D7%99%D7%A7%29",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (piper)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

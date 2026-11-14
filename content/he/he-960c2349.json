@@ -1,0 +1,361 @@
+{
+ "id": "he-960c2349",
+ "lang": "he",
+ "title": "האיש שפיצח את הקבלה",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "בגיל 18 הוא התחיל ללמוד זוהר לבד.",
+  "גרשם שלום נולד בברלין למשפחה מתבוללת.",
+  "הוא היה מחלוצי חקר הקבלה באמצעות כלים אקדמיים.",
+  "בשנת 1923 עלה לארץ ישראל וניהל מחלקה בספרייה הלאומית.",
+  "בין השנים 1925 ל-1964 הוא לימד קבלה באוניברסיטה העברית.",
+  "בגיל 80 הוא כבר פרסם כ-600 מחקרים על תורת הסוד."
+ ],
+ "tim": {
+  "w": [
+   [
+    "בגיל",
+    0.06,
+    0.34
+   ],
+   [
+    "18",
+    0.34,
+    0.56
+   ],
+   [
+    "הוא",
+    0.56,
+    1.38
+   ],
+   [
+    "התחיל",
+    1.38,
+    1.74
+   ],
+   [
+    "ללמוד",
+    1.74,
+    2.06
+   ],
+   [
+    "זוהר",
+    2.06,
+    2.52
+   ],
+   [
+    "לבד.",
+    2.52,
+    2.88
+   ],
+   [
+    "גרשם",
+    3.54,
+    3.86
+   ],
+   [
+    "שלום",
+    3.86,
+    4.22
+   ],
+   [
+    "נולד",
+    4.22,
+    4.6
+   ],
+   [
+    "בברלין",
+    4.6,
+    5.18
+   ],
+   [
+    "למשפחה",
+    5.18,
+    5.82
+   ],
+   [
+    "מתבוללת.",
+    5.82,
+    6.38
+   ],
+   [
+    "הוא",
+    7.12,
+    7.14
+   ],
+   [
+    "היה",
+    7.14,
+    7.32
+   ],
+   [
+    "מחלוצי",
+    7.32,
+    7.98
+   ],
+   [
+    "חקר",
+    7.98,
+    8.38
+   ],
+   [
+    "הקבלה",
+    8.38,
+    8.84
+   ],
+   [
+    "באמצעות",
+    8.84,
+    9.46
+   ],
+   [
+    "כלים",
+    9.58,
+    9.82
+   ],
+   [
+    "אקדמיים.",
+    9.82,
+    10.44
+   ],
+   [
+    "בשנת",
+    11.26,
+    11.52
+   ],
+   [
+    "1923",
+    11.58,
+    12.72
+   ],
+   [
+    "עלה",
+    12.72,
+    13.56
+   ],
+   [
+    "לארץ",
+    13.56,
+    13.96
+   ],
+   [
+    "ישראל",
+    13.96,
+    14.34
+   ],
+   [
+    "וניהל",
+    14.34,
+    15.0
+   ],
+   [
+    "מחלקה",
+    15.0,
+    15.54
+   ],
+   [
+    "בספרייה",
+    15.54,
+    16.18
+   ],
+   [
+    "הלאומית.",
+    16.18,
+    16.52
+   ],
+   [
+    "בין",
+    17.5,
+    17.66
+   ],
+   [
+    "השנים",
+    17.66,
+    18.02
+   ],
+   [
+    "1925",
+    18.02,
+    19.28
+   ],
+   [
+    "ל-1964",
+    19.28,
+    21.28
+   ],
+   [
+    "הוא",
+    21.28,
+    21.84
+   ],
+   [
+    "לימד",
+    21.84,
+    22.18
+   ],
+   [
+    "קבלה",
+    22.18,
+    22.62
+   ],
+   [
+    "באוניברסיטה",
+    22.62,
+    23.46
+   ],
+   [
+    "העברית.",
+    23.46,
+    23.7
+   ],
+   [
+    "בגיל",
+    24.68,
+    24.92
+   ],
+   [
+    "80",
+    24.92,
+    25.16
+   ],
+   [
+    "הוא",
+    25.16,
+    25.7
+   ],
+   [
+    "כבר",
+    25.7,
+    25.9
+   ],
+   [
+    "פרסם",
+    25.9,
+    26.34
+   ],
+   [
+    "כ-600",
+    26.34,
+    26.86
+   ],
+   [
+    "מחקרים",
+    26.86,
+    27.56
+   ],
+   [
+    "על",
+    27.56,
+    27.78
+   ],
+   [
+    "תורת",
+    27.78,
+    28.12
+   ],
+   [
+    "הסוד.",
+    28.12,
+    28.36
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   21,
+   30,
+   39
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gershom_Scholem_learning_the_Zohar_%28NNL_003800553%29.III.jpg/960px-Gershom_Scholem_learning_the_Zohar_%28NNL_003800553%29.III.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 421,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Gershom_Scholem_learning_the_Zohar_(NNL_003800553).III.jpg",
+   "desc": "Gershom Scholem learning the Zohar (NNL 003800553).III — תצלום שבו נראה גרשם שלום יושב לפני ספר פתוח, חובש כיפה לראשו. בגב התצלום כתב שלום כי הוא צולם בעת לימוד ספר הזוהר, בחג הסוכות תרפ\"ו."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Scholem_collection.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 534,
+   "license": "CC0",
+   "artist": "I created the photo",
+   "page": "https://commons.wikimedia.org/wiki/File:Scholem_collection.jpg",
+   "desc": "Scholem collection — Scholem Collection reading room"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gershom_Scholem_1935.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Gershom_Scholem_1935.jpg",
+   "desc": "Gershom Scholem 1935 — Gershom Scholem in 1935."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Scholem_card_catalog.jpg/960px-Scholem_card_catalog.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1204,
+   "license": "CC BY-SA 3.0",
+   "artist": "Haimlevy",
+   "page": "https://commons.wikimedia.org/wiki/File:Scholem_card_catalog.jpg",
+   "desc": "Scholem card catalog — The card catalog where Gershom Scholem used to write his notes."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 18,
+   "unit": "גיל",
+   "label": "לימוד זוהר"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1923
+  },
+  {
+   "type": "stat",
+   "value": 1925,
+   "unit": "שנה",
+   "label": "תחילת הוראה"
+  },
+  {
+   "type": "stat",
+   "value": 600,
+   "unit": "מחקרים",
+   "label": "תורת הסוד"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "גרשם שלום",
+  "url": "https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%A9%D7%9D_%D7%A9%D7%9C%D7%95%D7%9D",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

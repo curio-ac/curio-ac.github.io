@@ -1,0 +1,391 @@
+{
+ "id": "he-8c417321",
+ "lang": "he",
+ "title": "הטלסקופ החזק ביותר בהיסטוריה",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "זהו הפרויקט ההנדסי המורכב ביותר של נאס\"א.",
+  "טלסקופ ג'יימס וב שוגר לחלל ב-25 בדצמבר 2021.",
+  "יש לו מראה ענקית בקוטר של 6.5 מטרים.",
+  "הוא ממוקם רחוק מכדור הארץ בנקודת לגראנז' L2.",
+  "הטלסקופ צופה ביקום דרך אור נראה ואינפרה-אדום.",
+  "הוא חוקר איך גלקסיות וכוכבים נוצרים ומתפתחים.",
+  "הפרויקט הזה הוא שיתוף פעולה של 17 מדינות."
+ ],
+ "tim": {
+  "w": [
+   [
+    "זהו",
+    0.08,
+    0.3
+   ],
+   [
+    "הפרויקט",
+    0.3,
+    0.92
+   ],
+   [
+    "ההנדסי",
+    0.92,
+    1.46
+   ],
+   [
+    "המורכב",
+    1.46,
+    2.14
+   ],
+   [
+    "ביותר",
+    2.14,
+    2.64
+   ],
+   [
+    "של",
+    2.64,
+    2.82
+   ],
+   [
+    "נאס\"א.",
+    2.82,
+    3.2
+   ],
+   [
+    "טלסקופ",
+    3.92,
+    4.32
+   ],
+   [
+    "ג'יימס",
+    4.32,
+    4.76
+   ],
+   [
+    "וב",
+    4.76,
+    5.06
+   ],
+   [
+    "שוגר",
+    5.06,
+    5.54
+   ],
+   [
+    "לחלל",
+    5.54,
+    5.96
+   ],
+   [
+    "ב-25",
+    5.96,
+    6.52
+   ],
+   [
+    "בדצמבר",
+    6.52,
+    7.62
+   ],
+   [
+    "2021.",
+    8.01,
+    8.46
+   ],
+   [
+    "יש",
+    9.5,
+    9.64
+   ],
+   [
+    "לו",
+    9.64,
+    9.78
+   ],
+   [
+    "מראה",
+    9.78,
+    10.22
+   ],
+   [
+    "ענקית",
+    10.66,
+    10.78
+   ],
+   [
+    "בקוטר",
+    11.2,
+    11.32
+   ],
+   [
+    "של",
+    11.32,
+    11.5
+   ],
+   [
+    "6.5",
+    11.5,
+    12.38
+   ],
+   [
+    "מטרים.",
+    12.38,
+    12.56
+   ],
+   [
+    "הוא",
+    13.5,
+    13.58
+   ],
+   [
+    "ממוקם",
+    13.58,
+    14.04
+   ],
+   [
+    "רחוק",
+    14.04,
+    14.48
+   ],
+   [
+    "מכדור",
+    14.54,
+    14.96
+   ],
+   [
+    "הארץ",
+    14.96,
+    15.34
+   ],
+   [
+    "בנקודת",
+    15.34,
+    15.94
+   ],
+   [
+    "לגראנז'",
+    15.94,
+    16.66
+   ],
+   [
+    "L2.",
+    16.74,
+    17.22
+   ],
+   [
+    "הטלסקופ",
+    18.12,
+    18.46
+   ],
+   [
+    "צופה",
+    18.78,
+    18.88
+   ],
+   [
+    "ביקום",
+    18.88,
+    19.34
+   ],
+   [
+    "דרך",
+    19.34,
+    19.68
+   ],
+   [
+    "אור",
+    19.68,
+    19.98
+   ],
+   [
+    "נראה",
+    19.98,
+    20.58
+   ],
+   [
+    "ואינפרה-אדום.",
+    20.58,
+    21.34
+   ],
+   [
+    "הוא",
+    22.08,
+    22.3
+   ],
+   [
+    "חוקר",
+    22.52,
+    22.7
+   ],
+   [
+    "איך",
+    22.8,
+    22.92
+   ],
+   [
+    "גלקסיות",
+    22.92,
+    23.6
+   ],
+   [
+    "וכוכבים",
+    23.6,
+    24.34
+   ],
+   [
+    "נוצרים",
+    24.34,
+    24.88
+   ],
+   [
+    "ומתפתחים.",
+    24.88,
+    25.2
+   ],
+   [
+    "הפרויקט",
+    26.66,
+    26.9
+   ],
+   [
+    "הזה",
+    26.9,
+    27.08
+   ],
+   [
+    "הוא",
+    27.08,
+    27.24
+   ],
+   [
+    "שיתוף",
+    27.32,
+    27.68
+   ],
+   [
+    "פעולה",
+    27.78,
+    28.14
+   ],
+   [
+    "של",
+    28.14,
+    28.32
+   ],
+   [
+    "17",
+    28.32,
+    28.9
+   ],
+   [
+    "מדינות.",
+    28.9,
+    29.4
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   38,
+   45
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/2294_Mission_Posters_Webb_English-1200.jpg/960px-2294_Mission_Posters_Webb_English-1200.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:2294_Mission_Posters_Webb_English-1200.jpg",
+   "desc": "2294 Mission Posters Webb English-1200 — NASA’s James Webb Space Telescope is a true technological marvel. The largest and most complex space telescope ever built, Webb will be able to gather light that has been traveling for 13.5 billion years, almost since t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/JWST-HST-primary-mirrors.jpg/960px-JWST-HST-primary-mirrors.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:JWST-HST-primary-mirrors.jpg",
+   "desc": "JWST-HST-primary-mirrors — טכנולוגית המשושים ליצירת המראה הראשית של הטלסקופ"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jwst_back_view.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 603,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Jwst_back_view.jpg",
+   "desc": "Jwst back view — James Webb Space Telescope (JWST) artist's conception (NASA)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Main_image_deep_field_smacs0723.png/960px-Main_image_deep_field_smacs0723.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 735,
+   "license": "Public domain",
+   "artist": "NASA, ESA, CSA, and STScI",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_image_deep_field_smacs0723.png",
+   "desc": "Main image deep field smacs0723 — NASA’s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb’s First Deep Field, this image of galaxy cluster SMACS 0723 is overflowing with detail"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2021
+  },
+  {
+   "type": "compare",
+   "value": 6.5,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "infrared sensors",
+   "box": [
+    133,
+    353,
+    277,
+    632
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 17,
+   "unit": "מדינות",
+   "label": "שיתוף פעולה בינלאומי"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "טלסקופ החלל ג'יימס וב",
+  "url": "https://he.wikipedia.org/wiki/%D7%98%D7%9C%D7%A1%D7%A7%D7%95%D7%A4_%D7%94%D7%97%D7%9C%D7%9C_%D7%92%27%D7%99%D7%99%D7%9E%D7%A1_%D7%95%D7%91",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

@@ -1,0 +1,345 @@
+{
+ "id": "he-0bb819b9",
+ "lang": "he",
+ "title": "היצור הכבד בהיסטוריה",
+ "cat": "biology",
+ "emoji": "🐋",
+ "sentences": [
+  "הלווייתן הכחול הוא בעל החיים הכבד ביותר שחי אי פעם.",
+  "אורכו מגיע ל-34 מטרים ומשקלו עד 177 טונות.",
+  "הוא ניזון בעיקר מיצורים קטנים שנקראים קריל.",
+  "במאה ה-20 הוא כמעט הוכחד בגלל ציד בלתי מבוקר.",
+  "בשנת 1966 הציד הוצא מחוץ לחוק הבינלאומי.",
+  "כיום נותרו בעולם רק כ-12,000 עד 15,000 פרטים בלבד."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הלווייתן",
+    0.08,
+    0.44
+   ],
+   [
+    "הכחול",
+    0.44,
+    0.84
+   ],
+   [
+    "הוא",
+    0.84,
+    0.92
+   ],
+   [
+    "בעל",
+    0.92,
+    1.12
+   ],
+   [
+    "החיים",
+    1.12,
+    1.34
+   ],
+   [
+    "הכבד",
+    1.34,
+    1.74
+   ],
+   [
+    "ביותר",
+    1.74,
+    2.12
+   ],
+   [
+    "שחי",
+    2.12,
+    2.52
+   ],
+   [
+    "אי",
+    2.52,
+    2.74
+   ],
+   [
+    "פעם.",
+    2.74,
+    2.84
+   ],
+   [
+    "אורכו",
+    3.48,
+    3.68
+   ],
+   [
+    "מגיע",
+    3.68,
+    3.94
+   ],
+   [
+    "ל-34",
+    3.94,
+    4.76
+   ],
+   [
+    "מטרים",
+    4.76,
+    5.58
+   ],
+   [
+    "ומשקלו",
+    5.58,
+    6.16
+   ],
+   [
+    "עד",
+    6.16,
+    6.4
+   ],
+   [
+    "177",
+    6.4,
+    7.48
+   ],
+   [
+    "טונות.",
+    7.48,
+    7.76
+   ],
+   [
+    "הוא",
+    8.42,
+    8.44
+   ],
+   [
+    "ניזון",
+    8.44,
+    8.74
+   ],
+   [
+    "בעיקר",
+    8.74,
+    9.16
+   ],
+   [
+    "מיצורים",
+    9.16,
+    9.54
+   ],
+   [
+    "קטנים",
+    9.54,
+    9.8
+   ],
+   [
+    "שנקראים",
+    9.8,
+    10.4
+   ],
+   [
+    "קריל.",
+    10.4,
+    10.76
+   ],
+   [
+    "במאה",
+    11.28,
+    11.5
+   ],
+   [
+    "ה-20",
+    11.5,
+    12.18
+   ],
+   [
+    "הוא",
+    12.18,
+    12.46
+   ],
+   [
+    "כמעט",
+    12.46,
+    12.96
+   ],
+   [
+    "הוכחד",
+    12.96,
+    13.22
+   ],
+   [
+    "בגלל",
+    13.22,
+    13.46
+   ],
+   [
+    "ציד",
+    13.58,
+    13.78
+   ],
+   [
+    "בלתי",
+    13.78,
+    14.12
+   ],
+   [
+    "מבוקר.",
+    14.12,
+    14.62
+   ],
+   [
+    "בשנת",
+    15.16,
+    15.34
+   ],
+   [
+    "1966",
+    15.34,
+    15.98
+   ],
+   [
+    "הציד",
+    15.98,
+    17.28
+   ],
+   [
+    "הוצא",
+    17.28,
+    17.52
+   ],
+   [
+    "מחוץ",
+    17.82,
+    17.92
+   ],
+   [
+    "לחוק",
+    17.92,
+    18.2
+   ],
+   [
+    "הבינלאומי.",
+    18.2,
+    18.76
+   ],
+   [
+    "כיום",
+    19.12,
+    19.3
+   ],
+   [
+    "נותרו",
+    19.3,
+    19.62
+   ],
+   [
+    "בעולם",
+    19.62,
+    19.9
+   ],
+   [
+    "רק",
+    19.9,
+    20.28
+   ],
+   [
+    "כ-12,000",
+    20.36,
+    20.8
+   ],
+   [
+    "עד",
+    20.8,
+    20.92
+   ],
+   [
+    "15,000",
+    21.04,
+    21.14
+   ],
+   [
+    "פרטים",
+    21.14,
+    21.36
+   ],
+   [
+    "בלבד.",
+    21.36,
+    21.76
+   ]
+  ],
+  "b": [
+   0,
+   10,
+   18,
+   25,
+   34,
+   41
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Severin_Segelcke_-_Hvalkokerier_%281936%29_-_HS.00355.jpg/960px-Severin_Segelcke_-_Hvalkokerier_%281936%29_-_HS.00355.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "CC BY-SA 3.0",
+   "artist": "Severin Segelcke",
+   "page": "https://commons.wikimedia.org/wiki/File:Severin_Segelcke_-_Hvalkokerier_(1936)_-_HS.00355.jpg",
+   "desc": "Severin Segelcke - Hvalkokerier (1936) - HS.00355 — Norwegian: Flytende kokerier, (3) under oppussing (Thor Dahl), samt to hvalbåter.title QS:P1476,no:\"Flytende kokerier, (3) under oppussing (Thor Dahl), samt to hvalbåter.\"label QS:Lno,\"Flytende kokerier, (3) "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/ICRW-signing-1946-US.jpg/960px-ICRW-signing-1946-US.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 466,
+   "license": "Public domain",
+   "artist": "US Government",
+   "page": "https://commons.wikimedia.org/wiki/File:ICRW-signing-1946-US.jpg",
+   "desc": "ICRW-signing-1946-US — The signing of the International Convention for the Regulation of Whaling in Washington D.C. on 2 December 1946."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 34,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1966
+  },
+  {
+   "type": "stat",
+   "value": 15000,
+   "unit": "פרטים",
+   "label": "אוכלוסייה עולמית"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "לווייתן כחול",
+  "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%9F_%D7%9B%D7%97%D7%95%D7%9C",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (piper)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

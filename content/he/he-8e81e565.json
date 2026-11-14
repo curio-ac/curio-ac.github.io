@@ -1,0 +1,343 @@
+{
+ "id": "he-8e81e565",
+ "lang": "he",
+ "title": "האמת על לקויות למידה",
+ "cat": "medicine",
+ "emoji": "🧠",
+ "sentences": [
+  "לקות למידה מלווה את האדם לכל החיים.",
+  "זו הפרעה נוירו-התפתחותית שפוגעת בתפקודי למידה בסיסיים.",
+  "היא מקשה על רכישת קריאה, כתיבה וחישוב ברמה המצופה.",
+  "לפעמים היא כוללת גם קשיים בקשב, דיבור או הבנה.",
+  "זו הלקות השכיחה ביותר במערכת החינוך.",
+  "אבחון וטיפול מתאימים עוזרים למצות את הפוטנציאל האישי."
+ ],
+ "tim": {
+  "w": [
+   [
+    "לקות",
+    0.08,
+    0.2
+   ],
+   [
+    "למידה",
+    0.2,
+    0.6
+   ],
+   [
+    "מלווה",
+    0.6,
+    0.94
+   ],
+   [
+    "את",
+    0.94,
+    1.06
+   ],
+   [
+    "האדם",
+    1.06,
+    1.42
+   ],
+   [
+    "לכל",
+    1.42,
+    1.76
+   ],
+   [
+    "החיים.",
+    1.76,
+    2.18
+   ],
+   [
+    "זו",
+    2.58,
+    2.68
+   ],
+   [
+    "הפרעה",
+    2.68,
+    2.98
+   ],
+   [
+    "נוירו-התפתחותית",
+    2.98,
+    3.86
+   ],
+   [
+    "שפוגעת",
+    3.86,
+    4.34
+   ],
+   [
+    "בתפקודי",
+    4.34,
+    4.8
+   ],
+   [
+    "למידה",
+    4.8,
+    5.16
+   ],
+   [
+    "בסיסיים.",
+    5.16,
+    5.58
+   ],
+   [
+    "היא",
+    5.94,
+    5.96
+   ],
+   [
+    "מקשה",
+    5.96,
+    6.22
+   ],
+   [
+    "על",
+    6.22,
+    6.42
+   ],
+   [
+    "רכישת",
+    6.42,
+    6.8
+   ],
+   [
+    "קריאה,",
+    6.8,
+    6.9
+   ],
+   [
+    "כתיבה",
+    7.66,
+    7.82
+   ],
+   [
+    "וחישוב",
+    7.82,
+    8.24
+   ],
+   [
+    "ברמה",
+    8.24,
+    8.56
+   ],
+   [
+    "המצופה.",
+    8.56,
+    9.1
+   ],
+   [
+    "לפעמים",
+    9.46,
+    9.6
+   ],
+   [
+    "היא",
+    9.6,
+    9.76
+   ],
+   [
+    "כוללת",
+    9.76,
+    10.2
+   ],
+   [
+    "גם",
+    10.2,
+    10.36
+   ],
+   [
+    "קשיים",
+    10.36,
+    10.72
+   ],
+   [
+    "בקשב,",
+    10.72,
+    11.14
+   ],
+   [
+    "דיבור",
+    11.72,
+    11.82
+   ],
+   [
+    "או",
+    11.82,
+    11.92
+   ],
+   [
+    "הבנה.",
+    11.92,
+    12.17
+   ],
+   [
+    "זו",
+    12.82,
+    12.92
+   ],
+   [
+    "הלקות",
+    12.92,
+    13.22
+   ],
+   [
+    "השכיחה",
+    13.22,
+    13.6
+   ],
+   [
+    "ביותר",
+    13.6,
+    13.94
+   ],
+   [
+    "במערכת",
+    13.94,
+    14.44
+   ],
+   [
+    "החינוך.",
+    14.44,
+    14.8
+   ],
+   [
+    "אבחון",
+    15.46,
+    15.6
+   ],
+   [
+    "וטיפול",
+    15.6,
+    16.06
+   ],
+   [
+    "מתאימים",
+    16.06,
+    16.4
+   ],
+   [
+    "עוזרים",
+    16.4,
+    16.76
+   ],
+   [
+    "למצות",
+    16.76,
+    17.18
+   ],
+   [
+    "את",
+    17.18,
+    17.26
+   ],
+   [
+    "הפוטנציאל",
+    17.26,
+    17.94
+   ],
+   [
+    "האישי.",
+    17.94,
+    18.14
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   23,
+   32,
+   38
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Take_a_picture_with_a_proud_dyslexic.jpg/960px-Take_a_picture_with_a_proud_dyslexic.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "Project Eye-To-Eye",
+   "page": "https://commons.wikimedia.org/wiki/File:Take_a_picture_with_a_proud_dyslexic.jpg",
+   "desc": "Take a picture with a proud dyslexic — A girl holding a sign that says \"LD = Less equally intelligent / Strike out stigma\" poses for a photo in Times Square with a man holding a sign that says \"Take a picture with a proud Dyslexic]"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Brain_Anatomy_%28Sagittal%29_ku.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 550,
+   "license": "CC BY-SA 4.0",
+   "artist": "BruceBlaus",
+   "page": "https://commons.wikimedia.org/wiki/File:Brain_Anatomy_(Sagittal)_ku.png",
+   "desc": "Brain Anatomy (Sagittal) ku — KurdishːDemax ji mejî, demaxê navê, qedê( stûn)demax û ji mejikê pêk tê. Demax di nav hestiyê kiloxê de, ji aliyê perdeyên mejî û şileya mejî-dirkepetik ve dorpêçkirî ye. Perdeyên mejî û şileya mejî-dirkepetik, valahiya "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Child_studies_and_writes_in_notebook_at_a_table_with_focus_and_concentration_in_a_bright_indoor_setting.jpg/960px-Child_studies_and_writes_in_notebook_at_a_table_with_focus_and_concentration_in_a_bright_indoor_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "Shixart1985",
+   "page": "https://commons.wikimedia.org/wiki/File:Child_studies_and_writes_in_notebook_at_a_table_with_focus_and_concentration_in_a_bright_indoor_setting.jpg",
+   "desc": "Child studies and writes in notebook at a table with focus and concentration in a bright indoor setting — A young girl sits at a table and writes in her notebook with a red pencil. She looks focused on her schoolwork in a well-lit area. There are papers and bo"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Honduras_San_Ramon_Choluteca_school_4.jpg/960px-Honduras_San_Ramon_Choluteca_school_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Zack Clark",
+   "page": "https://commons.wikimedia.org/wiki/File:Honduras_San_Ramon_Choluteca_school_4.jpg",
+   "desc": "Honduras San Ramon Choluteca school 4 — Girl with notebook in new class room provided by the 'Solar.net Village' project. Camera Info: OLYMPUS SR83 Digital F-stop 2.8 Exposure 1/30 Create date: 1999:09:02 16:10:14 Contact creator at http://Stockhausen.yojoa.or"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "books and notebooks",
+   "box": [
+    629,
+    0,
+    820,
+    792
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "לקות למידה",
+  "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%A7%D7%95%D7%AA_%D7%9C%D7%9E%D7%99%D7%93%D7%94",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (piper)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

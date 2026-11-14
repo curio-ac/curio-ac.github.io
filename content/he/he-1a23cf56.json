@@ -1,0 +1,373 @@
+{
+ "id": "he-1a23cf56",
+ "lang": "he",
+ "title": "היונקים שכבשו את השמיים",
+ "cat": "biology",
+ "emoji": "🦇",
+ "sentences": [
+  "עטלפים הם היונקים היחידים שמסוגלים לעוף.",
+  "יש יותר מ-1,400 מינים שונים של עטלפים בעולם.",
+  "הם קיימים כבר 52 מיליון שנה, עוד מתקופת האאוקן.",
+  "העטלף הקטן ביותר שוקל רק 1.5 גרם.",
+  "הגדול שבהם מגיע למוטת כנפיים של 1.7 מטר.",
+  "הם חיים בלהקות ענקיות ותלויים הפוך בתוך מערות.",
+  "למרות הסטיגמות, הם יצורים חברותיים וחשובים מאוד לאקולוגיה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "עטלפים",
+    0.06,
+    0.68
+   ],
+   [
+    "הם",
+    0.68,
+    1.06
+   ],
+   [
+    "היונקים",
+    1.06,
+    1.64
+   ],
+   [
+    "היחידים",
+    1.64,
+    2.32
+   ],
+   [
+    "שמסוגלים",
+    2.32,
+    2.96
+   ],
+   [
+    "לעוף.",
+    2.96,
+    3.22
+   ],
+   [
+    "יש",
+    4.16,
+    4.18
+   ],
+   [
+    "יותר",
+    4.18,
+    4.46
+   ],
+   [
+    "מ-1,400",
+    4.46,
+    5.26
+   ],
+   [
+    "מינים",
+    5.28,
+    5.92
+   ],
+   [
+    "שונים",
+    5.92,
+    6.18
+   ],
+   [
+    "של",
+    6.18,
+    6.42
+   ],
+   [
+    "עטלפים",
+    6.42,
+    6.9
+   ],
+   [
+    "בעולם.",
+    6.9,
+    7.22
+   ],
+   [
+    "הם",
+    8.06,
+    8.1
+   ],
+   [
+    "קיימים",
+    8.1,
+    8.52
+   ],
+   [
+    "כבר",
+    8.52,
+    8.78
+   ],
+   [
+    "52",
+    8.78,
+    9.32
+   ],
+   [
+    "מיליון",
+    9.32,
+    10.12
+   ],
+   [
+    "שנה,",
+    10.12,
+    10.42
+   ],
+   [
+    "עוד",
+    10.76,
+    10.88
+   ],
+   [
+    "מתקופת",
+    10.88,
+    11.38
+   ],
+   [
+    "האאוקן.",
+    11.38,
+    11.92
+   ],
+   [
+    "העטלף",
+    12.82,
+    13.26
+   ],
+   [
+    "הקטן",
+    13.26,
+    13.66
+   ],
+   [
+    "ביותר",
+    13.66,
+    14.12
+   ],
+   [
+    "שוקל",
+    14.12,
+    14.66
+   ],
+   [
+    "רק",
+    14.66,
+    14.82
+   ],
+   [
+    "1.5",
+    14.96,
+    15.52
+   ],
+   [
+    "גרם.",
+    15.52,
+    16.0
+   ],
+   [
+    "הגדול",
+    16.72,
+    17.08
+   ],
+   [
+    "שבהם",
+    17.08,
+    17.56
+   ],
+   [
+    "מגיע",
+    17.72,
+    18.02
+   ],
+   [
+    "למוטת",
+    18.02,
+    18.46
+   ],
+   [
+    "כנפיים",
+    18.56,
+    18.94
+   ],
+   [
+    "של",
+    18.94,
+    19.16
+   ],
+   [
+    "1.7",
+    19.16,
+    20.22
+   ],
+   [
+    "מטר.",
+    20.22,
+    20.5
+   ],
+   [
+    "הם",
+    21.44,
+    21.54
+   ],
+   [
+    "חיים",
+    21.54,
+    21.84
+   ],
+   [
+    "בלהקות",
+    21.84,
+    22.44
+   ],
+   [
+    "ענקיות",
+    22.48,
+    23.02
+   ],
+   [
+    "ותלויים",
+    23.5,
+    23.76
+   ],
+   [
+    "הפוך",
+    23.76,
+    24.12
+   ],
+   [
+    "בתוך",
+    24.12,
+    24.46
+   ],
+   [
+    "מערות.",
+    24.46,
+    24.82
+   ],
+   [
+    "למרות",
+    25.72,
+    26.02
+   ],
+   [
+    "הסטיגמות,",
+    26.02,
+    26.52
+   ],
+   [
+    "הם",
+    26.78,
+    26.88
+   ],
+   [
+    "יצורים",
+    26.88,
+    27.34
+   ],
+   [
+    "חברותיים",
+    27.34,
+    28.06
+   ],
+   [
+    "וחשובים",
+    28.06,
+    28.94
+   ],
+   [
+    "מאוד",
+    28.94,
+    29.28
+   ],
+   [
+    "לאקולוגיה.",
+    29.28,
+    29.52
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   23,
+   30,
+   38,
+   46
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%22Icaronycterix_index%22_is_a_very_early_bat_that_lived_during_the_Eocene._Fossils_of_%22Icaronycterix%22_have_been_found_near_Fossil_%28f44fbdf5-f382-41ef-bb02-f1ddb42be516%29.png/960px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 556,
+   "license": "Public domain",
+   "artist": "NPS image",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Icaronycterix_index%22_is_a_very_early_bat_that_lived_during_the_Eocene._Fossils_of_%22Icaronycterix%22_have_been_found_near_Fossil_(f44fbdf5-f382-41ef-bb02-f1ddb42be516).png",
+   "desc": "\"Icaronycterix index\" is a very early bat that lived during the Eocene. Fossils of \"Icaronycterix\" have been found near Fossil (f44fbdf5-f382-41ef-bb02-f1ddb42be516) — line drawing of an early bat \"Icaronycterix index\" is a very early bat that lived during the"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Craseonycteris_thonglongyai_414843825.jpg/960px-Craseonycteris_thonglongyai_414843825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1015,
+   "license": "CC BY 4.0",
+   "artist": "Jan Ebr &amp; Ivana Ebrová",
+   "page": "https://commons.wikimedia.org/wiki/File:Craseonycteris_thonglongyai_414843825.jpg",
+   "desc": "Craseonycteris thonglongyai 414843825 — Bumblebee Bat (Craseonycteris thonglongyai) in Thailand"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1400,
+   "unit": "מינים",
+   "label": "מינים של עטלפים"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.0015,
+   "dim": "mass",
+   "unit_value_in": "kg"
+  },
+  {
+   "type": "compare",
+   "value": 1.7,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "עטלפים",
+  "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%98%D7%9C%D7%A4%D7%99%D7%9D",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}
