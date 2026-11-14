@@ -28,7 +28,7 @@ def http(url, body=None, headers=None, timeout=120):
             msg = e.read()[:300].decode("utf8", "ignore")
             if e.code == 429:
                 if "PerDay" in msg or "per day" in msg.lower() or attempt == 2:
-                    raise Quota(msg)
+                    raise Quota(url.split("/models/")[-1].split(":")[0] + " " + re.sub(r"\s+", " ", msg)[-200:])
                 time.sleep(30); continue
             if e.code >= 500 and attempt < 2:
                 time.sleep(20 * (attempt + 1)); continue
@@ -58,6 +58,7 @@ def pick_model(kind):
     return c[0]
 
 
+TTS_MODELS = os.environ.get("TTS_MODELS", "gemini-3.8-flash-tts,gemini-3.1-flash-tts-preview,gemini-2.5-flash-preview-tts,gemini-2.5-pro-preview-tts").split(",")
 TEXT_MODELS = os.environ.get("TEXT_MODELS", "gemini-3.5-flash,gemini-3.1-flash-lite,gemini-flash-lite-latest").split(",")
 
 
@@ -211,7 +212,7 @@ def main():
     idx_path = f"content/{lang}/index.json"
     index = json.load(open(idx_path)) if os.path.exists(idx_path) else {"done": [], "rejected": []}
     todo = [t for t in topics if t not in index["done"] and t not in index["rejected"]][:a.count]
-    text_m, tts_m = TEXT_MODELS[0], os.environ.get("TTS_MODEL", "gemini-3.8-flash-tts")
+    text_m, tts_m = TEXT_MODELS[0], TTS_MODELS[0]
     print(f"models: text={text_m} tts={tts_m} | {len(todo)} topics", flush=True)
     stats = {"made": 0, "rejected": 0, "calls": 0}
     for topic in todo:
@@ -233,7 +234,15 @@ def main():
             vid = lang + "-" + hashlib.md5(art["title"].encode()).hexdigest()[:8]
             mp3 = f"audio/{lang}/{vid}.mp3"
             spoken = " ".join(sc["sentences"])
-            tts(tts_m, niqqud(spoken) if lang == "he" else spoken, lang, mp3); stats["calls"] += 1
+            while True:
+                try:
+                    tts(TTS_MODELS[0], niqqud(spoken) if lang == "he" else spoken, lang, mp3); stats["calls"] += 1; break
+                except (Quota, RuntimeError) as e:
+                    if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
+                        raise
+                    print(f"   ↪ tts {TTS_MODELS[0]} unavailable, switching", flush=True); TTS_MODELS.pop(0)
+                    if not TTS_MODELS:
+                        raise Quota("all tts models exhausted")
             tim = align(mp3, sc["sentences"], lang)
             if tim["w"]:  # cut trailing noise: end 0.3s after the last word, with a short fade
                 end = tim["w"][-1][2] + 0.3; tmp = mp3 + ".tmp.mp3"
@@ -243,7 +252,7 @@ def main():
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
                        "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs,
                        "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
-                       "ai": {"script": text_m, "voice": f"{tts_m}/{VOICE}", "fact_check": "passed"},
+                       "ai": {"script": text_m, "voice": f"{TTS_MODELS[0]}/{VOICE}", "fact_check": "passed"},
                        "created": time.strftime("%Y-%m-%d")},
                       open(f"content/{lang}/{vid}.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)
             index["done"].append(topic); stats["made"] += 1
