@@ -4,7 +4,7 @@ Outputs: content/<lang>/<id>.json + audio/<lang>/<id>.mp3 ; updates content/<lan
 """
 import argparse, random, base64, hashlib, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
 
-UA = {"User-Agent": "CurioBot/0.1 (https://github.com/o2hoffman-hash/Curio)"}
+UA = {"User-Agent": "CurioBot/0.1 (https://github.com/curio-ac/curio-ac.github.io)"}
 KEY = os.environ.get("GEMINI_API_KEY", "")
 G = "https://generativelanguage.googleapis.com/v1beta"
 CATS = ["space", "biology", "history", "math", "geography", "physics", "chemistry", "language", "psychology", "art", "economics", "technology", "medicine"]
