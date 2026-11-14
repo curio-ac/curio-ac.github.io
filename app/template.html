@@ -81,7 +81,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 .actions button{background:none;border:0;color:#fff;font-size:30px;display:flex;flex-direction:column;align-items:center;cursor:pointer;filter:drop-shadow(0 2px 6px rgba(0,0,0,.45));transition:transform .2s;width:54px}
 .actions small{font-size:11px;font-family:inherit;margin-top:2px;font-weight:700}
 .actions button.on{transform:scale(1.18)}
-.pz{position:absolute;inset:0;display:none;align-items:center;justify-content:center;font-size:84px;z-index:5;pointer-events:none;opacity:.85}
+.pz{position:absolute;inset:0;display:none;align-items:center;justify-content:center;z-index:5;pointer-events:none;opacity:.9}
 .post.paused .pz{display:flex}
 #top{position:fixed;top:0;left:0;right:0;height:54px;display:flex;align-items:center;justify-content:space-between;padding:0 14px;z-index:10;max-width:520px;margin:0 auto;background:linear-gradient(rgba(0,0,0,.4),transparent)}
 .logo{font-weight:900;font-size:25px;letter-spacing:-.5px;direction:ltr}
@@ -118,7 +118,6 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 <body>
 <div id="top"><div class="logo">curi<b>o</b></div><div><button id="btnStats" title="האלגוריתם">📊</button><button id="btnSound" title="קול">🔊</button></div></div>
 <div id="feed"></div>
-<div id="start" class="ov" id2="tap"><div class="logo">curi<b>o</b></div><p>לגלול. ללמוד. להתפלא.</p><button id="go">▶</button></div>
 <div id="panel" class="ov"><div class="box"><h3>📊 מה האלגוריתם למד עליך</h3><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
 <div id="toast"></div>
 <script>
@@ -174,7 +173,7 @@ function render(it){
     return el;
   }
   const en=it.lang==="en",ims=it.images||[];if(ims.length)el.classList.add("has-img");
-  el.innerHTML=`<div class="bg"></div><div class="bigemo">${it.emoji}</div>${ims.map(m=>`<div class="img"><i style="background-image:url('${(window.IMG&&IMG[m.url])||m.url}')"></i></div>`).join("")}<div class="shade"></div><div class="stat"></div><div class="vis"></div><div class="emo">${it.emoji}</div><div class="cap"></div><div class="pz">⏸</div>
+  el.innerHTML=`<div class="bg"></div><div class="bigemo">${it.emoji}</div>${ims.map(m=>`<div class="img"><i style="background-image:url('${(window.IMG&&IMG[m.url])||m.url}')"></i></div>`).join("")}<div class="shade"></div><div class="stat"></div><div class="vis"></div><div class="emo">${it.emoji}</div><div class="cap"></div><div class="pz"><svg viewBox="0 0 80 80" width="76" height="76"><circle cx="40" cy="40" r="38" fill="rgba(0,0,0,.35)"/><path d="M32 25 L57 40 L32 55 Z" fill="#fff"/></svg></div>
   <div class="actions">
     <button class="like${liked.has(it.id)?" on":""}">${liked.has(it.id)?"❤️":"🤍"}<small>${en?"Like":"אהבתי"}</small></button>
     <button class="sv${saved.has(it.id)?" on":""}">${saved.has(it.id)?"⭐":"☆"}<small>${en?"Save":"שמירה"}</small></button>
@@ -301,6 +300,7 @@ function activate(el){
   const it=el._it;cur={el,it,enter:performance.now(),lastT:0,done:false};
   const i=[...feed.children].indexOf(el);while(feed.children.length<i+4)add();
   if(it.quiz){player.pause();return}
+  if(!AC){cur.paused=true;el.classList.add("paused")} // לפני הנגיעה הראשונה: עומד על "נגן"
   seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
   player.open(it.id);
@@ -320,7 +320,11 @@ function seekSlide(d){
   player.currentTime=Math.max(0,w[b[si]][1]-.05);
   if(cur.paused)togglePause();
 }
-function togglePause(){cur.paused=!cur.paused;cur.el.classList.toggle("paused",cur.paused);cur.paused?player.pause():player.play().catch(()=>{});if(AC)cur.paused?AC.suspend():AC.resume()}
+function togglePause(){cur.paused=!cur.paused;cur.el.classList.toggle("paused",cur.paused);
+  if(cur.paused){player.pause();if(AC)AC.suspend();return}
+  if(AC)AC.resume();if(cur.it.quiz)return;
+  if(!player.buf)player.open(cur.it.id);else player.play();
+  if(!mus){let h=0;for(const ch of cur.it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h)}}
 function tick(){
   if(cur&&!cur.it.quiz){
     const it=cur.it,t=player.currentTime,d=player.duration||1;
@@ -339,9 +343,9 @@ const $=id=>document.getElementById(id);let tt;
 function toast(m){const t=$("toast");t.textContent=m;t.classList.add("on");clearTimeout(tt);tt=setTimeout(()=>t.classList.remove("on"),1800)}
 // התחלה אוטומטית בשתי השפות. הדפדפן מתיר קול רק אחרי נגיעה ראשונה
 LANGS=["he","en"];player.muted=true;for(let i=0;i<3;i++)add();requestAnimationFrame(tick);
-const unlock=()=>{document.removeEventListener("pointerdown",unlock,true);const t=$("start");if(t)t.remove();initAudio();player.muted=muted;
-  if(cur&&!cur.it.quiz){player.open(cur.it.id);[...feed.children].slice(1,4).forEach(e=>{if(!e._it.quiz)loadBuf(e._it.id)});let h=0;for(const ch of cur.it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h)}};
-document.addEventListener("pointerdown",unlock,true);
+const unlock=()=>{document.removeEventListener("click",unlock,true);initAudio();if(AC)AC.resume();player.muted=muted;
+  [...feed.children].slice(0,4).forEach(e=>{if(!e._it.quiz)loadBuf(e._it.id)})};
+document.addEventListener("click",unlock,true);
 // יציאה מהאפליקציה / מסך נעול: עוצרים הכול, וממשיכים כשחוזרים
 function bgPause(){player.pause();if(AC)AC.suspend()}
 document.addEventListener("visibilitychange",()=>{if(document.hidden)bgPause();else if(cur&&!cur.paused&&!cur.it.quiz){player.play().catch(()=>{});if(AC)AC.resume()}});
