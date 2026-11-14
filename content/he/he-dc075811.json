@@ -1,0 +1,345 @@
+{
+ "id": "he-dc075811",
+ "lang": "he",
+ "title": "הסוד האמיתי של הקפה",
+ "cat": "history",
+ "emoji": "☕",
+ "sentences": [
+  "הקפה שלכם אולי התחיל בתור יין.",
+  "מילונאים ערביים סברו שהמילה קפה פירושה המקורי הוא יין.",
+  "המשקה המוכר לנו הופץ לעולם דרך תימן במאה ה-15.",
+  "צמח הקפה עצמו הגיע במקור מאתיופיה.",
+  "שמו של המשקה כנראה נגזר מממלכת קאפה האתיופית.",
+  "הקפאין שבפולים הוא שהופך את הקפה למשקה מעורר."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הקפה",
+    0.08,
+    0.46
+   ],
+   [
+    "שלכם",
+    0.46,
+    0.86
+   ],
+   [
+    "אולי",
+    0.86,
+    1.2
+   ],
+   [
+    "התחיל",
+    1.2,
+    1.52
+   ],
+   [
+    "בתור",
+    1.52,
+    1.86
+   ],
+   [
+    "יין.",
+    1.86,
+    2.18
+   ],
+   [
+    "מילונאים",
+    2.92,
+    3.4
+   ],
+   [
+    "ערביים",
+    3.4,
+    3.82
+   ],
+   [
+    "סברו",
+    3.82,
+    4.36
+   ],
+   [
+    "שהמילה",
+    4.36,
+    4.84
+   ],
+   [
+    "קפה",
+    4.84,
+    5.44
+   ],
+   [
+    "פירושה",
+    5.44,
+    6.12
+   ],
+   [
+    "המקורי",
+    6.12,
+    6.58
+   ],
+   [
+    "הוא",
+    6.58,
+    6.72
+   ],
+   [
+    "יין.",
+    6.72,
+    6.98
+   ],
+   [
+    "המשקה",
+    7.66,
+    7.98
+   ],
+   [
+    "המוכר",
+    7.98,
+    8.34
+   ],
+   [
+    "לנו",
+    8.34,
+    8.52
+   ],
+   [
+    "הופץ",
+    8.52,
+    9.04
+   ],
+   [
+    "לעולם",
+    9.08,
+    9.44
+   ],
+   [
+    "דרך",
+    9.44,
+    9.82
+   ],
+   [
+    "תימן",
+    9.94,
+    10.28
+   ],
+   [
+    "במאה",
+    10.28,
+    10.7
+   ],
+   [
+    "ה-15.",
+    10.7,
+    11.18
+   ],
+   [
+    "צמח",
+    12.04,
+    12.28
+   ],
+   [
+    "הקפה",
+    12.28,
+    12.64
+   ],
+   [
+    "עצמו",
+    12.64,
+    12.96
+   ],
+   [
+    "הגיע",
+    12.96,
+    13.26
+   ],
+   [
+    "במקור",
+    13.26,
+    13.68
+   ],
+   [
+    "מאתיופיה.",
+    13.68,
+    14.32
+   ],
+   [
+    "שמו",
+    14.86,
+    14.98
+   ],
+   [
+    "של",
+    14.98,
+    15.14
+   ],
+   [
+    "המשקה",
+    15.14,
+    15.56
+   ],
+   [
+    "כנראה",
+    15.56,
+    16.0
+   ],
+   [
+    "נגזר",
+    16.0,
+    16.38
+   ],
+   [
+    "מממלכת",
+    16.38,
+    17.0
+   ],
+   [
+    "קאפה",
+    17.18,
+    17.52
+   ],
+   [
+    "האתיופית.",
+    17.52,
+    18.0
+   ],
+   [
+    "הקפאין",
+    18.8,
+    19.28
+   ],
+   [
+    "שבפולים",
+    19.28,
+    19.86
+   ],
+   [
+    "הוא",
+    19.86,
+    20.22
+   ],
+   [
+    "שהופך",
+    20.22,
+    20.68
+   ],
+   [
+    "את",
+    20.68,
+    20.76
+   ],
+   [
+    "הקפה",
+    20.76,
+    21.2
+   ],
+   [
+    "למשקה",
+    21.2,
+    21.7
+   ],
+   [
+    "מעורר.",
+    21.7,
+    21.92
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   24,
+   30,
+   38
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/960px-A_small_cup_of_coffee.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Julius Schorzman",
+   "page": "https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG",
+   "desc": "A small cup of coffee — A photo of a cup of coffee."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_mss_0236_fol_0b-1a.jpg/960px-Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_mss_0236_fol_0b-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 551,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "Khalili Collections",
+   "page": "https://commons.wikimedia.org/wiki/File:Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_mss_0236_fol_0b-1a.jpg",
+   "desc": "Khalili Collection Hajj and Arts of Pilgrimage mss 0236 fol 0b-1a — Firuzabadi's al-Qamus al-Muhit"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/DRUZE_MAN_SERVING_COFFEE_ITAMAR_GRINBERG_IMOT_%2814024329350%29.jpg/960px-DRUZE_MAN_SERVING_COFFEE_ITAMAR_GRINBERG_IMOT_%2814024329350%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 2.0",
+   "artist": "Israel_photo_gallery",
+   "page": "https://commons.wikimedia.org/wiki/File:DRUZE_MAN_SERVING_COFFEE_ITAMAR_GRINBERG_IMOT_(14024329350).jpg",
+   "desc": "DRUZE MAN SERVING COFFEE ITAMAR GRINBERG IMOT (14024329350) — Druze hospitality center in the Galilee. A druze pouring coffee out ot a traditional coffee pot. Photo taken by Itamar Grinberg for the Israeli Ministry of Tourism. Credit attribution requested Gali"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Coffee_Ceremony%2C_Ethiopia_%288186977293%29.jpg/960px-Coffee_Ceremony%2C_Ethiopia_%288186977293%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 759,
+   "license": "CC BY-SA 2.0",
+   "artist": "Rod Waddington from Kergunyah, Australia",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_Ceremony,_Ethiopia_(8186977293).jpg",
+   "desc": "Coffee Ceremony, Ethiopia (8186977293) — Lake Tana"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Coffee_beans_macro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 2.0",
+   "artist": "Pen Waggener",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_beans_macro.jpg",
+   "desc": "Coffee beans macro — Beans from the Malabar region of India, recently roasted."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "קפה",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A4%D7%94",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}
