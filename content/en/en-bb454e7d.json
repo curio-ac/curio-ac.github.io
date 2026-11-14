@@ -1,0 +1,445 @@
+{
+ "id": "en-bb454e7d",
+ "lang": "en",
+ "title": "70 Pine Street's Secret",
+ "cat": "history",
+ "emoji": "🏙️",
+ "sentences": [
+  "It was once Lower Manhattan's tallest building!",
+  "Workers constructed the 952-foot skyscraper between 1930 and 1932.",
+  "The 67-story structure was designed in the Art Deco style.",
+  "It was originally named for the Cities Service Company.",
+  "The exterior features a brick, limestone, and gneiss facade.",
+  "Inside, double-deck elevators link the floors together.",
+  "A 3-story penthouse was intended for founder Henry Latham Doherty."
+ ],
+ "tim": {
+  "w": [
+   [
+    "It",
+    0,
+    0.06
+   ],
+   [
+    "was",
+    0.06,
+    0.22
+   ],
+   [
+    "once",
+    0.22,
+    0.52
+   ],
+   [
+    "Lower",
+    0.52,
+    0.9
+   ],
+   [
+    "Manhattan's",
+    0.9,
+    1.68
+   ],
+   [
+    "tallest",
+    1.68,
+    2.04
+   ],
+   [
+    "building!",
+    2.04,
+    3.16
+   ],
+   [
+    "Workers",
+    3.16,
+    3.44
+   ],
+   [
+    "constructed",
+    3.44,
+    3.98
+   ],
+   [
+    "the",
+    4.0,
+    4.24
+   ],
+   [
+    "952-foot",
+    4.24,
+    5.9
+   ],
+   [
+    "skyscraper",
+    5.9,
+    6.64
+   ],
+   [
+    "between",
+    6.66,
+    7.02
+   ],
+   [
+    "1930",
+    7.02,
+    7.76
+   ],
+   [
+    "and",
+    7.76,
+    8.22
+   ],
+   [
+    "1932.",
+    8.22,
+    9.24
+   ],
+   [
+    "The",
+    10.02,
+    10.12
+   ],
+   [
+    "67-story",
+    10.12,
+    11.1
+   ],
+   [
+    "structure",
+    11.46,
+    11.56
+   ],
+   [
+    "was",
+    11.56,
+    11.92
+   ],
+   [
+    "designed",
+    11.92,
+    12.3
+   ],
+   [
+    "in",
+    12.3,
+    12.54
+   ],
+   [
+    "the",
+    12.54,
+    12.64
+   ],
+   [
+    "Art",
+    12.64,
+    12.86
+   ],
+   [
+    "Deco",
+    13.04,
+    13.14
+   ],
+   [
+    "style.",
+    13.14,
+    13.54
+   ],
+   [
+    "It",
+    14.26,
+    14.34
+   ],
+   [
+    "was",
+    14.34,
+    14.48
+   ],
+   [
+    "originally",
+    14.48,
+    14.82
+   ],
+   [
+    "named",
+    14.82,
+    15.2
+   ],
+   [
+    "for",
+    15.2,
+    15.4
+   ],
+   [
+    "the",
+    15.4,
+    15.52
+   ],
+   [
+    "Cities",
+    15.52,
+    15.8
+   ],
+   [
+    "Service",
+    15.8,
+    16.16
+   ],
+   [
+    "Company.",
+    16.16,
+    16.48
+   ],
+   [
+    "The",
+    17.42,
+    17.52
+   ],
+   [
+    "exterior",
+    17.52,
+    18.0
+   ],
+   [
+    "features",
+    18.0,
+    18.46
+   ],
+   [
+    "a",
+    18.46,
+    18.72
+   ],
+   [
+    "brick,",
+    18.72,
+    18.94
+   ],
+   [
+    "limestone,",
+    19.2,
+    19.72
+   ],
+   [
+    "and",
+    19.82,
+    19.88
+   ],
+   [
+    "gneiss",
+    19.88,
+    20.14
+   ],
+   [
+    "facade.",
+    20.14,
+    20.62
+   ],
+   [
+    "Inside,",
+    21.38,
+    21.9
+   ],
+   [
+    "double-deck",
+    22.26,
+    22.68
+   ],
+   [
+    "elevators",
+    22.74,
+    23.18
+   ],
+   [
+    "link",
+    23.18,
+    23.44
+   ],
+   [
+    "the",
+    23.44,
+    23.62
+   ],
+   [
+    "floors",
+    23.62,
+    23.82
+   ],
+   [
+    "together.",
+    23.82,
+    24.2
+   ],
+   [
+    "A",
+    24.94,
+    25.06
+   ],
+   [
+    "3-story",
+    25.16,
+    25.56
+   ],
+   [
+    "penthouse",
+    25.56,
+    26.16
+   ],
+   [
+    "was",
+    26.16,
+    26.34
+   ],
+   [
+    "intended",
+    26.34,
+    26.72
+   ],
+   [
+    "for",
+    26.72,
+    27.0
+   ],
+   [
+    "founder",
+    27.14,
+    27.32
+   ],
+   [
+    "Henry",
+    27.32,
+    27.7
+   ],
+   [
+    "Latham",
+    27.84,
+    28.18
+   ],
+   [
+    "Doherty.",
+    28.18,
+    28.48
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   26,
+   35,
+   44,
+   51
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/NYC_Manhattan_1938_Franz_Grasser.jpg/960px-NYC_Manhattan_1938_Franz_Grasser.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1059,
+   "license": "Public domain",
+   "artist": "Franz Grasser",
+   "page": "https://commons.wikimedia.org/wiki/File:NYC_Manhattan_1938_Franz_Grasser.jpg",
+   "desc": "NYC Manhattan 1938 Franz Grasser — Manhattan in the New York City was photographed in 1938 using newly invented Agfacolor process. This photograph was not colorized. General view of the downtown skyline from the Manhattan Bridge."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/70_Pine_Street_under_renovation_2014.JPG/960px-70_Pine_Street_under_renovation_2014.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "MusikAnimal",
+   "page": "https://commons.wikimedia.org/wiki/File:70_Pine_Street_under_renovation_2014.JPG",
+   "desc": "70 Pine Street under renovation 2014 — 70 Pine Street under renovation in 2014"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/AIG_New_York_building_at_the_golden_hour.jpg/960px-AIG_New_York_building_at_the_golden_hour.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "https://www.flickr.com/people/epicharmus/",
+   "page": "https://commons.wikimedia.org/wiki/File:AIG_New_York_building_at_the_golden_hour.jpg",
+   "desc": "AIG New York building at the golden hour — The top portion of the American International Group headquarters building in New York City lit by the sun; see a similar image of the building at dusk."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Citiesservicemodel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1238,
+   "license": "Public domain",
+   "artist": "Junkyard kahrs at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Citiesservicemodel.jpg",
+   "desc": "Citiesservicemodel — Author: John Kahrs"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/70_PINE_exteriors2.jpg/960px-70_PINE_exteriors2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 731,
+   "license": "CC BY-SA 4.0",
+   "artist": "Floral4",
+   "page": "https://commons.wikimedia.org/wiki/File:70_PINE_exteriors2.jpg",
+   "desc": "70 PINE exteriors2 — Exterior facade of 70 Pine St (Financial District in NYC)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Double_lobby_for_double-deck_elevators.jpeg/960px-Double_lobby_for_double-deck_elevators.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Tyuvc",
+   "page": "https://commons.wikimedia.org/wiki/File:Double_lobby_for_double-deck_elevators.jpeg",
+   "desc": "Double lobby for double-deck elevators — Mori Tower"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 67,
+   "unit": "stories",
+   "label": "tallest building"
+  },
+  {
+   "type": "timeline",
+   "year": 1930
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "stories",
+   "label": "penthouse"
+  }
+ ],
+ "geo": [
+  40.706,
+  -74.007
+ ],
+ "source": {
+  "title": "70 Pine Street",
+  "url": "https://en.wikipedia.org/wiki/70_Pine_Street",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

@@ -3,23 +3,94 @@
   "Blue whale",
   "Volcano",
   "Coffee",
-  "Chocolate"
+  "Chocolate",
+  "Mount Everest",
+  "Emperor penguin",
+  "Rainbow",
+  "Eiffel Tower",
+  "Colosseum",
+  "Moon",
+  "Glass",
+  "Great Wall of China",
+  "Rosetta Stone",
+  "Saturn",
+  "Glacier",
+  "Sleep",
+  "Monarch butterfly",
+  "Great white shark",
+  "70 Pine Street",
+  "Atlantic City–Brigantine Connector",
+  "Donkey Kong 64"
  ],
  "rejected": [
   "Chameleon"
  ],
  "angles": {
   "Blue whale": [
-   "Largest Animal Ever Existed: The blue whale is the largest animal ever."
+   "Largest Animal Ever Existed: The blue whale is the largest animal ever.",
+   "Surprising Blue Whale Facts: They eat almost exclusively krill."
   ],
   "Volcano": [
-   "Volcanoes Are Mostly Underwater: Most volcanoes are actually hidden underwater."
+   "Volcanoes Are Mostly Underwater: Most volcanoes are actually hidden underwater.",
+   "Earth's Deepest Volcano Secrets: Plumes rise from 3,000 kilometers deep inside Earth!"
   ],
   "Coffee": [
    "The Truth About Coffee: Coffee beans are actually fruit seeds."
   ],
   "Chocolate": [
-   "The Truth About Chocolate: Chocolate starts as seeds from a tree."
+   "The Truth About Chocolate: Chocolate starts as seeds from a tree.",
+   "The Secrets of Chocolate: Chocolate can be liquid, solid, or paste!"
+  ],
+  "Mount Everest": [
+   "Secrets of Mount Everest: Over 200 bodies remain on Mount Everest."
+  ],
+  "Emperor penguin": [
+   "Emperor Penguin Survival Skills: Emperor penguins dive to 535 meters deep."
+  ],
+  "Rainbow": [
+   "Rainbows Are Full Circles: Rainbows can actually appear as full circles."
+  ],
+  "Eiffel Tower": [
+   "The Iron Lady's Secrets: The Eiffel Tower was initially hated by artists."
+  ],
+  "Colosseum": [
+   "Secrets of the Colosseum: Rome's Colosseum held up to 80,000 spectators."
+  ],
+  "Moon": [
+   "Our Moon's Hidden Secrets: The Moon is the Earth's only natural satellite."
+  ],
+  "Glass": [
+   "Glass Through The Ages: Stone Age knives were made of glass!"
+  ],
+  "Great Wall of China": [
+   "Secrets Of The Great Wall: Built to block Eurasian nomads!"
+  ],
+  "Rosetta Stone": [
+   "The Rosetta Stone Secret: This famous stone was used as building material!"
+  ],
+  "Saturn": [
+   "Saturn's Massive Secrets: Saturn is 95 times more massive than Earth!"
+  ],
+  "Glacier": [
+   "Glaciers Are Moving Ice Rocks: Glaciers are moving rocks made of ice!"
+  ],
+  "Sleep": [
+   "The Secret World of Sleep: Your body experiences virtual paralysis during REM sleep."
+  ],
+  "Monarch butterfly": [
+   "The Amazing Monarch Butterfly: These butterflies cover thousands of miles!"
+  ],
+  "Great white shark": [
+   "Inside the Great White Shark: Their liver is a quarter of their body weight!"
+  ],
+  "70 Pine Street": [
+   "70 Pine Street's Secret: It was once Lower Manhattan's tallest building!"
+  ],
+  "Atlantic City–Brigantine Connector": [
+   "Atlantic City's Underground Tunnel: A local tunnel passes under Atlantic City."
+  ],
+  "Donkey Kong 64": [
+   "The Memory-Hungry Kong Game: It required a special memory accessory!"
   ]
  },
  "exhausted": []

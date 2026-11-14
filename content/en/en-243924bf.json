@@ -1,0 +1,438 @@
+{
+ "id": "en-243924bf",
+ "lang": "en",
+ "title": "The Secret World of Sleep",
+ "cat": "biology",
+ "emoji": "💤",
+ "sentences": [
+  "Your body experiences virtual paralysis during REM sleep.",
+  "Sleep is a state of reduced mental and physical activity.",
+  "It differs from a coma because it involves active brain patterns.",
+  "Your body alternates between non-REM and rapid eye movement modes.",
+  "Dreams occur involuntarily in your mind during certain stages.",
+  "Meanwhile, your body systems restore the immune and nervous systems.",
+  "Your internal circadian clock promotes this daily at night."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Your",
+    0.08,
+    0.08
+   ],
+   [
+    "body",
+    0.08,
+    0.36
+   ],
+   [
+    "experiences",
+    0.36,
+    1.04
+   ],
+   [
+    "virtual",
+    1.04,
+    1.62
+   ],
+   [
+    "paralysis",
+    1.62,
+    2.28
+   ],
+   [
+    "during",
+    2.28,
+    2.68
+   ],
+   [
+    "REM",
+    2.68,
+    2.9
+   ],
+   [
+    "sleep.",
+    2.9,
+    3.26
+   ],
+   [
+    "Sleep",
+    4.02,
+    4.16
+   ],
+   [
+    "is",
+    4.16,
+    4.4
+   ],
+   [
+    "a",
+    4.4,
+    4.56
+   ],
+   [
+    "state",
+    4.56,
+    4.72
+   ],
+   [
+    "of",
+    4.72,
+    4.94
+   ],
+   [
+    "reduced",
+    4.94,
+    5.26
+   ],
+   [
+    "mental",
+    5.26,
+    5.74
+   ],
+   [
+    "and",
+    5.74,
+    5.98
+   ],
+   [
+    "physical",
+    6.04,
+    6.24
+   ],
+   [
+    "activity.",
+    6.24,
+    6.84
+   ],
+   [
+    "It",
+    7.64,
+    7.64
+   ],
+   [
+    "differs",
+    7.7,
+    7.92
+   ],
+   [
+    "from",
+    7.92,
+    8.22
+   ],
+   [
+    "a",
+    8.22,
+    8.32
+   ],
+   [
+    "coma",
+    8.32,
+    8.64
+   ],
+   [
+    "because",
+    8.64,
+    9.04
+   ],
+   [
+    "it",
+    9.04,
+    9.2
+   ],
+   [
+    "involves",
+    9.2,
+    9.48
+   ],
+   [
+    "active",
+    9.48,
+    10.0
+   ],
+   [
+    "brain",
+    10.18,
+    10.3
+   ],
+   [
+    "patterns.",
+    10.3,
+    10.72
+   ],
+   [
+    "Your",
+    11.54,
+    11.62
+   ],
+   [
+    "body",
+    11.62,
+    11.88
+   ],
+   [
+    "alternates",
+    11.88,
+    12.48
+   ],
+   [
+    "between",
+    12.48,
+    12.76
+   ],
+   [
+    "non-REM",
+    12.76,
+    13.48
+   ],
+   [
+    "and",
+    13.48,
+    13.7
+   ],
+   [
+    "rapid",
+    13.76,
+    14.0
+   ],
+   [
+    "eye",
+    14.0,
+    14.24
+   ],
+   [
+    "movement",
+    14.24,
+    14.5
+   ],
+   [
+    "modes.",
+    14.5,
+    15.15
+   ],
+   [
+    "Dreams",
+    15.78,
+    15.94
+   ],
+   [
+    "occur",
+    15.94,
+    16.34
+   ],
+   [
+    "involuntarily",
+    16.46,
+    17.2
+   ],
+   [
+    "in",
+    17.2,
+    17.46
+   ],
+   [
+    "your",
+    17.46,
+    17.54
+   ],
+   [
+    "mind",
+    17.54,
+    17.82
+   ],
+   [
+    "during",
+    17.82,
+    18.1
+   ],
+   [
+    "certain",
+    18.1,
+    18.42
+   ],
+   [
+    "stages.",
+    18.42,
+    18.94
+   ],
+   [
+    "Meanwhile,",
+    20.08,
+    20.36
+   ],
+   [
+    "your",
+    20.4,
+    20.42
+   ],
+   [
+    "body",
+    20.42,
+    20.68
+   ],
+   [
+    "systems",
+    20.68,
+    21.08
+   ],
+   [
+    "restore",
+    21.08,
+    21.6
+   ],
+   [
+    "the",
+    21.6,
+    21.8
+   ],
+   [
+    "immune",
+    21.8,
+    22.16
+   ],
+   [
+    "and",
+    22.16,
+    22.4
+   ],
+   [
+    "nervous",
+    22.4,
+    22.66
+   ],
+   [
+    "systems.",
+    22.66,
+    23.06
+   ],
+   [
+    "Your",
+    23.92,
+    24.0
+   ],
+   [
+    "internal",
+    24.0,
+    24.42
+   ],
+   [
+    "circadian",
+    24.42,
+    25.0
+   ],
+   [
+    "clock",
+    25.0,
+    25.36
+   ],
+   [
+    "promotes",
+    25.36,
+    25.9
+   ],
+   [
+    "this",
+    25.9,
+    26.16
+   ],
+   [
+    "daily",
+    26.16,
+    26.4
+   ],
+   [
+    "at",
+    26.4,
+    26.58
+   ],
+   [
+    "night.",
+    26.58,
+    26.68
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   29,
+   39,
+   48,
+   58
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Albert_Anker_-_Schlafendes_M%C3%A4dchen_auf_einer_Holzbank.jpg/960px-Albert_Anker_-_Schlafendes_M%C3%A4dchen_auf_einer_Holzbank.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 465,
+   "license": "Public domain",
+   "artist": "Albert Anker",
+   "page": "https://commons.wikimedia.org/wiki/File:Albert_Anker_-_Schlafendes_M%C3%A4dchen_auf_einer_Holzbank.jpg",
+   "desc": "Albert Anker - Schlafendes Mädchen auf einer Holzbank — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Museo_del_Prado_-_Goya_-_Caprichos_-_No._43_-_El_sue%C3%B1o_de_la_razon_produce_monstruos.jpg/960px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._43_-_El_sue%C3%B1o_de_la_razon_produce_monstruos.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1061,
+   "license": "Public domain",
+   "artist": "Francisco Goya",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._43_-_El_sue%C3%B1o_de_la_razon_produce_monstruos.jpg",
+   "desc": "Museo del Prado - Goya - Caprichos - No. 43 - El sueño de la razon produce monstruos — This print is work No. 43 of the \"Caprichos\" series (1st edition, Madrid, 1799)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Biological_clock_human.PNG/960px-Biological_clock_human.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 374,
+   "license": "CC BY-SA 3.0",
+   "artist": "GYassineMrabetTalk✉ This PNG graphic was created with Inkscape .",
+   "page": "https://commons.wikimedia.org/wiki/File:Biological_clock_human.PNG",
+   "desc": "Biological clock human — Overview of biological circadian clock in humans. Biological clock affects the daily rhythm of many physiological processes. This diagram depicts the circadian patterns typical of someone who rises early in morning, eats"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Sleep",
+  "url": "https://en.wikipedia.org/wiki/Sleep",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

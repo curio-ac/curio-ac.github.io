@@ -1,0 +1,391 @@
+{
+ "id": "en-c66950bb",
+ "lang": "en",
+ "title": "Inside the Great White Shark",
+ "cat": "biology",
+ "emoji": "🦈",
+ "sentences": [
+  "Their liver is a quarter of their body weight!",
+  "It provides buoyancy and stores energy.",
+  "They have about 300 serrated teeth that are continuously replaced.",
+  "They are partially warm-blooded to stay active in cold water.",
+  "They even travel between continents.",
+  "Their prey includes seals, dolphins, and other sharks.",
+  "They are one of the largest fish species alive."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Their",
+    0.08,
+    0.08
+   ],
+   [
+    "liver",
+    0.08,
+    0.46
+   ],
+   [
+    "is",
+    0.46,
+    0.76
+   ],
+   [
+    "a",
+    0.76,
+    0.88
+   ],
+   [
+    "quarter",
+    1.06,
+    1.22
+   ],
+   [
+    "of",
+    1.22,
+    1.5
+   ],
+   [
+    "their",
+    1.5,
+    1.62
+   ],
+   [
+    "body",
+    1.62,
+    1.88
+   ],
+   [
+    "weight!",
+    1.88,
+    2.2
+   ],
+   [
+    "It",
+    2.7,
+    2.76
+   ],
+   [
+    "provides",
+    2.76,
+    3.08
+   ],
+   [
+    "buoyancy",
+    3.08,
+    3.68
+   ],
+   [
+    "and",
+    3.68,
+    4.1
+   ],
+   [
+    "stores",
+    4.1,
+    4.38
+   ],
+   [
+    "energy.",
+    4.38,
+    4.88
+   ],
+   [
+    "They",
+    5.5,
+    5.58
+   ],
+   [
+    "have",
+    5.58,
+    5.74
+   ],
+   [
+    "about",
+    5.74,
+    5.92
+   ],
+   [
+    "300",
+    5.92,
+    6.44
+   ],
+   [
+    "serrated",
+    6.44,
+    7.32
+   ],
+   [
+    "teeth",
+    7.32,
+    7.64
+   ],
+   [
+    "that",
+    7.64,
+    8.06
+   ],
+   [
+    "are",
+    8.06,
+    8.14
+   ],
+   [
+    "continuously",
+    8.14,
+    8.76
+   ],
+   [
+    "replaced.",
+    8.76,
+    9.34
+   ],
+   [
+    "They",
+    10.1,
+    10.2
+   ],
+   [
+    "are",
+    10.2,
+    10.28
+   ],
+   [
+    "partially",
+    10.28,
+    10.72
+   ],
+   [
+    "warm-blooded",
+    10.72,
+    11.38
+   ],
+   [
+    "to",
+    11.38,
+    11.6
+   ],
+   [
+    "stay",
+    11.6,
+    11.78
+   ],
+   [
+    "active",
+    11.78,
+    12.2
+   ],
+   [
+    "in",
+    12.2,
+    12.34
+   ],
+   [
+    "cold",
+    12.34,
+    12.54
+   ],
+   [
+    "water.",
+    12.54,
+    12.82
+   ],
+   [
+    "They",
+    13.48,
+    13.58
+   ],
+   [
+    "even",
+    13.58,
+    13.84
+   ],
+   [
+    "travel",
+    13.84,
+    14.24
+   ],
+   [
+    "between",
+    14.46,
+    14.56
+   ],
+   [
+    "continents.",
+    14.56,
+    15.21
+   ],
+   [
+    "Their",
+    15.86,
+    15.96
+   ],
+   [
+    "prey",
+    15.96,
+    16.26
+   ],
+   [
+    "includes",
+    16.26,
+    16.72
+   ],
+   [
+    "seals,",
+    16.72,
+    17.38
+   ],
+   [
+    "dolphins,",
+    17.48,
+    18.16
+   ],
+   [
+    "and",
+    18.22,
+    18.24
+   ],
+   [
+    "other",
+    18.24,
+    18.46
+   ],
+   [
+    "sharks.",
+    18.46,
+    19.01
+   ],
+   [
+    "They",
+    19.46,
+    19.56
+   ],
+   [
+    "are",
+    19.56,
+    19.64
+   ],
+   [
+    "one",
+    19.64,
+    19.78
+   ],
+   [
+    "of",
+    19.78,
+    19.88
+   ],
+   [
+    "the",
+    19.88,
+    20.0
+   ],
+   [
+    "largest",
+    20.0,
+    20.38
+   ],
+   [
+    "fish",
+    20.38,
+    20.74
+   ],
+   [
+    "species",
+    20.74,
+    21.12
+   ],
+   [
+    "alive.",
+    21.12,
+    21.47
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   15,
+   25,
+   35,
+   40,
+   48
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/BC-095-Great-White-Jaw-r2-Lo.jpg/960px-BC-095-Great-White-Jaw-r2-Lo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 612,
+   "license": "CC BY-SA 3.0",
+   "artist": "Bone Clones",
+   "page": "https://commons.wikimedia.org/wiki/File:BC-095-Great-White-Jaw-r2-Lo.jpg",
+   "desc": "BC-095-Great-White-Jaw-r2-Lo — Bone Clones image of Great White Shark jaw"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/New_8306_white_shark_predation_JF.jpg/960px-New_8306_white_shark_predation_JF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY-SA 4.0",
+   "artist": "Wolves201Photo by:Jan Fleischmann",
+   "page": "https://commons.wikimedia.org/wiki/File:New_8306_white_shark_predation_JF.jpg",
+   "desc": "New 8306 white shark predation JF — White sharks are hunting seals on False Bay and at Seal Island, these waters are outside Simon's Town."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Great_White_Shark_%2814730744390%29.jpg/960px-Great_White_Shark_%2814730744390%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Elias Levy",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_White_Shark_(14730744390).jpg",
+   "desc": "Great White Shark (14730744390) — Great White Shark"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 300,
+   "unit": "teeth",
+   "label": "serrated teeth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Great white shark",
+  "url": "https://en.wikipedia.org/wiki/Great_white_shark",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

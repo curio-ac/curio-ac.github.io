@@ -1,0 +1,410 @@
+{
+ "id": "en-6e5a907e",
+ "lang": "en",
+ "title": "The Iron Lady's Secrets",
+ "cat": "history",
+ "emoji": "🗼",
+ "sentences": [
+  "The Eiffel Tower was initially hated by artists.",
+  "Engineers built it for the 1889 World's Fair.",
+  "It celebrates the French Revolution's centennial anniversary.",
+  "Locals call it the Iron Lady for its wrought iron.",
+  "This 330-metre tower is the tallest structure in Paris.",
+  "In 2015, exactly 6.91 million people ascended it.",
+  "It remains the world's most visited paid monument."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.08,
+    0.18
+   ],
+   [
+    "Eiffel",
+    0.18,
+    0.52
+   ],
+   [
+    "Tower",
+    0.52,
+    0.86
+   ],
+   [
+    "was",
+    0.86,
+    1.18
+   ],
+   [
+    "initially",
+    1.18,
+    1.64
+   ],
+   [
+    "hated",
+    1.64,
+    2.1
+   ],
+   [
+    "by",
+    2.1,
+    2.38
+   ],
+   [
+    "artists.",
+    2.38,
+    2.98
+   ],
+   [
+    "Engineers",
+    3.36,
+    3.58
+   ],
+   [
+    "built",
+    3.58,
+    3.96
+   ],
+   [
+    "it",
+    3.96,
+    4.12
+   ],
+   [
+    "for",
+    4.12,
+    4.32
+   ],
+   [
+    "the",
+    4.32,
+    4.42
+   ],
+   [
+    "1889",
+    4.42,
+    5.16
+   ],
+   [
+    "World's",
+    5.16,
+    5.7
+   ],
+   [
+    "Fair.",
+    5.7,
+    5.98
+   ],
+   [
+    "It",
+    6.54,
+    6.6
+   ],
+   [
+    "celebrates",
+    6.6,
+    6.9
+   ],
+   [
+    "the",
+    6.9,
+    7.16
+   ],
+   [
+    "French",
+    7.24,
+    7.36
+   ],
+   [
+    "Revolution's",
+    7.36,
+    8.08
+   ],
+   [
+    "centennial",
+    8.08,
+    8.56
+   ],
+   [
+    "anniversary.",
+    8.56,
+    9.22
+   ],
+   [
+    "Locals",
+    9.84,
+    10.12
+   ],
+   [
+    "call",
+    10.12,
+    10.38
+   ],
+   [
+    "it",
+    10.38,
+    10.5
+   ],
+   [
+    "the",
+    10.5,
+    10.62
+   ],
+   [
+    "Iron",
+    10.72,
+    10.98
+   ],
+   [
+    "Lady",
+    10.98,
+    11.3
+   ],
+   [
+    "for",
+    11.48,
+    11.58
+   ],
+   [
+    "its",
+    11.58,
+    11.72
+   ],
+   [
+    "wrought",
+    11.78,
+    11.98
+   ],
+   [
+    "iron.",
+    11.98,
+    12.24
+   ],
+   [
+    "This",
+    12.96,
+    13.08
+   ],
+   [
+    "330-metre",
+    13.08,
+    14.18
+   ],
+   [
+    "tower",
+    14.18,
+    14.46
+   ],
+   [
+    "is",
+    14.46,
+    14.7
+   ],
+   [
+    "the",
+    14.7,
+    14.84
+   ],
+   [
+    "tallest",
+    14.98,
+    15.12
+   ],
+   [
+    "structure",
+    15.12,
+    15.56
+   ],
+   [
+    "in",
+    15.56,
+    15.84
+   ],
+   [
+    "Paris.",
+    15.84,
+    16.34
+   ],
+   [
+    "In",
+    16.82,
+    16.9
+   ],
+   [
+    "2015,",
+    16.9,
+    17.7
+   ],
+   [
+    "exactly",
+    17.92,
+    18.1
+   ],
+   [
+    "6.91",
+    18.14,
+    19.14
+   ],
+   [
+    "million",
+    19.14,
+    19.56
+   ],
+   [
+    "people",
+    19.56,
+    20.0
+   ],
+   [
+    "ascended",
+    20.0,
+    20.42
+   ],
+   [
+    "it.",
+    20.42,
+    20.52
+   ],
+   [
+    "It",
+    21.02,
+    21.08
+   ],
+   [
+    "remains",
+    21.08,
+    21.36
+   ],
+   [
+    "the",
+    21.36,
+    21.56
+   ],
+   [
+    "world's",
+    21.56,
+    21.88
+   ],
+   [
+    "most",
+    21.88,
+    21.98
+   ],
+   [
+    "visited",
+    21.98,
+    22.42
+   ],
+   [
+    "paid",
+    22.42,
+    22.76
+   ],
+   [
+    "monument.",
+    22.76,
+    23.06
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   23,
+   33,
+   42,
+   50
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Delaunay_-_Tour_Eiffel.jpeg/960px-Delaunay_-_Tour_Eiffel.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 904,
+   "license": "Public domain",
+   "artist": "Robert Delaunay",
+   "page": "https://commons.wikimedia.org/wiki/File:Delaunay_-_Tour_Eiffel.jpeg",
+   "desc": "Delaunay - Tour Eiffel — Graphic Champs de Mars: La Tour Rouge. 1911-1923, Robert Delaunay. Oil on canvas. The Art Institute of Chicago."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg/960px-Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 507,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg",
+   "desc": "Exposition Universelle de Paris 1889 - Universitäts- und Landesbibliothek Darmstadt — Exposition Universelle de Paris 1889"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Eiffel_tower_by_Loki.jpg/960px-Eiffel_tower_by_Loki.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Lokeswaran Kaliyappan",
+   "page": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_by_Loki.jpg",
+   "desc": "Eiffel tower by Loki — The Eiffel Tower is a world-famous open-lattice wrought-iron monument located in Paris, France."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1889
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "wrought iron structure",
+   "box": [
+    21,
+    196,
+    959,
+    725
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 330,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 6.91,
+   "unit": "million",
+   "label": "people ascended"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  48.858,
+  2.294
+ ],
+ "source": {
+  "title": "Eiffel Tower",
+  "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

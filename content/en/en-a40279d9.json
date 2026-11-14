@@ -1,0 +1,433 @@
+{
+ "id": "en-a40279d9",
+ "lang": "en",
+ "title": "Secrets Of The Great Wall",
+ "cat": "history",
+ "emoji": "🧱",
+ "sentences": [
+  "Built to block Eurasian nomads!",
+  "The first walls date to the 7th century BC.",
+  "They were joined together in the Qin dynasty.",
+  "The best-known sections were built by the Ming dynasty.",
+  "It used watchtowers and fire for signaling and defense.",
+  "This massive network spans 21,196.18 km in total.",
+  "Now, it is a UNESCO World Heritage Site."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Built",
+    0.08,
+    0.08
+   ],
+   [
+    "to",
+    0.08,
+    0.36
+   ],
+   [
+    "block",
+    0.36,
+    0.66
+   ],
+   [
+    "Eurasian",
+    0.66,
+    1.44
+   ],
+   [
+    "nomads!",
+    1.44,
+    2.6
+   ],
+   [
+    "The",
+    2.6,
+    2.68
+   ],
+   [
+    "first",
+    2.68,
+    2.94
+   ],
+   [
+    "walls",
+    2.94,
+    3.26
+   ],
+   [
+    "date",
+    3.26,
+    3.56
+   ],
+   [
+    "to",
+    3.56,
+    3.76
+   ],
+   [
+    "the",
+    3.76,
+    3.88
+   ],
+   [
+    "7th",
+    4.21,
+    4.76
+   ],
+   [
+    "century",
+    4.76,
+    4.76
+   ],
+   [
+    "BC.",
+    4.76,
+    5.36
+   ],
+   [
+    "They",
+    5.96,
+    6.06
+   ],
+   [
+    "were",
+    6.06,
+    6.16
+   ],
+   [
+    "joined",
+    6.16,
+    6.46
+   ],
+   [
+    "together",
+    6.46,
+    6.82
+   ],
+   [
+    "in",
+    6.82,
+    7.04
+   ],
+   [
+    "the",
+    7.04,
+    7.16
+   ],
+   [
+    "Qin",
+    7.28,
+    7.44
+   ],
+   [
+    "dynasty.",
+    7.44,
+    7.66
+   ],
+   [
+    "The",
+    8.56,
+    8.66
+   ],
+   [
+    "best-known",
+    8.66,
+    9.08
+   ],
+   [
+    "sections",
+    9.08,
+    9.44
+   ],
+   [
+    "were",
+    9.44,
+    9.78
+   ],
+   [
+    "built",
+    9.78,
+    10.0
+   ],
+   [
+    "by",
+    10.0,
+    10.18
+   ],
+   [
+    "the",
+    10.2,
+    10.3
+   ],
+   [
+    "Ming",
+    10.3,
+    10.56
+   ],
+   [
+    "dynasty.",
+    10.56,
+    10.7
+   ],
+   [
+    "It",
+    11.6,
+    11.7
+   ],
+   [
+    "used",
+    11.76,
+    11.94
+   ],
+   [
+    "watchtowers",
+    11.94,
+    12.74
+   ],
+   [
+    "and",
+    12.74,
+    13.02
+   ],
+   [
+    "fire",
+    13.02,
+    13.42
+   ],
+   [
+    "for",
+    13.42,
+    13.7
+   ],
+   [
+    "signaling",
+    13.7,
+    14.18
+   ],
+   [
+    "and",
+    14.18,
+    14.46
+   ],
+   [
+    "defense.",
+    14.46,
+    15.02
+   ],
+   [
+    "This",
+    15.58,
+    15.78
+   ],
+   [
+    "massive",
+    15.78,
+    16.34
+   ],
+   [
+    "network",
+    16.34,
+    16.76
+   ],
+   [
+    "spans",
+    16.76,
+    17.18
+   ],
+   [
+    "21,196.18",
+    18.98,
+    20.38
+   ],
+   [
+    "km",
+    20.38,
+    20.86
+   ],
+   [
+    "in",
+    20.86,
+    21.42
+   ],
+   [
+    "total.",
+    21.42,
+    21.76
+   ],
+   [
+    "Now,",
+    22.4,
+    22.74
+   ],
+   [
+    "it",
+    22.9,
+    23.0
+   ],
+   [
+    "is",
+    23.0,
+    23.1
+   ],
+   [
+    "a",
+    23.1,
+    23.2
+   ],
+   [
+    "UNESCO",
+    23.2,
+    23.68
+   ],
+   [
+    "World",
+    23.68,
+    24.06
+   ],
+   [
+    "Heritage",
+    24.06,
+    24.46
+   ],
+   [
+    "Site.",
+    24.46,
+    24.74
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   14,
+   22,
+   31,
+   40,
+   48
+  ]
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/A_long_stretch_of_the_Great_Wall.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Mark Holmquist",
+   "page": "https://commons.wikimedia.org/wiki/File:A_long_stretch_of_the_Great_Wall.jpg",
+   "desc": "A long stretch of the Great Wall — This is a portion of the Great Wall of China, somewhere in a rural area of China, seen from a point on the wall."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Greatwall_large.jpg/960px-Greatwall_large.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 832,
+   "license": "Public domain",
+   "artist": "Herbert Ponting",
+   "page": "https://commons.wikimedia.org/wiki/File:Greatwall_large.jpg",
+   "desc": "Greatwall large — Photograph of The Great Wall of China from 1907."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/GreatWallOfHanDynasty.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 312,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ksyrie",
+   "page": "https://commons.wikimedia.org/wiki/File:GreatWallOfHanDynasty.png",
+   "desc": "GreatWallOfHanDynasty — A map of the great wall of china of Han Dynasty"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Grande_Muraille_de_Chine_Mutianyu_en_2015.jpg/960px-Grande_Muraille_de_Chine_Mutianyu_en_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 4.0",
+   "artist": "Wikibphil",
+   "page": "https://commons.wikimedia.org/wiki/File:Grande_Muraille_de_Chine_Mutianyu_en_2015.jpg",
+   "desc": "Grande Muraille de Chine Mutianyu en 2015 — Photo de la Grande Muraille de Chine à Mutianyu en 2015"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Henry_William_Parish_-_Plan%2C_Section_and_Geometrical_Elevation_of_the_Great_Wall_and_a_Tower%2C_near_the_Pass_at_Cou-pe-keou.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 455,
+   "license": "Public domain",
+   "artist": "Henry William Parish",
+   "page": "https://commons.wikimedia.org/wiki/File:Henry_William_Parish_-_Plan,_Section_and_Geometrical_Elevation_of_the_Great_Wall_and_a_Tower,_near_the_Pass_at_Cou-pe-keou.jpg",
+   "desc": "Henry William Parish - Plan, Section and Geometrical Elevation of the Great Wall and a Tower, near the Pass at Cou-pe-keou — One of several technical drawings of the Great Wall of China produced by Lieutenant Henry William Parish of the Royal Artillery during "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Great_Wall_of_China%2C_Satellite_image_red_composite.jpg/960px-Great_Wall_of_China%2C_Satellite_image_red_composite.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 325,
+   "license": "CC0",
+   "artist": "NASA/GSFC/MITI/ERSDAC/JAROS and U.S./Japan ASTER Science Team",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China,_Satellite_image_red_composite.jpg",
+   "desc": "Great Wall of China, Satellite image red composite — Identical satellite images of the Great Wall of China. In the image on the right, the Great Wall has been outlined in red."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/GreatWall_2004_Summer_1A.jpg/960px-GreatWall_2004_Summer_1A.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Samxli",
+   "page": "https://commons.wikimedia.org/wiki/File:GreatWall_2004_Summer_1A.jpg",
+   "desc": "GreatWall 2004 Summer 1A — The Great Wall of China at Badaling"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1368
+  },
+  {
+   "type": "focus",
+   "target": "watchtower",
+   "box": [
+    201,
+    62,
+    400,
+    442
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 21196.18,
+   "unit": "km",
+   "label": "in total"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  40.431,
+  116.564
+ ],
+ "source": {
+  "title": "Great Wall of China",
+  "url": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

@@ -1,0 +1,402 @@
+{
+ "id": "en-aae44179",
+ "lang": "en",
+ "title": "Glass Through The Ages",
+ "cat": "history",
+ "emoji": "🔮",
+ "sentences": [
+  "Stone Age knives were made of glass!",
+  "This natural volcanic glass is called obsidian.",
+  "Humans started making glass at least since 3600 BC.",
+  "The very first glass objects were tiny beads.",
+  "Glass is formed by the rapid cooling of a molten state.",
+  "Today, 90 percent of manufactured glass is soda-lime glass.",
+  "It contains around 70 percent silica."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Stone",
+    0.04,
+    0.34
+   ],
+   [
+    "Age",
+    0.34,
+    0.7
+   ],
+   [
+    "knives",
+    0.7,
+    1.02
+   ],
+   [
+    "were",
+    1.02,
+    1.38
+   ],
+   [
+    "made",
+    1.38,
+    1.68
+   ],
+   [
+    "of",
+    1.68,
+    1.94
+   ],
+   [
+    "glass!",
+    1.94,
+    3.12
+   ],
+   [
+    "This",
+    3.12,
+    3.26
+   ],
+   [
+    "natural",
+    3.26,
+    3.76
+   ],
+   [
+    "volcanic",
+    3.76,
+    4.22
+   ],
+   [
+    "glass",
+    4.22,
+    4.66
+   ],
+   [
+    "is",
+    4.66,
+    5.02
+   ],
+   [
+    "called",
+    5.06,
+    5.28
+   ],
+   [
+    "obsidian.",
+    5.28,
+    5.92
+   ],
+   [
+    "Humans",
+    6.82,
+    7.0
+   ],
+   [
+    "started",
+    7.0,
+    7.34
+   ],
+   [
+    "making",
+    7.34,
+    7.64
+   ],
+   [
+    "glass",
+    7.64,
+    8.04
+   ],
+   [
+    "at",
+    8.04,
+    8.3
+   ],
+   [
+    "least",
+    8.34,
+    8.64
+   ],
+   [
+    "since",
+    8.64,
+    8.94
+   ],
+   [
+    "3600",
+    8.94,
+    9.69
+   ],
+   [
+    "BC.",
+    9.96,
+    10.58
+   ],
+   [
+    "The",
+    11.24,
+    11.34
+   ],
+   [
+    "very",
+    11.34,
+    11.62
+   ],
+   [
+    "first",
+    11.62,
+    11.96
+   ],
+   [
+    "glass",
+    11.96,
+    12.24
+   ],
+   [
+    "objects",
+    12.24,
+    12.72
+   ],
+   [
+    "were",
+    12.72,
+    12.98
+   ],
+   [
+    "tiny",
+    13.22,
+    13.38
+   ],
+   [
+    "beads.",
+    13.38,
+    13.82
+   ],
+   [
+    "Glass",
+    14.98,
+    15.1
+   ],
+   [
+    "is",
+    15.1,
+    15.34
+   ],
+   [
+    "formed",
+    15.34,
+    15.56
+   ],
+   [
+    "by",
+    15.56,
+    15.8
+   ],
+   [
+    "the",
+    15.8,
+    15.9
+   ],
+   [
+    "rapid",
+    15.9,
+    16.3
+   ],
+   [
+    "cooling",
+    16.3,
+    16.68
+   ],
+   [
+    "of",
+    16.68,
+    16.96
+   ],
+   [
+    "a",
+    16.96,
+    17.04
+   ],
+   [
+    "molten",
+    17.04,
+    17.38
+   ],
+   [
+    "state.",
+    17.38,
+    17.82
+   ],
+   [
+    "Today,",
+    18.5,
+    18.86
+   ],
+   [
+    "90",
+    19.18,
+    19.4
+   ],
+   [
+    "percent",
+    19.4,
+    19.78
+   ],
+   [
+    "of",
+    19.78,
+    19.96
+   ],
+   [
+    "manufactured",
+    19.96,
+    20.24
+   ],
+   [
+    "glass",
+    20.24,
+    20.84
+   ],
+   [
+    "is",
+    20.84,
+    21.2
+   ],
+   [
+    "soda-lime",
+    21.2,
+    21.82
+   ],
+   [
+    "glass.",
+    21.82,
+    22.06
+   ],
+   [
+    "It",
+    22.82,
+    22.84
+   ],
+   [
+    "contains",
+    22.84,
+    23.14
+   ],
+   [
+    "around",
+    23.14,
+    23.4
+   ],
+   [
+    "70",
+    23.4,
+    23.86
+   ],
+   [
+    "percent",
+    23.86,
+    24.26
+   ],
+   [
+    "silica.",
+    24.26,
+    24.58
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   23,
+   31,
+   42,
+   51
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Obsidian_%26_devitrified_obsidian_gravel_%28Obsidian_Cliff%2C_Yellowstone%2C_Wyoming%2C_USA%29_4.jpg/960px-Obsidian_%26_devitrified_obsidian_gravel_%28Obsidian_Cliff%2C_Yellowstone%2C_Wyoming%2C_USA%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "James St. John",
+   "page": "https://commons.wikimedia.org/wiki/File:Obsidian_%26_devitrified_obsidian_gravel_(Obsidian_Cliff,_Yellowstone,_Wyoming,_USA)_4.jpg",
+   "desc": "Obsidian & devitrified obsidian gravel (Obsidian Cliff, Yellowstone, Wyoming, USA) 4 — Obsidian is a glassy-textured, extrusive igneous rock. Glassy-textured rocks have no crystals at all. They form by very rapid cooling of lava or by cooling of high-viscosity"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Glass_Beads_in_Shape_of_Women_from_the_Acropolis_of_Mycenae_%2827844714183%29.jpg/960px-Glass_Beads_in_Shape_of_Women_from_the_Acropolis_of_Mycenae_%2827844714183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Gary Todd from Xinzheng, China",
+   "page": "https://commons.wikimedia.org/wiki/File:Glass_Beads_in_Shape_of_Women_from_the_Acropolis_of_Mycenae_(27844714183).jpg",
+   "desc": "Glass Beads in Shape of Women from the Acropolis of Mycenae (27844714183) — Greek Prehistory Gallery, National Museum of Archaeology, Athens, Greece. Complete indexed photo collection at WorldHistoryPics.com."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Corning_Museum_of_Glass_-_20220312_-_02_-_Hot_Glass_Show.jpg/960px-Corning_Museum_of_Glass_-_20220312_-_02_-_Hot_Glass_Show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Andre Carrotflower",
+   "page": "https://commons.wikimedia.org/wiki/File:Corning_Museum_of_Glass_-_20220312_-_02_-_Hot_Glass_Show.jpg",
+   "desc": "Corning Museum of Glass - 20220312 - 02 - Hot Glass Show — As seen during a March 2022 iteration of the Corning Museum of Glass's \"Hot Glass Show\", demonstrator Chris Rochelle uses his tools of the trade to cool and shape a two-gather ball of molten glass that"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "obsidian",
+   "box": [
+    300,
+    245,
+    650,
+    876
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": -3600
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 90,
+   "unit": "%",
+   "label": "manufactured glass"
+  },
+  {
+   "type": "stat",
+   "value": 70,
+   "unit": "%",
+   "label": "silica"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Glass",
+  "url": "https://en.wikipedia.org/wiki/Glass",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

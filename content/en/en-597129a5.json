@@ -1,0 +1,411 @@
+{
+ "id": "en-597129a5",
+ "lang": "en",
+ "title": "Emperor Penguin Survival Skills",
+ "cat": "biology",
+ "emoji": "🐧",
+ "sentences": [
+  "Emperor penguins dive to 535 meters deep.",
+  "They are the tallest and heaviest of all living penguin species.",
+  "These flightless birds have wings stiffened into flippers for swimming.",
+  "Their diet includes fish, krill, and squid.",
+  "They possess solid bones to reduce pressure injuries while hunting.",
+  "To survive, they can even shut down non-essential organ functions.",
+  "They are the only penguin species breeding during the Antarctic winter."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Emperor",
+    0.08,
+    0.38
+   ],
+   [
+    "penguins",
+    0.38,
+    0.88
+   ],
+   [
+    "dive",
+    0.88,
+    1.14
+   ],
+   [
+    "to",
+    1.14,
+    1.34
+   ],
+   [
+    "535",
+    1.56,
+    2.26
+   ],
+   [
+    "meters",
+    2.26,
+    2.78
+   ],
+   [
+    "deep.",
+    2.78,
+    2.94
+   ],
+   [
+    "They",
+    3.64,
+    3.7
+   ],
+   [
+    "are",
+    3.7,
+    3.8
+   ],
+   [
+    "the",
+    3.8,
+    3.9
+   ],
+   [
+    "tallest",
+    3.96,
+    4.28
+   ],
+   [
+    "and",
+    4.28,
+    4.72
+   ],
+   [
+    "heaviest",
+    4.72,
+    5.26
+   ],
+   [
+    "of",
+    5.26,
+    5.48
+   ],
+   [
+    "all",
+    5.56,
+    5.7
+   ],
+   [
+    "living",
+    5.7,
+    5.96
+   ],
+   [
+    "penguin",
+    5.96,
+    6.3
+   ],
+   [
+    "species.",
+    6.3,
+    6.76
+   ],
+   [
+    "These",
+    7.58,
+    7.68
+   ],
+   [
+    "flightless",
+    7.68,
+    8.1
+   ],
+   [
+    "birds",
+    8.1,
+    8.4
+   ],
+   [
+    "have",
+    8.4,
+    8.6
+   ],
+   [
+    "wings",
+    8.6,
+    8.84
+   ],
+   [
+    "stiffened",
+    8.84,
+    9.4
+   ],
+   [
+    "into",
+    9.4,
+    9.54
+   ],
+   [
+    "flippers",
+    9.54,
+    10.02
+   ],
+   [
+    "for",
+    10.02,
+    10.26
+   ],
+   [
+    "swimming.",
+    10.26,
+    11.24
+   ],
+   [
+    "Their",
+    11.24,
+    11.32
+   ],
+   [
+    "diet",
+    11.32,
+    11.54
+   ],
+   [
+    "includes",
+    11.54,
+    11.84
+   ],
+   [
+    "fish,",
+    11.84,
+    12.36
+   ],
+   [
+    "krill,",
+    12.5,
+    12.88
+   ],
+   [
+    "and",
+    13.0,
+    13.1
+   ],
+   [
+    "squid.",
+    13.1,
+    13.24
+   ],
+   [
+    "They",
+    14.0,
+    14.08
+   ],
+   [
+    "possess",
+    14.08,
+    14.26
+   ],
+   [
+    "solid",
+    14.26,
+    14.74
+   ],
+   [
+    "bones",
+    14.74,
+    15.14
+   ],
+   [
+    "to",
+    15.18,
+    15.38
+   ],
+   [
+    "reduce",
+    15.52,
+    15.66
+   ],
+   [
+    "pressure",
+    15.66,
+    16.02
+   ],
+   [
+    "injuries",
+    16.06,
+    16.44
+   ],
+   [
+    "while",
+    16.44,
+    16.72
+   ],
+   [
+    "hunting.",
+    16.72,
+    17.02
+   ],
+   [
+    "To",
+    17.78,
+    17.88
+   ],
+   [
+    "survive,",
+    17.88,
+    18.48
+   ],
+   [
+    "they",
+    18.6,
+    18.64
+   ],
+   [
+    "can",
+    18.64,
+    18.76
+   ],
+   [
+    "even",
+    18.76,
+    18.98
+   ],
+   [
+    "shut",
+    18.98,
+    19.3
+   ],
+   [
+    "down",
+    19.3,
+    19.58
+   ],
+   [
+    "non-essential",
+    19.58,
+    20.14
+   ],
+   [
+    "organ",
+    20.14,
+    20.6
+   ],
+   [
+    "functions.",
+    20.6,
+    20.74
+   ],
+   [
+    "They",
+    21.68,
+    21.78
+   ],
+   [
+    "are",
+    21.78,
+    21.86
+   ],
+   [
+    "the",
+    21.86,
+    21.96
+   ],
+   [
+    "only",
+    21.96,
+    22.3
+   ],
+   [
+    "penguin",
+    22.3,
+    22.68
+   ],
+   [
+    "species",
+    22.68,
+    23.1
+   ],
+   [
+    "breeding",
+    23.1,
+    23.48
+   ],
+   [
+    "during",
+    23.48,
+    23.78
+   ],
+   [
+    "the",
+    23.78,
+    23.94
+   ],
+   [
+    "Antarctic",
+    24.2,
+    24.46
+   ],
+   [
+    "winter.",
+    24.46,
+    24.74
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   28,
+   35,
+   45,
+   55
+  ]
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 535,
+   "unit": "m",
+   "label": "diving depth"
+  },
+  {
+   "type": "compare",
+   "value": 45,
+   "dim": "mass",
+   "unit_value_in": "kg"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Emperor penguin",
+  "url": "https://en.wikipedia.org/wiki/Emperor_penguin",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

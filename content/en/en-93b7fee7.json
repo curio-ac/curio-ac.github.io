@@ -1,0 +1,422 @@
+{
+ "id": "en-93b7fee7",
+ "lang": "en",
+ "title": "Surprising Blue Whale Facts",
+ "cat": "biology",
+ "emoji": "🐋",
+ "sentences": [
+  "They eat almost exclusively krill.",
+  "Their slender bodies display shades of greyish-blue and lighter undersides.",
+  "4 different subspecies are officially recognized.",
+  "A 5th group near Chile might be another subspecies.",
+  "They generally migrate between polar feeding areas and tropical breeding grounds.",
+  "Some populations also show year-round residency or age-based migration.",
+  "These giants usually stay solitary or swim in small groups."
+ ],
+ "tim": {
+  "w": [
+   [
+    "They",
+    0.08,
+    0.1
+   ],
+   [
+    "eat",
+    0.1,
+    0.28
+   ],
+   [
+    "almost",
+    0.28,
+    0.62
+   ],
+   [
+    "exclusively",
+    0.62,
+    1.36
+   ],
+   [
+    "krill.",
+    1.36,
+    2.21
+   ],
+   [
+    "Their",
+    2.38,
+    2.48
+   ],
+   [
+    "slender",
+    2.48,
+    2.76
+   ],
+   [
+    "bodies",
+    2.76,
+    3.14
+   ],
+   [
+    "display",
+    3.14,
+    3.56
+   ],
+   [
+    "shades",
+    3.56,
+    4.06
+   ],
+   [
+    "of",
+    4.06,
+    4.2
+   ],
+   [
+    "greyish-blue",
+    4.2,
+    4.84
+   ],
+   [
+    "and",
+    4.84,
+    5.08
+   ],
+   [
+    "lighter",
+    5.08,
+    5.32
+   ],
+   [
+    "undersides.",
+    5.32,
+    5.84
+   ],
+   [
+    "4",
+    6.56,
+    6.7
+   ],
+   [
+    "different",
+    6.7,
+    6.98
+   ],
+   [
+    "subspecies",
+    6.98,
+    7.66
+   ],
+   [
+    "are",
+    7.66,
+    7.88
+   ],
+   [
+    "officially",
+    7.88,
+    8.26
+   ],
+   [
+    "recognized.",
+    8.26,
+    8.54
+   ],
+   [
+    "A",
+    9.44,
+    9.54
+   ],
+   [
+    "5th",
+    9.54,
+    9.84
+   ],
+   [
+    "group",
+    9.84,
+    10.0
+   ],
+   [
+    "near",
+    10.14,
+    10.26
+   ],
+   [
+    "Chile",
+    10.26,
+    10.6
+   ],
+   [
+    "might",
+    10.6,
+    10.88
+   ],
+   [
+    "be",
+    10.88,
+    11.08
+   ],
+   [
+    "another",
+    11.08,
+    11.34
+   ],
+   [
+    "subspecies.",
+    11.34,
+    11.99
+   ],
+   [
+    "They",
+    12.66,
+    12.76
+   ],
+   [
+    "generally",
+    12.76,
+    13.08
+   ],
+   [
+    "migrate",
+    13.08,
+    13.56
+   ],
+   [
+    "between",
+    13.84,
+    13.94
+   ],
+   [
+    "polar",
+    13.94,
+    14.38
+   ],
+   [
+    "feeding",
+    14.38,
+    14.7
+   ],
+   [
+    "areas",
+    14.7,
+    15.14
+   ],
+   [
+    "and",
+    15.14,
+    15.4
+   ],
+   [
+    "tropical",
+    15.4,
+    15.76
+   ],
+   [
+    "breeding",
+    15.82,
+    16.14
+   ],
+   [
+    "grounds.",
+    16.14,
+    16.5
+   ],
+   [
+    "Some",
+    17.24,
+    17.36
+   ],
+   [
+    "populations",
+    17.36,
+    17.8
+   ],
+   [
+    "also",
+    17.8,
+    18.4
+   ],
+   [
+    "show",
+    18.4,
+    18.72
+   ],
+   [
+    "year-round",
+    18.72,
+    19.32
+   ],
+   [
+    "residency",
+    19.32,
+    19.72
+   ],
+   [
+    "or",
+    19.72,
+    20.3
+   ],
+   [
+    "age-based",
+    20.3,
+    20.94
+   ],
+   [
+    "migration.",
+    20.94,
+    21.56
+   ],
+   [
+    "These",
+    22.22,
+    22.34
+   ],
+   [
+    "giants",
+    22.34,
+    22.72
+   ],
+   [
+    "usually",
+    22.72,
+    23.18
+   ],
+   [
+    "stay",
+    23.18,
+    23.54
+   ],
+   [
+    "solitary",
+    23.54,
+    24.04
+   ],
+   [
+    "or",
+    24.06,
+    24.44
+   ],
+   [
+    "swim",
+    24.44,
+    24.78
+   ],
+   [
+    "in",
+    24.78,
+    25.04
+   ],
+   [
+    "small",
+    25.04,
+    25.38
+   ],
+   [
+    "groups.",
+    25.38,
+    25.54
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   15,
+   21,
+   30,
+   41,
+   50
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Several_krill.jpg/960px-Several_krill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Shannon Lyday/NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Several_krill.jpg",
+   "desc": "Several krill — They may be tiny, but krill are mighty! Krill are small, shrimp-like crustaceans that are found throughout national marine sanctuaries, including in Cordell Bank National Marine Sanctuary, where this photo was taken. The"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Blue-whale.jpg/960px-Blue-whale.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NOAA Fisheries/Lisa Conger",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue-whale.jpg",
+   "desc": "Blue-whale — Blue near the surface after feeding"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cetacea_range_map_Blue_Whale.PNG/960px-Cetacea_range_map_Blue_Whale.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 333,
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Cetacea_range_map_Blue_Whale.PNG",
+   "desc": "Cetacea range map Blue Whale — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bluewhale1_noaa_crop.jpg/960px-Bluewhale1_noaa_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 527,
+   "license": "Public domain",
+   "artist": "NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Bluewhale1_noaa_crop.jpg",
+   "desc": "Bluewhale1 noaa crop — Blue whale (Balaenoptera musculus) blowing. The original NOAA image has been cropped and adjusted in brightness and contrast."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "krill",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "group",
+   "label": "potential fifth subspecies"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Blue whale",
+  "url": "https://en.wikipedia.org/wiki/Blue_whale",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

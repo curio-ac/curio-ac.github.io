@@ -1,0 +1,374 @@
+{
+ "id": "en-e17c39d5",
+ "lang": "en",
+ "title": "Earth's Deepest Volcano Secrets",
+ "cat": "geography",
+ "emoji": "🌋",
+ "sentences": [
+  "Plumes rise from 3,000 kilometers deep inside Earth!",
+  "These upwelling diapirs create hotspot volcanism far away from any plate boundaries.",
+  "Crust also stretches and thins to form volcanoes in the East African Rift.",
+  "Plates pulling apart create nonexplosive volcanoes at mid-ocean ridges.",
+  "But plates smashing together unleash the violent eruptions of the Pacific Ring of Fire."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Plumes",
+    0.08,
+    0.32
+   ],
+   [
+    "rise",
+    0.32,
+    0.64
+   ],
+   [
+    "from",
+    0.64,
+    0.9
+   ],
+   [
+    "3,000",
+    0.9,
+    1.64
+   ],
+   [
+    "kilometers",
+    1.64,
+    2.14
+   ],
+   [
+    "deep",
+    2.14,
+    2.58
+   ],
+   [
+    "inside",
+    2.58,
+    2.96
+   ],
+   [
+    "Earth!",
+    2.96,
+    3.38
+   ],
+   [
+    "These",
+    4.04,
+    4.14
+   ],
+   [
+    "upwelling",
+    4.14,
+    4.66
+   ],
+   [
+    "diapirs",
+    4.66,
+    5.32
+   ],
+   [
+    "create",
+    5.32,
+    5.66
+   ],
+   [
+    "hotspot",
+    5.66,
+    6.26
+   ],
+   [
+    "volcanism",
+    6.26,
+    6.9
+   ],
+   [
+    "far",
+    6.9,
+    7.26
+   ],
+   [
+    "away",
+    7.26,
+    7.56
+   ],
+   [
+    "from",
+    7.56,
+    7.78
+   ],
+   [
+    "any",
+    7.78,
+    7.98
+   ],
+   [
+    "plate",
+    7.98,
+    8.2
+   ],
+   [
+    "boundaries.",
+    8.2,
+    8.66
+   ],
+   [
+    "Crust",
+    9.44,
+    9.66
+   ],
+   [
+    "also",
+    9.72,
+    9.98
+   ],
+   [
+    "stretches",
+    9.98,
+    10.4
+   ],
+   [
+    "and",
+    10.58,
+    10.68
+   ],
+   [
+    "thins",
+    10.68,
+    11.06
+   ],
+   [
+    "to",
+    11.06,
+    11.24
+   ],
+   [
+    "form",
+    11.36,
+    11.54
+   ],
+   [
+    "volcanoes",
+    11.54,
+    12.1
+   ],
+   [
+    "in",
+    12.1,
+    12.44
+   ],
+   [
+    "the",
+    12.44,
+    12.56
+   ],
+   [
+    "East",
+    12.64,
+    12.82
+   ],
+   [
+    "African",
+    12.82,
+    13.18
+   ],
+   [
+    "Rift.",
+    13.18,
+    13.52
+   ],
+   [
+    "Plates",
+    14.22,
+    14.44
+   ],
+   [
+    "pulling",
+    14.44,
+    14.68
+   ],
+   [
+    "apart",
+    14.68,
+    14.98
+   ],
+   [
+    "create",
+    14.98,
+    15.42
+   ],
+   [
+    "nonexplosive",
+    15.42,
+    16.17
+   ],
+   [
+    "volcanoes",
+    16.32,
+    16.86
+   ],
+   [
+    "at",
+    16.86,
+    17.16
+   ],
+   [
+    "mid-ocean",
+    17.16,
+    17.62
+   ],
+   [
+    "ridges.",
+    17.62,
+    17.84
+   ],
+   [
+    "But",
+    18.52,
+    18.62
+   ],
+   [
+    "plates",
+    18.7,
+    18.86
+   ],
+   [
+    "smashing",
+    18.86,
+    19.3
+   ],
+   [
+    "together",
+    19.3,
+    19.78
+   ],
+   [
+    "unleash",
+    19.78,
+    20.36
+   ],
+   [
+    "the",
+    20.36,
+    20.6
+   ],
+   [
+    "violent",
+    20.6,
+    20.98
+   ],
+   [
+    "eruptions",
+    20.98,
+    21.62
+   ],
+   [
+    "of",
+    21.68,
+    21.8
+   ],
+   [
+    "the",
+    21.8,
+    21.9
+   ],
+   [
+    "Pacific",
+    21.94,
+    22.22
+   ],
+   [
+    "Ring",
+    22.44,
+    22.56
+   ],
+   [
+    "of",
+    22.56,
+    22.72
+   ],
+   [
+    "Fire.",
+    22.72,
+    22.98
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   20,
+   33,
+   42
+  ]
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Convection-snapshot_mk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 286,
+   "license": "CC BY-SA 4.0",
+   "artist": "original by Woudloperderivative by B. Jankuloski",
+   "page": "https://commons.wikimedia.org/wiki/File:Convection-snapshot_mk.png",
+   "desc": "Convection-snapshot mk — A model of thermal convection in the Earth's mantle. The thin red columns are mantle plumes. Text on Macedonian."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/960px-Lava_channel_overflow.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Brocken Inaglory",
+   "page": "https://commons.wikimedia.org/wiki/File:Lava_channel_overflow.JPG",
+   "desc": "Lava channel overflow — Pāhoehoe Lava flow at The Big Island of Hawai. The picture shows few overflows of a main lava channel. The picture was taken from a helicopter."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/East_Dome_Mount_St._Helens.jpg/960px-East_Dome_Mount_St._Helens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 481,
+   "license": "Public domain",
+   "artist": "USGS / Rick Hoblitt",
+   "page": "https://commons.wikimedia.org/wiki/File:East_Dome_Mount_St._Helens.jpg",
+   "desc": "East Dome Mount St. Helens — East Dome erupted during Sugar Bowl time (C.E. 850-900) east flank view of Mount St. Helens."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 3000,
+   "unit": "km",
+   "label": "deep inside Earth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Volcano",
+  "url": "https://en.wikipedia.org/wiki/Volcano",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

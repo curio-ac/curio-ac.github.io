@@ -1,0 +1,348 @@
+{
+ "id": "en-7d9e4a8c",
+ "lang": "en",
+ "title": "The Secrets of Chocolate",
+ "cat": "biology",
+ "emoji": "🍫",
+ "sentences": [
+  "Chocolate can be liquid, solid, or paste!",
+  "Cocoa beans must be fermented to develop their flavor.",
+  "Grinding the inner nibs makes pure chocolate liquor.",
+  "This liquor separates into cocoa butter and cocoa powder.",
+  "Adding only cocoa butter and milk creates white chocolate.",
+  "It is now one of the most popular flavors worldwide."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Chocolate",
+    0.08,
+    0.08
+   ],
+   [
+    "can",
+    0.08,
+    0.3
+   ],
+   [
+    "be",
+    0.3,
+    0.44
+   ],
+   [
+    "liquid,",
+    0.44,
+    0.88
+   ],
+   [
+    "solid,",
+    1.08,
+    1.58
+   ],
+   [
+    "or",
+    1.76,
+    1.8
+   ],
+   [
+    "paste!",
+    1.8,
+    2.12
+   ],
+   [
+    "Cocoa",
+    2.78,
+    3.18
+   ],
+   [
+    "beans",
+    3.18,
+    3.4
+   ],
+   [
+    "must",
+    3.4,
+    3.74
+   ],
+   [
+    "be",
+    3.74,
+    3.92
+   ],
+   [
+    "fermented",
+    3.92,
+    4.26
+   ],
+   [
+    "to",
+    4.26,
+    4.48
+   ],
+   [
+    "develop",
+    4.5,
+    4.8
+   ],
+   [
+    "their",
+    4.8,
+    5.04
+   ],
+   [
+    "flavor.",
+    5.04,
+    5.4
+   ],
+   [
+    "Grinding",
+    6.0,
+    6.3
+   ],
+   [
+    "the",
+    6.3,
+    6.5
+   ],
+   [
+    "inner",
+    6.5,
+    6.68
+   ],
+   [
+    "nibs",
+    6.68,
+    7.08
+   ],
+   [
+    "makes",
+    7.08,
+    7.24
+   ],
+   [
+    "pure",
+    7.24,
+    7.6
+   ],
+   [
+    "chocolate",
+    7.6,
+    8.08
+   ],
+   [
+    "liquor.",
+    8.08,
+    8.36
+   ],
+   [
+    "This",
+    9.0,
+    9.12
+   ],
+   [
+    "liquor",
+    9.12,
+    9.36
+   ],
+   [
+    "separates",
+    9.4,
+    9.9
+   ],
+   [
+    "into",
+    9.9,
+    10.18
+   ],
+   [
+    "cocoa",
+    10.18,
+    10.54
+   ],
+   [
+    "butter",
+    10.6,
+    10.98
+   ],
+   [
+    "and",
+    10.98,
+    11.18
+   ],
+   [
+    "cocoa",
+    11.18,
+    11.52
+   ],
+   [
+    "powder.",
+    11.52,
+    11.98
+   ],
+   [
+    "Adding",
+    12.64,
+    12.84
+   ],
+   [
+    "only",
+    12.84,
+    13.18
+   ],
+   [
+    "cocoa",
+    13.18,
+    13.56
+   ],
+   [
+    "butter",
+    13.6,
+    14.02
+   ],
+   [
+    "and",
+    14.02,
+    14.24
+   ],
+   [
+    "milk",
+    14.24,
+    14.48
+   ],
+   [
+    "creates",
+    14.48,
+    14.94
+   ],
+   [
+    "white",
+    14.94,
+    15.24
+   ],
+   [
+    "chocolate.",
+    15.24,
+    15.62
+   ],
+   [
+    "It",
+    16.3,
+    16.38
+   ],
+   [
+    "is",
+    16.38,
+    16.48
+   ],
+   [
+    "now",
+    16.48,
+    16.7
+   ],
+   [
+    "one",
+    16.7,
+    16.9
+   ],
+   [
+    "of",
+    16.9,
+    17.02
+   ],
+   [
+    "the",
+    17.02,
+    17.1
+   ],
+   [
+    "most",
+    17.1,
+    17.28
+   ],
+   [
+    "popular",
+    17.28,
+    17.76
+   ],
+   [
+    "flavors",
+    17.76,
+    18.34
+   ],
+   [
+    "worldwide.",
+    18.34,
+    18.84
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   33,
+   42
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._%2810687048615%29.jpg/960px-Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._%2810687048615%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "CC BY 2.0",
+   "artist": "Irene Scott/AusAID",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._(10687048615).jpg",
+   "desc": "Cocoa farmer David Kebu Jnr holding fermenting cocoa beans. (10687048615) — Cocoa farmer David Kebu Jnr holding fermenting cocoa beans. Photo taken by Irene Scott for AusAID. (13/2529)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ghirardelli_Chocolate_Shop_Inside%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg/960px-Ghirardelli_Chocolate_Shop_Inside%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 585,
+   "license": "GFDL 1.2",
+   "artist": "jjron",
+   "page": "https://commons.wikimedia.org/wiki/File:Ghirardelli_Chocolate_Shop_Inside,_SF,_CA,_jjron_25.03.2012.jpg",
+   "desc": "Ghirardelli Chocolate Shop Inside, SF, CA, jjron 25.03.2012 — Inside the Ghirardelli Chocolate Company shop at Ghirardelli Square, near the corner of North Point and Larkin St. San Francisco, California, USA."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Chocolate",
+  "url": "https://en.wikipedia.org/wiki/Chocolate",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

@@ -1,0 +1,399 @@
+{
+ "id": "en-4def2a08",
+ "lang": "en",
+ "title": "Glaciers Are Moving Ice Rocks",
+ "cat": "geography",
+ "emoji": "🧊",
+ "sentences": [
+  "Glaciers are moving rocks made of ice!",
+  "They form where snow accumulation exceeds ablation over centuries.",
+  "Gravity causes them to slowly flow and deform.",
+  "As they move, they abrade underlying rock to create fjords.",
+  "99% of this glacial ice sits in polar ice sheets.",
+  "They exist on every continent except the Australian mainland."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Glaciers",
+    0,
+    0.62
+   ],
+   [
+    "are",
+    0.62,
+    0.92
+   ],
+   [
+    "moving",
+    0.92,
+    1.34
+   ],
+   [
+    "rocks",
+    1.34,
+    1.92
+   ],
+   [
+    "made",
+    1.98,
+    2.34
+   ],
+   [
+    "of",
+    2.34,
+    2.5
+   ],
+   [
+    "ice!",
+    2.5,
+    3.62
+   ],
+   [
+    "They",
+    3.62,
+    3.7
+   ],
+   [
+    "form",
+    3.7,
+    4.04
+   ],
+   [
+    "where",
+    4.04,
+    4.28
+   ],
+   [
+    "snow",
+    4.28,
+    4.62
+   ],
+   [
+    "accumulation",
+    4.62,
+    5.4
+   ],
+   [
+    "exceeds",
+    5.4,
+    5.92
+   ],
+   [
+    "ablation",
+    5.92,
+    6.76
+   ],
+   [
+    "over",
+    6.76,
+    7.14
+   ],
+   [
+    "centuries.",
+    7.14,
+    8.64
+   ],
+   [
+    "Gravity",
+    8.64,
+    8.98
+   ],
+   [
+    "causes",
+    8.98,
+    9.44
+   ],
+   [
+    "them",
+    9.44,
+    9.68
+   ],
+   [
+    "to",
+    9.68,
+    9.82
+   ],
+   [
+    "slowly",
+    9.82,
+    10.38
+   ],
+   [
+    "flow",
+    10.44,
+    10.92
+   ],
+   [
+    "and",
+    10.92,
+    11.32
+   ],
+   [
+    "deform.",
+    11.32,
+    11.8
+   ],
+   [
+    "As",
+    12.58,
+    12.7
+   ],
+   [
+    "they",
+    12.7,
+    12.84
+   ],
+   [
+    "move,",
+    12.84,
+    13.19
+   ],
+   [
+    "they",
+    13.52,
+    13.58
+   ],
+   [
+    "abrade",
+    13.58,
+    14.1
+   ],
+   [
+    "underlying",
+    14.1,
+    14.66
+   ],
+   [
+    "rock",
+    14.66,
+    15.2
+   ],
+   [
+    "to",
+    15.2,
+    15.52
+   ],
+   [
+    "create",
+    15.64,
+    15.84
+   ],
+   [
+    "fjords.",
+    15.84,
+    17.14
+   ],
+   [
+    "99%",
+    17.26,
+    18.26
+   ],
+   [
+    "of",
+    18.26,
+    18.52
+   ],
+   [
+    "this",
+    18.54,
+    18.64
+   ],
+   [
+    "glacial",
+    18.64,
+    19.02
+   ],
+   [
+    "ice",
+    19.02,
+    19.38
+   ],
+   [
+    "sits",
+    19.38,
+    19.78
+   ],
+   [
+    "in",
+    19.78,
+    20.08
+   ],
+   [
+    "polar",
+    20.08,
+    20.48
+   ],
+   [
+    "ice",
+    20.48,
+    20.88
+   ],
+   [
+    "sheets.",
+    20.88,
+    21.32
+   ],
+   [
+    "They",
+    21.82,
+    21.9
+   ],
+   [
+    "exist",
+    21.9,
+    22.22
+   ],
+   [
+    "on",
+    22.22,
+    22.46
+   ],
+   [
+    "every",
+    22.46,
+    22.88
+   ],
+   [
+    "continent",
+    22.88,
+    23.38
+   ],
+   [
+    "except",
+    23.38,
+    23.96
+   ],
+   [
+    "the",
+    23.96,
+    24.28
+   ],
+   [
+    "Australian",
+    24.28,
+    24.72
+   ],
+   [
+    "mainland.",
+    24.72,
+    25.12
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   34,
+   44
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Baltoro_glacier_from_air.jpg/960px-Baltoro_glacier_from_air.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Guilhem Vellut from Paris",
+   "page": "https://commons.wikimedia.org/wiki/File:Baltoro_glacier_from_air.jpg",
+   "desc": "Baltoro glacier from air — Aerial View of the Baltoro Glacier towards Concordia with Gasherbrum IV and Gasherbrum I on the left, Baltoro Kangri and Chogolisa on the upper right ; Mitre Peak is right in the center (where the glacier turns left whil"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Glacier_Accumulation_and_Ablation_%2831748274703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 253,
+   "license": "Public domain",
+   "artist": "naturenps",
+   "page": "https://commons.wikimedia.org/wiki/File:Glacier_Accumulation_and_Ablation_(31748274703).jpg",
+   "desc": "Glacier Accumulation and Ablation (31748274703) — Courtesy of Rocky Mountain National Park Left: Snow is converted into glacier ice. Right: Cross section of an alpine glacier showing its accumulation and ablation zones. The red arrows indicate the flow directi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Chevron_Crevasses_00.JPG/960px-Chevron_Crevasses_00.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 2.5",
+   "artist": "Walter Siegmund (talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:Chevron_Crevasses_00.JPG",
+   "desc": "Chevron Crevasses 00 — Shear or herring-bone crevasses on the Emmons Glacier; such crevasses often form near the edge of a glacier where interactions with underlying or marginal rock impede flow. In this case, the impediment appears to be some"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Geirangerfjord_%286-2007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1073,
+   "license": "CC BY 2.5",
+   "artist": "Frédéric de Goldschmidt www.frederic.net",
+   "page": "https://commons.wikimedia.org/wiki/File:Geirangerfjord_(6-2007).jpg",
+   "desc": "Geirangerfjord (6-2007) — Geirangerfjord"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Antarctic_Ice_Sheet%27s_Changing_Height.jpg/960px-The_Antarctic_Ice_Sheet%27s_Changing_Height.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 861,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Antarctic_Ice_Sheet%27s_Changing_Height.jpg",
+   "desc": "The Antarctic Ice Sheet's Changing Height — This map of Antarctica shows the changes in the elevation of the Antarctic ice sheet from 1985 through 2021. The map is part of a study, published in Earth System Science Data, conducted by researchers at NASA's Jet "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/White_Continent_%2852088758758%29.jpg/960px-White_Continent_%2852088758758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "David Stanley from Nanaimo, Canada",
+   "page": "https://commons.wikimedia.org/wiki/File:White_Continent_(52088758758).jpg",
+   "desc": "White Continent (52088758758) — Glaciers push down from Anvers Island into Fournier Bay, Antarctica."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "fjords",
+   "box": [
+    206,
+    376,
+    584,
+    1000
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 99,
+   "unit": "%",
+   "label": "glacial ice"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Glacier",
+  "url": "https://en.wikipedia.org/wiki/Glacier",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

@@ -1,0 +1,363 @@
+{
+ "id": "en-69127620",
+ "lang": "en",
+ "title": "Atlantic City's Underground Tunnel",
+ "cat": "history",
+ "emoji": "🚇",
+ "sentences": [
+  "A local tunnel passes under Atlantic City.",
+  "It extends the Atlantic City Expressway by 2.37 miles.",
+  "Planning for the road began in 1995.",
+  "Businessman Steve Wynn proposed a new casino hotel.",
+  "Governor Christine Todd Whitman supported the project.",
+  "Competing casino owner Donald Trump filed lawsuits.",
+  "Residents fought the project to save their homes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.06,
+    0.06
+   ],
+   [
+    "local",
+    0.06,
+    0.34
+   ],
+   [
+    "tunnel",
+    0.34,
+    0.72
+   ],
+   [
+    "passes",
+    0.72,
+    1.18
+   ],
+   [
+    "under",
+    1.18,
+    1.62
+   ],
+   [
+    "Atlantic",
+    1.62,
+    2.08
+   ],
+   [
+    "City.",
+    2.08,
+    2.6
+   ],
+   [
+    "It",
+    3.12,
+    3.18
+   ],
+   [
+    "extends",
+    3.18,
+    3.52
+   ],
+   [
+    "the",
+    3.52,
+    3.88
+   ],
+   [
+    "Atlantic",
+    3.88,
+    4.22
+   ],
+   [
+    "City",
+    4.22,
+    4.58
+   ],
+   [
+    "Expressway",
+    4.58,
+    5.3
+   ],
+   [
+    "by",
+    5.3,
+    5.56
+   ],
+   [
+    "2.37",
+    5.56,
+    6.54
+   ],
+   [
+    "miles.",
+    6.54,
+    7.4
+   ],
+   [
+    "Planning",
+    8.04,
+    8.24
+   ],
+   [
+    "for",
+    8.24,
+    8.46
+   ],
+   [
+    "the",
+    8.46,
+    8.56
+   ],
+   [
+    "road",
+    8.56,
+    8.78
+   ],
+   [
+    "began",
+    8.78,
+    9.14
+   ],
+   [
+    "in",
+    9.14,
+    9.42
+   ],
+   [
+    "1995.",
+    9.42,
+    10.44
+   ],
+   [
+    "Businessman",
+    11.14,
+    11.66
+   ],
+   [
+    "Steve",
+    11.66,
+    11.98
+   ],
+   [
+    "Wynn",
+    11.98,
+    12.4
+   ],
+   [
+    "proposed",
+    12.4,
+    12.76
+   ],
+   [
+    "a",
+    12.76,
+    13.16
+   ],
+   [
+    "new",
+    13.16,
+    13.34
+   ],
+   [
+    "casino",
+    13.34,
+    13.74
+   ],
+   [
+    "hotel.",
+    13.74,
+    14.42
+   ],
+   [
+    "Governor",
+    15.08,
+    15.34
+   ],
+   [
+    "Christine",
+    15.34,
+    15.78
+   ],
+   [
+    "Todd",
+    15.78,
+    16.2
+   ],
+   [
+    "Whitman",
+    16.2,
+    16.6
+   ],
+   [
+    "supported",
+    16.6,
+    17.0
+   ],
+   [
+    "the",
+    17.0,
+    17.3
+   ],
+   [
+    "project.",
+    17.3,
+    17.64
+   ],
+   [
+    "Competing",
+    18.52,
+    18.92
+   ],
+   [
+    "casino",
+    18.92,
+    19.24
+   ],
+   [
+    "owner",
+    19.24,
+    19.7
+   ],
+   [
+    "Donald",
+    19.7,
+    20.04
+   ],
+   [
+    "Trump",
+    20.04,
+    20.52
+   ],
+   [
+    "filed",
+    20.52,
+    20.84
+   ],
+   [
+    "lawsuits.",
+    20.84,
+    21.38
+   ],
+   [
+    "Residents",
+    22.2,
+    22.54
+   ],
+   [
+    "fought",
+    22.54,
+    22.84
+   ],
+   [
+    "the",
+    22.84,
+    23.04
+   ],
+   [
+    "project",
+    23.1,
+    23.4
+   ],
+   [
+    "to",
+    23.4,
+    23.6
+   ],
+   [
+    "save",
+    23.6,
+    23.84
+   ],
+   [
+    "their",
+    23.84,
+    24.06
+   ],
+   [
+    "homes.",
+    24.06,
+    24.62
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   23,
+   31,
+   38,
+   45
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-09-16_14_16_51_View_north_along_New_Jersey_State_Route_446X_%28Atlantic_City%E2%80%93Brigantine_Connector%29_inside_the_tunnel_in_Atlantic_City%2C_Atlantic_County%2C_New_Jersey.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Famartin",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-16_14_16_51_View_north_along_New_Jersey_State_Route_446X_(Atlantic_City%E2%80%93Brigantine_Connector)_inside_the_tunnel_in_Atlantic_City,_Atlantic_County,_New_Jersey.jpg",
+   "desc": "2018-09-16 14 16 51 View north along New Jersey State Route 446X (Atlantic City–Brigantine Connector) inside the tunnel in Atlantic City, Atlantic County, New Jersey — View north along New Jersey State Route 446X (Atlantic City–Brigantine Connector) inside the"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2020-08-22_18_16_14_View_south_along_New_Jersey_State_Route_446X_%28Atlantic_City-Brigantine_Connector%29_at_Exit_A_%28Midtown%2C_Downbeach%29_in_Atlantic_City%2C_Atlantic_County%2C_New_Jersey.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Famartin",
+   "page": "https://commons.wikimedia.org/wiki/File:2020-08-22_18_16_14_View_south_along_New_Jersey_State_Route_446X_(Atlantic_City-Brigantine_Connector)_at_Exit_A_(Midtown,_Downbeach)_in_Atlantic_City,_Atlantic_County,_New_Jersey.jpg",
+   "desc": "2020-08-22 18 16 14 View south along New Jersey State Route 446X (Atlantic City-Brigantine Connector) at Exit A (Midtown, Downbeach) in Atlantic City, Atlantic County, New Jersey — View south along New Jersey State Route 446X (Atlantic City-Brigantine Connecto"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2.37,
+   "unit": "miles",
+   "label": "Expressway extension"
+  },
+  {
+   "type": "timeline",
+   "year": 1995
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Atlantic City–Brigantine Connector",
+  "url": "https://en.wikipedia.org/wiki/Atlantic_City%E2%80%93Brigantine_Connector",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

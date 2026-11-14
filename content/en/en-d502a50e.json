@@ -1,0 +1,399 @@
+{
+ "id": "en-d502a50e",
+ "lang": "en",
+ "title": "Our Moon's Hidden Secrets",
+ "cat": "space",
+ "emoji": "🌕",
+ "sentences": [
+  "The Moon is the Earth's only natural satellite.",
+  "It orbits our planet at an average distance of 378,000 kilometers.",
+  "One full orbit takes 29.5 days.",
+  "Its diameter is 3,474 km, which is about one-quarter of Earth's width.",
+  "Tidal forces have locked the Moon, so it always faces Earth with the same side.",
+  "This makes it the largest moon relative to its parent planet."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.08,
+    0.08
+   ],
+   [
+    "Moon",
+    0.08,
+    0.38
+   ],
+   [
+    "is",
+    0.38,
+    0.68
+   ],
+   [
+    "the",
+    0.68,
+    0.82
+   ],
+   [
+    "Earth's",
+    0.82,
+    1.34
+   ],
+   [
+    "only",
+    1.44,
+    1.74
+   ],
+   [
+    "natural",
+    1.74,
+    2.24
+   ],
+   [
+    "satellite.",
+    2.24,
+    2.99
+   ],
+   [
+    "It",
+    3.32,
+    3.42
+   ],
+   [
+    "orbits",
+    3.42,
+    3.74
+   ],
+   [
+    "our",
+    3.74,
+    3.96
+   ],
+   [
+    "planet",
+    3.96,
+    4.3
+   ],
+   [
+    "at",
+    4.3,
+    4.56
+   ],
+   [
+    "an",
+    4.56,
+    4.68
+   ],
+   [
+    "average",
+    4.68,
+    5.0
+   ],
+   [
+    "distance",
+    5.0,
+    5.5
+   ],
+   [
+    "of",
+    5.5,
+    5.78
+   ],
+   [
+    "378,000",
+    5.96,
+    7.86
+   ],
+   [
+    "kilometers.",
+    7.86,
+    8.6
+   ],
+   [
+    "One",
+    9.06,
+    9.28
+   ],
+   [
+    "full",
+    9.28,
+    9.5
+   ],
+   [
+    "orbit",
+    9.5,
+    9.88
+   ],
+   [
+    "takes",
+    9.88,
+    10.24
+   ],
+   [
+    "29.5",
+    10.46,
+    11.5
+   ],
+   [
+    "days.",
+    11.5,
+    12.45
+   ],
+   [
+    "Its",
+    12.54,
+    12.68
+   ],
+   [
+    "diameter",
+    12.68,
+    13.04
+   ],
+   [
+    "is",
+    13.04,
+    13.52
+   ],
+   [
+    "3,474",
+    13.68,
+    15.76
+   ],
+   [
+    "km,",
+    15.76,
+    16.1
+   ],
+   [
+    "which",
+    16.78,
+    16.86
+   ],
+   [
+    "is",
+    16.86,
+    16.98
+   ],
+   [
+    "about",
+    16.98,
+    17.2
+   ],
+   [
+    "one-quarter",
+    17.2,
+    18.0
+   ],
+   [
+    "of",
+    18.0,
+    18.36
+   ],
+   [
+    "Earth's",
+    18.6,
+    18.72
+   ],
+   [
+    "width.",
+    18.72,
+    18.92
+   ],
+   [
+    "Tidal",
+    19.72,
+    20.08
+   ],
+   [
+    "forces",
+    20.08,
+    20.46
+   ],
+   [
+    "have",
+    20.46,
+    20.78
+   ],
+   [
+    "locked",
+    20.86,
+    21.1
+   ],
+   [
+    "the",
+    21.1,
+    21.36
+   ],
+   [
+    "Moon,",
+    21.36,
+    21.54
+   ],
+   [
+    "so",
+    21.9,
+    21.96
+   ],
+   [
+    "it",
+    21.96,
+    22.08
+   ],
+   [
+    "always",
+    22.18,
+    22.48
+   ],
+   [
+    "faces",
+    22.48,
+    22.86
+   ],
+   [
+    "Earth",
+    22.86,
+    23.3
+   ],
+   [
+    "with",
+    23.42,
+    23.52
+   ],
+   [
+    "the",
+    23.52,
+    23.7
+   ],
+   [
+    "same",
+    23.7,
+    24.02
+   ],
+   [
+    "side.",
+    24.02,
+    24.3
+   ],
+   [
+    "This",
+    25.14,
+    25.3
+   ],
+   [
+    "makes",
+    25.3,
+    25.52
+   ],
+   [
+    "it",
+    25.52,
+    25.68
+   ],
+   [
+    "the",
+    25.68,
+    25.82
+   ],
+   [
+    "largest",
+    25.82,
+    26.24
+   ],
+   [
+    "moon",
+    26.24,
+    26.68
+   ],
+   [
+    "relative",
+    26.68,
+    27.1
+   ],
+   [
+    "to",
+    27.1,
+    27.46
+   ],
+   [
+    "its",
+    27.46,
+    27.6
+   ],
+   [
+    "parent",
+    27.6,
+    27.86
+   ],
+   [
+    "planet.",
+    27.86,
+    28.51
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   25,
+   37,
+   52
+  ]
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 378000,
+   "unit": "km",
+   "label": "average orbital distance"
+  },
+  {
+   "type": "stat",
+   "value": 29.5,
+   "unit": "days",
+   "label": "lunar month duration"
+  },
+  {
+   "type": "compare",
+   "value": 3474000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "rank",
+   "label": "largest moon size"
+  }
+ ],
+ "geo": [
+  0,
+  0
+ ],
+ "source": {
+  "title": "Moon",
+  "url": "https://en.wikipedia.org/wiki/Moon",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

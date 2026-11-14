@@ -1,0 +1,391 @@
+{
+ "id": "en-baaadf4e",
+ "lang": "en",
+ "title": "Secrets of the Colosseum",
+ "cat": "history",
+ "emoji": "🏟️",
+ "sentences": [
+  "Rome's Colosseum held up to 80,000 spectators.",
+  "This massive elliptical amphitheatre sits right near the Roman Forum.",
+  "Emperor Vespasian started construction in AD 72, and Titus finished it in AD 80.",
+  "The Flavian dynasty built it using travertine, tuff, and Roman concrete.",
+  "Crowds once watched gladiatorial contests, animal hunts, and public executions.",
+  "It remains the largest standing amphitheatre in the entire world today."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Rome's",
+    0.08,
+    0.26
+   ],
+   [
+    "Colosseum",
+    0.38,
+    0.98
+   ],
+   [
+    "held",
+    1.02,
+    1.24
+   ],
+   [
+    "up",
+    1.24,
+    1.44
+   ],
+   [
+    "to",
+    1.52,
+    1.62
+   ],
+   [
+    "80,000",
+    1.62,
+    2.88
+   ],
+   [
+    "spectators.",
+    2.88,
+    3.43
+   ],
+   [
+    "This",
+    4.26,
+    4.38
+   ],
+   [
+    "massive",
+    4.38,
+    4.94
+   ],
+   [
+    "elliptical",
+    4.94,
+    5.56
+   ],
+   [
+    "amphitheatre",
+    5.56,
+    6.12
+   ],
+   [
+    "sits",
+    6.12,
+    6.46
+   ],
+   [
+    "right",
+    6.7,
+    6.88
+   ],
+   [
+    "near",
+    7.0,
+    7.1
+   ],
+   [
+    "the",
+    7.1,
+    7.28
+   ],
+   [
+    "Roman",
+    7.28,
+    7.54
+   ],
+   [
+    "Forum.",
+    7.54,
+    7.96
+   ],
+   [
+    "Emperor",
+    8.72,
+    9.02
+   ],
+   [
+    "Vespasian",
+    9.02,
+    9.76
+   ],
+   [
+    "started",
+    9.76,
+    10.1
+   ],
+   [
+    "construction",
+    10.1,
+    10.66
+   ],
+   [
+    "in",
+    10.68,
+    10.98
+   ],
+   [
+    "AD",
+    10.98,
+    11.32
+   ],
+   [
+    "72,",
+    11.32,
+    12.17
+   ],
+   [
+    "and",
+    12.54,
+    12.68
+   ],
+   [
+    "Titus",
+    12.68,
+    13.18
+   ],
+   [
+    "finished",
+    13.18,
+    13.38
+   ],
+   [
+    "it",
+    13.38,
+    13.62
+   ],
+   [
+    "in",
+    13.7,
+    13.8
+   ],
+   [
+    "AD",
+    13.8,
+    14.1
+   ],
+   [
+    "80.",
+    14.1,
+    14.54
+   ],
+   [
+    "The",
+    15.34,
+    15.4
+   ],
+   [
+    "Flavian",
+    15.4,
+    15.72
+   ],
+   [
+    "dynasty",
+    15.72,
+    16.18
+   ],
+   [
+    "built",
+    16.26,
+    16.6
+   ],
+   [
+    "it",
+    16.6,
+    16.76
+   ],
+   [
+    "using",
+    16.76,
+    17.0
+   ],
+   [
+    "travertine,",
+    17.0,
+    17.85
+   ],
+   [
+    "tuff,",
+    18.12,
+    18.36
+   ],
+   [
+    "and",
+    18.62,
+    18.72
+   ],
+   [
+    "Roman",
+    18.72,
+    19.02
+   ],
+   [
+    "concrete.",
+    19.02,
+    19.58
+   ],
+   [
+    "Crowds",
+    20.44,
+    20.8
+   ],
+   [
+    "once",
+    20.8,
+    20.98
+   ],
+   [
+    "watched",
+    20.98,
+    21.4
+   ],
+   [
+    "gladiatorial",
+    21.4,
+    22.04
+   ],
+   [
+    "contests,",
+    22.04,
+    23.04
+   ],
+   [
+    "animal",
+    23.04,
+    23.28
+   ],
+   [
+    "hunts,",
+    23.28,
+    23.8
+   ],
+   [
+    "and",
+    23.84,
+    23.96
+   ],
+   [
+    "public",
+    24.28,
+    24.38
+   ],
+   [
+    "executions.",
+    24.38,
+    24.48
+   ],
+   [
+    "It",
+    25.8,
+    25.86
+   ],
+   [
+    "remains",
+    25.9,
+    26.1
+   ],
+   [
+    "the",
+    26.24,
+    26.34
+   ],
+   [
+    "largest",
+    26.34,
+    26.7
+   ],
+   [
+    "standing",
+    26.7,
+    27.06
+   ],
+   [
+    "amphitheatre",
+    27.06,
+    27.64
+   ],
+   [
+    "in",
+    27.64,
+    27.8
+   ],
+   [
+    "the",
+    27.8,
+    27.88
+   ],
+   [
+    "entire",
+    28.22,
+    28.32
+   ],
+   [
+    "world",
+    28.32,
+    28.68
+   ],
+   [
+    "today.",
+    28.68,
+    29.06
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   31,
+   42,
+   52
+  ]
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 80000,
+   "unit": "people",
+   "label": "spectators"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 72
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  41.89,
+  12.492
+ ],
+ "source": {
+  "title": "Colosseum",
+  "url": "https://en.wikipedia.org/wiki/Colosseum",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

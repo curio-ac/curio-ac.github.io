@@ -1,0 +1,425 @@
+{
+ "id": "en-b0695c39",
+ "lang": "en",
+ "title": "The Memory-Hungry Kong Game",
+ "cat": "technology",
+ "emoji": "🦍",
+ "sentences": [
+  "It required a special memory accessory!",
+  "Donkey Kong 64 was the first game to require the Nintendo 64 Expansion Pak.",
+  "Released in 1999 by Rare, it brought the franchise into 3D.",
+  "You could control 5 different Kong characters with unique special abilities.",
+  "The team originally planned a 2.5D game before switching to the Banjo engine.",
+  "Up to 4 players could also compete in wild multiplayer deathmatches."
+ ],
+ "tim": {
+  "w": [
+   [
+    "It",
+    0.08,
+    0.28
+   ],
+   [
+    "required",
+    0.3,
+    0.7
+   ],
+   [
+    "a",
+    0.7,
+    0.88
+   ],
+   [
+    "special",
+    0.88,
+    1.18
+   ],
+   [
+    "memory",
+    1.18,
+    1.52
+   ],
+   [
+    "accessory!",
+    1.52,
+    2.14
+   ],
+   [
+    "Donkey",
+    2.78,
+    3.02
+   ],
+   [
+    "Kong",
+    3.02,
+    3.36
+   ],
+   [
+    "64",
+    3.36,
+    3.96
+   ],
+   [
+    "was",
+    3.96,
+    4.42
+   ],
+   [
+    "the",
+    4.42,
+    4.54
+   ],
+   [
+    "first",
+    4.6,
+    4.74
+   ],
+   [
+    "game",
+    4.74,
+    5.02
+   ],
+   [
+    "to",
+    5.02,
+    5.16
+   ],
+   [
+    "require",
+    5.16,
+    5.62
+   ],
+   [
+    "the",
+    5.62,
+    5.84
+   ],
+   [
+    "Nintendo",
+    5.84,
+    6.18
+   ],
+   [
+    "64",
+    6.18,
+    7.0
+   ],
+   [
+    "Expansion",
+    7.0,
+    7.64
+   ],
+   [
+    "Pak.",
+    7.64,
+    7.74
+   ],
+   [
+    "Released",
+    8.52,
+    8.8
+   ],
+   [
+    "in",
+    8.8,
+    9.02
+   ],
+   [
+    "1999",
+    9.02,
+    9.58
+   ],
+   [
+    "by",
+    9.58,
+    10.18
+   ],
+   [
+    "Rare,",
+    10.18,
+    10.54
+   ],
+   [
+    "it",
+    10.92,
+    10.98
+   ],
+   [
+    "brought",
+    11.04,
+    11.16
+   ],
+   [
+    "the",
+    11.16,
+    11.32
+   ],
+   [
+    "franchise",
+    11.32,
+    11.72
+   ],
+   [
+    "into",
+    11.72,
+    12.06
+   ],
+   [
+    "3D.",
+    12.06,
+    12.82
+   ],
+   [
+    "You",
+    12.82,
+    12.84
+   ],
+   [
+    "could",
+    12.84,
+    13.0
+   ],
+   [
+    "control",
+    13.08,
+    13.44
+   ],
+   [
+    "5",
+    13.44,
+    13.84
+   ],
+   [
+    "different",
+    13.84,
+    14.16
+   ],
+   [
+    "Kong",
+    14.36,
+    14.46
+   ],
+   [
+    "characters",
+    14.46,
+    14.96
+   ],
+   [
+    "with",
+    14.96,
+    15.44
+   ],
+   [
+    "unique",
+    15.54,
+    15.78
+   ],
+   [
+    "special",
+    15.78,
+    16.1
+   ],
+   [
+    "abilities.",
+    16.1,
+    16.64
+   ],
+   [
+    "The",
+    17.34,
+    17.44
+   ],
+   [
+    "team",
+    17.44,
+    17.68
+   ],
+   [
+    "originally",
+    17.68,
+    18.0
+   ],
+   [
+    "planned",
+    18.0,
+    18.52
+   ],
+   [
+    "a",
+    18.52,
+    18.66
+   ],
+   [
+    "2.5D",
+    18.94,
+    19.56
+   ],
+   [
+    "game",
+    19.56,
+    19.94
+   ],
+   [
+    "before",
+    20.14,
+    20.24
+   ],
+   [
+    "switching",
+    20.24,
+    20.68
+   ],
+   [
+    "to",
+    20.68,
+    20.92
+   ],
+   [
+    "the",
+    20.92,
+    21.02
+   ],
+   [
+    "Banjo",
+    21.02,
+    21.4
+   ],
+   [
+    "engine.",
+    21.4,
+    21.78
+   ],
+   [
+    "Up",
+    22.42,
+    22.52
+   ],
+   [
+    "to",
+    22.52,
+    22.68
+   ],
+   [
+    "4",
+    22.68,
+    22.92
+   ],
+   [
+    "players",
+    22.92,
+    23.32
+   ],
+   [
+    "could",
+    23.32,
+    23.54
+   ],
+   [
+    "also",
+    23.54,
+    23.82
+   ],
+   [
+    "compete",
+    23.82,
+    24.24
+   ],
+   [
+    "in",
+    24.24,
+    24.48
+   ],
+   [
+    "wild",
+    24.48,
+    24.84
+   ],
+   [
+    "multiplayer",
+    24.84,
+    25.44
+   ],
+   [
+    "deathmatches.",
+    25.44,
+    25.86
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   20,
+   31,
+   42,
+   55
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Nintendo-64-Memory-Expansion-Pak.jpg/960px-Nintendo-64-Memory-Expansion-Pak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 365,
+   "license": "Public domain",
+   "artist": "Evan-Amos",
+   "page": "https://commons.wikimedia.org/wiki/File:Nintendo-64-Memory-Expansion-Pak.jpg",
+   "desc": "Nintendo-64-Memory-Expansion-Pak — The Expansion Pak is a 4MB RAM expansion for the Nintendo 64 video game console. It was developed for the 64DD library and enhances many other games."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Jungle_green_Nintendo_64_%2810448842084%29.jpg/960px-Jungle_green_Nintendo_64_%2810448842084%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 510,
+   "license": "CC BY 2.0",
+   "artist": "Valentin Kozin from Saint-Petersburg, Russia",
+   "page": "https://commons.wikimedia.org/wiki/File:Jungle_green_Nintendo_64_(10448842084).jpg",
+   "desc": "Jungle green Nintendo 64 (10448842084) — Nintendo 64 (Jungle Green) signed by James Rolfe AVGN"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1999
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "Kong characters",
+   "label": "playable Kong characters"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "players",
+   "label": "multiplayer modes"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Donkey Kong 64",
+  "url": "https://en.wikipedia.org/wiki/Donkey_Kong_64",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

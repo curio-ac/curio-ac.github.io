@@ -1,0 +1,465 @@
+{
+ "id": "en-f9e94027",
+ "lang": "en",
+ "title": "Secrets of Mount Everest",
+ "cat": "geography",
+ "emoji": "🏔️",
+ "sentences": [
+  "Over 200 bodies remain on Mount Everest.",
+  "Dangerous conditions prevent people from removing them.",
+  "Everest is Earth's highest mountain above sea level at 8,848.86 meters.",
+  "Its summit marks part of the border between China and Nepal.",
+  "There are two main climbing routes to reach the top.",
+  "Climbers face real hazards like wind, avalanches, and altitude sickness.",
+  "Surprisingly, the standard route does not pose substantial technical climbing challenges."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Over",
+    0.08,
+    0.26
+   ],
+   [
+    "200",
+    0.26,
+    0.82
+   ],
+   [
+    "bodies",
+    0.82,
+    1.3
+   ],
+   [
+    "remain",
+    1.3,
+    1.66
+   ],
+   [
+    "on",
+    1.66,
+    2.06
+   ],
+   [
+    "Mount",
+    2.06,
+    2.26
+   ],
+   [
+    "Everest.",
+    2.26,
+    3.16
+   ],
+   [
+    "Dangerous",
+    3.16,
+    3.5
+   ],
+   [
+    "conditions",
+    3.5,
+    3.88
+   ],
+   [
+    "prevent",
+    3.88,
+    4.26
+   ],
+   [
+    "people",
+    4.26,
+    4.56
+   ],
+   [
+    "from",
+    4.66,
+    4.76
+   ],
+   [
+    "removing",
+    4.76,
+    5.06
+   ],
+   [
+    "them.",
+    5.06,
+    5.26
+   ],
+   [
+    "Everest",
+    6.02,
+    6.24
+   ],
+   [
+    "is",
+    6.24,
+    6.48
+   ],
+   [
+    "Earth's",
+    6.48,
+    6.8
+   ],
+   [
+    "highest",
+    6.8,
+    7.04
+   ],
+   [
+    "mountain",
+    7.04,
+    7.44
+   ],
+   [
+    "above",
+    7.44,
+    7.68
+   ],
+   [
+    "sea",
+    7.68,
+    7.94
+   ],
+   [
+    "level",
+    7.94,
+    8.16
+   ],
+   [
+    "at",
+    8.16,
+    8.68
+   ],
+   [
+    "8,848.86",
+    8.76,
+    11.02
+   ],
+   [
+    "meters.",
+    11.02,
+    11.48
+   ],
+   [
+    "Its",
+    12.24,
+    12.32
+   ],
+   [
+    "summit",
+    12.32,
+    12.54
+   ],
+   [
+    "marks",
+    12.54,
+    12.78
+   ],
+   [
+    "part",
+    12.78,
+    13.02
+   ],
+   [
+    "of",
+    13.02,
+    13.14
+   ],
+   [
+    "the",
+    13.14,
+    13.2
+   ],
+   [
+    "border",
+    13.2,
+    13.42
+   ],
+   [
+    "between",
+    13.42,
+    13.76
+   ],
+   [
+    "China",
+    13.76,
+    14.1
+   ],
+   [
+    "and",
+    14.1,
+    14.36
+   ],
+   [
+    "Nepal.",
+    14.36,
+    14.74
+   ],
+   [
+    "There",
+    15.36,
+    15.42
+   ],
+   [
+    "are",
+    15.42,
+    15.54
+   ],
+   [
+    "two",
+    15.62,
+    15.78
+   ],
+   [
+    "main",
+    15.78,
+    16.0
+   ],
+   [
+    "climbing",
+    16.0,
+    16.3
+   ],
+   [
+    "routes",
+    16.3,
+    16.6
+   ],
+   [
+    "to",
+    16.6,
+    16.8
+   ],
+   [
+    "reach",
+    16.8,
+    16.9
+   ],
+   [
+    "the",
+    16.9,
+    17.06
+   ],
+   [
+    "top.",
+    17.06,
+    17.56
+   ],
+   [
+    "Climbers",
+    17.98,
+    18.22
+   ],
+   [
+    "face",
+    18.22,
+    18.36
+   ],
+   [
+    "real",
+    18.36,
+    18.66
+   ],
+   [
+    "hazards",
+    18.66,
+    19.0
+   ],
+   [
+    "like",
+    19.0,
+    19.4
+   ],
+   [
+    "wind,",
+    19.4,
+    19.94
+   ],
+   [
+    "avalanches,",
+    20.12,
+    20.88
+   ],
+   [
+    "and",
+    20.96,
+    20.96
+   ],
+   [
+    "altitude",
+    20.98,
+    21.26
+   ],
+   [
+    "sickness.",
+    21.26,
+    21.58
+   ],
+   [
+    "Surprisingly,",
+    22.8,
+    22.96
+   ],
+   [
+    "the",
+    23.04,
+    23.04
+   ],
+   [
+    "standard",
+    23.04,
+    23.42
+   ],
+   [
+    "route",
+    23.42,
+    23.76
+   ],
+   [
+    "does",
+    23.76,
+    24.08
+   ],
+   [
+    "not",
+    24.08,
+    24.26
+   ],
+   [
+    "pose",
+    24.26,
+    24.54
+   ],
+   [
+    "substantial",
+    24.54,
+    25.0
+   ],
+   [
+    "technical",
+    25.0,
+    25.64
+   ],
+   [
+    "climbing",
+    25.84,
+    25.96
+   ],
+   [
+    "challenges.",
+    25.96,
+    26.36
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   25,
+   36,
+   46,
+   56
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg/960px-Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Bijay Chaurasia",
+   "page": "https://commons.wikimedia.org/wiki/File:Close_Up_View_of_Mount_Everest_from_Kala_Patthar_(5644_m)_in_2023-IMG-3485.jpg",
+   "desc": "Close Up View of Mount Everest from Kala Patthar (5644 m) in 2023-IMG-3485 — Close Up View of Mount Everest from Kala Patthar (5644 m) in 2023"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/CH-NP_79-80_Bdy_Map50.jpg/960px-CH-NP_79-80_Bdy_Map50.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 440,
+   "license": "Public domain",
+   "artist": "Survey of Nepal",
+   "page": "https://commons.wikimedia.org/wiki/File:CH-NP_79-80_Bdy_Map50.jpg",
+   "desc": "CH-NP 79-80 Bdy Map50 — Boundary maps in the public domain published by the Survey of Nepal, sent to the UN"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Everest-3D-Map-Type-EN.jpg/960px-Everest-3D-Map-Type-EN.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC0",
+   "artist": "Tom Patterson",
+   "page": "https://commons.wikimedia.org/wiki/File:Everest-3D-Map-Type-EN.jpg",
+   "desc": "Everest-3D-Map-Type-EN — Mount Everest 3D Map by Tom Patterson, with English annotation, based on data from the US National Snow and Ice Data Center and Landsat 8."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Avalanche_on_Everest.jpg/960px-Avalanche_on_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Chagai at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Avalanche_on_Everest.jpg",
+   "desc": "Avalanche on Everest — I took this picture on May 2006, on my way to Mount Everest base camp. Ilan Adler."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Climbing_through_the_Yellow_Band%2C_Mt._Everest%2C_-May_2007_a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Lloyd Smith",
+   "page": "https://commons.wikimedia.org/wiki/File:Climbing_through_the_Yellow_Band,_Mt._Everest,_-May_2007_a.jpg",
+   "desc": "Climbing through the Yellow Band, Mt. Everest, -May 2007 a — エベレスト南東稜、イエローバンド付近を登攀中。"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 200,
+   "unit": "bodies",
+   "label": "remain on mountain"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 8848.86,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  27.988,
+  86.925
+ ],
+ "source": {
+  "title": "Mount Everest",
+  "url": "https://en.wikipedia.org/wiki/Mount_Everest",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

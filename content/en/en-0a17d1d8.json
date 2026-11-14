@@ -1,0 +1,394 @@
+{
+ "id": "en-0a17d1d8",
+ "lang": "en",
+ "title": "The Rosetta Stone Secret",
+ "cat": "history",
+ "emoji": "🗿",
+ "sentences": [
+  "This famous stone was used as building material!",
+  "It is a granodiorite stele made in 196 BC.",
+  "It features a decree in three different texts.",
+  "The top and middle use Ancient Egyptian scripts.",
+  "The bottom text is written in Ancient Greek.",
+  "A French officer found it in July 1799.",
+  "It finally unlocked the mystery of hieroglyphs."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.08,
+    0.08
+   ],
+   [
+    "famous",
+    0.08,
+    0.5
+   ],
+   [
+    "stone",
+    0.5,
+    0.92
+   ],
+   [
+    "was",
+    0.92,
+    1.22
+   ],
+   [
+    "used",
+    1.22,
+    1.58
+   ],
+   [
+    "as",
+    1.58,
+    1.9
+   ],
+   [
+    "building",
+    1.9,
+    2.26
+   ],
+   [
+    "material!",
+    2.26,
+    2.78
+   ],
+   [
+    "It",
+    3.46,
+    3.56
+   ],
+   [
+    "is",
+    3.56,
+    3.68
+   ],
+   [
+    "a",
+    3.68,
+    3.78
+   ],
+   [
+    "granodiorite",
+    3.78,
+    4.84
+   ],
+   [
+    "stele",
+    5.08,
+    5.36
+   ],
+   [
+    "made",
+    5.36,
+    5.72
+   ],
+   [
+    "in",
+    5.72,
+    5.9
+   ],
+   [
+    "196",
+    5.9,
+    6.78
+   ],
+   [
+    "BC.",
+    6.78,
+    7.18
+   ],
+   [
+    "It",
+    7.96,
+    8.02
+   ],
+   [
+    "features",
+    8.16,
+    8.38
+   ],
+   [
+    "a",
+    8.38,
+    8.62
+   ],
+   [
+    "decree",
+    8.62,
+    8.96
+   ],
+   [
+    "in",
+    8.96,
+    9.36
+   ],
+   [
+    "three",
+    9.36,
+    9.7
+   ],
+   [
+    "different",
+    9.7,
+    10.08
+   ],
+   [
+    "texts.",
+    10.08,
+    10.38
+   ],
+   [
+    "The",
+    11.16,
+    11.26
+   ],
+   [
+    "top",
+    11.34,
+    11.58
+   ],
+   [
+    "and",
+    11.58,
+    11.8
+   ],
+   [
+    "middle",
+    11.8,
+    12.08
+   ],
+   [
+    "use",
+    12.08,
+    12.42
+   ],
+   [
+    "Ancient",
+    12.42,
+    12.78
+   ],
+   [
+    "Egyptian",
+    12.78,
+    13.2
+   ],
+   [
+    "scripts.",
+    13.2,
+    13.48
+   ],
+   [
+    "The",
+    14.28,
+    14.36
+   ],
+   [
+    "bottom",
+    14.36,
+    14.66
+   ],
+   [
+    "text",
+    14.66,
+    15.0
+   ],
+   [
+    "is",
+    15.18,
+    15.28
+   ],
+   [
+    "written",
+    15.28,
+    15.52
+   ],
+   [
+    "in",
+    15.52,
+    15.74
+   ],
+   [
+    "Ancient",
+    15.74,
+    16.1
+   ],
+   [
+    "Greek.",
+    16.1,
+    16.58
+   ],
+   [
+    "A",
+    17.34,
+    17.44
+   ],
+   [
+    "French",
+    17.44,
+    17.7
+   ],
+   [
+    "officer",
+    17.7,
+    18.16
+   ],
+   [
+    "found",
+    18.16,
+    18.52
+   ],
+   [
+    "it",
+    18.52,
+    18.7
+   ],
+   [
+    "in",
+    18.7,
+    18.88
+   ],
+   [
+    "July",
+    18.88,
+    19.2
+   ],
+   [
+    "1799.",
+    19.2,
+    20.56
+   ],
+   [
+    "It",
+    21.2,
+    21.32
+   ],
+   [
+    "finally",
+    21.54,
+    21.78
+   ],
+   [
+    "unlocked",
+    21.78,
+    22.52
+   ],
+   [
+    "the",
+    22.7,
+    22.8
+   ],
+   [
+    "mystery",
+    22.8,
+    23.26
+   ],
+   [
+    "of",
+    23.26,
+    23.54
+   ],
+   [
+    "hieroglyphs.",
+    23.54,
+    24.29
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   33,
+   41,
+   49
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Rosetta_Stone_BW.jpeg/960px-Rosetta_Stone_BW.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 923,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone_BW.jpeg",
+   "desc": "Rosetta Stone BW — A picture of the Rosetta Stone, in a high contrast, readable format"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/960px-Rosetta_Stone.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 842,
+   "license": "CC BY-SA 4.0",
+   "artist": "Hans Hillewaert",
+   "page": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+   "desc": "Rosetta Stone — The Rosetta Stone in the British Museum."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Champollion_table.jpg/960px-Champollion_table.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 871,
+   "license": "Public domain",
+   "artist": "Jean-François Champollion",
+   "page": "https://commons.wikimedia.org/wiki/File:Champollion_table.jpg",
+   "desc": "Champollion table — Table of hieroglyphics and demotic phonetic signs"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Porson_13_Jan_1803.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 542,
+   "license": "Public domain",
+   "artist": "Richard Porson",
+   "page": "https://commons.wikimedia.org/wiki/File:Porson_13_Jan_1803.jpg",
+   "desc": "Porson 13 Jan 1803 — Reconstruction of the missing Greek text on the Rosetta Stone"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  1,
+  2,
+  3,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": -196
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1799
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Rosetta Stone",
+  "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}
