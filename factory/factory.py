@@ -361,11 +361,12 @@ def trim(mp3, tim):
     """Cut model noise: start 0.08s before the first word, end 0.3s after the last; shift timings."""
     if not tim["w"]:
         return
-    st = max(0.0, tim["w"][0][1] - 0.08); end = tim["w"][-1][2] + 0.3; d = end - st; tmp = mp3 + ".tmp.mp3"
+    st = max(0.0, tim["w"][0][1] - 0.35); end  # keep a short lead-in so the first word is never clipped = tim["w"][-1][2] + 0.3; d = end - st; tmp = mp3 + ".tmp.mp3"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{st:.3f}", "-i", mp3, "-t", f"{d:.3f}",
-                    "-af", f"afade=t=in:d=0.03,afade=t=out:st={d-0.15:.3f}:d=0.15", "-b:a", "64k", tmp], check=True)
+                    "-af", f"afade=t=in:d=0.02,afade=t=out:st={d-0.15:.3f}:d=0.15", "-b:a", "64k", tmp], check=True)
     os.replace(tmp, mp3)
     tim["w"] = [[w, round(max(0, a - st), 3), round(max(0, b - st), 3)] for w, a, b in tim["w"]]
+    tim["trim_v"] = 2
 
 
 def local_tts(text, lang, mp3):
@@ -460,11 +461,16 @@ def repair(lang, n, stats):
     """Re-record videos the audit pulled from the feed (script already fact-checked); put them back if they pass."""
     import glob
     done = 0
-    for f in sorted(glob.glob(f"content/{lang}/*.json")):
-        if done >= n: break
+    def need(v):  # pulled by the audit first, then older recordings whose first word was clipped by the old trim
+        return 0 if (v.get("hidden") and v.get("needs_voice")) else 1 if v["tim"].get("trim_v", 1) < 2 and not v.get("hidden") else None
+    vids = []
+    for f in glob.glob(f"content/{lang}/*.json"):
         if f.endswith(("index.json", "feed.json")): continue
+        v = json.load(open(f, encoding="utf8")); k = need(v)
+        if k is not None: vids.append((k, f))
+    for _, f in sorted(vids):
+        if done >= n: break
         v = json.load(open(f, encoding="utf8"))
-        if not (v.get("hidden") and v.get("needs_voice")): continue
         mp3 = f"audio/{lang}/{v['id']}.mp3"
         try:
             v["ai"]["voice"], v["tim"], v["pron_wer"] = record(lang, v["sentences"], mp3, stats)

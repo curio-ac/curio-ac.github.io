@@ -310,7 +310,7 @@ function activate(el){
   seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   const tt=el.querySelector(".ttl");if(tt){tt.classList.add("big");clearTimeout(tt._t);tt._t=setTimeout(()=>tt.classList.remove("big"),1400)}
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
-  player.open(it.id);
+  player._stop();setTimeout(()=>{if(cur&&cur.it===it)player.open(it.id)},300); // רגע קטן אחרי הגלילה, כדי שהמילה הראשונה לא תיבלע
   const kids=[...feed.children],keep=new Set(kids.slice(Math.max(0,i-1),i+4).map(e=>e._it.id));
   kids.slice(i+1,i+4).forEach(e=>{if(!e._it.quiz)loadBuf(e._it.id)});for(const k in BUF)if(!keep.has(k))delete BUF[k];
 }
