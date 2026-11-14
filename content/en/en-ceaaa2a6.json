@@ -1,0 +1,381 @@
+{
+ "id": "en-ceaaa2a6",
+ "lang": "en",
+ "title": "Hubble Vs James Webb",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Webb's massive mirror produces images of comparable resolution.",
+  "That is compared to the smaller Hubble Space Telescope.",
+  "Webb's mirror diameter is 2.7 times larger than Hubble's.",
+  "This happens because Webb observes in the infrared spectrum.",
+  "Infrared light has longer wavelengths than Hubble's visible spectrum.",
+  "Longer wavelengths require larger mirrors to achieve the desired resolution."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Webb's",
+    0.08,
+    0.26
+   ],
+   [
+    "massive",
+    0.26,
+    0.74
+   ],
+   [
+    "mirror",
+    0.74,
+    1.14
+   ],
+   [
+    "produces",
+    1.14,
+    1.6
+   ],
+   [
+    "images",
+    1.6,
+    2.0
+   ],
+   [
+    "of",
+    2.0,
+    2.5
+   ],
+   [
+    "comparable",
+    2.6,
+    2.98
+   ],
+   [
+    "resolution.",
+    2.98,
+    4.13
+   ],
+   [
+    "That",
+    4.24,
+    4.28
+   ],
+   [
+    "is",
+    4.28,
+    4.46
+   ],
+   [
+    "compared",
+    4.46,
+    4.88
+   ],
+   [
+    "to",
+    4.88,
+    5.5
+   ],
+   [
+    "the",
+    5.5,
+    5.68
+   ],
+   [
+    "smaller",
+    5.68,
+    6.22
+   ],
+   [
+    "Hubble",
+    6.22,
+    6.66
+   ],
+   [
+    "Space",
+    6.66,
+    7.04
+   ],
+   [
+    "Telescope.",
+    7.04,
+    7.72
+   ],
+   [
+    "Webb's",
+    8.84,
+    9.16
+   ],
+   [
+    "mirror",
+    9.16,
+    9.36
+   ],
+   [
+    "diameter",
+    9.36,
+    9.84
+   ],
+   [
+    "is",
+    9.84,
+    10.16
+   ],
+   [
+    "2.7",
+    10.6,
+    11.02
+   ],
+   [
+    "times",
+    11.02,
+    11.38
+   ],
+   [
+    "larger",
+    11.38,
+    11.76
+   ],
+   [
+    "than",
+    11.76,
+    12.12
+   ],
+   [
+    "Hubble's.",
+    12.12,
+    12.48
+   ],
+   [
+    "This",
+    13.12,
+    13.22
+   ],
+   [
+    "happens",
+    13.22,
+    13.52
+   ],
+   [
+    "because",
+    13.52,
+    13.84
+   ],
+   [
+    "Webb",
+    13.84,
+    14.2
+   ],
+   [
+    "observes",
+    14.2,
+    14.64
+   ],
+   [
+    "in",
+    14.64,
+    14.84
+   ],
+   [
+    "the",
+    14.84,
+    14.96
+   ],
+   [
+    "infrared",
+    14.96,
+    15.4
+   ],
+   [
+    "spectrum.",
+    15.4,
+    16.1
+   ],
+   [
+    "Infrared",
+    16.58,
+    16.92
+   ],
+   [
+    "light",
+    16.92,
+    17.1
+   ],
+   [
+    "has",
+    17.1,
+    17.34
+   ],
+   [
+    "longer",
+    17.54,
+    17.64
+   ],
+   [
+    "wavelengths",
+    17.64,
+    18.12
+   ],
+   [
+    "than",
+    18.12,
+    18.5
+   ],
+   [
+    "Hubble's",
+    18.5,
+    18.98
+   ],
+   [
+    "visible",
+    18.98,
+    19.24
+   ],
+   [
+    "spectrum.",
+    19.24,
+    19.34
+   ],
+   [
+    "Longer",
+    20.58,
+    20.68
+   ],
+   [
+    "wavelengths",
+    20.68,
+    21.02
+   ],
+   [
+    "require",
+    21.02,
+    21.5
+   ],
+   [
+    "larger",
+    21.5,
+    22.02
+   ],
+   [
+    "mirrors",
+    22.02,
+    22.28
+   ],
+   [
+    "to",
+    22.28,
+    22.52
+   ],
+   [
+    "achieve",
+    22.66,
+    22.84
+   ],
+   [
+    "the",
+    22.84,
+    23.06
+   ],
+   [
+    "desired",
+    23.1,
+    23.5
+   ],
+   [
+    "resolution.",
+    23.5,
+    23.8
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   35,
+   44
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fine_Guidance_Sensor_Test_Image.jpg/960px-Fine_Guidance_Sensor_Test_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 687,
+   "license": "Public domain",
+   "artist": "NASA, CSA, ESA",
+   "page": "https://commons.wikimedia.org/wiki/File:Fine_Guidance_Sensor_Test_Image.jpg",
+   "desc": "Fine Guidance Sensor Test Image — Webb’s Fine Guidance Sensor (FGS) – developed by the Canadian Space Agency – has captured a special view of stars and galaxies that provides a tantalising glimpse at what the telescope’s science instruments will reveal i"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 617,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png",
+   "desc": "JWST spacecraft model 3 — The James Webb Space Telescope (sometimes called JWST or Webb) is an orbiting infrared observatory that complements and extends the discoveries of the Hubble Space Telescope, with longer wavelength coverage and greatly i"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Exoplanet_WASP-96_b_%28NIRISS_Transmission_Spectrum%29_%28weic2206a%29.jpeg/960px-Exoplanet_WASP-96_b_%28NIRISS_Transmission_Spectrum%29_%28weic2206a%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 484,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, CSA, STScI, and the Webb ERO Production Team",
+   "page": "https://commons.wikimedia.org/wiki/File:Exoplanet_WASP-96_b_(NIRISS_Transmission_Spectrum)_(weic2206a).jpeg",
+   "desc": "Exoplanet WASP-96 b (NIRISS Transmission Spectrum) (weic2206a) — A transmission spectrum made from a single observation using Webb’s Near-Infrared Imager and Slitless Spectrograph (NIRISS) reveals atmospheric characteristics of the hot gas giant exoplanet WASP"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Carina_Nebula_in_Visible_and_Infrared.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA.",
+   "page": "https://commons.wikimedia.org/wiki/File:Carina_Nebula_in_Visible_and_Infrared.jpg",
+   "desc": "Carina Nebula in Visible and Infrared — Two alternate Hubble Space Telescope views, comparing visible and infrared photography: Carina Nebula."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2.7,
+   "unit": "x larger",
+   "label": "mirror diameter"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q186447",
+ "angle": 0,
+ "source": {
+  "title": "James Webb Space Telescope",
+  "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14T16:55:27Z",
+ "trimmed": true
+}
