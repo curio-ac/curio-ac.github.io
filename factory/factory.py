@@ -289,6 +289,8 @@ def fetch_geo(lang, title):
 def write_script(model, lang, art, fix="", prev=None):
     lname = "Hebrew" if lang == "he" else "English"
     words = "45-65" if lang == "he" else "55-75"
+    prev_txt = ("Earlier videos about this article already covered: " + "; ".join(prev) + '. Pick DIFFERENT facts and a different hook. If SOURCE has no other surprising facts, return {"skip": true}.') if prev else ""
+    fix_txt = ("A fact-checker rejected these sentences of your previous draft. Rewrite the script so every claim is strictly supported (drop unsupported adjectives/details):" + chr(10) + fix) if fix else ""
     return gen_json(model, f"""You write scripts for Curio, a TikTok-style educational video feed. Write in {lname}.
 SOURCE (Wikipedia article "{art['title']}"):
 \"\"\"{art['text']}\"\"\"
@@ -300,8 +302,8 @@ Rules:
 - Energetic, conversational, simple words. No "Did you know", no greetings, no questions to "like and follow".
 - Each sentence adds a new fact; the last sentence is a satisfying payoff or twist.
 - Write numbers as digits.
-{"A fact-checker rejected these sentences of your previous draft. Rewrite the script so every claim is strictly supported (drop unsupported adjectives/details):" + chr(10) + fix if fix else ""}
-{"Earlier videos about this article already covered: " + "; ".join(prev) + ". Pick DIFFERENT facts and a different hook. If SOURCE has no other surprising facts, return {\"skip\": true}." if prev else ""}
+{fix_txt}
+{prev_txt}
 Return JSON: {{"title": short catchy title ({lname}, max 5 words), "category": one of {CATS}, "emoji": one emoji, "sentences": [..]}}""")
 
 
