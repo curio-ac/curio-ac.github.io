@@ -20,6 +20,9 @@ json.dump({"name": "Curio", "short_name": "Curio", "start_url": ".", "display": 
 # app icon: rendered from SVG with ffmpeg-free fallback (ImageMagick on runner)
 svg = '<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512"><rect width="512" height="512" rx="110" fill="#1a0b3d"/><text x="256" y="330" font-family="Arial Black,Arial" font-weight="900" font-size="230" text-anchor="middle" fill="#fff">c<tspan fill="#ffd166">o</tspan></text></svg>'
 open("site/icon.svg", "w").write(svg)
-subprocess.run(["convert", "site/icon.svg", "site/icon.png"], check=False)
+try:
+    subprocess.run(["convert", "-background", "none", "site/icon.svg", "site/icon.png"], check=False)
+except FileNotFoundError:
+    print("no imagemagick; icon.png skipped")
 open("site/.nojekyll", "w").close()
 print(f"site: {len(V)} videos")
