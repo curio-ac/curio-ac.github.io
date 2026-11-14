@@ -301,6 +301,7 @@ function activate(el){
   const i=[...feed.children].indexOf(el);while(feed.children.length<i+4)add();
   if(it.quiz){player.pause();return}
   if(!AC){cur.paused=true;el.classList.add("paused")} // לפני הנגיעה הראשונה: עומד על "נגן"
+  else if(AC.state!=="running")AC.resume(); // אחרי השהייה בסרטון הקודם: מחזירים את הקול
   seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
   player.open(it.id);
