@@ -289,7 +289,53 @@
    44
   ]
  },
- "images": [],
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/View_of_Ash_Plume_at_Eyjafjallaj%C3%B6kull_Volcano_%284538943540%29.jpg/960px-View_of_Ash_Plume_at_Eyjafjallaj%C3%B6kull_Volcano_%284538943540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1099,
+   "license": "CC BY 2.0",
+   "artist": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Ash_Plume_at_Eyjafjallaj%C3%B6kull_Volcano_(4538943540).jpg",
+   "desc": "View of Ash Plume at Eyjafjallajökull Volcano (4538943540) — NASA satellite image acquired April 17, 2010 To see a detailed view of this image go to: &lt;a href=\"https://www.flickr.com/photos/gsfc/4538944312/\"&gt;www.flickr.com/photos/gsfc/4538944312/&lt;/a&gt"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Globe4.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 748,
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Globe4.jpg",
+   "desc": "Globe4 — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Standbeeld_van_Vulcanus%2C_RP-P-1896-A-19368-516.jpg/960px-Standbeeld_van_Vulcanus%2C_RP-P-1896-A-19368-516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 919,
+   "license": "CC0",
+   "artist": "Rijksmuseum",
+   "page": "https://commons.wikimedia.org/wiki/File:Standbeeld_van_Vulcanus,_RP-P-1896-A-19368-516.jpg",
+   "desc": "Standbeeld van Vulcanus, RP-P-1896-A-19368-516 — IdentificatieTitel(s): Standbeeld van Vulcanus Vulcanus, de God des Vuurs (titel op object)Objecttype: prent boekillustratie Objectnummer: RP-P-1896-A-19368-516Catalogusreferentie: Van Eeghen 804 Opschriften / M"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/JudyFierstein-P1020591AndrewCalvertUSGS.jpg/960px-JudyFierstein-P1020591AndrewCalvertUSGS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "Andrew Todd Calvert, Ph.D.",
+   "page": "https://commons.wikimedia.org/wiki/File:JudyFierstein-P1020591AndrewCalvertUSGS.jpg",
+   "desc": "JudyFierstein-P1020591AndrewCalvertUSGS — Judy Fierstein, versatile field geologist in USGS volcano studies for 40 years, is the 2019 recipient of the Florence Bascom Geologic Mapping Award of the Geological Society of America. Judy has mapped numerous volcani"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/DenglerSW-Stromboli-20040928-1230x800.jpg/960px-DenglerSW-Stromboli-20040928-1230x800.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 468,
+   "license": "CC BY-SA 3.0",
+   "artist": "Steven W. Dengler",
+   "page": "https://commons.wikimedia.org/wiki/File:DenglerSW-Stromboli-20040928-1230x800.jpg",
+   "desc": "DenglerSW-Stromboli-20040928-1230x800 — The Island of Stromboli, Shot 2004 Sep 28 by Steven W. Dengler."
+  }
+ ],
  "source": {
   "title": "הר געש",
   "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A8_%D7%92%D7%A2%D7%A9",
@@ -303,12 +349,12 @@
  "created": "2026-11-14",
  "trimmed": true,
  "sent_img": [
+  0,
   null,
-  null,
-  null,
-  null,
-  null,
-  null
+  1,
+  2,
+  3,
+  4
  ],
  "vis": [
   {

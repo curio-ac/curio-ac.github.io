@@ -308,13 +308,22 @@
  },
  "images": [
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg/960px-Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Chamaeleon_MS5669.jpg/960px-Chamaeleon_MS5669.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "w": 720,
    "h": 480,
-   "license": "CC BY-SA 4.0",
-   "artist": "Garst, Warren, 1922-2016, photographer",
-   "page": "https://commons.wikimedia.org/wiki/File:Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg",
-   "desc": "Chameleon catching prey - DPLA - be0b8c96f3ee6b396f72d0578fbcc1c0 — 35 mm slide; color. Scientific Classification: Kingdom: Animalia; Phylum: Chordata; Class: Reptilia; Order: Squamata; Family: Chamaelonidae; Genus: Chamaelo; Genus species: Chamaelo sp. Animal"
+   "license": "CC BY-SA 3.0",
+   "artist": "Marco Schmidt [1]",
+   "page": "https://commons.wikimedia.org/wiki/File:Chamaeleon_MS5669.jpg",
+   "desc": "Chamaeleon MS5669 — Furcifer pardalis, between Diego Suarez and Ankarana, N Madagascar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Zoology_of_Egypt_%281898%29_%28Chamaeleo_calyptratus%29.jpg/960px-Zoology_of_Egypt_%281898%29_%28Chamaeleo_calyptratus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 419,
+   "license": "No restrictions",
+   "artist": "Internet Archive Book Images",
+   "page": "https://commons.wikimedia.org/wiki/File:Zoology_of_Egypt_(1898)_(Chamaeleo_calyptratus).jpg",
+   "desc": "Zoology of Egypt (1898) (Chamaeleo calyptratus) — Identifier: zoologyofegypt01ande (find matches) Title: Zoology of Egypt Year: 1898 (1890s) Authors: Anderson, John, 1833-1900 Boulenger, George Albert, 1858-1937. Fishes of the Nile De Winton, William Edward Su"
   },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juvenile_Brookesia_micra_on_finger_tip.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -348,20 +357,27 @@
  "created": "2026-11-14",
  "trimmed": true,
  "sent_img": [
-  null,
-  null,
   0,
-  null,
-  null,
+  0,
   1,
-  2
+  1,
+  null,
+  2,
+  3
  ],
  "vis": [
   {
    "type": "image"
   },
   {
-   "type": "image"
+   "type": "focus",
+   "target": "eyes",
+   "box": [
+    426,
+    775,
+    524,
+    831
+   ]
   },
   {
    "type": "stat",

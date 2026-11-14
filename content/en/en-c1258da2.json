@@ -357,6 +357,15 @@
    "desc": "A new eruption of the Home Reef volcano, Tonga (Copernicus 2024-12-10) — Home Reef is an underwater volcano in the Tonga Archipelago, characterised by cyclical eruptions which can last from a few days to several weeks. While not constantly active, its eruption"
   },
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg/960px-Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Cyrus Read Geophysicist USGS, Alaska Volcano Observatory cread@usgs.gov",
+   "page": "https://commons.wikimedia.org/wiki/File:Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg",
+   "desc": "Augustine volcano Jan 24 2006 - Cyrus Read — A gas plume arising from Augustine Volcano during its eruptive phase 2005-06. This photo was taken during a FLIR/maintenance flight on January 24, 2006."
+  },
+  {
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tectonic_plate_boundaries2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "w": 720,
    "h": 408,
@@ -364,6 +373,24 @@
    "artist": "USGS/USGov, modified by Eurico Zimbres",
    "page": "https://commons.wikimedia.org/wiki/File:Tectonic_plate_boundaries2.png",
    "desc": "Tectonic plate boundaries2 — Tectonics plates map internationalized. 1-Asthenosphere; 2-Lithosphere; 3-Hot spot; 4-Oceanic crust; 5-Subducting plate; 6-Continental crust; 7-Continental rift zone (young plate boundary); 8-Convergent boundary plate; 9"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/960px-Lava_channel_overflow.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Brocken Inaglory",
+   "page": "https://commons.wikimedia.org/wiki/File:Lava_channel_overflow.JPG",
+   "desc": "Lava channel overflow — Pāhoehoe Lava flow at The Big Island of Hawai. The picture shows few overflows of a main lava channel. The picture was taken from a helicopter."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/East_Dome_Mount_St._Helens.jpg/960px-East_Dome_Mount_St._Helens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 481,
+   "license": "Public domain",
+   "artist": "USGS / Rick Hoblitt",
+   "page": "https://commons.wikimedia.org/wiki/File:East_Dome_Mount_St._Helens.jpg",
+   "desc": "East Dome Mount St. Helens — East Dome erupted during Sugar Bowl time (C.E. 850-900) east flank view of Mount St. Helens."
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Hawaii_hotspot_cross-sectional_diagram.jpg/960px-Hawaii_hotspot_cross-sectional_diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -389,19 +416,26 @@
  "trimmed": true,
  "sent_img": [
   0,
-  null,
   1,
+  2,
+  3,
+  4,
   null,
-  null,
-  null,
-  2
+  5
  ],
  "vis": [
   {
    "type": "image"
   },
   {
-   "type": "image"
+   "type": "focus",
+   "target": "volcanic vent",
+   "box": [
+    229,
+    446,
+    426,
+    558
+   ]
   },
   {
    "type": "image"

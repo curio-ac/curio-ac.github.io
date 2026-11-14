@@ -264,7 +264,53 @@
    39
   ]
  },
- "images": [],
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_Whale_001_noaa_body_color.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NOAA Fisheries (TBjornstad 11:20, 18 April 2007 (UTC))",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue_Whale_001_noaa_body_color.jpg",
+   "desc": "Blue Whale 001 noaa body color — Blue Whale"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Blue-Whale-0009.jpg/960px-Blue-Whale-0009.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 477,
+   "license": "CC BY 2.0",
+   "artist": "Tim Wilson",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue-Whale-0009.jpg",
+   "desc": "Blue-Whale-0009 — לווייתן כחול ענק"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Krill666.jpg/960px-Krill666.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 560,
+   "license": "CC BY-SA 3.0",
+   "artist": "Uwe Kils I am willing to give the image in 1700 resolution to Wikipedia Uwe Kils",
+   "page": "https://commons.wikimedia.org/wiki/File:Krill666.jpg",
+   "desc": "Krill666 — Antarctic krill Euphausia superba."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Whaling.jpg/960px-Whaling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 476,
+   "license": "CC BY 4.0",
+   "artist": "Upendra Bhojani",
+   "page": "https://commons.wikimedia.org/wiki/File:Whaling.jpg",
+   "desc": "Whaling — Whaling, the hunting of whales for oil, meat, and baleen, dates back thousands of years with indigenous communities practicing small-scale subsistence whaling. However, it expanded massively in the period of 17th to 19th"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Antarctica%28js%29_3.jpg/960px-Antarctica%28js%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 474,
+   "license": "CC BY-SA 3.0",
+   "artist": "Jerzy Strzelecki",
+   "page": "https://commons.wikimedia.org/wiki/File:Antarctica(js)_3.jpg",
+   "desc": "Antarctica(js) 3 — Antarctica, landscape"
+  }
+ ],
  "source": {
   "title": "לווייתן כחול",
   "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%9F_%D7%9B%D7%97%D7%95%D7%9C",
@@ -278,11 +324,11 @@
  "created": "2026-11-14",
  "trimmed": true,
  "sent_img": [
-  null,
-  null,
-  null,
-  null,
-  null,
+  0,
+  1,
+  2,
+  3,
+  4,
   null
  ],
  "vis": [
@@ -296,7 +342,14 @@
    "unit_value_in": "m"
   },
   {
-   "type": "image"
+   "type": "focus",
+   "target": "krill",
+   "box": [
+    138,
+    76,
+    832,
+    923
+   ]
   },
   {
    "type": "image"
