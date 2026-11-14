@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Curio</title>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;700;900&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,sans-serif;overflow:hidden}
+#feed{height:100dvh;overflow-y:scroll;scroll-snap-type:y mandatory;scrollbar-width:none}
+#feed::-webkit-scrollbar{display:none}
+.post{height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;position:relative;overflow:hidden;max-width:520px;margin:0 auto;user-select:none}
+.bg{position:absolute;inset:0;background:linear-gradient(160deg,var(--c1),var(--c2))}
+.bigemo{position:absolute;font-size:62vmin;opacity:.13;top:50%;left:50%;transform:translate(-50%,-50%) rotate(-12deg);pointer-events:none}
+.bars{position:absolute;top:58px;left:12px;right:12px;display:flex;gap:4px;z-index:3}
+.bars span{flex:1;height:3px;background:rgba(255,255,255,.3);border-radius:2px;overflow:hidden}
+.bars i{display:block;height:100%;width:0;background:#fff}
+.slide{position:absolute;inset:90px 22px 180px 74px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;opacity:0;transform:translateY(24px);transition:opacity .45s,transform .45s;pointer-events:none}
+.slide.on{opacity:1;transform:none}
+.slide p{font-size:clamp(22px,6vw,30px);font-weight:700;line-height:1.38;text-shadow:0 2px 14px rgba(0,0,0,.45)}
+.slide .emo{font-size:76px;margin-bottom:18px}
+.slide.hook p{font-size:clamp(27px,7.6vw,38px);font-weight:900}
+.meta{position:absolute;bottom:26px;right:16px;left:78px;z-index:3}
+.chip{display:inline-block;background:rgba(255,255,255,.2);backdrop-filter:blur(6px);padding:4px 12px;border-radius:99px;font-size:13px;margin-bottom:8px}
+.meta h2{font-size:20px;font-weight:900;margin-bottom:6px;text-shadow:0 2px 8px rgba(0,0,0,.4)}
+.meta a{color:#fff;opacity:.85;font-size:13px}
+.actions{position:absolute;left:8px;bottom:100px;display:flex;flex-direction:column;gap:16px;z-index:3}
+.actions button{background:none;border:0;color:#fff;font-size:30px;display:flex;flex-direction:column;align-items:center;cursor:pointer;filter:drop-shadow(0 2px 6px rgba(0,0,0,.45));transition:transform .2s;width:54px}
+.actions small{font-size:11px;font-family:inherit;margin-top:2px;font-weight:700}
+.actions button.on{transform:scale(1.18)}
+.pz{position:absolute;inset:0;display:none;align-items:center;justify-content:center;font-size:84px;z-index:2;pointer-events:none;opacity:.85}
+.post.paused .pz{display:flex}
+#top{position:fixed;top:0;left:0;right:0;height:54px;display:flex;align-items:center;justify-content:space-between;padding:0 14px;z-index:10;max-width:520px;margin:0 auto;background:linear-gradient(rgba(0,0,0,.4),transparent)}
+.logo{font-weight:900;font-size:25px;letter-spacing:-.5px;direction:ltr}
+.logo b{color:#ffd166}
+#top button{background:rgba(255,255,255,.16);border:0;color:#fff;font-size:17px;width:38px;height:38px;border-radius:50%;margin-right:8px;cursor:pointer}
+.quiz{position:absolute;inset:96px 22px 110px;display:flex;flex-direction:column;justify-content:center;gap:12px;z-index:3}
+.quiz .tag{text-align:center;font-size:15px;opacity:.85}
+.quiz h3{font-size:clamp(22px,6.4vw,30px);font-weight:900;text-align:center;margin-bottom:10px;line-height:1.3}
+.quiz button{font:inherit;font-size:18px;font-weight:700;padding:14px;border-radius:14px;border:2px solid rgba(255,255,255,.4);background:rgba(255,255,255,.12);color:#fff;cursor:pointer;transition:background .25s}
+.quiz button.ok{background:#06d6a0;border-color:#06d6a0}
+.quiz button.bad{background:#ef476f;border-color:#ef476f}
+.quiz .x{font-size:17px;text-align:center;opacity:0;transition:opacity .3s;line-height:1.4;margin-top:6px}
+.quiz .x.on{opacity:1}
+.ov{position:fixed;inset:0;z-index:20;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:30px}
+#start{background:radial-gradient(circle at 30% 20%,#7b2ff7,#1a0b3d 60%,#000)}
+#start .logo{font-size:64px;margin-bottom:6px}
+#start p{font-size:20px;opacity:.9;margin-bottom:34px}
+#start button{font:inherit;font-size:19px;font-weight:700;border:0;border-radius:99px;padding:14px 34px;margin:6px;cursor:pointer;width:240px}
+.b1{background:#ffd166;color:#1a0b3d}
+.b2{background:rgba(255,255,255,.15);color:#fff}
+#start small{margin-top:26px;opacity:.6;font-size:13px;line-height:1.6}
+#panel{background:rgba(0,0,0,.82);backdrop-filter:blur(8px);display:none}
+#panel.on{display:flex}
+#panel .box{width:100%;max-width:400px;text-align:right}
+#panel h3{font-size:22px;margin-bottom:4px}
+#panel .sub{opacity:.7;font-size:14px;margin-bottom:18px}
+.row{display:flex;align-items:center;gap:10px;margin:8px 0;font-size:15px}
+.row span{width:84px}
+.row .bar{flex:1;height:10px;background:rgba(255,255,255,.12);border-radius:5px;overflow:hidden}
+.row .bar i{display:block;height:100%;background:#ffd166;border-radius:5px}
+#panel button{font:inherit;margin-top:20px;background:#fff;color:#000;border:0;border-radius:99px;padding:10px 24px;font-weight:700;cursor:pointer}
+#toast{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:rgba(20,20,20,.92);padding:10px 18px;border-radius:99px;font-size:14px;z-index:30;opacity:0;transition:opacity .3s;pointer-events:none;white-space:nowrap}
+#toast.on{opacity:1}
+</style>
+</head>
+<body>
+<div id="top"><div class="logo">curi<b>o</b></div><div><button id="btnStats" title="האלגוריתם">📊</button><button id="btnSound" title="קול">🔊</button></div></div>
+<div id="feed"></div>
+<div id="start" class="ov">
+  <div class="logo">curi<b>o</b></div>
+  <p>לגלול. ללמוד. להתפלא.</p>
+  <button class="b1" id="goMute">התחל</button>
+  <small>גלילה למעלה = נושא הבא · נגיעה בצד שמאל/ימין = קדימה/אחורה · נגיעה במרכז = עצירה</small>
+</div>
+<div id="panel" class="ov"><div class="box"><h3>📊 מה האלגוריתם למד עליך</h3><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
+<div id="toast"></div>
+<script>
+const CATS={
+ "חלל":["#1b1464","#05010f"],"ביולוגיה":["#0b6e4f","#08251c"],"היסטוריה":["#9c4f1c","#2b1206"],
+ "מתמטיקה":["#3a0ca3","#10002b"],"גאוגרפיה":["#0077b6","#03045e"],"פיזיקה":["#c9184a","#3d0814"],
+ "כימיה":["#e09f3e","#4a2c06"],"שפה":["#5f0f40","#1a0412"],"פסיכולוגיה":["#7209b7","#22033a"],
+ "אמנות":["#bc6c25","#283618"],"כלכלה":["#2a9d8f","#0b2d29"]
+};
+// [id, קטגוריה, אימוג'י, כותרת, חיפוש במקור, שקופיות]
+const T=[
+["bh","חלל","🕳️","חורים שחורים","חור שחור",["יש מקום ביקום שאפילו אור לא יכול לברוח ממנו.","חור שחור נוצר כשכוכב ענק קורס לתוך עצמו, וכל המסה שלו נדחסת לאזור זעיר.","הגבול שממנו אין חזרה נקרא ״אופק האירועים״.","ב־2019 צולם לראשונה חור שחור, בלב הגלקסיה M87, במרחק כ־55 מיליון שנות אור."]],
+["oc","ביולוגיה","🐙","התמנון","תמנון",["לתמנון יש שלושה לבבות. וגם דם כחול.","שני לבבות מזרימים דם לזימים, והשלישי לשאר הגוף.","הדם כחול כי הוא נושא חמצן בעזרת נחושת, ולא בעזרת ברזל כמו אצלנו.","כשני שלישים מתאי העצב שלו נמצאים בזרועות. כל זרוע ״חושבת״ קצת בעצמה."]],
+["py","היסטוריה","🔺","הפירמידה הגדולה","הפירמידה הגדולה של גיזה",["במשך כ־3,800 שנה, זה היה המבנה הגבוה ביותר שבנה אדם.","הפירמידה הגדולה בגיזה נבנתה לפני כ־4,500 שנה עבור הפרעה ח'ופו.","היא בנויה מכ־2.3 מיליון אבנים, וגובהה המקורי היה כ־146 מטר.","לפי ההערכה היום, בנו אותה פועלים בשכר ולא עבדים, כפי שחשבו פעם."]],
+["hn","כימיה","🍯","הדבש שלא מתקלקל","דבש",["יש מאכל אחד שכמעט לא מתקלקל לעולם.","בדבש יש מעט מאוד מים והרבה סוכר, כך שחיידקים פשוט מתייבשים בו.","הוא גם חומצי, ואנזים מהדבורים מייצר בו כמות קטנה של מי חמצן.","ארכיאולוגים מצאו דבש בקברים מצריים בני אלפי שנים."]],
+["bd","מתמטיקה","🎂","פרדוקס יום ההולדת","פרדוקס יום ההולדת",["בכיתה של 23 תלמידים, יש סיכוי של יותר מ־50% ששניים חוגגים יום הולדת באותו יום.","נשמע מוזר? הטריק: לא משווים אותך לכולם, אלא כל זוג לכל זוג.","ב־23 אנשים יש 253 זוגות אפשריים. הרבה הזדמנויות לצירוף מקרים.","ועם 70 אנשים, הסיכוי כבר מעל 99.9%."]],
+["ds","גאוגרפיה","🌊","ים המלח","ים המלח",["המקום הנמוך ביותר ביבשה נמצא בישראל.","פני ים המלח נמצאים כ־430 מטר מתחת לפני הים, ויורדים בכמטר בכל שנה.","המליחות שלו כ־34%, בערך פי 10 מהאוקיינוס.","ולכן אפשר לצוף בו בלי שום מאמץ."]],
+["sk","פיזיקה","🌤️","למה השמיים כחולים?","פיזור ריילי",["אור השמש לבן. אז למה השמיים כחולים?","אור השמש מכיל את כל הצבעים. כשהוא פוגע במולקולות האוויר, הוא מתפזר.","אור כחול, בעל אורך גל קצר, מתפזר הרבה יותר מאדום, ומגיע אלינו מכל כיוון בשמיים.","בשקיעה האור עובר דרך יותר אוויר. הכחול מתפזר בדרך, ונשארים כתום ואדום."]],
+["gu","היסטוריה","📜","הדפוס של גוטנברג","יוהאנס גוטנברג",["המצאה אחת מאמצע המאה ה־15 שינתה את העולם.","סביב 1450 פיתח יוהאנס גוטנברג דפוס עם אותיות מתכת נפרדות שאפשר לסדר מחדש.","לפני כן, כל ספר הועתק ביד, וזה לקח חודשים.","תוך עשרות שנים הודפסו מיליוני ספרים, והידע התחיל לנוע מהר מתמיד."]],
+["dn","ביולוגיה","🧬","הצופן שבתוכך","DNA",["בכמעט כל תא בגוף שלך מקופל חוט באורך של כ־2 מטר.","זה ה־DNA: ההוראות לבניית הגוף, כתובות ב־4 ״אותיות״ בלבד: A, T, C, G.","הוא מקופל כל כך טוב שהוא נכנס לגרעין התא, בקוטר של כמה מיקרונים בלבד.","בין כל שני בני אדם, ה־DNA זהה בכ־99.9%."]],
+["ci","כלכלה","💰","ריבית דריבית","ריבית דריבית",["100 ש״ח שגדלים ב־7% בשנה הופכים לכ־760 ש״ח אחרי 30 שנה.","הסוד: מקבלים ריבית גם על הריבית שכבר הצטברה.","כלל ה־72: מחלקים 72 בשיעור הריבית, ומקבלים בערך כמה שנים לוקח לכסף להכפיל את עצמו.","וזה עובד גם הפוך: חוב בריבית גבוהה גדל באותה מהירות."]],
+["he","שפה","🗣️","תחיית העברית","תחיית הלשון העברית",["העברית היא דוגמה כמעט יחידה לשפה שחזרה להיות שפת אם.","במשך כ־1,700 שנה כמעט לא דיברו בה בבית, אלא בעיקר קראו וכתבו בה.","אליעזר בן־יהודה, שעלה ב־1881, התעקש לדבר עם בנו רק בעברית, וחידש מילים רבות.","היום מדברים עברית מיליוני אנשים."]],
+["lt","פיזיקה","⚡","ברק","ברק",["ברק חם בערך פי 5 מפני השמש.","התעלה של הברק מתחממת לכ־30,000 מעלות, לעומת כ־5,500 מעלות בפני השמש.","החימום הפתאומי גורם לאוויר להתפשט בפיצוץ. זה הרעם.","טיפ: ספרו שניות בין ההבזק לרעם וחלקו ב־3. זה המרחק בקילומטרים."]],
+["dk","פסיכולוגיה","🧠","אפקט דאנינג־קרוגר","אפקט דאנינג-קרוגר",["למה דווקא מי שיודע מעט בטוח בעצמו כל כך?","במחקר מ־1999 מצאו דאנינג וקרוגר שאנשים עם ביצועים חלשים נטו להעריך את עצמם הרבה מעבר לרמתם.","כדי לזהות טעויות צריך בדיוק את הידע שחסר.","ומומחים? הם דווקא נוטים לפעמים להמעיט בערכם."]],
+["mt","גאוגרפיה","🌑","הנקודה העמוקה בעולם","שקע מריאנה",["אם תכניסו את האוורסט לנקודה העמוקה באוקיינוס, הפסגה עדיין תהיה מתחת למים.","תהום צ'לנג'ר בשקע מריאנה עמוקה כמעט 11 קילומטר.","הלחץ שם גבוה פי יותר מ־1,000 מהלחץ על פני הים.","ובכל זאת, יש שם חיים."]],
+["rs","היסטוריה","🪨","אבן רוזטה","אבן רוזטה",["אבן אחת אפשרה לקרוא שוב כתב שאיש לא הבין במשך כ־1,400 שנה.","היא נמצאה ב־1799 במצרים, ועליה אותו טקסט בשלושה כתבים, כולל יוונית עתיקה.","בזכות היוונית, ב־1822 פיענח ז'אן־פרנסואה שמפוליון את ההירוגליפים."]],
+["gp","פיזיקה","🛰️","GPS ואיינשטיין","מערכת מיקום גלובלית",["בלי תורת היחסות של איינשטיין, ה־GPS בטלפון שלך היה טועה בקילומטרים.","השעונים בלוויינים מתקדמים מהר יותר בכ־38 מיקרו־שניות ביום, בגלל המהירות והכבידה.","נשמע זעיר, אבל בלי תיקון השגיאה הייתה מצטברת לכ־10 ק״מ ביום."]],
+["tg","ביולוגיה","🐻","דובוני מים","דובוני מים",["החיה העמידה ביותר בעולם באורך של חצי מילימטר בערך.","דובוני מים שורדים קיפאון, ייבוש מוחלט ואפילו חשיפה לריק של החלל.","כשהתנאים קשים, הם מתייבשים ו״משביתים״ את חילוף החומרים, ומתעוררים כשמוסיפים מים."]],
+["ml","אמנות","🖼️","המונה ליזה","מונה ליזה",["הציור המפורסם בעולם קטן יותר ממה שחושבים.","77 על 53 ס״מ בלבד, מצויר על לוח עץ צפצפה.","ב־1911 הוא נגנב מהלובר, והגניבה תרמה מאוד לתהילה שלו.","הוא נמצא והוחזר ללובר ב־1914."]],
+["ph","ביולוגיה","🌱","פוטוסינתזה","פוטוסינתזה",["כמעט כל החמצן שאתה נושם נוצר בזכות אור.","צמחים, אצות וחיידקים כחוליים לוקחים פחמן דו־חמצני, מים ואור, ומייצרים סוכר.","החמצן הוא בעצם ״תוצר לוואי״ של התהליך.","חלק גדול מהחמצן בעולם מגיע מהאוקיינוס, מיצורים זעירים שנקראים פיטופלנקטון."]],
+["pi","מתמטיקה","🥧","המספר π","פאי",["יש מספר שאין לו סוף, והוא גם לא חוזר על עצמו.","π הוא היחס בין היקף מעגל לקוטר שלו: בערך 3.14159.","הוא אי־רציונלי: הספרות שלו ממשיכות לנצח בלי תבנית חוזרת.","ובכל זאת, כ־40 ספרות של π מספיקות כדי לחשב את היקף היקום הנצפה בדיוק של אטום."]]
+].map(([id,cat,e,t,q,s])=>({id,cat,e,t,url:"https://he.wikipedia.org/w/index.php?search="+encodeURIComponent(q),s}));
+
+const Q=[
+{id:"q1",ref:"lt",cat:"פיזיקה",q:"איך מעריכים כמה רחוק הברק?",o:["סופרים שניות עד הרעם ומחלקים ב־3","סופרים שניות ומכפילים ב־10","לפי עוצמת ההבזק","אי אפשר לדעת"],a:0,x:"הקול עובר כקילומטר בכל 3 שניות, והאור מגיע כמעט מיד."},
+{id:"q2",ref:"oc",cat:"ביולוגיה",q:"כמה לבבות יש לתמנון?",o:["אחד","שניים","שלושה","שמונה"],a:2,x:"שניים לזימים ואחד לשאר הגוף."},
+{id:"q3",ref:"bd",cat:"מתמטיקה",q:"כמה אנשים צריך כדי שהסיכוי ליום הולדת משותף יעלה על 50%?",o:["23","100","183","365"],a:0,x:"ב־23 אנשים יש 253 זוגות, וזה מספיק."},
+{id:"q4",ref:"mt",cat:"גאוגרפיה",q:"מה עומקה של הנקודה העמוקה באוקיינוס?",o:["כ־3 ק״מ","כ־11 ק״מ","כ־25 ק״מ","כ־100 ק״מ"],a:1,x:"תהום צ'לנג'ר עמוקה כמעט 11 ק״מ, יותר מגובה האוורסט."},
+{id:"q5",ref:"rs",cat:"היסטוריה",q:"מה אפשר את פענוח ההירוגליפים?",o:["מגילות ים המלח","אבן רוזטה","הפירמידה הגדולה","ספר המתים"],a:1,x:"אותו טקסט הופיע עליה גם ביוונית עתיקה."}
+];
+
+// ---------- אחסון מקומי (רק בדפדפן של הצופה) ----------
+let st={};try{st=JSON.parse(localStorage.getItem("curio")||"{}")}catch(e){}
+const W=st.w||{},liked=new Set(st.l||[]),saved=new Set(st.s||[]);
+const save=()=>{try{localStorage.setItem("curio",JSON.stringify({w:W,l:[...liked],s:[...saved]}))}catch(e){}};
+const w=c=>W[c]??1;
+const bump=(c,d)=>{W[c]=Math.round(Math.max(.2,Math.min(10,w(c)+d))*100)/100;save()};
+
+// ---------- האלגוריתם ----------
+const used=new Set(),quizDone=new Set();let sinceQuiz=0,seenRefs=new Set();
+function pick(){
+  if(sinceQuiz>=4){const q=Q.find(q=>!quizDone.has(q.id)&&seenRefs.has(q.ref));if(q){quizDone.add(q.id);sinceQuiz=0;return{quiz:q,cat:q.cat}}}
+  let pool=T.filter(x=>!used.has(x.id));
+  if(!pool.length){used.clear();toast("🔁 סבב חדש");pool=T.slice()}
+  let tot=pool.reduce((a,x)=>a+w(x.cat),0),r=Math.random()*tot;
+  for(const x of pool){r-=w(x.cat);if(r<=0){used.add(x.id);sinceQuiz++;return x}}
+  const x=pool[0];used.add(x.id);return x;
+}
+
+// ---------- רינדור ----------
+const feed=document.getElementById("feed");
+function render(it){
+  const el=document.createElement("section");el.className="post";el._it=it;
+  const [c1,c2]=CATS[it.cat];el.style.setProperty("--c1",c1);el.style.setProperty("--c2",c2);
+  if(it.quiz){
+    const q=it.quiz;
+    el.innerHTML=`<div class="bg"></div><div class="bigemo">❓</div><div class="quiz"><div class="tag">🧠 בדיקה קטנה · ${q.cat}</div><h3>${q.q}</h3>${q.o.map((o,i)=>`<button data-i="${i}">${o}</button>`).join("")}<div class="x">${q.x}<br><small>גללו להמשך ↑</small></div></div>`;
+    el.querySelectorAll(".quiz button").forEach(b=>b.onclick=()=>{
+      if(el._ans)return;el._ans=1;const i=+b.dataset.i,ok=i===q.a;
+      b.classList.add(ok?"ok":"bad");el.querySelector(`[data-i="${q.a}"]`).classList.add("ok");
+      el.querySelector(".x").classList.add("on");bump(q.cat,ok?.3:.8);
+      if(sound)speak((ok?"נכון! ":"לא בדיוק. ")+q.x);
+    });
+    return el;
+  }
+  el.innerHTML=`<div class="bg"></div><div class="bigemo">${it.e}</div>
+  <div class="bars">${it.s.map(()=>"<span><i></i></span>").join("")}</div>
+  ${it.s.map((t,i)=>`<div class="slide${i?"":" hook"}">${i?"":`<div class="emo">${it.e}</div>`}<p>${t}</p></div>`).join("")}
+  <div class="pz">⏸</div>
+  <div class="actions">
+    <button class="like${liked.has(it.id)?" on":""}">${liked.has(it.id)?"❤️":"🤍"}<small>אהבתי</small></button>
+    <button class="sv${saved.has(it.id)?" on":""}">${saved.has(it.id)?"⭐":"☆"}<small>שמירה</small></button>
+    <button class="sh">🔗<small>שיתוף</small></button>
+  </div>
+  <div class="meta"><span class="chip">${it.cat}</span><h2>${it.t}</h2><a href="${it.url}" target="_blank" rel="noopener">📖 מקור: ויקיפדיה ↗</a></div>`;
+  const lk=el.querySelector(".like"),sv=el.querySelector(".sv");
+  lk.onclick=()=>{const on=!liked.has(it.id);on?liked.add(it.id):liked.delete(it.id);bump(it.cat,on?2:-2);lk.classList.toggle("on",on);lk.firstChild.textContent=on?"❤️":"🤍"};
+  sv.onclick=()=>{const on=!saved.has(it.id);on?saved.add(it.id):saved.delete(it.id);bump(it.cat,on?1.5:-1.5);sv.classList.toggle("on",on);sv.firstChild.textContent=on?"⭐":"☆";toast(on?"נשמר ⭐":"הוסר מהשמורים")};
+  el.querySelector(".sh").onclick=()=>{const txt=`${it.t} | Curio\n${it.url}`;(navigator.clipboard?navigator.clipboard.writeText(txt):Promise.reject()).then(()=>toast("הקישור הועתק 🔗"),()=>toast("לא ניתן להעתיק כאן"))};
+  el.addEventListener("click",e=>{
+    if(e.target.closest("button,a")||!cur||cur.el!==el)return;
+    const x=(e.clientX-el.getBoundingClientRect().left)/el.offsetWidth;
+    if(x<.3)go(cur.idx+1);else if(x>.7)go(cur.idx-1);else togglePause();
+  });
+  return el;
+}
+function add(){const el=render(pick());feed.appendChild(el);io.observe(el)}
+
+// ---------- קריינות ----------
+let sound=true,voice=null,tok=0;const hasTTS="speechSynthesis" in window;
+function pickVoice(){if(!hasTTS)return;const v=speechSynthesis.getVoices();voice=v.find(x=>/^(he|iw)/i.test(x.lang))||null}
+if(hasTTS){pickVoice();speechSynthesis.onvoiceschanged=pickVoice}
+function speak(t,cb){if(!hasTTS){cb&&cb();return}const my=++tok;speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang="he-IL";if(voice)u.voice=voice;u.rate=1.05;u.onend=u.onerror=()=>{if(my===tok&&cb)cb()};speechSynthesis.speak(u)}
+function hush(){tok++;if(hasTTS)speechSynthesis.cancel()}
+
+// ---------- נגן ----------
+let cur=null;
+function activate(el){
+  if(cur&&cur.el===el)return;leave();
+  const it=el._it;cur={el,it,idx:0,enter:performance.now(),last:performance.now()};
+  const i=[...feed.children].indexOf(el);while(feed.children.length<i+4)add();
+  if(it.quiz){if(sound)speak(it.quiz.q);return}
+  seenRefs.add(it.id);go(0);
+}
+function leave(){
+  if(!cur)return;hush();
+  if(!cur.it.quiz){const dt=performance.now()-cur.enter;if(cur.done)bump(cur.it.cat,.5);else if(dt<2500)bump(cur.it.cat,-.3);
+    cur.el.classList.remove("paused");cur.el.querySelectorAll(".slide").forEach(s=>s.classList.remove("on"))}
+  cur=null;
+}
+function go(i){
+  const n=cur.it.s.length;if(i<0)i=0;
+  if(i>=n){cur.done=true;i=0}
+  cur.idx=i;cur.elapsed=0;cur.paused=false;cur.el.classList.remove("paused");
+  const text=cur.it.s[i];cur.dur=Math.min(9000,Math.max(3500,text.length*70));
+  cur.el.querySelectorAll(".slide").forEach((s,k)=>s.classList.toggle("on",k===i));
+  const bars=cur.el.querySelectorAll(".bars i");bars.forEach((b,k)=>b.style.width=k<i?"100%":"0");cur.bar=bars[i];
+  cur.spoken=!sound;const me=cur;if(sound)speak(text,()=>{me.spoken=true});
+}
+function togglePause(){cur.paused=!cur.paused;cur.el.classList.toggle("paused",cur.paused);if(cur.paused){hush();cur.spoken=true}}
+function tick(now){
+  if(cur&&!cur.it.quiz){
+    if(!cur.paused)cur.elapsed+=now-cur.last;
+    const p=Math.min(1,cur.elapsed/cur.dur);cur.bar.style.width=p*100+"%";
+    if(p>=1&&(cur.spoken||cur.elapsed>cur.dur*3))go(cur.idx+1);
+  }
+  if(cur)cur.last=now;requestAnimationFrame(tick);
+}
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)activate(e.target)}),{threshold:.6});
+
+// ---------- ממשק ----------
+const $=id=>document.getElementById(id);let tt;
+function toast(m){const t=$("toast");t.textContent=m;t.classList.add("on");clearTimeout(tt);tt=setTimeout(()=>t.classList.remove("on"),1800)}
+function setSound(on){sound=on;$("btnSound").textContent=on?"🔊":"🔇";if(!on){hush();if(cur)cur.spoken=true}else if(cur&&!cur.it.quiz)go(cur.idx)}
+function begin(withSound){
+  $("start").remove();setSound(withSound);
+  if(withSound&&hasTTS&&!voice)toast("לא נמצא קול בעברית במכשיר הזה");
+  for(let i=0;i<3;i++)add();requestAnimationFrame(tick);
+}
+$("goMute").onclick=()=>begin(false);$("btnSound").style.display="none";
+$("btnSound").onclick=()=>setSound(!sound);
+$("btnStats").onclick=()=>{
+  const max=Math.max(...Object.keys(CATS).map(w));
+  $("rows").innerHTML=Object.keys(CATS).sort((a,b)=>w(b)-w(a)).map(c=>`<div class="row"><span>${c}</span><div class="bar"><i style="width:${w(c)/max*100}%"></i></div><b>${w(c).toFixed(1)}</b></div>`).join("");
+  $("panel").classList.add("on");if(cur&&!cur.paused&&!cur.it.quiz)togglePause();
+};
+$("closePanel").onclick=()=>$("panel").classList.remove("on");
+document.addEventListener("keydown",e=>{if(!cur||cur.it.quiz)return;
+  if(e.key==="ArrowLeft")go(cur.idx+1);else if(e.key==="ArrowRight")go(cur.idx-1);else if(e.key===" "){e.preventDefault();togglePause()}});
+</script>
+</body>
+</html>
