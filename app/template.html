@@ -100,6 +100,8 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 #panel button{font:inherit;margin-top:22px;background:#fff;color:#000;border:0;padding:10px 26px;font-weight:600;cursor:pointer}
 #toast{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:#fff;color:#000;padding:9px 16px;font-size:14px;font-weight:500;z-index:30;opacity:0;transition:opacity .25s;pointer-events:none;white-space:nowrap}
 #toast.on{opacity:1}
+#unmute{position:fixed;top:58px;left:50%;transform:translateX(-50%);z-index:12;display:flex;align-items:center;gap:8px;background:rgba(0,0,0,.6);padding:8px 14px;font-size:14px;font-weight:500;pointer-events:none;white-space:nowrap}
+#unmute svg{width:20px;height:20px;fill:none;stroke:#fff;stroke-width:1.8;stroke-linejoin:round;stroke-linecap:round}
 @media (prefers-reduced-motion:reduce){.img i[class^=m]{animation:none!important}.v-bar{animation:none}}
 </style>
 </head>
@@ -108,6 +110,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 <div id="feed"></div>
 <div id="panel" class="ov"><div class="box"><h3>מה האלגוריתם למד עליך</h3><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
 <div id="toast"></div>
+<div id="unmute"><svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z"/><path d="M16 9.5l5 5M21 9.5l-5 5"/></svg><span>הקש להפעלת קול · Tap to unmute</span></div>
 <script src="world.js"></script>
 <script>
 // התוכן מגיע מבחוץ ומתעדכן ברקע: האפליקציה היא רק נגן
@@ -283,22 +286,22 @@ function stopMusic(){if(!mus)return;clearInterval(mus.iv);const g=mus.g;try{g.ga
 // קריינות דרך Web Audio: מפוענחת מראש לסרטונים הבאים, ולכן מתחילה מיד בגלילה
 const BUF={};
 function loadBuf(id){if(!AC||!AUD[id])return null;if(!BUF[id])BUF[id]=fetch(AUD[id]).then(r=>r.arrayBuffer()).then(b=>new Promise((res,rej)=>AC.decodeAudioData(b,res,rej))).catch(()=>{delete BUF[id];return null});return BUF[id]}
-const player={buf:null,node:null,t0:0,off:0,playing:false,ver:0,muted:false,
-  get currentTime(){if(!this.buf)return 0;const t=this.playing?AC.currentTime-this.t0:this.off;return t%this.buf.duration},
+const player={buf:null,node:null,t0:0,off:0,playing:false,ver:0,muted:false,virt:null,
+  get currentTime(){if(this.virt)return((performance.now()-this.virt.t0)/1000)%this.virt.dur;if(!this.buf)return 0;const t=this.playing?AC.currentTime-this.t0:this.off;return t%this.buf.duration},
   set currentTime(v){const was=this.playing;this._stop();this.off=Math.max(0,v);if(was)this.play()},
-  get duration(){return this.buf?this.buf.duration:0},
+  get duration(){return this.virt?this.virt.dur:this.buf?this.buf.duration:0},
   play(){if(!AC||!this.buf||this.playing)return Promise.resolve();if(!this.gn){this.gn=AC.createGain();this.gn.connect(master)}
     const s=AC.createBufferSource();s.buffer=this.buf;s.loop=true;s.connect(this.gn);const o=this.off%this.buf.duration;s.start(0,o);this.t0=AC.currentTime-o;this.node=s;this.playing=true;return Promise.resolve()},
   pause(){if(this.playing){this.off=this.currentTime;this._stop()}},
   _stop(){if(this.node){try{this.node.stop()}catch(e){}this.node.disconnect();this.node=null}this.playing=false},
-  async open(id){this._stop();this.off=0;this.buf=null;const my=++this.ver,p=loadBuf(id),b=p&&await p;if(my!==this.ver||!b)return;this.buf=b;if(cur&&!cur.paused)this.play()}};
+  async open(id,from=0){this._stop();this.off=from;this.buf=null;const my=++this.ver,p=loadBuf(id),b=p&&await p;if(my!==this.ver||!b)return;this.buf=b;if(cur&&!cur.paused)this.play()}};
 let cur=null,muted=false;
 function activate(el){
   if(cur&&cur.el===el)return;leave();
   const it=el._it;cur={el,it,enter:performance.now(),lastT:0,done:false};
   const i=[...feed.children].indexOf(el);ensure(i+4);
   if(it.quiz){player.pause();return}
-  if(!AC){cur.paused=true;el.classList.add("paused")} // לפני הנגיעה הראשונה: עומד על "נגן"
+  if(!AC){const w=it.tim.w;player.virt={t0:performance.now(),dur:(w.length?w[w.length-1][2]:20)+.3}} // לפני הנגיעה הראשונה: רץ בלי קול
   else{const go=()=>{if(master){master.gain.cancelScheduledValues(AC.currentTime);master.gain.setValueAtTime(muted?0:1,AC.currentTime)}};if(AC.state!=="running")AC.resume().then(go);go()} // אחרי השהייה בסרטון הקודם: מחזירים את הקול
   seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
@@ -347,8 +350,10 @@ function toast(m){const t=$("toast");t.textContent=m;t.classList.add("on");clear
 // התחלה אוטומטית בשתי השפות. הדפדפן מתיר קול רק אחרי נגיעה ראשונה
 LANGS=["he","en"];player.muted=true;loadFeed().then(()=>ensure(3));requestAnimationFrame(tick);
 setInterval(()=>{if(!document.hidden)loadFeed().then(()=>{if(cur)ensure([...feed.children].indexOf(cur.el)+4)})},180000); // סרטונים חדשים נכנסים לשרשרת בלי עדכון
-const unlock=()=>{document.removeEventListener("click",unlock,true);initAudio();if(AC)AC.resume();player.muted=muted;
-  [...feed.children].slice(0,4).forEach(e=>{if(!e._it.quiz)loadBuf(e._it.id)})};
+const unlock=e=>{document.removeEventListener("click",unlock,true);e.stopPropagation();e.preventDefault(); // הנגיעה הראשונה רק מפעילה קול
+  const u=$("unmute");if(u)u.remove();initAudio();if(AC)AC.resume();
+  if(cur&&!cur.it.quiz){const from=player.currentTime;player.virt=null;player.open(cur.it.id,from);let h=0;for(const ch of cur.it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h)}
+  player.virt=null;[...feed.children].slice(0,4).forEach(x=>{if(!x._it.quiz)loadBuf(x._it.id)})};
 document.addEventListener("click",unlock,true);
 // יציאה מהאפליקציה / מסך נעול: עוצרים הכול, וממשיכים כשחוזרים
 function bgPause(){if(!AC){player.pause();return}const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(0,t+.05);
