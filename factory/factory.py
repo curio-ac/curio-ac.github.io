@@ -372,6 +372,34 @@ def local_tts(text, lang, mp3):
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "s16le", "-ar", str(rate), "-ac", "1", "-i", "-", "-b:a", "64k", mp3], input=pcm, check=True)
 
 
+def rebuild_feed():
+    """content/feed.json: the light list the app polls. Each entry points to content/<lang>/<id>.json + audio."""
+    import glob
+    vids = []
+    for f in glob.glob("content/*/*.json"):
+        if f.endswith(("index.json", "feed.json")): continue
+        v = json.load(open(f, encoding="utf8"))
+        if os.path.exists(f"audio/{v['lang']}/{v['id']}.mp3"):
+            vids.append({"id": v["id"], "lang": v["lang"], "cat": v["cat"], "created": v.get("created", "")})
+    vids.sort(key=lambda x: x["created"], reverse=True)
+    json.dump({"updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "videos": vids}, open("content/feed.json", "w", encoding="utf8"), ensure_ascii=False)
+
+
+def publish(msg):
+    """Push each finished video right away, so it reaches viewers within minutes (no app update)."""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return
+    subprocess.run(["git", "add", "content", "audio", "factory/queue"], check=False)
+    if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
+        return
+    subprocess.run(["git", "commit", "-qm", msg], check=False)
+    for _ in range(4):
+        if subprocess.run(["git", "pull", "--rebase", "-q"]).returncode == 0 and subprocess.run(["git", "push", "-q"]).returncode == 0:
+            return
+        time.sleep(5)
+    print("   ⚠️ push failed; will retry at the end")
+
+
 # ---------- main ----------
 def main():
     ap = argparse.ArgumentParser()
@@ -431,13 +459,14 @@ def main():
                        "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo,
                        "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
                        "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
-                       "created": time.strftime("%Y-%m-%d"), "trimmed": True},
+                       "created": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "trimmed": True},
                       open(f"content/{lang}/{vid}.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)
             if topic not in index["done"]: index["done"].append(topic)
             index["angles"].setdefault(topic, []).append(f'{sc["title"]}: {sc["sentences"][0]}'); stats["made"] += 1
             q_path = f"factory/queue/{lang}.json"
             if os.path.exists(q_path):
                 json.dump([t for t in json.load(open(q_path, encoding="utf8")) if t != topic], open(q_path, "w", encoding="utf8"), ensure_ascii=False, indent=0)
+            rebuild_feed(); publish(f"video {vid}: {sc['title']}")
             print(f"✅ {topic} → {vid} ({tim['w'][-1][2] if tim['w'] else '?'}s, images per sentence: {sent_img})", flush=True)
         except Quota as e:
             print(f"⛔ daily quota reached: {e}"); break
@@ -445,6 +474,7 @@ def main():
             print(f"⚠️ {topic}: {e}")
         finally:
             json.dump(index, open(idx_path, "w", encoding="utf8"), ensure_ascii=False, indent=1)
+    rebuild_feed(); publish(f"feed {lang}")
     print(f"\nSUMMARY {lang}: {stats}")
 
 

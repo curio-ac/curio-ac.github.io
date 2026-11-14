@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Curio</title>
-<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#1a0b3d"><link rel="apple-touch-icon" href="icon.png"><meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#000000"><link rel="apple-touch-icon" href="icon.png"><meta name="apple-mobile-web-app-capable" content="yes">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Hebrew:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{--hl:#F5E62E;--ink:#000;--paper:#fff;--dim:rgba(255,255,255,.62);--line:rgba(255,255,255,.22)}
@@ -108,9 +108,16 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 <div id="feed"></div>
 <div id="panel" class="ov"><div class="box"><h3>מה האלגוריתם למד עליך</h3><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
 <div id="toast"></div>
+<script src="world.js"></script>
 <script>
-/*DATA*/
-/*WORLD*/
+// התוכן מגיע מבחוץ ומתעדכן ברקע: האפליקציה היא רק נגן
+const REPO="o2hoffman-hash/Curio",CDN=`https://cdn.jsdelivr.net/gh/${REPO}@main/`,FEED_URL=`https://raw.githubusercontent.com/${REPO}/main/content/feed.json`;
+let V=[];const AUD={},FULL={};
+async function loadFeed(){try{const r=await fetch(FEED_URL+"?t="+Date.now(),{cache:"no-store"});const f=await r.json();
+  const have=new Set(V.map(x=>x.id));let n=0;for(const e of f.videos)if(!have.has(e.id)){V.push(e);AUD[e.id]=CDN+`audio/${e.lang}/${e.id}.mp3`;n++}
+  if(n&&have.size)fresh+=n;return n}catch(e){return 0}}
+let fresh=0;
+async function full(e){if(!FULL[e.id])FULL[e.id]=fetch(CDN+`content/${e.lang}/${e.id}.json`).then(r=>r.json()).then(v=>{prep(v);return v});return FULL[e.id]}
 const CATS={space:["#1b1464","#05010f","חלל","Space"],biology:["#0b6e4f","#08251c","ביולוגיה","Biology"],history:["#9c4f1c","#2b1206","היסטוריה","History"],
  math:["#3a0ca3","#10002b","מתמטיקה","Math"],geography:["#0077b6","#03045e","גאוגרפיה","Geography"],physics:["#c9184a","#3d0814","פיזיקה","Physics"],
  chemistry:["#e09f3e","#4a2c06","כימיה","Chemistry"],language:["#5f0f40","#1a0412","שפה","Language"],psychology:["#7209b7","#22033a","פסיכולוגיה","Psychology"],
@@ -119,7 +126,7 @@ const lab=(c,l)=>(CATS[c]||[])[l==="en"?3:2]||c;
 const Q=[];let LANGS=["he"];
 
 // ---------- הכנת כתוביות: חלוקה לקבוצות של עד 3 מילים ----------
-for(const v of V){
+function prep(v){
   const {w,b}=v.tim;v.chunks=[];
   b.forEach((st,si)=>{const en=si+1<b.length?b[si+1]:w.length;let c=null;
     for(let k=st;k<en;k++){if(!c){c={s:w[k][1],si,ws:[]};v.chunks.push(c)}c.ws.push(k);
@@ -139,6 +146,7 @@ const used=new Set(),quizDone=new Set(),seenRefs=new Set();let sinceQuiz=0;
 function pick(){
   if(sinceQuiz>=4){const q=Q.find(q=>!quizDone.has(q.id)&&seenRefs.has(q.ref));if(q){quizDone.add(q.id);sinceQuiz=0;return{quiz:q,cat:q.cat}}}
   let pool=V.filter(x=>!used.has(x.id)&&LANGS.includes(x.lang));
+  if(fresh>0){const nw=pool.filter(x=>x.created===V.reduce((m,y)=>y.created>m?y.created:m,""));if(nw.length){fresh--;const x=nw[0];used.add(x.id);sinceQuiz++;return x}}
   if(!pool.length){used.clear();toast("מתחילים סבב חדש");pool=V.filter(x=>LANGS.includes(x.lang))}
   let r=Math.random()*pool.reduce((a,x)=>a+w(x.cat),0);
   for(const x of pool){r-=w(x.cat);if(r<=0){used.add(x.id);sinceQuiz++;return x}}
@@ -188,7 +196,9 @@ function showChunk(el,it,ci){
     el.querySelector(".bg").style.filter=`hue-rotate(${c.si*18}deg) brightness(${1-c.si*.04})`}
   el._ci=ci;
 }
-function add(){const it=pick(),el=render(it);feed.appendChild(el);io.observe(el)}
+let pending=0;
+async function add(){const e=pick();if(!e)return;let it=e;if(!e.quiz){try{it=await full(e)}catch(err){return}}const el=render(it);feed.appendChild(el);io.observe(el)}
+function ensure(n){if(!V.length)return;while(feed.children.length+pending<n){pending++;add().finally(()=>{pending--})}}
 
 // ---------- שכבת מידע ויזואלית ----------
 const REF={length:[["human",1.7,"🧍","בני אדם","people"],["bus",12,"🚌","אוטובוסים","buses"],["football_field",105,"🏟️","מגרשי כדורגל","football fields"],["eiffel_tower",330,"🗼","מגדלי אייפל","Eiffel Towers"]],
@@ -286,7 +296,7 @@ let cur=null,muted=false;
 function activate(el){
   if(cur&&cur.el===el)return;leave();
   const it=el._it;cur={el,it,enter:performance.now(),lastT:0,done:false};
-  const i=[...feed.children].indexOf(el);while(feed.children.length<i+4)add();
+  const i=[...feed.children].indexOf(el);ensure(i+4);
   if(it.quiz){player.pause();return}
   if(!AC){cur.paused=true;el.classList.add("paused")} // לפני הנגיעה הראשונה: עומד על "נגן"
   else{const go=()=>{if(master){master.gain.cancelScheduledValues(AC.currentTime);master.gain.setValueAtTime(muted?0:1,AC.currentTime)}};if(AC.state!=="running")AC.resume().then(go);go()} // אחרי השהייה בסרטון הקודם: מחזירים את הקול
@@ -335,14 +345,15 @@ const ICON={snd:'<svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4
 const $=id=>document.getElementById(id);let tt;
 function toast(m){const t=$("toast");t.textContent=m;t.classList.add("on");clearTimeout(tt);tt=setTimeout(()=>t.classList.remove("on"),1800)}
 // התחלה אוטומטית בשתי השפות. הדפדפן מתיר קול רק אחרי נגיעה ראשונה
-LANGS=["he","en"];player.muted=true;for(let i=0;i<3;i++)add();requestAnimationFrame(tick);
+LANGS=["he","en"];player.muted=true;loadFeed().then(()=>ensure(3));requestAnimationFrame(tick);
+setInterval(()=>{if(!document.hidden)loadFeed().then(()=>{if(cur)ensure([...feed.children].indexOf(cur.el)+4)})},180000); // סרטונים חדשים נכנסים לשרשרת בלי עדכון
 const unlock=()=>{document.removeEventListener("click",unlock,true);initAudio();if(AC)AC.resume();player.muted=muted;
   [...feed.children].slice(0,4).forEach(e=>{if(!e._it.quiz)loadBuf(e._it.id)})};
 document.addEventListener("click",unlock,true);
 // יציאה מהאפליקציה / מסך נעול: עוצרים הכול, וממשיכים כשחוזרים
 function bgPause(){if(!AC){player.pause();return}const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(0,t+.05);
   setTimeout(()=>{player.pause();AC.suspend()},70)} // דעיכה לפני עצירה, בלי קליק
-document.addEventListener("visibilitychange",()=>{if(document.hidden)bgPause();else if(cur&&!cur.paused&&!cur.it.quiz){if(AC)AC.resume().then(()=>{const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(0,t);master.gain.linearRampToValueAtTime(muted?0:1,t+.12)});player.play().catch(()=>{})}});
+document.addEventListener("visibilitychange",()=>{if(document.hidden)bgPause();else{loadFeed()}if(!document.hidden&&cur&&!cur.paused&&!cur.it.quiz){if(AC)AC.resume().then(()=>{const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(0,t);master.gain.linearRampToValueAtTime(muted?0:1,t+.12)});player.play().catch(()=>{})}});
 window.addEventListener("pagehide",bgPause);window.addEventListener("blur",()=>{if(document.hidden)bgPause()});
 $("btnSound").onclick=()=>{muted=!muted;player.muted=muted;if(master)master.gain.value=muted?0:1;$("btnSound").innerHTML=muted?ICON.mute:ICON.snd};
 $("btnStats").onclick=()=>{

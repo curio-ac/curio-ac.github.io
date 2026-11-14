@@ -11,7 +11,6 @@ on:
 
 permissions:
   contents: write
-  actions: write
 
 concurrency: factory
 
@@ -42,6 +41,7 @@ jobs:
           wget -q https://huggingface.co/thewh1teagle/phonikud-onnx/resolve/main/phonikud-1.0.int8.onnx
           wget -q -O tts-model.onnx https://huggingface.co/thewh1teagle/phonikud-tts-checkpoints/resolve/main/shaul.onnx
           wget -q -O tts-model.config.json https://huggingface.co/thewh1teagle/phonikud-tts-checkpoints/resolve/main/model.config.json
+      - run: git config user.name curio-bot && git config user.email curio-bot@users.noreply.github.com
       - run: python factory/factory.py --lang ${{ matrix.lang }} --count ${{ inputs.count || '40' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -52,8 +52,3 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "factory: ${{ matrix.lang }} $(date +%F)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
-      - name: publish to the app right away
-        if: always()
-        run: gh workflow run deploy.yml --ref main
-        env:
-          GH_TOKEN: ${{ github.token }}

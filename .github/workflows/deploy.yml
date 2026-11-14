@@ -3,10 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["app/**", "content/**", "audio/**", "factory/build_site.py"]
-  workflow_run:
-    workflows: ["Curio factory", "refresh"]
-    types: [completed]
+    paths: ["app/**", "factory/build_site.py"]
 permissions:
   contents: read
   pages: write

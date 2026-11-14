@@ -1,28 +1,16 @@
 """Builds the live app into site/: index.html + feed.js (all videos) + audio files. Images stay on Wikimedia."""
 import glob, json, os, shutil, subprocess
 os.makedirs("site", exist_ok=True)
-V = []
-for f in sorted(glob.glob("content/*/*.json")):
-    if f.endswith("index.json"): continue
-    v = json.load(open(f, encoding="utf8")); mp3 = f"audio/{v['lang']}/{v['id']}.mp3"
-    if os.path.exists(mp3):
-        V.append(v)
-V.sort(key=lambda v: v.get("created", ""), reverse=True)
-aud = {v["id"]: f"audio/{v['lang']}/{v['id']}.mp3" for v in V}
-open("site/feed.js", "w", encoding="utf8").write(
-    "const V=" + json.dumps(V, ensure_ascii=False, separators=(",", ":")) + ";\nconst AUD=" + json.dumps(aud) +
-    ";\nwindow.WORLD=" + json.dumps(open("app/world.txt").read()) + ";")
-html = open("app/template.html", encoding="utf8").read().replace("<script>\n/*DATA*/\n/*WORLD*/", f'<script src="feed.js?v={int(__import__("time").time())}"></script>\n<script>')
-open("site/index.html", "w", encoding="utf8").write(html)
-shutil.copytree("audio", "site/audio", dirs_exist_ok=True)
-json.dump({"name": "Curio", "short_name": "Curio", "start_url": ".", "display": "standalone", "background_color": "#1a0b3d",
-           "theme_color": "#1a0b3d", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}, open("site/manifest.json", "w"))
+open("site/world.js", "w").write("window.WORLD=" + json.dumps(open("app/world.txt").read()) + ";")
+shutil.copy("app/template.html", "site/index.html")
+json.dump({"name": "Curio", "short_name": "Curio", "start_url": ".", "display": "standalone", "background_color": "#000000",
+           "theme_color": "#000000", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}, open("site/manifest.json", "w"))
 # app icon: rendered from SVG with ffmpeg-free fallback (ImageMagick on runner)
-svg = '<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512"><rect width="512" height="512" rx="110" fill="#1a0b3d"/><text x="256" y="330" font-family="Arial Black,Arial" font-weight="900" font-size="230" text-anchor="middle" fill="#fff">c<tspan fill="#ffd166">o</tspan></text></svg>'
+svg = '<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512"><rect width="512" height="512" fill="#000"/><rect x="132" y="318" width="248" height="46" fill="#F5E62E"/><text x="256" y="330" font-family="Arial,Helvetica" font-weight="700" font-size="300" text-anchor="middle" fill="#fff">c</text></svg>'
 open("site/icon.svg", "w").write(svg)
 try:
     subprocess.run(["convert", "-background", "none", "site/icon.svg", "site/icon.png"], check=False)
 except FileNotFoundError:
     print("no imagemagick; icon.png skipped")
 open("site/.nojekyll", "w").close()
-print(f"site: {len(V)} videos")
+print("site built (app shell only; videos load from the content server)")
