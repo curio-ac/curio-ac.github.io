@@ -183,7 +183,8 @@ so the viewer SEES what they HEAR. Only pick an image that clearly illustrates t
 If null, give a short English search query for Wikimedia Commons that would find a real photo/diagram illustrating that sentence.
 SENTENCES:\n{sents}\nCANDIDATES:\n{listing}
 Return JSON: {{"plan": [{{"sentence": n, "image": candidate number or null, "search": "query or null"}}]}}""")
-        return {int(x["sentence"]): x for x in res.get("plan", []) if str(x.get("sentence", "")).isdigit() or isinstance(x.get("sentence"), int)}
+        res = {"plan": res} if isinstance(res, list) else res
+        return {int(x["sentence"]): x for x in res.get("plan", []) if isinstance(x, dict) and str(x.get("sentence", "")).isdigit() or isinstance(x.get("sentence"), int)}
     plan = ask(range(len(sentences)), range(len(pool)))
     pick = {k: (plan.get(k, {}).get("image")) for k in range(len(sentences))}
     missing = [k for k in pick if pick[k] is None and plan.get(k, {}).get("search")]
@@ -212,7 +213,11 @@ Return JSON: {{"plan": [{{"sentence": n, "image": candidate number or null, "sea
             sent_ok.append(k)
     boxes = {}
     if sent_ok:
-        r = gen_json(None, parts); ok = r.get("ok", {}); boxes = r.get("box", {}) or {}
+        r = gen_json(None, parts)
+        r = r if isinstance(r, dict) else {"ok": r}
+        ok, boxes = r.get("ok", {}) or {}, r.get("box", {}) or {}
+        if isinstance(ok, list): ok = {str(k): ok[i] for i, k in enumerate(sent_ok) if i < len(ok)}
+        if isinstance(boxes, list): boxes = {str(k): boxes[i] for i, k in enumerate(sent_ok) if i < len(boxes)}
         for k in sent_ok:
             if ok.get(str(k)) is False:
                 pick[k] = None
@@ -251,7 +256,7 @@ For each sentence choose ONE visual:
 - {"type":"image"} — otherwise
 Every number MUST appear in SOURCE (copied exactly, or a pure unit conversion). Use at most 3 non-image visuals per video, never two of the same type in a row.
 Return JSON: {"visuals":[...one per sentence...]}""")
-    vis = (res.get("visuals") or [])[:len(sentences)]
+    vis = [x if isinstance(x, dict) else {"type": "image"} for x in ((res if isinstance(res, list) else res.get("visuals")) or [])][:len(sentences)]
     vis += [{"type": "image"}] * (len(sentences) - len(vis))
     digits = re.sub(r"[,\s]", "", art["text"])
     for k, v in enumerate(vis):
