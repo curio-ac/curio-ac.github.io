@@ -405,5 +405,6 @@
   "fact_check": "passed"
  },
  "created": "2026-11-14",
- "trimmed": true
+ "trimmed": true,
+ "qid": "Q1052"
 }
