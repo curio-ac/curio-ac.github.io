@@ -1,0 +1,3 @@
+stable-ts
+phonikud
+phonikud-onnx
