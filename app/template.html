@@ -29,11 +29,11 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 @keyframes m5{from{transform:scale(1.08) translate(-3%,3%)}to{transform:scale(1.24) translate(3%,-3%)}}
 .shade{position:absolute;inset:0;z-index:2;background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,0) 22%,rgba(0,0,0,0) 45%,rgba(0,0,0,.8))}
 .withvis .shade{background:rgba(0,0,0,.66)}
-.stat{position:absolute;top:16%;left:24px;right:24px;z-index:3;display:none;font-size:clamp(34px,10vw,48px);font-weight:700;line-height:1.1}
+.stat{position:absolute;top:21%;left:24px;right:24px;z-index:3;display:none;font-size:clamp(34px,10vw,48px);font-weight:700;line-height:1.1}
 .stat small{display:block;font-size:.45em;font-weight:500;color:var(--dim);margin-top:6px}
 .noimg .stat{display:block;animation:fadein .3s}
 .noimg .img{opacity:0!important}
-.vis{position:absolute;top:13%;left:22px;right:22px;height:44%;z-index:3;display:none;flex-direction:column;justify-content:center;pointer-events:none}
+.vis{position:absolute;top:19%;left:22px;right:22px;height:44%;z-index:3;display:none;flex-direction:column;justify-content:center;pointer-events:none}
 .vis.on{display:flex;animation:fadein .3s}
 .v-num{font-size:clamp(60px,19vw,96px);font-weight:700;line-height:1;letter-spacing:-.02em}
 .v-num b{font-weight:700;background:linear-gradient(transparent 62%,var(--hl) 62%,var(--hl) 92%,transparent 92%);padding:0 .05em}
@@ -63,6 +63,10 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 .prog i{display:block;height:100%;width:0;background:#fff}
 .meta{position:absolute;bottom:20px;right:20px;left:80px;z-index:3}
 .post[dir=ltr] .meta{left:20px;right:80px}
+.ttl{position:absolute;top:62px;left:22px;right:22px;z-index:4;font-size:24px;font-weight:700;line-height:1.2;text-shadow:0 1px 10px rgba(0,0,0,.6);transform-origin:top right;transition:transform .5s cubic-bezier(.3,0,.2,1)}
+.post[dir=ltr] .ttl{transform-origin:top left}
+.ttl.big{transform:scale(1.45)}
+.ttl i{display:block;width:36px;height:4px;background:var(--hl);margin-top:8px}
 .cat{display:block;font-size:13px;font-weight:600;color:var(--hl-text);margin-bottom:2px}
 .meta h2{font-size:16px;font-weight:600;margin-bottom:6px}
 .meta a{color:#fff;font-size:13px;text-decoration:underline;text-underline-offset:3px}
@@ -178,7 +182,7 @@ function render(it){
     <button class="sv${saved.has(it.id)?" on":""}"><svg viewBox="0 0 24 24"><path d="M6.5 3.5h11v17l-5.5-4-5.5 4z"/></svg><small>${en?"Save":"שמירה"}</small></button>
     <button class="sh"><svg viewBox="0 0 24 24"><path d="M12 15V3.5M7.5 8 12 3.5 16.5 8M5 13.5V20h14v-6.5"/></svg><small>${en?"Share":"שיתוף"}</small></button>
   </div>
-  <div class="meta"><span class="cat">${lab(it.cat,it.lang)}</span><h2>${it.title}</h2><a href="${it.source.url}" target="_blank" rel="noopener">${en?"Read on Wikipedia":"לקריאה בוויקיפדיה"}</a><div class="credit">${en?"Facts checked against the source. Narration: synthetic voice.":"העובדות נבדקו מול המקור. קריינות: קול סינתטי."}<br><span class="ic"></span></div></div><div class="prog"><i></i></div>`;
+  <div class="ttl">${it.title}<i></i></div><div class="meta"><span class="cat">${lab(it.cat,it.lang)}</span><a href="${it.source.url}" target="_blank" rel="noopener">${en?"Read on Wikipedia":"לקריאה בוויקיפדיה"}</a><div class="credit">${en?"Facts checked against the source. Narration: synthetic voice.":"העובדות נבדקו מול המקור. קריינות: קול סינתטי."}<br><span class="ic"></span></div></div><div class="prog"><i></i></div>`;
   showChunk(el,it,0);
   const lk=el.querySelector(".like"),sv=el.querySelector(".sv");
   lk.onclick=()=>{const on=!liked.has(it.id);on?liked.add(it.id):liked.delete(it.id);bump(it.cat,on?2:-2);lk.classList.toggle("on",on)};
@@ -304,6 +308,7 @@ function activate(el){
   if(!AC){const w=it.tim.w;player.virt={t0:performance.now(),dur:(w.length?w[w.length-1][2]:20)+.3}} // לפני הנגיעה הראשונה: רץ בלי קול
   else{const go=()=>{if(master){master.gain.cancelScheduledValues(AC.currentTime);master.gain.setValueAtTime(muted?0:1,AC.currentTime)}};if(AC.state!=="running")AC.resume().then(go);go()} // אחרי השהייה בסרטון הקודם: מחזירים את הקול
   seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
+  const tt=el.querySelector(".ttl");if(tt){tt.classList.add("big");clearTimeout(tt._t);tt._t=setTimeout(()=>tt.classList.remove("big"),1400)}
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
   player.open(it.id);
   const kids=[...feed.children],keep=new Set(kids.slice(Math.max(0,i-1),i+4).map(e=>e._it.id));
@@ -352,7 +357,7 @@ LANGS=["he","en"];player.muted=true;loadFeed().then(()=>ensure(3));requestAnimat
 setInterval(()=>{if(!document.hidden)loadFeed().then(()=>{if(cur)ensure([...feed.children].indexOf(cur.el)+4)})},180000); // סרטונים חדשים נכנסים לשרשרת בלי עדכון
 const unlock=e=>{document.removeEventListener("click",unlock,true);e.stopPropagation();e.preventDefault(); // הנגיעה הראשונה רק מפעילה קול
   const u=$("unmute");if(u)u.remove();initAudio();if(AC)AC.resume();
-  if(cur&&!cur.it.quiz){const from=player.currentTime;player.virt=null;player.open(cur.it.id,from);let h=0;for(const ch of cur.it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h)}
+  if(cur&&!cur.it.quiz){player.virt=null;player.open(cur.it.id,0);cur.lastT=0;cur.k=-1;cur.cn=0;cut(true);const tt=cur.el.querySelector(".ttl");if(tt){tt.classList.add("big");setTimeout(()=>tt.classList.remove("big"),1400)}let h=0;for(const ch of cur.it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h)}
   player.virt=null;[...feed.children].slice(0,4).forEach(x=>{if(!x._it.quiz)loadBuf(x._it.id)})};
 document.addEventListener("click",unlock,true);
 // יציאה מהאפליקציה / מסך נעול: עוצרים הכול, וממשיכים כשחוזרים
