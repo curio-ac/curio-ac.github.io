@@ -143,7 +143,7 @@ def fetch_images(lang, title, lead, n=4):
 
 
 # ---------- script + fact check ----------
-def write_script(model, lang, art):
+def write_script(model, lang, art, fix=""):
     lname = "Hebrew" if lang == "he" else "English"
     words = "45-65" if lang == "he" else "55-75"
     return gen_json(model, f"""You write scripts for Curio, a TikTok-style educational video feed. Write in {lname}.
@@ -157,6 +157,7 @@ Rules:
 - Energetic, conversational, simple words. No "Did you know", no greetings, no questions to "like and follow".
 - Each sentence adds a new fact; the last sentence is a satisfying payoff or twist.
 - Write numbers as digits.
+{"A fact-checker rejected these sentences of your previous draft. Rewrite the script so every claim is strictly supported (drop unsupported adjectives/details):" + chr(10) + fix if fix else ""}
 Return JSON: {{"title": short catchy title ({lname}, max 5 words), "category": one of {CATS}, "emoji": one emoji, "sentences": [..]}}""")
 
 
@@ -220,7 +221,13 @@ def main():
             if not art or len(art["text"]) < 800:
                 print(f"✗ {topic}: article too short"); index["rejected"].append(topic); continue
             sc = write_script(text_m, lang, art); stats["calls"] += 1
-            ok, verdicts = fact_check(text_m, lang, art, sc["sentences"]); stats["calls"] += 1
+            for attempt in range(3):
+                ok, verdicts = fact_check(text_m, lang, art, sc["sentences"]); stats["calls"] += 1
+                if ok or attempt == 2:
+                    break
+                bad = [f"- \"{s}\": {v.get('reason')}" for s, v in zip(sc["sentences"], verdicts) if not v.get("supported")]
+                print(f"   ↻ {topic}: fixing {len(bad)} sentence(s)", flush=True)
+                sc = write_script(text_m, lang, art, "\n".join(bad)); stats["calls"] += 1
             if not ok:
                 print(f"✗ {topic}: failed fact-check {[v.get('reason') for v in verdicts if not v.get('supported')]}")
                 index["rejected"].append(topic); stats["rejected"] += 1; continue
