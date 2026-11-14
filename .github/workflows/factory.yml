@@ -20,7 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     strategy:
-      max-parallel: 1
       fail-fast: false
       matrix:
         lang: [he, en]
