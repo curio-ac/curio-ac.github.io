@@ -90,9 +90,8 @@ def _gen_json(model, prompt):
 
 
 def tts(model, text, lang, out_mp3):
-    style = ("Read this like an energetic, fast-paced TikTok science narrator. Keep it punchy, no pauses between sentences:"
-             if lang == "en" else "קרא את זה כמו קריין טיקטוק אנרגטי ומהיר של מדע, בלי הפסקות בין משפטים:")
-    body = {"contents": [{"parts": [{"text": f"{style}\n{text}"}]}],
+    # text only - no style instructions (the model reads them aloud)
+    body = {"contents": [{"parts": [{"text": text}]}],
             "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": VOICE}}}}}
     res = http(f"{G}/models/{model}:generateContent", body, {"x-goog-api-key": KEY}, timeout=180)
     pcm = base64.b64decode(res["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
@@ -236,6 +235,10 @@ def main():
             spoken = " ".join(sc["sentences"])
             tts(tts_m, niqqud(spoken) if lang == "he" else spoken, lang, mp3); stats["calls"] += 1
             tim = align(mp3, sc["sentences"], lang)
+            if tim["w"]:  # cut trailing noise: end 0.3s after the last word, with a short fade
+                end = tim["w"][-1][2] + 0.3; tmp = mp3 + ".tmp.mp3"
+                subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-t", f"{end:.2f}", "-af", f"afade=t=out:st={end-0.15:.2f}:d=0.15", "-b:a", "64k", tmp], check=True)
+                os.replace(tmp, mp3)
             imgs = fetch_images(lang, art["title"], art["lead"])
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
                        "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs,
