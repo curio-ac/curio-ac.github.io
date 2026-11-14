@@ -335,5 +335,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q8486"
+ "qid": "Q8486",
+ "pron_wer": 0.143,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 14.3%",
+  "voice open-source (piper)"
+ ]
 }

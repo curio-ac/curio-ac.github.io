@@ -345,5 +345,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q8072"
+ "qid": "Q8072",
+ "pron_wer": 0.154,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 15.4%",
+  "voice open-source (piper)"
+ ]
 }

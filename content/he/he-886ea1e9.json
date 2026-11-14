@@ -354,5 +354,11 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q1059"
+ "qid": "Q1059",
+ "pron_wer": 0.043,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "voice gemini-2.5-flash-preview-tts/Puck"
+ ]
 }

@@ -345,5 +345,11 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q7186"
+ "qid": "Q7186",
+ "pron_wer": 0.018,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "voice gemini-2.5-flash-preview-tts/Puck"
+ ]
 }

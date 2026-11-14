@@ -309,5 +309,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q1427197"
+ "qid": "Q1427197",
+ "pron_wer": 0.392,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 39.2%",
+  "voice open-source (piper)"
+ ]
 }

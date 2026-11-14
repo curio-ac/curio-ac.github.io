@@ -316,5 +316,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q405"
+ "qid": "Q405",
+ "pron_wer": 0.083,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 8.3%",
+  "voice gemini-3.1-flash-tts-preview/Puck"
+ ]
 }

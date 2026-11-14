@@ -388,5 +388,11 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q10285"
+ "qid": "Q10285",
+ "pron_wer": 0.094,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 9.4%"
+ ]
 }

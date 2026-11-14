@@ -357,5 +357,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q592260"
+ "qid": "Q592260",
+ "pron_wer": 0.263,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 26.3%",
+  "voice open-source (piper)"
+ ]
 }

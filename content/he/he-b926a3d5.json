@@ -388,5 +388,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q572144"
+ "qid": "Q572144",
+ "pron_wer": 0.271,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 27.1%",
+  "voice open-source (piper)"
+ ]
 }

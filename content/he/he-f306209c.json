@@ -332,5 +332,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q762"
+ "qid": "Q762",
+ "pron_wer": 0.189,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 18.9%",
+  "voice gemini-2.5-flash-preview-tts/Puck"
+ ]
 }

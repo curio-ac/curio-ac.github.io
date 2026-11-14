@@ -402,5 +402,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q37686"
+ "qid": "Q37686",
+ "pron_wer": 0.193,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 19.3%",
+  "voice open-source (piper)"
+ ]
 }

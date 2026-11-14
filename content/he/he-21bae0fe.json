@@ -349,5 +349,11 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q12190"
+ "qid": "Q12190",
+ "pron_wer": 0.022,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "voice gemini-3.1-flash-tts-preview/Puck"
+ ]
 }

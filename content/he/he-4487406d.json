@@ -408,5 +408,11 @@
   }
  ],
  "geo": null,
- "qid": "Q37686"
+ "qid": "Q37686",
+ "pron_wer": 0.081,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 8.1%"
+ ]
 }

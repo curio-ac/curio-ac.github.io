@@ -338,5 +338,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q513"
+ "qid": "Q513",
+ "pron_wer": 0.149,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 14.9%",
+  "voice gemini-3.1-flash-tts-preview/Puck"
+ ]
 }

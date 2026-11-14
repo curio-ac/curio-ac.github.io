@@ -287,5 +287,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q27885022"
+ "qid": "Q27885022",
+ "pron_wer": 0.114,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 11.4%",
+  "voice gemini-2.5-flash-preview-tts/Puck"
+ ]
 }

@@ -414,5 +414,11 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q59674586"
+ "qid": "Q59674586",
+ "pron_wer": 0.0,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "voice gemini-2.5-flash-preview-tts/Puck"
+ ]
 }

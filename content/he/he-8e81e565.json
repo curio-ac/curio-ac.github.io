@@ -340,5 +340,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q860740"
+ "qid": "Q860740",
+ "pron_wer": 0.106,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 10.6%",
+  "voice open-source (piper)"
+ ]
 }

@@ -370,5 +370,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q28425"
+ "qid": "Q28425",
+ "pron_wer": 0.211,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 21.1%",
+  "voice gemini-3.1-flash-tts-preview/Puck"
+ ]
 }

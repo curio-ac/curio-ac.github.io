@@ -365,5 +365,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q19687629"
+ "qid": "Q19687629",
+ "pron_wer": 0.153,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 15.3%",
+  "voice gemini-2.5-flash-preview-tts/Puck"
+ ]
 }

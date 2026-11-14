@@ -343,5 +343,11 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q430"
+ "qid": "Q430",
+ "pron_wer": 0.044,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "voice gemini-2.5-flash-preview-tts/Puck"
+ ]
 }

@@ -254,5 +254,12 @@
  },
  "created": "2026-11-14",
  "trimmed": true,
- "qid": "Q7386"
+ "qid": "Q7386",
+ "pron_wer": 0.108,
+ "hidden": true,
+ "needs_voice": true,
+ "hidden_reason": [
+  "pronunciation 10.8%",
+  "voice gemini-3.1-flash-tts-preview/Puck"
+ ]
 }
