@@ -499,7 +499,9 @@ def main():
         print(f"⛔ {e}"); rebuild_feed(); publish(f"feed {lang}"); print(f"\nSUMMARY {lang}: {stats}"); return
     for topic in todo:
         try:
-            art = fetch_article(lang, topic)
+            import sources as SRC
+            src = SRC.kind(topic)
+            art = fetch_article(lang, topic) if src == "wiki" else SRC.article(topic)
             if not art or len(art["text"]) < 800:
                 print(f"✗ {topic}: article too short"); index["rejected"].append(topic); continue
             prev = index["angles"].get(topic, [])
@@ -522,13 +524,14 @@ def main():
                 voice, tim, pw = record(lang, sc["sentences"], mp3, stats)
             except BadVoice as e:
                 print(f"✗ {topic}: pronunciation check failed ({e})"); index["rejected"].append(topic); stats["rejected"] += 1; continue
-            vis = plan_visuals(sc["sentences"], art); geo = fetch_geo(lang, art["title"]); stats["calls"] += 1
+            vis = plan_visuals(sc["sentences"], art); geo = fetch_geo(lang, art["title"]) if src == "wiki" else None; stats["calls"] += 1
             if not geo:
                 vis = [v if v.get("type") != "map" else {"type": "image"} for v in vis]
-            imgs, sent_img = plan_images(sc["sentences"], fetch_images(lang, art["title"], art["lead"]), vis); stats["calls"] += 2
+            pool = fetch_images(lang, art["title"], art["lead"]) if src == "wiki" else SRC.nasa_images(art["title"]) + commons_search(art["title"], 6)
+            imgs, sent_img = plan_images(sc["sentences"], pool, vis); stats["calls"] += 2
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
-                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo, "qid": fetch_qid(lang, art["title"]), "pron_wer": pw, "angle": len(prev),
-                       "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
+                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo, "qid": fetch_qid(lang, art["title"]) if src == "wiki" else "url:" + art["url"], "pron_wer": pw, "angle": len(prev),
+                       "source": {"title": art["title"], "url": art["url"], "license": SRC.LICENSE[src], "name": SRC.NAME[src]},
                        "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
                        "created": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "trimmed": True},
                       open(f"content/{lang}/{vid}.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)

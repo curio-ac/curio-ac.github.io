@@ -62,9 +62,27 @@ def refill(lang, index, minimum=150):
     used = set(index["done"]) | set(index["rejected"]) | set(index.get("exhausted", []))
     q = [t for t in q if t not in used]
     if len(q) < minimum:
-        new = [t for t in candidates(lang) if t not in used and t not in q]
+        import sources as SRC
+        extra = []
+        for f in (SRC.usgs_topics, SRC.nasa_topics):
+            try: extra += f()
+            except Exception as e: print("source list failed", e)
+        new = [t for t in candidates(lang) + extra if t not in used and t not in q]
         random.shuffle(new)
         q += new
         print(f"🧭 topic queue refilled: +{len(new)} → {len(q)}")
+    if not any(t.startswith(("usgs:", "nasa:")) for t in q):  # one-time: weave public-domain sources in (every 3rd topic)
+        import sources as SRC
+        pd = []
+        for f in (SRC.usgs_topics, SRC.nasa_topics):
+            try: pd += f()
+            except Exception as e: print("source list failed", e)
+        random.shuffle(pd); pd = [t for t in pd if t not in used]
+        merged = []
+        for i, t in enumerate(q):
+            if i % 2 == 0 and pd: merged.append(pd.pop())
+            merged.append(t)
+        q = merged + pd
+        print(f"🧭 added {len(pd) + sum(1 for t in merged if t.startswith(('usgs:', 'nasa:')))} public-domain topics")
     json.dump(q, open(path, "w", encoding="utf8"), ensure_ascii=False, indent=0)
     return q
