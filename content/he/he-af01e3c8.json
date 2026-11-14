@@ -1,0 +1,329 @@
+{
+ "id": "he-af01e3c8",
+ "lang": "he",
+ "title": "הסוד הלוהט של כדור הארץ",
+ "cat": "geography",
+ "emoji": "🌋",
+ "sentences": [
+  "הרי געש הם ביטוי לחום העצום שבמעמקי כדור הארץ.",
+  "הם נוצרים כשמאגמה עולה ופורצת דרך קרום כדור הארץ.",
+  "זה קורה בגבול בין לוחות טקטוניים או בנקודה חמה.",
+  "המונח וולקנו מגיע משמו של אל האש הרומי וולקן.",
+  "חקר הרי הגעש נקרא וולקנולוגיה והוא ענף בגאולוגיה.",
+  "הרי געש פעילים קיימים למשל סביב טבעת האש הגדולה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הרי",
+    0.32,
+    0.6
+   ],
+   [
+    "געש",
+    0.6,
+    1.0
+   ],
+   [
+    "הם",
+    1.0,
+    1.22
+   ],
+   [
+    "ביטוי",
+    1.22,
+    1.58
+   ],
+   [
+    "לחום",
+    1.58,
+    2.06
+   ],
+   [
+    "העצום",
+    2.06,
+    2.54
+   ],
+   [
+    "שבמעמקי",
+    2.54,
+    3.4
+   ],
+   [
+    "כדור",
+    3.4,
+    3.74
+   ],
+   [
+    "הארץ.",
+    3.74,
+    3.92
+   ],
+   [
+    "הם",
+    4.7,
+    4.8
+   ],
+   [
+    "נוצרים",
+    4.8,
+    5.14
+   ],
+   [
+    "כשמאגמה",
+    5.14,
+    5.86
+   ],
+   [
+    "עולה",
+    5.86,
+    6.4
+   ],
+   [
+    "ופורצת",
+    6.4,
+    7.08
+   ],
+   [
+    "דרך",
+    7.08,
+    7.38
+   ],
+   [
+    "קרום",
+    7.54,
+    7.74
+   ],
+   [
+    "כדור",
+    7.74,
+    8.1
+   ],
+   [
+    "הארץ.",
+    8.1,
+    8.32
+   ],
+   [
+    "זה",
+    9.32,
+    9.4
+   ],
+   [
+    "קורה",
+    9.4,
+    9.6
+   ],
+   [
+    "בגבול",
+    9.6,
+    10.18
+   ],
+   [
+    "בין",
+    10.18,
+    10.42
+   ],
+   [
+    "לוחות",
+    10.42,
+    10.78
+   ],
+   [
+    "טקטוניים",
+    11.04,
+    11.48
+   ],
+   [
+    "או",
+    11.48,
+    11.62
+   ],
+   [
+    "בנקודה",
+    11.62,
+    12.06
+   ],
+   [
+    "חמה.",
+    12.06,
+    12.42
+   ],
+   [
+    "המונח",
+    13.42,
+    13.78
+   ],
+   [
+    "וולקנו",
+    13.78,
+    14.38
+   ],
+   [
+    "מגיע",
+    14.46,
+    14.78
+   ],
+   [
+    "משמו",
+    14.78,
+    15.18
+   ],
+   [
+    "של",
+    15.18,
+    15.4
+   ],
+   [
+    "אל",
+    15.4,
+    15.66
+   ],
+   [
+    "האש",
+    15.66,
+    16.02
+   ],
+   [
+    "הרומי",
+    16.18,
+    16.44
+   ],
+   [
+    "וולקן.",
+    16.44,
+    16.8
+   ],
+   [
+    "חקר",
+    18.36,
+    18.58
+   ],
+   [
+    "הרי",
+    18.58,
+    18.86
+   ],
+   [
+    "הגעש",
+    18.86,
+    19.2
+   ],
+   [
+    "נקרא",
+    19.2,
+    19.52
+   ],
+   [
+    "וולקנולוגיה",
+    19.52,
+    20.62
+   ],
+   [
+    "והוא",
+    21.1,
+    21.26
+   ],
+   [
+    "ענף",
+    21.26,
+    21.6
+   ],
+   [
+    "בגאולוגיה.",
+    21.6,
+    22.08
+   ],
+   [
+    "הרי",
+    23.22,
+    23.44
+   ],
+   [
+    "געש",
+    23.44,
+    23.74
+   ],
+   [
+    "פעילים",
+    23.74,
+    24.12
+   ],
+   [
+    "קיימים",
+    24.12,
+    24.54
+   ],
+   [
+    "למשל",
+    24.54,
+    24.92
+   ],
+   [
+    "סביב",
+    24.92,
+    25.36
+   ],
+   [
+    "טבעת",
+    25.56,
+    25.96
+   ],
+   [
+    "האש",
+    26.12,
+    26.36
+   ],
+   [
+    "הגדולה.",
+    26.36,
+    26.46
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   27,
+   36,
+   44
+  ]
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bear_Seamount_guyot.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Bear_Seamount_guyot.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bledug_Kuwu_2.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "CC BY-SA 3.0",
+   "artist": "Yeni Setiawan",
+   "page": "https://commons.wikimedia.org/wiki/File:Bledug_Kuwu_2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cerro_Negro_1948.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Cerro_Negro_1948.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Computer_animation_showing_May_18%2C_1980_St_Helens_landslide.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "Public domain",
+   "artist": "U.S. government",
+   "page": "https://commons.wikimedia.org/wiki/File:Computer_animation_showing_May_18,_1980_St_Helens_landslide.png"
+  }
+ ],
+ "source": {
+  "title": "הר געש",
+  "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A8_%D7%92%D7%A2%D7%A9",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14"
+}

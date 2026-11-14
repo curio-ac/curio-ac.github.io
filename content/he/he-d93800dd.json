@@ -1,0 +1,304 @@
+{
+ "id": "he-d93800dd",
+ "lang": "he",
+ "title": "בעל החיים הכבד בהיסטוריה",
+ "cat": "biology",
+ "emoji": "🐋",
+ "sentences": [
+  "הלווייתן הכחול הוא בעל החיים הכבד אי פעם.",
+  "אורכו מגיע עד 34 מטרים ומשקלו ל-177 טונות.",
+  "הענק הזה ניזון בעיקר מקריל.",
+  "במאה ה-20 ציד בלתי מבוקר כמעט הכחיד אותו לחלוטין.",
+  "באנטארקטיקה נותרו כיום כ-2,000 פרטים בלבד מתוך מאות אלפים.",
+  "כיום הלווייתן הכחול עדיין מסווג כמין בסכנת הכחדה מתמדת."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הלווייתן",
+    0.2,
+    0.72
+   ],
+   [
+    "הכחול",
+    0.72,
+    1.18
+   ],
+   [
+    "הוא",
+    1.18,
+    1.34
+   ],
+   [
+    "בעל",
+    1.34,
+    1.6
+   ],
+   [
+    "החיים",
+    1.6,
+    1.86
+   ],
+   [
+    "הכבד",
+    1.86,
+    2.38
+   ],
+   [
+    "אי",
+    2.38,
+    2.7
+   ],
+   [
+    "פעם.",
+    2.7,
+    3.4
+   ],
+   [
+    "אורכו",
+    3.4,
+    3.76
+   ],
+   [
+    "מגיע",
+    3.76,
+    4.06
+   ],
+   [
+    "עד",
+    4.06,
+    4.2
+   ],
+   [
+    "34",
+    4.2,
+    4.56
+   ],
+   [
+    "מטרים",
+    4.56,
+    5.36
+   ],
+   [
+    "ומשקלו",
+    5.36,
+    6.02
+   ],
+   [
+    "ל-177",
+    6.02,
+    7.1
+   ],
+   [
+    "טונות.",
+    7.1,
+    7.48
+   ],
+   [
+    "הענק",
+    8.22,
+    8.56
+   ],
+   [
+    "הזה",
+    8.56,
+    8.74
+   ],
+   [
+    "ניזון",
+    8.74,
+    9.08
+   ],
+   [
+    "בעיקר",
+    9.08,
+    9.42
+   ],
+   [
+    "מקריל.",
+    9.42,
+    9.9
+   ],
+   [
+    "במאה",
+    10.74,
+    10.96
+   ],
+   [
+    "ה-20",
+    10.96,
+    11.22
+   ],
+   [
+    "ציד",
+    11.22,
+    11.66
+   ],
+   [
+    "בלתי",
+    11.66,
+    12.02
+   ],
+   [
+    "מבוקר",
+    12.02,
+    12.46
+   ],
+   [
+    "כמעט",
+    12.46,
+    12.96
+   ],
+   [
+    "הכחיד",
+    13.04,
+    13.42
+   ],
+   [
+    "אותו",
+    13.42,
+    13.54
+   ],
+   [
+    "לחלוטין.",
+    13.54,
+    13.64
+   ],
+   [
+    "באנטארקטיקה",
+    15.04,
+    15.48
+   ],
+   [
+    "נותרו",
+    15.48,
+    15.68
+   ],
+   [
+    "כיום",
+    15.72,
+    15.96
+   ],
+   [
+    "כ-2,000",
+    16.06,
+    16.54
+   ],
+   [
+    "פרטים",
+    16.54,
+    16.8
+   ],
+   [
+    "בלבד",
+    16.8,
+    17.14
+   ],
+   [
+    "מתוך",
+    17.14,
+    17.46
+   ],
+   [
+    "מאות",
+    17.84,
+    17.94
+   ],
+   [
+    "אלפים.",
+    17.94,
+    18.06
+   ],
+   [
+    "כיום",
+    19.32,
+    19.48
+   ],
+   [
+    "הלווייתן",
+    19.48,
+    19.92
+   ],
+   [
+    "הכחול",
+    19.92,
+    20.26
+   ],
+   [
+    "עדיין",
+    20.26,
+    20.64
+   ],
+   [
+    "מסווג",
+    20.64,
+    21.04
+   ],
+   [
+    "כמין",
+    21.04,
+    21.44
+   ],
+   [
+    "בסכנת",
+    21.44,
+    21.96
+   ],
+   [
+    "הכחדה",
+    21.98,
+    22.34
+   ],
+   [
+    "מתמדת.",
+    22.34,
+    22.46
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   21,
+   30,
+   39
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/960px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "artist": "NOAA Photo Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Baleen_parts.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "Public domain",
+   "artist": "Jim Thomas",
+   "page": "https://commons.wikimedia.org/wiki/File:Baleen_parts.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ballenas-jorobadas-en-cayo.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "CC BY-SA 3.0",
+   "artist": "Nayid.camacho",
+   "page": "https://commons.wikimedia.org/wiki/File:Ballenas-jorobadas-en-cayo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Blauwal01.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Blauwal01.jpg"
+  }
+ ],
+ "source": {
+  "title": "לווייתן כחול",
+  "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%9F_%D7%9B%D7%97%D7%95%D7%9C",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14"
+}
