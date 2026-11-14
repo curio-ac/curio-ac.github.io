@@ -36,10 +36,12 @@ jobs:
           key: whisper-small
       - name: install
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng
           pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
           pip install -q -r factory/requirements.txt
           wget -q https://huggingface.co/thewh1teagle/phonikud-onnx/resolve/main/phonikud-1.0.int8.onnx
+          wget -q -O tts-model.onnx https://huggingface.co/thewh1teagle/phonikud-tts-checkpoints/resolve/main/shaul.onnx
+          wget -q -O tts-model.config.json https://huggingface.co/thewh1teagle/phonikud-tts-checkpoints/resolve/main/model.config.json
       - run: python factory/factory.py --lang ${{ matrix.lang }} --count ${{ inputs.count || '20' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

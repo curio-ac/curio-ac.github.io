@@ -1,3 +1,6 @@
 stable-ts
 phonikud
 phonikud-onnx
+phonikud-tts
+kokoro
+soundfile

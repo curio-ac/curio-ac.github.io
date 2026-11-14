@@ -2,7 +2,7 @@ name: preview
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Curio factory"]
+    workflows: ["Curio factory", "refresh"]
     types: [completed]
 permissions:
   contents: write

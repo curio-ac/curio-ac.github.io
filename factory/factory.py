@@ -119,12 +119,12 @@ def fetch_article(lang, query):
 BAD_IMG = re.compile(r"logo|icon|flag|symbol|commons-|wikiquote|wiktionary|edit-|ambox|question_book|disambig|\.svg$", re.I)
 
 
-def fetch_images(lang, title, lead, n=4):
+def fetch_images(lang, title, lead, n=8):
     files = [f["title"] for f in wiki(lang, action="query", prop="images", titles=title, imlimit=40)["query"]["pages"][0].get("images", [])]
     if lead:
         lead_t = ("File:" if lang == "en" else "קובץ:") + lead
         files = [lead_t] + [f for f in files if f.split(":", 1)[1] != lead]
-    files = [f for f in files if not BAD_IMG.search(f)][:15]
+    files = [f for f in files if not BAD_IMG.search(f)][:25]
     if not files:
         return []
     pages = wiki(lang, action="query", prop="imageinfo", titles="|".join(files), iiprop="url|size|mime|extmetadata", iiurlwidth=720)["query"]["pages"]
@@ -202,6 +202,30 @@ def align(mp3, sentences, lang):
     return {"w": w, "b": b}
 
 
+def trim(mp3, tim):
+    """Cut model noise: start 0.08s before the first word, end 0.3s after the last; shift timings."""
+    if not tim["w"]:
+        return
+    st = max(0.0, tim["w"][0][1] - 0.08); end = tim["w"][-1][2] + 0.3; d = end - st; tmp = mp3 + ".tmp.mp3"
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{st:.3f}", "-i", mp3, "-t", f"{d:.3f}",
+                    "-af", f"afade=t=in:d=0.03,afade=t=out:st={d-0.15:.3f}:d=0.15", "-b:a", "64k", tmp], check=True)
+    os.replace(tmp, mp3)
+    tim["w"] = [[w, round(max(0, a - st), 3), round(max(0, b - st), 3)] for w, a, b in tim["w"]]
+
+
+def local_tts(text, lang, mp3):
+    """Open-source fallback voice (no quota): Phonikud+Piper for Hebrew, Kokoro for English."""
+    import numpy as np
+    if lang == "he":
+        from phonikud_tts import Phonikud as PK, phonemize, Piper
+        samples, rate = Piper("tts-model.onnx", "tts-model.config.json").create(phonemize(PK("phonikud-1.0.int8.onnx").add_diacritics(text)), is_phonemes=True)
+    else:
+        from kokoro import KPipeline
+        samples = np.concatenate([a for _, _, a in KPipeline(lang_code="a")(text, voice="am_michael", speed=1.15)]); rate = 24000
+    pcm = (np.clip(np.asarray(samples).flatten(), -1, 1) * 32767).astype("<i2").tobytes()
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "s16le", "-ar", str(rate), "-ac", "1", "-i", "-", "-b:a", "64k", mp3], input=pcm, check=True)
+
+
 # ---------- main ----------
 def main():
     ap = argparse.ArgumentParser()
@@ -234,26 +258,24 @@ def main():
             vid = lang + "-" + hashlib.md5(art["title"].encode()).hexdigest()[:8]
             mp3 = f"audio/{lang}/{vid}.mp3"
             spoken = " ".join(sc["sentences"])
-            while True:
+            voice = None
+            while TTS_MODELS:
                 try:
-                    tts(TTS_MODELS[0], niqqud(spoken) if lang == "he" else spoken, lang, mp3); stats["calls"] += 1; break
+                    tts(TTS_MODELS[0], niqqud(spoken) if lang == "he" else spoken, lang, mp3); stats["calls"] += 1; voice = f"{TTS_MODELS[0]}/{VOICE}"; break
                 except (Quota, RuntimeError) as e:
                     if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
                         raise
                     print(f"   ↪ tts {TTS_MODELS[0]} unavailable, switching", flush=True); TTS_MODELS.pop(0)
-                    if not TTS_MODELS:
-                        raise Quota("all tts models exhausted")
+            if not voice:
+                local_tts(spoken, lang, mp3); voice = "open-source (piper)" if lang == "he" else "open-source (kokoro)"
             tim = align(mp3, sc["sentences"], lang)
-            if tim["w"]:  # cut trailing noise: end 0.3s after the last word, with a short fade
-                end = tim["w"][-1][2] + 0.3; tmp = mp3 + ".tmp.mp3"
-                subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-t", f"{end:.2f}", "-af", f"afade=t=out:st={end-0.15:.2f}:d=0.15", "-b:a", "64k", tmp], check=True)
-                os.replace(tmp, mp3)
+            trim(mp3, tim)
             imgs = fetch_images(lang, art["title"], art["lead"])
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
                        "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs,
                        "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
-                       "ai": {"script": text_m, "voice": f"{TTS_MODELS[0]}/{VOICE}", "fact_check": "passed"},
-                       "created": time.strftime("%Y-%m-%d")},
+                       "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
+                       "created": time.strftime("%Y-%m-%d"), "trimmed": True},
                       open(f"content/{lang}/{vid}.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)
             index["done"].append(topic); stats["made"] += 1
             print(f"✅ {topic} → {vid} ({tim['w'][-1][2] if tim['w'] else '?'}s, {len(imgs)} images)", flush=True)
