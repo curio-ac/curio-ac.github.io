@@ -1,0 +1,351 @@
+{
+ "id": "en-41f99f49",
+ "lang": "en",
+ "title": "Largest Animal Ever Existed",
+ "cat": "biology",
+ "emoji": "🐋",
+ "sentences": [
+  "The blue whale is the largest animal ever.",
+  "It reaches lengths up to 30.5 m.",
+  "This massive marine mammal weighs up to 200 t.",
+  "Its long body shows various greyish-blue shades.",
+  "Four recognized subspecies swim in different oceans worldwide.",
+  "They migrate from polar feeding grounds to tropical waters.",
+  "Yet these giants feed almost exclusively on tiny krill."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.12,
+    0.24
+   ],
+   [
+    "blue",
+    0.24,
+    0.48
+   ],
+   [
+    "whale",
+    0.48,
+    0.76
+   ],
+   [
+    "is",
+    0.76,
+    1.06
+   ],
+   [
+    "the",
+    1.1,
+    1.22
+   ],
+   [
+    "largest",
+    1.22,
+    1.62
+   ],
+   [
+    "animal",
+    1.62,
+    2.08
+   ],
+   [
+    "ever.",
+    2.08,
+    2.83
+   ],
+   [
+    "It",
+    3.02,
+    3.1
+   ],
+   [
+    "reaches",
+    3.1,
+    3.38
+   ],
+   [
+    "lengths",
+    3.38,
+    3.7
+   ],
+   [
+    "up",
+    3.7,
+    4.04
+   ],
+   [
+    "to",
+    4.04,
+    4.18
+   ],
+   [
+    "30.5",
+    4.3,
+    5.2
+   ],
+   [
+    "m.",
+    5.2,
+    5.78
+   ],
+   [
+    "This",
+    6.12,
+    6.24
+   ],
+   [
+    "massive",
+    6.24,
+    6.78
+   ],
+   [
+    "marine",
+    6.78,
+    7.16
+   ],
+   [
+    "mammal",
+    7.16,
+    7.54
+   ],
+   [
+    "weighs",
+    7.54,
+    7.78
+   ],
+   [
+    "up",
+    7.78,
+    7.98
+   ],
+   [
+    "to",
+    7.98,
+    8.12
+   ],
+   [
+    "200",
+    8.3,
+    8.94
+   ],
+   [
+    "t.",
+    8.94,
+    9.38
+   ],
+   [
+    "Its",
+    9.98,
+    10.26
+   ],
+   [
+    "long",
+    10.36,
+    10.52
+   ],
+   [
+    "body",
+    10.52,
+    10.86
+   ],
+   [
+    "shows",
+    10.86,
+    11.2
+   ],
+   [
+    "various",
+    11.2,
+    11.68
+   ],
+   [
+    "greyish-blue",
+    11.68,
+    12.46
+   ],
+   [
+    "shades.",
+    12.46,
+    13.12
+   ],
+   [
+    "Four",
+    13.88,
+    14.0
+   ],
+   [
+    "recognized",
+    14.0,
+    14.48
+   ],
+   [
+    "subspecies",
+    14.48,
+    15.22
+   ],
+   [
+    "swim",
+    15.22,
+    15.44
+   ],
+   [
+    "in",
+    15.44,
+    15.6
+   ],
+   [
+    "different",
+    15.6,
+    15.86
+   ],
+   [
+    "oceans",
+    15.86,
+    16.24
+   ],
+   [
+    "worldwide.",
+    16.24,
+    16.88
+   ],
+   [
+    "They",
+    17.46,
+    17.56
+   ],
+   [
+    "migrate",
+    17.56,
+    17.82
+   ],
+   [
+    "from",
+    17.82,
+    18.1
+   ],
+   [
+    "polar",
+    18.34,
+    18.46
+   ],
+   [
+    "feeding",
+    18.46,
+    18.7
+   ],
+   [
+    "grounds",
+    18.7,
+    19.08
+   ],
+   [
+    "to",
+    19.08,
+    19.36
+   ],
+   [
+    "tropical",
+    19.54,
+    19.76
+   ],
+   [
+    "waters.",
+    19.76,
+    20.14
+   ],
+   [
+    "Yet",
+    20.96,
+    21.06
+   ],
+   [
+    "these",
+    21.06,
+    21.28
+   ],
+   [
+    "giants",
+    21.28,
+    21.72
+   ],
+   [
+    "feed",
+    21.72,
+    22.0
+   ],
+   [
+    "almost",
+    22.0,
+    22.38
+   ],
+   [
+    "exclusively",
+    22.38,
+    23.18
+   ],
+   [
+    "on",
+    23.18,
+    23.52
+   ],
+   [
+    "tiny",
+    23.7,
+    23.8
+   ],
+   [
+    "krill.",
+    23.8,
+    24.2
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   24,
+   31,
+   39,
+   48
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/960px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "artist": "NOAA Photo Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Blue-whale.jpg/960px-Blue-whale.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "artist": "NOAA Fisheries/Lisa Conger",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue-whale.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/BlueWhaleWithCalf.jpg/960px-BlueWhaleWithCalf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "artist": "Andreas Tille",
+   "page": "https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalf.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Blue_Whale_001_body_bw.jpg/960px-Blue_Whale_001_body_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "artist": "NOAA Fisheries (TBjornstad 11:17, 18 April 2007 (UTC))",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg"
+  }
+ ],
+ "source": {
+  "title": "Blue whale",
+  "url": "https://en.wikipedia.org/wiki/Blue_whale",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14"
+}

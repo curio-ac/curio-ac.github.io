@@ -1,0 +1,386 @@
+{
+ "id": "en-c1258da2",
+ "lang": "en",
+ "title": "Volcanoes Are Mostly Underwater",
+ "cat": "geography",
+ "emoji": "🌋",
+ "sentences": [
+  "Most volcanoes are actually hidden underwater.",
+  "A volcano is a vent or fissure letting hot lava, volcanic ash, and gases escape from below.",
+  "They form where tectonic plates diverge or converge.",
+  "Divergent plates usually create nonexplosive volcanoes.",
+  "Convergent plates cause violent eruptions.",
+  "Some volcanoes also form where crust plates stretch and thin.",
+  "Hotspot volcanism happens away from these boundaries due to deep mantle plumes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Most",
+    0.22,
+    0.5
+   ],
+   [
+    "volcanoes",
+    0.5,
+    0.88
+   ],
+   [
+    "are",
+    0.88,
+    1.34
+   ],
+   [
+    "actually",
+    1.6,
+    1.76
+   ],
+   [
+    "hidden",
+    1.76,
+    2.18
+   ],
+   [
+    "underwater.",
+    2.18,
+    2.96
+   ],
+   [
+    "A",
+    3.54,
+    3.64
+   ],
+   [
+    "volcano",
+    3.64,
+    3.96
+   ],
+   [
+    "is",
+    3.96,
+    4.46
+   ],
+   [
+    "a",
+    4.46,
+    4.64
+   ],
+   [
+    "vent",
+    4.64,
+    4.9
+   ],
+   [
+    "or",
+    4.9,
+    5.22
+   ],
+   [
+    "fissure",
+    5.4,
+    5.68
+   ],
+   [
+    "letting",
+    5.68,
+    5.92
+   ],
+   [
+    "hot",
+    6.18,
+    6.32
+   ],
+   [
+    "lava,",
+    6.32,
+    6.42
+   ],
+   [
+    "volcanic",
+    7.08,
+    7.4
+   ],
+   [
+    "ash,",
+    7.4,
+    8.08
+   ],
+   [
+    "and",
+    8.22,
+    8.26
+   ],
+   [
+    "gases",
+    8.26,
+    8.64
+   ],
+   [
+    "escape",
+    8.64,
+    9.1
+   ],
+   [
+    "from",
+    9.1,
+    9.32
+   ],
+   [
+    "below.",
+    9.32,
+    9.52
+   ],
+   [
+    "They",
+    10.32,
+    10.4
+   ],
+   [
+    "form",
+    10.4,
+    10.66
+   ],
+   [
+    "where",
+    10.66,
+    10.88
+   ],
+   [
+    "tectonic",
+    11.2,
+    11.36
+   ],
+   [
+    "plates",
+    11.36,
+    11.68
+   ],
+   [
+    "diverge",
+    11.68,
+    12.48
+   ],
+   [
+    "or",
+    12.48,
+    12.64
+   ],
+   [
+    "converge.",
+    12.64,
+    12.96
+   ],
+   [
+    "Divergent",
+    13.7,
+    14.1
+   ],
+   [
+    "plates",
+    14.1,
+    14.4
+   ],
+   [
+    "usually",
+    14.4,
+    14.84
+   ],
+   [
+    "create",
+    14.84,
+    15.26
+   ],
+   [
+    "nonexplosive",
+    15.26,
+    16.22
+   ],
+   [
+    "volcanoes.",
+    16.22,
+    16.44
+   ],
+   [
+    "Convergent",
+    17.26,
+    17.7
+   ],
+   [
+    "plates",
+    17.7,
+    18.12
+   ],
+   [
+    "cause",
+    18.12,
+    18.46
+   ],
+   [
+    "violent",
+    18.72,
+    18.96
+   ],
+   [
+    "eruptions.",
+    18.96,
+    19.32
+   ],
+   [
+    "Some",
+    20.4,
+    20.48
+   ],
+   [
+    "volcanoes",
+    20.48,
+    20.76
+   ],
+   [
+    "also",
+    20.76,
+    21.24
+   ],
+   [
+    "form",
+    21.24,
+    21.56
+   ],
+   [
+    "where",
+    21.56,
+    21.74
+   ],
+   [
+    "crust",
+    21.74,
+    22.06
+   ],
+   [
+    "plates",
+    22.06,
+    22.42
+   ],
+   [
+    "stretch",
+    22.42,
+    22.88
+   ],
+   [
+    "and",
+    22.88,
+    23.26
+   ],
+   [
+    "thin.",
+    23.26,
+    23.64
+   ],
+   [
+    "Hotspot",
+    24.38,
+    24.74
+   ],
+   [
+    "volcanism",
+    24.74,
+    25.3
+   ],
+   [
+    "happens",
+    25.3,
+    25.74
+   ],
+   [
+    "away",
+    25.74,
+    26.08
+   ],
+   [
+    "from",
+    26.08,
+    26.32
+   ],
+   [
+    "these",
+    26.32,
+    26.46
+   ],
+   [
+    "boundaries",
+    26.46,
+    26.88
+   ],
+   [
+    "due",
+    26.88,
+    27.2
+   ],
+   [
+    "to",
+    27.2,
+    27.32
+   ],
+   [
+    "deep",
+    27.32,
+    27.74
+   ],
+   [
+    "mantle",
+    27.74,
+    28.18
+   ],
+   [
+    "plumes.",
+    28.18,
+    28.98
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   23,
+   31,
+   37,
+   42,
+   52
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/960px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "artist": "Carsten Steger",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Stromboli_(view_from_the_northeast).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg/960px-Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "artist": "Cyrus Read\nGeophysicist\nUSGS, Alaska Volcano Observatory\n\ncread@usgs.gov",
+   "page": "https://commons.wikimedia.org/wiki/File:Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/960px-Capulin_1980_tde00005.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "artist": "R.D. Miller, USGS",
+   "page": "https://commons.wikimedia.org/wiki/File:Capulin_1980_tde00005.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Crater_Lake_winter_pano2.jpg/960px-Crater_Lake_winter_pano2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "artist": "WolfmanSF",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_winter_pano2.jpg"
+  }
+ ],
+ "source": {
+  "title": "Volcano",
+  "url": "https://en.wikipedia.org/wiki/Volcano",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14"
+}
