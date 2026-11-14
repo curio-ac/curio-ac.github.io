@@ -2,7 +2,7 @@
 Usage: python factory/factory.py --lang he --count 5
 Outputs: content/<lang>/<id>.json + audio/<lang>/<id>.mp3 ; updates content/<lang>/index.json
 """
-import argparse, base64, hashlib, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
+import argparse, random, base64, hashlib, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
 
 UA = {"User-Agent": "CurioBot/0.1 (https://github.com/o2hoffman-hash/Curio)"}
 KEY = os.environ.get("GEMINI_API_KEY", "")
@@ -286,7 +286,7 @@ def fetch_geo(lang, title):
 
 
 # ---------- script + fact check ----------
-def write_script(model, lang, art, fix=""):
+def write_script(model, lang, art, fix="", prev=None):
     lname = "Hebrew" if lang == "he" else "English"
     words = "45-65" if lang == "he" else "55-75"
     return gen_json(model, f"""You write scripts for Curio, a TikTok-style educational video feed. Write in {lname}.
@@ -301,6 +301,7 @@ Rules:
 - Each sentence adds a new fact; the last sentence is a satisfying payoff or twist.
 - Write numbers as digits.
 {"A fact-checker rejected these sentences of your previous draft. Rewrite the script so every claim is strictly supported (drop unsupported adjectives/details):" + chr(10) + fix if fix else ""}
+{"Earlier videos about this article already covered: " + "; ".join(prev) + ". Pick DIFFERENT facts and a different hook. If SOURCE has no other surprising facts, return {\"skip\": true}." if prev else ""}
 Return JSON: {{"title": short catchy title ({lname}, max 5 words), "category": one of {CATS}, "emoji": one emoji, "sentences": [..]}}""")
 
 
@@ -375,10 +376,14 @@ def main():
     ap.add_argument("--lang", required=True); ap.add_argument("--count", type=int, default=5)
     a = ap.parse_args(); lang = a.lang
     os.makedirs(f"content/{lang}", exist_ok=True); os.makedirs(f"audio/{lang}", exist_ok=True)
-    topics = json.load(open(f"factory/topics/{lang}.json", encoding="utf8"))
     idx_path = f"content/{lang}/index.json"
     index = json.load(open(idx_path)) if os.path.exists(idx_path) else {"done": [], "rejected": []}
-    todo = [t for t in topics if t not in index["done"] and t not in index["rejected"]][:a.count]
+    index.setdefault("angles", {}); index.setdefault("exhausted", [])
+    from topics import refill
+    queue = refill(lang, index)
+    again = [t for t in index["done"] if t not in index["exhausted"] and len(index["angles"].get(t, [1])) < 3]
+    n_again = min(len(again), a.count // 3)
+    todo = queue[:a.count - n_again] + random.sample(again, n_again)
     text_m, tts_m = TEXT_MODELS[0], TTS_MODELS[0]
     print(f"models: text={text_m} tts={tts_m} | {len(todo)} topics", flush=True)
     stats = {"made": 0, "rejected": 0, "calls": 0}
@@ -387,7 +392,10 @@ def main():
             art = fetch_article(lang, topic)
             if not art or len(art["text"]) < 800:
                 print(f"✗ {topic}: article too short"); index["rejected"].append(topic); continue
-            sc = write_script(text_m, lang, art); stats["calls"] += 1
+            prev = index["angles"].get(topic, [])
+            sc = write_script(text_m, lang, art, prev=prev); stats["calls"] += 1
+            if sc.get("skip") or not sc.get("sentences"):
+                print(f"↷ {topic}: no new angle"); index["exhausted"].append(topic); continue
             for attempt in range(3):
                 ok, verdicts = fact_check(text_m, lang, art, sc["sentences"]); stats["calls"] += 1
                 if ok or attempt == 2:
@@ -398,7 +406,7 @@ def main():
             if not ok:
                 print(f"✗ {topic}: failed fact-check {[v.get('reason') for v in verdicts if not v.get('supported')]}")
                 index["rejected"].append(topic); stats["rejected"] += 1; continue
-            vid = lang + "-" + hashlib.md5(art["title"].encode()).hexdigest()[:8]
+            vid = lang + "-" + hashlib.md5((art["title"] + (str(len(prev)) if prev else "")).encode()).hexdigest()[:8]
             mp3 = f"audio/{lang}/{vid}.mp3"
             spoken = " ".join(sc["sentences"])
             voice = None
@@ -423,7 +431,11 @@ def main():
                        "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
                        "created": time.strftime("%Y-%m-%d"), "trimmed": True},
                       open(f"content/{lang}/{vid}.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)
-            index["done"].append(topic); stats["made"] += 1
+            if topic not in index["done"]: index["done"].append(topic)
+            index["angles"].setdefault(topic, []).append(f'{sc["title"]}: {sc["sentences"][0]}'); stats["made"] += 1
+            q_path = f"factory/queue/{lang}.json"
+            if os.path.exists(q_path):
+                json.dump([t for t in json.load(open(q_path, encoding="utf8")) if t != topic], open(q_path, "w", encoding="utf8"), ensure_ascii=False, indent=0)
             print(f"✅ {topic} → {vid} ({tim['w'][-1][2] if tim['w'] else '?'}s, images per sentence: {sent_img})", flush=True)
         except Quota as e:
             print(f"⛔ daily quota reached: {e}"); break

@@ -17,7 +17,7 @@ concurrency: factory
 jobs:
   make:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 330
     strategy:
       max-parallel: 1
       fail-fast: false
@@ -42,13 +42,13 @@ jobs:
           wget -q https://huggingface.co/thewh1teagle/phonikud-onnx/resolve/main/phonikud-1.0.int8.onnx
           wget -q -O tts-model.onnx https://huggingface.co/thewh1teagle/phonikud-tts-checkpoints/resolve/main/shaul.onnx
           wget -q -O tts-model.config.json https://huggingface.co/thewh1teagle/phonikud-tts-checkpoints/resolve/main/model.config.json
-      - run: python factory/factory.py --lang ${{ matrix.lang }} --count ${{ inputs.count || '20' }}
+      - run: python factory/factory.py --lang ${{ matrix.lang }} --count ${{ inputs.count || '40' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - name: commit
         run: |
           git config user.name "curio-bot"; git config user.email "curio-bot@users.noreply.github.com"
-          git add content audio
+          git add content audio factory/queue
           git diff --cached --quiet && exit 0
           git commit -m "factory: ${{ matrix.lang }} $(date +%F)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
