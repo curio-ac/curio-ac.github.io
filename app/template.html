@@ -289,7 +289,7 @@ function activate(el){
   const i=[...feed.children].indexOf(el);while(feed.children.length<i+4)add();
   if(it.quiz){player.pause();return}
   if(!AC){cur.paused=true;el.classList.add("paused")} // לפני הנגיעה הראשונה: עומד על "נגן"
-  else{if(AC.state!=="running")AC.resume();if(master){master.gain.cancelScheduledValues(AC.currentTime);master.gain.setValueAtTime(muted?0:1,AC.currentTime)}} // אחרי השהייה בסרטון הקודם: מחזירים את הקול
+  else{const go=()=>{if(master){master.gain.cancelScheduledValues(AC.currentTime);master.gain.setValueAtTime(muted?0:1,AC.currentTime)}};if(AC.state!=="running")AC.resume().then(go);go()} // אחרי השהייה בסרטון הקודם: מחזירים את הקול
   seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
   player.open(it.id);
@@ -312,7 +312,7 @@ function seekSlide(d){
 function togglePause(){cur.paused=!cur.paused;cur.el.classList.toggle("paused",cur.paused);
   // דעיכה קצרה במקום חיתוך חד, שגורם ל"קליק" בהשהייה
   if(cur.paused){if(AC&&master){const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(0,t+.08);
-      setTimeout(()=>{if(cur&&cur.paused){player.pause();AC.suspend()}},100)}else player.pause();return}
+      setTimeout(()=>{if(cur&&cur.paused)player.pause()},100)}else player.pause();return} // בלי להקפיא את מנוע הסאונד: רק משתיקים
   if(AC){AC.resume();const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(0,t);master.gain.linearRampToValueAtTime(muted?0:1,t+.1)}
   if(cur.it.quiz)return;
   if(!player.buf)player.open(cur.it.id);else player.play();
