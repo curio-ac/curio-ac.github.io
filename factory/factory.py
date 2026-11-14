@@ -9,6 +9,7 @@ KEY = os.environ.get("GEMINI_API_KEY", "")
 G = "https://generativelanguage.googleapis.com/v1beta"
 CATS = ["space", "biology", "history", "math", "geography", "physics", "chemistry", "language", "psychology", "art", "economics", "technology", "medicine"]
 VOICE = os.environ.get("VOICE", "Puck")
+THINK = True
 
 
 class Quota(Exception):
@@ -30,8 +31,12 @@ def http(url, body=None, headers=None, timeout=120):
                     raise Quota(msg)
                 time.sleep(30); continue
             if e.code >= 500 and attempt < 2:
-                time.sleep(5); continue
+                time.sleep(20 * (attempt + 1)); continue
             raise RuntimeError(f"{e.code} {msg}")
+        except (TimeoutError, OSError) as e:
+            if attempt == 2:
+                raise RuntimeError(f"timeout/network: {e}")
+            time.sleep(10)
 
 
 # ---------- Gemini ----------
@@ -54,8 +59,17 @@ def pick_model(kind):
 
 
 def gen_json(model, prompt):
-    body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json", "temperature": 0.7}}
-    res = http(f"{G}/models/{model}:generateContent", body, {"x-goog-api-key": KEY})
+    global THINK
+    cfg = {"responseMimeType": "application/json", "temperature": 0.7}
+    if THINK:
+        cfg["thinkingConfig"] = {"thinkingLevel": "low"}
+    body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
+    try:
+        res = http(f"{G}/models/{model}:generateContent", body, {"x-goog-api-key": KEY}, timeout=300)
+    except RuntimeError as e:
+        if THINK and str(e).startswith("400"):
+            THINK = False; return gen_json(model, prompt)
+        raise
     return json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
 
 
