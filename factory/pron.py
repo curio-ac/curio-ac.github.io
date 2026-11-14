@@ -6,7 +6,9 @@ NIQ = re.compile(r"[֑-ׇ]")
 
 def norm(t):
     t = NIQ.sub("", t).lower()
-    t = re.sub(r"[^\w\s]", " ", t)
+    t = re.sub(r"(?<=\d),(?=\d)", "", t)          # 2,000 -> 2000
+    t = re.sub(r"[^\w\s]", " ", t)                  # punctuation, maqaf, "ה-20" -> "ה 20"
+    t = t.replace("יי", "י").replace("וו", "ו")        # spelling variants (לווייתן/לוויתן)
     return t.split()
 
 
