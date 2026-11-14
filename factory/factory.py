@@ -34,7 +34,7 @@ def http(url, body=None, headers=None, timeout=120):
                 time.sleep(20 * (attempt + 1)); continue
             raise RuntimeError(f"{e.code} {msg}")
         except (TimeoutError, OSError) as e:
-            if attempt == 2:
+            if attempt == 1:
                 raise RuntimeError(f"timeout/network: {e}")
             time.sleep(10)
 
@@ -58,17 +58,33 @@ def pick_model(kind):
     return c[0]
 
 
+TEXT_MODELS = os.environ.get("TEXT_MODELS", "gemini-3.5-flash,gemini-3.1-flash-lite,gemini-flash-lite-latest").split(",")
+
+
 def gen_json(model, prompt):
+    """model arg ignored: walks TEXT_MODELS, dropping a model that times out / is overloaded / out of quota."""
+    while TEXT_MODELS:
+        try:
+            return _gen_json(TEXT_MODELS[0], prompt)
+        except (Quota, RuntimeError) as e:
+            if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429)", str(e)):
+                raise
+            print(f"   ↪ {TEXT_MODELS[0]} unavailable ({str(e)[:60]}), switching model", flush=True)
+            TEXT_MODELS.pop(0)
+    raise Quota("all text models exhausted")
+
+
+def _gen_json(model, prompt):
     global THINK
     cfg = {"responseMimeType": "application/json", "temperature": 0.7}
     if THINK:
         cfg["thinkingConfig"] = {"thinkingLevel": "low"}
     body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
     try:
-        res = http(f"{G}/models/{model}:generateContent", body, {"x-goog-api-key": KEY}, timeout=300)
+        res = http(f"{G}/models/{model}:generateContent", body, {"x-goog-api-key": KEY}, timeout=90)
     except RuntimeError as e:
         if THINK and str(e).startswith("400"):
-            THINK = False; return gen_json(model, prompt)
+            THINK = False; return _gen_json(model, prompt)
         raise
     return json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
 
@@ -195,7 +211,7 @@ def main():
     idx_path = f"content/{lang}/index.json"
     index = json.load(open(idx_path)) if os.path.exists(idx_path) else {"done": [], "rejected": []}
     todo = [t for t in topics if t not in index["done"] and t not in index["rejected"]][:a.count]
-    text_m, tts_m = pick_model("text"), pick_model("tts")
+    text_m, tts_m = TEXT_MODELS[0], os.environ.get("TTS_MODEL", "gemini-3.8-flash-tts")
     print(f"models: text={text_m} tts={tts_m} | {len(todo)} topics", flush=True)
     stats = {"made": 0, "rejected": 0, "calls": 0}
     for topic in todo:
