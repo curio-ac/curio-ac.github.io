@@ -17,283 +17,283 @@
   "w": [
    [
     "הזיקית",
-    0.3,
-    0.74
+    0.08,
+    0.52
    ],
    [
     "רואה",
-    0.74,
-    1.16
+    0.52,
+    0.94
    ],
    [
     "שתי",
-    1.16,
-    1.52
+    0.94,
+    1.3
    ],
    [
     "תמונות",
-    1.52,
-    1.94
+    1.3,
+    1.72
    ],
    [
     "שונות",
-    1.94,
-    2.34
+    1.72,
+    2.12
    ],
    [
     "בו-זמנית.",
-    2.34,
-    2.44
+    2.12,
+    2.22
    ],
    [
     "העיניים",
-    3.48,
-    3.86
+    3.26,
+    3.64
    ],
    [
     "שלה",
-    3.86,
-    4.12
+    3.64,
+    3.9
    ],
    [
     "נעות",
-    4.12,
-    4.38
+    3.9,
+    4.16
    ],
    [
     "לכיוונים",
-    4.38,
-    4.86
+    4.16,
+    4.64
    ],
    [
     "שונים",
-    4.86,
-    5.22
+    4.64,
+    5.0
    ],
    [
     "באופן",
-    5.22,
-    5.72
+    5.0,
+    5.5
    ],
    [
     "בלתי",
-    5.72,
-    6.0
+    5.5,
+    5.78
    ],
    [
     "תלוי.",
-    6.0,
-    6.32
+    5.78,
+    6.1
    ],
    [
     "לשונה",
-    7.2,
-    7.58
+    6.98,
+    7.36
    ],
    [
     "נשלחת",
-    7.58,
-    8.16
+    7.36,
+    7.94
    ],
    [
     "אל",
-    8.16,
-    8.26
+    7.94,
+    8.04
    ],
    [
     "הטרף",
-    8.26,
-    8.64
+    8.04,
+    8.42
    ],
    [
     "במהירות",
-    8.7,
-    9.2
+    8.48,
+    8.98
    ],
    [
     "של",
-    9.2,
-    9.36
+    8.98,
+    9.14
    ],
    [
     "0.07",
-    9.36,
-    10.42
+    9.14,
+    10.2
    ],
    [
     "שניות.",
-    10.42,
-    11.26
+    10.2,
+    11.04
    ],
    [
     "היא",
-    11.96,
-    12.06
+    11.74,
+    11.84
    ],
    [
     "לא",
-    12.06,
-    12.2
+    11.84,
+    11.98
    ],
    [
     "חירשת,",
-    12.2,
-    12.8
+    11.98,
+    12.58
    ],
    [
     "למרות",
-    13.1,
-    13.28
+    12.88,
+    13.06
    ],
    [
     "שאין",
-    13.28,
-    13.5
+    13.06,
+    13.28
    ],
    [
     "לה",
-    13.5,
-    13.6
+    13.28,
+    13.38
    ],
    [
     "אוזן",
-    13.6,
-    13.84
+    13.38,
+    13.62
    ],
    [
     "חיצונית.",
-    13.84,
-    13.94
+    13.62,
+    13.72
    ],
    [
     "היא",
-    14.92,
-    14.98
+    14.7,
+    14.76
    ],
    [
     "שומעת",
-    14.98,
-    15.54
+    14.76,
+    15.32
    ],
    [
     "בטווח",
-    15.56,
-    15.9
+    15.34,
+    15.68
    ],
    [
     "תדרים",
-    15.98,
-    16.24
+    15.76,
+    16.02
    ],
    [
     "של",
-    16.24,
-    16.44
+    16.02,
+    16.22
    ],
    [
     "200",
-    16.44,
-    16.8
+    16.22,
+    16.58
    ],
    [
     "עד",
-    16.8,
-    17.18
+    16.58,
+    16.96
    ],
    [
     "600",
-    17.18,
-    17.48
+    16.96,
+    17.26
    ],
    [
     "הרץ.",
-    17.48,
-    17.64
+    17.26,
+    17.42
    ],
    [
     "הזיקונית",
-    18.96,
-    19.48
+    18.74,
+    19.26
    ],
    [
     "הננסית",
-    19.52,
-    20.12
+    19.3,
+    19.9
    ],
    [
     "היא",
-    20.4,
-    20.5
+    20.18,
+    20.28
    ],
    [
     "הזוחל",
-    20.5,
-    20.92
+    20.28,
+    20.7
    ],
    [
     "הקטן",
-    20.92,
-    21.34
+    20.7,
+    21.12
    ],
    [
     "ביותר",
-    21.34,
-    21.7
+    21.12,
+    21.48
    ],
    [
     "בעולם,",
-    21.7,
-    22.08
+    21.48,
+    21.86
    ],
    [
     "באורך",
-    22.36,
-    22.66
+    22.14,
+    22.44
    ],
    [
     "30",
-    22.66,
-    23.0
+    22.44,
+    22.78
    ],
    [
     "מ\"מ.",
-    23.0,
-    23.36
+    22.78,
+    23.14
    ],
    [
     "יש",
-    24.08,
-    24.18
+    23.86,
+    23.96
    ],
    [
     "זיקיות",
-    24.18,
-    24.68
+    23.96,
+    24.46
    ],
    [
     "שמגיעות",
-    24.68,
-    25.38
+    24.46,
+    25.16
    ],
    [
     "לאורך",
-    25.66,
-    25.76
+    25.44,
+    25.54
    ],
    [
     "של",
-    25.76,
-    25.9
+    25.54,
+    25.68
    ],
    [
     "כ-68.5",
-    25.9,
-    27.3
+    25.68,
+    27.08
    ],
    [
     "ס\"מ.",
-    27.3,
-    27.84
+    27.08,
+    27.62
    ]
   ],
   "b": [
@@ -330,6 +330,30 @@
    "license": "CC BY-SA 3.0",
    "artist": "Blank_map_of_world_no_country_borders.PNG: Yug\nderivative work: Hexasoft (talk)",
    "page": "https://commons.wikimedia.org/wiki/File:Cameleonidae_Repartition_Map.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Chamaeleo_calyptratus_2.jpg/960px-Chamaeleo_calyptratus_2.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "artist": "Tiia Monto",
+   "page": "https://commons.wikimedia.org/wiki/File:Chamaeleo_calyptratus_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Chamaeleo_jacksonii.jpg/960px-Chamaeleo_jacksonii.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Chamaeleo_jacksonii.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamaeleo_namaquensis_%28Namib-Naukluft%2C_2011%29.jpg/960px-Chamaeleo_namaquensis_%28Namib-Naukluft%2C_2011%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "artist": "Yathin S Krishnappa",
+   "page": "https://commons.wikimedia.org/wiki/File:Chamaeleo_namaquensis_(Namib-Naukluft,_2011).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Chamaeleon_MS5669.jpg/960px-Chamaeleon_MS5669.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "artist": "Marco Schmidt [1]",
+   "page": "https://commons.wikimedia.org/wiki/File:Chamaeleon_MS5669.jpg"
   }
  ],
  "source": {
@@ -342,5 +366,6 @@
   "voice": "gemini-3.8-flash-tts/Puck",
   "fact_check": "passed"
  },
- "created": "2026-11-14"
+ "created": "2026-11-14",
+ "trimmed": true
 }
