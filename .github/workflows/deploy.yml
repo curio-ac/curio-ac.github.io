@@ -17,7 +17,7 @@ jobs:
       url: ${{ steps.d.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - run: sudo apt-get install -y -qq imagemagick >/dev/null; python3 factory/build_site.py
+      - run: python3 factory/build_site.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
