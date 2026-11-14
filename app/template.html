@@ -32,6 +32,10 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 @keyframes m5{from{transform:scale(1.1) translate(-4%,4%)}to{transform:scale(1.32) translate(4%,-4%)}}
 .shade{position:absolute;inset:0;z-index:2;background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.1) 35%,rgba(0,0,0,.25) 60%,rgba(0,0,0,.75));z-index:1}
 .has-img .bigemo{display:none}
+.stat{position:absolute;top:13%;left:0;right:0;text-align:center;font-size:clamp(70px,22vw,110px);font-weight:900;color:#ffd166;z-index:3;display:none;text-shadow:0 6px 30px rgba(0,0,0,.4);line-height:1.1}
+.stat small{display:block;font-size:.32em;color:#fff}
+.noimg .stat{display:block;animation:pop .45s cubic-bezier(.3,1.6,.5,1)}
+.noimg .img{opacity:0!important}.noimg .emo{display:none}.has-img.noimg .bigemo{display:block}
 .credit{font-size:10.5px;opacity:.65;margin-top:5px;line-height:1.4}
 .post[dir=ltr] .actions{left:auto;right:8px}
 .post[dir=ltr] .meta{left:16px;right:78px}
@@ -155,7 +159,7 @@ function render(it){
     return el;
   }
   const en=it.lang==="en",ims=it.images||[];if(ims.length)el.classList.add("has-img");
-  el.innerHTML=`<div class="bg"></div><div class="bigemo">${it.emoji}</div>${ims.map(m=>`<div class="img"><i style="background-image:url('${(window.IMG&&IMG[m.url])||m.url}')"></i></div>`).join("")}<div class="shade"></div><div class="emo">${it.emoji}</div><div class="cap"></div><div class="pz">⏸</div>
+  el.innerHTML=`<div class="bg"></div><div class="bigemo">${it.emoji}</div>${ims.map(m=>`<div class="img"><i style="background-image:url('${(window.IMG&&IMG[m.url])||m.url}')"></i></div>`).join("")}<div class="shade"></div><div class="stat"></div><div class="emo">${it.emoji}</div><div class="cap"></div><div class="pz">⏸</div>
   <div class="actions">
     <button class="like${liked.has(it.id)?" on":""}">${liked.has(it.id)?"❤️":"🤍"}<small>${en?"Like":"אהבתי"}</small></button>
     <button class="sv${saved.has(it.id)?" on":""}">${saved.has(it.id)?"⭐":"☆"}<small>${en?"Save":"שמירה"}</small></button>
@@ -185,14 +189,22 @@ function showChunk(el,it,ci){
 function add(){const el=render(pick());feed.appendChild(el);io.observe(el)}
 
 // ---------- עריכה: חיתוך כל 2-3 שניות ----------
-function cut(){
-  const el=cur.el,ims=el.querySelectorAll(".img");if(!ims.length)return;
-  const n=ims.length,k=cur.k=(cur.k+1)%n,cn=cur.cn=(cur.cn||0)+1,m=ims[k],i=m.firstChild;
-  ims.forEach(x=>{if(x!==m)x.classList.remove("on","e0","e1","e2","e3")});
-  m.classList.remove("e0","e1","e2","e3");i.className="";void m.offsetWidth;
-  m.classList.add("on","e"+(cn%4));i.className="m"+((cn*5)%6);
-  const im=cur.it.images[k];el.querySelector(".ic").textContent=im.artist||im.license?`📷 ${im.artist?im.artist+" · ":""}${im.license}`:"";
-  cur.lastCut=player.currentTime;if(cn>1)whoosh();
+function cut(newSent){
+  const el=cur.el,it=cur.it,ims=el.querySelectorAll(".img");if(!ims.length)return;
+  const ci=el._ci||0,si=it.chunks[ci].si,map=it.sent_img;
+  const idx=map?map[si]:(newSent?(cur.k+1)%ims.length:cur.k);
+  if(idx==null){ // אין תמונה מתאימה: כרטיס עם המספר/אימוג'י במקום תמונה לא קשורה
+    if(!el.classList.contains("noimg")||newSent){const w=it.tim.w,b=it.tim.b,e=si+1<b.length?b[si+1]:w.length;let txt=it.emoji;
+      for(let j=b[si];j<e;j++)if(/\d/.test(w[j][0])){txt=w[j][0].replace(/[.,:]$/,"")+(j+1<e?`<small>${w[j+1][0].replace(/[.,:]$/,"")}</small>`:"");break}
+      const st=el.querySelector(".stat");st.innerHTML=txt;el.classList.remove("noimg");void st.offsetWidth;el.classList.add("noimg");el.querySelector(".ic").textContent="";if(newSent)whoosh()}
+    cur.k=null;cur.lastCut=player.currentTime;return}
+  el.classList.remove("noimg");
+  const cn=cur.cn=(cur.cn||0)+1,m=ims[idx],i=m.firstChild,change=idx!==cur.k;
+  if(change){ims.forEach(x=>{if(x!==m)x.classList.remove("on","e0","e1","e2","e3")});m.classList.remove("e0","e1","e2","e3")}
+  i.className="";void m.offsetWidth;i.className="m"+((cn*5)%6);
+  if(change){m.classList.add("on","e"+(cn%4));if(cn>1)whoosh()}
+  cur.k=idx;const im=it.images[idx];el.querySelector(".ic").textContent=im.artist||im.license?`📷 ${im.artist?im.artist+" · ":""}${im.license}`:"";
+  cur.lastCut=player.currentTime;
 }
 
 // ---------- מוזיקה ואפקטים (נוצרים בדפדפן) ----------
@@ -227,7 +239,7 @@ function activate(el){
   const it=el._it;cur={el,it,enter:performance.now(),lastT:0,done:false};
   const i=[...feed.children].indexOf(el);while(feed.children.length<i+4)add();
   if(it.quiz){player.pause();return}
-  seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut();cur.lastCut=0;
+  seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
   player.src=AUD[it.id];player.currentTime=0;player.play().catch(()=>{});
 }
@@ -251,7 +263,7 @@ function tick(){
     if(t<cur.lastT-1)cur.done=true;cur.lastT=t;
     cur.el.querySelector(".prog i").style.width=(t/d*100)+"%";
     let ci=it.chunks.length-1;while(ci>0&&it.chunks[ci].s>t+.08)ci--;
-    if(ci!==cur.el._ci){const nsi=it.chunks[ci].si!==(it.chunks[cur.el._ci]||{}).si;showChunk(cur.el,it,ci);if(nsi||t-cur.lastCut>=2.2||t<cur.lastCut)cut()}
+    if(ci!==cur.el._ci){const nsi=it.chunks[ci].si!==(it.chunks[cur.el._ci]||{}).si;showChunk(cur.el,it,ci);if(nsi||t<cur.lastCut)cut(true);else if(t-cur.lastCut>=2.4)cut(false)}
     cur.el.querySelectorAll(".cap span").forEach(s=>{const x=it.tim.w[+s.dataset.j];s.classList.toggle("on",t+.05>=x[1]&&t<x[2]+.15)});
   }
   requestAnimationFrame(tick);

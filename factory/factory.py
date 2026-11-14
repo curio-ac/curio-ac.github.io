@@ -77,10 +77,11 @@ def gen_json(model, prompt):
 
 def _gen_json(model, prompt):
     global THINK
+    parts = prompt if isinstance(prompt, list) else [{"text": prompt}]
     cfg = {"responseMimeType": "application/json", "temperature": 0.7}
     if THINK:
         cfg["thinkingConfig"] = {"thinkingLevel": "low"}
-    body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
+    body = {"contents": [{"parts": parts}], "generationConfig": cfg}
     try:
         res = http(f"{G}/models/{model}:generateContent", body, {"x-goog-api-key": KEY}, timeout=90)
     except RuntimeError as e:
@@ -119,7 +120,7 @@ def fetch_article(lang, query):
 BAD_IMG = re.compile(r"logo|icon|flag|symbol|commons-|wikiquote|wiktionary|edit-|ambox|question_book|disambig|\.svg$", re.I)
 
 
-def fetch_images(lang, title, lead, n=8):
+def fetch_images(lang, title, lead, n=15):
     files = [f["title"] for f in wiki(lang, action="query", prop="images", titles=title, imlimit=40)["query"]["pages"][0].get("images", [])]
     if lead:
         lead_t = ("File:" if lang == "en" else "קובץ:") + lead
@@ -134,12 +135,90 @@ def fetch_images(lang, title, lead, n=8):
         ii = (p.get("imageinfo") or [{}])[0]
         if ii.get("mime") not in ("image/jpeg", "image/png") or ii.get("width", 0) < 400 or "/wikipedia/commons/" not in ii.get("thumburl", ""):
             continue  # only free-licensed Commons media
-        md = ii.get("extmetadata", {})
-        artist = re.sub(r"<[^>]+>", "", md.get("Artist", {}).get("value", ""))[:80].strip()
-        out.append({"url": ii["thumburl"], "license": md.get("LicenseShortName", {}).get("value", ""), "artist": artist, "page": ii.get("descriptionurl")})
+        out.append(img_meta(ii, p["title"]))
         if len(out) >= n:
             break
     return out
+
+
+def img_meta(ii, title):
+    md = ii.get("extmetadata", {}); strip = lambda h: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", h)).strip()
+    desc = strip(md.get("ImageDescription", {}).get("value", ""))[:220]
+    name = re.sub(r"\.\w+$", "", title.split(":", 1)[-1]).replace("_", " ")
+    return {"url": ii["thumburl"], "license": md.get("LicenseShortName", {}).get("value", ""),
+            "artist": strip(md.get("Artist", {}).get("value", ""))[:80], "page": ii.get("descriptionurl"), "desc": f"{name} — {desc}"[:260]}
+
+
+def commons_search(q, n=6):
+    try:
+        r = http("https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(dict(
+            action="query", format="json", formatversion=2, generator="search", gsrnamespace=6, gsrsearch=f"{q} filetype:bitmap",
+            gsrlimit=12, prop="imageinfo", iiprop="url|size|mime|extmetadata", iiurlwidth=720)))
+    except Exception as e:
+        print("   commons search failed", e); return []
+    out = []
+    for p in sorted(r.get("query", {}).get("pages", []), key=lambda p: p.get("index", 99)):
+        ii = (p.get("imageinfo") or [{}])[0]
+        if ii.get("mime") in ("image/jpeg", "image/png") and ii.get("width", 0) >= 500 and not BAD_IMG.search(p["title"]):
+            out.append(img_meta(ii, p["title"]))
+        if len(out) >= n: break
+    return out
+
+
+def thumb_b64(url):
+    try:
+        small = re.sub(r"/\d+px-", "/330px-", url)
+        return base64.b64encode(urllib.request.urlopen(urllib.request.Request(small, headers=UA), timeout=30).read()).decode()
+    except Exception:
+        return None
+
+
+def plan_images(sentences, pool):
+    """Pick, for every sentence, an image that shows what the sentence says (or None). Returns (images, sent_img)."""
+    def ask(idx_sents, cands):
+        listing = "\n".join(f"{i}: {pool[i]['desc']}" for i in cands)
+        sents = "\n".join(f"{k}: {sentences[k]}" for k in idx_sents)
+        res = gen_json(None, f"""Educational short video. For each SENTENCE pick the CANDIDATE image that best shows what the sentence says,
+so the viewer SEES what they HEAR. Only pick an image that clearly illustrates the specific content; generic or loosely related = null.
+If null, give a short English search query for Wikimedia Commons that would find a real photo/diagram illustrating that sentence.
+SENTENCES:\n{sents}\nCANDIDATES:\n{listing}
+Return JSON: {{"plan": [{{"sentence": n, "image": candidate number or null, "search": "query or null"}}]}}""")
+        return {int(x["sentence"]): x for x in res.get("plan", []) if str(x.get("sentence", "")).isdigit() or isinstance(x.get("sentence"), int)}
+    plan = ask(range(len(sentences)), range(len(pool)))
+    pick = {k: (plan.get(k, {}).get("image")) for k in range(len(sentences))}
+    missing = [k for k in pick if pick[k] is None and plan.get(k, {}).get("search")]
+    if missing:
+        start = len(pool)
+        for k in missing:
+            pool.extend(commons_search(plan[k]["search"], 4))
+        if len(pool) > start:
+            plan2 = ask(missing, range(start, len(pool)))
+            for k in missing:
+                pick[k] = plan2.get(k, {}).get("image")
+    for k, v in list(pick.items()):
+        if not isinstance(v, int) or not 0 <= v < len(pool):
+            pick[k] = None
+    # vision check: does the image really show it?
+    chosen = [k for k in pick if pick[k] is not None]
+    parts = [{"text": "For each numbered SENTENCE + IMAGE pair, answer whether the image clearly and correctly illustrates what the sentence says "
+                      "(a viewer learning from it would not be confused). Be strict. Return JSON {\"ok\": {\"<n>\": true/false}}"}]
+    sent_ok = []
+    for k in chosen:
+        b = thumb_b64(pool[pick[k]]["url"])
+        if b:
+            parts += [{"text": f"SENTENCE {k}: {sentences[k]}"}, {"inlineData": {"mimeType": "image/png" if pool[pick[k]]["url"].lower().endswith("png") else "image/jpeg", "data": b}}]
+            sent_ok.append(k)
+    if sent_ok:
+        ok = gen_json(None, parts).get("ok", {})
+        for k in sent_ok:
+            if ok.get(str(k)) is False:
+                pick[k] = None
+    used = []
+    for k in range(len(sentences)):
+        if pick[k] is not None and pick[k] not in used:
+            used.append(pick[k])
+    images = [pool[i] for i in used]
+    return images, [used.index(pick[k]) if pick[k] is not None else None for k in range(len(sentences))]
 
 
 # ---------- script + fact check ----------
@@ -270,15 +349,15 @@ def main():
                 local_tts(spoken, lang, mp3); voice = "open-source (piper)" if lang == "he" else "open-source (kokoro)"
             tim = align(mp3, sc["sentences"], lang)
             trim(mp3, tim)
-            imgs = fetch_images(lang, art["title"], art["lead"])
+            imgs, sent_img = plan_images(sc["sentences"], fetch_images(lang, art["title"], art["lead"])); stats["calls"] += 2
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
-                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs,
+                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img,
                        "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
                        "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
                        "created": time.strftime("%Y-%m-%d"), "trimmed": True},
                       open(f"content/{lang}/{vid}.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)
             index["done"].append(topic); stats["made"] += 1
-            print(f"✅ {topic} → {vid} ({tim['w'][-1][2] if tim['w'] else '?'}s, {len(imgs)} images)", flush=True)
+            print(f"✅ {topic} → {vid} ({tim['w'][-1][2] if tim['w'] else '?'}s, images per sentence: {sent_img})", flush=True)
         except Quota as e:
             print(f"⛔ daily quota reached: {e}"); break
         except Exception as e:
