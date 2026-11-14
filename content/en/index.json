@@ -20,7 +20,8 @@
   "Great white shark",
   "70 Pine Street",
   "Atlantic City–Brigantine Connector",
-  "Donkey Kong 64"
+  "Donkey Kong 64",
+  "James Webb Space Telescope"
  ],
  "rejected": [
   "Chameleon"
@@ -91,6 +92,9 @@
   ],
   "Donkey Kong 64": [
    "The Memory-Hungry Kong Game: It required a special memory accessory!"
+  ],
+  "James Webb Space Telescope": [
+   "Hubble Vs James Webb: Webb's massive mirror produces images of comparable resolution."
   ]
  },
  "exhausted": []
