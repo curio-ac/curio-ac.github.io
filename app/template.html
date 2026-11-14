@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Curio</title>
-<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#000000"><link rel="apple-touch-icon" href="icon.png"><meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#000000"><link rel="apple-touch-icon" href="icon.png"><link rel="icon" href="icon.svg"><meta name="apple-mobile-web-app-capable" content="yes">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Hebrew:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{--hl:#F5E62E;--ink:#000;--paper:#fff;--dim:rgba(255,255,255,.62);--line:rgba(255,255,255,.22)}
@@ -76,7 +76,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 .pz{position:absolute;inset:0;display:none;align-items:center;justify-content:center;z-index:5;pointer-events:none}
 .post.paused .pz{display:flex}
 #top{position:fixed;top:0;left:0;right:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:0 16px;z-index:10;max-width:520px;margin:0 auto}
-.logo{font-weight:700;font-size:21px;letter-spacing:-.01em;direction:ltr}
+.logo{font-weight:700;font-size:21px;letter-spacing:-.01em;direction:ltr;padding:0 3px;background:linear-gradient(transparent 62%,var(--hl) 62%,var(--hl) 92%,transparent 92%);text-shadow:0 1px 6px rgba(0,0,0,.5)}
 #top button{background:none;border:0;color:#fff;width:40px;height:40px;cursor:pointer}
 #top svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linejoin:round;stroke-linecap:round;filter:drop-shadow(0 1px 4px rgba(0,0,0,.5))}
 .quiz{position:absolute;inset:96px 24px 110px;display:flex;flex-direction:column;justify-content:center;gap:10px;z-index:3}
