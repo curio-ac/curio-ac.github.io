@@ -145,15 +145,15 @@ const w=c=>W[c]??1;
 const bump=(c,d)=>{W[c]=Math.round(Math.max(.2,Math.min(10,w(c)+d))*100)/100;save()};
 
 // ---------- האלגוריתם ----------
-const used=new Set(),quizDone=new Set(),seenRefs=new Set();let sinceQuiz=0;
+const shownQ={},used=new Set(),quizDone=new Set(),seenRefs=new Set();let sinceQuiz=0;
 function pick(){
   if(sinceQuiz>=4){const q=Q.find(q=>!quizDone.has(q.id)&&seenRefs.has(q.ref));if(q){quizDone.add(q.id);sinceQuiz=0;return{quiz:q,cat:q.cat}}}
-  let pool=V.filter(x=>!used.has(x.id)&&LANGS.includes(x.lang));
-  if(fresh>0){const nw=pool.filter(x=>x.created===V.reduce((m,y)=>y.created>m?y.created:m,""));if(nw.length){fresh--;const x=nw[0];used.add(x.id);sinceQuiz++;return x}}
-  if(!pool.length){used.clear();toast("מתחילים סבב חדש");pool=V.filter(x=>LANGS.includes(x.lang))}
+  let pool=V.filter(x=>!used.has(x.id)&&LANGS.includes(x.lang)&&!(x.qid&&shownQ[x.qid]&&shownQ[x.qid]!==x.lang)); // אותו נושא לא יופיע בשתי שפות
+  if(fresh>0){const nw=pool.filter(x=>x.created===V.reduce((m,y)=>y.created>m?y.created:m,""));if(nw.length){fresh--;const x=nw[0];used.add(x.id);if(x.qid)shownQ[x.qid]=x.lang;sinceQuiz++;return x}}
+  if(!pool.length){used.clear();toast("מתחילים סבב חדש");pool=V.filter(x=>LANGS.includes(x.lang)&&!(x.qid&&shownQ[x.qid]&&shownQ[x.qid]!==x.lang))}
   let r=Math.random()*pool.reduce((a,x)=>a+w(x.cat),0);
-  for(const x of pool){r-=w(x.cat);if(r<=0){used.add(x.id);sinceQuiz++;return x}}
-  used.add(pool[0].id);return pool[0];
+  for(const x of pool){r-=w(x.cat);if(r<=0){used.add(x.id);if(x.qid)shownQ[x.qid]=x.lang;sinceQuiz++;return x}}
+  if(!pool.length)return null;used.add(pool[0].id);if(pool[0].qid)shownQ[pool[0].qid]=pool[0].lang;return pool[0];
 }
 
 // ---------- רינדור ----------

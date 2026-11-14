@@ -275,9 +275,17 @@ Return JSON: {"visuals":[...one per sentence...]}""")
     return vis
 
 
+def fetch_qid(lang, title):
+    """Wikidata id: the same subject has the same id in every language (used to avoid showing a topic twice)."""
+    try:
+        return wiki(lang, action="query", prop="pageprops", titles=title, ppprop="wikibase_item", redirects=1)["query"]["pages"][0]["pageprops"]["wikibase_item"]
+    except Exception:
+        return None
+
+
 def fetch_geo(lang, title):
     try:
-        q = wiki(lang, action="query", prop="pageprops", titles=title, ppprop="wikibase_item")["query"]["pages"][0]["pageprops"]["wikibase_item"]
+        q = fetch_qid(lang, title)
         c = http(f"https://www.wikidata.org/wiki/Special:EntityData/{q}.json")["entities"][q]["claims"].get("P625")
         v = c[0]["mainsnak"]["datavalue"]["value"]
         return [round(v["latitude"], 3), round(v["longitude"], 3)]
@@ -380,7 +388,7 @@ def rebuild_feed():
         if f.endswith(("index.json", "feed.json")): continue
         v = json.load(open(f, encoding="utf8"))
         if os.path.exists(f"audio/{v['lang']}/{v['id']}.mp3"):
-            vids.append({"id": v["id"], "lang": v["lang"], "cat": v["cat"], "created": v.get("created", "")})
+            vids.append({"id": v["id"], "lang": v["lang"], "cat": v["cat"], "created": v.get("created", ""), "qid": v.get("qid"), "angle": v.get("angle", 0)})
     vids.sort(key=lambda x: x["created"], reverse=True)
     json.dump({"updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "videos": vids}, open("content/feed.json", "w", encoding="utf8"), ensure_ascii=False)
 
@@ -456,7 +464,7 @@ def main():
                 vis = [v if v.get("type") != "map" else {"type": "image"} for v in vis]
             imgs, sent_img = plan_images(sc["sentences"], fetch_images(lang, art["title"], art["lead"]), vis); stats["calls"] += 2
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
-                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo,
+                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo, "qid": fetch_qid(lang, art["title"]), "angle": len(prev),
                        "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
                        "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
                        "created": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "trimmed": True},
