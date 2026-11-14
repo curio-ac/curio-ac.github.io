@@ -111,7 +111,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 <script src="world.js"></script>
 <script>
 // התוכן מגיע מבחוץ ומתעדכן ברקע: האפליקציה היא רק נגן
-const REPO="o2hoffman-hash/Curio",CDN=`https://cdn.jsdelivr.net/gh/${REPO}@main/`,FEED_URL=`https://raw.githubusercontent.com/${REPO}/main/content/feed.json`;
+const REPO="o2hoffman-hash/Curio",CDN=`https://raw.githubusercontent.com/${REPO}/main/`,FEED_URL=`https://raw.githubusercontent.com/${REPO}/main/content/feed.json`;
 let V=[];const AUD={},FULL={};
 async function loadFeed(){try{const r=await fetch(FEED_URL+"?t="+Date.now(),{cache:"no-store"});const f=await r.json();
   const have=new Set(V.map(x=>x.id));let n=0;for(const e of f.videos)if(!have.has(e.id)){V.push(e);AUD[e.id]=CDN+`audio/${e.lang}/${e.id}.mp3`;n++}
