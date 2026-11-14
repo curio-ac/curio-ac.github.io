@@ -145,7 +145,7 @@ def img_meta(ii, title):
     md = ii.get("extmetadata", {}); strip = lambda h: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", h)).strip()
     desc = strip(md.get("ImageDescription", {}).get("value", ""))[:220]
     name = re.sub(r"\.\w+$", "", title.split(":", 1)[-1]).replace("_", " ")
-    return {"url": ii["thumburl"], "license": md.get("LicenseShortName", {}).get("value", ""),
+    return {"url": ii["thumburl"], "w": ii.get("thumbwidth"), "h": ii.get("thumbheight"), "license": md.get("LicenseShortName", {}).get("value", ""),
             "artist": strip(md.get("Artist", {}).get("value", ""))[:80], "page": ii.get("descriptionurl"), "desc": f"{name} — {desc}"[:260]}
 
 
@@ -173,7 +173,7 @@ def thumb_b64(url):
         return None
 
 
-def plan_images(sentences, pool):
+def plan_images(sentences, pool, vis=None):
     """Pick, for every sentence, an image that shows what the sentence says (or None). Returns (images, sent_img)."""
     def ask(idx_sents, cands):
         listing = "\n".join(f"{i}: {pool[i]['desc']}" for i in cands)
@@ -201,24 +201,83 @@ Return JSON: {{"plan": [{{"sentence": n, "image": candidate number or null, "sea
     # vision check: does the image really show it?
     chosen = [k for k in pick if pick[k] is not None]
     parts = [{"text": "For each numbered SENTENCE + IMAGE pair, answer whether the image clearly and correctly illustrates what the sentence says "
-                      "(a viewer learning from it would not be confused). Be strict. Return JSON {\"ok\": {\"<n>\": true/false}}"}]
+                      "(a viewer learning from it would not be confused). Be strict. If a TARGET is given, also return its bounding box [ymin,xmin,ymax,xmax] (0-1000). "
+                      "Return JSON {\"ok\": {\"<n>\": true/false}, \"box\": {\"<n>\": [ymin,xmin,ymax,xmax]}}"}]
     sent_ok = []
     for k in chosen:
         b = thumb_b64(pool[pick[k]]["url"])
         if b:
-            parts += [{"text": f"SENTENCE {k}: {sentences[k]}"}, {"inlineData": {"mimeType": "image/png" if pool[pick[k]]["url"].lower().endswith("png") else "image/jpeg", "data": b}}]
+            tg = (vis or [{}] * len(sentences))[k].get("target") if (vis or [{}] * len(sentences))[k].get("type") == "focus" else None
+            parts += [{"text": f"SENTENCE {k}: {sentences[k]}" + (f"  TARGET: {tg}" if tg else "")}, {"inlineData": {"mimeType": "image/png" if pool[pick[k]]["url"].lower().endswith("png") else "image/jpeg", "data": b}}]
             sent_ok.append(k)
+    boxes = {}
     if sent_ok:
-        ok = gen_json(None, parts).get("ok", {})
+        r = gen_json(None, parts); ok = r.get("ok", {}); boxes = r.get("box", {}) or {}
         for k in sent_ok:
             if ok.get(str(k)) is False:
                 pick[k] = None
+    if vis:
+        for k, v in enumerate(vis):
+            b = boxes.get(str(k))
+            if v.get("type") == "focus":
+                if pick[k] is not None and isinstance(b, list) and len(b) == 4:
+                    v["box"] = [max(0, min(1000, int(x))) for x in b]
+                else:
+                    vis[k] = {"type": "image"}
     used = []
     for k in range(len(sentences)):
         if pick[k] is not None and pick[k] not in used:
             used.append(pick[k])
     images = [pool[i] for i in used]
     return images, [used.index(pick[k]) if pick[k] is not None else None for k in range(len(sentences))]
+
+
+# ---------- visual information layer ----------
+REFS = {"length": {"bus": 12, "human": 1.7, "football_field": 105, "eiffel_tower": 330},
+        "mass": {"car": 1500, "elephant": 6000, "human": 70}}
+
+
+def plan_visuals(sentences, art):
+    """One visual per sentence; every number must literally appear in SOURCE, else it falls back to an image."""
+    res = gen_json(None, f"""You design the on-screen visual for each sentence of a short educational video, so the EYE gets information too.
+SOURCE:\n\"\"\"{art['text'][:5000]}\"\"\"
+SENTENCES:\n""" + "\n".join(f"{k}: {x}" for k, x in enumerate(sentences)) + """
+For each sentence choose ONE visual:
+- {"type":"stat","value":number,"unit":"short unit","label":"2-3 words in the sentence language"}  — a key number from the sentence
+- {"type":"compare","value":number,"dim":"length"|"mass","unit_value_in":"m"|"kg"} — when a size/weight is mentioned and a scale comparison helps (value converted to metres or kg)
+- {"type":"map"} — when the sentence is about WHERE something is
+- {"type":"timeline","year":number} — when the sentence is about WHEN (negative for BCE)
+- {"type":"focus","target":"short English name of the visible part/thing to highlight in a photo"} — when the sentence names a visible part (e.g. "the tongue")
+- {"type":"image"} — otherwise
+Every number MUST appear in SOURCE (copied exactly, or a pure unit conversion). Use at most 3 non-image visuals per video, never two of the same type in a row.
+Return JSON: {"visuals":[...one per sentence...]}""")
+    vis = (res.get("visuals") or [])[:len(sentences)]
+    vis += [{"type": "image"}] * (len(sentences) - len(vis))
+    digits = re.sub(r"[,\s]", "", art["text"])
+    for k, v in enumerate(vis):
+        t = v.get("type")
+        if t in ("stat", "compare", "timeline"):
+            num = v.get("year") if t == "timeline" else v.get("value")
+            try:
+                n = float(num)
+            except (TypeError, ValueError):
+                vis[k] = {"type": "image"}; continue
+            raw = (str(int(abs(n))) if n == int(n) else str(abs(n)))
+            if t != "compare" and raw not in digits:  # deterministic check: the number is in the source
+                print(f"   ✂ visual {k} dropped: {raw} not in source"); vis[k] = {"type": "image"}
+            if t == "compare" and v.get("dim") not in REFS:
+                vis[k] = {"type": "image"}
+    return vis
+
+
+def fetch_geo(lang, title):
+    try:
+        q = wiki(lang, action="query", prop="pageprops", titles=title, ppprop="wikibase_item")["query"]["pages"][0]["pageprops"]["wikibase_item"]
+        c = http(f"https://www.wikidata.org/wiki/Special:EntityData/{q}.json")["entities"][q]["claims"].get("P625")
+        v = c[0]["mainsnak"]["datavalue"]["value"]
+        return [round(v["latitude"], 3), round(v["longitude"], 3)]
+    except Exception:
+        return None
 
 
 # ---------- script + fact check ----------
@@ -349,9 +408,12 @@ def main():
                 local_tts(spoken, lang, mp3); voice = "open-source (piper)" if lang == "he" else "open-source (kokoro)"
             tim = align(mp3, sc["sentences"], lang)
             trim(mp3, tim)
-            imgs, sent_img = plan_images(sc["sentences"], fetch_images(lang, art["title"], art["lead"])); stats["calls"] += 2
+            vis = plan_visuals(sc["sentences"], art); geo = fetch_geo(lang, art["title"]); stats["calls"] += 1
+            if not geo:
+                vis = [v if v.get("type") != "map" else {"type": "image"} for v in vis]
+            imgs, sent_img = plan_images(sc["sentences"], fetch_images(lang, art["title"], art["lead"]), vis); stats["calls"] += 2
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
-                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img,
+                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo,
                        "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
                        "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
                        "created": time.strftime("%Y-%m-%d"), "trimmed": True},

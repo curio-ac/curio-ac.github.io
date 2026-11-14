@@ -14,6 +14,6 @@ for f in sorted(glob.glob("content/*/*.json")):
         except Exception as e:
             print("img fail", im["url"], e)
     V.append(v)
-html = open("app/template.html", encoding="utf8").read().replace("/*DATA*/", "const V=" + json.dumps(V, ensure_ascii=False) + ";\nconst AUD=" + json.dumps(AUD) + ";\nwindow.IMG=" + json.dumps(IMG) + ";")
+html = open("app/template.html", encoding="utf8").read().replace("/*DATA*/", "const V=" + json.dumps(V, ensure_ascii=False) + ";\nconst AUD=" + json.dumps(AUD) + ";\nwindow.IMG=" + json.dumps(IMG) + ";").replace("/*WORLD*/", "window.WORLD=" + json.dumps(open("app/world.txt").read()) + ";")
 os.makedirs("dist", exist_ok=True); open("dist/preview.html", "w", encoding="utf8").write(html)
 print(f"preview: {len(V)} videos, {len(IMG)} images, {len(html)/1e6:.1f}MB")

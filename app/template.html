@@ -40,18 +40,36 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 .post[dir=ltr] .actions{left:auto;right:8px}
 .post[dir=ltr] .meta{left:16px;right:78px}
 .post[dir=ltr] .cap{left:20px;right:70px}
+.vis{position:absolute;top:12%;left:16px;right:16px;height:46%;z-index:3;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none}
+.vis.on{display:flex;animation:pop .4s cubic-bezier(.3,1.5,.5,1)}
+.withvis .shade{background:rgba(0,0,0,.55)}.withvis .emo{display:none}
+.v-num{font-size:clamp(64px,20vw,104px);font-weight:900;color:#ffd166;line-height:1;text-shadow:0 6px 30px rgba(0,0,0,.5)}
+.v-num small{font-size:.4em;color:#fff;margin:0 6px}
+.v-lab{font-size:20px;font-weight:700;opacity:.9;margin-top:8px}
+.v-ic{display:flex;flex-wrap:wrap;justify-content:center;gap:4px;font-size:clamp(34px,10vw,48px);max-width:100%;direction:ltr}
+.v-ic span{display:inline-block;overflow:hidden;animation:pop .35s both}
+.v-map{width:100%;max-height:100%;border-radius:18px;background:rgba(0,40,80,.35)}
+.v-map g{transition:transform 1.4s cubic-bezier(.6,0,.2,1)}
+.v-map .pin{fill:#ffd166;stroke:#fff;stroke-width:.6}.v-map .ring{fill:none;stroke:#ffd166;stroke-width:.8;animation:ring 1.2s ease-out infinite}
+@keyframes ring{from{r:1;opacity:1}to{r:9;opacity:0}}
+.v-tl{width:92%;position:relative;height:90px;margin-top:10px;direction:ltr}
+.v-tl .ax{position:absolute;top:44px;left:0;right:0;height:4px;background:rgba(255,255,255,.35);border-radius:2px}
+.v-tl .dot{position:absolute;top:34px;width:24px;height:24px;margin-left:-12px;border-radius:50%;background:#ffd166;box-shadow:0 0 18px #ffd166;transition:left 1.3s cubic-bezier(.6,0,.2,1)}
+.v-tl .end{position:absolute;top:62px;font-size:15px;opacity:.8}
+.fbox{position:absolute;border:3px solid #ffd166;border-radius:10px;box-shadow:0 0 0 2000px rgba(0,0,0,.35),0 0 20px #ffd166;animation:pop .5s .5s both}
+.img i.fz{animation:none!important;transition:transform 1.3s cubic-bezier(.6,0,.2,1)}
 #start .langs{display:flex;flex-direction:column;gap:10px}
 #start .langs button.alt{background:rgba(255,255,255,.15);color:#fff}
 .emo{position:absolute;top:20%;left:0;right:0;text-align:center;font-size:84px;z-index:3;pointer-events:none}
 .emo.pop{animation:pop .45s cubic-bezier(.3,1.6,.5,1)}
 @keyframes pop{from{transform:scale(.4) rotate(-15deg);opacity:0}}
-.cap{position:absolute;top:38%;left:70px;right:20px;min-height:30%;display:flex;flex-wrap:wrap;justify-content:center;align-content:flex-start;gap:4px 10px;text-align:center;z-index:3;pointer-events:none}
+.cap{position:absolute;bottom:128px;left:70px;right:20px;display:flex;flex-wrap:wrap;justify-content:center;align-content:flex-start;gap:4px 10px;text-align:center;z-index:3;pointer-events:none}
 .cap.pop{animation:cpop .22s ease-out}
 @keyframes cpop{from{transform:scale(.82);opacity:.3}}
-.cap span{font-size:clamp(32px,9.5vw,46px);font-weight:900;line-height:1.15;text-shadow:0 3px 0 rgba(0,0,0,.35),0 0 18px rgba(0,0,0,.35);transition:color .1s,transform .12s;display:inline-block}
+.cap span{font-size:clamp(21px,6vw,27px);font-weight:900;line-height:1.15;text-shadow:0 3px 0 rgba(0,0,0,.35),0 0 18px rgba(0,0,0,.35);transition:color .1s,transform .12s;display:inline-block}
 .cap span.on{color:#ffd166;transform:scale(1.1)}
 .cap span.num{color:#7cf3ff}
-.cap span.num.on{color:#ffd166;transform:scale(1.5);transition:transform .25s cubic-bezier(.3,1.8,.5,1)}
+.cap span.num.on{color:#ffd166;transform:scale(1.2);transition:transform .25s cubic-bezier(.3,1.8,.5,1)}
 .prog{position:absolute;bottom:0;left:0;right:0;height:3px;background:rgba(255,255,255,.2);z-index:4}
 .prog i{display:block;height:100%;width:0;background:#fff}
 .meta{position:absolute;bottom:22px;right:16px;left:78px;z-index:3}
@@ -109,6 +127,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:Heebo,system-ui,san
 <div id="toast"></div>
 <script>
 /*DATA*/
+/*WORLD*/
 const CATS={space:["#1b1464","#05010f","חלל","Space"],biology:["#0b6e4f","#08251c","ביולוגיה","Biology"],history:["#9c4f1c","#2b1206","היסטוריה","History"],
  math:["#3a0ca3","#10002b","מתמטיקה","Math"],geography:["#0077b6","#03045e","גאוגרפיה","Geography"],physics:["#c9184a","#3d0814","פיזיקה","Physics"],
  chemistry:["#e09f3e","#4a2c06","כימיה","Chemistry"],language:["#5f0f40","#1a0412","שפה","Language"],psychology:["#7209b7","#22033a","פסיכולוגיה","Psychology"],
@@ -159,7 +178,7 @@ function render(it){
     return el;
   }
   const en=it.lang==="en",ims=it.images||[];if(ims.length)el.classList.add("has-img");
-  el.innerHTML=`<div class="bg"></div><div class="bigemo">${it.emoji}</div>${ims.map(m=>`<div class="img"><i style="background-image:url('${(window.IMG&&IMG[m.url])||m.url}')"></i></div>`).join("")}<div class="shade"></div><div class="stat"></div><div class="emo">${it.emoji}</div><div class="cap"></div><div class="pz">⏸</div>
+  el.innerHTML=`<div class="bg"></div><div class="bigemo">${it.emoji}</div>${ims.map(m=>`<div class="img"><i style="background-image:url('${(window.IMG&&IMG[m.url])||m.url}')"></i></div>`).join("")}<div class="shade"></div><div class="stat"></div><div class="vis"></div><div class="emo">${it.emoji}</div><div class="cap"></div><div class="pz">⏸</div>
   <div class="actions">
     <button class="like${liked.has(it.id)?" on":""}">${liked.has(it.id)?"❤️":"🤍"}<small>${en?"Like":"אהבתי"}</small></button>
     <button class="sv${saved.has(it.id)?" on":""}">${saved.has(it.id)?"⭐":"☆"}<small>${en?"Save":"שמירה"}</small></button>
@@ -188,11 +207,43 @@ function showChunk(el,it,ci){
 }
 function add(){const el=render(pick());feed.appendChild(el);io.observe(el)}
 
+// ---------- שכבת מידע ויזואלית ----------
+const REF={length:[["human",1.7,"🧍","בני אדם","people"],["bus",12,"🚌","אוטובוסים","buses"],["football_field",105,"🏟️","מגרשי כדורגל","football fields"],["eiffel_tower",330,"🗼","מגדלי אייפל","Eiffel Towers"]],
+  mass:[["human",70,"🧍","בני אדם","people"],["car",1500,"🚗","מכוניות","cars"],["elephant",6000,"🐘","פילים","elephants"]]};
+const fmt=(n,l)=>(+n).toLocaleString(l==="en"?"en-US":"he-IL",{maximumFractionDigits:1});
+function countUp(node,to,l){const t0=performance.now();const f=()=>{const p=Math.min(1,(performance.now()-t0)/900),e=1-Math.pow(1-p,3);node.textContent=fmt(Number.isInteger(+to)?Math.round(to*e):to*e,l);if(p<1)requestAnimationFrame(f)};f()}
+function showVis(el,it,si){
+  const box=el.querySelector(".vis"),v=(it.vis||[])[si]||{type:"image"},en=it.lang==="en";box.className="vis";box.innerHTML="";el.classList.remove("withvis");
+  if(v.type==="stat"){box.innerHTML=`<div class="v-num"><b></b><small>${v.unit||""}</small></div><div class="v-lab">${v.label||""}</div>`;countUp(box.querySelector("b"),v.value,it.lang)}
+  else if(v.type==="compare"){const refs=REF[v.dim]||[];let r=refs.find(x=>v.value/x[1]<=12&&v.value/x[1]>=1.2)||refs[refs.length-1];if(!r)return;
+    const n=v.value/r[1],full=Math.floor(n),part=n-full;let ic="";for(let i=0;i<Math.min(full,12);i++)ic+=`<span style="animation-delay:${i*.07}s">${r[2]}</span>`;
+    if(part>.05&&full<12)ic+=`<span style="width:${part}em;animation-delay:${full*.07}s">${r[2]}</span>`;
+    box.innerHTML=`<div class="v-num" style="font-size:clamp(44px,13vw,64px)">≈ ${fmt(n,it.lang)} <small>${en?r[4]:r[3]}</small></div><div class="v-ic">${ic}</div><div class="v-lab">${fmt(v.value,it.lang)} ${v.dim==="mass"?(en?"kg":"ק״ג"):(en?"m":"מ׳")}</div>`}
+  else if(v.type==="map"&&it.geo&&window.WORLD){const x=it.geo[1]+180,y=90-it.geo[0];
+    box.innerHTML=`<svg class="v-map" viewBox="0 0 360 180"><g><path d="${WORLD}" fill="rgba(255,255,255,.28)" stroke="rgba(255,255,255,.5)" stroke-width=".3"/><circle class="ring" cx="${x}" cy="${y}" r="3"/><circle class="pin" cx="${x}" cy="${y}" r="2.2"/></g></svg><div class="v-lab">📍 ${it.geo[0].toFixed(1)}°, ${it.geo[1].toFixed(1)}°</div>`;
+    const g=box.querySelector("g");setTimeout(()=>{g.style.transform=`translate(180px,90px) scale(3.2) translate(${-x}px,${-y}px)`},350)}
+  else if(v.type==="timeline"){const now=new Date().getFullYear(),ago=now-v.year,yr=v.year<0?`${-v.year} ${en?"BCE":"לפנה״ס"}`:v.year;
+    box.innerHTML=`<div class="v-num">${yr}</div><div class="v-lab">${en?"≈ "+fmt(ago,"en")+" years ago":"לפני כ־"+fmt(ago,"he")+" שנה"}</div><div class="v-tl"><div class="ax"></div><div class="dot" style="left:100%"></div><span class="end" style="left:0">${yr}</span><span class="end" style="right:0">${en?"today":"היום"}</span></div>`;
+    setTimeout(()=>{box.querySelector(".dot").style.left="4%"},300)}
+  else return;
+  box.classList.add("on");el.classList.add("withvis");
+}
+function focusImg(el,it,si,m,i){
+  const v=(it.vis||[])[si]||{};if(v.type!=="focus"||!v.box)return false;const im=it.images[it.sent_img[si]];if(!im||!im.w)return false;
+  const W=el.offsetWidth,H=el.offsetHeight,s=Math.max(W/im.w,H/im.h),dw=im.w*s,dh=im.h*s,ox=(W-dw)/2,oy=(H-dh)/2,[y0,x0,y1,x1]=v.box.map(z=>z/1000);
+  const L=ox+x0*dw,T=oy+y0*dh,BW=(x1-x0)*dw,BH=(y1-y0)*dh,cx=(L+BW/2)/W*100,cy=(T+BH/2)/H*100,z=Math.max(1.2,Math.min(2.4,.6*W/BW,.6*H/BH));
+  i.className="fz";i.innerHTML=`<b class="fbox" style="left:${L/W*100}%;top:${T/H*100}%;width:${BW/W*100}%;height:${BH/H*100}%"></b>`;
+  i.style.transformOrigin=`${cx}% ${cy}%`;i.style.transform="scale(1)";setTimeout(()=>{i.style.transform=`scale(${z})`},60);return true;
+}
+
 // ---------- עריכה: חיתוך כל 2-3 שניות ----------
 function cut(newSent){
-  const el=cur.el,it=cur.it,ims=el.querySelectorAll(".img");if(!ims.length)return;
+  const el=cur.el,it=cur.it,ims=el.querySelectorAll(".img");
+  if(newSent)showVis(el,it,it.chunks[el._ci||0].si);
+  if(!ims.length)return;
   const ci=el._ci||0,si=it.chunks[ci].si,map=it.sent_img;
   const idx=map?map[si]:(newSent?(cur.k+1)%ims.length:cur.k);
+  if(idx==null&&el.classList.contains("withvis")){ims.forEach(x=>x.classList.remove("on"));cur.k=null;cur.lastCut=player.currentTime;return}
   if(idx==null){ // אין תמונה מתאימה: כרטיס עם המספר/אימוג'י במקום תמונה לא קשורה
     if(!el.classList.contains("noimg")||newSent){const w=it.tim.w,b=it.tim.b,e=si+1<b.length?b[si+1]:w.length;let txt=it.emoji;
       for(let j=b[si];j<e;j++)if(/\d/.test(w[j][0])){txt=w[j][0].replace(/[.,:]$/,"")+(j+1<e?`<small>${w[j+1][0].replace(/[.,:]$/,"")}</small>`:"");break}
@@ -200,9 +251,12 @@ function cut(newSent){
     cur.k=null;cur.lastCut=player.currentTime;return}
   el.classList.remove("noimg");
   const cn=cur.cn=(cur.cn||0)+1,m=ims[idx],i=m.firstChild,change=idx!==cur.k;
+  if(!newSent&&cur.focus)return;
+  ims.forEach(x=>{const q=x.firstChild;q.innerHTML="";q.style.transform="";q.style.transformOrigin=""});
   if(change){ims.forEach(x=>{if(x!==m)x.classList.remove("on","e0","e1","e2","e3")});m.classList.remove("e0","e1","e2","e3")}
-  i.className="";void m.offsetWidth;i.className="m"+((cn*5)%6);
+  i.className="";void m.offsetWidth;
   if(change){m.classList.add("on","e"+(cn%4));if(cn>1)whoosh()}
+  cur.focus=newSent&&focusImg(el,it,si,m,i);if(!cur.focus)i.className="m"+((cn*5)%6);
   cur.k=idx;const im=it.images[idx];el.querySelector(".ic").textContent=im.artist||im.license?`📷 ${im.artist?im.artist+" · ":""}${im.license}`:"";
   cur.lastCut=player.currentTime;
 }
