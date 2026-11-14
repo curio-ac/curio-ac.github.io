@@ -242,8 +242,8 @@ function cut(newSent){
   if(newSent)showVis(el,it,it.chunks[el._ci||0].si);
   if(!ims.length)return;
   const ci=el._ci||0,si=it.chunks[ci].si,map=it.sent_img;
-  const idx=map?map[si]:(newSent?(cur.k+1)%ims.length:cur.k);
-  if(idx==null&&el.classList.contains("withvis")){ims.forEach(x=>x.classList.remove("on"));cur.k=null;cur.lastCut=player.currentTime;return}
+  let idx=map?map[si]:(newSent?(cur.k+1)%ims.length:cur.k);
+  if(idx==null)idx=(cur.k!=null&&cur.k>=0)?cur.k:0; // אין תמונה ייעודית למשפט: נשארים על תמונת הנושא, לא מסך שחור
   if(idx==null){ // אין תמונה מתאימה: כרטיס עם המספר/אימוג'י במקום תמונה לא קשורה
     if(!el.classList.contains("noimg")||newSent){const w=it.tim.w,b=it.tim.b,e=si+1<b.length?b[si+1]:w.length;let txt=it.title;
       for(let j=b[si];j<e;j++)if(/\d/.test(w[j][0])){txt=w[j][0].replace(/[.,:]$/,"")+(j+1<e?`<small>${w[j+1][0].replace(/[.,:]$/,"")}</small>`:"");break}
@@ -361,8 +361,11 @@ const unlock=e=>{document.removeEventListener("click",unlock,true);e.stopPropaga
   player.virt=null;[...feed.children].slice(0,4).forEach(x=>{if(!x._it.quiz)loadBuf(x._it.id)})};
 document.addEventListener("click",unlock,true);
 // יציאה מהאפליקציה / מסך נעול: עוצרים הכול, וממשיכים כשחוזרים
-function bgPause(){if(!AC){player.pause();return}const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(0,t+.05);
-  setTimeout(()=>{player.pause();AC.suspend()},70)} // דעיכה לפני עצירה, בלי קליק
+function fadeTo(v,d){if(!AC||!master)return;const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(v,t+d)}
+window.addEventListener("blur",()=>fadeTo(0,.04));
+window.addEventListener("focus",()=>{if(cur&&!cur.paused&&!document.hidden)fadeTo(muted?0:1,.12)});
+function bgPause(){if(!AC){player.pause();return}const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(0,t+.03);
+  setTimeout(()=>{player.pause();AC.suspend()},60)} // דעיכה לפני עצירה, בלי קליק
 document.addEventListener("visibilitychange",()=>{if(document.hidden)bgPause();else{loadFeed()}if(!document.hidden&&cur&&!cur.paused&&!cur.it.quiz){if(AC)AC.resume().then(()=>{const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(0,t);master.gain.linearRampToValueAtTime(muted?0:1,t+.12)});player.play().catch(()=>{})}});
 window.addEventListener("pagehide",bgPause);window.addEventListener("blur",()=>{if(document.hidden)bgPause()});
 $("btnSound").onclick=()=>{muted=!muted;player.muted=muted;if(master)master.gain.value=muted?0:1;$("btnSound").innerHTML=muted?ICON.mute:ICON.snd};

@@ -13,6 +13,12 @@ for f in glob.glob("content/*/*.json"):
         if not v["geo"]:
             v["vis"] = [x if x.get("type") != "map" else {"type": "image"} for x in v["vis"]]
         v["images"], v["sent_img"] = plan_images(v["sentences"], fetch_images(lang, art["title"], art["lead"]), v["vis"])
+    if not v.get("images"):  # no picture at all: fall back to the best photos of the subject
+        from factory import commons_search
+        art = fetch_article(lang, v["source"]["title"]) if v["source"].get("name", "Wikipedia") == "Wikipedia" else None
+        pool = (fetch_images(lang, art["title"], art["lead"]) if art else []) + commons_search(v["source"]["title"], 6)
+        if pool:
+            v["images"], v["sent_img"] = plan_images(v["sentences"], pool, v.get("vis"))
     if not v.get("qid"):
         v["qid"] = fetch_qid(lang, v["source"]["title"])
     json.dump(v, open(f, "w", encoding="utf8"), ensure_ascii=False, indent=1); print("✅", v.get("qid"), v["id"], [x["type"] for x in v["vis"]], v["sent_img"])
