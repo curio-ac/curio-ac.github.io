@@ -348,52 +348,32 @@
  },
  "images": [
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/960px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "CC BY-SA 4.0",
-   "artist": "Carsten Steger",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Stromboli_(view_from_the_northeast).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg/960px-Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Submarine_Volcano_Fukutoku-Okanoba_Erupts_2010-02-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "license": "Public domain",
-   "artist": "Cyrus Read\nGeophysicist\nUSGS, Alaska Volcano Observatory\n\ncread@usgs.gov",
-   "page": "https://commons.wikimedia.org/wiki/File:Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg"
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Submarine_Volcano_Fukutoku-Okanoba_Erupts_2010-02-09.jpg",
+   "desc": "Submarine Volcano Fukutoku-Okanoba Erupts 2010-02-09 — The submarine volcano Fukutoku-Okanoba erupted in early February, releasing ash and steam plumes, and discoloring nearby ocean water. On February 9, 2010, the Advanced Spaceborne Thermal Emission and Refle"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/960px-Capulin_1980_tde00005.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tectonic_plate_boundaries2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "license": "Public domain",
-   "artist": "R.D. Miller, USGS",
-   "page": "https://commons.wikimedia.org/wiki/File:Capulin_1980_tde00005.jpg"
+   "artist": "USGS/USGov, modified by Eurico Zimbres",
+   "page": "https://commons.wikimedia.org/wiki/File:Tectonic_plate_boundaries2.png",
+   "desc": "Tectonic plate boundaries2 — Tectonics plates map internationalized. 1-Asthenosphere; 2-Lithosphere; 3-Hot spot; 4-Oceanic crust; 5-Subducting plate; 6-Continental crust; 7-Continental rift zone (young plate boundary); 8-Convergent boundary plate; 9"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Crater_Lake_winter_pano2.jpg/960px-Crater_Lake_winter_pano2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "CC BY-SA 3.0",
-   "artist": "WolfmanSF",
-   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_winter_pano2.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/East_Dome_Mount_St._Helens.jpg/960px-East_Dome_Mount_St._Helens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HB.Rift.Zones.North.Island.NZ.jpg/960px-HB.Rift.Zones.North.Island.NZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "license": "Public domain",
-   "artist": "USGS / Rick Hoblitt",
-   "page": "https://commons.wikimedia.org/wiki/File:East_Dome_Mount_St._Helens.jpg"
+   "artist": "ChaseKiwi",
+   "page": "https://commons.wikimedia.org/wiki/File:HB.Rift.Zones.North.Island.NZ.jpg",
+   "desc": "HB.Rift.Zones.North.Island.NZ — Intra-continental rifts North Island, New Zealand. Purple approximately delineates the active Hauraki Rift, red the active modern Taupō Rift and yellow the inactive old Taupō Rift and orange the inactive Hamilton Basin A"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Gobustan_mud_volcano.jpg/960px-Gobustan_mud_volcano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "CC BY-SA 4.0",
-   "artist": "Matheus Hobold Sovernigo",
-   "page": "https://commons.wikimedia.org/wiki/File:Gobustan_mud_volcano.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Izalco_Volcano.jpg/960px-Izalco_Volcano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "CC BY 2.0",
-   "artist": "David Stanley",
-   "page": "https://commons.wikimedia.org/wiki/File:Izalco_Volcano.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg/960px-Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Hawaii_hotspot_cross-sectional_diagram.jpg/960px-Hawaii_hotspot_cross-sectional_diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "license": "Public domain",
-   "artist": "Tatyana Rashidova",
-   "page": "https://commons.wikimedia.org/wiki/File:Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg"
+   "artist": "Joel E. Robinson, USGS.",
+   "page": "https://commons.wikimedia.org/wiki/File:Hawaii_hotspot_cross-sectional_diagram.jpg",
+   "desc": "Hawaii hotspot cross-sectional diagram — A diagram showing the Hawaii hotspot and the inferred underlying mantle plume in cross-section."
   }
  ],
  "source": {
@@ -407,5 +387,14 @@
   "fact_check": "passed"
  },
  "created": "2026-11-14",
- "trimmed": true
+ "trimmed": true,
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  null,
+  2,
+  3
+ ]
 }

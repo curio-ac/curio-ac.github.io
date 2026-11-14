@@ -316,49 +316,29 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/960px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "license": "Public domain",
    "artist": "NOAA Photo Library",
-   "page": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Blue-whale.jpg/960px-Blue-whale.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "Public domain",
-   "artist": "NOAA Fisheries/Lisa Conger",
-   "page": "https://commons.wikimedia.org/wiki/File:Blue-whale.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/BlueWhaleWithCalf.jpg/960px-BlueWhaleWithCalf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "CC BY-SA 4.0",
-   "artist": "Andreas Tille",
-   "page": "https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalf.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Blue_Whale_001_body_bw.jpg/960px-Blue_Whale_001_body_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "Public domain",
-   "artist": "NOAA Fisheries (TBjornstad 11:17, 18 April 2007 (UTC))",
-   "page": "https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Blue_whale_ship_strike_death.jpg/960px-Blue_whale_ship_strike_death.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "CC BY-SA 2.0",
-   "artist": "Craig Hayslip, Oregon State University Marine Mammal Institute",
-   "page": "https://commons.wikimedia.org/wiki/File:Blue_whale_ship_strike_death.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bluewhale1_noaa_crop.jpg/960px-Bluewhale1_noaa_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "Public domain",
-   "artist": "NOAA",
-   "page": "https://commons.wikimedia.org/wiki/File:Bluewhale1_noaa_crop.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bluewhale2_noaa.jpg/960px-Bluewhale2_noaa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "Public domain",
-   "artist": "NOAA",
-   "page": "https://commons.wikimedia.org/wiki/File:Bluewhale2_noaa.jpg"
+   "page": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+   "desc": "Anim1754 - Flickr - NOAA Photo Library — Balaenoptera musculus"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/FMIB_34640_Large_Hump-Back_-sic-_Whale%2C_83_Feet_Long.jpeg/960px-FMIB_34640_Large_Hump-Back_-sic-_Whale%2C_83_Feet_Long.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "license": "Public domain",
    "artist": "Game and Fur-Bearing Animals. Canada. Commission of Conservation. Committee on F",
-   "page": "https://commons.wikimedia.org/wiki/File:FMIB_34640_Large_Hump-Back_-sic-_Whale,_83_Feet_Long.jpeg"
+   "page": "https://commons.wikimedia.org/wiki/File:FMIB_34640_Large_Hump-Back_-sic-_Whale,_83_Feet_Long.jpeg",
+   "desc": "FMIB 34640 Large Hump-Back -sic- Whale, 83 Feet Long — Large Hump-Back [sic] Whale, 83 Feet Long Subject: Blue whale, Whales Tag: Aquatic Mammals"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Blue_Whale_001_body_bw.jpg/960px-Blue_Whale_001_body_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "artist": "NOAA Fisheries (TBjornstad 11:17, 18 April 2007 (UTC))",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg",
+   "desc": "Blue Whale 001 body bw — Blue Whale"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Antarctic_krill_%28Euphausia_superba%29.jpg/960px-Antarctic_krill_%28Euphausia_superba%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "artist": "Krill666.jpg: Uwe Kils I am willing to give the image in 1700 resolution to Wiki",
+   "page": "https://commons.wikimedia.org/wiki/File:Antarctic_krill_(Euphausia_superba).jpg",
+   "desc": "Antarctic krill (Euphausia superba) — Antarctic krill Euphausia superba. This is the startimage of the virtual microscope http://www.ecoscope.com/cybermic/index.htm of krill where you can click into details of the animal to get higher magnifications, like th"
   }
  ],
  "source": {
@@ -372,5 +352,14 @@
   "fact_check": "passed"
  },
  "created": "2026-11-14",
- "trimmed": true
+ "trimmed": true,
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  null,
+  3
+ ]
 }
