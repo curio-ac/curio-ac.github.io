@@ -1,0 +1,10 @@
+name: diag
+on: workflow_dispatch
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 factory/diag.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
