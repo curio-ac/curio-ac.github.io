@@ -1,0 +1,28 @@
+name: deploy app
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["app/**", "content/**", "audio/**", "factory/build_site.py"]
+  workflow_run:
+    workflows: ["Curio factory", "refresh"]
+    types: [completed]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency: pages
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.d.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 factory/build_site.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: d
+        uses: actions/deploy-pages@v4

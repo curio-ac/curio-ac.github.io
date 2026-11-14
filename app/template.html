@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Curio</title>
+<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#1a0b3d"><link rel="apple-touch-icon" href="icon.png"><meta name="apple-mobile-web-app-capable" content="yes">
 <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;700;900&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
@@ -205,7 +206,7 @@ function showChunk(el,it,ci){
     el.querySelector(".bg").style.filter=`hue-rotate(${c.si*18}deg) brightness(${1-c.si*.04})`}
   el._ci=ci;
 }
-function add(){const el=render(pick());feed.appendChild(el);io.observe(el)}
+function add(){const it=pick(),el=render(it);feed.appendChild(el);io.observe(el);if(!it.quiz&&AUD[it.id]&&!AUD[it.id].startsWith("data:"))fetch(AUD[it.id]).catch(()=>{})}
 
 // ---------- שכבת מידע ויזואלית ----------
 const REF={length:[["human",1.7,"🧍","בני אדם","people"],["bus",12,"🚌","אוטובוסים","buses"],["football_field",105,"🏟️","מגרשי כדורגל","football fields"],["eiffel_tower",330,"🗼","מגדלי אייפל","Eiffel Towers"]],
