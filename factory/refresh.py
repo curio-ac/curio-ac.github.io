@@ -7,7 +7,7 @@ for f in glob.glob("content/*/*.json"):
     v = json.load(open(f, encoding="utf8")); lang = v["lang"]
     if not v.get("trimmed"):
         trim(f"audio/{lang}/{v['id']}.mp3", v["tim"]); v["trimmed"] = True
-    if not v.get("vis"):
+    if not v.get("vis") or "--force" in sys.argv:
         art = fetch_article(lang, v["source"]["title"])
         v["vis"] = plan_visuals(v["sentences"], art); v["geo"] = fetch_geo(lang, art["title"])
         if not v["geo"]:

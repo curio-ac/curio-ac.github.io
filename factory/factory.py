@@ -179,7 +179,7 @@ def plan_images(sentences, pool, vis=None):
         listing = "\n".join(f"{i}: {pool[i]['desc']}" for i in cands)
         sents = "\n".join(f"{k}: {sentences[k]}" for k in idx_sents)
         res = gen_json(None, f"""Educational short video. For each SENTENCE pick the CANDIDATE image that best shows what the sentence says,
-so the viewer SEES what they HEAR. Only pick an image that clearly illustrates the specific content; generic or loosely related = null.
+so the viewer SEES what they HEAR. Prefer an image that shows the specific content; an image of the sentence's main subject is acceptable. Unrelated or misleading = null.
 If null, give a short English search query for Wikimedia Commons that would find a real photo/diagram illustrating that sentence.
 SENTENCES:\n{sents}\nCANDIDATES:\n{listing}
 Return JSON: {{"plan": [{{"sentence": n, "image": candidate number or null, "search": "query or null"}}]}}""")
@@ -202,7 +202,7 @@ Return JSON: {{"plan": [{{"sentence": n, "image": candidate number or null, "sea
     # vision check: does the image really show it?
     chosen = [k for k in pick if pick[k] is not None]
     parts = [{"text": "For each numbered SENTENCE + IMAGE pair, answer whether the image clearly and correctly illustrates what the sentence says "
-                      "(a viewer learning from it would not be confused). Be strict. If a TARGET is given, also return its bounding box [ymin,xmin,ymax,xmax] (0-1000). "
+                      "or at least shows its main subject. Answer false only if the image is unrelated or would mislead/confuse a learner. If a TARGET is given, also return its bounding box [ymin,xmin,ymax,xmax] (0-1000). "
                       "Return JSON {\"ok\": {\"<n>\": true/false}, \"box\": {\"<n>\": [ymin,xmin,ymax,xmax]}}"}]
     sent_ok = []
     for k in chosen:
