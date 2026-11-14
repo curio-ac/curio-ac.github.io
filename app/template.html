@@ -361,6 +361,10 @@ const unlock=e=>{document.removeEventListener("click",unlock,true);e.stopPropaga
   player.virt=null;[...feed.children].slice(0,4).forEach(x=>{if(!x._it.quiz)loadBuf(x._it.id)})};
 document.addEventListener("click",unlock,true);
 // יציאה מהאפליקציה / מסך נעול: עוצרים הכול, וממשיכים כשחוזרים
+// המסך לא נכבה בזמן צפייה (Wake Lock). בהשהייה משחררים, כדי שהטלפון יוכל להיכבות כרגיל
+let wake=null;
+async function keepAwake(on){try{if(on){if(!wake&&"wakeLock" in navigator&&!document.hidden){wake=await navigator.wakeLock.request("screen");wake.addEventListener("release",()=>{wake=null})}}else if(wake){await wake.release();wake=null}}catch(e){}}
+setInterval(()=>keepAwake(!!(AC&&cur&&!cur.paused&&!document.hidden)),2000);
 function fadeTo(v,d){if(!AC||!master)return;const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(v,t+d)}
 window.addEventListener("blur",()=>fadeTo(0,.04));
 window.addEventListener("focus",()=>{if(cur&&!cur.paused&&!document.hidden)fadeTo(muted?0:1,.12)});
