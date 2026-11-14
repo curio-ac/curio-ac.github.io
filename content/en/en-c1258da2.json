@@ -348,28 +348,27 @@
  },
  "images": [
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Submarine_Volcano_Fukutoku-Okanoba_Erupts_2010-02-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "license": "Public domain",
-   "artist": "NASA",
-   "page": "https://commons.wikimedia.org/wiki/File:Submarine_Volcano_Fukutoku-Okanoba_Erupts_2010-02-09.jpg",
-   "desc": "Submarine Volcano Fukutoku-Okanoba Erupts 2010-02-09 — The submarine volcano Fukutoku-Okanoba erupted in early February, releasing ash and steam plumes, and discoloring nearby ocean water. On February 9, 2010, the Advanced Spaceborne Thermal Emission and Refle"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/A_new_eruption_of_the_Home_Reef_volcano%2C_Tonga_%28Copernicus_2024-12-10%29.png/960px-A_new_eruption_of_the_Home_Reef_volcano%2C_Tonga_%28Copernicus_2024-12-10%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 509,
+   "license": "Attribution",
+   "artist": "European Union, Copernicus Sentinel-2 imagery",
+   "page": "https://commons.wikimedia.org/wiki/File:A_new_eruption_of_the_Home_Reef_volcano,_Tonga_(Copernicus_2024-12-10).png",
+   "desc": "A new eruption of the Home Reef volcano, Tonga (Copernicus 2024-12-10) — Home Reef is an underwater volcano in the Tonga Archipelago, characterised by cyclical eruptions which can last from a few days to several weeks. While not constantly active, its eruption"
   },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tectonic_plate_boundaries2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 408,
    "license": "Public domain",
    "artist": "USGS/USGov, modified by Eurico Zimbres",
    "page": "https://commons.wikimedia.org/wiki/File:Tectonic_plate_boundaries2.png",
    "desc": "Tectonic plate boundaries2 — Tectonics plates map internationalized. 1-Asthenosphere; 2-Lithosphere; 3-Hot spot; 4-Oceanic crust; 5-Subducting plate; 6-Continental crust; 7-Continental rift zone (young plate boundary); 8-Convergent boundary plate; 9"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HB.Rift.Zones.North.Island.NZ.jpg/960px-HB.Rift.Zones.North.Island.NZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "Public domain",
-   "artist": "ChaseKiwi",
-   "page": "https://commons.wikimedia.org/wiki/File:HB.Rift.Zones.North.Island.NZ.jpg",
-   "desc": "HB.Rift.Zones.North.Island.NZ — Intra-continental rifts North Island, New Zealand. Purple approximately delineates the active Hauraki Rift, red the active modern Taupō Rift and yellow the inactive old Taupō Rift and orange the inactive Hamilton Basin A"
-  },
-  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Hawaii_hotspot_cross-sectional_diagram.jpg/960px-Hawaii_hotspot_cross-sectional_diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 382,
    "license": "Public domain",
    "artist": "Joel E. Robinson, USGS.",
    "page": "https://commons.wikimedia.org/wiki/File:Hawaii_hotspot_cross-sectional_diagram.jpg",
@@ -394,7 +393,34 @@
   1,
   null,
   null,
-  2,
-  3
- ]
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3000,
+   "unit": "km",
+   "label": "mantle plumes depth"
+  }
+ ],
+ "geo": null
 }

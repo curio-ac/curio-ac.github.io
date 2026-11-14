@@ -308,7 +308,18 @@
  },
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg/960px-Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Garst, Warren, 1922-2016, photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg",
+   "desc": "Chameleon catching prey - DPLA - be0b8c96f3ee6b396f72d0578fbcc1c0 — 35 mm slide; color. Scientific Classification: Kingdom: Animalia; Phylum: Chordata; Class: Reptilia; Order: Squamata; Family: Chamaelonidae; Genus: Chamaelo; Genus species: Chamaelo sp. Animal"
+  },
+  {
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juvenile_Brookesia_micra_on_finger_tip.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
    "license": "CC BY 2.5",
    "artist": "Frank Glaw, Jörn Köhler, Ted M. Townsend, Miguel Vences",
    "page": "https://commons.wikimedia.org/wiki/File:Juvenile_Brookesia_micra_on_finger_tip.png",
@@ -316,6 +327,8 @@
   },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Calumma_Parsonii_Ste_Marie_Madagascar.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
    "license": "CC BY-SA 4.0",
    "artist": "JialiangGao www.peace-on-earth.org",
    "page": "https://commons.wikimedia.org/wiki/File:Calumma_Parsonii_Ste_Marie_Madagascar.jpg",
@@ -337,10 +350,46 @@
  "sent_img": [
   null,
   null,
-  null,
-  null,
-  null,
   0,
-  1
- ]
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 0.07,
+   "unit": "שניות",
+   "label": "מהירות שליחת לשון"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 600,
+   "unit": "הרץ",
+   "label": "טווח שמיעה עליון"
+  },
+  {
+   "type": "compare",
+   "value": 0.03,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "compare",
+   "value": 0.685,
+   "dim": "length",
+   "unit_value_in": "m"
+  }
+ ],
+ "geo": null
 }

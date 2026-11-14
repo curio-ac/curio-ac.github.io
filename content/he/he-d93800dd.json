@@ -264,15 +264,7 @@
    39
   ]
  },
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Humber_whale_catcher_%28NSM.2107-032%29.jpg/960px-Humber_whale_catcher_%28NSM.2107-032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "license": "Public domain",
-   "artist": "Unknown authorUnknown author",
-   "page": "https://commons.wikimedia.org/wiki/File:Humber_whale_catcher_(NSM.2107-032).jpg",
-   "desc": "Humber whale catcher (NSM.2107-032) — Hvalbåt 'Humber' (b. 1902) med mannskap på dekk"
-  }
- ],
+ "images": [],
  "source": {
   "title": "לווייתן כחול",
   "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%9F_%D7%9B%D7%97%D7%95%D7%9C",
@@ -289,8 +281,35 @@
   null,
   null,
   null,
-  0,
+  null,
   null,
   null
- ]
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 34,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 12000,
+   "unit": "פרטים",
+   "label": "אוכלוסייה עולמית"
+  }
+ ],
+ "geo": null
 }
