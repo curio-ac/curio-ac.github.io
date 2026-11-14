@@ -1,0 +1,425 @@
+{
+ "id": "en-6ea408ea",
+ "lang": "en",
+ "title": "The Truth About Chocolate",
+ "cat": "chemistry",
+ "emoji": "🍫",
+ "sentences": [
+  "Chocolate starts as seeds from a tree.",
+  "These seeds are fermented, dried, cleaned, and roasted.",
+  "Removing the shell reveals nibs, which are ground into chocolate liquor.",
+  "Manufacturers add sugar to create dark chocolate, or milk for milk chocolate.",
+  "White chocolate is made using only cocoa butter and milk.",
+  "This popular flavor is used in desserts like ice cream, mousse, and cookies."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Chocolate",
+    0.08,
+    0.08
+   ],
+   [
+    "starts",
+    0.08,
+    0.44
+   ],
+   [
+    "as",
+    0.44,
+    0.78
+   ],
+   [
+    "seeds",
+    0.78,
+    1.14
+   ],
+   [
+    "from",
+    1.14,
+    1.42
+   ],
+   [
+    "a",
+    1.42,
+    1.54
+   ],
+   [
+    "tree.",
+    1.54,
+    1.74
+   ],
+   [
+    "These",
+    2.54,
+    2.62
+   ],
+   [
+    "seeds",
+    2.62,
+    2.94
+   ],
+   [
+    "are",
+    2.94,
+    3.16
+   ],
+   [
+    "fermented,",
+    3.16,
+    3.84
+   ],
+   [
+    "dried,",
+    4.2,
+    4.76
+   ],
+   [
+    "cleaned,",
+    5.04,
+    5.62
+   ],
+   [
+    "and",
+    5.64,
+    5.68
+   ],
+   [
+    "roasted.",
+    5.68,
+    5.98
+   ],
+   [
+    "Removing",
+    6.86,
+    7.18
+   ],
+   [
+    "the",
+    7.18,
+    7.32
+   ],
+   [
+    "shell",
+    7.32,
+    7.54
+   ],
+   [
+    "reveals",
+    7.54,
+    7.9
+   ],
+   [
+    "nibs,",
+    7.9,
+    8.4
+   ],
+   [
+    "which",
+    8.7,
+    8.8
+   ],
+   [
+    "are",
+    8.8,
+    8.92
+   ],
+   [
+    "ground",
+    8.92,
+    9.22
+   ],
+   [
+    "into",
+    9.22,
+    9.48
+   ],
+   [
+    "chocolate",
+    9.48,
+    9.9
+   ],
+   [
+    "liquor.",
+    9.9,
+    10.12
+   ],
+   [
+    "Manufacturers",
+    11.0,
+    11.74
+   ],
+   [
+    "add",
+    11.74,
+    12.04
+   ],
+   [
+    "sugar",
+    12.1,
+    12.36
+   ],
+   [
+    "to",
+    12.36,
+    12.7
+   ],
+   [
+    "create",
+    12.82,
+    12.96
+   ],
+   [
+    "dark",
+    12.96,
+    13.28
+   ],
+   [
+    "chocolate,",
+    13.28,
+    13.82
+   ],
+   [
+    "or",
+    14.2,
+    14.32
+   ],
+   [
+    "milk",
+    14.32,
+    14.66
+   ],
+   [
+    "for",
+    14.96,
+    15.06
+   ],
+   [
+    "milk",
+    15.06,
+    15.34
+   ],
+   [
+    "chocolate.",
+    15.34,
+    15.6
+   ],
+   [
+    "White",
+    16.4,
+    16.56
+   ],
+   [
+    "chocolate",
+    16.56,
+    16.9
+   ],
+   [
+    "is",
+    16.9,
+    17.16
+   ],
+   [
+    "made",
+    17.16,
+    17.34
+   ],
+   [
+    "using",
+    17.34,
+    17.6
+   ],
+   [
+    "only",
+    17.6,
+    17.98
+   ],
+   [
+    "cocoa",
+    17.98,
+    18.3
+   ],
+   [
+    "butter",
+    18.3,
+    18.6
+   ],
+   [
+    "and",
+    18.6,
+    18.82
+   ],
+   [
+    "milk.",
+    18.82,
+    19.04
+   ],
+   [
+    "This",
+    19.78,
+    19.88
+   ],
+   [
+    "popular",
+    19.88,
+    20.22
+   ],
+   [
+    "flavor",
+    20.22,
+    20.64
+   ],
+   [
+    "is",
+    20.64,
+    20.9
+   ],
+   [
+    "used",
+    20.9,
+    21.1
+   ],
+   [
+    "in",
+    21.1,
+    21.32
+   ],
+   [
+    "desserts",
+    21.32,
+    21.54
+   ],
+   [
+    "like",
+    21.54,
+    21.88
+   ],
+   [
+    "ice",
+    22.02,
+    22.16
+   ],
+   [
+    "cream,",
+    22.16,
+    22.81
+   ],
+   [
+    "mousse,",
+    22.88,
+    23.04
+   ],
+   [
+    "and",
+    23.32,
+    23.38
+   ],
+   [
+    "cookies.",
+    23.38,
+    23.48
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   26,
+   38,
+   48
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Cocoa_Pods.JPG/960px-Cocoa_Pods.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "Public domain",
+   "artist": "Photo by Medicaster.",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocoa_Pods.JPG",
+   "desc": "Cocoa Pods — A cacao tree with fruit pods in various stages of ripening. Taken on the Big Island (Hawaii) in the botanical gardens."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._%2810687048615%29.jpg/960px-Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._%2810687048615%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "CC BY 2.0",
+   "artist": "Irene Scott/AusAID",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._(10687048615).jpg",
+   "desc": "Cocoa farmer David Kebu Jnr holding fermenting cocoa beans. (10687048615) — Cocoa farmer David Kebu Jnr holding fermenting cocoa beans. Photo taken by Irene Scott for AusAID. (13/2529)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Conche.jpg/960px-Conche.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY 2.0",
+   "artist": "Lisa Davis",
+   "page": "https://commons.wikimedia.org/wiki/File:Conche.jpg",
+   "desc": "Conche — A longitudinal conche, used to refine and conch the chocolate"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Cadbury-Dairy-Milk-Caramel-Bar.jpg/960px-Cadbury-Dairy-Milk-Caramel-Bar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 398,
+   "license": "Public domain",
+   "artist": "Evan-Amos",
+   "page": "https://commons.wikimedia.org/wiki/File:Cadbury-Dairy-Milk-Caramel-Bar.jpg",
+   "desc": "Cadbury-Dairy-Milk-Caramel-Bar — A Cadbury Dairy Milk chocolate bar, filled with caramel (not visible on the illustration)."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "cacao tree seeds",
+   "box": [
+    370,
+    300,
+    630,
+    515
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "cacao nibs",
+   "box": [
+    385,
+    70,
+    880,
+    700
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Chocolate",
+  "url": "https://en.wikipedia.org/wiki/Chocolate",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}

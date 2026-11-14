@@ -1,7 +1,9 @@
 {
  "done": [
   "Blue whale",
-  "Volcano"
+  "Volcano",
+  "Coffee",
+  "Chocolate"
  ],
  "rejected": [
   "Chameleon"
@@ -12,6 +14,12 @@
   ],
   "Volcano": [
    "Volcanoes Are Mostly Underwater: Most volcanoes are actually hidden underwater."
+  ],
+  "Coffee": [
+   "The Truth About Coffee: Coffee beans are actually fruit seeds."
+  ],
+  "Chocolate": [
+   "The Truth About Chocolate: Chocolate starts as seeds from a tree."
   ]
  },
  "exhausted": []

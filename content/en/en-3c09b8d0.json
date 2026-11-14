@@ -1,0 +1,448 @@
+{
+ "id": "en-3c09b8d0",
+ "lang": "en",
+ "title": "The Truth About Coffee",
+ "cat": "history",
+ "emoji": "☕",
+ "sentences": [
+  "Coffee beans are actually fruit seeds.",
+  "These seeds come from the Coffea plant's cherries.",
+  "First, they are separated, roasted, and ground into fine particles.",
+  "Brewing involves steeping these grounds in hot water.",
+  "People often add milk, cream, or sugar to change the flavor.",
+  "The earliest coffee drinking dates back to 15th century Yemen.",
+  "It started with Sufis and became a global commodity."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Coffee",
+    0.08,
+    0.28
+   ],
+   [
+    "beans",
+    0.28,
+    0.6
+   ],
+   [
+    "are",
+    0.6,
+    0.84
+   ],
+   [
+    "actually",
+    0.84,
+    1.28
+   ],
+   [
+    "fruit",
+    1.28,
+    1.62
+   ],
+   [
+    "seeds.",
+    1.62,
+    2.0
+   ],
+   [
+    "These",
+    2.52,
+    2.6
+   ],
+   [
+    "seeds",
+    2.6,
+    2.9
+   ],
+   [
+    "come",
+    2.9,
+    3.14
+   ],
+   [
+    "from",
+    3.14,
+    3.4
+   ],
+   [
+    "the",
+    3.4,
+    3.56
+   ],
+   [
+    "Coffea",
+    3.84,
+    4.08
+   ],
+   [
+    "plant's",
+    4.42,
+    4.52
+   ],
+   [
+    "cherries.",
+    4.52,
+    5.12
+   ],
+   [
+    "First,",
+    5.5,
+    5.82
+   ],
+   [
+    "they",
+    5.84,
+    5.84
+   ],
+   [
+    "are",
+    5.84,
+    5.96
+   ],
+   [
+    "separated,",
+    5.96,
+    6.26
+   ],
+   [
+    "roasted,",
+    6.8,
+    7.38
+   ],
+   [
+    "and",
+    7.38,
+    7.46
+   ],
+   [
+    "ground",
+    7.46,
+    7.72
+   ],
+   [
+    "into",
+    7.72,
+    7.94
+   ],
+   [
+    "fine",
+    7.94,
+    8.32
+   ],
+   [
+    "particles.",
+    8.32,
+    8.66
+   ],
+   [
+    "Brewing",
+    9.56,
+    9.82
+   ],
+   [
+    "involves",
+    9.82,
+    10.1
+   ],
+   [
+    "steeping",
+    10.1,
+    10.56
+   ],
+   [
+    "these",
+    10.56,
+    10.78
+   ],
+   [
+    "grounds",
+    10.78,
+    11.08
+   ],
+   [
+    "in",
+    11.08,
+    11.38
+   ],
+   [
+    "hot",
+    11.38,
+    11.6
+   ],
+   [
+    "water.",
+    11.6,
+    11.86
+   ],
+   [
+    "People",
+    12.62,
+    12.74
+   ],
+   [
+    "often",
+    12.74,
+    13.04
+   ],
+   [
+    "add",
+    13.04,
+    13.3
+   ],
+   [
+    "milk,",
+    13.3,
+    13.74
+   ],
+   [
+    "cream,",
+    13.78,
+    14.34
+   ],
+   [
+    "or",
+    14.42,
+    14.54
+   ],
+   [
+    "sugar",
+    14.54,
+    14.82
+   ],
+   [
+    "to",
+    14.82,
+    15.12
+   ],
+   [
+    "change",
+    15.2,
+    15.3
+   ],
+   [
+    "the",
+    15.3,
+    15.46
+   ],
+   [
+    "flavor.",
+    15.46,
+    16.16
+   ],
+   [
+    "The",
+    16.4,
+    16.5
+   ],
+   [
+    "earliest",
+    16.5,
+    16.74
+   ],
+   [
+    "coffee",
+    16.74,
+    17.22
+   ],
+   [
+    "drinking",
+    17.22,
+    17.58
+   ],
+   [
+    "dates",
+    17.58,
+    17.88
+   ],
+   [
+    "back",
+    17.88,
+    18.18
+   ],
+   [
+    "to",
+    18.18,
+    18.4
+   ],
+   [
+    "15th",
+    18.54,
+    19.38
+   ],
+   [
+    "century",
+    19.38,
+    19.38
+   ],
+   [
+    "Yemen.",
+    19.38,
+    19.66
+   ],
+   [
+    "It",
+    20.26,
+    20.36
+   ],
+   [
+    "started",
+    20.36,
+    20.56
+   ],
+   [
+    "with",
+    20.56,
+    20.8
+   ],
+   [
+    "Sufis",
+    20.8,
+    21.3
+   ],
+   [
+    "and",
+    21.3,
+    21.68
+   ],
+   [
+    "became",
+    21.68,
+    21.96
+   ],
+   [
+    "a",
+    21.96,
+    22.08
+   ],
+   [
+    "global",
+    22.18,
+    22.38
+   ],
+   [
+    "commodity.",
+    22.38,
+    22.92
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   24,
+   32,
+   43,
+   53
+  ]
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Coffee_beans_unroasted.jpg/960px-Coffee_beans_unroasted.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 490,
+   "license": "CC BY-SA 4.0",
+   "artist": "Isai Symens",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_beans_unroasted.jpg",
+   "desc": "Coffee beans unroasted — Coffee beans"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Coffee_berries.jpg/960px-Coffee_berries.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Cornellier",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_berries.jpg",
+   "desc": "Coffee berries — Arabica coffee berries on the bush"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/D%C3%BClmen%2C_Privatr%C3%B6sterei_Schr%C3%B6er%2C_Kaffeebeh%C3%A4lter_--_2018_--_0529.jpg/960px-D%C3%BClmen%2C_Privatr%C3%B6sterei_Schr%C3%B6er%2C_Kaffeebeh%C3%A4lter_--_2018_--_0529.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 521,
+   "license": "CC BY-SA 4.0",
+   "artist": "Dietmar Rabich",
+   "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Privatr%C3%B6sterei_Schr%C3%B6er,_Kaffeebeh%C3%A4lter_--_2018_--_0529.jpg",
+   "desc": "Dülmen, Privatrösterei Schröer, Kaffeebehälter -- 2018 -- 0529 — Coffee bins at Schröers Privatrösterei, Dülmen, North Rhine-Westphalia, Germany"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/CXLT_Coffee.jpg/960px-CXLT_Coffee.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1009,
+   "license": "CC BY 3.0",
+   "artist": "FoxLad (talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:CXLT_Coffee.jpg",
+   "desc": "CXLT Coffee — A 500 gram bag of coffee beans purchased from a grocery. Cost about $4."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/French_School_-_Enjoying_Coffee_-_Google_Art_Project.jpg/960px-French_School_-_Enjoying_Coffee_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 786,
+   "license": "Public domain",
+   "artist": "French School Details on Google Art Project",
+   "page": "https://commons.wikimedia.org/wiki/File:French_School_-_Enjoying_Coffee_-_Google_Art_Project.jpg",
+   "desc": "French School - Enjoying Coffee - Google Art Project — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/1004-CoffeeSceneCairo18th.jpg/960px-1004-CoffeeSceneCairo18th.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 485,
+   "license": "Public domain",
+   "artist": "G. W. Seitz",
+   "page": "https://commons.wikimedia.org/wiki/File:1004-CoffeeSceneCairo18th.jpg",
+   "desc": "1004-CoffeeSceneCairo18th — Cairo: a coffee-house with men sitting on wooden benches to smoke and drink. Colour lithograph by G.W. Seitz, ca. 1878, after Carl Werner, 1871."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  null
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "coffee bean",
+   "box": [
+    216,
+    165,
+    628,
+    431
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 15
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "source": {
+  "title": "Coffee",
+  "url": "https://en.wikipedia.org/wiki/Coffee",
+  "license": "CC BY-SA 4.0"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-14",
+ "trimmed": true
+}
