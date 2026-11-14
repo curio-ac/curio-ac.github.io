@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency: factory
 
@@ -52,3 +53,8 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "factory: ${{ matrix.lang }} $(date +%F)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+      - name: publish to the app right away
+        if: always()
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}

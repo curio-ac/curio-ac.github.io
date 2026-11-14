@@ -340,8 +340,9 @@ const unlock=()=>{document.removeEventListener("click",unlock,true);initAudio();
   [...feed.children].slice(0,4).forEach(e=>{if(!e._it.quiz)loadBuf(e._it.id)})};
 document.addEventListener("click",unlock,true);
 // יציאה מהאפליקציה / מסך נעול: עוצרים הכול, וממשיכים כשחוזרים
-function bgPause(){player.pause();if(AC)AC.suspend()}
-document.addEventListener("visibilitychange",()=>{if(document.hidden)bgPause();else if(cur&&!cur.paused&&!cur.it.quiz){player.play().catch(()=>{});if(AC)AC.resume()}});
+function bgPause(){if(!AC){player.pause();return}const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(master.gain.value,t);master.gain.linearRampToValueAtTime(0,t+.05);
+  setTimeout(()=>{player.pause();AC.suspend()},70)} // דעיכה לפני עצירה, בלי קליק
+document.addEventListener("visibilitychange",()=>{if(document.hidden)bgPause();else if(cur&&!cur.paused&&!cur.it.quiz){if(AC)AC.resume().then(()=>{const t=AC.currentTime;master.gain.cancelScheduledValues(t);master.gain.setValueAtTime(0,t);master.gain.linearRampToValueAtTime(muted?0:1,t+.12)});player.play().catch(()=>{})}});
 window.addEventListener("pagehide",bgPause);window.addEventListener("blur",()=>{if(document.hidden)bgPause()});
 $("btnSound").onclick=()=>{muted=!muted;player.muted=muted;if(master)master.gain.value=muted?0:1;$("btnSound").innerHTML=muted?ICON.mute:ICON.snd};
 $("btnStats").onclick=()=>{
