@@ -12,7 +12,7 @@ aud = {v["id"]: f"audio/{v['lang']}/{v['id']}.mp3" for v in V}
 open("site/feed.js", "w", encoding="utf8").write(
     "const V=" + json.dumps(V, ensure_ascii=False, separators=(",", ":")) + ";\nconst AUD=" + json.dumps(aud) +
     ";\nwindow.WORLD=" + json.dumps(open("app/world.txt").read()) + ";")
-html = open("app/template.html", encoding="utf8").read().replace("<script>\n/*DATA*/\n/*WORLD*/", '<script src="feed.js"></script>\n<script>')
+html = open("app/template.html", encoding="utf8").read().replace("<script>\n/*DATA*/\n/*WORLD*/", f'<script src="feed.js?v={int(__import__("time").time())}"></script>\n<script>')
 open("site/index.html", "w", encoding="utf8").write(html)
 shutil.copytree("audio", "site/audio", dirs_exist_ok=True)
 json.dump({"name": "Curio", "short_name": "Curio", "start_url": ".", "display": "standalone", "background_color": "#1a0b3d",
