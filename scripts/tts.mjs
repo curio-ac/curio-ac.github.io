@@ -14,8 +14,8 @@ fs.mkdirSync("audio", { recursive: true });
 let voiceId = process.env.VOICE_ID;
 if (!voiceId) {
   const r = await fetch(`${API}/voices`, { headers: H });
-  if (!r.ok) throw new Error(`voices: ${r.status} ${await r.text()}`);
-  const { voices } = await r.json();
+  // בלי הרשאת voices_read - משתמשים בקול המובנה Sarah
+  const { voices } = r.ok ? await r.json() : { voices: [{ voice_id: "EXAVITQu4vr4xnSDxMaL", name: "Sarah (ברירת מחדל)" }] };
   console.log("קולות זמינים:\n" + voices.map(v => `  ${v.voice_id}  ${v.name}  ${JSON.stringify(v.labels || {})}`).join("\n"));
   const pref = ["Sarah", "Rachel", "Aria", "Laura", "Jessica"];
   const v = pref.map(n => voices.find(x => x.name?.startsWith(n))).find(Boolean) || voices[0];
