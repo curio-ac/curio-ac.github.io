@@ -4,3 +4,4 @@ phonikud-onnx
 phonikud-tts
 kokoro
 soundfile
+faster-whisper

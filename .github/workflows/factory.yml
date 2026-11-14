@@ -33,6 +33,10 @@ jobs:
         with:
           path: ~/.cache/whisper
           key: whisper-small
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: asr-v1
       - name: install
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng

@@ -387,7 +387,7 @@ def rebuild_feed():
     for f in glob.glob("content/*/*.json"):
         if f.endswith(("index.json", "feed.json")): continue
         v = json.load(open(f, encoding="utf8"))
-        if os.path.exists(f"audio/{v['lang']}/{v['id']}.mp3"):
+        if os.path.exists(f"audio/{v['lang']}/{v['id']}.mp3") and not v.get("hidden"):
             vids.append({"id": v["id"], "lang": v["lang"], "cat": v["cat"], "created": v.get("created", ""), "qid": v.get("qid"), "angle": v.get("angle", 0)})
     vids.sort(key=lambda x: x["created"], reverse=True)
     json.dump({"updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "videos": vids}, open("content/feed.json", "w", encoding="utf8"), ensure_ascii=False)
@@ -408,6 +408,74 @@ def publish(msg):
     print("   ⚠️ push failed; will retry at the end")
 
 
+# ---------- voice with a pronunciation gate ----------
+HE_TTS = os.environ.get("HE_TTS", "gemini-3.8-flash-tts").split(",")  # Hebrew: only the voice that passed the listening test
+MAX_WER = float(os.environ.get("MAX_WER", "0.08"))
+
+
+class BadVoice(Exception):
+    pass
+
+
+def speech_text(lang, sentences):
+    text = " ".join(sentences)
+    if lang != "he":
+        return text
+    r = gen_json(None, "Rewrite this Hebrew narration for a text-to-speech engine: write every number in Hebrew words with the correct "
+                       "grammatical gender (3 לבבות -> שלושה לבבות, 1450 -> אלף ארבע מאות חמישים). Do NOT add niqqud. Change nothing else. "
+                       f'Return JSON {{"text": "..."}}. TEXT: {text}')
+    return r.get("text") or text
+
+
+def record(lang, sentences, mp3, stats):
+    """TTS -> align -> trim -> listen back with speech recognition. Returns (voice, tim, wer)."""
+    from pron import check
+    spoken = speech_text(lang, sentences); stats["calls"] += 1
+    shown = " ".join(sentences)
+    for attempt in range(2):
+        voice = None
+        models = HE_TTS if lang == "he" else TTS_MODELS
+        while models:
+            try:
+                tts(models[0], spoken, lang, mp3); stats["calls"] += 1; voice = f"{models[0]}/{VOICE}"; break
+            except (Quota, RuntimeError) as e:
+                if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
+                    raise
+                print(f"   ↪ tts {models[0]} unavailable", flush=True); models.pop(0)
+        if not voice:
+            if lang == "he":
+                raise Quota("Hebrew premium voice exhausted for today")
+            local_tts(spoken, lang, mp3); voice = "open-source (kokoro)"
+        tim = align(mp3, sentences, lang)
+        trim(mp3, tim)
+        w, heard = check(mp3, shown, lang)
+        if w <= MAX_WER:
+            return voice, tim, w
+        print(f"   🔁 pronunciation {round(w*100,1)}% off, re-recording", flush=True)
+    raise BadVoice(f"{round(w*100,1)}% of words misheard")
+
+
+def repair(lang, n, stats):
+    """Re-record videos the audit pulled from the feed (script already fact-checked); put them back if they pass."""
+    import glob
+    done = 0
+    for f in sorted(glob.glob(f"content/{lang}/*.json")):
+        if done >= n: break
+        if f.endswith(("index.json", "feed.json")): continue
+        v = json.load(open(f, encoding="utf8"))
+        if not (v.get("hidden") and v.get("needs_voice")): continue
+        mp3 = f"audio/{lang}/{v['id']}.mp3"
+        try:
+            v["ai"]["voice"], v["tim"], v["pron_wer"] = record(lang, v["sentences"], mp3, stats)
+            v["hidden"] = False; v["needs_voice"] = False; v["trimmed"] = True
+            print(f"🛠 {v['id']} re-recorded ({round(v['pron_wer']*100,1)}%)", flush=True)
+        except BadVoice as e:
+            print(f"🛠 {v['id']} still failing: {e}"); v["needs_voice"] = False
+        json.dump(v, open(f, "w", encoding="utf8"), ensure_ascii=False, indent=1)
+        rebuild_feed(); publish(f"repair {v['id']}"); done += 1
+    return done
+
+
 # ---------- main ----------
 def main():
     ap = argparse.ArgumentParser()
@@ -425,6 +493,10 @@ def main():
     text_m, tts_m = TEXT_MODELS[0], TTS_MODELS[0]
     print(f"models: text={text_m} tts={tts_m} | {len(todo)} topics", flush=True)
     stats = {"made": 0, "rejected": 0, "calls": 0}
+    try:
+        stats["repaired"] = repair(lang, max(1, a.count // 2), stats)
+    except Quota as e:
+        print(f"⛔ {e}"); rebuild_feed(); publish(f"feed {lang}"); print(f"\nSUMMARY {lang}: {stats}"); return
     for topic in todo:
         try:
             art = fetch_article(lang, topic)
@@ -446,25 +518,16 @@ def main():
                 index["rejected"].append(topic); stats["rejected"] += 1; continue
             vid = lang + "-" + hashlib.md5((art["title"] + (str(len(prev)) if prev else "")).encode()).hexdigest()[:8]
             mp3 = f"audio/{lang}/{vid}.mp3"
-            spoken = " ".join(sc["sentences"])
-            voice = None
-            while TTS_MODELS:
-                try:
-                    tts(TTS_MODELS[0], niqqud(spoken) if lang == "he" else spoken, lang, mp3); stats["calls"] += 1; voice = f"{TTS_MODELS[0]}/{VOICE}"; break
-                except (Quota, RuntimeError) as e:
-                    if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
-                        raise
-                    print(f"   ↪ tts {TTS_MODELS[0]} unavailable, switching", flush=True); TTS_MODELS.pop(0)
-            if not voice:
-                local_tts(spoken, lang, mp3); voice = "open-source (piper)" if lang == "he" else "open-source (kokoro)"
-            tim = align(mp3, sc["sentences"], lang)
-            trim(mp3, tim)
+            try:
+                voice, tim, pw = record(lang, sc["sentences"], mp3, stats)
+            except BadVoice as e:
+                print(f"✗ {topic}: pronunciation check failed ({e})"); index["rejected"].append(topic); stats["rejected"] += 1; continue
             vis = plan_visuals(sc["sentences"], art); geo = fetch_geo(lang, art["title"]); stats["calls"] += 1
             if not geo:
                 vis = [v if v.get("type") != "map" else {"type": "image"} for v in vis]
             imgs, sent_img = plan_images(sc["sentences"], fetch_images(lang, art["title"], art["lead"]), vis); stats["calls"] += 2
             json.dump({"id": vid, "lang": lang, "title": sc["title"], "cat": sc["category"] if sc["category"] in CATS else "history",
-                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo, "qid": fetch_qid(lang, art["title"]), "angle": len(prev),
+                       "emoji": sc.get("emoji", "✨"), "sentences": sc["sentences"], "tim": tim, "images": imgs, "sent_img": sent_img, "vis": vis, "geo": geo, "qid": fetch_qid(lang, art["title"]), "pron_wer": pw, "angle": len(prev),
                        "source": {"title": art["title"], "url": art["url"], "license": "CC BY-SA 4.0"},
                        "ai": {"script": text_m, "voice": voice, "fact_check": "passed"},
                        "created": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "trimmed": True},
