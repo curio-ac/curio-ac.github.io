@@ -66,7 +66,8 @@ def gen_json(model, prompt):
     """model arg ignored: walks TEXT_MODELS, dropping a model that times out / is overloaded / out of quota."""
     while TEXT_MODELS:
         try:
-            return _gen_json(TEXT_MODELS[0], prompt)
+            r = _gen_json(TEXT_MODELS[0], prompt)
+            return r[0] if isinstance(r, list) and len(r) == 1 and isinstance(r[0], dict) else r
         except (Quota, RuntimeError) as e:
             if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429)", str(e)):
                 raise
@@ -424,7 +425,7 @@ def speech_text(lang, sentences):
     r = gen_json(None, "Rewrite this Hebrew narration for a text-to-speech engine: write every number in Hebrew words with the correct "
                        "grammatical gender (3 לבבות -> שלושה לבבות, 1450 -> אלף ארבע מאות חמישים). Do NOT add niqqud. Change nothing else. "
                        f'Return JSON {{"text": "..."}}. TEXT: {text}')
-    return r.get("text") or text
+    return (r.get("text") if isinstance(r, dict) else None) or text
 
 
 def record(lang, sentences, mp3, stats):
