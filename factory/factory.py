@@ -361,7 +361,8 @@ def trim(mp3, tim):
     """Cut model noise: start 0.08s before the first word, end 0.3s after the last; shift timings."""
     if not tim["w"]:
         return
-    st = max(0.0, tim["w"][0][1] - 0.35); end  # keep a short lead-in so the first word is never clipped = tim["w"][-1][2] + 0.3; d = end - st; tmp = mp3 + ".tmp.mp3"
+    # keep a short lead-in so the first word is never clipped
+    st = max(0.0, tim["w"][0][1] - 0.35); end = tim["w"][-1][2] + 0.3; d = end - st; tmp = mp3 + ".tmp.mp3"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{st:.3f}", "-i", mp3, "-t", f"{d:.3f}",
                     "-af", f"afade=t=in:d=0.02,afade=t=out:st={d-0.15:.3f}:d=0.15", "-b:a", "64k", tmp], check=True)
     os.replace(tmp, mp3)
