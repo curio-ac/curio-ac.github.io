@@ -1,0 +1,31 @@
+{
+ "videos": [
+  "he-1a23cf56",
+  "he-1a9bb1a4",
+  "he-21bae0fe"
+ ],
+ "per_engine": {
+  "gemini-3.1-flash-tts-preview": [
+   0.175,
+   0.159,
+   0.044
+  ],
+  "gemini-2.5-flash-preview-tts": [
+   0.175,
+   0.205,
+   0.067
+  ],
+  "gemini-2.5-pro-preview-tts": [],
+  "piper": [
+   0.228,
+   0.341,
+   0.289
+  ]
+ },
+ "avg_percent": {
+  "gemini-3.1-flash-tts-preview": 12.6,
+  "gemini-2.5-flash-preview-tts": 14.9,
+  "gemini-2.5-pro-preview-tts": null,
+  "piper": 28.6
+ }
+}
