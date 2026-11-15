@@ -112,7 +112,7 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 <body>
 <div id="top"><div class="logo">curio</div><div><button id="btnStats" aria-label="מה האלגוריתם למד"><svg viewBox="0 0 24 24"><path d="M5 20v-8M12 20V5M19 20v-11"/></svg></button><button id="btnSound" aria-label="קול"><svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z"/><path d="M15.5 9.5a3.5 3.5 0 0 1 0 5M18 7a7 7 0 0 1 0 10"/></svg></button></div></div>
 <div id="feed"></div>
-<div id="panel" class="ov"><div class="box"><h3>מה האלגוריתם למד עליך</h3><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
+<div id="panel" class="ov"><div class="box"><h3>מה האלגוריתם למד עליך</h3><div class="sub" id="bank"></div><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
 <div id="toast"></div>
 <div id="unmute"><svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z"/><path d="M16 9.5l5 5M21 9.5l-5 5"/></svg><span>הקש להפעלת קול · Tap to unmute</span></div>
 <script src="world.js"></script>
@@ -143,8 +143,8 @@ function prep(v){
 
 // ---------- אחסון מקומי ----------
 let st={};try{st=JSON.parse(localStorage.getItem("curio")||"{}")}catch(e){}
-const W=st.w||{},liked=new Set(st.l||[]),saved=new Set(st.s||[]);
-const save=()=>{try{localStorage.setItem("curio",JSON.stringify({w:W,l:[...liked],s:[...saved]}))}catch(e){}};
+const W=st.w||{},liked=new Set(st.l||[]),saved=new Set(st.s||[]),SEEN=new Set(st.v||[]); // סרטונים שכבר נצפו, נשמר בין כניסות
+const save=()=>{try{localStorage.setItem("curio",JSON.stringify({w:W,l:[...liked],s:[...saved],v:[...SEEN].slice(-5000)}))}catch(e){}};
 const w=c=>W[c]??1;
 const bump=(c,d)=>{W[c]=Math.round(Math.max(.2,Math.min(10,w(c)+d))*100)/100;save()};
 
@@ -152,7 +152,10 @@ const bump=(c,d)=>{W[c]=Math.round(Math.max(.2,Math.min(10,w(c)+d))*100)/100;sav
 const shownQ={},used=new Set(),quizDone=new Set(),seenRefs=new Set();let sinceQuiz=0;
 function pick(){
   if(sinceQuiz>=4){const q=Q.find(q=>!quizDone.has(q.id)&&seenRefs.has(q.ref));if(q){quizDone.add(q.id);sinceQuiz=0;return{quiz:q,cat:q.cat}}}
-  let pool=V.filter(x=>!used.has(x.id)&&LANGS.includes(x.lang)&&!(x.qid&&shownQ[x.qid]&&shownQ[x.qid]!==x.lang)); // אותו נושא לא יופיע בשתי שפות
+  const ok=x=>!used.has(x.id)&&LANGS.includes(x.lang)&&!(x.qid&&shownQ[x.qid]&&shownQ[x.qid]!==x.lang); // אותו נושא לא יופיע בשתי שפות
+  let pool=V.filter(x=>ok(x)&&!SEEN.has(x.id)); // קודם רק סרטונים שעוד לא ראית
+  if(!pool.length&&!pick.allSeen&&V.length){pick.allSeen=1;toast("ראית את כל הסרטונים. חדשים מגיעים כל יום")}
+  if(!pool.length)pool=V.filter(ok).sort((a,b)=>(a.created>b.created?-1:1));
   if(fresh>0){const nw=pool.filter(x=>x.created===V.reduce((m,y)=>y.created>m?y.created:m,""));if(nw.length){fresh--;const x=nw[0];used.add(x.id);if(x.qid)shownQ[x.qid]=x.lang;sinceQuiz++;return x}}
   if(!pool.length){used.clear();toast("מתחילים סבב חדש");pool=V.filter(x=>LANGS.includes(x.lang)&&!(x.qid&&shownQ[x.qid]&&shownQ[x.qid]!==x.lang))}
   let r=Math.random()*pool.reduce((a,x)=>a+w(x.cat),0);
@@ -307,7 +310,7 @@ function activate(el){
   if(it.quiz){player.pause();return}
   if(!AC){const w=it.tim.w;player.virt={t0:performance.now(),dur:(w.length?w[w.length-1][2]:20)+.3}} // לפני הנגיעה הראשונה: רץ בלי קול
   else{const go=()=>{if(master){master.gain.cancelScheduledValues(AC.currentTime);master.gain.setValueAtTime(muted?0:1,AC.currentTime)}};if(AC.state!=="running")AC.resume().then(go);go()} // אחרי השהייה בסרטון הקודם: מחזירים את הקול
-  seenRefs.add(it.id);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
+  seenRefs.add(it.id);setTimeout(()=>{if(cur&&cur.it===it){SEEN.add(it.id);save()}},3000);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   const tt=el.querySelector(".ttl");if(tt){tt.classList.add("big");clearTimeout(tt._t);tt._t=setTimeout(()=>tt.classList.remove("big"),1400)}
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
   player._stop();setTimeout(()=>{if(cur&&cur.it===it)player.open(it.id)},300); // רגע קטן אחרי הגלילה, כדי שהמילה הראשונה לא תיבלע
@@ -375,6 +378,8 @@ window.addEventListener("pagehide",bgPause);window.addEventListener("blur",()=>{
 $("btnSound").onclick=()=>{muted=!muted;player.muted=muted;if(master)master.gain.value=muted?0:1;$("btnSound").innerHTML=muted?ICON.mute:ICON.snd};
 $("btnStats").onclick=()=>{
   const max=Math.max(...Object.keys(CATS).map(w));
+  const tot=V.length,unseen=V.filter(x=>!SEEN.has(x.id)).length,today=V.filter(x=>(x.created||"").slice(0,10)===new Date().toISOString().slice(0,10)).length;
+  $("bank").innerHTML=`סרטונים בבנק: <b>${tot}</b> · עוד לא ראית: <b>${unseen}</b> · נוספו היום: <b>${today}</b>`;
   $("rows").innerHTML=Object.keys(CATS).sort((a,b)=>w(b)-w(a)).map(c=>`<div class="row"><span>${lab(c,"he")}</span><div class="bar"><i style="width:${w(c)/max*100}%"></i></div><b>${w(c).toFixed(1)}</b></div>`).join("");
   $("panel").classList.add("on");if(cur&&!cur.paused&&!cur.it.quiz)togglePause();
 };
