@@ -13,7 +13,7 @@ for f in sorted(glob.glob("content/*/*.json")):
     voice = v.get("ai", {}).get("voice", "")
     reasons = []
     if v["pron_wer"] > MAX_WER: reasons.append(f"pronunciation {round(v['pron_wer']*100,1)}%")
-    if lang == "he" and not any(voice.startswith(m) for m in HE_TTS): reasons.append(f"voice {voice}")
+    if lang == "he" and not voice.startswith("gemini"): reasons.append(f"voice {voice}")
     if reasons:
         v["hidden"] = True; v["needs_voice"] = True; v["hidden_reason"] = reasons; pulled += 1
     print(("⛔ " if reasons else "✅ ") + v["id"], round(v["pron_wer"] * 100, 1), "%", "; ".join(reasons), flush=True)

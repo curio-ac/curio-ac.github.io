@@ -412,7 +412,7 @@ def publish(msg):
 
 
 # ---------- voice with a pronunciation gate ----------
-HE_TTS = os.environ.get("HE_TTS", "gemini-3.8-flash-tts").split(",")  # Hebrew: only the voice that passed the listening test
+HE_TTS = os.environ.get("HE_TTS", "gemini-3.8-flash-tts,gemini-3.1-flash-tts-preview,gemini-2.5-flash-preview-tts").split(",")  # Hebrew: Gemini voices only; every take must pass the listening gate
 MAX_WER = float(os.environ.get("MAX_WER", "0.08"))
 
 
@@ -431,31 +431,35 @@ def speech_text(lang, sentences):
 
 
 def record(lang, sentences, mp3, stats):
-    """TTS -> align -> trim -> listen back with speech recognition. Returns (voice, tim, wer)."""
+    """TTS -> align -> trim -> listen back. Tries each voice in turn; only a recording that passes the gate is kept."""
     from pron import check
     spoken = speech_text(lang, sentences); stats["calls"] += 1
     shown = " ".join(sentences)
-    for attempt in range(2):
-        voice = None
-        models = HE_TTS if lang == "he" else TTS_MODELS
-        while models:
-            try:
-                tts(models[0], spoken, lang, mp3); stats["calls"] += 1; voice = f"{models[0]}/{VOICE}"; break
-            except (Quota, RuntimeError) as e:
-                if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
-                    raise
-                print(f"   ↪ tts {models[0]} unavailable", flush=True); models.pop(0)
-        if not voice:
-            if lang == "he":
-                raise Quota("Hebrew premium voice exhausted for today")
-            local_tts(spoken, lang, mp3); voice = "open-source (kokoro)"
-        tim = align(mp3, sentences, lang)
-        trim(mp3, tim)
+    models = HE_TTS if lang == "he" else TTS_MODELS
+    worst = None
+    for m in list(models):
+        try:
+            tts(m, spoken, lang, mp3); stats["calls"] += 1
+        except (Quota, RuntimeError) as e:
+            if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
+                raise
+            print(f"   ↪ tts {m} unavailable", flush=True)
+            if m in models: models.remove(m)
+            continue
+        tim = align(mp3, sentences, lang); trim(mp3, tim)
         w, heard = check(mp3, shown, lang)
         if w <= MAX_WER:
-            return voice, tim, w
-        print(f"   🔁 pronunciation {round(w*100,1)}% off, re-recording", flush=True)
-    raise BadVoice(f"{round(w*100,1)}% of words misheard")
+            return f"{m}/{VOICE}", tim, w
+        worst = w; print(f"   🔁 {m}: {round(w*100,1)}% misheard, trying the next voice", flush=True)
+    if not models:
+        if lang == "he":
+            raise Quota("Hebrew voices exhausted for today")
+        local_tts(spoken, lang, mp3); tim = align(mp3, sentences, lang); trim(mp3, tim)
+        w, _ = check(mp3, shown, lang)
+        if w <= MAX_WER:
+            return "open-source (kokoro)", tim, w
+        worst = w
+    raise BadVoice(f"{round((worst or 1)*100,1)}% of words misheard")
 
 
 def repair(lang, n, stats):
