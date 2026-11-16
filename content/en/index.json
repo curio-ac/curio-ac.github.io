@@ -30,7 +30,8 @@
   "nasa:1258573",
   "Lightning",
   "Venus",
-  "nasa:1341937"
+  "nasa:1341937",
+  "Black hole"
  ],
  "rejected": [
   "Chameleon",
@@ -133,6 +134,9 @@
   ],
   "nasa:1341937": [
    "A Baby Planet Discovered: Meet the youngest planet ever found."
+  ],
+  "Black hole": [
+   "Black Holes Explained: Nothing can escape a black hole."
   ]
  },
  "exhausted": []
