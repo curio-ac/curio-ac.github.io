@@ -1,0 +1,363 @@
+{
+ "id": "he-cb4258c5",
+ "lang": "he",
+ "title": "אי הגולגולת באנטארקטיקה",
+ "cat": "geography",
+ "emoji": "💀",
+ "sentences": [
+  "באי באנטארקטיקה יש צורת גולגולת מחייכת.",
+  "שילוב של קרח, סלעים ומורנות יוצר את הפרצוף המפחיד הזה.",
+  "בולטות סלע מהווה את גלגל העין וקרחון יוצר את הלסת.",
+  "בשנת 2026, טמפרטורות גבוהות מהממוצע חשפו קרח כהה.",
+  "הקרח הכהה סופג יותר שמש ומאיץ את ההמסה.",
+  "כשהוא נמס, קו הלסת וגלגל העין של הגולגולת משתנים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "באי",
+    0.22,
+    0.54
+   ],
+   [
+    "באנטארקטיקה",
+    0.54,
+    1.42
+   ],
+   [
+    "יש",
+    1.42,
+    1.68
+   ],
+   [
+    "צורת",
+    1.68,
+    2.06
+   ],
+   [
+    "גולגולת",
+    2.08,
+    2.64
+   ],
+   [
+    "מחייכת.",
+    2.64,
+    2.74
+   ],
+   [
+    "שילוב",
+    3.86,
+    4.14
+   ],
+   [
+    "של",
+    4.14,
+    4.28
+   ],
+   [
+    "קרח,",
+    4.28,
+    4.82
+   ],
+   [
+    "סלעים",
+    4.82,
+    5.22
+   ],
+   [
+    "ומורנות",
+    5.22,
+    5.92
+   ],
+   [
+    "יוצר",
+    5.98,
+    6.34
+   ],
+   [
+    "את",
+    6.34,
+    6.44
+   ],
+   [
+    "הפרצוף",
+    6.44,
+    6.92
+   ],
+   [
+    "המפחיד",
+    6.92,
+    7.48
+   ],
+   [
+    "הזה.",
+    7.48,
+    7.6
+   ],
+   [
+    "בולטות",
+    8.22,
+    8.58
+   ],
+   [
+    "סלע",
+    8.58,
+    9.02
+   ],
+   [
+    "מהווה",
+    9.02,
+    9.5
+   ],
+   [
+    "את",
+    9.5,
+    9.56
+   ],
+   [
+    "גלגל",
+    9.56,
+    9.96
+   ],
+   [
+    "העין",
+    9.96,
+    10.34
+   ],
+   [
+    "וקרחון",
+    10.34,
+    11.0
+   ],
+   [
+    "יוצר",
+    11.0,
+    11.32
+   ],
+   [
+    "את",
+    11.34,
+    11.44
+   ],
+   [
+    "הלסת.",
+    11.44,
+    11.78
+   ],
+   [
+    "בשנת",
+    12.52,
+    12.78
+   ],
+   [
+    "2026,",
+    12.78,
+    13.8
+   ],
+   [
+    "טמפרטורות",
+    14.06,
+    14.42
+   ],
+   [
+    "גבוהות",
+    14.42,
+    14.78
+   ],
+   [
+    "מהממוצע",
+    14.82,
+    15.36
+   ],
+   [
+    "חשפו",
+    15.36,
+    15.74
+   ],
+   [
+    "קרח",
+    15.74,
+    16.06
+   ],
+   [
+    "כהה.",
+    16.06,
+    16.9
+   ],
+   [
+    "הקרח",
+    17.08,
+    17.3
+   ],
+   [
+    "הכהה",
+    17.3,
+    17.76
+   ],
+   [
+    "סופג",
+    17.76,
+    18.06
+   ],
+   [
+    "יותר",
+    18.06,
+    18.2
+   ],
+   [
+    "שמש",
+    18.2,
+    18.72
+   ],
+   [
+    "ומאיץ",
+    18.72,
+    19.18
+   ],
+   [
+    "את",
+    19.18,
+    19.28
+   ],
+   [
+    "ההמסה.",
+    19.28,
+    19.76
+   ],
+   [
+    "כשהוא",
+    20.16,
+    20.36
+   ],
+   [
+    "נמס,",
+    20.36,
+    20.78
+   ],
+   [
+    "קו",
+    21.2,
+    21.36
+   ],
+   [
+    "הלסת",
+    21.36,
+    21.84
+   ],
+   [
+    "וגלגל",
+    21.94,
+    22.3
+   ],
+   [
+    "העין",
+    22.3,
+    22.62
+   ],
+   [
+    "של",
+    22.62,
+    22.74
+   ],
+   [
+    "הגולגולת",
+    22.74,
+    23.3
+   ],
+   [
+    "משתנים.",
+    23.3,
+    23.84
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   26,
+   34,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Vega_Island_Frozen_in_Fright_%281506470_-_cq5dam_web_1280_1280%29.jpg/960px-Vega_Island_Frozen_in_Fright_%281506470_-_cq5dam_web_1280_1280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Vega_Island_Frozen_in_Fright_(1506470_-_cq5dam_web_1280_1280).jpg",
+   "desc": "Vega Island Frozen in Fright (1506470 - cq5dam web 1280 1280) — Part of an ice-covered Antarctic island has the appearance of a grinning skull in profile, with a rock outcrop as an eye socket and lateral moraine as a mouth."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Vega_Island_Frozen_in_Fright_%281506470_-_vegaisland_oli2_20261010%29.jpg/960px-Vega_Island_Frozen_in_Fright_%281506470_-_vegaisland_oli2_20261010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 800,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Vega_Island_Frozen_in_Fright_(1506470_-_vegaisland_oli2_20261010).jpg",
+   "desc": "Vega Island Frozen in Fright (1506470 - vegaisland oli2 20261010) — NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "nunatak eye socket and jawbone",
+   "box": [
+    130,
+    420,
+    565,
+    608
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "ice melt",
+   "box": [
+    600,
+    250,
+    950,
+    500
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+ "pron_wer": 0.059,
+ "angle": 0,
+ "source": {
+  "title": "Vega Island Frozen in Fright",
+  "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:04:29Z",
+ "trimmed": true
+}
