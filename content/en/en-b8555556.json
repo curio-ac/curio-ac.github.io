@@ -1,0 +1,358 @@
+{
+ "id": "en-b8555556",
+ "lang": "en",
+ "title": "Planet-Shattering Cosmic Collisions",
+ "cat": "space",
+ "emoji": "💥",
+ "sentences": [
+  "Planets smash together in deep space!",
+  "NASA's Webb telescope captured rare extreme debris disks.",
+  "Only about 1% of young stars show this chaotic phase.",
+  "High-energy impacts vaporize rock from Mars-sized bodies.",
+  "Smaller collisions between Moon-sized objects happen too.",
+  "These violent events even helped form our own Moon."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Planets",
+    0.24,
+    0.56
+   ],
+   [
+    "smash",
+    0.56,
+    0.94
+   ],
+   [
+    "together",
+    0.94,
+    1.52
+   ],
+   [
+    "in",
+    1.52,
+    1.86
+   ],
+   [
+    "deep",
+    1.86,
+    2.14
+   ],
+   [
+    "space!",
+    2.14,
+    3.34
+   ],
+   [
+    "NASA's",
+    3.34,
+    3.8
+   ],
+   [
+    "Webb",
+    3.8,
+    4.08
+   ],
+   [
+    "telescope",
+    4.08,
+    4.56
+   ],
+   [
+    "captured",
+    4.56,
+    5.14
+   ],
+   [
+    "rare",
+    5.14,
+    5.66
+   ],
+   [
+    "extreme",
+    5.66,
+    6.5
+   ],
+   [
+    "debris",
+    6.5,
+    6.96
+   ],
+   [
+    "disks.",
+    6.96,
+    7.2
+   ],
+   [
+    "Only",
+    8.14,
+    8.34
+   ],
+   [
+    "about",
+    8.34,
+    8.56
+   ],
+   [
+    "1%",
+    8.56,
+    9.42
+   ],
+   [
+    "of",
+    9.42,
+    9.68
+   ],
+   [
+    "young",
+    9.68,
+    9.88
+   ],
+   [
+    "stars",
+    9.88,
+    10.22
+   ],
+   [
+    "show",
+    10.22,
+    10.72
+   ],
+   [
+    "this",
+    10.72,
+    10.92
+   ],
+   [
+    "chaotic",
+    11.06,
+    11.38
+   ],
+   [
+    "phase.",
+    11.38,
+    11.48
+   ],
+   [
+    "High-energy",
+    12.68,
+    13.3
+   ],
+   [
+    "impacts",
+    13.3,
+    13.88
+   ],
+   [
+    "vaporize",
+    13.88,
+    14.8
+   ],
+   [
+    "rock",
+    14.8,
+    15.12
+   ],
+   [
+    "from",
+    15.12,
+    15.42
+   ],
+   [
+    "Mars-sized",
+    15.42,
+    16.2
+   ],
+   [
+    "bodies.",
+    16.2,
+    17.34
+   ],
+   [
+    "Smaller",
+    17.36,
+    17.74
+   ],
+   [
+    "collisions",
+    17.74,
+    18.06
+   ],
+   [
+    "between",
+    18.36,
+    18.46
+   ],
+   [
+    "Moon-sized",
+    18.46,
+    19.1
+   ],
+   [
+    "objects",
+    19.1,
+    19.58
+   ],
+   [
+    "happen",
+    19.62,
+    19.92
+   ],
+   [
+    "too.",
+    19.92,
+    20.12
+   ],
+   [
+    "These",
+    21.0,
+    21.14
+   ],
+   [
+    "violent",
+    21.14,
+    21.64
+   ],
+   [
+    "events",
+    21.64,
+    22.1
+   ],
+   [
+    "even",
+    22.1,
+    22.56
+   ],
+   [
+    "helped",
+    22.56,
+    22.82
+   ],
+   [
+    "form",
+    22.82,
+    23.14
+   ],
+   [
+    "our",
+    23.14,
+    23.38
+   ],
+   [
+    "own",
+    23.38,
+    23.72
+   ],
+   [
+    "Moon.",
+    23.72,
+    24.14
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   24,
+   31,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/PIA18469-AsteroidCollision-NearStarNGC2547-ID8-2013.jpg/960px-PIA18469-AsteroidCollision-NearStarNGC2547-ID8-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA18469-AsteroidCollision-NearStarNGC2547-ID8-2013.jpg",
+   "desc": "PIA18469-AsteroidCollision-NearStarNGC2547-ID8-2013 — Building Planets Through Collisions (Artist's Concept) http://www.jpl.nasa.gov/spaceimages/details.php?id=pia18469 http://www.jpl.nasa.gov/news/news.php?release=2014-291 http://www.nasa.gov/press/2014/augus"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/960px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "Public domain",
+   "artist": "NASA/MSFC/David Higginbotham/Emmett Given",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg",
+   "desc": "James Webb Space Telescope Mirror37 — Caption: During cryogenic testing, the mirrors will be subjected to temperatures dipping to 24 Kelvins, permitting engineers to measure in extreme detail how the shape of each mirror changes as it cools. More information"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/HL_Tau_protoplanetary_disk.jpg/960px-HL_Tau_protoplanetary_disk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 4.0",
+   "artist": "ALMA (ESO/NAOJ/NRAO)",
+   "page": "https://commons.wikimedia.org/wiki/File:HL_Tau_protoplanetary_disk.jpg",
+   "desc": "HL Tau protoplanetary disk — ALMA image of the protoplanetary disc around HL Tauri - This is the sharpest image ever taken by ALMA — sharper than is routinely achieved in visible light with the NASA/ESA Hubble Space Telescope. It shows the protoplan"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hubble_Captures_Aftermath_of_Asteroid_Collision_%282010-34-2780%29.jpg/960px-Hubble_Captures_Aftermath_of_Asteroid_Collision_%282010-34-2780%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA, ESA, and D. Jewitt (UCLA)",
+   "page": "https://commons.wikimedia.org/wiki/File:Hubble_Captures_Aftermath_of_Asteroid_Collision_(2010-34-2780).jpg",
+   "desc": "Hubble Captures Aftermath of Asteroid Collision (2010-34-2780) — These four Hubble Space Telescope images, taken over a five-month period, show the odd-shaped debris that likely came from a collision between two asteroids. The Hubble images, taken from January"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Moon_-_Giant_Impact_Hypothesis_-_Simple_model.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 212,
+   "license": "CC BY-SA 4.0",
+   "artist": "Citronade",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_-_Giant_Impact_Hypothesis_-_Simple_model.png",
+   "desc": "Moon - Giant Impact Hypothesis - Simple model — Simple representation of the giant-impact hypothesis"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  0,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "%",
+   "label": "young stars show"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+ "pron_wer": 0.02,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+  "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:56:54Z",
+ "trimmed": true
+}

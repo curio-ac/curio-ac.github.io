@@ -52,7 +52,8 @@
   "nasa:1509895",
   "Bulgaria",
   "nasa:1278826",
-  "Abutiu"
+  "Abutiu",
+  "City of Champaign v. Madigan"
  ],
  "rejected": [
   "Chameleon",
@@ -229,6 +230,9 @@
   ],
   "Abutiu": [
    "Ancient Egypt's Named Dog: Meet Abutiu, an ancient Egyptian guard dog."
+  ],
+  "City of Champaign v. Madigan": [
+   "Private Texts Go Public: Private texts can be public records?"
   ]
  },
  "exhausted": []
