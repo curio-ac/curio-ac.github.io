@@ -1,0 +1,348 @@
+{
+ "id": "en-2346d735",
+ "lang": "en",
+ "title": "The Secret Donkey Kong Origin",
+ "cat": "history",
+ "emoji": "🦍",
+ "sentences": [
+  "Unsold arcade cabinets led to Donkey Kong.",
+  "Shigeru Miyamoto created the 1981 game for Nintendo.",
+  "It follows a powerful gorilla and the Kong family.",
+  "The franchise includes the Donkey Kong Country series by Rare.",
+  "Spin-offs cover genres like racing and puzzles.",
+  "Nintendo also expanded the brand into theme parks."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Unsold",
+    0.14,
+    0.48
+   ],
+   [
+    "arcade",
+    0.48,
+    0.92
+   ],
+   [
+    "cabinets",
+    0.92,
+    1.54
+   ],
+   [
+    "led",
+    1.54,
+    1.94
+   ],
+   [
+    "to",
+    1.94,
+    2.16
+   ],
+   [
+    "Donkey",
+    2.16,
+    2.52
+   ],
+   [
+    "Kong.",
+    2.52,
+    2.88
+   ],
+   [
+    "Shigeru",
+    3.4,
+    3.9
+   ],
+   [
+    "Miyamoto",
+    3.9,
+    4.44
+   ],
+   [
+    "created",
+    4.44,
+    4.86
+   ],
+   [
+    "the",
+    4.86,
+    5.16
+   ],
+   [
+    "1981",
+    5.16,
+    5.76
+   ],
+   [
+    "game",
+    5.76,
+    6.36
+   ],
+   [
+    "for",
+    6.48,
+    6.58
+   ],
+   [
+    "Nintendo.",
+    6.58,
+    7.14
+   ],
+   [
+    "It",
+    7.64,
+    7.72
+   ],
+   [
+    "follows",
+    7.72,
+    8.06
+   ],
+   [
+    "a",
+    8.06,
+    8.28
+   ],
+   [
+    "powerful",
+    8.28,
+    8.74
+   ],
+   [
+    "gorilla",
+    8.76,
+    9.2
+   ],
+   [
+    "and",
+    9.2,
+    9.62
+   ],
+   [
+    "the",
+    9.62,
+    9.72
+   ],
+   [
+    "Kong",
+    9.72,
+    9.92
+   ],
+   [
+    "family.",
+    9.92,
+    10.16
+   ],
+   [
+    "The",
+    10.98,
+    11.06
+   ],
+   [
+    "franchise",
+    11.06,
+    11.36
+   ],
+   [
+    "includes",
+    11.36,
+    11.86
+   ],
+   [
+    "the",
+    11.86,
+    12.1
+   ],
+   [
+    "Donkey",
+    12.1,
+    12.42
+   ],
+   [
+    "Kong",
+    12.6,
+    12.74
+   ],
+   [
+    "Country",
+    12.74,
+    13.12
+   ],
+   [
+    "series",
+    13.12,
+    13.52
+   ],
+   [
+    "by",
+    13.52,
+    13.78
+   ],
+   [
+    "Rare.",
+    13.78,
+    14.12
+   ],
+   [
+    "Spin-offs",
+    14.76,
+    15.14
+   ],
+   [
+    "cover",
+    15.14,
+    15.42
+   ],
+   [
+    "genres",
+    15.42,
+    15.86
+   ],
+   [
+    "like",
+    15.86,
+    16.16
+   ],
+   [
+    "racing",
+    16.3,
+    16.58
+   ],
+   [
+    "and",
+    16.58,
+    16.98
+   ],
+   [
+    "puzzles.",
+    16.98,
+    17.32
+   ],
+   [
+    "Nintendo",
+    18.08,
+    18.36
+   ],
+   [
+    "also",
+    18.36,
+    18.82
+   ],
+   [
+    "expanded",
+    18.82,
+    19.32
+   ],
+   [
+    "the",
+    19.32,
+    19.48
+   ],
+   [
+    "brand",
+    19.48,
+    19.72
+   ],
+   [
+    "into",
+    19.86,
+    20.02
+   ],
+   [
+    "theme",
+    20.24,
+    20.36
+   ],
+   [
+    "parks.",
+    20.36,
+    20.86
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   34,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Donkey_Kong_arcade_at_the_QuakeCon_2005.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1491,
+   "license": "CC BY-SA 2.0",
+   "artist": "original photo: Joshua Driggs (ZapWizard) remove the background: bayo transparen",
+   "page": "https://commons.wikimedia.org/wiki/File:Donkey_Kong_arcade_at_the_QuakeCon_2005.png",
+   "desc": "Donkey Kong arcade at the QuakeCon 2005 — Donkey Kong arcade at the QuakeCon 2005, without the background"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Shigeru_Miyamoto_20150610_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 981,
+   "license": "CC BY 4.0",
+   "artist": "大臣官房人事課",
+   "page": "https://commons.wikimedia.org/wiki/File:Shigeru_Miyamoto_20150610_(cropped_2).jpg",
+   "desc": "Shigeru Miyamoto 20150610 (cropped 2) — Shigeru Miyamoto, Fellow of Nintendo Co., Ltd., received the Person of Cultural Merit on June 10, 2015."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_Nintendo_World_Theme_Park_at_USJ_Osaka_Evening_Sky.jpg/960px-Super_Nintendo_World_Theme_Park_at_USJ_Osaka_Evening_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 453,
+   "license": "CC BY-SA 2.0",
+   "artist": "Japanexperterna.se",
+   "page": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_Theme_Park_at_USJ_Osaka_Evening_Sky.jpg",
+   "desc": "Super Nintendo World Theme Park at USJ Osaka Evening Sky — The newly opened theme park \"Super Nintendo World\" is located inside Universal Studios Japan, on an artificial island in western Osaka. The park was initially scheduled to open in February 2021 but the"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1981
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q662004",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Donkey Kong",
+  "url": "https://en.wikipedia.org/wiki/Donkey_Kong",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:58:38Z",
+ "trimmed": true
+}

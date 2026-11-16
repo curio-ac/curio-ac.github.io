@@ -53,7 +53,8 @@
   "Bulgaria",
   "nasa:1278826",
   "Abutiu",
-  "City of Champaign v. Madigan"
+  "City of Champaign v. Madigan",
+  "nasa:1439420"
  ],
  "rejected": [
   "Chameleon",
@@ -233,6 +234,9 @@
   ],
   "City of Champaign v. Madigan": [
    "Private Texts Go Public: Private texts can be public records?"
+  ],
+  "nasa:1439420": [
+   "Planet-Shattering Cosmic Collisions: Planets smash together in deep space!"
   ]
  },
  "exhausted": []
