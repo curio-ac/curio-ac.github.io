@@ -1,0 +1,363 @@
+{
+ "id": "he-c6c105e1",
+ "lang": "he",
+ "title": "הבנאליות של הרוע",
+ "cat": "history",
+ "emoji": "✍️",
+ "sentences": [
+  "היא טבעה את המונח \"הבנאליות של הרוע\".",
+  "חנה ארנדט הייתה הוגת דעות יהודייה מגרמניה, שסירבה להיקרא פילוסופית.",
+  "לאחר רדיפות הנאצים, היא נותרה חסרת אזרחות במשך שנים.",
+  "היא היגרה לארצות הברית ועבדה שם כעיתונאית ומרצה.",
+  "ארנדט הייתה ביקורתית כלפי הדמוקרטיה הייצוגית ודגלה בדמוקרטיה ישירה.",
+  "הגותה הדגישה את חשיבות אימוץ נקודת המבט של הזולת."
+ ],
+ "tim": {
+  "w": [
+   [
+    "היא",
+    0.22,
+    0.32
+   ],
+   [
+    "טבעה",
+    0.32,
+    0.66
+   ],
+   [
+    "את",
+    0.66,
+    0.68
+   ],
+   [
+    "המונח",
+    0.68,
+    1.04
+   ],
+   [
+    "\"הבנאליות",
+    1.04,
+    1.56
+   ],
+   [
+    "של",
+    1.56,
+    1.72
+   ],
+   [
+    "הרוע\".",
+    1.72,
+    2.08
+   ],
+   [
+    "חנה",
+    2.66,
+    2.8
+   ],
+   [
+    "ארנדט",
+    2.8,
+    3.32
+   ],
+   [
+    "הייתה",
+    3.32,
+    3.56
+   ],
+   [
+    "הוגת",
+    3.56,
+    3.74
+   ],
+   [
+    "דעות",
+    3.74,
+    4.0
+   ],
+   [
+    "יהודייה",
+    4.0,
+    4.4
+   ],
+   [
+    "מגרמניה,",
+    4.4,
+    5.05
+   ],
+   [
+    "שסירבה",
+    5.12,
+    5.52
+   ],
+   [
+    "להיקרא",
+    5.52,
+    5.84
+   ],
+   [
+    "פילוסופית.",
+    5.84,
+    6.3
+   ],
+   [
+    "לאחר",
+    7.14,
+    7.4
+   ],
+   [
+    "רדיפות",
+    7.4,
+    7.74
+   ],
+   [
+    "הנאצים,",
+    7.74,
+    8.22
+   ],
+   [
+    "היא",
+    8.24,
+    8.26
+   ],
+   [
+    "נותרה",
+    8.26,
+    8.52
+   ],
+   [
+    "חסרת",
+    8.52,
+    8.94
+   ],
+   [
+    "אזרחות",
+    9.2,
+    9.3
+   ],
+   [
+    "במשך",
+    9.3,
+    9.68
+   ],
+   [
+    "שנים.",
+    9.68,
+    9.88
+   ],
+   [
+    "היא",
+    10.8,
+    10.8
+   ],
+   [
+    "היגרה",
+    10.8,
+    11.0
+   ],
+   [
+    "לארצות",
+    11.0,
+    11.3
+   ],
+   [
+    "הברית",
+    11.38,
+    11.64
+   ],
+   [
+    "ועבדה",
+    11.64,
+    12.0
+   ],
+   [
+    "שם",
+    12.0,
+    12.12
+   ],
+   [
+    "כעיתונאית",
+    12.12,
+    12.7
+   ],
+   [
+    "ומרצה.",
+    12.7,
+    12.92
+   ],
+   [
+    "ארנדט",
+    13.8,
+    14.04
+   ],
+   [
+    "הייתה",
+    14.1,
+    14.2
+   ],
+   [
+    "ביקורתית",
+    14.2,
+    14.66
+   ],
+   [
+    "כלפי",
+    14.9,
+    15.0
+   ],
+   [
+    "הדמוקרטיה",
+    15.0,
+    15.52
+   ],
+   [
+    "הייצוגית",
+    15.52,
+    16.06
+   ],
+   [
+    "ודגלה",
+    16.06,
+    16.46
+   ],
+   [
+    "בדמוקרטיה",
+    16.46,
+    17.04
+   ],
+   [
+    "ישירה.",
+    17.04,
+    17.24
+   ],
+   [
+    "הגותה",
+    18.06,
+    18.38
+   ],
+   [
+    "הדגישה",
+    18.38,
+    18.84
+   ],
+   [
+    "את",
+    18.84,
+    18.9
+   ],
+   [
+    "חשיבות",
+    19.08,
+    19.38
+   ],
+   [
+    "אימוץ",
+    19.38,
+    19.72
+   ],
+   [
+    "נקודת",
+    19.76,
+    20.14
+   ],
+   [
+    "המבט",
+    20.14,
+    20.5
+   ],
+   [
+    "של",
+    20.5,
+    20.6
+   ],
+   [
+    "הזולת.",
+    20.6,
+    20.7
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   26,
+   34,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Arendt_in_Jerusalem_during_Adolf_Eichmann_trial.jpg/960px-Arendt_in_Jerusalem_during_Adolf_Eichmann_trial.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "Public domain",
+   "artist": "A print screen from \"The Devil's Confession: The Lost Eichmann Tapes\" - Israeli ",
+   "page": "https://commons.wikimedia.org/wiki/File:Arendt_in_Jerusalem_during_Adolf_Eichmann_trial.jpg",
+   "desc": "Arendt in Jerusalem during Adolf Eichmann trial — Hannah Arendt in Jerusalem during Adolf Eichmann trial"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg/960px-Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 947,
+   "license": "CC BY-SA 4.0",
+   "artist": "Barbara Niggl Radloff",
+   "page": "https://commons.wikimedia.org/wiki/File:Hannah_Arendt_auf_dem_1._Kulturkritikerkongress,_Barbara_Niggl_Radloff,_FM-2019-1-5-9-16_(cropped).jpg",
+   "desc": "Hannah Arendt auf dem 1. Kulturkritikerkongress, Barbara Niggl Radloff, FM-2019-1-5-9-16 (cropped) — Hannah Arendt auf dem 1. Kulturkritikerkongress, 1958, FM-2019/1.5.9.16"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Landsgemeinde_Glarus_2006.jpg/960px-Landsgemeinde_Glarus_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Adrian Sulc",
+   "page": "https://commons.wikimedia.org/wiki/File:Landsgemeinde_Glarus_2006.jpg",
+   "desc": "Landsgemeinde Glarus 2006 — Abstimmung an der Landsgemeinde am 7. Mai 2006 in Glarus"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1937
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q60025",
+ "pron_wer": 0.077,
+ "angle": 0,
+ "source": {
+  "title": "חנה ארנדט",
+  "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A0%D7%94_%D7%90%D7%A8%D7%A0%D7%93%D7%98",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:13:15Z",
+ "trimmed": true
+}
