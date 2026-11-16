@@ -1,0 +1,390 @@
+{
+ "id": "en-7179b081",
+ "lang": "en",
+ "title": "You Probably Aren't Allergic",
+ "cat": "medicine",
+ "emoji": "💊",
+ "sentences": [
+  "Most people claiming penicillin allergies aren't actually allergic.",
+  "These antibiotics come from Penicillium moulds, specifically P. chrysogenum.",
+  "They were some of the first medications effective against staphylococci.",
+  "While 10% of Americans claim an allergy, many eventually tolerate it.",
+  "Skin test sensitivity drops by 10% each year of avoidance.",
+  "Basically, 90% of those patients can eventually take it again."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Most",
+    0.16,
+    0.38
+   ],
+   [
+    "people",
+    0.38,
+    0.66
+   ],
+   [
+    "claiming",
+    0.82,
+    1.04
+   ],
+   [
+    "penicillin",
+    1.04,
+    1.74
+   ],
+   [
+    "allergies",
+    1.74,
+    2.1
+   ],
+   [
+    "aren't",
+    2.1,
+    2.76
+   ],
+   [
+    "actually",
+    2.76,
+    3.14
+   ],
+   [
+    "allergic.",
+    3.14,
+    3.64
+   ],
+   [
+    "These",
+    4.28,
+    4.42
+   ],
+   [
+    "antibiotics",
+    4.42,
+    4.74
+   ],
+   [
+    "come",
+    4.74,
+    5.3
+   ],
+   [
+    "from",
+    5.3,
+    5.56
+   ],
+   [
+    "Penicillium",
+    5.56,
+    6.4
+   ],
+   [
+    "moulds,",
+    6.4,
+    6.96
+   ],
+   [
+    "specifically",
+    7.16,
+    7.56
+   ],
+   [
+    "P.",
+    7.56,
+    8.08
+   ],
+   [
+    "chrysogenum.",
+    8.2,
+    8.76
+   ],
+   [
+    "They",
+    9.46,
+    9.56
+   ],
+   [
+    "were",
+    9.56,
+    9.68
+   ],
+   [
+    "some",
+    9.68,
+    9.84
+   ],
+   [
+    "of",
+    9.84,
+    9.94
+   ],
+   [
+    "the",
+    9.94,
+    10.0
+   ],
+   [
+    "first",
+    10.0,
+    10.32
+   ],
+   [
+    "medications",
+    10.32,
+    10.62
+   ],
+   [
+    "effective",
+    10.94,
+    11.46
+   ],
+   [
+    "against",
+    11.48,
+    11.88
+   ],
+   [
+    "staphylococci.",
+    11.88,
+    12.78
+   ],
+   [
+    "While",
+    13.88,
+    13.98
+   ],
+   [
+    "10%",
+    13.98,
+    14.56
+   ],
+   [
+    "of",
+    14.56,
+    14.74
+   ],
+   [
+    "Americans",
+    14.74,
+    15.0
+   ],
+   [
+    "claim",
+    15.0,
+    15.48
+   ],
+   [
+    "an",
+    15.48,
+    15.64
+   ],
+   [
+    "allergy,",
+    15.64,
+    16.06
+   ],
+   [
+    "many",
+    16.54,
+    16.72
+   ],
+   [
+    "eventually",
+    16.72,
+    17.22
+   ],
+   [
+    "tolerate",
+    17.22,
+    17.66
+   ],
+   [
+    "it.",
+    17.66,
+    17.78
+   ],
+   [
+    "Skin",
+    18.48,
+    18.58
+   ],
+   [
+    "test",
+    18.58,
+    18.86
+   ],
+   [
+    "sensitivity",
+    18.86,
+    19.4
+   ],
+   [
+    "drops",
+    19.4,
+    19.84
+   ],
+   [
+    "by",
+    19.84,
+    20.1
+   ],
+   [
+    "10%",
+    20.1,
+    20.84
+   ],
+   [
+    "each",
+    20.84,
+    21.34
+   ],
+   [
+    "year",
+    21.34,
+    21.92
+   ],
+   [
+    "of",
+    21.92,
+    22.1
+   ],
+   [
+    "avoidance.",
+    22.1,
+    22.44
+   ],
+   [
+    "Basically,",
+    23.16,
+    23.54
+   ],
+   [
+    "90%",
+    23.74,
+    24.26
+   ],
+   [
+    "of",
+    24.26,
+    24.44
+   ],
+   [
+    "those",
+    24.44,
+    24.54
+   ],
+   [
+    "patients",
+    24.54,
+    24.88
+   ],
+   [
+    "can",
+    24.88,
+    25.16
+   ],
+   [
+    "eventually",
+    25.46,
+    25.56
+   ],
+   [
+    "take",
+    25.56,
+    25.9
+   ],
+   [
+    "it",
+    25.9,
+    26.0
+   ],
+   [
+    "again.",
+    26.0,
+    26.24
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   27,
+   38,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg/960px-Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 584,
+   "license": "CC BY-SA 4.0",
+   "artist": "Science Museum London / Science and Society Picture Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod,_1935_(9672239344).jpg",
+   "desc": "Sample of penicillin mould presented by Alexander Fleming to Douglas Macleod, 1935 (9672239344) — Sample of penicillin mould presented by Alexander Fleming to Douglas Macleod, 1935. Front three-quarter view, grey background."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Penicillium mould",
+   "box": [
+    386,
+    322,
+    632,
+    527
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "%",
+   "label": "Americans claim allergy"
+  },
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "%",
+   "label": "sensitivity drops yearly"
+  },
+  {
+   "type": "stat",
+   "value": 90,
+   "unit": "%",
+   "label": "can eventually tolerate"
+  }
+ ],
+ "geo": null,
+ "qid": "Q12190",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Penicillin",
+  "url": "https://en.wikipedia.org/wiki/Penicillin",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T05:49:07Z",
+ "trimmed": true
+}

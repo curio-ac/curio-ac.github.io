@@ -21,7 +21,8 @@
   "70 Pine Street",
   "Atlantic City–Brigantine Connector",
   "Donkey Kong 64",
-  "James Webb Space Telescope"
+  "James Webb Space Telescope",
+  "nasa:1342478"
  ],
  "rejected": [
   "Chameleon"
@@ -95,6 +96,9 @@
   ],
   "James Webb Space Telescope": [
    "Hubble Vs James Webb: Webb's massive mirror produces images of comparable resolution."
+  ],
+  "nasa:1342478": [
+   "Jimi Hendrix In Space: Jimi Hendrix's music actually reached the Moon."
   ]
  },
  "exhausted": []
