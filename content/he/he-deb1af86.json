@@ -1,0 +1,416 @@
+{
+ "id": "he-deb1af86",
+ "lang": "he",
+ "title": "כוכב לכת שנולד ממוות",
+ "cat": "space",
+ "emoji": "🪐",
+ "sentences": [
+  "כוכב לכת עשוי להיווצר סביב כוכב מת.",
+  "טלסקופ האבל גילה רמזים כימיים סביב ננס לבן בשם HS 0209+0832.",
+  "האסטרונומים זיהו שם ניוביום, יסוד שנוצר רק בתנאים קיצוניים של כוכב גווע.",
+  "חומר שנפלט מהכוכב המת התגבש לכוכב לכת מסוג דור שני.",
+  "זהו ענק גז בגודל צדק המקיף את השריד הכוכבי.",
+  "הסיפור של מערכות שמש עשוי להימשך הרבה אחרי מות הכוכב."
+ ],
+ "tim": {
+  "w": [
+   [
+    "כוכב",
+    0.16,
+    0.46
+   ],
+   [
+    "לכת",
+    0.46,
+    0.92
+   ],
+   [
+    "עשוי",
+    1.08,
+    1.26
+   ],
+   [
+    "להיווצר",
+    1.26,
+    1.68
+   ],
+   [
+    "סביב",
+    1.68,
+    1.96
+   ],
+   [
+    "כוכב",
+    1.96,
+    2.42
+   ],
+   [
+    "מת.",
+    2.42,
+    2.62
+   ],
+   [
+    "טלסקופ",
+    3.5,
+    3.84
+   ],
+   [
+    "האבל",
+    3.84,
+    4.18
+   ],
+   [
+    "גילה",
+    4.18,
+    4.6
+   ],
+   [
+    "רמזים",
+    4.6,
+    4.98
+   ],
+   [
+    "כימיים",
+    4.98,
+    5.36
+   ],
+   [
+    "סביב",
+    5.36,
+    5.72
+   ],
+   [
+    "ננס",
+    5.72,
+    6.04
+   ],
+   [
+    "לבן",
+    6.04,
+    6.46
+   ],
+   [
+    "בשם",
+    6.46,
+    6.86
+   ],
+   [
+    "HS",
+    6.98,
+    7.26
+   ],
+   [
+    "0209+0832.",
+    7.58,
+    10.08
+   ],
+   [
+    "האסטרונומים",
+    11.0,
+    11.52
+   ],
+   [
+    "זיהו",
+    11.52,
+    11.78
+   ],
+   [
+    "שם",
+    11.78,
+    11.98
+   ],
+   [
+    "ניוביום,",
+    11.98,
+    12.44
+   ],
+   [
+    "יסוד",
+    12.74,
+    12.94
+   ],
+   [
+    "שנוצר",
+    12.98,
+    13.32
+   ],
+   [
+    "רק",
+    13.32,
+    13.52
+   ],
+   [
+    "בתנאים",
+    13.52,
+    13.9
+   ],
+   [
+    "קיצוניים",
+    13.9,
+    14.42
+   ],
+   [
+    "של",
+    14.42,
+    14.56
+   ],
+   [
+    "כוכב",
+    14.76,
+    14.9
+   ],
+   [
+    "גווע.",
+    14.9,
+    15.3
+   ],
+   [
+    "חומר",
+    16.08,
+    16.28
+   ],
+   [
+    "שנפלט",
+    16.28,
+    16.82
+   ],
+   [
+    "מהכוכב",
+    16.86,
+    17.32
+   ],
+   [
+    "המת",
+    17.32,
+    17.68
+   ],
+   [
+    "התגבש",
+    17.98,
+    18.32
+   ],
+   [
+    "לכוכב",
+    18.62,
+    18.76
+   ],
+   [
+    "לכת",
+    18.76,
+    19.06
+   ],
+   [
+    "מסוג",
+    19.1,
+    19.42
+   ],
+   [
+    "דור",
+    19.42,
+    19.78
+   ],
+   [
+    "שני.",
+    19.78,
+    20.1
+   ],
+   [
+    "זהו",
+    20.76,
+    20.92
+   ],
+   [
+    "ענק",
+    21.0,
+    21.24
+   ],
+   [
+    "גז",
+    21.28,
+    21.58
+   ],
+   [
+    "בגודל",
+    21.58,
+    21.96
+   ],
+   [
+    "צדק",
+    21.96,
+    22.4
+   ],
+   [
+    "המקיף",
+    22.58,
+    22.98
+   ],
+   [
+    "את",
+    22.98,
+    23.06
+   ],
+   [
+    "השריד",
+    23.1,
+    23.4
+   ],
+   [
+    "הכוכבי.",
+    23.4,
+    23.5
+   ],
+   [
+    "הסיפור",
+    24.66,
+    24.94
+   ],
+   [
+    "של",
+    24.94,
+    25.1
+   ],
+   [
+    "מערכות",
+    25.1,
+    25.54
+   ],
+   [
+    "שמש",
+    25.54,
+    25.86
+   ],
+   [
+    "עשוי",
+    25.86,
+    26.18
+   ],
+   [
+    "להימשך",
+    26.18,
+    26.68
+   ],
+   [
+    "הרבה",
+    27.02,
+    27.12
+   ],
+   [
+    "אחרי",
+    27.12,
+    27.46
+   ],
+   [
+    "מות",
+    27.46,
+    27.7
+   ],
+   [
+    "הכוכב.",
+    27.7,
+    28.36
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   30,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/NASA%27s_Hubble_Space_Telescope_Finds_Dead_Stars_%27Polluted_with_Planet_Debris%27_%288723042245%29.jpg/960px-NASA%27s_Hubble_Space_Telescope_Finds_Dead_Stars_%27Polluted_with_Planet_Debris%27_%288723042245%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, STScI, and G. Bacon (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Hubble_Space_Telescope_Finds_Dead_Stars_%27Polluted_with_Planet_Debris%27_(8723042245).jpg",
+   "desc": "NASA's Hubble Space Telescope Finds Dead Stars 'Polluted with Planet Debris' (8723042245) — This is an artist’s impression of a white dwarf (burned-out) star accreting rocky debris left behind by the star’s surviving planetary system. It was observed by Hubble"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hubble_Spectrum_of_White_Dwarf_HS_0209%2B0832_%28heic2613b%29.jpg/960px-Hubble_Spectrum_of_White_Dwarf_HS_0209%2B0832_%28heic2613b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 444,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, L. Hustak (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Hubble_Spectrum_of_White_Dwarf_HS_0209%2B0832_(heic2613b).jpg",
+   "desc": "Hubble Spectrum of White Dwarf HS 0209+0832 (heic2613b) — Hubble Spectrum of White Dwarf HS 0209+0832"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Material_Accreting_onto_the_White_Dwarf_G238-44_%282022-026%29.jpg/960px-Material_Accreting_onto_the_White_Dwarf_G238-44_%282022-026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "ILLUSTRATION: NASA, ESA, Joseph Olmsted (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Material_Accreting_onto_the_White_Dwarf_G238-44_(2022-026).jpg",
+   "desc": "Material Accreting onto the White Dwarf G238-44 (2022-026) — This illustration shows a white dwarf star siphoning off debris from shattered objects in a planetary system. The Hubble Space Telescope detects the spectral signature of the vaporized debris that re"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Planetary_Nebula_MyCn18-_An_Hourglass_Pattern_Around_a_Dying_Star_%281996-07-398%29.jpg/960px-Planetary_Nebula_MyCn18-_An_Hourglass_Pattern_Around_a_Dying_Star_%281996-07-398%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Raghvendra Sahai and John Trauger (JPL), the WFPC2 science team, and NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Planetary_Nebula_MyCn18-_An_Hourglass_Pattern_Around_a_Dying_Star_(1996-07-398).jpg",
+   "desc": "Planetary Nebula MyCn18- An Hourglass Pattern Around a Dying Star (1996-07-398) — Planetary Nebula MyCn18: An Hourglass Pattern Around a Dying Star"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  0,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "white dwarf star HS 0209+0832",
+   "box": [
+    386,
+    259,
+    761,
+    740
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 140000000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+ "pron_wer": 0.05,
+ "angle": 0,
+ "source": {
+  "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+  "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:19:09Z",
+ "trimmed": true
+}
