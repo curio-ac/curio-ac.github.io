@@ -1,0 +1,415 @@
+{
+ "id": "en-8dc06112",
+ "lang": "en",
+ "title": "How Bees Make Honey",
+ "cat": "biology",
+ "emoji": "🐝",
+ "sentences": [
+  "Bees make honey from plant secretions.",
+  "They collect sugary nectar or honeydew from plants and other insects.",
+  "Refinement happens through enzymatic activity and regurgitation within the bees.",
+  "Inside the hive, bees evaporate water from the mixture.",
+  "This concentrates the sugars until the substance becomes thick and viscous.",
+  "Finally, bees store this food in hexagonal beeswax structures called honeycomb."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Bees",
+    0.18,
+    0.36
+   ],
+   [
+    "make",
+    0.36,
+    0.5
+   ],
+   [
+    "honey",
+    0.5,
+    0.8
+   ],
+   [
+    "from",
+    0.8,
+    1.1
+   ],
+   [
+    "plant",
+    1.1,
+    1.42
+   ],
+   [
+    "secretions.",
+    1.42,
+    1.62
+   ],
+   [
+    "They",
+    2.52,
+    2.54
+   ],
+   [
+    "collect",
+    2.54,
+    2.82
+   ],
+   [
+    "sugary",
+    2.84,
+    3.28
+   ],
+   [
+    "nectar",
+    3.28,
+    3.52
+   ],
+   [
+    "or",
+    3.58,
+    3.92
+   ],
+   [
+    "honeydew",
+    3.92,
+    4.44
+   ],
+   [
+    "from",
+    4.44,
+    4.64
+   ],
+   [
+    "plants",
+    4.64,
+    4.98
+   ],
+   [
+    "and",
+    4.98,
+    5.32
+   ],
+   [
+    "other",
+    5.32,
+    5.5
+   ],
+   [
+    "insects.",
+    5.5,
+    5.84
+   ],
+   [
+    "Refinement",
+    6.72,
+    7.16
+   ],
+   [
+    "happens",
+    7.16,
+    7.5
+   ],
+   [
+    "through",
+    7.7,
+    7.8
+   ],
+   [
+    "enzymatic",
+    7.8,
+    8.54
+   ],
+   [
+    "activity",
+    8.54,
+    8.98
+   ],
+   [
+    "and",
+    8.98,
+    9.34
+   ],
+   [
+    "regurgitation",
+    9.34,
+    10.04
+   ],
+   [
+    "within",
+    10.04,
+    10.42
+   ],
+   [
+    "the",
+    10.44,
+    10.6
+   ],
+   [
+    "bees.",
+    10.6,
+    10.96
+   ],
+   [
+    "Inside",
+    11.56,
+    11.8
+   ],
+   [
+    "the",
+    11.8,
+    11.98
+   ],
+   [
+    "hive,",
+    11.98,
+    12.3
+   ],
+   [
+    "bees",
+    12.6,
+    12.72
+   ],
+   [
+    "evaporate",
+    12.72,
+    13.4
+   ],
+   [
+    "water",
+    13.4,
+    13.68
+   ],
+   [
+    "from",
+    13.68,
+    13.92
+   ],
+   [
+    "the",
+    13.92,
+    14.02
+   ],
+   [
+    "mixture.",
+    14.02,
+    14.42
+   ],
+   [
+    "This",
+    15.0,
+    15.12
+   ],
+   [
+    "concentrates",
+    15.12,
+    15.88
+   ],
+   [
+    "the",
+    15.92,
+    16.02
+   ],
+   [
+    "sugars",
+    16.02,
+    16.3
+   ],
+   [
+    "until",
+    16.3,
+    16.7
+   ],
+   [
+    "the",
+    16.76,
+    16.86
+   ],
+   [
+    "substance",
+    16.86,
+    17.2
+   ],
+   [
+    "becomes",
+    17.2,
+    17.64
+   ],
+   [
+    "thick",
+    17.64,
+    18.02
+   ],
+   [
+    "and",
+    18.26,
+    18.36
+   ],
+   [
+    "viscous.",
+    18.36,
+    18.94
+   ],
+   [
+    "Finally,",
+    19.94,
+    20.14
+   ],
+   [
+    "bees",
+    20.34,
+    20.44
+   ],
+   [
+    "store",
+    20.44,
+    20.74
+   ],
+   [
+    "this",
+    20.74,
+    20.94
+   ],
+   [
+    "food",
+    20.94,
+    21.18
+   ],
+   [
+    "in",
+    21.18,
+    21.32
+   ],
+   [
+    "hexagonal",
+    21.32,
+    21.92
+   ],
+   [
+    "beeswax",
+    21.96,
+    22.44
+   ],
+   [
+    "structures",
+    22.44,
+    22.86
+   ],
+   [
+    "called",
+    22.86,
+    23.26
+   ],
+   [
+    "honeycomb.",
+    23.26,
+    23.8
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   27,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bee_on_-calyx_935.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 564,
+   "license": "CC BY 2.5",
+   "artist": "No machine-readable author provided. MikePhobos assumed (based on copyright clai",
+   "page": "https://commons.wikimedia.org/wiki/File:Bee_on_-calyx_935.jpg",
+   "desc": "Bee on -calyx 935 — Description: Honey bee on calyx of goldenrod"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Honey_bee_collecting_nectar_from_Aesculus_hippocastanum_flowers_in_Gramzda%2C_Latvia%2C_May_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "MichalPL",
+   "page": "https://commons.wikimedia.org/wiki/File:Honey_bee_collecting_nectar_from_Aesculus_hippocastanum_flowers_in_Gramzda,_Latvia,_May_2019.jpg",
+   "desc": "Honey bee collecting nectar from Aesculus hippocastanum flowers in Gramzda, Latvia, May 2019 — Honey bee collecting nectar from Aesculus hippocastanum flowers in Gramzda, Latvia, May 2019"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/960px-Runny_hunny.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1092,
+   "license": "Public domain",
+   "artist": "Scott Bauer, USDA ARS",
+   "page": "https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg",
+   "desc": "Runny hunny — Honey"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Honey_comb.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Merdal at Turkish Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Honey_comb.jpg",
+   "desc": "Honey comb — Honeycomb"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "sugary nectar",
+   "box": [
+    614,
+    355,
+    755,
+    451
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "hexagonal cells",
+   "box": [
+    12,
+    1,
+    998,
+    999
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q10987",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Honey",
+  "url": "https://en.wikipedia.org/wiki/Honey",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:14:19Z",
+ "trimmed": true
+}

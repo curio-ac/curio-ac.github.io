@@ -24,7 +24,8 @@
   "James Webb Space Telescope",
   "nasa:1342478",
   "Penicillin",
-  "Octopus"
+  "Octopus",
+  "Tardigrade"
  ],
  "rejected": [
   "Chameleon",
@@ -109,6 +110,9 @@
   ],
   "Octopus": [
    "Secrets of the Octopus: An octopus can radically deform its shape."
+  ],
+  "Tardigrade": [
+   "Meet the Space Bear: These tiny creatures have survived in outer space."
   ]
  },
  "exhausted": []
