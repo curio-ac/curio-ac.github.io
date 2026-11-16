@@ -1,0 +1,431 @@
+{
+ "id": "en-8f438227",
+ "lang": "en",
+ "title": "Australia's Forgotten Air Force",
+ "cat": "history",
+ "emoji": "✈️",
+ "sentences": [
+  "Australia once had a temporary stop-gap air force.",
+  "The Australian Air Corps existed between two major eras.",
+  "It operated between the disbandment of the Australian Flying Corps and the Royal Australian Air Force.",
+  "Major William Anderson commanded this group of former pilots.",
+  "They maintained the Central Flying School at Point Cook.",
+  "This team set an altitude record and flew non-stop between Sydney and Melbourne.",
+  "They even pioneered early aviation medicine."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Australia",
+    0.35,
+    0.35
+   ],
+   [
+    "once",
+    0.35,
+    0.77
+   ],
+   [
+    "had",
+    0.77,
+    1.07
+   ],
+   [
+    "a",
+    1.07,
+    1.19
+   ],
+   [
+    "temporary",
+    1.19,
+    1.77
+   ],
+   [
+    "stop-gap",
+    1.77,
+    2.53
+   ],
+   [
+    "air",
+    2.53,
+    2.79
+   ],
+   [
+    "force.",
+    2.79,
+    3.69
+   ],
+   [
+    "The",
+    3.75,
+    3.77
+   ],
+   [
+    "Australian",
+    3.77,
+    4.25
+   ],
+   [
+    "Air",
+    4.25,
+    4.63
+   ],
+   [
+    "Corps",
+    4.63,
+    4.85
+   ],
+   [
+    "existed",
+    4.85,
+    5.37
+   ],
+   [
+    "between",
+    5.37,
+    5.85
+   ],
+   [
+    "two",
+    5.85,
+    6.23
+   ],
+   [
+    "major",
+    6.23,
+    6.59
+   ],
+   [
+    "eras.",
+    6.59,
+    7.19
+   ],
+   [
+    "It",
+    7.65,
+    7.73
+   ],
+   [
+    "operated",
+    7.73,
+    8.07
+   ],
+   [
+    "between",
+    8.07,
+    8.53
+   ],
+   [
+    "the",
+    8.53,
+    8.73
+   ],
+   [
+    "disbandment",
+    8.73,
+    9.43
+   ],
+   [
+    "of",
+    9.43,
+    9.65
+   ],
+   [
+    "the",
+    9.65,
+    9.75
+   ],
+   [
+    "Australian",
+    9.75,
+    10.31
+   ],
+   [
+    "Flying",
+    10.31,
+    10.67
+   ],
+   [
+    "Corps",
+    10.67,
+    10.97
+   ],
+   [
+    "and",
+    10.97,
+    11.57
+   ],
+   [
+    "the",
+    11.57,
+    11.75
+   ],
+   [
+    "Royal",
+    11.75,
+    12.05
+   ],
+   [
+    "Australian",
+    12.59,
+    12.69
+   ],
+   [
+    "Air",
+    12.69,
+    12.99
+   ],
+   [
+    "Force.",
+    12.99,
+    13.74
+   ],
+   [
+    "Major",
+    13.95,
+    14.19
+   ],
+   [
+    "William",
+    14.19,
+    14.61
+   ],
+   [
+    "Anderson",
+    14.61,
+    15.13
+   ],
+   [
+    "commanded",
+    15.13,
+    15.59
+   ],
+   [
+    "this",
+    15.59,
+    15.99
+   ],
+   [
+    "group",
+    15.99,
+    16.23
+   ],
+   [
+    "of",
+    16.23,
+    16.45
+   ],
+   [
+    "former",
+    16.45,
+    16.77
+   ],
+   [
+    "pilots.",
+    16.77,
+    17.27
+   ],
+   [
+    "They",
+    17.89,
+    17.95
+   ],
+   [
+    "maintained",
+    17.95,
+    18.43
+   ],
+   [
+    "the",
+    18.43,
+    18.63
+   ],
+   [
+    "Central",
+    18.63,
+    18.99
+   ],
+   [
+    "Flying",
+    18.99,
+    19.37
+   ],
+   [
+    "School",
+    19.37,
+    19.69
+   ],
+   [
+    "at",
+    19.69,
+    20.03
+   ],
+   [
+    "Point",
+    20.11,
+    20.21
+   ],
+   [
+    "Cook.",
+    20.21,
+    20.69
+   ],
+   [
+    "This",
+    21.27,
+    21.39
+   ],
+   [
+    "team",
+    21.39,
+    21.63
+   ],
+   [
+    "set",
+    21.63,
+    21.91
+   ],
+   [
+    "an",
+    21.91,
+    22.09
+   ],
+   [
+    "altitude",
+    22.17,
+    22.49
+   ],
+   [
+    "record",
+    22.81,
+    22.91
+   ],
+   [
+    "and",
+    22.91,
+    23.47
+   ],
+   [
+    "flew",
+    23.47,
+    23.73
+   ],
+   [
+    "non-stop",
+    23.73,
+    24.31
+   ],
+   [
+    "between",
+    24.31,
+    24.65
+   ],
+   [
+    "Sydney",
+    24.65,
+    25.01
+   ],
+   [
+    "and",
+    25.01,
+    25.43
+   ],
+   [
+    "Melbourne.",
+    25.43,
+    25.89
+   ],
+   [
+    "They",
+    26.29,
+    26.37
+   ],
+   [
+    "even",
+    26.37,
+    26.67
+   ],
+   [
+    "pioneered",
+    26.67,
+    27.25
+   ],
+   [
+    "early",
+    27.25,
+    27.63
+   ],
+   [
+    "aviation",
+    27.63,
+    28.15
+   ],
+   [
+    "medicine.",
+    28.15,
+    28.65
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   33,
+   42,
+   51,
+   64
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1920
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q48768837",
+ "pron_wer": 0.014,
+ "angle": 0,
+ "source": {
+  "title": "Australian Air Corps",
+  "url": "https://en.wikipedia.org/wiki/Australian_Air_Corps",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T17:50:24Z",
+ "trimmed": true
+}
