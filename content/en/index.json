@@ -73,7 +73,8 @@
   "nasa:1276885",
   "nasa:1283342",
   "James Chadwick",
-  "Amarte Es un Placer (album)"
+  "Amarte Es un Placer (album)",
+  "nasa:1488476"
  ],
  "rejected": [
   "Chameleon",
@@ -328,6 +329,9 @@
   ],
   "Amarte Es un Placer (album)": [
    "Luis Miguel's Record Tour: His tour became the highest-grossing."
+  ],
+  "nasa:1488476": [
+   "Hurricane Simon's Hidden Waves: Hurricanes can make waves in the mesosphere!"
   ]
  },
  "exhausted": []

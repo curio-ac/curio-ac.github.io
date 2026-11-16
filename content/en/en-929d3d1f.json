@@ -1,0 +1,465 @@
+{
+ "id": "en-929d3d1f",
+ "lang": "en",
+ "title": "Trapped In Missouri",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "Trapped between two Union armies in Missouri!",
+  "In October 1864, Confederate General Sterling Price invaded Missouri.",
+  "After abandoning St. Louis, his troops turned west.",
+  "On October 22, General Joseph O. Shelby broke the Union line at Byram's Ford.",
+  "Union defenders retreated straight to the Kansas state line.",
+  "The 2nd Kansas State Militia was overwhelmed at Mockbee Farm.",
+  "The Confederacy was on the verge of collapse."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Trapped",
+    0.16,
+    0.36
+   ],
+   [
+    "between",
+    0.36,
+    0.7
+   ],
+   [
+    "two",
+    0.7,
+    1.06
+   ],
+   [
+    "Union",
+    1.06,
+    1.44
+   ],
+   [
+    "armies",
+    1.44,
+    1.86
+   ],
+   [
+    "in",
+    1.86,
+    2.08
+   ],
+   [
+    "Missouri!",
+    2.08,
+    2.6
+   ],
+   [
+    "In",
+    3.08,
+    3.12
+   ],
+   [
+    "October",
+    3.12,
+    3.48
+   ],
+   [
+    "1864,",
+    3.48,
+    4.38
+   ],
+   [
+    "Confederate",
+    5.1,
+    5.5
+   ],
+   [
+    "General",
+    5.5,
+    5.94
+   ],
+   [
+    "Sterling",
+    5.94,
+    6.48
+   ],
+   [
+    "Price",
+    6.48,
+    6.76
+   ],
+   [
+    "invaded",
+    6.76,
+    7.24
+   ],
+   [
+    "Missouri.",
+    7.24,
+    8.0
+   ],
+   [
+    "After",
+    8.62,
+    8.84
+   ],
+   [
+    "abandoning",
+    8.84,
+    9.46
+   ],
+   [
+    "St.",
+    9.46,
+    9.76
+   ],
+   [
+    "Louis,",
+    9.78,
+    10.1
+   ],
+   [
+    "his",
+    10.34,
+    10.42
+   ],
+   [
+    "troops",
+    10.42,
+    10.72
+   ],
+   [
+    "turned",
+    10.76,
+    11.04
+   ],
+   [
+    "west.",
+    11.04,
+    11.5
+   ],
+   [
+    "On",
+    12.06,
+    12.16
+   ],
+   [
+    "October",
+    12.16,
+    12.4
+   ],
+   [
+    "22,",
+    12.4,
+    13.0
+   ],
+   [
+    "General",
+    13.62,
+    13.82
+   ],
+   [
+    "Joseph",
+    13.82,
+    14.22
+   ],
+   [
+    "O.",
+    14.22,
+    14.64
+   ],
+   [
+    "Shelby",
+    14.64,
+    14.9
+   ],
+   [
+    "broke",
+    14.9,
+    15.42
+   ],
+   [
+    "the",
+    15.42,
+    15.64
+   ],
+   [
+    "Union",
+    15.64,
+    15.9
+   ],
+   [
+    "line",
+    15.9,
+    16.22
+   ],
+   [
+    "at",
+    16.22,
+    16.38
+   ],
+   [
+    "Byram's",
+    16.38,
+    16.84
+   ],
+   [
+    "Ford.",
+    16.84,
+    17.16
+   ],
+   [
+    "Union",
+    17.78,
+    18.0
+   ],
+   [
+    "defenders",
+    18.0,
+    18.38
+   ],
+   [
+    "retreated",
+    18.38,
+    19.12
+   ],
+   [
+    "straight",
+    19.14,
+    19.42
+   ],
+   [
+    "to",
+    19.42,
+    19.66
+   ],
+   [
+    "the",
+    19.66,
+    19.76
+   ],
+   [
+    "Kansas",
+    19.76,
+    20.04
+   ],
+   [
+    "state",
+    20.04,
+    20.34
+   ],
+   [
+    "line.",
+    20.34,
+    20.74
+   ],
+   [
+    "The",
+    21.38,
+    21.48
+   ],
+   [
+    "2nd",
+    21.48,
+    21.92
+   ],
+   [
+    "Kansas",
+    21.92,
+    22.22
+   ],
+   [
+    "State",
+    22.22,
+    22.56
+   ],
+   [
+    "Militia",
+    22.56,
+    23.06
+   ],
+   [
+    "was",
+    23.06,
+    23.28
+   ],
+   [
+    "overwhelmed",
+    23.44,
+    23.86
+   ],
+   [
+    "at",
+    23.86,
+    24.14
+   ],
+   [
+    "Mockbee",
+    24.14,
+    24.56
+   ],
+   [
+    "Farm.",
+    24.56,
+    25.0
+   ],
+   [
+    "The",
+    25.52,
+    25.62
+   ],
+   [
+    "Confederacy",
+    25.62,
+    26.28
+   ],
+   [
+    "was",
+    26.28,
+    26.5
+   ],
+   [
+    "on",
+    26.5,
+    26.66
+   ],
+   [
+    "the",
+    26.66,
+    26.78
+   ],
+   [
+    "verge",
+    26.78,
+    27.08
+   ],
+   [
+    "of",
+    27.08,
+    27.32
+   ],
+   [
+    "collapse.",
+    27.32,
+    27.92
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   38,
+   47,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%22Map_No._1%22_%22Showing_Position_of_Forces_in_morning_of_October_22d%22_from-_The_Battle_of_Westport%2C_%28IA_battleofwestport00jenk%29_%28page_67_crop%29.jpg/960px-%22Map_No._1%22_%22Showing_Position_of_Forces_in_morning_of_October_22d%22_from-_The_Battle_of_Westport%2C_%28IA_battleofwestport00jenk%29_%28page_67_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 968,
+   "license": "Public domain",
+   "artist": "Jenkins, Paul Burrill, 1872-",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Map_No._1%22_%22Showing_Position_of_Forces_in_morning_of_October_22d%22_from-_The_Battle_of_Westport,_(IA_battleofwestport00jenk)_(page_67_crop).jpg",
+   "desc": "\"Map No. 1\" \"Showing Position of Forces in morning of October 22d\" from- The Battle of Westport, (IA battleofwestport00jenk) (page 67 crop) — Subjects: Westport, Battle of, Kansas City, Mo., 1864"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Price%27s_Raid.png/960px-Price%27s_Raid.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 932,
+   "license": "CC BY 4.0",
+   "artist": "Hal Jespersen. Verification of details can be found in Kyle Sinisi's The Last Hu",
+   "page": "https://commons.wikimedia.org/wiki/File:Price%27s_Raid.png",
+   "desc": "Price's Raid — Price's Raid, 1864, in the American Civil War"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Price%27s_Raid.png/960px-Price%27s_Raid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 932,
+   "license": "CC BY 4.0",
+   "artist": "Hal Jespersen. Verification of details can be found in Kyle Sinisi's The Last Hu",
+   "page": "https://commons.wikimedia.org/wiki/File:Price%27s_Raid.png",
+   "desc": "Price's Raid — Price's Raid, 1864, in the American Civil War"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Byrams-ford-blue.jpg/960px-Byrams-ford-blue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Americasroof at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Byrams-ford-blue.jpg",
+   "desc": "Byrams-ford-blue — Battle of Byram's Ford on Blue River."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/State_line_between_Kansas_and_Missouri%2C_near_Kansas_City%2C_275_miles_west_of_St._Louis%2C_Mo._%28Boston_Public_Library%29.jpg/960px-State_line_between_Kansas_and_Missouri%2C_near_Kansas_City%2C_275_miles_west_of_St._Louis%2C_Mo._%28Boston_Public_Library%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "CC BY 2.0",
+   "artist": "BPL",
+   "page": "https://commons.wikimedia.org/wiki/File:State_line_between_Kansas_and_Missouri,_near_Kansas_City,_275_miles_west_of_St._Louis,_Mo._(Boston_Public_Library).jpg",
+   "desc": "State line between Kansas and Missouri, near Kansas City, 275 miles west of St. Louis, Mo. (Boston Public Library) — File name: 10_08_000003 Title: State line between Kansas and Missouri, near Kansas City, 275 miles west of St. Louis, Mo. Creator/Contributor: "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Price_Raid_%28cropped%29.jpg/960px-Price_Raid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 545,
+   "license": "Public domain",
+   "artist": "Samuel J. Reader",
+   "page": "https://commons.wikimedia.org/wiki/File:Price_Raid_(cropped).jpg",
+   "desc": "Price Raid (cropped) — Watercolor painting of the Price Raid by Samuel J. Reader, 1865."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null,
+  5
+ ],
+ "vis": [
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 1864
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 1864
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  39.023,
+  -94.531
+ ],
+ "qid": "Q4870600",
+ "pron_wer": 0.045,
+ "angle": 0,
+ "source": {
+  "title": "Battle of Byram's Ford",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_Byram%27s_Ford",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:53:44Z",
+ "trimmed": true
+}
