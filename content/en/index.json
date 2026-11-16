@@ -46,14 +46,16 @@
   "nasa:1508684",
   "Banksia aculeata",
   "Australasian Antarctic Expedition",
-  "1909 Chinese provincial elections"
+  "1909 Chinese provincial elections",
+  "nasa:1505194"
  ],
  "rejected": [
   "Chameleon",
   "nasa:1509704",
   "nasa:1282056",
   "Battle of Dyrrhachium (1081)",
-  "nasa:1440433"
+  "nasa:1440433",
+  "Bluey (TV series)"
  ],
  "angles": {
   "Blue whale": [
@@ -200,6 +202,9 @@
   ],
   "1909 Chinese provincial elections": [
    "China's First 1909 Elections: China held its first provincial elections in 1909."
+  ],
+  "nasa:1505194": [
+   "The Land of Standing-Up Rocks: An ancient eruption unleashed 1,000 times Mount St. Helens."
   ]
  },
  "exhausted": []
