@@ -1,0 +1,291 @@
+{
+ "id": "en-b1e39ea3",
+ "lang": "en",
+ "title": "Great White Shark Facts",
+ "cat": "biology",
+ "emoji": "🦈",
+ "sentences": [
+  "Great white sharks have about 300 serrated teeth!",
+  "These teeth are continuously replaced throughout their life.",
+  "They are partially warm-blooded to hunt in cold water.",
+  "Their massive range spans tropical and temperate oceans worldwide.",
+  "They regularly make huge migrations between different continents."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Great",
+    0.35,
+    0.35
+   ],
+   [
+    "white",
+    0.35,
+    0.57
+   ],
+   [
+    "sharks",
+    0.57,
+    0.93
+   ],
+   [
+    "have",
+    0.93,
+    1.25
+   ],
+   [
+    "about",
+    1.25,
+    1.51
+   ],
+   [
+    "300",
+    1.77,
+    2.05
+   ],
+   [
+    "serrated",
+    2.05,
+    2.65
+   ],
+   [
+    "teeth!",
+    2.65,
+    2.95
+   ],
+   [
+    "These",
+    3.67,
+    3.71
+   ],
+   [
+    "teeth",
+    3.71,
+    4.01
+   ],
+   [
+    "are",
+    4.01,
+    4.27
+   ],
+   [
+    "continuously",
+    4.27,
+    4.83
+   ],
+   [
+    "replaced",
+    4.83,
+    5.43
+   ],
+   [
+    "throughout",
+    5.43,
+    5.83
+   ],
+   [
+    "their",
+    5.83,
+    6.13
+   ],
+   [
+    "life.",
+    6.13,
+    6.41
+   ],
+   [
+    "They",
+    7.03,
+    7.11
+   ],
+   [
+    "are",
+    7.11,
+    7.19
+   ],
+   [
+    "partially",
+    7.19,
+    7.61
+   ],
+   [
+    "warm-blooded",
+    7.61,
+    8.33
+   ],
+   [
+    "to",
+    8.33,
+    8.51
+   ],
+   [
+    "hunt",
+    8.51,
+    8.69
+   ],
+   [
+    "in",
+    8.69,
+    8.89
+   ],
+   [
+    "cold",
+    8.89,
+    9.19
+   ],
+   [
+    "water.",
+    9.19,
+    9.61
+   ],
+   [
+    "Their",
+    10.17,
+    10.27
+   ],
+   [
+    "massive",
+    10.27,
+    10.63
+   ],
+   [
+    "range",
+    10.63,
+    11.09
+   ],
+   [
+    "spans",
+    11.09,
+    11.51
+   ],
+   [
+    "tropical",
+    11.51,
+    12.09
+   ],
+   [
+    "and",
+    12.17,
+    12.41
+   ],
+   [
+    "temperate",
+    12.41,
+    12.87
+   ],
+   [
+    "oceans",
+    12.91,
+    13.21
+   ],
+   [
+    "worldwide.",
+    13.21,
+    13.71
+   ],
+   [
+    "They",
+    14.59,
+    14.67
+   ],
+   [
+    "regularly",
+    14.67,
+    15.15
+   ],
+   [
+    "make",
+    15.15,
+    15.49
+   ],
+   [
+    "huge",
+    15.49,
+    15.91
+   ],
+   [
+    "migrations",
+    15.91,
+    16.61
+   ],
+   [
+    "between",
+    16.85,
+    16.95
+   ],
+   [
+    "different",
+    16.95,
+    17.31
+   ],
+   [
+    "continents.",
+    17.31,
+    17.67
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   25,
+   34
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/BC-095-Great-White-Jaw-r2-Lo.jpg/960px-BC-095-Great-White-Jaw-r2-Lo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 612,
+   "license": "CC BY-SA 3.0",
+   "artist": "Bone Clones",
+   "page": "https://commons.wikimedia.org/wiki/File:BC-095-Great-White-Jaw-r2-Lo.jpg",
+   "desc": "BC-095-Great-White-Jaw-r2-Lo — Bone Clones image of Great White Shark jaw"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 300,
+   "unit": "teeth",
+   "label": "serrated teeth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q129026",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Great white shark",
+  "url": "https://en.wikipedia.org/wiki/Great_white_shark",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:11:29Z",
+ "trimmed": true
+}

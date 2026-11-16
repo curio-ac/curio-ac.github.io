@@ -70,7 +70,8 @@
   "nasa:1346682",
   "Banksia spinulosa",
   "Thomas de la More",
-  "nasa:1276885"
+  "nasa:1276885",
+  "nasa:1283342"
  ],
  "rejected": [
   "Chameleon",
@@ -312,6 +313,9 @@
   ],
   "nasa:1276885": [
    "Future Planetary Scientists Learn Outreach: Future planetary scientists are learning public engagement skills."
+  ],
+  "nasa:1283342": [
+   "Indonesia's Underground Peat Fires: Tropical peatland fires are the apex predators of fires."
   ]
  },
  "exhausted": []
