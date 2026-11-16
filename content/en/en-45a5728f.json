@@ -1,0 +1,420 @@
+{
+ "id": "en-45a5728f",
+ "lang": "en",
+ "title": "The Five-Day Cuban Cyclone",
+ "cat": "history",
+ "emoji": "🌀",
+ "sentences": [
+  "A destructive hurricane hit Cuba twice in October 1910.",
+  "It formed in the southern Caribbean on October 9.",
+  "By October 12, it strengthened and became a hurricane.",
+  "It peaked at Category 4 intensity on October 16.",
+  "The storm executed a rare counterclockwise loop.",
+  "Initial reports wrongly claimed it was two separate storms.",
+  "It remains one of the worst Cuban natural disasters."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.1,
+    0.1
+   ],
+   [
+    "destructive",
+    0.1,
+    0.64
+   ],
+   [
+    "hurricane",
+    0.66,
+    1.34
+   ],
+   [
+    "hit",
+    1.66,
+    1.82
+   ],
+   [
+    "Cuba",
+    1.92,
+    2.18
+   ],
+   [
+    "twice",
+    2.18,
+    2.78
+   ],
+   [
+    "in",
+    2.78,
+    3.14
+   ],
+   [
+    "October",
+    3.14,
+    3.54
+   ],
+   [
+    "1910.",
+    3.54,
+    4.56
+   ],
+   [
+    "It",
+    5.28,
+    5.34
+   ],
+   [
+    "formed",
+    5.34,
+    5.72
+   ],
+   [
+    "in",
+    5.72,
+    6.04
+   ],
+   [
+    "the",
+    6.04,
+    6.16
+   ],
+   [
+    "southern",
+    6.16,
+    6.48
+   ],
+   [
+    "Caribbean",
+    6.48,
+    6.98
+   ],
+   [
+    "on",
+    6.98,
+    7.38
+   ],
+   [
+    "October",
+    7.38,
+    7.8
+   ],
+   [
+    "9.",
+    7.8,
+    8.22
+   ],
+   [
+    "By",
+    9.04,
+    9.16
+   ],
+   [
+    "October",
+    9.16,
+    9.5
+   ],
+   [
+    "12,",
+    9.5,
+    10.1
+   ],
+   [
+    "it",
+    10.52,
+    10.56
+   ],
+   [
+    "strengthened",
+    10.58,
+    10.96
+   ],
+   [
+    "and",
+    10.96,
+    11.48
+   ],
+   [
+    "became",
+    11.48,
+    11.92
+   ],
+   [
+    "a",
+    11.92,
+    12.16
+   ],
+   [
+    "hurricane.",
+    12.16,
+    12.44
+   ],
+   [
+    "It",
+    13.36,
+    13.46
+   ],
+   [
+    "peaked",
+    13.46,
+    13.94
+   ],
+   [
+    "at",
+    13.94,
+    14.16
+   ],
+   [
+    "Category",
+    14.26,
+    14.8
+   ],
+   [
+    "4",
+    14.8,
+    15.26
+   ],
+   [
+    "intensity",
+    15.26,
+    15.9
+   ],
+   [
+    "on",
+    15.9,
+    16.34
+   ],
+   [
+    "October",
+    16.34,
+    16.76
+   ],
+   [
+    "16.",
+    16.76,
+    17.52
+   ],
+   [
+    "The",
+    18.34,
+    18.44
+   ],
+   [
+    "storm",
+    18.44,
+    18.82
+   ],
+   [
+    "executed",
+    18.82,
+    19.52
+   ],
+   [
+    "a",
+    19.52,
+    19.8
+   ],
+   [
+    "rare",
+    19.8,
+    20.2
+   ],
+   [
+    "counterclockwise",
+    20.2,
+    21.26
+   ],
+   [
+    "loop.",
+    21.26,
+    21.72
+   ],
+   [
+    "Initial",
+    22.56,
+    22.98
+   ],
+   [
+    "reports",
+    22.98,
+    23.44
+   ],
+   [
+    "wrongly",
+    23.44,
+    24.14
+   ],
+   [
+    "claimed",
+    24.14,
+    24.54
+   ],
+   [
+    "it",
+    24.54,
+    24.74
+   ],
+   [
+    "was",
+    24.8,
+    24.94
+   ],
+   [
+    "two",
+    24.94,
+    25.28
+   ],
+   [
+    "separate",
+    25.28,
+    25.78
+   ],
+   [
+    "storms.",
+    25.78,
+    26.5
+   ],
+   [
+    "It",
+    27.12,
+    27.2
+   ],
+   [
+    "remains",
+    27.2,
+    27.58
+   ],
+   [
+    "one",
+    27.58,
+    27.94
+   ],
+   [
+    "of",
+    27.94,
+    28.06
+   ],
+   [
+    "the",
+    28.08,
+    28.18
+   ],
+   [
+    "worst",
+    28.18,
+    28.54
+   ],
+   [
+    "Cuban",
+    28.54,
+    29.04
+   ],
+   [
+    "natural",
+    29.04,
+    29.46
+   ],
+   [
+    "disasters.",
+    29.46,
+    29.98
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   27,
+   36,
+   43,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/AL05_1910_path.png/960px-AL05_1910_path.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 573,
+   "license": "Public domain",
+   "artist": "Hurricane Noah",
+   "page": "https://commons.wikimedia.org/wiki/File:AL05_1910_path.png",
+   "desc": "AL05 1910 path — Track map of Hurricane Five of the 1910 Atlantic hurricane season. The points show the location of the storm at 6-hour intervals. The colour represents the storm's maximum sustained wind speeds as classified in the (see "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cuba_hurricane_weather_map%2C_October_16%2C_1910.jpg/960px-Cuba_hurricane_weather_map%2C_October_16%2C_1910.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 465,
+   "license": "Public domain",
+   "artist": "NOAA Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Cuba_hurricane_weather_map,_October_16,_1910.jpg",
+   "desc": "Cuba hurricane weather map, October 16, 1910 — Weather map of the hurricane at peak intensity on October 16, 1910"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/1910_hurricane_effects_in_Key_West_MM00011126x_%2826385945884%29.jpg/960px-1910_hurricane_effects_in_Key_West_MM00011126x_%2826385945884%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 474,
+   "license": "CC BY 2.0",
+   "artist": "Florida Keys--Public Libraries from Key West, Fla., USA",
+   "page": "https://commons.wikimedia.org/wiki/File:1910_hurricane_effects_in_Key_West_MM00011126x_(26385945884).jpg",
+   "desc": "1910 hurricane effects in Key West MM00011126x (26385945884) — The La Brisa after the 1910 Hurricane. Stone and Webster Electric Company photo collection. Effects of the 1910 Cuba hurricane in Key West, Florida, October 1910."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  1,
+  0,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1910
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "Category",
+   "label": "peak intensity"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1910,
+   "unit": "year",
+   "label": "worst disaster"
+  }
+ ],
+ "geo": null,
+ "qid": "Q198851",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "1910 Cuba hurricane",
+  "url": "https://en.wikipedia.org/wiki/1910_Cuba_hurricane",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:56:32Z",
+ "trimmed": true
+}
