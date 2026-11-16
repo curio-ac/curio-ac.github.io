@@ -1,0 +1,419 @@
+{
+ "id": "en-4d482342",
+ "lang": "en",
+ "title": "The Changeling's True Origin",
+ "cat": "art",
+ "emoji": "👻",
+ "sentences": [
+  "This horror movie is based on real claims.",
+  "Playwright Russell Hunter said he experienced strange events in a Denver mansion.",
+  "He lived there in the late 1960s and co-wrote the film's screenplay.",
+  "The 1980 movie follows a composer who moves into a haunted Seattle home.",
+  "It became a major international success for a Canadian production.",
+  "The film even won 8 inaugural Genie Awards."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.47
+   ],
+   [
+    "horror",
+    0.47,
+    0.77
+   ],
+   [
+    "movie",
+    0.77,
+    1.15
+   ],
+   [
+    "is",
+    1.15,
+    1.35
+   ],
+   [
+    "based",
+    1.35,
+    1.57
+   ],
+   [
+    "on",
+    1.57,
+    1.81
+   ],
+   [
+    "real",
+    1.81,
+    2.05
+   ],
+   [
+    "claims.",
+    2.05,
+    2.65
+   ],
+   [
+    "Playwright",
+    3.27,
+    3.47
+   ],
+   [
+    "Russell",
+    3.47,
+    3.79
+   ],
+   [
+    "Hunter",
+    3.79,
+    4.09
+   ],
+   [
+    "said",
+    4.13,
+    4.41
+   ],
+   [
+    "he",
+    4.41,
+    4.59
+   ],
+   [
+    "experienced",
+    4.59,
+    5.19
+   ],
+   [
+    "strange",
+    5.19,
+    5.53
+   ],
+   [
+    "events",
+    5.53,
+    5.95
+   ],
+   [
+    "in",
+    5.95,
+    6.15
+   ],
+   [
+    "a",
+    6.15,
+    6.25
+   ],
+   [
+    "Denver",
+    6.25,
+    6.53
+   ],
+   [
+    "mansion.",
+    6.53,
+    7.05
+   ],
+   [
+    "He",
+    7.59,
+    7.67
+   ],
+   [
+    "lived",
+    7.67,
+    7.89
+   ],
+   [
+    "there",
+    7.95,
+    8.11
+   ],
+   [
+    "in",
+    8.11,
+    8.25
+   ],
+   [
+    "the",
+    8.25,
+    8.35
+   ],
+   [
+    "late",
+    8.35,
+    8.55
+   ],
+   [
+    "1960s",
+    8.55,
+    9.59
+   ],
+   [
+    "and",
+    9.59,
+    9.91
+   ],
+   [
+    "co-wrote",
+    9.97,
+    10.35
+   ],
+   [
+    "the",
+    10.35,
+    10.49
+   ],
+   [
+    "film's",
+    10.65,
+    10.87
+   ],
+   [
+    "screenplay.",
+    10.87,
+    11.17
+   ],
+   [
+    "The",
+    11.97,
+    12.07
+   ],
+   [
+    "1980",
+    12.07,
+    12.71
+   ],
+   [
+    "movie",
+    12.71,
+    13.17
+   ],
+   [
+    "follows",
+    13.41,
+    13.59
+   ],
+   [
+    "a",
+    13.59,
+    13.81
+   ],
+   [
+    "composer",
+    14.03,
+    14.19
+   ],
+   [
+    "who",
+    14.19,
+    14.47
+   ],
+   [
+    "moves",
+    14.47,
+    14.79
+   ],
+   [
+    "into",
+    14.79,
+    15.05
+   ],
+   [
+    "a",
+    15.05,
+    15.23
+   ],
+   [
+    "haunted",
+    15.23,
+    15.59
+   ],
+   [
+    "Seattle",
+    15.59,
+    15.97
+   ],
+   [
+    "home.",
+    15.97,
+    16.41
+   ],
+   [
+    "It",
+    17.01,
+    17.09
+   ],
+   [
+    "became",
+    17.09,
+    17.37
+   ],
+   [
+    "a",
+    17.37,
+    17.53
+   ],
+   [
+    "major",
+    17.53,
+    17.79
+   ],
+   [
+    "international",
+    17.79,
+    18.43
+   ],
+   [
+    "success",
+    18.43,
+    18.87
+   ],
+   [
+    "for",
+    18.87,
+    19.21
+   ],
+   [
+    "a",
+    19.21,
+    19.33
+   ],
+   [
+    "Canadian",
+    19.35,
+    19.69
+   ],
+   [
+    "production.",
+    19.69,
+    20.15
+   ],
+   [
+    "The",
+    20.87,
+    20.97
+   ],
+   [
+    "film",
+    21.03,
+    21.23
+   ],
+   [
+    "even",
+    21.23,
+    21.57
+   ],
+   [
+    "won",
+    21.57,
+    21.83
+   ],
+   [
+    "8",
+    21.83,
+    22.11
+   ],
+   [
+    "inaugural",
+    22.11,
+    22.67
+   ],
+   [
+    "Genie",
+    22.67,
+    23.29
+   ],
+   [
+    "Awards.",
+    23.29,
+    23.65
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   20,
+   32,
+   45,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Roger_Rooman_Australian_composer_at_piano.jpg/960px-Roger_Rooman_Australian_composer_at_piano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Bianca Rooman",
+   "page": "https://commons.wikimedia.org/wiki/File:Roger_Rooman_Australian_composer_at_piano.jpg",
+   "desc": "Roger Rooman Australian composer at piano — Roger Rooman was an Australian composer of classical music"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/1948_FBUs_Pokalturnering_final%2C_trophy_award_ceremony%2C_Fyns_Social-Demokrat.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 983,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:1948_FBUs_Pokalturnering_final,_trophy_award_ceremony,_Fyns_Social-Demokrat.png",
+   "desc": "1948 FBUs Pokalturnering final, trophy award ceremony, Fyns Social-Demokrat — Trophy ceremony for the winner of the 1948 FBUs Pokalturnering — Picture shows Odense Boldklub's captain Jørgen Leschly Sørensen (left) receiving the trophy from Funen Football Assoc"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1960
+  },
+  {
+   "type": "focus",
+   "target": "Seattle mansion",
+   "box": [
+    100,
+    0,
+    975,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "awards",
+   "label": "Genie Awards won"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1168623",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "The Changeling (film)",
+  "url": "https://en.wikipedia.org/wiki/The_Changeling_%28film%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:49:45Z",
+ "trimmed": true
+}
