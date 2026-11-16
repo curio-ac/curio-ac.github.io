@@ -1,0 +1,375 @@
+{
+ "id": "en-dda2afbf",
+ "lang": "en",
+ "title": "Curiosity's 49th Drill Hole",
+ "cat": "space",
+ "emoji": "🤖",
+ "sentences": [
+  "NASA's Curiosity drilled its 49th hole on Mars.",
+  "The target is named Nazca.",
+  "Scientists are hunting for disc-shaped potential crystals inside the rock.",
+  "These crystals could reveal clues about ancient environmental conditions.",
+  "Before drilling, the rover passed stability and preload tests.",
+  "Samples were dropped off to CheMin for analysis."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA's",
+    0.35,
+    0.57
+   ],
+   [
+    "Curiosity",
+    0.57,
+    1.11
+   ],
+   [
+    "drilled",
+    1.11,
+    1.51
+   ],
+   [
+    "its",
+    1.51,
+    1.73
+   ],
+   [
+    "49th",
+    1.87,
+    2.55
+   ],
+   [
+    "hole",
+    2.67,
+    2.77
+   ],
+   [
+    "on",
+    2.77,
+    3.01
+   ],
+   [
+    "Mars.",
+    3.01,
+    3.29
+   ],
+   [
+    "The",
+    3.77,
+    3.79
+   ],
+   [
+    "target",
+    3.87,
+    4.03
+   ],
+   [
+    "is",
+    4.03,
+    4.23
+   ],
+   [
+    "named",
+    4.23,
+    4.41
+   ],
+   [
+    "Nazca.",
+    4.41,
+    4.86
+   ],
+   [
+    "Scientists",
+    5.51,
+    5.71
+   ],
+   [
+    "are",
+    5.71,
+    6.01
+   ],
+   [
+    "hunting",
+    6.01,
+    6.25
+   ],
+   [
+    "for",
+    6.25,
+    6.51
+   ],
+   [
+    "disc-shaped",
+    6.51,
+    7.15
+   ],
+   [
+    "potential",
+    7.15,
+    7.59
+   ],
+   [
+    "crystals",
+    7.59,
+    8.21
+   ],
+   [
+    "inside",
+    8.21,
+    8.73
+   ],
+   [
+    "the",
+    8.73,
+    8.95
+   ],
+   [
+    "rock.",
+    8.95,
+    9.17
+   ],
+   [
+    "These",
+    9.81,
+    9.91
+   ],
+   [
+    "crystals",
+    9.91,
+    10.21
+   ],
+   [
+    "could",
+    10.21,
+    10.45
+   ],
+   [
+    "reveal",
+    10.45,
+    10.69
+   ],
+   [
+    "clues",
+    10.69,
+    11.03
+   ],
+   [
+    "about",
+    11.03,
+    11.33
+   ],
+   [
+    "ancient",
+    11.33,
+    11.73
+   ],
+   [
+    "environmental",
+    11.73,
+    12.25
+   ],
+   [
+    "conditions.",
+    12.25,
+    12.91
+   ],
+   [
+    "Before",
+    13.69,
+    13.79
+   ],
+   [
+    "drilling,",
+    13.79,
+    14.35
+   ],
+   [
+    "the",
+    14.41,
+    14.41
+   ],
+   [
+    "rover",
+    14.41,
+    14.59
+   ],
+   [
+    "passed",
+    14.59,
+    14.93
+   ],
+   [
+    "stability",
+    14.93,
+    15.41
+   ],
+   [
+    "and",
+    15.41,
+    15.89
+   ],
+   [
+    "preload",
+    15.89,
+    16.31
+   ],
+   [
+    "tests.",
+    16.31,
+    16.61
+   ],
+   [
+    "Samples",
+    17.15,
+    17.37
+   ],
+   [
+    "were",
+    17.37,
+    17.55
+   ],
+   [
+    "dropped",
+    17.55,
+    17.77
+   ],
+   [
+    "off",
+    17.77,
+    17.99
+   ],
+   [
+    "to",
+    17.99,
+    18.15
+   ],
+   [
+    "CheMin",
+    18.19,
+    18.43
+   ],
+   [
+    "for",
+    18.43,
+    18.73
+   ],
+   [
+    "analysis.",
+    18.73,
+    19.25
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   13,
+   23,
+   32,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site_%28PIA19920%29.jpg/960px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site_%28PIA19920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1011,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site_(PIA19920).jpg",
+   "desc": "Curiosity Self-Portrait at 'Big Sky' Drilling Site (PIA19920) — This self-portrait of NASA's Curiosity Mars rover shows the vehicle at the \"Big Sky\" site, where its drill collected the mission's fifth taste of Mount Sharp. The scene combines dozens of images t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/PIA14763-MarsCuriosityRover-BathurstInletRock-CloseUp.jpg/960px-PIA14763-MarsCuriosityRover-BathurstInletRock-CloseUp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 778,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/Malin Space Science Systems",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA14763-MarsCuriosityRover-BathurstInletRock-CloseUp.jpg",
+   "desc": "PIA14763-MarsCuriosityRover-BathurstInletRock-CloseUp — 10.01.2012 'Bathurst Inlet' Rock on Curiosity's Sol 54, Close-Up View This is the highest-resolution view that the Mars Hand Lens Imager (MAHLI) on NASA's Mars rover Curiosity acquired of the top of a roc"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/PIA17768-MarsCuriosityRover-HarrisonRock-20140115.jpg/960px-PIA17768-MarsCuriosityRover-HarrisonRock-20140115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/LANL/CNES/IRAP/LPGNantes/CNRS/IAS/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA17768-MarsCuriosityRover-HarrisonRock-20140115.jpg",
+   "desc": "PIA17768-MarsCuriosityRover-HarrisonRock-20140115 — 01.31.2014 http://mars.jpl.nasa.gov/msl/multimedia/images/?ImageID=5950 Martian Rock 'Harrison' in Color, Showing Crystals (Annotated) This view of a Martian rock target called \"Harrison\" merges images from t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mars_Rover_Curiosity%2C_Right_Side_View.JPG/960px-Mars_Rover_Curiosity%2C_Right_Side_View.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 489,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Mars_Rover_Curiosity,_Right_Side_View.JPG",
+   "desc": "Mars Rover Curiosity, Right Side View — This photograph of the NASA Mars Science Laboratory rover, Curiosity, was taken during mobility testing on June 3, 2011. The location is inside the Spacecraft Assembly Facility at NASA's Jet Propulsion Laboratory, Pasade"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/CheMin_Flight_Instrument_on_Mars_Science_Laboratory_%282011%29.jpg/960px-CheMin_Flight_Instrument_on_Mars_Science_Laboratory_%282011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "Runner1928",
+   "page": "https://commons.wikimedia.org/wiki/File:CheMin_Flight_Instrument_on_Mars_Science_Laboratory_(2011).jpg",
+   "desc": "CheMin Flight Instrument on Mars Science Laboratory (2011) — Discovered first habitable environment on another planet, 2013. Winner, Government Invention of the Year, 2013. On public display in downtown Mountain View, California, as part of NASA Ames' 75 year "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 49,
+   "unit": "holes",
+   "label": "49th drill hole"
+  },
+  {
+   "type": "focus",
+   "target": "Nazca drill hole",
+   "box": [
+    78,
+    13,
+    904,
+    995
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+ "pron_wer": 0.039,
+ "angle": 0,
+ "source": {
+  "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:48:39Z",
+ "trimmed": true
+}

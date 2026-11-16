@@ -47,7 +47,8 @@
   "Banksia aculeata",
   "Australasian Antarctic Expedition",
   "1909 Chinese provincial elections",
-  "nasa:1505194"
+  "nasa:1505194",
+  "Battersea Bridge"
  ],
  "rejected": [
   "Chameleon",
@@ -209,6 +210,9 @@
   ],
   "nasa:1505194": [
    "The Land of Standing-Up Rocks: An ancient eruption unleashed 1,000 times Mount St. Helens."
+  ],
+  "Battersea Bridge": [
+   "London's Most Dangerous Bridge: London’s Battersea Bridge was famously dangerous."
   ]
  },
  "exhausted": []
