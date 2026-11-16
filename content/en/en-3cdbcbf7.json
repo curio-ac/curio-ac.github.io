@@ -1,0 +1,407 @@
+{
+ "id": "en-3cdbcbf7",
+ "lang": "en",
+ "title": "Confusing Delaware Coin Dates",
+ "cat": "history",
+ "emoji": "🪙",
+ "sentences": [
+  "This 1936 coin wasn't actually minted then.",
+  "The Delaware Tercentenary half dollar commemorates the 300th anniversary of the first successful European settlement there.",
+  "Its reverse features the Swedish ship Kalmar Nyckel.",
+  "The obverse depicts Old Swedes Church, America's oldest Protestant church still used for worship.",
+  "Although dated 1936, 1638, and 1938, these coins were officially struck in 1937."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.24,
+    0.24
+   ],
+   [
+    "1936",
+    0.24,
+    1.2
+   ],
+   [
+    "coin",
+    1.2,
+    1.72
+   ],
+   [
+    "wasn't",
+    1.72,
+    2.38
+   ],
+   [
+    "actually",
+    2.42,
+    2.78
+   ],
+   [
+    "minted",
+    2.78,
+    3.26
+   ],
+   [
+    "then.",
+    3.26,
+    3.36
+   ],
+   [
+    "The",
+    4.04,
+    4.14
+   ],
+   [
+    "Delaware",
+    4.14,
+    4.52
+   ],
+   [
+    "Tercentenary",
+    4.52,
+    5.42
+   ],
+   [
+    "half",
+    5.42,
+    5.76
+   ],
+   [
+    "dollar",
+    5.76,
+    6.08
+   ],
+   [
+    "commemorates",
+    6.22,
+    6.76
+   ],
+   [
+    "the",
+    6.82,
+    6.92
+   ],
+   [
+    "300th",
+    6.92,
+    7.7
+   ],
+   [
+    "anniversary",
+    7.74,
+    8.08
+   ],
+   [
+    "of",
+    8.08,
+    8.54
+   ],
+   [
+    "the",
+    8.54,
+    8.68
+   ],
+   [
+    "first",
+    8.68,
+    8.98
+   ],
+   [
+    "successful",
+    9.1,
+    9.64
+   ],
+   [
+    "European",
+    9.98,
+    10.08
+   ],
+   [
+    "settlement",
+    10.08,
+    10.54
+   ],
+   [
+    "there.",
+    10.54,
+    10.64
+   ],
+   [
+    "Its",
+    11.48,
+    11.6
+   ],
+   [
+    "reverse",
+    11.6,
+    11.96
+   ],
+   [
+    "features",
+    11.96,
+    12.4
+   ],
+   [
+    "the",
+    12.4,
+    12.7
+   ],
+   [
+    "Swedish",
+    12.7,
+    13.0
+   ],
+   [
+    "ship",
+    13.0,
+    13.38
+   ],
+   [
+    "Kalmar",
+    13.6,
+    13.96
+   ],
+   [
+    "Nyckel.",
+    13.96,
+    14.24
+   ],
+   [
+    "The",
+    14.98,
+    15.1
+   ],
+   [
+    "obverse",
+    15.1,
+    15.58
+   ],
+   [
+    "depicts",
+    15.58,
+    15.82
+   ],
+   [
+    "Old",
+    16.1,
+    16.3
+   ],
+   [
+    "Swedes",
+    16.3,
+    16.78
+   ],
+   [
+    "Church,",
+    16.78,
+    17.02
+   ],
+   [
+    "America's",
+    17.58,
+    17.98
+   ],
+   [
+    "oldest",
+    17.98,
+    18.34
+   ],
+   [
+    "Protestant",
+    18.34,
+    18.84
+   ],
+   [
+    "church",
+    18.84,
+    19.26
+   ],
+   [
+    "still",
+    19.36,
+    19.6
+   ],
+   [
+    "used",
+    19.6,
+    19.96
+   ],
+   [
+    "for",
+    19.96,
+    20.12
+   ],
+   [
+    "worship.",
+    20.12,
+    20.48
+   ],
+   [
+    "Although",
+    21.22,
+    21.4
+   ],
+   [
+    "dated",
+    21.4,
+    21.74
+   ],
+   [
+    "1936,",
+    21.74,
+    23.16
+   ],
+   [
+    "1638,",
+    23.2,
+    24.26
+   ],
+   [
+    "and",
+    24.3,
+    24.34
+   ],
+   [
+    "1938,",
+    24.34,
+    25.04
+   ],
+   [
+    "these",
+    25.72,
+    25.86
+   ],
+   [
+    "coins",
+    25.86,
+    26.12
+   ],
+   [
+    "were",
+    26.12,
+    26.36
+   ],
+   [
+    "officially",
+    26.36,
+    26.76
+   ],
+   [
+    "struck",
+    26.76,
+    27.14
+   ],
+   [
+    "in",
+    27.14,
+    27.42
+   ],
+   [
+    "1937.",
+    27.42,
+    28.12
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   23,
+   31,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Delaware_1936_half_obverse.png/960px-Delaware_1936_half_obverse.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 719,
+   "license": "Public domain",
+   "artist": "U.S. Mint (coin); Heritage Auctions (image)",
+   "page": "https://commons.wikimedia.org/wiki/File:Delaware_1936_half_obverse.png",
+   "desc": "Delaware 1936 half obverse — 1936 (Philadelphia) Delaware Tercentenary half dollar obverse"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Delaware_Tercentenary_half_dollar_obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 678,
+   "license": "Public domain",
+   "artist": "Coin: Carl L. Schmitz. Image by green18 at cointalk.com (that is a username, not",
+   "page": "https://commons.wikimedia.org/wiki/File:Delaware_Tercentenary_half_dollar_obverse.jpg",
+   "desc": "Delaware Tercentenary half dollar obverse — Obverse of a Delaware Tercentenary half dollar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kalmar_Nyckel_by_Jacob_H%C3%A4gg_cropped.jpg/960px-Kalmar_Nyckel_by_Jacob_H%C3%A4gg_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 655,
+   "license": "Public domain",
+   "artist": "Jacob Hägg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_Nyckel_by_Jacob_H%C3%A4gg_cropped.jpg",
+   "desc": "Kalmar Nyckel by Jacob Hägg cropped — Cropped version."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Old_Swedes_Church_engraving_by_John_Sartain.jpg/960px-Old_Swedes_Church_engraving_by_John_Sartain.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 470,
+   "license": "Public domain",
+   "artist": "John Sartain",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Swedes_Church_engraving_by_John_Sartain.jpg",
+   "desc": "Old Swedes Church engraving by John Sartain — Swede's Church, Wilmington, Del."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  0
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1936
+  },
+  {
+   "type": "stat",
+   "value": 300,
+   "unit": "years",
+   "label": "anniversary"
+  },
+  {
+   "type": "focus",
+   "target": "Kalmar Nyckel ship",
+   "box": [
+    136,
+    237,
+    874,
+    864
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1937
+  }
+ ],
+ "geo": null,
+ "qid": "Q28075769",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Delaware Tercentenary half dollar",
+  "url": "https://en.wikipedia.org/wiki/Delaware_Tercentenary_half_dollar",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:48:42Z",
+ "trimmed": true
+}
