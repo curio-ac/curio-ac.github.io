@@ -1,0 +1,387 @@
+{
+ "id": "en-a5efe33b",
+ "lang": "en",
+ "title": "Secret University And Nobel Legacy",
+ "cat": "history",
+ "emoji": "🔬",
+ "sentences": [
+  "She studied at a clandestine Flying University.",
+  "In 1891, she moved to Paris.",
+  "She followed her elder sister Bronisława there.",
+  "In 1906, she became the first woman professor at the University of Paris.",
+  "She and Pierre were the first married couple to win a Nobel Prize.",
+  "This launched an amazing family legacy of 5 Nobel Prizes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.35,
+    0.35
+   ],
+   [
+    "studied",
+    0.35,
+    0.67
+   ],
+   [
+    "at",
+    0.67,
+    0.91
+   ],
+   [
+    "a",
+    0.91,
+    1.05
+   ],
+   [
+    "clandestine",
+    1.09,
+    1.69
+   ],
+   [
+    "Flying",
+    1.69,
+    1.99
+   ],
+   [
+    "University.",
+    1.99,
+    2.74
+   ],
+   [
+    "In",
+    3.41,
+    3.51
+   ],
+   [
+    "1891,",
+    3.51,
+    4.51
+   ],
+   [
+    "she",
+    4.87,
+    4.89
+   ],
+   [
+    "moved",
+    4.89,
+    5.15
+   ],
+   [
+    "to",
+    5.15,
+    5.37
+   ],
+   [
+    "Paris.",
+    5.37,
+    5.71
+   ],
+   [
+    "She",
+    6.33,
+    6.43
+   ],
+   [
+    "followed",
+    6.43,
+    6.77
+   ],
+   [
+    "her",
+    6.77,
+    6.97
+   ],
+   [
+    "elder",
+    6.97,
+    7.23
+   ],
+   [
+    "sister",
+    7.23,
+    7.59
+   ],
+   [
+    "Bronisława",
+    7.59,
+    8.43
+   ],
+   [
+    "there.",
+    8.43,
+    8.53
+   ],
+   [
+    "In",
+    9.17,
+    9.27
+   ],
+   [
+    "1906,",
+    9.27,
+    10.21
+   ],
+   [
+    "she",
+    10.45,
+    10.53
+   ],
+   [
+    "became",
+    10.53,
+    10.81
+   ],
+   [
+    "the",
+    10.81,
+    11.03
+   ],
+   [
+    "first",
+    11.07,
+    11.23
+   ],
+   [
+    "woman",
+    11.23,
+    11.55
+   ],
+   [
+    "professor",
+    11.55,
+    11.97
+   ],
+   [
+    "at",
+    11.97,
+    12.33
+   ],
+   [
+    "the",
+    12.33,
+    12.45
+   ],
+   [
+    "University",
+    12.45,
+    12.87
+   ],
+   [
+    "of",
+    12.87,
+    13.19
+   ],
+   [
+    "Paris.",
+    13.19,
+    13.29
+   ],
+   [
+    "She",
+    14.27,
+    14.39
+   ],
+   [
+    "and",
+    14.39,
+    14.57
+   ],
+   [
+    "Pierre",
+    14.57,
+    14.83
+   ],
+   [
+    "were",
+    14.83,
+    15.07
+   ],
+   [
+    "the",
+    15.07,
+    15.17
+   ],
+   [
+    "first",
+    15.17,
+    15.45
+   ],
+   [
+    "married",
+    15.45,
+    15.83
+   ],
+   [
+    "couple",
+    15.83,
+    16.21
+   ],
+   [
+    "to",
+    16.23,
+    16.41
+   ],
+   [
+    "win",
+    16.41,
+    16.61
+   ],
+   [
+    "a",
+    16.61,
+    16.71
+   ],
+   [
+    "Nobel",
+    16.71,
+    16.91
+   ],
+   [
+    "Prize.",
+    16.91,
+    17.41
+   ],
+   [
+    "This",
+    18.11,
+    18.25
+   ],
+   [
+    "launched",
+    18.25,
+    18.63
+   ],
+   [
+    "an",
+    18.63,
+    18.81
+   ],
+   [
+    "amazing",
+    18.81,
+    19.23
+   ],
+   [
+    "family",
+    19.23,
+    19.75
+   ],
+   [
+    "legacy",
+    19.75,
+    20.23
+   ],
+   [
+    "of",
+    20.23,
+    20.51
+   ],
+   [
+    "5",
+    20.51,
+    20.83
+   ],
+   [
+    "Nobel",
+    20.83,
+    21.21
+   ],
+   [
+    "Prizes.",
+    21.21,
+    21.79
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   20,
+   33,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Maria_Sklodowska_et_sa_s%C5%93ur_Bronislawa_en_1886.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 977,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Maria_Sklodowska_et_sa_s%C5%93ur_Bronislawa_en_1886.jpg",
+   "desc": "Maria Sklodowska et sa sœur Bronislawa en 1886 — Le départ à Paris souhaité par Maria a un coût important, que le père de Maria ne peut pas assumer seul, d’autant que Bronislawa veut elle aussi partir faire ses études à Paris, à la Faculté de médecine. Les deu"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mme_P_Curie_P1300452_corrected2.jpg/960px-Mme_P_Curie_P1300452_corrected2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 435,
+   "license": "CC BY-SA 4.0",
+   "artist": "David.Monniaux",
+   "page": "https://commons.wikimedia.org/wiki/File:Mme_P_Curie_P1300452_corrected2.jpg",
+   "desc": "Mme P Curie P1300452 corrected2 — (translated) Mrs P. Curie, professor at the Faculty of Sciences 11, Pierre Curie Street, Paris, Fifth district Card in exhibit at the Curie Museum, Pierre &amp; Marie Curie Street, Paris V"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pierre_Curie_%281859-1906%29_and_Marie_Sklodowska_Curie_%281867-1934%29%2C_c._1903_%284405627519%29.jpg/960px-Pierre_Curie_%281859-1906%29_and_Marie_Sklodowska_Curie_%281867-1934%29%2C_c._1903_%284405627519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 813,
+   "license": "No restrictions",
+   "artist": "Smithsonian Institution from United States",
+   "page": "https://commons.wikimedia.org/wiki/File:Pierre_Curie_(1859-1906)_and_Marie_Sklodowska_Curie_(1867-1934),_c._1903_(4405627519).jpg",
+   "desc": "Pierre Curie (1859-1906) and Marie Sklodowska Curie (1867-1934), c. 1903 (4405627519) — Creator: Science Service Subject: Curie, Marie 1867-1934 Curie, Pierre 1859-1906 Type: Black-and-white photographs Date: 1903 Topic: Nobel Prizes Physics Women scientists L"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1891
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1906
+  },
+  {
+   "type": "stat",
+   "value": 1903,
+   "unit": "prize",
+   "label": "Nobel Prize"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q7186",
+ "pron_wer": 0.054,
+ "angle": 1,
+ "source": {
+  "title": "Marie Curie",
+  "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:11:29Z",
+ "trimmed": true
+}
