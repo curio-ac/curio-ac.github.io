@@ -1,0 +1,376 @@
+{
+ "id": "he-3b8127f7",
+ "lang": "he",
+ "title": "הסוד של מגדל אייפל",
+ "cat": "history",
+ "emoji": "🗼",
+ "sentences": [
+  "רצו לפרק את מגדל אייפל מיד אחרי בנייתו.",
+  "הוא נבנה בשנת 1889 עבור התערוכה העולמית בפריז.",
+  "גוסטב אייפל תכנן אותו במקור עבור העיר ברצלונה.",
+  "אנשי רוח רבים התנגדו לבנייה כי העדיפו מבני אבן.",
+  "הם טענו שהמבנה החד והברזלי לא מתאים לעיר.",
+  "כיום, כ-6 מיליון מבקרים מגיעים לאתר מדי שנה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "רצו",
+    0.04,
+    0.34
+   ],
+   [
+    "לפרק",
+    0.34,
+    0.84
+   ],
+   [
+    "את",
+    0.84,
+    0.94
+   ],
+   [
+    "מגדל",
+    0.94,
+    1.34
+   ],
+   [
+    "אייפל",
+    1.34,
+    1.84
+   ],
+   [
+    "מיד",
+    1.84,
+    2.38
+   ],
+   [
+    "אחרי",
+    2.38,
+    2.7
+   ],
+   [
+    "בנייתו.",
+    2.7,
+    3.22
+   ],
+   [
+    "הוא",
+    3.76,
+    3.86
+   ],
+   [
+    "נבנה",
+    3.86,
+    4.18
+   ],
+   [
+    "בשנת",
+    4.18,
+    4.6
+   ],
+   [
+    "1889",
+    4.72,
+    6.0
+   ],
+   [
+    "עבור",
+    6.0,
+    7.1
+   ],
+   [
+    "התערוכה",
+    7.1,
+    7.72
+   ],
+   [
+    "העולמית",
+    7.72,
+    8.18
+   ],
+   [
+    "בפריז.",
+    8.18,
+    8.5
+   ],
+   [
+    "גוסטב",
+    9.42,
+    9.84
+   ],
+   [
+    "אייפל",
+    9.84,
+    10.38
+   ],
+   [
+    "תכנן",
+    10.52,
+    10.82
+   ],
+   [
+    "אותו",
+    10.82,
+    10.98
+   ],
+   [
+    "במקור",
+    10.98,
+    11.48
+   ],
+   [
+    "עבור",
+    11.48,
+    11.72
+   ],
+   [
+    "העיר",
+    11.72,
+    11.96
+   ],
+   [
+    "ברצלונה.",
+    11.96,
+    12.56
+   ],
+   [
+    "אנשי",
+    13.16,
+    13.5
+   ],
+   [
+    "רוח",
+    13.5,
+    13.72
+   ],
+   [
+    "רבים",
+    13.72,
+    14.28
+   ],
+   [
+    "התנגדו",
+    14.28,
+    14.78
+   ],
+   [
+    "לבנייה",
+    14.78,
+    15.24
+   ],
+   [
+    "כי",
+    15.24,
+    15.7
+   ],
+   [
+    "העדיפו",
+    15.7,
+    16.2
+   ],
+   [
+    "מבני",
+    16.2,
+    16.62
+   ],
+   [
+    "אבן.",
+    16.62,
+    16.88
+   ],
+   [
+    "הם",
+    17.7,
+    17.7
+   ],
+   [
+    "טענו",
+    17.7,
+    18.06
+   ],
+   [
+    "שהמבנה",
+    18.06,
+    18.62
+   ],
+   [
+    "החד",
+    18.62,
+    19.14
+   ],
+   [
+    "והברזלי",
+    19.14,
+    19.9
+   ],
+   [
+    "לא",
+    19.9,
+    20.4
+   ],
+   [
+    "מתאים",
+    20.4,
+    20.78
+   ],
+   [
+    "לעיר.",
+    20.78,
+    20.92
+   ],
+   [
+    "כיום,",
+    22.0,
+    22.36
+   ],
+   [
+    "כ-6",
+    22.58,
+    23.02
+   ],
+   [
+    "מיליון",
+    23.02,
+    23.78
+   ],
+   [
+    "מבקרים",
+    23.78,
+    24.32
+   ],
+   [
+    "מגיעים",
+    24.32,
+    24.74
+   ],
+   [
+    "לאתר",
+    24.74,
+    25.12
+   ],
+   [
+    "מדי",
+    25.12,
+    25.5
+   ],
+   [
+    "שנה.",
+    25.5,
+    25.78
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   24,
+   33,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Construction_of_the_Eiffel_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 421,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Construction_of_the_Eiffel_Tower.JPG",
+   "desc": "Construction of the Eiffel Tower — A series of images showing the construction of the Eiffel Tower, 1887-1889."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tour_Eiffel%2C_July_1888.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 558,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel,_July_1888.jpg",
+   "desc": "Tour Eiffel, July 1888 — Eiffel Tower, July 1888."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Gustave_Eiffel_1888_Nadar2.jpg/960px-Gustave_Eiffel_1888_Nadar2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1066,
+   "license": "Public domain",
+   "artist": "Nadar",
+   "page": "https://commons.wikimedia.org/wiki/File:Gustave_Eiffel_1888_Nadar2.jpg",
+   "desc": "Gustave Eiffel 1888 Nadar2 — Gustave Eiffel"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/960px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1199,
+   "license": "Public domain",
+   "artist": "Benh LIEU SONG",
+   "page": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+   "desc": "Tour Eiffel Wikimedia Commons (cropped) — Eiffel Tower, Paris France"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Eiffel%40night.jpg/960px-Eiffel%40night.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1018,
+   "license": "CC BY 4.0",
+   "artist": "עמית לונן",
+   "page": "https://commons.wikimedia.org/wiki/File:Eiffel@night.jpg",
+   "desc": "Eiffel@night — Eiffel Tower,Paris,The French Republic;26th of September 2024"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1889
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "iron structure",
+   "box": [
+    71,
+    202,
+    887,
+    798
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  48.858,
+  2.294
+ ],
+ "qid": "Q243",
+ "pron_wer": 0.04,
+ "angle": 1,
+ "source": {
+  "title": "מגדל אייפל",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%92%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A4%D7%9C",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:34:23Z",
+ "trimmed": true
+}
