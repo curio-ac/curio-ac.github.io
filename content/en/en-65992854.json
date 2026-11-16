@@ -1,0 +1,363 @@
+{
+ "id": "en-65992854",
+ "lang": "en",
+ "title": "Tulsa's Partial Beltway",
+ "cat": "geography",
+ "emoji": "🛣️",
+ "sentences": [
+  "This toll road forms a partial beltway around Tulsa.",
+  "The Creek Turnpike is 33.2 miles long in Oklahoma.",
+  "It connects the Turner Turnpike and the Will Rogers Turnpike.",
+  "Both ends link directly with Interstate 44.",
+  "Construction on the first section started in 1989 after 1987 authorization.",
+  "Homeowners formed Tulsans Against Turnpikes to fight the highway."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.24,
+    0.24
+   ],
+   [
+    "toll",
+    0.24,
+    0.54
+   ],
+   [
+    "road",
+    0.54,
+    0.82
+   ],
+   [
+    "forms",
+    0.82,
+    1.22
+   ],
+   [
+    "a",
+    1.22,
+    1.44
+   ],
+   [
+    "partial",
+    1.44,
+    1.8
+   ],
+   [
+    "beltway",
+    1.8,
+    2.36
+   ],
+   [
+    "around",
+    2.38,
+    2.66
+   ],
+   [
+    "Tulsa.",
+    2.66,
+    3.08
+   ],
+   [
+    "The",
+    3.78,
+    3.82
+   ],
+   [
+    "Creek",
+    3.82,
+    4.06
+   ],
+   [
+    "Turnpike",
+    4.06,
+    4.62
+   ],
+   [
+    "is",
+    4.62,
+    4.92
+   ],
+   [
+    "33.2",
+    4.92,
+    6.22
+   ],
+   [
+    "miles",
+    6.22,
+    6.44
+   ],
+   [
+    "long",
+    6.44,
+    6.86
+   ],
+   [
+    "in",
+    6.86,
+    7.1
+   ],
+   [
+    "Oklahoma.",
+    7.1,
+    7.85
+   ],
+   [
+    "It",
+    8.22,
+    8.3
+   ],
+   [
+    "connects",
+    8.3,
+    8.56
+   ],
+   [
+    "the",
+    8.56,
+    8.86
+   ],
+   [
+    "Turner",
+    8.86,
+    9.12
+   ],
+   [
+    "Turnpike",
+    9.12,
+    9.66
+   ],
+   [
+    "and",
+    9.66,
+    10.06
+   ],
+   [
+    "the",
+    10.06,
+    10.2
+   ],
+   [
+    "Will",
+    10.2,
+    10.36
+   ],
+   [
+    "Rogers",
+    10.36,
+    10.66
+   ],
+   [
+    "Turnpike.",
+    10.66,
+    11.14
+   ],
+   [
+    "Both",
+    11.84,
+    12.02
+   ],
+   [
+    "ends",
+    12.02,
+    12.34
+   ],
+   [
+    "link",
+    12.34,
+    12.64
+   ],
+   [
+    "directly",
+    12.64,
+    13.2
+   ],
+   [
+    "with",
+    13.2,
+    13.46
+   ],
+   [
+    "Interstate",
+    13.46,
+    13.98
+   ],
+   [
+    "44.",
+    13.98,
+    14.68
+   ],
+   [
+    "Construction",
+    15.4,
+    15.72
+   ],
+   [
+    "on",
+    15.72,
+    16.16
+   ],
+   [
+    "the",
+    16.16,
+    16.28
+   ],
+   [
+    "first",
+    16.28,
+    16.5
+   ],
+   [
+    "section",
+    16.5,
+    16.9
+   ],
+   [
+    "started",
+    16.9,
+    17.34
+   ],
+   [
+    "in",
+    17.34,
+    17.6
+   ],
+   [
+    "1989",
+    17.6,
+    18.4
+   ],
+   [
+    "after",
+    19.08,
+    19.18
+   ],
+   [
+    "1987",
+    19.18,
+    19.82
+   ],
+   [
+    "authorization.",
+    19.82,
+    20.98
+   ],
+   [
+    "Homeowners",
+    21.68,
+    22.02
+   ],
+   [
+    "formed",
+    22.02,
+    22.4
+   ],
+   [
+    "Tulsans",
+    22.4,
+    23.08
+   ],
+   [
+    "Against",
+    23.08,
+    23.4
+   ],
+   [
+    "Turnpikes",
+    23.4,
+    24.1
+   ],
+   [
+    "to",
+    24.1,
+    24.38
+   ],
+   [
+    "fight",
+    24.5,
+    24.64
+   ],
+   [
+    "the",
+    24.64,
+    24.84
+   ],
+   [
+    "highway.",
+    24.84,
+    25.12
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   28,
+   35,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Creek_Turnpike_OSM.png/960px-Creek_Turnpike_OSM.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 417,
+   "license": "CC BY-SA 2.0",
+   "artist": "OpenStreetMap contributors, Scott Nazelrod",
+   "page": "https://commons.wikimedia.org/wiki/File:Creek_Turnpike_OSM.png",
+   "desc": "Creek Turnpike OSM — Map of the Creek Turnpike (appears in bright red) made from OpenStreetMap data, overlaid with KML from English Wikipedia in Marble."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  0,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 33.2,
+   "unit": "miles",
+   "label": "Turnpike length"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1989
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2171599",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Creek Turnpike",
+  "url": "https://en.wikipedia.org/wiki/Creek_Turnpike",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:28:09Z",
+ "trimmed": true
+}

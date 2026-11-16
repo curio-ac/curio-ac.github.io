@@ -34,11 +34,13 @@
   "Black hole",
   "Marie Curie",
   "nasa:1399541",
-  "Leonardo da Vinci"
+  "Leonardo da Vinci",
+  "Immune system"
  ],
  "rejected": [
   "Chameleon",
-  "nasa:1509704"
+  "nasa:1509704",
+  "nasa:1282056"
  ],
  "angles": {
   "Blue whale": [
@@ -149,6 +151,9 @@
   ],
   "Leonardo da Vinci": [
    "The Ultimate Renaissance Genius: Leonardo da Vinci was a true polymath."
+  ],
+  "Immune system": [
+   "Your Body's Secret Defense: Your immune system fights off splinters."
   ]
  },
  "exhausted": []
