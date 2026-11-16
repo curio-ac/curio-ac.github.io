@@ -1,0 +1,435 @@
+{
+ "id": "en-38a83820",
+ "lang": "en",
+ "title": "The Hidden Prickly Banksia",
+ "cat": "biology",
+ "emoji": "🌿",
+ "sentences": [
+  "This shrub hides its flowers inside itself.",
+  "Banksia aculeata grows only in Western Australia’s Stirling Range.",
+  "These plants reach up to 2 meters tall with very prickly leaves.",
+  "Its unusual pinkish flower spikes hang down during early summer.",
+  "Unlike many banksias, it lacks a woody base.",
+  "Fire kills this rare plant, but it regenerates from seeds.",
+  "Surprisingly, it resists a deadly soil mold."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.45
+   ],
+   [
+    "shrub",
+    0.45,
+    0.81
+   ],
+   [
+    "hides",
+    0.83,
+    1.03
+   ],
+   [
+    "its",
+    1.03,
+    1.21
+   ],
+   [
+    "flowers",
+    1.33,
+    1.61
+   ],
+   [
+    "inside",
+    1.61,
+    2.05
+   ],
+   [
+    "itself.",
+    2.05,
+    2.75
+   ],
+   [
+    "Banksia",
+    3.11,
+    3.49
+   ],
+   [
+    "aculeata",
+    3.49,
+    4.03
+   ],
+   [
+    "grows",
+    4.03,
+    4.31
+   ],
+   [
+    "only",
+    4.31,
+    4.75
+   ],
+   [
+    "in",
+    4.75,
+    4.93
+   ],
+   [
+    "Western",
+    4.93,
+    5.25
+   ],
+   [
+    "Australia’s",
+    5.25,
+    6.03
+   ],
+   [
+    "Stirling",
+    6.03,
+    6.41
+   ],
+   [
+    "Range.",
+    6.41,
+    6.65
+   ],
+   [
+    "These",
+    7.35,
+    7.47
+   ],
+   [
+    "plants",
+    7.47,
+    7.77
+   ],
+   [
+    "reach",
+    7.77,
+    8.05
+   ],
+   [
+    "up",
+    8.05,
+    8.23
+   ],
+   [
+    "to",
+    8.23,
+    8.37
+   ],
+   [
+    "2",
+    8.39,
+    8.61
+   ],
+   [
+    "meters",
+    8.61,
+    8.81
+   ],
+   [
+    "tall",
+    8.81,
+    9.21
+   ],
+   [
+    "with",
+    9.21,
+    9.41
+   ],
+   [
+    "very",
+    9.41,
+    9.69
+   ],
+   [
+    "prickly",
+    9.69,
+    10.09
+   ],
+   [
+    "leaves.",
+    10.09,
+    10.33
+   ],
+   [
+    "Its",
+    10.97,
+    11.07
+   ],
+   [
+    "unusual",
+    11.07,
+    11.49
+   ],
+   [
+    "pinkish",
+    11.49,
+    12.13
+   ],
+   [
+    "flower",
+    12.13,
+    12.47
+   ],
+   [
+    "spikes",
+    12.47,
+    12.79
+   ],
+   [
+    "hang",
+    12.79,
+    13.19
+   ],
+   [
+    "down",
+    13.19,
+    13.47
+   ],
+   [
+    "during",
+    13.47,
+    13.73
+   ],
+   [
+    "early",
+    13.73,
+    14.07
+   ],
+   [
+    "summer.",
+    14.07,
+    14.45
+   ],
+   [
+    "Unlike",
+    15.01,
+    15.23
+   ],
+   [
+    "many",
+    15.23,
+    15.51
+   ],
+   [
+    "banksias,",
+    15.51,
+    16.35
+   ],
+   [
+    "it",
+    16.35,
+    16.41
+   ],
+   [
+    "lacks",
+    16.41,
+    16.67
+   ],
+   [
+    "a",
+    16.67,
+    16.89
+   ],
+   [
+    "woody",
+    16.89,
+    17.07
+   ],
+   [
+    "base.",
+    17.07,
+    17.33
+   ],
+   [
+    "Fire",
+    18.05,
+    18.25
+   ],
+   [
+    "kills",
+    18.25,
+    18.63
+   ],
+   [
+    "this",
+    18.63,
+    18.89
+   ],
+   [
+    "rare",
+    18.89,
+    19.11
+   ],
+   [
+    "plant,",
+    19.11,
+    19.55
+   ],
+   [
+    "but",
+    19.57,
+    19.67
+   ],
+   [
+    "it",
+    19.67,
+    19.77
+   ],
+   [
+    "regenerates",
+    19.77,
+    20.39
+   ],
+   [
+    "from",
+    20.47,
+    20.57
+   ],
+   [
+    "seeds.",
+    20.57,
+    20.82
+   ],
+   [
+    "Surprisingly,",
+    21.61,
+    22.47
+   ],
+   [
+    "it",
+    22.53,
+    22.55
+   ],
+   [
+    "resists",
+    22.55,
+    22.99
+   ],
+   [
+    "a",
+    23.07,
+    23.17
+   ],
+   [
+    "deadly",
+    23.17,
+    23.51
+   ],
+   [
+    "soil",
+    23.51,
+    23.97
+   ],
+   [
+    "mold.",
+    23.97,
+    24.43
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   28,
+   38,
+   46,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Banksia_aculeata_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 964,
+   "license": "CC BY-SA 4.0",
+   "artist": "Hesperian",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_aculeata_map.png",
+   "desc": "Banksia aculeata map — This is a map of Western Australia, showing the distribution of Banksia aculeata, superimposed on a background of the IBRA 6.1 biogeographic regions."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Banksia_aculeata.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1079,
+   "license": "CC BY-SA 3.0",
+   "artist": "MainlandQuokka",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_aculeata.JPG",
+   "desc": "Banksia aculeata — Banksia aculeata along the northern part of Red Gum Pass Rd in Stirling Range National Park, WA"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Banksia_aculeata-1.JPG/960px-Banksia_aculeata-1.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1064,
+   "license": "CC BY-SA 3.0",
+   "artist": "MainlandQuokka",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_aculeata-1.JPG",
+   "desc": "Banksia aculeata-1 — Banksia aculeata along Red Gum Pass Rd, Stirling Range National Park, WA"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/B_telmatiaea_25_gnangarra.jpg/960px-B_telmatiaea_25_gnangarra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.5 au",
+   "artist": "Gnangarra",
+   "page": "https://commons.wikimedia.org/wiki/File:B_telmatiaea_25_gnangarra.jpg",
+   "desc": "B telmatiaea 25 gnangarra — Banksia telmatiaea (Swamp Fox Banksia) after fire. The maternal plant has been killed, but the fire has also triggered the release of seed, ensuring population recovery. Images of Banksia telmatiaea taken in the Yule Bro"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 2,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2882681",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "Banksia aculeata",
+  "url": "https://en.wikipedia.org/wiki/Banksia_aculeata",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T17:54:39Z",
+ "trimmed": true
+}

@@ -42,7 +42,8 @@
   "Burnley F.C. in European football",
   "The Boat Race 2018",
   "Arnold Bax",
-  "Australian Air Corps"
+  "Australian Air Corps",
+  "nasa:1508684"
  ],
  "rejected": [
   "Chameleon",
@@ -182,6 +183,9 @@
   ],
   "Australian Air Corps": [
    "Australia's Forgotten Air Force: Australia once had a temporary stop-gap air force."
+  ],
+  "nasa:1508684": [
+   "Gravitational Waves Find New Worlds: Gravitational waves could reveal hidden alien worlds."
   ]
  },
  "exhausted": []
