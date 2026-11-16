@@ -1,0 +1,479 @@
+{
+ "id": "en-5a689787",
+ "lang": "en",
+ "title": "The Secret Inside Your Coffee",
+ "cat": "history",
+ "emoji": "☕",
+ "sentences": [
+  "Coffee comes from fruit seeds!",
+  "These seeds are roasted, ground, and steeped in hot water.",
+  "It is dark, bitter, and gives you a caffeine boost.",
+  "You can drink it hot, iced, or as an espresso.",
+  "People often add milk, cream, or sugar to change the flavor.",
+  "Its history connects to food traditions around the Red Sea.",
+  "By the mid-15th century, Sufis in Yemen were already drinking it."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Coffee",
+    0.35,
+    0.35
+   ],
+   [
+    "comes",
+    0.35,
+    0.61
+   ],
+   [
+    "from",
+    0.61,
+    0.83
+   ],
+   [
+    "fruit",
+    0.83,
+    1.09
+   ],
+   [
+    "seeds!",
+    1.09,
+    1.19
+   ],
+   [
+    "These",
+    2.13,
+    2.15
+   ],
+   [
+    "seeds",
+    2.15,
+    2.53
+   ],
+   [
+    "are",
+    2.53,
+    2.69
+   ],
+   [
+    "roasted,",
+    2.69,
+    3.05
+   ],
+   [
+    "ground,",
+    3.05,
+    3.15
+   ],
+   [
+    "and",
+    3.73,
+    3.79
+   ],
+   [
+    "steeped",
+    4.05,
+    4.15
+   ],
+   [
+    "in",
+    4.15,
+    4.21
+   ],
+   [
+    "hot",
+    4.21,
+    4.41
+   ],
+   [
+    "water.",
+    4.41,
+    4.66
+   ],
+   [
+    "It",
+    5.21,
+    5.27
+   ],
+   [
+    "is",
+    5.27,
+    5.37
+   ],
+   [
+    "dark,",
+    5.37,
+    5.62
+   ],
+   [
+    "bitter,",
+    5.81,
+    6.15
+   ],
+   [
+    "and",
+    6.17,
+    6.29
+   ],
+   [
+    "gives",
+    6.29,
+    6.49
+   ],
+   [
+    "you",
+    6.49,
+    6.67
+   ],
+   [
+    "a",
+    6.67,
+    6.77
+   ],
+   [
+    "caffeine",
+    6.77,
+    7.13
+   ],
+   [
+    "boost.",
+    7.13,
+    7.47
+   ],
+   [
+    "You",
+    8.07,
+    8.15
+   ],
+   [
+    "can",
+    8.19,
+    8.29
+   ],
+   [
+    "drink",
+    8.29,
+    8.49
+   ],
+   [
+    "it",
+    8.49,
+    8.63
+   ],
+   [
+    "hot,",
+    8.63,
+    8.97
+   ],
+   [
+    "iced,",
+    9.13,
+    9.51
+   ],
+   [
+    "or",
+    9.55,
+    9.61
+   ],
+   [
+    "as",
+    9.61,
+    9.77
+   ],
+   [
+    "an",
+    9.77,
+    9.87
+   ],
+   [
+    "espresso.",
+    9.87,
+    10.27
+   ],
+   [
+    "People",
+    10.97,
+    11.07
+   ],
+   [
+    "often",
+    11.07,
+    11.43
+   ],
+   [
+    "add",
+    11.43,
+    11.73
+   ],
+   [
+    "milk,",
+    11.73,
+    12.07
+   ],
+   [
+    "cream,",
+    12.31,
+    12.73
+   ],
+   [
+    "or",
+    12.79,
+    12.83
+   ],
+   [
+    "sugar",
+    12.83,
+    13.15
+   ],
+   [
+    "to",
+    13.15,
+    13.37
+   ],
+   [
+    "change",
+    13.41,
+    13.65
+   ],
+   [
+    "the",
+    13.65,
+    13.85
+   ],
+   [
+    "flavor.",
+    13.85,
+    14.19
+   ],
+   [
+    "Its",
+    14.73,
+    14.83
+   ],
+   [
+    "history",
+    14.83,
+    15.19
+   ],
+   [
+    "connects",
+    15.19,
+    15.51
+   ],
+   [
+    "to",
+    15.51,
+    15.83
+   ],
+   [
+    "food",
+    15.93,
+    16.09
+   ],
+   [
+    "traditions",
+    16.09,
+    16.57
+   ],
+   [
+    "around",
+    16.57,
+    16.93
+   ],
+   [
+    "the",
+    16.93,
+    17.17
+   ],
+   [
+    "Red",
+    17.17,
+    17.33
+   ],
+   [
+    "Sea.",
+    17.33,
+    17.59
+   ],
+   [
+    "By",
+    18.25,
+    18.35
+   ],
+   [
+    "the",
+    18.35,
+    18.45
+   ],
+   [
+    "mid-15th",
+    18.45,
+    19.17
+   ],
+   [
+    "century,",
+    19.17,
+    19.82
+   ],
+   [
+    "Sufis",
+    19.93,
+    20.25
+   ],
+   [
+    "in",
+    20.25,
+    20.43
+   ],
+   [
+    "Yemen",
+    20.43,
+    20.67
+   ],
+   [
+    "were",
+    20.67,
+    20.91
+   ],
+   [
+    "already",
+    20.91,
+    21.27
+   ],
+   [
+    "drinking",
+    21.27,
+    21.61
+   ],
+   [
+    "it.",
+    21.61,
+    21.97
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   15,
+   25,
+   35,
+   46,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Coffee_berries.jpg/960px-Coffee_berries.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Cornellier",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_berries.jpg",
+   "desc": "Coffee berries — Arabica coffee berries on the bush"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Coffee_beans_unroasted.jpg/960px-Coffee_beans_unroasted.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 490,
+   "license": "CC BY-SA 4.0",
+   "artist": "Isai Symens",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_beans_unroasted.jpg",
+   "desc": "Coffee beans unroasted — Coffee beans"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/CXLT_Coffee.jpg/960px-CXLT_Coffee.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1009,
+   "license": "CC BY 3.0",
+   "artist": "FoxLad (talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:CXLT_Coffee.jpg",
+   "desc": "CXLT Coffee — A 500 gram bag of coffee beans purchased from a grocery. Cost about $4."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Caf%C3%A9s_con_hielo_2-_Bilbao_-_Guggenheim.jpg/960px-Caf%C3%A9s_con_hielo_2-_Bilbao_-_Guggenheim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Mover el Bigote",
+   "page": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9s_con_hielo_2-_Bilbao_-_Guggenheim.jpg",
+   "desc": "Cafés con hielo 2- Bilbao - Guggenheim — Dos cafés solos y un vaso de hielo. www.moverelbigote.com/junta-general-de-accionistas-de-mov..."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Coffee_with_Cream_and_Sugar_%286703560771%29.jpg/960px-Coffee_with_Cream_and_Sugar_%286703560771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY 2.0",
+   "artist": "TheCulinaryGeek from Chicago, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_with_Cream_and_Sugar_(6703560771).jpg",
+   "desc": "Coffee with Cream and Sugar (6703560771) — Coffee in a white cup served on a saucer with stirring spoon."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/FMIB_43951_Red_Sea_and_its_Coral_Reefs.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1000,
+   "license": "Public domain",
+   "artist": "Élisée Reclus",
+   "page": "https://commons.wikimedia.org/wiki/File:FMIB_43951_Red_Sea_and_its_Coral_Reefs.jpeg",
+   "desc": "FMIB 43951 Red Sea and its Coral Reefs — Red Sea and its Coral Reefs Subject: Red Sea--Maps, Coral reefs and islands--Maps, Reefs--Red Sea--Maps Geographic Subject: Red Sea Tag: Coasts"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/1004-CoffeeSceneCairo18th.jpg/960px-1004-CoffeeSceneCairo18th.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 485,
+   "license": "Public domain",
+   "artist": "G. W. Seitz",
+   "page": "https://commons.wikimedia.org/wiki/File:1004-CoffeeSceneCairo18th.jpg",
+   "desc": "1004-CoffeeSceneCairo18th — Cairo: a coffee-house with men sitting on wooden benches to smoke and drink. Colour lithograph by G.W. Seitz, ca. 1878, after Carl Werner, 1871."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q8486",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Coffee",
+  "url": "https://en.wikipedia.org/wiki/Coffee",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:17:07Z",
+ "trimmed": true
+}
