@@ -17,7 +17,7 @@ concurrency:
 jobs:
   make:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 100
     strategy:
       fail-fast: false
       matrix:
