@@ -1,0 +1,381 @@
+{
+ "id": "en-3b5db9e9",
+ "lang": "en",
+ "title": "2018 Boat Race Results",
+ "cat": "history",
+ "emoji": "🚣",
+ "sentences": [
+  "Four major rowing races happened on 1 day.",
+  "Teams from Oxford and Cambridge competed on the River Thames.",
+  "A 4.2-mile tidal stretch hosted the historic event.",
+  "The women's race kicked off the sports action.",
+  "Cambridge's Blondie defeated Oxford's Osiris by 9 lengths.",
+  "Goldie also won the men's reserve race for Cambridge."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Four",
+    0.35,
+    0.35
+   ],
+   [
+    "major",
+    0.35,
+    0.67
+   ],
+   [
+    "rowing",
+    0.67,
+    1.13
+   ],
+   [
+    "races",
+    1.13,
+    1.47
+   ],
+   [
+    "happened",
+    1.75,
+    1.85
+   ],
+   [
+    "on",
+    1.85,
+    2.07
+   ],
+   [
+    "1",
+    2.07,
+    2.31
+   ],
+   [
+    "day.",
+    2.31,
+    3.11
+   ],
+   [
+    "Teams",
+    3.31,
+    3.31
+   ],
+   [
+    "from",
+    3.31,
+    3.55
+   ],
+   [
+    "Oxford",
+    3.55,
+    3.93
+   ],
+   [
+    "and",
+    3.99,
+    4.21
+   ],
+   [
+    "Cambridge",
+    4.21,
+    4.65
+   ],
+   [
+    "competed",
+    4.65,
+    5.17
+   ],
+   [
+    "on",
+    5.17,
+    5.41
+   ],
+   [
+    "the",
+    5.43,
+    5.53
+   ],
+   [
+    "River",
+    5.53,
+    5.71
+   ],
+   [
+    "Thames.",
+    5.71,
+    6.07
+   ],
+   [
+    "A",
+    6.71,
+    6.79
+   ],
+   [
+    "4.2-mile",
+    6.79,
+    7.79
+   ],
+   [
+    "tidal",
+    7.79,
+    8.25
+   ],
+   [
+    "stretch",
+    8.25,
+    8.53
+   ],
+   [
+    "hosted",
+    8.53,
+    9.05
+   ],
+   [
+    "the",
+    9.11,
+    9.21
+   ],
+   [
+    "historic",
+    9.21,
+    9.57
+   ],
+   [
+    "event.",
+    9.57,
+    9.95
+   ],
+   [
+    "The",
+    10.53,
+    10.59
+   ],
+   [
+    "women's",
+    10.59,
+    10.97
+   ],
+   [
+    "race",
+    10.97,
+    11.25
+   ],
+   [
+    "kicked",
+    11.25,
+    11.53
+   ],
+   [
+    "off",
+    11.63,
+    11.77
+   ],
+   [
+    "the",
+    11.77,
+    11.95
+   ],
+   [
+    "sports",
+    11.95,
+    12.21
+   ],
+   [
+    "action.",
+    12.21,
+    12.71
+   ],
+   [
+    "Cambridge's",
+    13.29,
+    13.77
+   ],
+   [
+    "Blondie",
+    13.77,
+    14.31
+   ],
+   [
+    "defeated",
+    14.31,
+    14.63
+   ],
+   [
+    "Oxford's",
+    14.63,
+    15.35
+   ],
+   [
+    "Osiris",
+    15.35,
+    15.93
+   ],
+   [
+    "by",
+    15.93,
+    16.11
+   ],
+   [
+    "9",
+    16.11,
+    16.43
+   ],
+   [
+    "lengths.",
+    16.43,
+    16.97
+   ],
+   [
+    "Goldie",
+    17.47,
+    17.81
+   ],
+   [
+    "also",
+    17.81,
+    18.13
+   ],
+   [
+    "won",
+    18.13,
+    18.41
+   ],
+   [
+    "the",
+    18.41,
+    18.53
+   ],
+   [
+    "men's",
+    18.53,
+    18.87
+   ],
+   [
+    "reserve",
+    18.87,
+    19.23
+   ],
+   [
+    "race",
+    19.23,
+    19.61
+   ],
+   [
+    "for",
+    19.61,
+    19.79
+   ],
+   [
+    "Cambridge.",
+    19.79,
+    20.27
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   26,
+   34,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Boat_Race_2018_%2809%29.jpg/960px-Boat_Race_2018_%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 427,
+   "license": "CC BY-SA 4.0",
+   "artist": "Katie Chan",
+   "page": "https://commons.wikimedia.org/wiki/File:Boat_Race_2018_(09).jpg",
+   "desc": "Boat Race 2018 (09) — The Cancer Research UK Boat Race 2018"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Boat_Race_2018_-_Men%27s_Blues_Race_%2822%29.jpg/960px-Boat_Race_2018_-_Men%27s_Blues_Race_%2822%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Katie Chan",
+   "page": "https://commons.wikimedia.org/wiki/File:Boat_Race_2018_-_Men%27s_Blues_Race_(22).jpg",
+   "desc": "Boat Race 2018 - Men's Blues Race (22) — The Cancer Research UK Boat Race 2018 - Men's Blues Race"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Boat_Race_2018_-_5_team_members_Women%27s_Reserve_Race_%2806%29.jpg/960px-Boat_Race_2018_-_5_team_members_Women%27s_Reserve_Race_%2806%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Katie Chan",
+   "page": "https://commons.wikimedia.org/wiki/File:Boat_Race_2018_-_5_team_members_Women%27s_Reserve_Race_(06).jpg",
+   "desc": "Boat Race 2018 - 5 team members Women's Reserve Race (06) — The Cancer Research UK Boat Race 2018 - Women's Reserve Race - Coin Toss Reserve crew were Lucy Pike (Trinity Hall), Emma Andrews (Pembroke), Daphne Martschenko (Magdalene) , Anne Beenken (Peterhouse)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rowing_team_captains_Joris_and_England_shake_hands.jpg/960px-Rowing_team_captains_Joris_and_England_shake_hands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 543,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Rowing_team_captains_Joris_and_England_shake_hands.jpg",
+   "desc": "Rowing team captains Joris and England shake hands — Rowing team captains Joris and England shake hands at the inaugural Oxford v. Cambridge Women's Boat Race in 1927"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Boat_Race_2018_-_Men%27s_Reserve_Race_%2801%29.jpg/960px-Boat_Race_2018_-_Men%27s_Reserve_Race_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Katie Chan",
+   "page": "https://commons.wikimedia.org/wiki/File:Boat_Race_2018_-_Men%27s_Reserve_Race_(01).jpg",
+   "desc": "Boat Race 2018 - Men's Reserve Race (01) — The Cancer Research UK Boat Race 2018 - Men's Reserve Race - Umpire - Richard Phelps"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "day",
+   "label": "rowing races"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4.2,
+   "unit": "mile",
+   "label": "River Thames"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q39057217",
+ "pron_wer": 0.07,
+ "angle": 1,
+ "source": {
+  "title": "The Boat Race 2018",
+  "url": "https://en.wikipedia.org/wiki/The_Boat_Race_2018",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:02:50Z",
+ "trimmed": true
+}
