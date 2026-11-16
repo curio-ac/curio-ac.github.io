@@ -1,0 +1,14 @@
+{
+ "lang": "en",
+ "exhausted_day": null,
+ "runs": [
+  {
+   "at": "2026-11-16T05:51:52Z",
+   "made": 3,
+   "rejected": 0,
+   "repaired": 3,
+   "calls": 32,
+   "notes": []
+  }
+ ]
+}
