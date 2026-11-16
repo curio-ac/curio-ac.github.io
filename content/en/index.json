@@ -56,7 +56,8 @@
   "City of Champaign v. Madigan",
   "nasa:1439420",
   "Donkey Kong",
-  "Delaware Tercentenary half dollar"
+  "Delaware Tercentenary half dollar",
+  "Socialist Soviet Republic of Abkhazia"
  ],
  "rejected": [
   "Chameleon",
@@ -250,6 +251,9 @@
   ],
   "Delaware Tercentenary half dollar": [
    "Confusing Delaware Coin Dates: This 1936 coin wasn't actually minted then."
+  ],
+  "Socialist Soviet Republic of Abkhazia": [
+   "The Forgotten Soviet Republic: Abkhazia was once its own Soviet Republic."
   ]
  },
  "exhausted": []

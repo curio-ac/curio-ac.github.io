@@ -1,0 +1,432 @@
+{
+ "id": "en-a3e8d5d3",
+ "lang": "en",
+ "title": "NASA Tracking Deadly Air",
+ "cat": "technology",
+ "emoji": "🌍",
+ "sentences": [
+  "Tiny particles are killing millions annually.",
+  "NASA installed 10 sensors in Addis Ababa to track air quality.",
+  "These devices monitor PM2.5, a dangerous form of pollution.",
+  "They specifically measure black carbon produced by diesel engines and fires.",
+  "Data reveals exactly when pollution spikes during daily traffic.",
+  "These invisible particles are small enough to enter your bloodstream.",
+  "This research helps cities worldwide combat premature mortality."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Tiny",
+    0.3,
+    0.3
+   ],
+   [
+    "particles",
+    0.3,
+    0.72
+   ],
+   [
+    "are",
+    0.72,
+    1.18
+   ],
+   [
+    "killing",
+    1.32,
+    1.48
+   ],
+   [
+    "millions",
+    1.48,
+    2.04
+   ],
+   [
+    "annually.",
+    2.04,
+    3.19
+   ],
+   [
+    "NASA",
+    3.48,
+    3.72
+   ],
+   [
+    "installed",
+    3.72,
+    4.26
+   ],
+   [
+    "10",
+    4.26,
+    4.58
+   ],
+   [
+    "sensors",
+    4.58,
+    5.08
+   ],
+   [
+    "in",
+    5.08,
+    5.36
+   ],
+   [
+    "Addis",
+    5.44,
+    5.7
+   ],
+   [
+    "Ababa",
+    5.7,
+    6.0
+   ],
+   [
+    "to",
+    6.0,
+    6.4
+   ],
+   [
+    "track",
+    6.4,
+    6.7
+   ],
+   [
+    "air",
+    6.7,
+    6.94
+   ],
+   [
+    "quality.",
+    6.94,
+    7.32
+   ],
+   [
+    "These",
+    8.08,
+    8.2
+   ],
+   [
+    "devices",
+    8.2,
+    8.54
+   ],
+   [
+    "monitor",
+    8.54,
+    9.1
+   ],
+   [
+    "PM2.5,",
+    9.1,
+    10.46
+   ],
+   [
+    "a",
+    10.86,
+    10.96
+   ],
+   [
+    "dangerous",
+    10.96,
+    11.3
+   ],
+   [
+    "form",
+    11.3,
+    11.72
+   ],
+   [
+    "of",
+    11.72,
+    11.88
+   ],
+   [
+    "pollution.",
+    11.88,
+    12.3
+   ],
+   [
+    "They",
+    13.0,
+    13.1
+   ],
+   [
+    "specifically",
+    13.1,
+    13.58
+   ],
+   [
+    "measure",
+    13.58,
+    14.06
+   ],
+   [
+    "black",
+    14.06,
+    14.28
+   ],
+   [
+    "carbon",
+    14.28,
+    14.8
+   ],
+   [
+    "produced",
+    14.8,
+    15.14
+   ],
+   [
+    "by",
+    15.14,
+    15.4
+   ],
+   [
+    "diesel",
+    15.4,
+    15.68
+   ],
+   [
+    "engines",
+    15.68,
+    16.14
+   ],
+   [
+    "and",
+    16.14,
+    16.36
+   ],
+   [
+    "fires.",
+    16.36,
+    16.8
+   ],
+   [
+    "Data",
+    17.66,
+    17.82
+   ],
+   [
+    "reveals",
+    17.82,
+    18.2
+   ],
+   [
+    "exactly",
+    18.2,
+    18.78
+   ],
+   [
+    "when",
+    18.78,
+    19.06
+   ],
+   [
+    "pollution",
+    19.06,
+    19.36
+   ],
+   [
+    "spikes",
+    19.36,
+    19.72
+   ],
+   [
+    "during",
+    19.72,
+    20.1
+   ],
+   [
+    "daily",
+    20.1,
+    20.36
+   ],
+   [
+    "traffic.",
+    20.36,
+    20.72
+   ],
+   [
+    "These",
+    21.6,
+    21.74
+   ],
+   [
+    "invisible",
+    21.74,
+    22.2
+   ],
+   [
+    "particles",
+    22.2,
+    22.74
+   ],
+   [
+    "are",
+    22.76,
+    23.04
+   ],
+   [
+    "small",
+    23.04,
+    23.34
+   ],
+   [
+    "enough",
+    23.34,
+    23.6
+   ],
+   [
+    "to",
+    23.6,
+    23.78
+   ],
+   [
+    "enter",
+    23.86,
+    24.04
+   ],
+   [
+    "your",
+    24.04,
+    24.22
+   ],
+   [
+    "bloodstream.",
+    24.22,
+    24.7
+   ],
+   [
+    "This",
+    25.42,
+    25.52
+   ],
+   [
+    "research",
+    25.52,
+    25.86
+   ],
+   [
+    "helps",
+    25.86,
+    26.2
+   ],
+   [
+    "cities",
+    26.2,
+    26.48
+   ],
+   [
+    "worldwide",
+    26.48,
+    27.08
+   ],
+   [
+    "combat",
+    27.08,
+    27.58
+   ],
+   [
+    "premature",
+    27.58,
+    27.92
+   ],
+   [
+    "mortality.",
+    27.92,
+    28.62
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   26,
+   37,
+   46,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/MAIA_Air_Sensor_at_Work_in_Addis_Ababa_%28PIA26698%29.jpg/960px-MAIA_Air_Sensor_at_Work_in_Addis_Ababa_%28PIA26698%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 333,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:MAIA_Air_Sensor_at_Work_in_Addis_Ababa_(PIA26698).jpg",
+   "desc": "MAIA Air Sensor at Work in Addis Ababa (PIA26698) — This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Particulate_matter_volume%2C_number_and_diameter.png/960px-Particulate_matter_volume%2C_number_and_diameter.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 472,
+   "license": "CC BY-SA 4.0",
+   "artist": "Pekachu",
+   "page": "https://commons.wikimedia.org/wiki/File:Particulate_matter_volume,_number_and_diameter.png",
+   "desc": "Particulate matter volume, number and diameter — 粒子状物質（大気エアロゾル粒子の粒子径-体積（濃度）分布および粒子径-個数分布のグラフ。 出典：国際環境経済研究所 PM2.5実態研究委員会「目に見えないのにどうやって？ PM2.5の「測り方」」、2013．(原典:William C. Hinds, 1999. \"Aerosol Technology, J\". Wiley &amp; Sons New York を改変)"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "air sensor",
+   "box": [
+    200,
+    471,
+    971,
+    513
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": "10",
+   "unit": "sensors",
+   "label": "monitoring devices"
+  },
+  {
+   "type": "compare",
+   "value": 2.5e-06,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "MAIA Air Sensor at Work in Addis Ababa",
+  "url": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:53:16Z",
+ "trimmed": true
+}
