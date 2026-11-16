@@ -1,0 +1,444 @@
+{
+ "id": "en-70029b59",
+ "lang": "en",
+ "title": "Meet the Space Bear",
+ "cat": "biology",
+ "emoji": "🐻",
+ "sentences": [
+  "These tiny creatures have survived in outer space.",
+  "Known as water bears, they are 8-legged micro-animals.",
+  "Tardigrades live everywhere, from deep oceans to Antarctica.",
+  "They are among the most resilient animals known.",
+  "These tough survivors can endure extreme pressure and radiation.",
+  "They also withstand dehydration and starvation that kill others.",
+  "Their history stretches back 500 million years to the Cambrian."
+ ],
+ "tim": {
+  "w": [
+   [
+    "These",
+    0.14,
+    0.3
+   ],
+   [
+    "tiny",
+    0.3,
+    0.68
+   ],
+   [
+    "creatures",
+    0.68,
+    1.12
+   ],
+   [
+    "have",
+    1.12,
+    1.44
+   ],
+   [
+    "survived",
+    1.48,
+    1.96
+   ],
+   [
+    "in",
+    1.96,
+    2.22
+   ],
+   [
+    "outer",
+    2.38,
+    2.48
+   ],
+   [
+    "space.",
+    2.48,
+    2.58
+   ],
+   [
+    "Known",
+    3.74,
+    3.9
+   ],
+   [
+    "as",
+    3.9,
+    4.04
+   ],
+   [
+    "water",
+    4.04,
+    4.28
+   ],
+   [
+    "bears,",
+    4.28,
+    4.76
+   ],
+   [
+    "they",
+    4.92,
+    4.92
+   ],
+   [
+    "are",
+    4.92,
+    5.08
+   ],
+   [
+    "8-legged",
+    5.08,
+    5.76
+   ],
+   [
+    "micro-animals.",
+    5.76,
+    6.68
+   ],
+   [
+    "Tardigrades",
+    7.36,
+    7.78
+   ],
+   [
+    "live",
+    7.78,
+    8.04
+   ],
+   [
+    "everywhere,",
+    8.04,
+    8.68
+   ],
+   [
+    "from",
+    8.98,
+    9.08
+   ],
+   [
+    "deep",
+    9.08,
+    9.26
+   ],
+   [
+    "oceans",
+    9.38,
+    9.64
+   ],
+   [
+    "to",
+    9.64,
+    10.12
+   ],
+   [
+    "Antarctica.",
+    10.12,
+    10.77
+   ],
+   [
+    "They",
+    11.42,
+    11.52
+   ],
+   [
+    "are",
+    11.52,
+    11.7
+   ],
+   [
+    "among",
+    11.7,
+    11.86
+   ],
+   [
+    "the",
+    11.86,
+    12.06
+   ],
+   [
+    "most",
+    12.06,
+    12.22
+   ],
+   [
+    "resilient",
+    12.36,
+    12.68
+   ],
+   [
+    "animals",
+    12.68,
+    13.22
+   ],
+   [
+    "known.",
+    13.22,
+    13.32
+   ],
+   [
+    "These",
+    14.28,
+    14.4
+   ],
+   [
+    "tough",
+    14.4,
+    14.58
+   ],
+   [
+    "survivors",
+    14.58,
+    15.02
+   ],
+   [
+    "can",
+    15.02,
+    15.26
+   ],
+   [
+    "endure",
+    15.26,
+    15.52
+   ],
+   [
+    "extreme",
+    15.52,
+    15.88
+   ],
+   [
+    "pressure",
+    16.04,
+    16.4
+   ],
+   [
+    "and",
+    16.4,
+    16.64
+   ],
+   [
+    "radiation.",
+    16.64,
+    17.2
+   ],
+   [
+    "They",
+    17.96,
+    18.04
+   ],
+   [
+    "also",
+    18.04,
+    18.28
+   ],
+   [
+    "withstand",
+    18.28,
+    18.66
+   ],
+   [
+    "dehydration",
+    18.66,
+    19.52
+   ],
+   [
+    "and",
+    19.52,
+    19.82
+   ],
+   [
+    "starvation",
+    19.82,
+    20.5
+   ],
+   [
+    "that",
+    20.5,
+    20.76
+   ],
+   [
+    "kill",
+    20.76,
+    21.0
+   ],
+   [
+    "others.",
+    21.0,
+    21.3
+   ],
+   [
+    "Their",
+    22.02,
+    22.12
+   ],
+   [
+    "history",
+    22.12,
+    22.42
+   ],
+   [
+    "stretches",
+    22.42,
+    22.84
+   ],
+   [
+    "back",
+    22.84,
+    23.16
+   ],
+   [
+    "500",
+    23.16,
+    23.78
+   ],
+   [
+    "million",
+    23.78,
+    24.38
+   ],
+   [
+    "years",
+    24.38,
+    24.76
+   ],
+   [
+    "to",
+    24.76,
+    25.18
+   ],
+   [
+    "the",
+    25.2,
+    25.3
+   ],
+   [
+    "Cambrian.",
+    25.3,
+    25.6
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   24,
+   32,
+   41,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Biopan_Space_Expo_001.jpg/960px-Biopan_Space_Expo_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 984,
+   "license": "CC BY-SA 4.0",
+   "artist": "Hnapel",
+   "page": "https://commons.wikimedia.org/wiki/File:Biopan_Space_Expo_001.jpg",
+   "desc": "Biopan Space Expo 001 — Experiment BIOPAN-5 onderdeel van de Foton-M2 missie waarbij korstmossen overleefden in de ruimte."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Echiniscus_insularis_%2810.3897-evolsyst.5.59997%29_Figure_6_%28white_background%29.jpg/960px-Echiniscus_insularis_%2810.3897-evolsyst.5.59997%29_Figure_6_%28white_background%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 503,
+   "license": "CC BY 4.0",
+   "artist": "Kiosya Y, Vončina K, Gąsiorek P (2021) Echiniscidae in the Mascarenes: the wonde",
+   "page": "https://commons.wikimedia.org/wiki/File:Echiniscus_insularis_(10.3897-evolsyst.5.59997)_Figure_6_(white_background).jpg",
+   "desc": "Echiniscus insularis (10.3897-evolsyst.5.59997) Figure 6 (white background) — Figure 6; Morphological details of Echiniscus insularis sp. nov.: A female in lateral view (SEM), B male cephalic appendages (SEM), C male gonopore (SEM), D, E appendages along the c"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Echiniscus_testudo_Doyere_1840_Pl_12_Fig_1.png/960px-Echiniscus_testudo_Doyere_1840_Pl_12_Fig_1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 773,
+   "license": "Public domain",
+   "artist": "E de Laplante",
+   "page": "https://commons.wikimedia.org/wiki/File:Echiniscus_testudo_Doyere_1840_Pl_12_Fig_1.png",
+   "desc": "Echiniscus testudo Doyere 1840 Pl 12 Fig 1 — Echiniscus testudo on a grain of sand. Doyère called this species \"Emydium testudo\"."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/First_Recorded_Image_of_Tardigrade.jpg/960px-First_Recorded_Image_of_Tardigrade.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 570,
+   "license": "Public domain",
+   "artist": "Johann August Ephraim Goeze",
+   "page": "https://commons.wikimedia.org/wiki/File:First_Recorded_Image_of_Tardigrade.jpg",
+   "desc": "First Recorded Image of Tardigrade — The first recorded image of a tardigrade, 1773"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%27Ark_van_Noach_3.0%27_door_Arno_Coenen%2C_Eusebiuskerk%2C_Arnhem_01_%28cropped%29.jpg/960px-%27Ark_van_Noach_3.0%27_door_Arno_Coenen%2C_Eusebiuskerk%2C_Arnhem_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 571,
+   "license": "CC BY-SA 4.0",
+   "artist": "FakirNL",
+   "page": "https://commons.wikimedia.org/wiki/File:%27Ark_van_Noach_3.0%27_door_Arno_Coenen,_Eusebiuskerk,_Arnhem_01_(cropped).jpg",
+   "desc": "'Ark van Noach 3.0' door Arno Coenen, Eusebiuskerk, Arnhem 01 (cropped) — 'Noah's Ark 3.0' by Arno Coenen, Eusebiuskerk, Arnhem, the Netherlands. Among others tardigrade, coronavirus, and sperm cell."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Macrobiotus_ornatus_var._spinifer_by_Ferdinand_Richters_1900.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 281,
+   "license": "Public domain",
+   "artist": "Ferdinand Richters (1878-1914)",
+   "page": "https://commons.wikimedia.org/wiki/File:Macrobiotus_ornatus_var._spinifer_by_Ferdinand_Richters_1900.jpg",
+   "desc": "Macrobiotus ornatus var. spinifer by Ferdinand Richters 1900 — Illustration of the tardigrade Macrobiotus ornatus var. spinifer by Ferdinand Richters, 1900"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Fossil_Tardigrade_Dominican_Amber.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 387,
+   "license": "CC BY-SA 4.0",
+   "artist": "Holly Sullivan",
+   "page": "https://commons.wikimedia.org/wiki/File:Fossil_Tardigrade_Dominican_Amber.png",
+   "desc": "Fossil Tardigrade Dominican Amber — Paradoryphoribius restoration"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q5194",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Tardigrade",
+  "url": "https://en.wikipedia.org/wiki/Tardigrade",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:13:19Z",
+ "trimmed": true
+}
