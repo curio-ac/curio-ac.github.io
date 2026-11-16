@@ -1,0 +1,349 @@
+{
+ "id": "en-26f5ca4c",
+ "lang": "en",
+ "title": "Venus on Earth",
+ "cat": "space",
+ "emoji": "🏜️",
+ "sentences": [
+  "An ancient lake is now Venus on Earth.",
+  "Ice Age Lake Bonneville once matched Lake Michigan's massive size.",
+  "A catastrophic dam breach drained 350 feet of water in six weeks.",
+  "Today, its salty remnants host extreme land speed records.",
+  "NASA even tested Venus-bound cameras on its rugged terrain."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.35,
+    0.37
+   ],
+   [
+    "ancient",
+    0.43,
+    0.65
+   ],
+   [
+    "lake",
+    0.65,
+    0.95
+   ],
+   [
+    "is",
+    0.97,
+    1.09
+   ],
+   [
+    "now",
+    1.09,
+    1.31
+   ],
+   [
+    "Venus",
+    1.31,
+    1.59
+   ],
+   [
+    "on",
+    1.59,
+    1.87
+   ],
+   [
+    "Earth.",
+    1.87,
+    2.11
+   ],
+   [
+    "Ice",
+    2.71,
+    2.87
+   ],
+   [
+    "Age",
+    2.87,
+    3.07
+   ],
+   [
+    "Lake",
+    3.07,
+    3.31
+   ],
+   [
+    "Bonneville",
+    3.31,
+    3.77
+   ],
+   [
+    "once",
+    3.77,
+    3.99
+   ],
+   [
+    "matched",
+    3.99,
+    4.41
+   ],
+   [
+    "Lake",
+    4.49,
+    4.65
+   ],
+   [
+    "Michigan's",
+    4.65,
+    5.21
+   ],
+   [
+    "massive",
+    5.21,
+    5.55
+   ],
+   [
+    "size.",
+    5.55,
+    5.95
+   ],
+   [
+    "A",
+    6.65,
+    6.75
+   ],
+   [
+    "catastrophic",
+    6.75,
+    7.21
+   ],
+   [
+    "dam",
+    7.21,
+    7.75
+   ],
+   [
+    "breach",
+    7.75,
+    8.05
+   ],
+   [
+    "drained",
+    8.05,
+    8.37
+   ],
+   [
+    "350",
+    8.37,
+    8.99
+   ],
+   [
+    "feet",
+    8.99,
+    9.59
+   ],
+   [
+    "of",
+    9.59,
+    9.73
+   ],
+   [
+    "water",
+    9.73,
+    10.07
+   ],
+   [
+    "in",
+    10.07,
+    10.29
+   ],
+   [
+    "six",
+    10.29,
+    10.55
+   ],
+   [
+    "weeks.",
+    10.55,
+    10.65
+   ],
+   [
+    "Today,",
+    11.45,
+    12.19
+   ],
+   [
+    "its",
+    12.25,
+    12.27
+   ],
+   [
+    "salty",
+    12.27,
+    12.61
+   ],
+   [
+    "remnants",
+    12.67,
+    13.05
+   ],
+   [
+    "host",
+    13.05,
+    13.39
+   ],
+   [
+    "extreme",
+    13.39,
+    13.93
+   ],
+   [
+    "land",
+    13.93,
+    14.31
+   ],
+   [
+    "speed",
+    14.31,
+    14.63
+   ],
+   [
+    "records.",
+    14.63,
+    14.95
+   ],
+   [
+    "NASA",
+    15.79,
+    16.09
+   ],
+   [
+    "even",
+    16.09,
+    16.41
+   ],
+   [
+    "tested",
+    16.41,
+    16.85
+   ],
+   [
+    "Venus-bound",
+    16.91,
+    17.57
+   ],
+   [
+    "cameras",
+    17.57,
+    18.13
+   ],
+   [
+    "on",
+    18.13,
+    18.39
+   ],
+   [
+    "its",
+    18.39,
+    18.51
+   ],
+   [
+    "rugged",
+    18.51,
+    18.79
+   ],
+   [
+    "terrain.",
+    18.79,
+    19.23
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   30,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/What_Lake_Bonneville_Left_Behind_%281278993_-_utahcraterisland_oli_20260604%29.jpg/960px-What_Lake_Bonneville_Left_Behind_%281278993_-_utahcraterisland_oli_20260604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 505,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:What_Lake_Bonneville_Left_Behind_(1278993_-_utahcraterisland_oli_20260604).jpg",
+   "desc": "What Lake Bonneville Left Behind (1278993 - utahcraterisland oli 20260604) — NASA scientists analyzed the terrain in this part of Utah when testing technologies that will be used on NASA's DAVINCI mission to Venus. This image was acquired with the OLI (Operati"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/What_Lake_Bonneville_Left_Behind_%281278993_-_craterisland_oli_20260604%29.jpg/960px-What_Lake_Bonneville_Left_Behind_%281278993_-_craterisland_oli_20260604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 601,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:What_Lake_Bonneville_Left_Behind_(1278993_-_craterisland_oli_20260604).jpg",
+   "desc": "What Lake Bonneville Left Behind (1278993 - craterisland oli 20260604) — The rugged terrain of the Silver Island Mountains and Crater Island rises above the pale playa and bright salt flats of former Lake Bonneville. The image was acquired with the OLI (Operat"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/What_Lake_Bonneville_Left_Behind_%281278993_-_bonnevillesaltflats_oli_20260604%29.jpg/960px-What_Lake_Bonneville_Left_Behind_%281278993_-_bonnevillesaltflats_oli_20260604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:What_Lake_Bonneville_Left_Behind_(1278993_-_bonnevillesaltflats_oli_20260604).jpg",
+   "desc": "What Lake Bonneville Left Behind (1278993 - bonnevillesaltflats oli 20260604) — People mine minerals from the Bonneville Salt Flats and use its flat surface to pursue land speed records. This image was acquired with the OLI (Operational Land Imager) on Landsat"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 55000,
+   "unit": "years ago",
+   "label": "Lake Bonneville"
+  },
+  {
+   "type": "stat",
+   "value": 350,
+   "unit": "feet",
+   "label": "water drained"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Crater Island",
+   "box": [
+    13,
+    440,
+    360,
+    631
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+ "pron_wer": 0.06,
+ "angle": 0,
+ "source": {
+  "title": "What Lake Bonneville Left Behind",
+  "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:58:42Z",
+ "trimmed": true
+}
