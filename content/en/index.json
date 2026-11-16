@@ -60,7 +60,8 @@
   "Socialist Soviet Republic of Abkhazia",
   "nasa:1279561",
   "1989–90 Gillingham F.C. season",
-  "4th Missouri Infantry Regiment (Confederate)"
+  "4th Missouri Infantry Regiment (Confederate)",
+  "nasa:1278993"
  ],
  "rejected": [
   "Chameleon",
@@ -266,6 +267,9 @@
   ],
   "4th Missouri Infantry Regiment (Confederate)": [
    "Short-Lived Confederate Regiment: This Confederate regiment lasted only months!"
+  ],
+  "nasa:1278993": [
+   "Venus on Earth: An ancient lake is now Venus on Earth."
   ]
  },
  "exhausted": []

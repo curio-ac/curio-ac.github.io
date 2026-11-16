@@ -1,0 +1,412 @@
+{
+ "id": "en-3cc4e9e7",
+ "lang": "en",
+ "title": "Bowie's Secret Final Album",
+ "cat": "art",
+ "emoji": "⭐️",
+ "sentences": [
+  "David Bowie recorded his final album in secret.",
+  "It was released on his 69th birthday in 2016.",
+  "The experimental record mixes atmospheric art rock with jazz.",
+  "Bowie took inspiration from artists including Kendrick Lamar.",
+  "The lyrics feature themes of death.",
+  "Songs are told from the perspective of the dead.",
+  "Star segments at the bottom spell out Bowie."
+ ],
+ "tim": {
+  "w": [
+   [
+    "David",
+    0.35,
+    0.35
+   ],
+   [
+    "Bowie",
+    0.35,
+    0.79
+   ],
+   [
+    "recorded",
+    0.79,
+    1.15
+   ],
+   [
+    "his",
+    1.15,
+    1.41
+   ],
+   [
+    "final",
+    1.41,
+    1.71
+   ],
+   [
+    "album",
+    1.71,
+    2.15
+   ],
+   [
+    "in",
+    2.15,
+    2.33
+   ],
+   [
+    "secret.",
+    2.33,
+    2.53
+   ],
+   [
+    "It",
+    3.33,
+    3.33
+   ],
+   [
+    "was",
+    3.33,
+    3.45
+   ],
+   [
+    "released",
+    3.45,
+    3.75
+   ],
+   [
+    "on",
+    3.75,
+    4.05
+   ],
+   [
+    "his",
+    4.05,
+    4.17
+   ],
+   [
+    "69th",
+    4.17,
+    4.85
+   ],
+   [
+    "birthday",
+    4.91,
+    5.19
+   ],
+   [
+    "in",
+    5.23,
+    5.47
+   ],
+   [
+    "2016.",
+    5.47,
+    6.33
+   ],
+   [
+    "The",
+    6.95,
+    6.97
+   ],
+   [
+    "experimental",
+    6.97,
+    7.45
+   ],
+   [
+    "record",
+    7.85,
+    7.95
+   ],
+   [
+    "mixes",
+    7.95,
+    8.33
+   ],
+   [
+    "atmospheric",
+    8.33,
+    9.07
+   ],
+   [
+    "art",
+    9.07,
+    9.37
+   ],
+   [
+    "rock",
+    9.37,
+    9.67
+   ],
+   [
+    "with",
+    9.67,
+    9.83
+   ],
+   [
+    "jazz.",
+    9.83,
+    10.15
+   ],
+   [
+    "Bowie",
+    10.83,
+    11.11
+   ],
+   [
+    "took",
+    11.11,
+    11.25
+   ],
+   [
+    "inspiration",
+    11.25,
+    11.77
+   ],
+   [
+    "from",
+    11.77,
+    12.17
+   ],
+   [
+    "artists",
+    12.17,
+    12.63
+   ],
+   [
+    "including",
+    12.63,
+    13.11
+   ],
+   [
+    "Kendrick",
+    13.11,
+    13.67
+   ],
+   [
+    "Lamar.",
+    13.67,
+    14.13
+   ],
+   [
+    "The",
+    14.65,
+    14.71
+   ],
+   [
+    "lyrics",
+    14.71,
+    14.93
+   ],
+   [
+    "feature",
+    14.93,
+    15.29
+   ],
+   [
+    "themes",
+    15.31,
+    15.79
+   ],
+   [
+    "of",
+    15.79,
+    16.01
+   ],
+   [
+    "death.",
+    16.01,
+    16.31
+   ],
+   [
+    "Songs",
+    16.87,
+    17.03
+   ],
+   [
+    "are",
+    17.03,
+    17.33
+   ],
+   [
+    "told",
+    17.33,
+    17.63
+   ],
+   [
+    "from",
+    17.63,
+    17.87
+   ],
+   [
+    "the",
+    17.89,
+    17.99
+   ],
+   [
+    "perspective",
+    17.99,
+    18.35
+   ],
+   [
+    "of",
+    18.35,
+    18.65
+   ],
+   [
+    "the",
+    18.65,
+    18.73
+   ],
+   [
+    "dead.",
+    18.73,
+    19.05
+   ],
+   [
+    "Star",
+    19.59,
+    19.81
+   ],
+   [
+    "segments",
+    19.81,
+    20.23
+   ],
+   [
+    "at",
+    20.23,
+    20.47
+   ],
+   [
+    "the",
+    20.47,
+    20.55
+   ],
+   [
+    "bottom",
+    20.55,
+    20.87
+   ],
+   [
+    "spell",
+    21.09,
+    21.19
+   ],
+   [
+    "out",
+    21.19,
+    21.43
+   ],
+   [
+    "Bowie.",
+    21.43,
+    21.79
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   34,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/David_Bowie_%28135687113%29.jpeg/960px-David_Bowie_%28135687113%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "CC BY 3.0",
+   "artist": "Roger Woolman",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Bowie_(135687113).jpeg",
+   "desc": "David Bowie (135687113) — 500px provided description: David Bowie [#show ,#rock ,#concert ,#music ,#live ,#guitar ,#performance ,#stage ,#gig ,#band ,#musician ,#singer ,#live music ,#bowie ,#David Bowie ,#Roger Woolman]"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Collage_of_the_jazz_quintet_that_played_on_David_Bowie%27s_Blackstar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Esaenzdetejada Svíčková Takahiro Kyono Heernt",
+   "page": "https://commons.wikimedia.org/wiki/File:Collage_of_the_jazz_quintet_that_played_on_David_Bowie%27s_Blackstar.jpg",
+   "desc": "Collage of the jazz quintet that played on David Bowie's Blackstar — Collage of the jazz quintet that played on David Bowie's Blackstar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Pulitzer2018-portraits-kendrick-lamar_%28cropped%29.jpg/960px-Pulitzer2018-portraits-kendrick-lamar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Fuzheado",
+   "page": "https://commons.wikimedia.org/wiki/File:Pulitzer2018-portraits-kendrick-lamar_(cropped).jpg",
+   "desc": "Pulitzer2018-portraits-kendrick-lamar (cropped) — Pulitzer Prizes 2018 award ceremony - Kendrick Lamar"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Johan_Renck_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1140,
+   "license": "CC BY-SA 3.0",
+   "artist": "Frankie Fouganthin",
+   "page": "https://commons.wikimedia.org/wiki/File:Johan_Renck_2013.jpg",
+   "desc": "Johan Renck 2013 — Йохан Ренк 2013 год"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/20161128-142503-Jonathan_Barnbrook-m-NP.jpg/960px-20161128-142503-Jonathan_Barnbrook-m-NP.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 638,
+   "license": "CC BY-SA 4.0",
+   "artist": "Norman Posselt",
+   "page": "https://commons.wikimedia.org/wiki/File:20161128-142503-Jonathan_Barnbrook-m-NP.jpg",
+   "desc": "20161128-142503-Jonathan Barnbrook-m-NP — Portrait of Jonathan Barnbrook taken in November 2016"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2016
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q21450442",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Blackstar (album)",
+  "url": "https://en.wikipedia.org/wiki/Blackstar_%28album%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:01:54Z",
+ "trimmed": true
+}
