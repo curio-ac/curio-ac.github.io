@@ -35,7 +35,8 @@
   "Marie Curie",
   "nasa:1399541",
   "Leonardo da Vinci",
-  "Immune system"
+  "Immune system",
+  "Creek Turnpike"
  ],
  "rejected": [
   "Chameleon",
@@ -154,6 +155,9 @@
   ],
   "Immune system": [
    "Your Body's Secret Defense: Your immune system fights off splinters."
+  ],
+  "Creek Turnpike": [
+   "Tulsa's Partial Beltway: This toll road forms a partial beltway around Tulsa."
   ]
  },
  "exhausted": []

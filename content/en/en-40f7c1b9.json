@@ -1,0 +1,439 @@
+{
+ "id": "en-40f7c1b9",
+ "lang": "en",
+ "title": "Aggers: From Bowler to Broadcaster",
+ "cat": "history",
+ "emoji": "🏏",
+ "sentences": [
+  "Jonathan Agnew is nicknamed after a US Vice-president.",
+  "Born in 1960, he started as a fast bowler.",
+  "He played for Leicestershire from 1979 to 1990.",
+  "In first-class cricket, he grabbed 666 total wickets.",
+  "He earned 3 Test caps playing for England.",
+  "Wisden named him a Cricketer of the Year in 1988.",
+  "Now, he is a leading voice for radio cricket commentary."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Jonathan",
+    0.3,
+    0.3
+   ],
+   [
+    "Agnew",
+    0.3,
+    0.9
+   ],
+   [
+    "is",
+    0.9,
+    1.22
+   ],
+   [
+    "nicknamed",
+    1.22,
+    1.8
+   ],
+   [
+    "after",
+    1.8,
+    2.16
+   ],
+   [
+    "a",
+    2.16,
+    2.34
+   ],
+   [
+    "US",
+    2.34,
+    2.62
+   ],
+   [
+    "Vice-president.",
+    2.62,
+    3.52
+   ],
+   [
+    "Born",
+    4.12,
+    4.3
+   ],
+   [
+    "in",
+    4.3,
+    4.56
+   ],
+   [
+    "1960,",
+    4.56,
+    5.58
+   ],
+   [
+    "he",
+    5.9,
+    5.9
+   ],
+   [
+    "started",
+    5.9,
+    6.22
+   ],
+   [
+    "as",
+    6.22,
+    6.54
+   ],
+   [
+    "a",
+    6.54,
+    6.64
+   ],
+   [
+    "fast",
+    6.74,
+    6.9
+   ],
+   [
+    "bowler.",
+    6.9,
+    7.38
+   ],
+   [
+    "He",
+    7.9,
+    8.0
+   ],
+   [
+    "played",
+    8.0,
+    8.24
+   ],
+   [
+    "for",
+    8.24,
+    8.46
+   ],
+   [
+    "Leicestershire",
+    8.46,
+    9.02
+   ],
+   [
+    "from",
+    9.02,
+    9.24
+   ],
+   [
+    "1979",
+    9.24,
+    10.0
+   ],
+   [
+    "to",
+    10.0,
+    10.66
+   ],
+   [
+    "1990.",
+    10.66,
+    11.48
+   ],
+   [
+    "In",
+    12.04,
+    12.16
+   ],
+   [
+    "first-class",
+    12.16,
+    12.72
+   ],
+   [
+    "cricket,",
+    12.72,
+    13.24
+   ],
+   [
+    "he",
+    13.54,
+    13.56
+   ],
+   [
+    "grabbed",
+    13.56,
+    13.78
+   ],
+   [
+    "666",
+    13.78,
+    15.1
+   ],
+   [
+    "total",
+    15.1,
+    15.72
+   ],
+   [
+    "wickets.",
+    15.72,
+    16.3
+   ],
+   [
+    "He",
+    16.76,
+    16.86
+   ],
+   [
+    "earned",
+    16.86,
+    17.08
+   ],
+   [
+    "3",
+    17.08,
+    17.38
+   ],
+   [
+    "Test",
+    17.38,
+    17.66
+   ],
+   [
+    "caps",
+    17.66,
+    17.98
+   ],
+   [
+    "playing",
+    17.98,
+    18.36
+   ],
+   [
+    "for",
+    18.36,
+    18.54
+   ],
+   [
+    "England.",
+    18.54,
+    18.92
+   ],
+   [
+    "Wisden",
+    19.6,
+    20.0
+   ],
+   [
+    "named",
+    20.0,
+    20.32
+   ],
+   [
+    "him",
+    20.32,
+    20.52
+   ],
+   [
+    "a",
+    20.52,
+    20.64
+   ],
+   [
+    "Cricketer",
+    20.64,
+    21.0
+   ],
+   [
+    "of",
+    21.0,
+    21.2
+   ],
+   [
+    "the",
+    21.2,
+    21.32
+   ],
+   [
+    "Year",
+    21.32,
+    21.56
+   ],
+   [
+    "in",
+    21.56,
+    21.8
+   ],
+   [
+    "1988.",
+    21.8,
+    22.82
+   ],
+   [
+    "Now,",
+    23.48,
+    23.88
+   ],
+   [
+    "he",
+    23.94,
+    23.98
+   ],
+   [
+    "is",
+    23.98,
+    24.1
+   ],
+   [
+    "a",
+    24.1,
+    24.24
+   ],
+   [
+    "leading",
+    24.24,
+    24.38
+   ],
+   [
+    "voice",
+    24.38,
+    24.76
+   ],
+   [
+    "for",
+    24.76,
+    24.98
+   ],
+   [
+    "radio",
+    24.98,
+    25.32
+   ],
+   [
+    "cricket",
+    25.32,
+    25.64
+   ],
+   [
+    "commentary.",
+    25.64,
+    26.19
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   33,
+   41,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nick_Hancock_at_Bridgewater_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 961,
+   "license": "CC BY 3.0",
+   "artist": "Handel Productions Ltd",
+   "page": "https://commons.wikimedia.org/wiki/File:Nick_Hancock_at_Bridgewater_Hall.jpg",
+   "desc": "Nick Hancock at Bridgewater Hall — Boycott and Aggers with Nick Hancock Sir Geoffrey Boycott, Jonathan Agnew and Nick Hancock discuss Brian Clough at their recent event at the Bridgewater Hall in Manchester. With Grateful thanks to Simon Fielder Productio"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%27Bowler%27_statue_at_Lord%27s_-_geograph.org.uk_-_3412597.jpg/960px-%27Bowler%27_statue_at_Lord%27s_-_geograph.org.uk_-_3412597.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mark Percy",
+   "page": "https://commons.wikimedia.org/wiki/File:%27Bowler%27_statue_at_Lord%27s_-_geograph.org.uk_-_3412597.jpg",
+   "desc": "'Bowler' statue at Lord's - geograph.org.uk - 3412597 — 'The Bowler' statue, by Anthony Dufort, at Lord's Cricket Ground in London. The Nursery Ground is in the background, whilst the main ground is out of shot behind the camera. The bronze statue, depicting a"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/County_Ground%2C_Derby_%2815341682021%29.jpg/960px-County_Ground%2C_Derby_%2815341682021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 723,
+   "license": "CC BY 2.0",
+   "artist": "DncnH from Melton Mowbray, UK",
+   "page": "https://commons.wikimedia.org/wiki/File:County_Ground,_Derby_(15341682021).jpg",
+   "desc": "County Ground, Derby (15341682021) — During the tea break at the Derbyshire v Leicestershire County Championship match. Some of Leicestershire's player limbering up before going into the field."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Highgate_Cricket_Club_wicket_at_Crouch_End%2C_Haringey%2C_London%2C_England_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1280,
+   "license": "CC BY-SA 4.0",
+   "artist": "Acabashi",
+   "page": "https://commons.wikimedia.org/wiki/File:Highgate_Cricket_Club_wicket_at_Crouch_End,_Haringey,_London,_England_01.jpg",
+   "desc": "Highgate Cricket Club wicket at Crouch End, Haringey, London, England 01 — A wicket stumps and bales photographed during a public Sunday friendly 40-overs match on 30 June 2019 between Highgate Cricket Club (batting) and Highgate Taverners Cricket Club at Park"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/The_England_Cricket_Team_Ashes_2015.jpg/960px-The_England_Cricket_Team_Ashes_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Tim Felce",
+   "page": "https://commons.wikimedia.org/wiki/File:The_England_Cricket_Team_Ashes_2015.jpg",
+   "desc": "The England Cricket Team Ashes 2015 — England Cricket Team - The Ashes Trent Bridge 2015"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1960
+  },
+  {
+   "type": "stat",
+   "value": 1990,
+   "unit": "year",
+   "label": "Leicestershire career end"
+  },
+  {
+   "type": "stat",
+   "value": 666,
+   "unit": "wickets",
+   "label": "total wickets"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1988
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q966788",
+ "pron_wer": 0.048,
+ "angle": 0,
+ "source": {
+  "title": "Jonathan Agnew",
+  "url": "https://en.wikipedia.org/wiki/Jonathan_Agnew",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:31:16Z",
+ "trimmed": true
+}
