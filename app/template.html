@@ -155,7 +155,7 @@ function pick(){
   if(sinceQuiz>=4){const q=Q.find(q=>!quizDone.has(q.id)&&seenRefs.has(q.ref));if(q){quizDone.add(q.id);sinceQuiz=0;return{quiz:q,cat:q.cat}}}
   const ok=x=>!used.has(x.id)&&LANGS.includes(x.lang)&&!(x.qid&&shownQ[x.qid]&&shownQ[x.qid]!==x.lang); // אותו נושא לא יופיע בשתי שפות
   let pool=V.filter(x=>ok(x)&&!SEEN.has(x.id)); // קודם רק סרטונים שעוד לא ראית
-  if(!pool.length&&!pick.allSeen&&V.length){pick.allSeen=1;toast("ראית את כל הסרטונים. חדשים מגיעים כל יום")}
+  if(!pool.length&&!pick.allSeen&&V.length){pick.allSeen=1;return{end:true,quiz:true,cat:"",id:"end"}}
   if(!pool.length)pool=V.filter(ok).sort((a,b)=>(a.created>b.created?-1:1));
   if(fresh>0){const nw=pool.filter(x=>x.created===V.reduce((m,y)=>y.created>m?y.created:m,""));if(nw.length){fresh--;const x=nw[0];used.add(x.id);if(x.qid)shownQ[x.qid]=x.lang;sinceQuiz++;return x}}
   if(!pool.length){used.clear();toast("מתחילים סבב חדש");pool=V.filter(x=>LANGS.includes(x.lang)&&!(x.qid&&shownQ[x.qid]&&shownQ[x.qid]!==x.lang))}
@@ -169,6 +169,7 @@ const feed=document.getElementById("feed");
 function render(it){
   const el=document.createElement("section");el.className="post";el._it=it;
   const [c1,c2]=CATS[it.cat]||["#333","#000"];el.dir=it.lang==="en"?"ltr":"rtl";el.style.setProperty("--c1",c1);el.style.setProperty("--c2",c2);
+  if(it.end){el.dir="rtl";el.innerHTML=`<div class="quiz"><h3>ראית את כל הסרטונים החדשים</h3><div class="x on" style="opacity:1;color:#fff">סרטונים חדשים נוספים כל שעה. בינתיים אפשר להמשיך לגלול ולצפות שוב בסרטונים שאהבת.</div></div>`;return el}
   if(it.quiz){
     const q=it.quiz;
     el.innerHTML=`<div class="bg"></div><div class="quiz"><div class="tag">בדיקה קטנה</div><h3>${q.q}</h3>${q.o.map((o,i)=>`<button data-i="${i}">${o}</button>`).join("")}<div class="x">${q.x}<br><small>גללו להמשך ↑</small></div></div>`;
@@ -208,7 +209,7 @@ function showChunk(el,it,ci){
   el._ci=ci;
 }
 let pending=0;
-async function add(){const e=pick();if(!e)return;let it=e;if(!e.quiz){try{it=await full(e)}catch(err){return}}const el=render(it);feed.appendChild(el);io.observe(el)}
+async function add(){const e=pick();if(!e)return;let it=e;if(!e.quiz&&!e.end){try{it=await full(e)}catch(err){return}}const el=render(it);feed.appendChild(el);io.observe(el)}
 function ensure(n){if(!V.length)return;while(feed.children.length+pending<n){pending++;add().finally(()=>{pending--})}}
 
 // ---------- שכבת מידע ויזואלית ----------
@@ -308,10 +309,10 @@ function activate(el){
   if(cur&&cur.el===el)return;leave();
   const it=el._it;cur={el,it,enter:performance.now(),lastT:0,done:false};
   const i=[...feed.children].indexOf(el);ensure(i+4);
-  if(it.quiz){player.pause();return}
+  if(it.quiz||it.end){player.pause();return}
   if(!AC){const w=it.tim.w;player.virt={t0:performance.now(),dur:(w.length?w[w.length-1][2]:20)+.3}} // לפני הנגיעה הראשונה: רץ בלי קול
   else{const go=()=>{if(master){master.gain.cancelScheduledValues(AC.currentTime);master.gain.setValueAtTime(muted?0:1,AC.currentTime)}};if(AC.state!=="running")AC.resume().then(go);go()} // אחרי השהייה בסרטון הקודם: מחזירים את הקול
-  seenRefs.add(it.id);setTimeout(()=>{if(cur&&cur.it===it){SEEN.add(it.id);save()}},3000);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
+  seenRefs.add(it.id);setTimeout(()=>{if(cur&&cur.it===it){SEEN.add(it.id);save()}},800);cur.k=-1;cur.cn=0;cut(true);cur.lastCut=0;
   const tt=el.querySelector(".ttl");if(tt){tt.classList.add("big");clearTimeout(tt._t);tt._t=setTimeout(()=>tt.classList.remove("big"),1400)}
   let h=0;for(const ch of it.id)h=(h*31+ch.charCodeAt(0))>>>0;startMusic(h);
   player._stop();setTimeout(()=>{if(cur&&cur.it===it)player.open(it.id)},300); // רגע קטן אחרי הגלילה, כדי שהמילה הראשונה לא תיבלע
@@ -364,7 +365,8 @@ async function showAdmin(){const a=$("admin");a.style.display="flex";a.innerHTML
   ["he","en"].map((l,i)=>{const s=st[i]||{runs:[]},r=s.runs||[];return `<div style="border:1.5px solid var(--line);padding:12px;margin-bottom:12px"><b>${l==="he"?"עברית":"אנגלית"}</b><br>
   בבנק: <b>${by(l).length}</b> · נוספו היום: <b>${by(l).filter(x=>(x.created||"").startsWith(today)).length}</b>${s.exhausted_day?" · <span style='color:#ff5a4e'>המכסה היומית נוצלה</span>":""}<br>
   ${r.slice(0,8).map(x=>`<div style="border-top:1px solid var(--line);margin-top:6px;padding-top:6px">${new Date(x.at).toLocaleString("he-IL")} · נוצרו ${x.made} · נפסלו ${x.rejected} · תוקנו ${x.repaired}${(x.notes||[]).length?`<div style="color:var(--dim);font-size:12px">${x.notes.join("<br>")}</div>`:""}</div>`).join("")||"אין עדיין הרצות"}</div>`}).join("")+
-  `<button onclick="location.hash='';location.reload()" style="font:inherit;background:#fff;color:#000;border:0;padding:10px 22px;font-weight:600">סגור</button></div>`}
+  `<button onclick="document.getElementById('admin').style.display='none';history.replaceState(null,'',location.pathname)" style="font:inherit;background:#fff;color:#000;border:0;padding:10px 22px;font-weight:600">סגור</button></div>`}
+{let n=0,t=0;document.querySelector(".logo").addEventListener("click",e=>{e.stopPropagation();const now=Date.now();n=now-t<600?n+1:1;t=now;if(n>=5){n=0;showAdmin()}})}
 if(location.hash==="#admin")showAdmin();window.addEventListener("hashchange",()=>{if(location.hash==="#admin")showAdmin()});
 // התחלה אוטומטית בשתי השפות. הדפדפן מתיר קול רק אחרי נגיעה ראשונה
 LANGS=["he","en"];player.muted=true;loadFeed().then(()=>ensure(3));requestAnimationFrame(tick);
