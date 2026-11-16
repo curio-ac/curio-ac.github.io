@@ -1,0 +1,394 @@
+{
+ "id": "en-59d1230e",
+ "lang": "en",
+ "title": "Voter Fraud In 1909",
+ "cat": "history",
+ "emoji": "🗳️",
+ "sentences": [
+  "Only rich men could vote in 1909!",
+  "The Qing dynasty limited ballots to the wealthy scholar-gentry.",
+  "Public attitudes were generally apathetic during the process.",
+  "Corruption, fraud, and vote buying were common across the country.",
+  "Turnout greatly varied between provinces but stayed generally low.",
+  "Winning assemblies were packed with divided constitutionalists.",
+  "These groups featured progressive and conservative wings."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Only",
+    0.35,
+    0.51
+   ],
+   [
+    "rich",
+    0.51,
+    0.83
+   ],
+   [
+    "men",
+    0.83,
+    1.05
+   ],
+   [
+    "could",
+    1.05,
+    1.25
+   ],
+   [
+    "vote",
+    1.25,
+    1.55
+   ],
+   [
+    "in",
+    1.55,
+    1.75
+   ],
+   [
+    "1909!",
+    1.75,
+    2.3
+   ],
+   [
+    "The",
+    3.05,
+    3.15
+   ],
+   [
+    "Qing",
+    3.15,
+    3.37
+   ],
+   [
+    "dynasty",
+    3.37,
+    3.79
+   ],
+   [
+    "limited",
+    3.79,
+    4.19
+   ],
+   [
+    "ballots",
+    4.19,
+    4.67
+   ],
+   [
+    "to",
+    4.67,
+    4.91
+   ],
+   [
+    "the",
+    4.91,
+    5.03
+   ],
+   [
+    "wealthy",
+    5.19,
+    5.29
+   ],
+   [
+    "scholar-gentry.",
+    5.29,
+    5.89
+   ],
+   [
+    "Public",
+    6.65,
+    6.85
+   ],
+   [
+    "attitudes",
+    6.85,
+    7.35
+   ],
+   [
+    "were",
+    7.35,
+    7.75
+   ],
+   [
+    "generally",
+    7.75,
+    8.09
+   ],
+   [
+    "apathetic",
+    8.09,
+    8.81
+   ],
+   [
+    "during",
+    8.81,
+    9.05
+   ],
+   [
+    "the",
+    9.09,
+    9.19
+   ],
+   [
+    "process.",
+    9.19,
+    9.57
+   ],
+   [
+    "Corruption,",
+    10.23,
+    10.75
+   ],
+   [
+    "fraud,",
+    11.07,
+    11.49
+   ],
+   [
+    "and",
+    11.57,
+    11.57
+   ],
+   [
+    "vote",
+    11.57,
+    11.83
+   ],
+   [
+    "buying",
+    11.83,
+    12.17
+   ],
+   [
+    "were",
+    12.17,
+    12.41
+   ],
+   [
+    "common",
+    12.41,
+    12.75
+   ],
+   [
+    "across",
+    12.75,
+    13.01
+   ],
+   [
+    "the",
+    13.01,
+    13.27
+   ],
+   [
+    "country.",
+    13.27,
+    13.53
+   ],
+   [
+    "Turnout",
+    14.23,
+    14.55
+   ],
+   [
+    "greatly",
+    14.55,
+    14.87
+   ],
+   [
+    "varied",
+    14.93,
+    15.35
+   ],
+   [
+    "between",
+    15.35,
+    15.65
+   ],
+   [
+    "provinces",
+    15.65,
+    16.23
+   ],
+   [
+    "but",
+    16.45,
+    16.55
+   ],
+   [
+    "stayed",
+    16.55,
+    16.87
+   ],
+   [
+    "generally",
+    16.87,
+    17.31
+   ],
+   [
+    "low.",
+    17.31,
+    17.75
+   ],
+   [
+    "Winning",
+    18.31,
+    18.55
+   ],
+   [
+    "assemblies",
+    18.55,
+    19.07
+   ],
+   [
+    "were",
+    19.07,
+    19.27
+   ],
+   [
+    "packed",
+    19.27,
+    19.57
+   ],
+   [
+    "with",
+    19.57,
+    19.79
+   ],
+   [
+    "divided",
+    19.89,
+    20.29
+   ],
+   [
+    "constitutionalists.",
+    20.29,
+    21.04
+   ],
+   [
+    "These",
+    22.05,
+    22.15
+   ],
+   [
+    "groups",
+    22.15,
+    22.43
+   ],
+   [
+    "featured",
+    22.43,
+    22.89
+   ],
+   [
+    "progressive",
+    22.89,
+    23.39
+   ],
+   [
+    "and",
+    23.39,
+    23.69
+   ],
+   [
+    "conservative",
+    23.69,
+    24.19
+   ],
+   [
+    "wings.",
+    24.19,
+    24.65
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   34,
+   43,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Shibao_election_campaigning_cartoon_1909.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 834,
+   "license": "Public domain",
+   "artist": "Shibao",
+   "page": "https://commons.wikimedia.org/wiki/File:Shibao_election_campaigning_cartoon_1909.png",
+   "desc": "Shibao election campaigning cartoon 1909 — 1909 cartoon of election campaigning, from the Shanghai newspaper Shibao, 31 March 1909"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E9%A1%BA%E7%9B%B4%E5%92%A8%E8%AE%AE%E5%B1%80.JPG/960px-%E9%A1%BA%E7%9B%B4%E5%92%A8%E8%AE%AE%E5%B1%80.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 385,
+   "license": "Public domain",
+   "artist": "AnonymousUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:%E9%A1%BA%E7%9B%B4%E5%92%A8%E8%AE%AE%E5%B1%80.JPG",
+   "desc": "顺直咨议局 — ​顺直咨议局"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%E6%A2%81%E5%90%AF%E8%B6%85%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%9C%9F%E9%97%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 993,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:%E6%A2%81%E5%90%AF%E8%B6%85%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%9C%9F%E9%97%B4.jpg",
+   "desc": "梁启超在日本期间 — Liang Qichao in Japan"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1909
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q30682252",
+ "pron_wer": 0.0,
+ "angle": 2,
+ "source": {
+  "title": "1909 Chinese provincial elections",
+  "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:12:48Z",
+ "trimmed": true
+}
