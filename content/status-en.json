@@ -3,6 +3,18 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-16T19:03:32Z",
+   "made": 12,
+   "rejected": 1,
+   "repaired": 2,
+   "calls": 102,
+   "notes": [
+    "Delaware Tercentenary half dollar: 'list' object has no attribute 'get'",
+    "Socialist Soviet Republic of Abkhazia: 'list' object has no attribute 'get'",
+    "Monarch butterfly: fact-check"
+   ]
+  },
+  {
    "at": "2026-11-16T18:29:13Z",
    "made": 10,
    "rejected": 4,
