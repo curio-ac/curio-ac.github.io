@@ -1,0 +1,385 @@
+{
+ "id": "en-01a151de",
+ "lang": "en",
+ "title": "Ancient Bulgarian Roots",
+ "cat": "history",
+ "emoji": "🇧🇬",
+ "sentences": [
+  "Bulgaria has roots going back to 6,500 BC!",
+  "It sits in Southeastern Europe by the Black Sea.",
+  "Sofia is the nation's capital and largest city.",
+  "Thracians, Persians, and Celts once fought over this land.",
+  "The Roman Empire conquered the region in AD 45.",
+  "Later, early Slavs and Bulgars settled the area permanently."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Bulgaria",
+    0.35,
+    0.35
+   ],
+   [
+    "has",
+    0.35,
+    0.79
+   ],
+   [
+    "roots",
+    0.79,
+    1.07
+   ],
+   [
+    "going",
+    1.07,
+    1.31
+   ],
+   [
+    "back",
+    1.31,
+    1.57
+   ],
+   [
+    "to",
+    1.57,
+    1.77
+   ],
+   [
+    "6,500",
+    1.77,
+    3.25
+   ],
+   [
+    "BC!",
+    3.25,
+    3.81
+   ],
+   [
+    "It",
+    4.31,
+    4.43
+   ],
+   [
+    "sits",
+    4.45,
+    4.69
+   ],
+   [
+    "in",
+    4.69,
+    4.91
+   ],
+   [
+    "Southeastern",
+    4.91,
+    5.55
+   ],
+   [
+    "Europe",
+    5.55,
+    5.85
+   ],
+   [
+    "by",
+    5.85,
+    6.21
+   ],
+   [
+    "the",
+    6.21,
+    6.37
+   ],
+   [
+    "Black",
+    6.37,
+    6.57
+   ],
+   [
+    "Sea.",
+    6.57,
+    7.45
+   ],
+   [
+    "Sofia",
+    7.73,
+    7.73
+   ],
+   [
+    "is",
+    7.73,
+    8.07
+   ],
+   [
+    "the",
+    8.07,
+    8.17
+   ],
+   [
+    "nation's",
+    8.17,
+    8.51
+   ],
+   [
+    "capital",
+    8.51,
+    8.83
+   ],
+   [
+    "and",
+    8.83,
+    9.15
+   ],
+   [
+    "largest",
+    9.15,
+    9.45
+   ],
+   [
+    "city.",
+    9.45,
+    9.55
+   ],
+   [
+    "Thracians,",
+    10.43,
+    11.13
+   ],
+   [
+    "Persians,",
+    11.17,
+    11.73
+   ],
+   [
+    "and",
+    11.73,
+    11.83
+   ],
+   [
+    "Celts",
+    11.83,
+    12.19
+   ],
+   [
+    "once",
+    12.25,
+    12.37
+   ],
+   [
+    "fought",
+    12.37,
+    12.71
+   ],
+   [
+    "over",
+    12.71,
+    12.95
+   ],
+   [
+    "this",
+    12.95,
+    13.13
+   ],
+   [
+    "land.",
+    13.13,
+    13.23
+   ],
+   [
+    "The",
+    13.93,
+    13.95
+   ],
+   [
+    "Roman",
+    13.95,
+    14.13
+   ],
+   [
+    "Empire",
+    14.13,
+    14.45
+   ],
+   [
+    "conquered",
+    14.45,
+    14.85
+   ],
+   [
+    "the",
+    14.85,
+    15.07
+   ],
+   [
+    "region",
+    15.07,
+    15.35
+   ],
+   [
+    "in",
+    15.35,
+    15.63
+   ],
+   [
+    "AD",
+    15.63,
+    15.87
+   ],
+   [
+    "45.",
+    15.87,
+    16.55
+   ],
+   [
+    "Later,",
+    17.15,
+    17.59
+   ],
+   [
+    "early",
+    17.73,
+    17.87
+   ],
+   [
+    "Slavs",
+    17.87,
+    18.35
+   ],
+   [
+    "and",
+    18.35,
+    18.41
+   ],
+   [
+    "Bulgars",
+    18.41,
+    18.81
+   ],
+   [
+    "settled",
+    18.81,
+    19.11
+   ],
+   [
+    "the",
+    19.11,
+    19.31
+   ],
+   [
+    "area",
+    19.31,
+    19.57
+   ],
+   [
+    "permanently.",
+    19.57,
+    19.99
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   34,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bulgaria_Aministrative_Provinces_numbered.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 474,
+   "license": "CC0",
+   "artist": "Tourbillon",
+   "page": "https://commons.wikimedia.org/wiki/File:Bulgaria_Aministrative_Provinces_numbered.png",
+   "desc": "Bulgaria Aministrative Provinces numbered — Bulgarian administrative divisions, numbered. Based on [1]"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Alexander_Nevsky_Cathedral%2C_Sofia_%28by_Pudelek%29.JPG/960px-Alexander_Nevsky_Cathedral%2C_Sofia_%28by_Pudelek%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 466,
+   "license": "CC BY-SA 3.0",
+   "artist": "Pudelek (Marcin Szala)",
+   "page": "https://commons.wikimedia.org/wiki/File:Alexander_Nevsky_Cathedral,_Sofia_(by_Pudelek).JPG",
+   "desc": "Alexander Nevsky Cathedral, Sofia (by Pudelek) — Alexander Nevsky Cathedral, Sofia, Bulgaria"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Two_Thracian_warriors%2C_Kazanlak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 552,
+   "license": "Public domain",
+   "artist": "AnonymousUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Two_Thracian_warriors,_Kazanlak.jpg",
+   "desc": "Two Thracian warriors, Kazanlak — Part of a battle scene from a Thracian tomb in Kazanlak, circa 300 BC"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Roman_Empire_Map_AlexanderFindlay1849.png/960px-Roman_Empire_Map_AlexanderFindlay1849.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 646,
+   "license": "Public domain",
+   "artist": "User:Megistias",
+   "page": "https://commons.wikimedia.org/wiki/File:Roman_Empire_Map_AlexanderFindlay1849.png",
+   "desc": "Roman Empire Map AlexanderFindlay1849 — Map of the Roman provinces of Macedonia, Thracia, Illyricum, part of Pannonia Inferior, Moesia &amp; Dacia. It is a reproduction of the 1849 Finley Map with Roman provincial borders (of about 150 AD) added to provide mor"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bulgarians_and_Slavs_VI-VII_century.png/960px-Bulgarians_and_Slavs_VI-VII_century.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 510,
+   "license": "Public domain",
+   "artist": "Kandi",
+   "page": "https://commons.wikimedia.org/wiki/File:Bulgarians_and_Slavs_VI-VII_century.png",
+   "desc": "Bulgarians and Slavs VI-VII century — Bulgarians and Slavs VI-VII century"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": -6500
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 45
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  42.75,
+  25.5
+ ],
+ "qid": "Q219",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "Bulgaria",
+  "url": "https://en.wikipedia.org/wiki/Bulgaria",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:49:03Z",
+ "trimmed": true
+}
