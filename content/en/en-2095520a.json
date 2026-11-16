@@ -1,0 +1,385 @@
+{
+ "id": "en-2095520a",
+ "lang": "en",
+ "title": "Lost Roman Cosmic Poem Found",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "An ancient Roman wrote a cosmic poem.",
+  "Marcus Manilius wrote the Astronomica between AD 30 and 40.",
+  "It is a Latin didactic poem about celestial phenomena in 5 books.",
+  "The poem describes the zodiac and astrology.",
+  "It reflects a Stoic view of a universe governed by reason.",
+  "Italian humanist Poggio Bracciolini rediscovered the poem around 1416 to 1417."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.02,
+    0.48
+   ],
+   [
+    "ancient",
+    0.52,
+    0.78
+   ],
+   [
+    "Roman",
+    0.78,
+    1.18
+   ],
+   [
+    "wrote",
+    1.18,
+    1.52
+   ],
+   [
+    "a",
+    1.52,
+    1.7
+   ],
+   [
+    "cosmic",
+    1.74,
+    2.08
+   ],
+   [
+    "poem.",
+    2.08,
+    2.93
+   ],
+   [
+    "Marcus",
+    3.1,
+    3.34
+   ],
+   [
+    "Manilius",
+    3.34,
+    4.0
+   ],
+   [
+    "wrote",
+    4.0,
+    4.2
+   ],
+   [
+    "the",
+    4.28,
+    4.38
+   ],
+   [
+    "Astronomica",
+    4.38,
+    4.98
+   ],
+   [
+    "between",
+    4.98,
+    5.24
+   ],
+   [
+    "AD",
+    5.24,
+    5.64
+   ],
+   [
+    "30",
+    5.64,
+    6.1
+   ],
+   [
+    "and",
+    6.1,
+    6.32
+   ],
+   [
+    "40.",
+    6.32,
+    6.68
+   ],
+   [
+    "It",
+    7.3,
+    7.3
+   ],
+   [
+    "is",
+    7.3,
+    7.42
+   ],
+   [
+    "a",
+    7.42,
+    7.52
+   ],
+   [
+    "Latin",
+    7.52,
+    7.8
+   ],
+   [
+    "didactic",
+    7.8,
+    8.4
+   ],
+   [
+    "poem",
+    8.64,
+    8.84
+   ],
+   [
+    "about",
+    8.84,
+    9.14
+   ],
+   [
+    "celestial",
+    9.14,
+    9.58
+   ],
+   [
+    "phenomena",
+    9.58,
+    10.14
+   ],
+   [
+    "in",
+    10.14,
+    10.48
+   ],
+   [
+    "5",
+    10.48,
+    10.8
+   ],
+   [
+    "books.",
+    10.8,
+    11.36
+   ],
+   [
+    "The",
+    11.72,
+    11.8
+   ],
+   [
+    "poem",
+    11.82,
+    12.06
+   ],
+   [
+    "describes",
+    12.06,
+    12.52
+   ],
+   [
+    "the",
+    12.52,
+    12.88
+   ],
+   [
+    "zodiac",
+    12.88,
+    13.4
+   ],
+   [
+    "and",
+    13.4,
+    13.58
+   ],
+   [
+    "astrology.",
+    13.58,
+    14.1
+   ],
+   [
+    "It",
+    14.74,
+    14.74
+   ],
+   [
+    "reflects",
+    14.74,
+    15.0
+   ],
+   [
+    "a",
+    15.0,
+    15.24
+   ],
+   [
+    "Stoic",
+    15.24,
+    15.64
+   ],
+   [
+    "view",
+    15.64,
+    15.92
+   ],
+   [
+    "of",
+    15.92,
+    16.12
+   ],
+   [
+    "a",
+    16.12,
+    16.2
+   ],
+   [
+    "universe",
+    16.2,
+    16.52
+   ],
+   [
+    "governed",
+    16.52,
+    16.96
+   ],
+   [
+    "by",
+    16.96,
+    17.22
+   ],
+   [
+    "reason.",
+    17.22,
+    17.32
+   ],
+   [
+    "Italian",
+    18.3,
+    18.64
+   ],
+   [
+    "humanist",
+    18.64,
+    19.3
+   ],
+   [
+    "Poggio",
+    19.46,
+    19.8
+   ],
+   [
+    "Bracciolini",
+    19.8,
+    20.6
+   ],
+   [
+    "rediscovered",
+    20.63,
+    21.48
+   ],
+   [
+    "the",
+    21.48,
+    21.54
+   ],
+   [
+    "poem",
+    21.54,
+    21.88
+   ],
+   [
+    "around",
+    21.88,
+    22.16
+   ],
+   [
+    "1416",
+    22.16,
+    23.22
+   ],
+   [
+    "to",
+    23.22,
+    23.52
+   ],
+   [
+    "1417.",
+    23.52,
+    24.37
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   29,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Astronomica.png/960px-Astronomica.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1095,
+   "license": "Public domain",
+   "artist": "Manilius (Latin author); Peregrinus Allius of Ferrara (scribe of manuscript)",
+   "page": "https://commons.wikimedia.org/wiki/File:Astronomica.png",
+   "desc": "Astronomica — The opening page of the poem Astronomica by the Roman poet Manilius."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Cellarius_ptolemaic_system_c2.jpg/960px-Cellarius_ptolemaic_system_c2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 603,
+   "license": "Public domain",
+   "artist": "Loon, J. van (Johannes), ca. 1611-1686.",
+   "page": "https://commons.wikimedia.org/wiki/File:Cellarius_ptolemaic_system_c2.jpg",
+   "desc": "Cellarius ptolemaic system c2 — From Andreas Cellarius Harmonia Macrocosmica, 1660/61. Chart showing signs of the zodiac and the solar system with world at centre. Plate 2: SCENOGRAPHIA SYSTEMATIS MVNDANI PTOLEMAICI - Scenography of the Ptolemaic cosmo"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 30
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1416
+  }
+ ],
+ "geo": null,
+ "qid": "Q25302864",
+ "pron_wer": 0.034,
+ "angle": 0,
+ "source": {
+  "title": "Astronomica (Manilius)",
+  "url": "https://en.wikipedia.org/wiki/Astronomica_%28Manilius%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:57:54Z",
+ "trimmed": true
+}

@@ -75,7 +75,8 @@
   "James Chadwick",
   "Amarte Es un Placer (album)",
   "nasa:1488476",
-  "Battle of Byram's Ford"
+  "Battle of Byram's Ford",
+  "1910 Cuba hurricane"
  ],
  "rejected": [
   "Chameleon",
@@ -336,6 +337,9 @@
   ],
   "Battle of Byram's Ford": [
    "Trapped In Missouri: Trapped between two Union armies in Missouri!"
+  ],
+  "1910 Cuba hurricane": [
+   "The Five-Day Cuban Cyclone: A destructive hurricane hit Cuba twice in October 1910."
   ]
  },
  "exhausted": []
