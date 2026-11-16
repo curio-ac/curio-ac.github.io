@@ -1,0 +1,417 @@
+{
+ "id": "en-4f9b6c68",
+ "lang": "en",
+ "title": "The Ultimate Renaissance Genius",
+ "cat": "history",
+ "emoji": "🎨",
+ "sentences": [
+  "Leonardo da Vinci was a true polymath.",
+  "He was a painter, engineer, scientist, anatomist, and architect.",
+  "Beyond painting, he kept notebooks filled with drawings on anatomy, botany, and even palaeontology.",
+  "Born out of wedlock, he studied under Andrea del Verrocchio in Florence.",
+  "He worked across Milan, Florence, and Rome, attracting students everywhere.",
+  "His work shaped European art, rivaled only by Michelangelo."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Leonardo",
+    0.32,
+    0.44
+   ],
+   [
+    "da",
+    0.44,
+    0.74
+   ],
+   [
+    "Vinci",
+    0.74,
+    1.08
+   ],
+   [
+    "was",
+    1.08,
+    1.38
+   ],
+   [
+    "a",
+    1.38,
+    1.58
+   ],
+   [
+    "true",
+    1.6,
+    1.92
+   ],
+   [
+    "polymath.",
+    1.92,
+    2.67
+   ],
+   [
+    "He",
+    3.18,
+    3.18
+   ],
+   [
+    "was",
+    3.18,
+    3.32
+   ],
+   [
+    "a",
+    3.32,
+    3.44
+   ],
+   [
+    "painter,",
+    3.44,
+    3.79
+   ],
+   [
+    "engineer,",
+    4.2,
+    5.16
+   ],
+   [
+    "scientist,",
+    5.2,
+    5.86
+   ],
+   [
+    "anatomist,",
+    6.14,
+    7.02
+   ],
+   [
+    "and",
+    7.08,
+    7.12
+   ],
+   [
+    "architect.",
+    7.12,
+    7.38
+   ],
+   [
+    "Beyond",
+    8.4,
+    8.7
+   ],
+   [
+    "painting,",
+    8.7,
+    8.88
+   ],
+   [
+    "he",
+    9.54,
+    9.6
+   ],
+   [
+    "kept",
+    9.6,
+    9.82
+   ],
+   [
+    "notebooks",
+    9.88,
+    10.3
+   ],
+   [
+    "filled",
+    10.3,
+    10.8
+   ],
+   [
+    "with",
+    10.8,
+    11.06
+   ],
+   [
+    "drawings",
+    11.26,
+    11.52
+   ],
+   [
+    "on",
+    11.52,
+    11.8
+   ],
+   [
+    "anatomy,",
+    11.8,
+    12.5
+   ],
+   [
+    "botany,",
+    12.72,
+    13.28
+   ],
+   [
+    "and",
+    13.44,
+    13.48
+   ],
+   [
+    "even",
+    13.48,
+    13.64
+   ],
+   [
+    "palaeontology.",
+    13.64,
+    14.04
+   ],
+   [
+    "Born",
+    15.44,
+    15.66
+   ],
+   [
+    "out",
+    15.66,
+    15.88
+   ],
+   [
+    "of",
+    15.88,
+    15.98
+   ],
+   [
+    "wedlock,",
+    15.98,
+    16.22
+   ],
+   [
+    "he",
+    16.68,
+    16.78
+   ],
+   [
+    "studied",
+    16.78,
+    17.08
+   ],
+   [
+    "under",
+    17.08,
+    17.38
+   ],
+   [
+    "Andrea",
+    17.38,
+    17.92
+   ],
+   [
+    "del",
+    17.92,
+    18.22
+   ],
+   [
+    "Verrocchio",
+    18.22,
+    18.8
+   ],
+   [
+    "in",
+    18.8,
+    19.0
+   ],
+   [
+    "Florence.",
+    19.0,
+    19.3
+   ],
+   [
+    "He",
+    20.1,
+    20.2
+   ],
+   [
+    "worked",
+    20.2,
+    20.42
+   ],
+   [
+    "across",
+    20.6,
+    20.7
+   ],
+   [
+    "Milan,",
+    20.7,
+    21.25
+   ],
+   [
+    "Florence,",
+    21.78,
+    22.26
+   ],
+   [
+    "and",
+    22.28,
+    22.32
+   ],
+   [
+    "Rome,",
+    22.32,
+    22.62
+   ],
+   [
+    "attracting",
+    23.1,
+    23.34
+   ],
+   [
+    "students",
+    23.38,
+    23.76
+   ],
+   [
+    "everywhere.",
+    23.76,
+    24.3
+   ],
+   [
+    "His",
+    25.24,
+    25.38
+   ],
+   [
+    "work",
+    25.38,
+    25.66
+   ],
+   [
+    "shaped",
+    25.66,
+    26.14
+   ],
+   [
+    "European",
+    26.14,
+    26.7
+   ],
+   [
+    "art,",
+    26.7,
+    26.8
+   ],
+   [
+    "rivaled",
+    27.58,
+    27.88
+   ],
+   [
+    "only",
+    27.92,
+    28.16
+   ],
+   [
+    "by",
+    28.16,
+    28.4
+   ],
+   [
+    "Michelangelo.",
+    28.4,
+    28.78
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   30,
+   42,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png/960px-Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1031,
+   "license": "Public domain",
+   "artist": "Attributed to Francesco Melzi",
+   "page": "https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png",
+   "desc": "Francesco Melzi - Portrait of Leonardo (colour correction) — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Da_Vinci_Vitruve_Luc_Viatour_%28cropped%29.jpg/960px-Da_Vinci_Vitruve_Luc_Viatour_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 991,
+   "license": "Public domain",
+   "artist": "Leonardo da Vinci",
+   "page": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour_(cropped).jpg",
+   "desc": "Da Vinci Vitruve Luc Viatour (cropped) — Vitruvian Man"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Andrea_del_Verrocchio%2C_Leonardo_da_Vinci_-_Baptism_of_Christ_-_Uffizi.jpg/960px-Andrea_del_Verrocchio%2C_Leonardo_da_Vinci_-_Baptism_of_Christ_-_Uffizi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 858,
+   "license": "Public domain",
+   "artist": "Andrea del Verrocchio / Leonardo da Vinci",
+   "page": "https://commons.wikimedia.org/wiki/File:Andrea_del_Verrocchio,_Leonardo_da_Vinci_-_Baptism_of_Christ_-_Uffizi.jpg",
+   "desc": "Andrea del Verrocchio, Leonardo da Vinci - Baptism of Christ - Uffizi — Baptism of Jesus"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%27Cumaean_Sibyl_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU35.jpg/960px-%27Cumaean_Sibyl_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY 3.0",
+   "artist": "Michelangelo",
+   "page": "https://commons.wikimedia.org/wiki/File:%27Cumaean_Sibyl_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU35.jpg",
+   "desc": "'Cumaean Sibyl Sistine Chapel ceiling' by Michelangelo JBU35 — Cumaean Sibyl, fresco painted by Michelangelo (1475-1564), Sistine Chapel Ceiling (1508-1512) Rome, Vatican."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1452
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q762",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Leonardo da Vinci",
+  "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:13:34Z",
+ "trimmed": true
+}

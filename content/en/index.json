@@ -32,7 +32,8 @@
   "Venus",
   "nasa:1341937",
   "Black hole",
-  "Marie Curie"
+  "Marie Curie",
+  "nasa:1399541"
  ],
  "rejected": [
   "Chameleon",
@@ -141,6 +142,9 @@
   ],
   "Marie Curie": [
    "Marie Curie's Incredible Record: She won two Nobel Prizes in different fields."
+  ],
+  "nasa:1399541": [
+   "Hurricane Polo's Explosive Growth: Hurricane Polo grew with absolute insanity."
   ]
  },
  "exhausted": []
