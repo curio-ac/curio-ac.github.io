@@ -1,0 +1,398 @@
+{
+ "id": "en-9bd15471",
+ "lang": "en",
+ "title": "Perseverance's Mars Panorama",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA’s Perseverance rover captured a massive 360-degree panorama.",
+  "The area is called “Turquoise Bay” in the “Margin Unit.”",
+  "It took 818 individual images to create this view.",
+  "These photos were captured between Oct. 5 and Oct. 16, 2023.",
+  "This covers the 933rd to 944th Martian days of the mission.",
+  "An enhanced-color version helps accentuate color differences in the landscape."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA’s",
+    0.35,
+    0.65
+   ],
+   [
+    "Perseverance",
+    0.65,
+    1.45
+   ],
+   [
+    "rover",
+    1.45,
+    1.85
+   ],
+   [
+    "captured",
+    1.85,
+    2.45
+   ],
+   [
+    "a",
+    2.45,
+    2.77
+   ],
+   [
+    "massive",
+    2.77,
+    3.31
+   ],
+   [
+    "360-degree",
+    3.31,
+    5.21
+   ],
+   [
+    "panorama.",
+    5.21,
+    5.69
+   ],
+   [
+    "The",
+    6.63,
+    6.63
+   ],
+   [
+    "area",
+    6.63,
+    6.89
+   ],
+   [
+    "is",
+    6.89,
+    7.15
+   ],
+   [
+    "called",
+    7.15,
+    7.41
+   ],
+   [
+    "“Turquoise",
+    7.41,
+    8.13
+   ],
+   [
+    "Bay”",
+    8.13,
+    8.61
+   ],
+   [
+    "in",
+    8.87,
+    8.89
+   ],
+   [
+    "the",
+    8.89,
+    9.01
+   ],
+   [
+    "“Margin",
+    9.01,
+    9.37
+   ],
+   [
+    "Unit.”",
+    9.37,
+    9.65
+   ],
+   [
+    "It",
+    10.45,
+    10.51
+   ],
+   [
+    "took",
+    10.53,
+    10.71
+   ],
+   [
+    "818",
+    10.71,
+    11.75
+   ],
+   [
+    "individual",
+    11.75,
+    12.77
+   ],
+   [
+    "images",
+    12.77,
+    13.39
+   ],
+   [
+    "to",
+    13.39,
+    13.73
+   ],
+   [
+    "create",
+    13.73,
+    14.03
+   ],
+   [
+    "this",
+    14.03,
+    14.29
+   ],
+   [
+    "view.",
+    14.29,
+    14.63
+   ],
+   [
+    "These",
+    15.37,
+    15.51
+   ],
+   [
+    "photos",
+    15.51,
+    15.75
+   ],
+   [
+    "were",
+    15.75,
+    16.01
+   ],
+   [
+    "captured",
+    16.01,
+    16.31
+   ],
+   [
+    "between",
+    16.31,
+    16.71
+   ],
+   [
+    "Oct.",
+    16.71,
+    17.35
+   ],
+   [
+    "5",
+    17.47,
+    17.57
+   ],
+   [
+    "and",
+    17.57,
+    17.95
+   ],
+   [
+    "Oct.",
+    17.95,
+    18.41
+   ],
+   [
+    "16,",
+    18.59,
+    18.69
+   ],
+   [
+    "2023.",
+    19.46,
+    20.11
+   ],
+   [
+    "This",
+    20.93,
+    21.03
+   ],
+   [
+    "covers",
+    21.03,
+    21.33
+   ],
+   [
+    "the",
+    21.33,
+    21.57
+   ],
+   [
+    "933rd",
+    21.57,
+    23.33
+   ],
+   [
+    "to",
+    23.41,
+    23.51
+   ],
+   [
+    "944th",
+    23.51,
+    25.11
+   ],
+   [
+    "Martian",
+    25.19,
+    25.55
+   ],
+   [
+    "days",
+    25.55,
+    25.81
+   ],
+   [
+    "of",
+    25.81,
+    26.05
+   ],
+   [
+    "the",
+    26.07,
+    26.17
+   ],
+   [
+    "mission.",
+    26.17,
+    26.41
+   ],
+   [
+    "An",
+    27.29,
+    27.37
+   ],
+   [
+    "enhanced-color",
+    27.37,
+    28.09
+   ],
+   [
+    "version",
+    28.09,
+    28.51
+   ],
+   [
+    "helps",
+    28.51,
+    28.81
+   ],
+   [
+    "accentuate",
+    28.81,
+    29.59
+   ],
+   [
+    "color",
+    29.59,
+    29.89
+   ],
+   [
+    "differences",
+    31.38,
+    31.38
+   ],
+   [
+    "in",
+    31.38,
+    31.38
+   ],
+   [
+    "the",
+    31.38,
+    31.38
+   ],
+   [
+    "landscape.",
+    31.38,
+    31.38
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   27,
+   38,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Mastcam-Z%27s_First_360-Degree_Panorama_-_extended_version.jpg/960px-Mastcam-Z%27s_First_360-Degree_Panorama_-_extended_version.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 360,
+   "license": "Public domain",
+   "artist": "File:Mastcam-Z's_First_360-Degree_Panorama.jpg: NASA/JPL-Caltech/ASU/MSSS deriva",
+   "page": "https://commons.wikimedia.org/wiki/File:Mastcam-Z%27s_First_360-Degree_Panorama_-_extended_version.jpg",
+   "desc": "Mastcam-Z's First 360-Degree Panorama - extended version — Vertical extended to a full 360° x 180° spherical panorama. This is the first 360-degree panorama taken by Mastcam-Z, a zoomable pair of cameras aboard NASA’s Perseverance Mars rover. The panorama was "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Burn_scars_in_British_Columbia_%28false_color%29_%28MODIS_2017-10-01%29.jpg/960px-Burn_scars_in_British_Columbia_%28false_color%29_%28MODIS_2017-10-01%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+   "page": "https://commons.wikimedia.org/wiki/File:Burn_scars_in_British_Columbia_(false_color)_(MODIS_2017-10-01).jpg",
+   "desc": "Burn scars in British Columbia (false color) (MODIS 2017-10-01) — This summer Canada was plagued with huge forest fires that have spanned most of the provinces. British Columbia has been particularly hard hit with large portions of the landscape being decimate"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 360,
+   "unit": "degrees",
+   "label": "panorama view"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 818,
+   "unit": "images",
+   "label": "combined photos"
+  },
+  {
+   "type": "timeline",
+   "year": 2023
+  },
+  {
+   "type": "stat",
+   "value": 933,
+   "unit": "sols",
+   "label": "Martian mission days"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "Perseverance’s View of ‘Turquoise Bay’",
+  "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:38:40Z",
+ "trimmed": true
+}
