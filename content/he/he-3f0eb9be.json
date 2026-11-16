@@ -1,0 +1,377 @@
+{
+ "id": "he-3f0eb9be",
+ "lang": "he",
+ "title": "הדיוקן הנועז משנת 1828",
+ "cat": "art",
+ "emoji": "🎨",
+ "sentences": [
+  "הדיוקן הזה מציג רק את שדיה של האמנית.",
+  "שרה גודרידג' ציירה את \"היופי שנחשף\" בשנת 1828.",
+  "זוהי מיניאטורה קטנה על שנהב בגודל 6.7 על 8 סנטימטרים.",
+  "היא העניקה את הציור למדינאי דניאל ובסטר, שאולי היה מאהבה.",
+  "היא השתמשה במבט חזיתי כדי להשאיר את זהותה אנונימית.",
+  "כיום היצירה נמצאת במוזיאון המטרופוליטן לאמנות."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הדיוקן",
+    0,
+    0.5
+   ],
+   [
+    "הזה",
+    0.5,
+    0.74
+   ],
+   [
+    "מציג",
+    0.74,
+    1.28
+   ],
+   [
+    "רק",
+    1.32,
+    1.64
+   ],
+   [
+    "את",
+    1.66,
+    1.8
+   ],
+   [
+    "שדיה",
+    1.82,
+    2.22
+   ],
+   [
+    "של",
+    2.22,
+    2.4
+   ],
+   [
+    "האמנית.",
+    2.4,
+    2.82
+   ],
+   [
+    "שרה",
+    3.58,
+    3.78
+   ],
+   [
+    "גודרידג'",
+    3.78,
+    4.34
+   ],
+   [
+    "ציירה",
+    4.42,
+    4.74
+   ],
+   [
+    "את",
+    4.74,
+    4.86
+   ],
+   [
+    "\"היופי",
+    5.06,
+    5.58
+   ],
+   [
+    "שנחשף\"",
+    5.58,
+    6.24
+   ],
+   [
+    "בשנת",
+    6.7,
+    7.04
+   ],
+   [
+    "1828.",
+    7.04,
+    8.38
+   ],
+   [
+    "זוהי",
+    9.28,
+    9.5
+   ],
+   [
+    "מיניאטורה",
+    9.5,
+    10.06
+   ],
+   [
+    "קטנה",
+    10.06,
+    10.5
+   ],
+   [
+    "על",
+    10.5,
+    10.66
+   ],
+   [
+    "שנהב",
+    10.66,
+    11.22
+   ],
+   [
+    "בגודל",
+    11.4,
+    11.76
+   ],
+   [
+    "6.7",
+    11.76,
+    12.7
+   ],
+   [
+    "על",
+    12.7,
+    12.96
+   ],
+   [
+    "8",
+    12.96,
+    13.22
+   ],
+   [
+    "סנטימטרים.",
+    13.22,
+    13.82
+   ],
+   [
+    "היא",
+    14.8,
+    14.9
+   ],
+   [
+    "העניקה",
+    14.9,
+    15.2
+   ],
+   [
+    "את",
+    15.2,
+    15.28
+   ],
+   [
+    "הציור",
+    15.4,
+    15.68
+   ],
+   [
+    "למדינאי",
+    15.68,
+    16.3
+   ],
+   [
+    "דניאל",
+    16.32,
+    16.74
+   ],
+   [
+    "ובסטר,",
+    16.74,
+    17.0
+   ],
+   [
+    "שאולי",
+    17.84,
+    18.14
+   ],
+   [
+    "היה",
+    18.14,
+    18.26
+   ],
+   [
+    "מאהבה.",
+    18.26,
+    18.64
+   ],
+   [
+    "היא",
+    19.52,
+    19.62
+   ],
+   [
+    "השתמשה",
+    19.62,
+    20.08
+   ],
+   [
+    "במבט",
+    20.08,
+    20.46
+   ],
+   [
+    "חזיתי",
+    20.52,
+    20.94
+   ],
+   [
+    "כדי",
+    20.94,
+    21.22
+   ],
+   [
+    "להשאיר",
+    21.22,
+    21.82
+   ],
+   [
+    "את",
+    21.82,
+    21.9
+   ],
+   [
+    "זהותה",
+    21.9,
+    22.32
+   ],
+   [
+    "אנונימית.",
+    22.32,
+    22.42
+   ],
+   [
+    "כיום",
+    23.72,
+    24.02
+   ],
+   [
+    "היצירה",
+    24.02,
+    24.78
+   ],
+   [
+    "נמצאת",
+    24.78,
+    25.12
+   ],
+   [
+    "במוזיאון",
+    25.16,
+    25.72
+   ],
+   [
+    "המטרופוליטן",
+    25.72,
+    26.46
+   ],
+   [
+    "לאמנות.",
+    26.46,
+    26.8
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   26,
+   36,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Beauty_Revealed_MET_DP221518.jpg/960px-Beauty_Revealed_MET_DP221518.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1193,
+   "license": "Public domain",
+   "artist": "שרה גודרידג'",
+   "page": "https://commons.wikimedia.org/wiki/File:Beauty_Revealed_MET_DP221518.jpg",
+   "desc": "Beauty Revealed MET DP221518 — Painting, miniature; Paintings"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Sarah_Goodridge_Beauty_Revealed_The_Metropolitan_Museum_of_Art.jpg/960px-Sarah_Goodridge_Beauty_Revealed_The_Metropolitan_Museum_of_Art.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 614,
+   "license": "Public domain",
+   "artist": "שרה גודרידג'",
+   "page": "https://commons.wikimedia.org/wiki/File:Sarah_Goodridge_Beauty_Revealed_The_Metropolitan_Museum_of_Art.jpg",
+   "desc": "Sarah Goodridge Beauty Revealed The Metropolitan Museum of Art — Beauty Revealed, a self-portrait by Sarah Goodridge"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Portrait_of_Hon._Daniel_Webster_%281851%29.jpg/960px-Portrait_of_Hon._Daniel_Webster_%281851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 751,
+   "license": "Public domain",
+   "artist": "AnonymousUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Hon._Daniel_Webster_(1851).jpg",
+   "desc": "Portrait of Hon. Daniel Webster (1851) — Portrait of Hon. Daniel Webster, from an 1851 magazine"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/960px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 402,
+   "license": "CC BY-SA 2.0",
+   "artist": "Hugo Schneider",
+   "page": "https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg",
+   "desc": "Metropolitan Museum of Art (The Met) - Central Park, NYC — The Metropolitan Museum of Art (The Met) entrance façade in Upper East Side, Manhattan, New York City"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  0,
+  2,
+  0,
+  3
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "breasts",
+   "box": [
+    561,
+    211,
+    822,
+    787
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1828
+  },
+  {
+   "type": "compare",
+   "value": 0.08,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q16950902",
+ "pron_wer": 0.038,
+ "angle": 0,
+ "source": {
+  "title": "היופי שנחשף",
+  "url": "https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%95%D7%A4%D7%99_%D7%A9%D7%A0%D7%97%D7%A9%D7%A3",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:27:25Z",
+ "trimmed": true
+}
