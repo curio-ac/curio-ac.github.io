@@ -1,0 +1,426 @@
+{
+ "id": "en-eb174827",
+ "lang": "en",
+ "title": "The Hottest Planet",
+ "cat": "space",
+ "emoji": "🔥",
+ "sentences": [
+  "Venus is the hottest planet.",
+  "Surface temperatures reach 737 K at the mean level.",
+  "The thick atmosphere is composed mostly of carbon dioxide.",
+  "Clouds of sulfuric acid span the whole planet.",
+  "Pressure is 92 times greater than Earth at sea level.",
+  "This rocky body has no liquid water.",
+  "Old English gave it the poetic name Ēarendel, meaning ray of light."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Venus",
+    0.35,
+    0.35
+   ],
+   [
+    "is",
+    0.35,
+    0.67
+   ],
+   [
+    "the",
+    0.71,
+    0.83
+   ],
+   [
+    "hottest",
+    0.93,
+    1.07
+   ],
+   [
+    "planet.",
+    1.07,
+    1.42
+   ],
+   [
+    "Surface",
+    2.11,
+    2.33
+   ],
+   [
+    "temperatures",
+    2.33,
+    2.89
+   ],
+   [
+    "reach",
+    2.89,
+    3.19
+   ],
+   [
+    "737",
+    3.19,
+    4.11
+   ],
+   [
+    "K",
+    4.11,
+    4.77
+   ],
+   [
+    "at",
+    4.77,
+    5.03
+   ],
+   [
+    "the",
+    5.03,
+    5.11
+   ],
+   [
+    "mean",
+    5.11,
+    5.29
+   ],
+   [
+    "level.",
+    5.29,
+    5.53
+   ],
+   [
+    "The",
+    6.15,
+    6.17
+   ],
+   [
+    "thick",
+    6.25,
+    6.37
+   ],
+   [
+    "atmosphere",
+    6.37,
+    6.91
+   ],
+   [
+    "is",
+    6.91,
+    7.15
+   ],
+   [
+    "composed",
+    7.15,
+    7.45
+   ],
+   [
+    "mostly",
+    7.47,
+    8.03
+   ],
+   [
+    "of",
+    8.03,
+    8.29
+   ],
+   [
+    "carbon",
+    8.51,
+    8.63
+   ],
+   [
+    "dioxide.",
+    8.63,
+    9.11
+   ],
+   [
+    "Clouds",
+    9.99,
+    10.33
+   ],
+   [
+    "of",
+    10.33,
+    10.39
+   ],
+   [
+    "sulfuric",
+    10.39,
+    10.95
+   ],
+   [
+    "acid",
+    11.05,
+    11.29
+   ],
+   [
+    "span",
+    11.29,
+    11.65
+   ],
+   [
+    "the",
+    11.65,
+    11.85
+   ],
+   [
+    "whole",
+    11.85,
+    12.01
+   ],
+   [
+    "planet.",
+    12.01,
+    12.43
+   ],
+   [
+    "Pressure",
+    13.07,
+    13.37
+   ],
+   [
+    "is",
+    13.37,
+    13.51
+   ],
+   [
+    "92",
+    13.51,
+    14.01
+   ],
+   [
+    "times",
+    14.23,
+    14.41
+   ],
+   [
+    "greater",
+    14.41,
+    14.75
+   ],
+   [
+    "than",
+    14.75,
+    14.97
+   ],
+   [
+    "Earth",
+    14.97,
+    15.23
+   ],
+   [
+    "at",
+    15.23,
+    15.45
+   ],
+   [
+    "sea",
+    15.47,
+    15.67
+   ],
+   [
+    "level.",
+    15.67,
+    15.87
+   ],
+   [
+    "This",
+    16.51,
+    16.65
+   ],
+   [
+    "rocky",
+    16.65,
+    17.01
+   ],
+   [
+    "body",
+    17.05,
+    17.35
+   ],
+   [
+    "has",
+    17.35,
+    17.61
+   ],
+   [
+    "no",
+    17.61,
+    17.85
+   ],
+   [
+    "liquid",
+    18.03,
+    18.13
+   ],
+   [
+    "water.",
+    18.13,
+    18.51
+   ],
+   [
+    "Old",
+    19.19,
+    19.39
+   ],
+   [
+    "English",
+    19.39,
+    19.83
+   ],
+   [
+    "gave",
+    19.83,
+    20.11
+   ],
+   [
+    "it",
+    20.11,
+    20.23
+   ],
+   [
+    "the",
+    20.23,
+    20.35
+   ],
+   [
+    "poetic",
+    20.49,
+    20.71
+   ],
+   [
+    "name",
+    20.71,
+    21.07
+   ],
+   [
+    "Ēarendel,",
+    21.07,
+    21.61
+   ],
+   [
+    "meaning",
+    22.05,
+    22.23
+   ],
+   [
+    "ray",
+    22.23,
+    22.59
+   ],
+   [
+    "of",
+    22.59,
+    22.79
+   ],
+   [
+    "light.",
+    22.79,
+    23.05
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   14,
+   23,
+   31,
+   41,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MESSENGER_-_Venus_630_nm_stretch.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA / JHU/APL",
+   "page": "https://commons.wikimedia.org/wiki/File:MESSENGER_-_Venus_630_nm_stretch.jpg",
+   "desc": "MESSENGER - Venus 630 nm stretch — \"During the MESSENGER mission's second flyby of Venus, the Wide Angle Camera (WAC) of the Mercury Dual Imaging System (MDIS) acquired images through all of its 11 narrow-band color filters of the approaching planet. The "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Foto_de_Venera_9.png/960px-Foto_de_Venera_9.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 151,
+   "license": "Public domain",
+   "artist": "Ted Stryk",
+   "page": "https://commons.wikimedia.org/wiki/File:Foto_de_Venera_9.png",
+   "desc": "Foto de Venera 9 — Photography of Venusian surface by Venera 9."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/NASA_Cloud_City_on_Venus.jpg/960px-NASA_Cloud_City_on_Venus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Cloud_City_on_Venus.jpg",
+   "desc": "NASA Cloud City on Venus — Artists rendering of a NASA Cloud City on Venus."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Maat_Mons_on_Venus.jpg/960px-Maat_Mons_on_Venus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "Public domain",
+   "artist": "NASA - Jet Propulsion Laboratory",
+   "page": "https://commons.wikimedia.org/wiki/File:Maat_Mons_on_Venus.jpg",
+   "desc": "Maat Mons on Venus — Maat Mons is displayed in this three-dimensional perspective view of the surface of Venus. The viewpoint is located 560 kilometers (347 miles) north of Maat Mons at an elevation of 1.7 kilometers (1 mile) above the terra"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 737,
+   "unit": "K",
+   "label": "hottest planet"
+  },
+  {
+   "type": "stat",
+   "value": 737,
+   "unit": "K",
+   "label": "surface temperature"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 92,
+   "unit": "times",
+   "label": "greater pressure"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q313",
+ "pron_wer": 0.05,
+ "angle": 1,
+ "source": {
+  "title": "Venus",
+  "url": "https://en.wikipedia.org/wiki/Venus",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:25:06Z",
+ "trimmed": true
+}
