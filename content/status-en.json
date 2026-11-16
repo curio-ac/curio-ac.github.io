@@ -3,6 +3,17 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-16T20:17:36Z",
+   "made": 13,
+   "rejected": 0,
+   "repaired": 2,
+   "calls": 96,
+   "notes": [
+    "Changeling (film): 'list' object has no attribute 'get'",
+    "nasa:1279928: Expecting ',' delimiter: line 23 column 5 (char 974)"
+   ]
+  },
+  {
    "at": "2026-11-16T19:03:32Z",
    "made": 12,
    "rejected": 1,
