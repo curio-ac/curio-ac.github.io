@@ -69,7 +69,8 @@
   "Australian green tree frog",
   "nasa:1346682",
   "Banksia spinulosa",
-  "Thomas de la More"
+  "Thomas de la More",
+  "nasa:1276885"
  ],
  "rejected": [
   "Chameleon",
@@ -79,7 +80,8 @@
   "nasa:1440433",
   "Bluey (TV series)",
   "Tardigrade",
-  "Monarch butterfly"
+  "Monarch butterfly",
+  "Hurricane Connie"
  ],
  "angles": {
   "Blue whale": [
@@ -307,6 +309,9 @@
   ],
   "Thomas de la More": [
    "Medieval Sheriff's Dangerous Feud: Assaulted by Lord Egremont!"
+  ],
+  "nasa:1276885": [
+   "Future Planetary Scientists Learn Outreach: Future planetary scientists are learning public engagement skills."
   ]
  },
  "exhausted": []

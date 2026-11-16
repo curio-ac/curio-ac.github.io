@@ -1,0 +1,380 @@
+{
+ "id": "en-4c3722fa",
+ "lang": "en",
+ "title": "Indonesia's Underground Peat Fires",
+ "cat": "geography",
+ "emoji": "🔥",
+ "sentences": [
+  "Tropical peatland fires are the apex predators of fires.",
+  "They smolder underground in dried wetland soils and are notoriously hard to extinguish.",
+  "A strong El Niño is making Indonesia's dry season worse.",
+  "About 90 percent of the country received little rain in early August.",
+  "These fires can burn until seasonal rains arrive in October or November."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Tropical",
+    0.35,
+    0.61
+   ],
+   [
+    "peatland",
+    0.61,
+    1.07
+   ],
+   [
+    "fires",
+    1.07,
+    1.45
+   ],
+   [
+    "are",
+    1.45,
+    1.73
+   ],
+   [
+    "the",
+    1.73,
+    1.83
+   ],
+   [
+    "apex",
+    1.87,
+    2.15
+   ],
+   [
+    "predators",
+    2.15,
+    2.63
+   ],
+   [
+    "of",
+    2.63,
+    2.89
+   ],
+   [
+    "fires.",
+    2.89,
+    3.17
+   ],
+   [
+    "They",
+    3.89,
+    3.95
+   ],
+   [
+    "smolder",
+    3.95,
+    4.53
+   ],
+   [
+    "underground",
+    4.53,
+    5.05
+   ],
+   [
+    "in",
+    5.05,
+    5.43
+   ],
+   [
+    "dried",
+    5.43,
+    5.75
+   ],
+   [
+    "wetland",
+    5.75,
+    6.27
+   ],
+   [
+    "soils",
+    6.27,
+    6.63
+   ],
+   [
+    "and",
+    6.63,
+    7.19
+   ],
+   [
+    "are",
+    7.19,
+    7.27
+   ],
+   [
+    "notoriously",
+    7.27,
+    7.93
+   ],
+   [
+    "hard",
+    7.93,
+    8.21
+   ],
+   [
+    "to",
+    8.21,
+    8.41
+   ],
+   [
+    "extinguish.",
+    8.41,
+    8.87
+   ],
+   [
+    "A",
+    9.65,
+    9.71
+   ],
+   [
+    "strong",
+    9.71,
+    10.03
+   ],
+   [
+    "El",
+    10.03,
+    10.33
+   ],
+   [
+    "Niño",
+    10.33,
+    10.77
+   ],
+   [
+    "is",
+    10.77,
+    10.95
+   ],
+   [
+    "making",
+    10.95,
+    11.23
+   ],
+   [
+    "Indonesia's",
+    11.37,
+    12.03
+   ],
+   [
+    "dry",
+    12.03,
+    12.31
+   ],
+   [
+    "season",
+    12.31,
+    12.71
+   ],
+   [
+    "worse.",
+    12.71,
+    13.05
+   ],
+   [
+    "About",
+    13.71,
+    13.83
+   ],
+   [
+    "90",
+    13.83,
+    14.29
+   ],
+   [
+    "percent",
+    14.29,
+    14.63
+   ],
+   [
+    "of",
+    14.63,
+    14.81
+   ],
+   [
+    "the",
+    14.81,
+    14.91
+   ],
+   [
+    "country",
+    14.97,
+    15.17
+   ],
+   [
+    "received",
+    15.21,
+    15.63
+   ],
+   [
+    "little",
+    15.63,
+    15.95
+   ],
+   [
+    "rain",
+    15.97,
+    16.25
+   ],
+   [
+    "in",
+    16.25,
+    16.45
+   ],
+   [
+    "early",
+    16.45,
+    16.71
+   ],
+   [
+    "August.",
+    16.71,
+    17.05
+   ],
+   [
+    "These",
+    17.85,
+    17.97
+   ],
+   [
+    "fires",
+    17.97,
+    18.29
+   ],
+   [
+    "can",
+    18.29,
+    18.61
+   ],
+   [
+    "burn",
+    18.61,
+    18.95
+   ],
+   [
+    "until",
+    18.95,
+    19.33
+   ],
+   [
+    "seasonal",
+    19.33,
+    19.79
+   ],
+   [
+    "rains",
+    19.79,
+    20.31
+   ],
+   [
+    "arrive",
+    20.31,
+    20.65
+   ],
+   [
+    "in",
+    20.65,
+    20.97
+   ],
+   [
+    "October",
+    20.97,
+    21.37
+   ],
+   [
+    "or",
+    21.37,
+    21.73
+   ],
+   [
+    "November.",
+    21.73,
+    22.13
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   22,
+   32,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Peatland_Fires_Darken_Skies_in_Indonesia_%281283342_-_s_amo_20260901%29.jpg/960px-Peatland_Fires_Darken_Skies_in_Indonesia_%281283342_-_s_amo_20260901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Peatland_Fires_Darken_Skies_in_Indonesia_(1283342_-_s_amo_20260901).jpg",
+   "desc": "Peatland Fires Darken Skies in Indonesia (1283342 - s amo 20260901) — Thick gray plumes of smoke stream from large numbers of fires scattered across the island of Borneo."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Carbon_Monoxide_in_Mid-Troposphere_over_Indonesia_Fires%2C_October_26-28%2C_2015_%2822373012667%29.jpg/960px-Carbon_Monoxide_in_Mid-Troposphere_over_Indonesia_Fires%2C_October_26-28%2C_2015_%2822373012667%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Atmospheric Infrared Sounder",
+   "page": "https://commons.wikimedia.org/wiki/File:Carbon_Monoxide_in_Mid-Troposphere_over_Indonesia_Fires,_October_26-28,_2015_(22373012667).jpg",
+   "desc": "Carbon Monoxide in Mid-Troposphere over Indonesia Fires, October 26-28, 2015 (22373012667) — Widespread forest fires across Indonesia have burned tens of thousands of acres over three months, causing high levels of pollution, loss of life, and billions of doll"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Fires_on_Sulawesi%2C_Indonesia_%28MODIS_2015-10-22%29.jpg/960px-Fires_on_Sulawesi%2C_Indonesia_%28MODIS_2015-10-22%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 936,
+   "license": "Public domain",
+   "artist": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+   "page": "https://commons.wikimedia.org/wiki/File:Fires_on_Sulawesi,_Indonesia_(MODIS_2015-10-22).jpg",
+   "desc": "Fires on Sulawesi, Indonesia (MODIS 2015-10-22) — Fires continued to blaze across Indonesia in mid-October 2015 and continued to pump thick smoke across the region, despite multi-national efforts to douse the flames. The Moderate Resolution Imaging Spectroradi"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 90,
+   "unit": "%",
+   "label": "country received little rain"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+ "pron_wer": 0.035,
+ "angle": 0,
+ "source": {
+  "title": "Peatland Fires Darken Skies in Indonesia",
+  "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:07:59Z",
+ "trimmed": true
+}
