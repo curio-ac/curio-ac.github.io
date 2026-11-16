@@ -1,0 +1,429 @@
+{
+ "id": "en-33b87adb",
+ "lang": "en",
+ "title": "Medieval Sheriff's Dangerous Feud",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "Assaulted by Lord Egremont!",
+  "Thomas de la More was a 15th-century sheriff of Cumberland.",
+  "He worked as a royal official for his entire adult life.",
+  "During the 1440s, he joined Richard Neville, the Earl of Salisbury.",
+  "His men were beaten between 1453 and 1454 by Thomas Percy.",
+  "He petitioned the King in 1455 because attacks stopped him from collecting Treasury money."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Assaulted",
+    0.35,
+    0.73
+   ],
+   [
+    "by",
+    0.73,
+    0.87
+   ],
+   [
+    "Lord",
+    0.87,
+    1.11
+   ],
+   [
+    "Egremont!",
+    1.11,
+    1.61
+   ],
+   [
+    "Thomas",
+    2.21,
+    2.45
+   ],
+   [
+    "de",
+    2.45,
+    2.65
+   ],
+   [
+    "la",
+    2.65,
+    2.77
+   ],
+   [
+    "More",
+    2.77,
+    3.03
+   ],
+   [
+    "was",
+    3.03,
+    3.29
+   ],
+   [
+    "a",
+    3.29,
+    3.39
+   ],
+   [
+    "15th-century",
+    3.47,
+    4.31
+   ],
+   [
+    "sheriff",
+    4.31,
+    4.67
+   ],
+   [
+    "of",
+    4.67,
+    4.89
+   ],
+   [
+    "Cumberland.",
+    4.89,
+    5.35
+   ],
+   [
+    "He",
+    5.97,
+    6.03
+   ],
+   [
+    "worked",
+    6.03,
+    6.25
+   ],
+   [
+    "as",
+    6.25,
+    6.45
+   ],
+   [
+    "a",
+    6.45,
+    6.55
+   ],
+   [
+    "royal",
+    6.55,
+    6.83
+   ],
+   [
+    "official",
+    6.83,
+    7.27
+   ],
+   [
+    "for",
+    7.27,
+    7.55
+   ],
+   [
+    "his",
+    7.55,
+    7.69
+   ],
+   [
+    "entire",
+    7.69,
+    8.17
+   ],
+   [
+    "adult",
+    8.17,
+    8.51
+   ],
+   [
+    "life.",
+    8.51,
+    8.87
+   ],
+   [
+    "During",
+    9.51,
+    9.67
+   ],
+   [
+    "the",
+    9.67,
+    9.81
+   ],
+   [
+    "1440s,",
+    9.81,
+    10.21
+   ],
+   [
+    "he",
+    11.19,
+    11.21
+   ],
+   [
+    "joined",
+    11.21,
+    11.49
+   ],
+   [
+    "Richard",
+    11.49,
+    11.93
+   ],
+   [
+    "Neville,",
+    11.93,
+    12.31
+   ],
+   [
+    "the",
+    12.67,
+    12.75
+   ],
+   [
+    "Earl",
+    12.83,
+    13.05
+   ],
+   [
+    "of",
+    13.05,
+    13.23
+   ],
+   [
+    "Salisbury.",
+    13.23,
+    13.71
+   ],
+   [
+    "His",
+    14.47,
+    14.57
+   ],
+   [
+    "men",
+    14.57,
+    14.79
+   ],
+   [
+    "were",
+    14.79,
+    14.99
+   ],
+   [
+    "beaten",
+    14.99,
+    15.27
+   ],
+   [
+    "between",
+    15.27,
+    15.59
+   ],
+   [
+    "1453",
+    15.59,
+    16.67
+   ],
+   [
+    "and",
+    16.67,
+    17.01
+   ],
+   [
+    "1454",
+    17.01,
+    17.95
+   ],
+   [
+    "by",
+    17.95,
+    18.29
+   ],
+   [
+    "Thomas",
+    18.29,
+    18.63
+   ],
+   [
+    "Percy.",
+    18.63,
+    19.17
+   ],
+   [
+    "He",
+    19.67,
+    19.77
+   ],
+   [
+    "petitioned",
+    19.77,
+    20.27
+   ],
+   [
+    "the",
+    20.27,
+    20.33
+   ],
+   [
+    "King",
+    20.33,
+    20.55
+   ],
+   [
+    "in",
+    20.55,
+    20.75
+   ],
+   [
+    "1455",
+    20.75,
+    21.73
+   ],
+   [
+    "because",
+    21.73,
+    22.47
+   ],
+   [
+    "attacks",
+    22.47,
+    22.83
+   ],
+   [
+    "stopped",
+    22.83,
+    23.27
+   ],
+   [
+    "him",
+    23.37,
+    23.47
+   ],
+   [
+    "from",
+    23.47,
+    23.65
+   ],
+   [
+    "collecting",
+    23.65,
+    24.11
+   ],
+   [
+    "Treasury",
+    24.41,
+    24.51
+   ],
+   [
+    "money.",
+    24.51,
+    24.87
+   ]
+  ],
+  "b": [
+   0,
+   4,
+   14,
+   25,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Petition_of_Thomas_de_la_More%2C_esquire%2C_former_Sheriff_of_Cumberland.png/960px-Petition_of_Thomas_de_la_More%2C_esquire%2C_former_Sheriff_of_Cumberland.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 171,
+   "license": "Public domain",
+   "artist": "Anonymous 15th-century scribe.",
+   "page": "https://commons.wikimedia.org/wiki/File:Petition_of_Thomas_de_la_More,_esquire,_former_Sheriff_of_Cumberland.png",
+   "desc": "Petition of Thomas de la More, esquire, former Sheriff of Cumberland — Petition of Thomas de la More, esquire, former Sheriff of Cumberland moaning about he and his men being threatened and beaten up by w:Thomas Percy, 1st Baron Egremont."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Arms_of_de_la_More_%28Delamore%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 840,
+   "license": "CC0",
+   "artist": "Serial Number 54129",
+   "page": "https://commons.wikimedia.org/wiki/File:Arms_of_de_la_More_(Delamore).png",
+   "desc": "Arms of de la More (Delamore) — Coat of arms of the de la More (sometimes Delamore) family of Cumcatch, Cumberland: A cross flory, with a scallop in dexter chief. Source: (1889). \"he Old Chancel in Brampton Churchyard\". Transactions of the Cumberland &"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Richard_Neville%2C_5th_Earl_of_Salisbury_%26_wife.jpg/960px-Richard_Neville%2C_5th_Earl_of_Salisbury_%26_wife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 412,
+   "license": "CC BY-SA 4.0",
+   "artist": "Salisbury Roll",
+   "page": "https://commons.wikimedia.org/wiki/File:Richard_Neville,_5th_Earl_of_Salisbury_%26_wife.jpg",
+   "desc": "Richard Neville, 5th Earl of Salisbury & wife — Richard Neville, 5th Earl of Salisbury KG PC (c. 1400 – 31 December 1460) and his wife Alice Montagu, daughter and only legitimate child of Thomas Montagu, 4th Earl of Salisbury. Unusually, he gives place of hono"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Petition_of_Thomas_de_la_More%2C_esquire%2C_former_Sheriff_of_Cumberland_DORSE.png/960px-Petition_of_Thomas_de_la_More%2C_esquire%2C_former_Sheriff_of_Cumberland_DORSE.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 327,
+   "license": "Public domain",
+   "artist": "Anonymous 15th-century scribe.",
+   "page": "https://commons.wikimedia.org/wiki/File:Petition_of_Thomas_de_la_More,_esquire,_former_Sheriff_of_Cumberland_DORSE.png",
+   "desc": "Petition of Thomas de la More, esquire, former Sheriff of Cumberland DORSE — Petition of Thomas de la More, esquire, former Sheriff of Cumberland moaning about he and his men being threatened and beaten up by w:Thomas Percy, 1st Baron Egremont. The endorsement"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Thomas_Delamore%27s_signature%2C_1454.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 52,
+   "license": "Public domain",
+   "artist": "Anonymous 15th-century scribe.",
+   "page": "https://commons.wikimedia.org/wiki/File:Thomas_Delamore%27s_signature,_1454.png",
+   "desc": "Thomas Delamore's signature, 1454 — Thomas Delamore's signature, 1454, extracted from File:Petition of Thomas de la More, esquire, former Sheriff of Cumberland.png"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1395
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1440
+  },
+  {
+   "type": "timeline",
+   "year": 1453
+  },
+  {
+   "type": "timeline",
+   "year": 1455
+  }
+ ],
+ "geo": null,
+ "qid": "Q28322895",
+ "pron_wer": 0.048,
+ "angle": 0,
+ "source": {
+  "title": "Thomas de la More",
+  "url": "https://en.wikipedia.org/wiki/Thomas_de_la_More",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:00:13Z",
+ "trimmed": true
+}

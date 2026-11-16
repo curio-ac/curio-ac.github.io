@@ -67,7 +67,8 @@
   "Changeling (film)",
   "nasa:1279928",
   "Australian green tree frog",
-  "nasa:1346682"
+  "nasa:1346682",
+  "Banksia spinulosa"
  ],
  "rejected": [
   "Chameleon",
@@ -299,6 +300,9 @@
   ],
   "nasa:1346682": [
    "Summer's Brutal Heat Dome: Fall was near, but a fierce heat dome struck."
+  ],
+  "Banksia spinulosa": [
+   "The Hairpin Banksia: This plant sports black or purple styles!"
   ]
  },
  "exhausted": []
