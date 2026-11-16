@@ -112,15 +112,16 @@ html,body{height:100%;background:#000;color:#fff;font-family:"IBM Plex Sans Hebr
 <body>
 <div id="top"><div class="logo">curio</div><div><button id="btnStats" aria-label="מה האלגוריתם למד"><svg viewBox="0 0 24 24"><path d="M5 20v-8M12 20V5M19 20v-11"/></svg></button><button id="btnSound" aria-label="קול"><svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z"/><path d="M15.5 9.5a3.5 3.5 0 0 1 0 5M18 7a7 7 0 0 1 0 10"/></svg></button></div></div>
 <div id="feed"></div>
-<div id="panel" class="ov"><div class="box"><h3>מה האלגוריתם למד עליך</h3><div class="sub" id="bank"></div><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
+<div id="panel" class="ov"><div class="box"><h3>מה האלגוריתם למד עליך</h3><div class="sub">לייק, שמירה וצפייה עד הסוף מגדילים משקל. דילוג מהיר מקטין.</div><div id="rows"></div><button id="closePanel">סגור</button></div></div>
 <div id="toast"></div>
+<div id="admin" class="ov" style="display:none;background:#000;overflow:auto;align-items:stretch;justify-content:flex-start;text-align:start"></div>
 <div id="unmute"><svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z"/><path d="M16 9.5l5 5M21 9.5l-5 5"/></svg><span>הקש להפעלת קול · Tap to unmute</span></div>
 <script src="world.js"></script>
 <script>
 // התוכן מגיע מבחוץ ומתעדכן ברקע: האפליקציה היא רק נגן
-const REPO="curio-ac/curio-ac.github.io",CDN=`https://raw.githubusercontent.com/${REPO}/main/`,FEED_URL=`https://raw.githubusercontent.com/${REPO}/main/content/feed.json`;
+const REPO="curio-ac/curio-ac.github.io",CDN=`https://raw.githubusercontent.com/${REPO}/main/`,FEEDS=["he","en"].map(l=>`https://raw.githubusercontent.com/${REPO}/main/content/feed-${l}.json`);
 let V=[];const AUD={},FULL={};
-async function loadFeed(){try{const r=await fetch(FEED_URL+"?t="+Date.now(),{cache:"no-store"});const f=await r.json();
+async function loadFeed(){try{const fs=await Promise.all(FEEDS.map(u=>fetch(u+"?t="+Date.now(),{cache:"no-store"}).then(r=>r.json()).catch(()=>({videos:[]}))));const f={videos:fs.flatMap(x=>x.videos||[])};
   const have=new Set(V.map(x=>x.id));let n=0;for(const e of f.videos)if(!have.has(e.id)){V.push(e);AUD[e.id]=CDN+`audio/${e.lang}/${e.id}.mp3`;n++}
   if(n&&have.size)fresh+=n;return n}catch(e){return 0}}
 let fresh=0;
@@ -355,6 +356,16 @@ const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)activat
 const ICON={snd:'<svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z"/><path d="M15.5 9.5a3.5 3.5 0 0 1 0 5M18 7a7 7 0 0 1 0 10"/></svg>',mute:'<svg viewBox="0 0 24 24"><path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z"/><path d="M16 9.5l5 5M21 9.5l-5 5"/></svg>'};
 const $=id=>document.getElementById(id);let tt;
 function toast(m){const t=$("toast");t.textContent=m;t.classList.add("on");clearTimeout(tt);tt=setTimeout(()=>t.classList.remove("on"),1800)}
+// מסך ניהול נסתר: curio-ac.github.io/#admin
+async function showAdmin(){const a=$("admin");a.style.display="flex";a.innerHTML="<p>טוען…</p>";
+  const st=await Promise.all(["he","en"].map(l=>fetch(`https://raw.githubusercontent.com/${REPO}/main/content/status-${l}.json?t=${Date.now()}`,{cache:"no-store"}).then(r=>r.json()).catch(()=>null)));
+  await loadFeed();const by=l=>V.filter(x=>x.lang===l),today=new Date().toISOString().slice(0,10);
+  a.innerHTML=`<div style="max-width:520px;width:100%;margin:0 auto;padding:20px;font-size:14px;line-height:1.6"><h3 style="font-size:20px;margin-bottom:12px">מצב המפעל</h3>`+
+  ["he","en"].map((l,i)=>{const s=st[i]||{runs:[]},r=s.runs||[];return `<div style="border:1.5px solid var(--line);padding:12px;margin-bottom:12px"><b>${l==="he"?"עברית":"אנגלית"}</b><br>
+  בבנק: <b>${by(l).length}</b> · נוספו היום: <b>${by(l).filter(x=>(x.created||"").startsWith(today)).length}</b>${s.exhausted_day?" · <span style='color:#ff5a4e'>המכסה היומית נוצלה</span>":""}<br>
+  ${r.slice(0,8).map(x=>`<div style="border-top:1px solid var(--line);margin-top:6px;padding-top:6px">${new Date(x.at).toLocaleString("he-IL")} · נוצרו ${x.made} · נפסלו ${x.rejected} · תוקנו ${x.repaired}${(x.notes||[]).length?`<div style="color:var(--dim);font-size:12px">${x.notes.join("<br>")}</div>`:""}</div>`).join("")||"אין עדיין הרצות"}</div>`}).join("")+
+  `<button onclick="location.hash='';location.reload()" style="font:inherit;background:#fff;color:#000;border:0;padding:10px 22px;font-weight:600">סגור</button></div>`}
+if(location.hash==="#admin")showAdmin();window.addEventListener("hashchange",()=>{if(location.hash==="#admin")showAdmin()});
 // התחלה אוטומטית בשתי השפות. הדפדפן מתיר קול רק אחרי נגיעה ראשונה
 LANGS=["he","en"];player.muted=true;loadFeed().then(()=>ensure(3));requestAnimationFrame(tick);
 setInterval(()=>{if(!document.hidden)loadFeed().then(()=>{if(cur)ensure([...feed.children].indexOf(cur.el)+4)})},180000); // סרטונים חדשים נכנסים לשרשרת בלי עדכון
@@ -378,8 +389,6 @@ window.addEventListener("pagehide",bgPause);window.addEventListener("blur",()=>{
 $("btnSound").onclick=()=>{muted=!muted;player.muted=muted;if(master)master.gain.value=muted?0:1;$("btnSound").innerHTML=muted?ICON.mute:ICON.snd};
 $("btnStats").onclick=()=>{
   const max=Math.max(...Object.keys(CATS).map(w));
-  const tot=V.length,unseen=V.filter(x=>!SEEN.has(x.id)).length,today=V.filter(x=>(x.created||"").slice(0,10)===new Date().toISOString().slice(0,10)).length;
-  $("bank").innerHTML=`סרטונים בבנק: <b>${tot}</b> · עוד לא ראית: <b>${unseen}</b> · נוספו היום: <b>${today}</b>`;
   $("rows").innerHTML=Object.keys(CATS).sort((a,b)=>w(b)-w(a)).map(c=>`<div class="row"><span>${lab(c,"he")}</span><div class="bar"><i style="width:${w(c)/max*100}%"></i></div><b>${w(c).toFixed(1)}</b></div>`).join("");
   $("panel").classList.add("on");if(cur&&!cur.paused&&!cur.it.quiz)togglePause();
 };

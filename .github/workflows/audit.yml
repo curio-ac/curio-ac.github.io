@@ -1,5 +1,8 @@
 name: audit
 on: workflow_dispatch
+concurrency:
+  group: content
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:

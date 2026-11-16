@@ -383,32 +383,35 @@ def local_tts(text, lang, mp3):
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "s16le", "-ar", str(rate), "-ac", "1", "-i", "-", "-b:a", "64k", mp3], input=pcm, check=True)
 
 
-def rebuild_feed():
-    """content/feed.json: the light list the app polls. Each entry points to content/<lang>/<id>.json + audio."""
+def rebuild_feed(lang=None):
+    """content/feed-<lang>.json: the light list the app polls (one file per language, so parallel jobs never collide)."""
     import glob
-    vids = []
-    for f in glob.glob("content/*/*.json"):
-        if f.endswith(("index.json", "feed.json")): continue
-        v = json.load(open(f, encoding="utf8"))
-        if os.path.exists(f"audio/{v['lang']}/{v['id']}.mp3") and not v.get("hidden"):
-            vids.append({"id": v["id"], "lang": v["lang"], "cat": v["cat"], "created": v.get("created", ""), "qid": v.get("qid"), "angle": v.get("angle", 0)})
-    vids.sort(key=lambda x: x["created"], reverse=True)
-    json.dump({"updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "videos": vids}, open("content/feed.json", "w", encoding="utf8"), ensure_ascii=False)
+    for l in ([lang] if lang else ["he", "en"]):
+        vids = []
+        for f in glob.glob(f"content/{l}/*.json"):
+            if f.endswith("index.json"): continue
+            v = json.load(open(f, encoding="utf8"))
+            if os.path.exists(f"audio/{l}/{v['id']}.mp3") and not v.get("hidden"):
+                vids.append({"id": v["id"], "lang": l, "cat": v["cat"], "created": v.get("created", ""), "qid": v.get("qid"), "angle": v.get("angle", 0)})
+        vids.sort(key=lambda x: x["created"], reverse=True)
+        json.dump({"updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "videos": vids}, open(f"content/feed-{l}.json", "w", encoding="utf8"), ensure_ascii=False)
 
 
-def publish(msg):
-    """Push each finished video right away, so it reaches viewers within minutes (no app update)."""
+def publish(msg, lang):
+    """Push each finished video right away. Each language only touches its own files; a failed push is retried, never silently dropped."""
     if not os.environ.get("GITHUB_ACTIONS"):
         return
-    subprocess.run(["git", "add", "content", "audio", "factory/queue"], check=False)
+    paths = [f"content/{lang}", f"audio/{lang}", f"factory/queue/{lang}.json", f"content/feed-{lang}.json", f"content/status-{lang}.json"]
+    subprocess.run(["git", "add", "--"] + [p for p in paths if os.path.exists(p)], check=False)
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
         return
     subprocess.run(["git", "commit", "-qm", msg], check=False)
-    for _ in range(4):
+    for k in range(8):
         if subprocess.run(["git", "pull", "--rebase", "-q"]).returncode == 0 and subprocess.run(["git", "push", "-q"]).returncode == 0:
             return
-        time.sleep(5)
-    print("   ⚠️ push failed; will retry at the end")
+        subprocess.run(["git", "rebase", "--abort"], capture_output=True)
+        time.sleep(5 + 5 * k)
+    raise RuntimeError("push failed 8 times")
 
 
 # ---------- voice with a pronunciation gate ----------
@@ -462,7 +465,7 @@ def record(lang, sentences, mp3, stats):
     raise BadVoice(f"{round((worst or 1)*100,1)}% of words misheard")
 
 
-def repair(lang, n, stats):
+def repair(lang, n, stats, cosmetic_max=2):
     """Re-record videos the audit pulled from the feed (script already fact-checked); put them back if they pass."""
     import glob
     done = 0
@@ -473,8 +476,12 @@ def repair(lang, n, stats):
         if f.endswith(("index.json", "feed.json")): continue
         v = json.load(open(f, encoding="utf8")); k = need(v)
         if k is not None: vids.append((k, f))
-    for _, f in sorted(vids):
+    cosmetic = 0
+    for k, f in sorted(vids):
         if done >= n: break
+        if k == 1:
+            if cosmetic >= cosmetic_max: break
+            cosmetic += 1
         v = json.load(open(f, encoding="utf8"))
         mp3 = f"audio/{lang}/{v['id']}.mp3"
         try:
@@ -482,9 +489,9 @@ def repair(lang, n, stats):
             v["hidden"] = False; v["needs_voice"] = False; v["trimmed"] = True
             print(f"🛠 {v['id']} re-recorded ({round(v['pron_wer']*100,1)}%)", flush=True)
         except BadVoice as e:
-            print(f"🛠 {v['id']} still failing: {e}"); v["needs_voice"] = False
+            print(f"🛠 {v['id']} still failing: {e}"); v["needs_voice"] = False; stats["log"].append(f"repair {v['id']}: {e}")
         json.dump(v, open(f, "w", encoding="utf8"), ensure_ascii=False, indent=1)
-        rebuild_feed(); publish(f"repair {v['id']}"); done += 1
+        rebuild_feed(lang); publish(f"repair {v['id']}", lang); done += 1
     return done
 
 
@@ -504,11 +511,7 @@ def main():
     todo = queue[:a.count - n_again] + random.sample(again, n_again)
     text_m, tts_m = TEXT_MODELS[0], TTS_MODELS[0]
     print(f"models: text={text_m} tts={tts_m} | {len(todo)} topics", flush=True)
-    stats = {"made": 0, "rejected": 0, "calls": 0}
-    try:
-        stats["repaired"] = repair(lang, max(1, a.count // 2), stats)
-    except Quota as e:
-        print(f"⛔ {e}"); rebuild_feed(); publish(f"feed {lang}"); print(f"\nSUMMARY {lang}: {stats}"); return
+    stats = {"made": 0, "rejected": 0, "calls": 0, "repaired": 0, "log": [], "exhausted": False}
     for topic in todo:
         try:
             import sources as SRC
@@ -528,14 +531,14 @@ def main():
                 print(f"   ↻ {topic}: fixing {len(bad)} sentence(s)", flush=True)
                 sc = write_script(text_m, lang, art, "\n".join(bad)); stats["calls"] += 1
             if not ok:
-                print(f"✗ {topic}: failed fact-check {[v.get('reason') for v in verdicts if not v.get('supported')]}")
+                print(f"✗ {topic}: failed fact-check {[v.get('reason') for v in verdicts if not v.get('supported')]}"); stats["log"].append(f"{topic}: fact-check")
                 index["rejected"].append(topic); stats["rejected"] += 1; continue
             vid = lang + "-" + hashlib.md5((art["title"] + (str(len(prev)) if prev else "")).encode()).hexdigest()[:8]
             mp3 = f"audio/{lang}/{vid}.mp3"
             try:
                 voice, tim, pw = record(lang, sc["sentences"], mp3, stats)
             except BadVoice as e:
-                print(f"✗ {topic}: pronunciation check failed ({e})"); index["rejected"].append(topic); stats["rejected"] += 1; continue
+                print(f"✗ {topic}: pronunciation check failed ({e})"); index["rejected"].append(topic); stats["rejected"] += 1; stats["log"].append(f"{topic}: pronunciation {e}"); continue
             vis = plan_visuals(sc["sentences"], art); geo = fetch_geo(lang, art["title"]) if src == "wiki" else None; stats["calls"] += 1
             if not geo:
                 vis = [v if v.get("type") != "map" else {"type": "image"} for v in vis]
@@ -552,16 +555,39 @@ def main():
             q_path = f"factory/queue/{lang}.json"
             if os.path.exists(q_path):
                 json.dump([t for t in json.load(open(q_path, encoding="utf8")) if t != topic], open(q_path, "w", encoding="utf8"), ensure_ascii=False, indent=0)
-            rebuild_feed(); publish(f"video {vid}: {sc['title']}")
+            rebuild_feed(lang); publish(f"video {vid}: {sc['title']}", lang)
             print(f"✅ {topic} → {vid} ({tim['w'][-1][2] if tim['w'] else '?'}s, images per sentence: {sent_img})", flush=True)
         except Quota as e:
-            print(f"⛔ daily quota reached: {e}"); break
+            print(f"⛔ daily quota reached: {e}"); stats["exhausted"] = True; stats["log"].append(f"quota: {str(e)[:120]}"); break
+        except RuntimeError as e:
+            if "push failed" in str(e): raise
+            print(f"⚠️ {topic}: {e}"); stats["log"].append(f"{topic}: {str(e)[:120]}")
         except Exception as e:
-            print(f"⚠️ {topic}: {e}")
+            print(f"⚠️ {topic}: {e}"); stats["log"].append(f"{topic}: {str(e)[:120]}")
         finally:
             json.dump(index, open(idx_path, "w", encoding="utf8"), ensure_ascii=False, indent=1)
-    rebuild_feed(); publish(f"feed {lang}")
+    if not stats["exhausted"]:  # leftover quota: bring back videos pulled for quality, then (max 2) cosmetic re-records
+        try:
+            stats["repaired"] = repair(lang, a.count, stats)
+        except Quota as e:
+            print(f"⛔ {e}"); stats["exhausted"] = True
+    write_status(lang, stats)
+    rebuild_feed(lang); publish(f"status {lang}", lang)
     print(f"\nSUMMARY {lang}: {stats}")
+
+
+def quota_day():
+    """Gemini free quotas reset at midnight Pacific (≈08:00 UTC)."""
+    return time.strftime("%Y-%m-%d", time.gmtime(time.time() - 8 * 3600))
+
+
+def write_status(lang, stats):
+    p = f"content/status-{lang}.json"
+    old = json.load(open(p, encoding="utf8")) if os.path.exists(p) else {}
+    runs = ([{"at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "made": stats["made"], "rejected": stats["rejected"],
+              "repaired": stats["repaired"], "calls": stats["calls"], "notes": stats["log"][-10:]}] + old.get("runs", []))[:48]
+    json.dump({"lang": lang, "exhausted_day": quota_day() if stats["exhausted"] else old.get("exhausted_day") if old.get("exhausted_day") == quota_day() else None,
+               "runs": runs}, open(p, "w", encoding="utf8"), ensure_ascii=False, indent=1)
 
 
 if __name__ == "__main__":
