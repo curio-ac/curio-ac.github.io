@@ -1,0 +1,36 @@
+# Self-sustaining engine: runs the factory, waits until the next hour, then restarts itself.
+# It does not depend on GitHub's scheduler. Started once by hand; keeps itself alive from then on.
+name: engine
+on: workflow_dispatch
+permissions:
+  actions: write
+  contents: read
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: one engine at a time
+        id: solo
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          others=$(gh run list -R ${{ github.repository }} -w engine.yml -s in_progress --json databaseId -q "[.[]|select(.databaseId != ${{ github.run_id }})]|length")
+          echo "others=$others" | tee -a $GITHUB_OUTPUT
+      - name: run the factory and wait for it
+        if: steps.solo.outputs.others == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          start=$(date +%s)
+          gh workflow run factory.yml -R ${{ github.repository }} --ref main -f count=15
+          sleep 20
+          id=$(gh run list -R ${{ github.repository }} -w factory.yml -L 1 --json databaseId -q '.[0].databaseId')
+          gh run watch $id -R ${{ github.repository }} --interval 60 > /dev/null || true
+          left=$(( 3600 - ($(date +%s) - start) ))
+          [ $left -gt 0 ] && sleep $left || true
+      - name: restart the engine
+        if: always() && steps.solo.outputs.others == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run engine.yml -R ${{ github.repository }} --ref main
