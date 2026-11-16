@@ -1,0 +1,452 @@
+{
+ "id": "en-e06b2f28",
+ "lang": "en",
+ "title": "Antarctica's First Meteorite Discovery",
+ "cat": "history",
+ "emoji": "☄️",
+ "sentences": [
+  "Antarctica’s first meteorite was found here.",
+  "The 1911 Australasian Antarctic Expedition explored uncharted coastlines south of Australia.",
+  "Led by Douglas Mawson, the crew covered 4,180 kilometres of unexplored territory.",
+  "They set up the first wireless contact between Antarctica and Australia.",
+  "They even tried using an aircraft, but it became a useless motorised sledge.",
+  "Ultimately, this mission mapped huge stretches of coastline and gathered vital scientific samples."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Antarctica’s",
+    0.35,
+    1.09
+   ],
+   [
+    "first",
+    1.13,
+    1.25
+   ],
+   [
+    "meteorite",
+    1.25,
+    1.85
+   ],
+   [
+    "was",
+    1.85,
+    1.99
+   ],
+   [
+    "found",
+    1.99,
+    2.29
+   ],
+   [
+    "here.",
+    2.29,
+    2.39
+   ],
+   [
+    "The",
+    3.13,
+    3.13
+   ],
+   [
+    "1911",
+    3.13,
+    3.79
+   ],
+   [
+    "Australasian",
+    3.79,
+    4.77
+   ],
+   [
+    "Antarctic",
+    4.77,
+    5.37
+   ],
+   [
+    "Expedition",
+    5.41,
+    5.99
+   ],
+   [
+    "explored",
+    5.99,
+    6.63
+   ],
+   [
+    "uncharted",
+    6.63,
+    7.31
+   ],
+   [
+    "coastlines",
+    7.31,
+    8.01
+   ],
+   [
+    "south",
+    8.01,
+    8.37
+   ],
+   [
+    "of",
+    8.37,
+    8.53
+   ],
+   [
+    "Australia.",
+    8.53,
+    9.05
+   ],
+   [
+    "Led",
+    9.71,
+    9.81
+   ],
+   [
+    "by",
+    9.81,
+    10.01
+   ],
+   [
+    "Douglas",
+    10.01,
+    10.29
+   ],
+   [
+    "Mawson,",
+    10.29,
+    10.87
+   ],
+   [
+    "the",
+    11.37,
+    11.37
+   ],
+   [
+    "crew",
+    11.37,
+    11.61
+   ],
+   [
+    "covered",
+    11.61,
+    11.95
+   ],
+   [
+    "4,180",
+    12.11,
+    13.37
+   ],
+   [
+    "kilometres",
+    13.37,
+    13.99
+   ],
+   [
+    "of",
+    13.99,
+    14.31
+   ],
+   [
+    "unexplored",
+    14.31,
+    14.95
+   ],
+   [
+    "territory.",
+    14.95,
+    15.43
+   ],
+   [
+    "They",
+    16.21,
+    16.29
+   ],
+   [
+    "set",
+    16.29,
+    16.53
+   ],
+   [
+    "up",
+    16.53,
+    16.65
+   ],
+   [
+    "the",
+    16.65,
+    16.79
+   ],
+   [
+    "first",
+    16.89,
+    16.99
+   ],
+   [
+    "wireless",
+    16.99,
+    17.53
+   ],
+   [
+    "contact",
+    17.53,
+    17.88
+   ],
+   [
+    "between",
+    18.03,
+    18.49
+   ],
+   [
+    "Antarctica",
+    18.49,
+    18.95
+   ],
+   [
+    "and",
+    18.95,
+    19.39
+   ],
+   [
+    "Australia.",
+    19.39,
+    19.93
+   ],
+   [
+    "They",
+    20.55,
+    20.63
+   ],
+   [
+    "even",
+    20.63,
+    20.89
+   ],
+   [
+    "tried",
+    20.89,
+    21.29
+   ],
+   [
+    "using",
+    21.29,
+    21.65
+   ],
+   [
+    "an",
+    21.65,
+    21.85
+   ],
+   [
+    "aircraft,",
+    21.85,
+    22.03
+   ],
+   [
+    "but",
+    22.75,
+    22.85
+   ],
+   [
+    "it",
+    22.85,
+    22.95
+   ],
+   [
+    "became",
+    22.95,
+    23.19
+   ],
+   [
+    "a",
+    23.19,
+    23.43
+   ],
+   [
+    "useless",
+    23.43,
+    23.79
+   ],
+   [
+    "motorised",
+    23.79,
+    24.55
+   ],
+   [
+    "sledge.",
+    24.55,
+    24.91
+   ],
+   [
+    "Ultimately,",
+    25.95,
+    26.57
+   ],
+   [
+    "this",
+    26.75,
+    26.83
+   ],
+   [
+    "mission",
+    26.83,
+    27.11
+   ],
+   [
+    "mapped",
+    27.11,
+    27.41
+   ],
+   [
+    "huge",
+    27.41,
+    27.79
+   ],
+   [
+    "stretches",
+    27.79,
+    28.23
+   ],
+   [
+    "of",
+    28.25,
+    28.45
+   ],
+   [
+    "coastline",
+    28.45,
+    29.03
+   ],
+   [
+    "and",
+    29.49,
+    29.59
+   ],
+   [
+    "gathered",
+    29.59,
+    29.89
+   ],
+   [
+    "vital",
+    29.89,
+    29.95
+   ],
+   [
+    "scientific",
+    29.99,
+    30.75
+   ],
+   [
+    "samples.",
+    30.75,
+    31.31
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   29,
+   40,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Aurora_anchored_to_floe-ice_off_the_West_Base.jpg/960px-Aurora_anchored_to_floe-ice_off_the_West_Base.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 507,
+   "license": "Public domain",
+   "artist": "Frank Hurley",
+   "page": "https://commons.wikimedia.org/wiki/File:Aurora_anchored_to_floe-ice_off_the_West_Base.jpg",
+   "desc": "Aurora anchored to floe-ice off the West Base — The ship Aurora anchored to floe-ice off the West Base, Shackleton Ice Shelf, Australasian Antarctic Expedition, 1913, by Frank Hurley, plate glass negative, State Library of New South Wales, ON 144/H485"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Australian_Antarctic_Expedition_Hoadley_SLNSW_FL20824513.jpg/960px-Australian_Antarctic_Expedition_Hoadley_SLNSW_FL20824513.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 556,
+   "license": "Public domain",
+   "artist": "Charles Hoadley",
+   "page": "https://commons.wikimedia.org/wiki/File:Australian_Antarctic_Expedition_Hoadley_SLNSW_FL20824513.jpg",
+   "desc": "Australian Antarctic Expedition Hoadley SLNSW FL20824513 — Western sledging party setting out from the Grottos, Shackleton Ice Shelf, 1912, taken on Mawson's Australasian Antarctic Expedition, 1912, by Charles Hoadley, State Library of New South Wales, ON 144/"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Air-tractor1.jpg/960px-Air-tractor1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 467,
+   "license": "Public domain",
+   "artist": "Frank Hurley",
+   "page": "https://commons.wikimedia.org/wiki/File:Air-tractor1.jpg",
+   "desc": "Air-tractor1 — Portrait of Francis Bickerton with air-tractor (made using Vickers REP damaged in Australia minus mainplane), Australasian Antarctic Expedition, 1912, by Frank Hurley, plate glass negative, State Library of New South Wal"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Unloading_supplies_at_Cape_Denison%2C_1911-1914_%286438929857%29.jpg/960px-Unloading_supplies_at_Cape_Denison%2C_1911-1914_%286438929857%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 506,
+   "license": "Public domain",
+   "artist": "Frank Hurley",
+   "page": "https://commons.wikimedia.org/wiki/File:Unloading_supplies_at_Cape_Denison,_1911-1914_(6438929857).jpg",
+   "desc": "Unloading supplies at Cape Denison, 1911-1914 (6438929857) — Unloading supplies at Cape Denison, Antarctica, 1912, Gelatin silver print, State Library of New South Wales, PXE 725/no. 1243"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1911
+  },
+  {
+   "type": "stat",
+   "value": 4180,
+   "unit": "km",
+   "label": "unexplored territory"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "motorised sledge",
+   "box": [
+    272,
+    214,
+    786,
+    963
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q781233",
+ "pron_wer": 0.03,
+ "angle": 0,
+ "source": {
+  "title": "Australasian Antarctic Expedition",
+  "url": "https://en.wikipedia.org/wiki/Australasian_Antarctic_Expedition",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T17:59:26Z",
+ "trimmed": true
+}

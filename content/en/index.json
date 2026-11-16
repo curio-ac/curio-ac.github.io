@@ -43,12 +43,15 @@
   "The Boat Race 2018",
   "Arnold Bax",
   "Australian Air Corps",
-  "nasa:1508684"
+  "nasa:1508684",
+  "Banksia aculeata"
  ],
  "rejected": [
   "Chameleon",
   "nasa:1509704",
-  "nasa:1282056"
+  "nasa:1282056",
+  "Battle of Dyrrhachium (1081)",
+  "nasa:1440433"
  ],
  "angles": {
   "Blue whale": [
@@ -186,6 +189,9 @@
   ],
   "nasa:1508684": [
    "Gravitational Waves Find New Worlds: Gravitational waves could reveal hidden alien worlds."
+  ],
+  "Banksia aculeata": [
+   "The Hidden Prickly Banksia: This shrub hides its flowers inside itself."
   ]
  },
  "exhausted": []
