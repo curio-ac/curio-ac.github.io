@@ -1,0 +1,15 @@
+# The factory's clock: starts a factory run every hour, around the clock.
+# Kept in its own file so code changes to the factory never touch the schedule.
+name: clock
+on:
+  schedule:
+    - cron: "17 * * * *"
+permissions:
+  actions: write
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh workflow run factory.yml --repo ${{ github.repository }} --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
