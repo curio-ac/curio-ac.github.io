@@ -1,0 +1,426 @@
+{
+ "id": "en-0bdc508a",
+ "lang": "en",
+ "title": "Venus: The Solar System's Inferno",
+ "cat": "space",
+ "emoji": "🔥",
+ "sentences": [
+  "Venus is the hottest planet in our solar system.",
+  "This world is remarkably similar to Earth in size and mass.",
+  "But its atmosphere is packed with thick sulfuric acid clouds.",
+  "Surface temperatures hit a blistering 464 °C.",
+  "The air pressure is 92 times greater than on Earth.",
+  "It shines so brightly that we call it the morning star."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Venus",
+    0.35,
+    0.59
+   ],
+   [
+    "is",
+    0.59,
+    1.07
+   ],
+   [
+    "the",
+    1.07,
+    1.21
+   ],
+   [
+    "hottest",
+    1.21,
+    1.59
+   ],
+   [
+    "planet",
+    1.59,
+    2.07
+   ],
+   [
+    "in",
+    2.07,
+    2.31
+   ],
+   [
+    "our",
+    2.31,
+    2.43
+   ],
+   [
+    "solar",
+    2.43,
+    2.65
+   ],
+   [
+    "system.",
+    2.65,
+    2.91
+   ],
+   [
+    "This",
+    3.81,
+    3.93
+   ],
+   [
+    "world",
+    3.93,
+    4.23
+   ],
+   [
+    "is",
+    4.23,
+    4.45
+   ],
+   [
+    "remarkably",
+    4.45,
+    4.97
+   ],
+   [
+    "similar",
+    4.97,
+    5.43
+   ],
+   [
+    "to",
+    5.43,
+    5.67
+   ],
+   [
+    "Earth",
+    5.77,
+    5.99
+   ],
+   [
+    "in",
+    6.21,
+    6.31
+   ],
+   [
+    "size",
+    6.31,
+    6.51
+   ],
+   [
+    "and",
+    6.51,
+    6.67
+   ],
+   [
+    "mass.",
+    6.67,
+    7.22
+   ],
+   [
+    "But",
+    7.71,
+    7.89
+   ],
+   [
+    "its",
+    7.89,
+    8.29
+   ],
+   [
+    "atmosphere",
+    8.43,
+    8.95
+   ],
+   [
+    "is",
+    9.03,
+    9.27
+   ],
+   [
+    "packed",
+    9.27,
+    9.59
+   ],
+   [
+    "with",
+    9.59,
+    9.85
+   ],
+   [
+    "thick",
+    9.85,
+    10.21
+   ],
+   [
+    "sulfuric",
+    10.23,
+    10.83
+   ],
+   [
+    "acid",
+    10.89,
+    11.09
+   ],
+   [
+    "clouds.",
+    11.09,
+    11.51
+   ],
+   [
+    "Surface",
+    12.33,
+    12.57
+   ],
+   [
+    "temperatures",
+    12.57,
+    13.01
+   ],
+   [
+    "hit",
+    13.01,
+    13.27
+   ],
+   [
+    "a",
+    13.31,
+    13.41
+   ],
+   [
+    "blistering",
+    13.41,
+    14.15
+   ],
+   [
+    "464",
+    14.15,
+    15.35
+   ],
+   [
+    "°C.",
+    15.35,
+    16.35
+   ],
+   [
+    "The",
+    16.81,
+    16.83
+   ],
+   [
+    "air",
+    16.83,
+    16.99
+   ],
+   [
+    "pressure",
+    16.99,
+    17.27
+   ],
+   [
+    "is",
+    17.27,
+    17.57
+   ],
+   [
+    "92",
+    17.57,
+    18.11
+   ],
+   [
+    "times",
+    18.11,
+    18.53
+   ],
+   [
+    "greater",
+    18.53,
+    18.93
+   ],
+   [
+    "than",
+    18.93,
+    19.19
+   ],
+   [
+    "on",
+    19.21,
+    19.31
+   ],
+   [
+    "Earth.",
+    19.31,
+    19.57
+   ],
+   [
+    "It",
+    20.41,
+    20.51
+   ],
+   [
+    "shines",
+    20.51,
+    20.75
+   ],
+   [
+    "so",
+    20.75,
+    21.07
+   ],
+   [
+    "brightly",
+    21.07,
+    21.39
+   ],
+   [
+    "that",
+    21.41,
+    21.81
+   ],
+   [
+    "we",
+    21.81,
+    21.95
+   ],
+   [
+    "call",
+    21.95,
+    22.19
+   ],
+   [
+    "it",
+    22.19,
+    22.31
+   ],
+   [
+    "the",
+    22.31,
+    22.45
+   ],
+   [
+    "morning",
+    22.45,
+    22.73
+   ],
+   [
+    "star.",
+    22.73,
+    23.21
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   20,
+   30,
+   37,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MESSENGER_-_Venus_630_nm_stretch.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA / JHU/APL",
+   "page": "https://commons.wikimedia.org/wiki/File:MESSENGER_-_Venus_630_nm_stretch.jpg",
+   "desc": "MESSENGER - Venus 630 nm stretch — \"During the MESSENGER mission's second flyby of Venus, the Wide Angle Camera (WAC) of the Mercury Dual Imaging System (MDIS) acquired images through all of its 11 narrow-band color filters of the approaching planet. The "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Terrestrial_planet_size_comparisons.jpg/960px-Terrestrial_planet_size_comparisons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 313,
+   "license": "Public domain",
+   "artist": "wikipedia user Brian0918",
+   "page": "https://commons.wikimedia.org/wiki/File:Terrestrial_planet_size_comparisons.jpg",
+   "desc": "Terrestrial planet size comparisons — This diagram shows the approximate relative sizes of the terrestrial planets, from left to right: Mercury, Venus, Earth and Mars. Distances are not to scale. A terrestrial planet is a planet that is primarily composed of"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/NASA_Cloud_City_on_Venus.jpg/960px-NASA_Cloud_City_on_Venus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Cloud_City_on_Venus.jpg",
+   "desc": "NASA Cloud City on Venus — Artists rendering of a NASA Cloud City on Venus."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Foto_de_Venera_9.png/960px-Foto_de_Venera_9.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 151,
+   "license": "Public domain",
+   "artist": "Ted Stryk",
+   "page": "https://commons.wikimedia.org/wiki/File:Foto_de_Venera_9.png",
+   "desc": "Foto de Venera 9 — Photography of Venusian surface by Venera 9."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Lunar_Occultation_of_Venus_%28NHQ201512070001%29.jpg/960px-Lunar_Occultation_of_Venus_%28NHQ201512070001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 458,
+   "license": "Public domain",
+   "artist": "Joel Kowsky",
+   "page": "https://commons.wikimedia.org/wiki/File:Lunar_Occultation_of_Venus_(NHQ201512070001).jpg",
+   "desc": "Lunar Occultation of Venus (NHQ201512070001) — Venus is seen next to the crescent moon during the daytime, prior to the start of occultation, on Monday, Dec. 7, 2015 in Washington, D.C. The moon occulted, or passed in front of, Venus for the second time this y"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 464,
+   "unit": "°C",
+   "label": "hottest planet"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "sulfuric acid clouds",
+   "box": [
+    561,
+    0,
+    977,
+    1000
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 464,
+   "unit": "°C",
+   "label": "surface temperature"
+  },
+  {
+   "type": "stat",
+   "value": 92,
+   "unit": "times",
+   "label": "air pressure"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q313",
+ "pron_wer": 0.034,
+ "angle": 0,
+ "source": {
+  "title": "Venus",
+  "url": "https://en.wikipedia.org/wiki/Venus",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:21:29Z",
+ "trimmed": true
+}

@@ -27,7 +27,8 @@
   "Octopus",
   "Tardigrade",
   "Honey",
-  "nasa:1258573"
+  "nasa:1258573",
+  "Lightning"
  ],
  "rejected": [
   "Chameleon",
@@ -121,6 +122,9 @@
   ],
   "nasa:1258573": [
    "The Swan in the Sky: A massive black hole hides inside Cygnus."
+  ],
+  "Lightning": [
+   "The Power of Lightning: Lightning hits 30,000 °C instantly."
   ]
  },
  "exhausted": []
