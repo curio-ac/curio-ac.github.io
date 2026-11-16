@@ -44,7 +44,8 @@
   "Arnold Bax",
   "Australian Air Corps",
   "nasa:1508684",
-  "Banksia aculeata"
+  "Banksia aculeata",
+  "Australasian Antarctic Expedition"
  ],
  "rejected": [
   "Chameleon",
@@ -192,6 +193,9 @@
   ],
   "Banksia aculeata": [
    "The Hidden Prickly Banksia: This shrub hides its flowers inside itself."
+  ],
+  "Australasian Antarctic Expedition": [
+   "Antarctica's First Meteorite Discovery: Antarctica’s first meteorite was found here."
   ]
  },
  "exhausted": []
