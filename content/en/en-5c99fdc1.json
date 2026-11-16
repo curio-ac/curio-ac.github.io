@@ -1,0 +1,326 @@
+{
+ "id": "en-5c99fdc1",
+ "lang": "en",
+ "title": "The Land of Standing-Up Rocks",
+ "cat": "geography",
+ "emoji": "🏔️",
+ "sentences": [
+  "An ancient eruption unleashed 1,000 times Mount St. Helens.",
+  "Magma collapse formed a 12-mile-wide caldera.",
+  "Erosion sculpted the tuff into dramatic stone spires.",
+  "The Apache called it The Land of the Standing-Up Rocks.",
+  "This 27-million-year-old wonder is now a national park."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.35,
+    0.35
+   ],
+   [
+    "ancient",
+    0.41,
+    0.65
+   ],
+   [
+    "eruption",
+    0.65,
+    1.13
+   ],
+   [
+    "unleashed",
+    1.13,
+    1.77
+   ],
+   [
+    "1,000",
+    1.81,
+    2.45
+   ],
+   [
+    "times",
+    2.45,
+    2.79
+   ],
+   [
+    "Mount",
+    2.79,
+    3.11
+   ],
+   [
+    "St.",
+    3.11,
+    3.35
+   ],
+   [
+    "Helens.",
+    3.61,
+    3.71
+   ],
+   [
+    "Magma",
+    4.37,
+    4.69
+   ],
+   [
+    "collapse",
+    4.69,
+    5.03
+   ],
+   [
+    "formed",
+    5.03,
+    5.41
+   ],
+   [
+    "a",
+    5.41,
+    5.59
+   ],
+   [
+    "12-mile-wide",
+    5.73,
+    6.61
+   ],
+   [
+    "caldera.",
+    6.61,
+    7.21
+   ],
+   [
+    "Erosion",
+    7.85,
+    8.27
+   ],
+   [
+    "sculpted",
+    8.27,
+    8.79
+   ],
+   [
+    "the",
+    8.79,
+    8.89
+   ],
+   [
+    "tuff",
+    8.97,
+    9.19
+   ],
+   [
+    "into",
+    9.29,
+    9.39
+   ],
+   [
+    "dramatic",
+    9.39,
+    9.89
+   ],
+   [
+    "stone",
+    9.89,
+    10.29
+   ],
+   [
+    "spires.",
+    10.29,
+    10.81
+   ],
+   [
+    "The",
+    11.43,
+    11.51
+   ],
+   [
+    "Apache",
+    11.51,
+    11.89
+   ],
+   [
+    "called",
+    11.89,
+    12.27
+   ],
+   [
+    "it",
+    12.27,
+    12.43
+   ],
+   [
+    "The",
+    12.43,
+    12.53
+   ],
+   [
+    "Land",
+    12.53,
+    12.83
+   ],
+   [
+    "of",
+    12.83,
+    13.01
+   ],
+   [
+    "the",
+    13.01,
+    13.11
+   ],
+   [
+    "Standing-Up",
+    13.11,
+    13.67
+   ],
+   [
+    "Rocks.",
+    13.67,
+    14.23
+   ],
+   [
+    "This",
+    14.71,
+    14.83
+   ],
+   [
+    "27-million-year-old",
+    14.83,
+    16.37
+   ],
+   [
+    "wonder",
+    16.37,
+    16.73
+   ],
+   [
+    "is",
+    16.73,
+    17.05
+   ],
+   [
+    "now",
+    17.05,
+    17.29
+   ],
+   [
+    "a",
+    17.29,
+    17.57
+   ],
+   [
+    "national",
+    17.57,
+    17.97
+   ],
+   [
+    "park.",
+    17.97,
+    18.31
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   15,
+   23,
+   33
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chiricahua_National_Monument%2C_Arizona_%286ef1075c-eead-45f6-8dfd-598eff57f358%29.jpg/960px-Chiricahua_National_Monument%2C_Arizona_%286ef1075c-eead-45f6-8dfd-598eff57f358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NPS staff",
+   "page": "https://commons.wikimedia.org/wiki/File:Chiricahua_National_Monument,_Arizona_(6ef1075c-eead-45f6-8dfd-598eff57f358).jpg",
+   "desc": "Chiricahua National Monument, Arizona (6ef1075c-eead-45f6-8dfd-598eff57f358) — Rock pinnacles Twenty seven million years ago a volcanic eruption of immense proportions shook the land around Chiricahua National Monument. One thousand times greater than the 1980"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Aniakchak-caldera_alaska.jpg/960px-Aniakchak-caldera_alaska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "M. Williams, National Park Service",
+   "page": "https://commons.wikimedia.org/wiki/File:Aniakchak-caldera_alaska.jpg",
+   "desc": "Aniakchak-caldera alaska — Aerial view, looking east, of Aniakchak caldera, one of the most spectacular volcanoes on the Alaska Peninsula. Formed during a catastrophic ash-flow producing eruption about 3,400 years ago, Aniakchak caldera is about 1"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Thunder_Rocks%2C_Allegany_State_Park_-_20210921_-_08.jpg/960px-Thunder_Rocks%2C_Allegany_State_Park_-_20210921_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Andre Carrotflower",
+   "page": "https://commons.wikimedia.org/wiki/File:Thunder_Rocks,_Allegany_State_Park_-_20210921_-_08.jpg",
+   "desc": "Thunder Rocks, Allegany State Park - 20210921 - 08 — A man strikes a triumphant pose atop one of the large boulders that make up Thunder Rocks in Allegany State Park, New York, as seen in September 2021. One of several \"rock cities\" that populate southern Catt"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/The_Land_of_the_Standing-Up_Rocks_%281505194%29.jpg/960px-The_Land_of_the_Standing-Up_Rocks_%281505194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Land_of_the_Standing-Up_Rocks_(1505194).jpg",
+   "desc": "The Land of the Standing-Up Rocks (1505194) — NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. Story by Adam Voiland."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chiricahua_National_Monument%2C_Arizona_%28ba6a0fbc-3faa-4fcc-ac8c-78dcd81799c2%29.jpg/960px-Chiricahua_National_Monument%2C_Arizona_%28ba6a0fbc-3faa-4fcc-ac8c-78dcd81799c2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NPS staff",
+   "page": "https://commons.wikimedia.org/wiki/File:Chiricahua_National_Monument,_Arizona_(ba6a0fbc-3faa-4fcc-ac8c-78dcd81799c2).jpg",
+   "desc": "Chiricahua National Monument, Arizona (ba6a0fbc-3faa-4fcc-ac8c-78dcd81799c2) — Pinnacles and balancing rocks. Twenty seven million years ago a volcanic eruption of immense proportions shook the land around Chiricahua National Monument. One thousand times great"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1000,
+   "unit": "times",
+   "label": "Mount St. Helens"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "miles",
+   "label": "caldera wide"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1924
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+ "pron_wer": 0.021,
+ "angle": 0,
+ "source": {
+  "title": "The Land of the Standing-Up Rocks",
+  "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:04:33Z",
+ "trimmed": true
+}

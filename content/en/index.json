@@ -45,7 +45,8 @@
   "Australian Air Corps",
   "nasa:1508684",
   "Banksia aculeata",
-  "Australasian Antarctic Expedition"
+  "Australasian Antarctic Expedition",
+  "1909 Chinese provincial elections"
  ],
  "rejected": [
   "Chameleon",
@@ -196,6 +197,9 @@
   ],
   "Australasian Antarctic Expedition": [
    "Antarctica's First Meteorite Discovery: Antarctica’s first meteorite was found here."
+  ],
+  "1909 Chinese provincial elections": [
+   "China's First 1909 Elections: China held its first provincial elections in 1909."
   ]
  },
  "exhausted": []
