@@ -1,0 +1,453 @@
+{
+ "id": "en-86529ad5",
+ "lang": "en",
+ "title": "The Secret Identity Composer",
+ "cat": "art",
+ "emoji": "🎼",
+ "sentences": [
+  "This composer had a secret literary alter ego.",
+  "Sir Arnold Bax was a famous English musician who wrote seven symphonies.",
+  "Born into a wealthy family, he followed his own artistic path without worrying about trends.",
+  "He even lived in Ireland, writing fiction and verse under the name Dermot O'Byrne.",
+  "Later, he traded his early Celtic obsession for a deep fascination with Nordic culture.",
+  "He remains an important but isolated figure in history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.18,
+    0.18
+   ],
+   [
+    "composer",
+    0.18,
+    0.58
+   ],
+   [
+    "had",
+    0.58,
+    0.94
+   ],
+   [
+    "a",
+    0.94,
+    1.06
+   ],
+   [
+    "secret",
+    1.06,
+    1.46
+   ],
+   [
+    "literary",
+    1.46,
+    2.0
+   ],
+   [
+    "alter",
+    2.0,
+    2.4
+   ],
+   [
+    "ego.",
+    2.4,
+    3.4
+   ],
+   [
+    "Sir",
+    3.42,
+    3.58
+   ],
+   [
+    "Arnold",
+    3.58,
+    3.92
+   ],
+   [
+    "Bax",
+    3.92,
+    4.28
+   ],
+   [
+    "was",
+    4.28,
+    4.54
+   ],
+   [
+    "a",
+    4.54,
+    4.68
+   ],
+   [
+    "famous",
+    4.82,
+    5.04
+   ],
+   [
+    "English",
+    5.04,
+    5.4
+   ],
+   [
+    "musician",
+    5.4,
+    5.98
+   ],
+   [
+    "who",
+    5.98,
+    6.28
+   ],
+   [
+    "wrote",
+    6.28,
+    6.48
+   ],
+   [
+    "seven",
+    6.48,
+    6.88
+   ],
+   [
+    "symphonies.",
+    6.88,
+    7.64
+   ],
+   [
+    "Born",
+    8.36,
+    8.52
+   ],
+   [
+    "into",
+    8.52,
+    8.82
+   ],
+   [
+    "a",
+    8.82,
+    8.96
+   ],
+   [
+    "wealthy",
+    9.16,
+    9.26
+   ],
+   [
+    "family,",
+    9.26,
+    9.66
+   ],
+   [
+    "he",
+    10.12,
+    10.12
+   ],
+   [
+    "followed",
+    10.12,
+    10.42
+   ],
+   [
+    "his",
+    10.42,
+    10.64
+   ],
+   [
+    "own",
+    10.64,
+    10.9
+   ],
+   [
+    "artistic",
+    10.9,
+    11.3
+   ],
+   [
+    "path",
+    11.3,
+    11.78
+   ],
+   [
+    "without",
+    12.04,
+    12.14
+   ],
+   [
+    "worrying",
+    12.14,
+    12.58
+   ],
+   [
+    "about",
+    12.58,
+    12.82
+   ],
+   [
+    "trends.",
+    12.82,
+    13.14
+   ],
+   [
+    "He",
+    14.06,
+    14.16
+   ],
+   [
+    "even",
+    14.16,
+    14.4
+   ],
+   [
+    "lived",
+    14.4,
+    14.64
+   ],
+   [
+    "in",
+    14.64,
+    14.78
+   ],
+   [
+    "Ireland,",
+    14.78,
+    15.18
+   ],
+   [
+    "writing",
+    15.56,
+    15.74
+   ],
+   [
+    "fiction",
+    15.94,
+    16.16
+   ],
+   [
+    "and",
+    16.16,
+    16.44
+   ],
+   [
+    "verse",
+    16.44,
+    16.72
+   ],
+   [
+    "under",
+    16.72,
+    17.06
+   ],
+   [
+    "the",
+    17.06,
+    17.22
+   ],
+   [
+    "name",
+    17.22,
+    17.48
+   ],
+   [
+    "Dermot",
+    17.48,
+    17.94
+   ],
+   [
+    "O'Byrne.",
+    17.94,
+    18.48
+   ],
+   [
+    "Later,",
+    19.5,
+    19.92
+   ],
+   [
+    "he",
+    20.0,
+    20.06
+   ],
+   [
+    "traded",
+    20.06,
+    20.38
+   ],
+   [
+    "his",
+    20.38,
+    20.64
+   ],
+   [
+    "early",
+    20.64,
+    20.98
+   ],
+   [
+    "Celtic",
+    20.98,
+    21.48
+   ],
+   [
+    "obsession",
+    21.48,
+    21.84
+   ],
+   [
+    "for",
+    21.84,
+    22.24
+   ],
+   [
+    "a",
+    22.24,
+    22.36
+   ],
+   [
+    "deep",
+    22.36,
+    22.6
+   ],
+   [
+    "fascination",
+    22.6,
+    23.36
+   ],
+   [
+    "with",
+    23.36,
+    23.54
+   ],
+   [
+    "Nordic",
+    23.54,
+    23.94
+   ],
+   [
+    "culture.",
+    23.94,
+    24.04
+   ],
+   [
+    "He",
+    25.0,
+    25.1
+   ],
+   [
+    "remains",
+    25.1,
+    25.42
+   ],
+   [
+    "an",
+    25.42,
+    25.66
+   ],
+   [
+    "important",
+    25.66,
+    26.06
+   ],
+   [
+    "but",
+    26.06,
+    26.34
+   ],
+   [
+    "isolated",
+    26.52,
+    26.9
+   ],
+   [
+    "figure",
+    26.9,
+    27.34
+   ],
+   [
+    "in",
+    27.34,
+    27.58
+   ],
+   [
+    "history.",
+    27.58,
+    27.96
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   20,
+   35,
+   49,
+   63
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Braunstone_Hall_1776.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 464,
+   "license": "CC BY-SA 4.0",
+   "artist": "L.clarke",
+   "page": "https://commons.wikimedia.org/wiki/File:Braunstone_Hall_1776.jpg",
+   "desc": "Braunstone Hall 1776 — Braunstone Hall was built in 1776 for the Winstanley family, lords of the manor and the main landowners in the village of Braunstone. In many ways the Hall resembles town houses like 17 Friar Lane. It is built in similar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Dahl_Johan_Christian_Nordic_Landscape%40Kunsthalle_Hamburg.JPG/960px-Dahl_Johan_Christian_Nordic_Landscape%40Kunsthalle_Hamburg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 453,
+   "license": "Public domain",
+   "artist": "Johan Christian Dahl",
+   "page": "https://commons.wikimedia.org/wiki/File:Dahl_Johan_Christian_Nordic_Landscape@Kunsthalle_Hamburg.JPG",
+   "desc": "Dahl Johan Christian Nordic Landscape@Kunsthalle Hamburg — "
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q143198",
+ "pron_wer": 0.027,
+ "angle": 0,
+ "source": {
+  "title": "Arnold Bax",
+  "url": "https://en.wikipedia.org/wiki/Arnold_Bax",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T17:48:09Z",
+ "trimmed": true
+}
