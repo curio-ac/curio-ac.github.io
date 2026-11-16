@@ -1,0 +1,408 @@
+{
+ "id": "en-a2b31175",
+ "lang": "en",
+ "title": "Xinjiang Skipped The 1909 Elections",
+ "cat": "history",
+ "emoji": "🗳️",
+ "sentences": [
+  "Xinjiang skipped the 1909 elections!",
+  "The reason was low rates of literacy in Chinese.",
+  "Voting was strictly limited to a tiny group of wealthy men.",
+  "Most of these voters belonged to the scholar-gentry.",
+  "Public attitudes towards the whole process were deeply apathetic.",
+  "Meanwhile, corruption, fraud, and vote buying spread across the country.",
+  "The resulting assemblies were filled with divided constitutionalists."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Xinjiang",
+    0.35,
+    0.71
+   ],
+   [
+    "skipped",
+    0.71,
+    1.01
+   ],
+   [
+    "the",
+    1.01,
+    1.23
+   ],
+   [
+    "1909",
+    1.23,
+    2.03
+   ],
+   [
+    "elections!",
+    2.03,
+    3.21
+   ],
+   [
+    "The",
+    3.23,
+    3.25
+   ],
+   [
+    "reason",
+    3.25,
+    3.55
+   ],
+   [
+    "was",
+    3.55,
+    3.79
+   ],
+   [
+    "low",
+    3.79,
+    4.07
+   ],
+   [
+    "rates",
+    4.33,
+    4.43
+   ],
+   [
+    "of",
+    4.43,
+    4.59
+   ],
+   [
+    "literacy",
+    4.59,
+    5.03
+   ],
+   [
+    "in",
+    5.03,
+    5.27
+   ],
+   [
+    "Chinese.",
+    5.27,
+    5.71
+   ],
+   [
+    "Voting",
+    6.43,
+    6.69
+   ],
+   [
+    "was",
+    6.69,
+    6.93
+   ],
+   [
+    "strictly",
+    6.93,
+    7.21
+   ],
+   [
+    "limited",
+    7.27,
+    7.61
+   ],
+   [
+    "to",
+    7.61,
+    7.87
+   ],
+   [
+    "a",
+    7.87,
+    8.01
+   ],
+   [
+    "tiny",
+    8.05,
+    8.29
+   ],
+   [
+    "group",
+    8.29,
+    8.65
+   ],
+   [
+    "of",
+    8.65,
+    8.81
+   ],
+   [
+    "wealthy",
+    9.03,
+    9.13
+   ],
+   [
+    "men.",
+    9.13,
+    9.45
+   ],
+   [
+    "Most",
+    10.01,
+    10.15
+   ],
+   [
+    "of",
+    10.15,
+    10.33
+   ],
+   [
+    "these",
+    10.33,
+    10.45
+   ],
+   [
+    "voters",
+    10.45,
+    10.75
+   ],
+   [
+    "belonged",
+    10.75,
+    11.13
+   ],
+   [
+    "to",
+    11.13,
+    11.49
+   ],
+   [
+    "the",
+    11.49,
+    11.57
+   ],
+   [
+    "scholar-gentry.",
+    11.57,
+    12.25
+   ],
+   [
+    "Public",
+    12.91,
+    13.11
+   ],
+   [
+    "attitudes",
+    13.31,
+    13.65
+   ],
+   [
+    "towards",
+    13.65,
+    14.09
+   ],
+   [
+    "the",
+    14.09,
+    14.29
+   ],
+   [
+    "whole",
+    14.35,
+    14.47
+   ],
+   [
+    "process",
+    14.47,
+    14.93
+   ],
+   [
+    "were",
+    14.93,
+    15.19
+   ],
+   [
+    "deeply",
+    15.27,
+    15.45
+   ],
+   [
+    "apathetic.",
+    15.45,
+    16.1
+   ],
+   [
+    "Meanwhile,",
+    16.71,
+    17.35
+   ],
+   [
+    "corruption,",
+    17.47,
+    17.93
+   ],
+   [
+    "fraud,",
+    18.37,
+    18.79
+   ],
+   [
+    "and",
+    18.83,
+    18.83
+   ],
+   [
+    "vote",
+    18.83,
+    19.09
+   ],
+   [
+    "buying",
+    19.09,
+    19.45
+   ],
+   [
+    "spread",
+    19.45,
+    19.79
+   ],
+   [
+    "across",
+    19.97,
+    20.07
+   ],
+   [
+    "the",
+    20.07,
+    20.33
+   ],
+   [
+    "country.",
+    20.33,
+    20.61
+   ],
+   [
+    "The",
+    21.29,
+    21.39
+   ],
+   [
+    "resulting",
+    21.39,
+    21.77
+   ],
+   [
+    "assemblies",
+    21.77,
+    22.43
+   ],
+   [
+    "were",
+    22.43,
+    22.65
+   ],
+   [
+    "filled",
+    22.65,
+    22.99
+   ],
+   [
+    "with",
+    22.99,
+    23.25
+   ],
+   [
+    "divided",
+    23.25,
+    23.75
+   ],
+   [
+    "constitutionalists.",
+    23.75,
+    24.45
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   14,
+   25,
+   33,
+   42,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Metropolitan_Civil_Examination_Records_from_the_7th_Year_of_the_Tianshun_Reign_%281463%29_WDL4709.jpg/960px-Metropolitan_Civil_Examination_Records_from_the_7th_Year_of_the_Tianshun_Reign_%281463%29_WDL4709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 395,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Metropolitan_Civil_Examination_Records_from_the_7th_Year_of_the_Tianshun_Reign_(1463)_WDL4709.jpg",
+   "desc": "Metropolitan Civil Examination Records from the 7th Year of the Tianshun Reign (1463) WDL4709 — This work is a collection of civil examination records dated the seventh year (1463) of the Tianshun reign (1457–64). The civil examination system in China began in"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Shibao_election_campaigning_cartoon_1909.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 834,
+   "license": "Public domain",
+   "artist": "Shibao",
+   "page": "https://commons.wikimedia.org/wiki/File:Shibao_election_campaigning_cartoon_1909.png",
+   "desc": "Shibao election campaigning cartoon 1909 — 1909 cartoon of election campaigning, from the Shanghai newspaper Shibao, 31 March 1909"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Conference_Hall%2C_Hubei_Military_Government.jpg/960px-Conference_Hall%2C_Hubei_Military_Government.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Huanokinhejo",
+   "page": "https://commons.wikimedia.org/wiki/File:Conference_Hall,_Hubei_Military_Government.jpg",
+   "desc": "Conference Hall, Hubei Military Government — Conference Hall (会议厅): in late Qing Dynasty it served as Hubei Provincial Assembly Hall. On Oct. 11, 1911, revolutionaries gathered here to announce the establishment of Hubei Military Government of the ROC. Sun Yat"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  0,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q30682252",
+ "pron_wer": 0.016,
+ "angle": 1,
+ "source": {
+  "title": "1909 Chinese provincial elections",
+  "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:00:07Z",
+ "trimmed": true
+}
