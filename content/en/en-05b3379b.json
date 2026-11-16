@@ -1,0 +1,369 @@
+{
+ "id": "en-05b3379b",
+ "lang": "en",
+ "title": "Black Holes Explained",
+ "cat": "space",
+ "emoji": "🕳️",
+ "sentences": [
+  "Nothing can escape a black hole.",
+  "These objects are so compact that gravity traps even light.",
+  "Einstein’s theory predicts they form when mass curves spacetime.",
+  "The boundary of no escape is called the event horizon.",
+  "Crossing this horizon traps an object inside without any detectable change.",
+  "At the center lies a singularity where spacetime curvature becomes infinite."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Nothing",
+    0.1,
+    0.42
+   ],
+   [
+    "can",
+    0.42,
+    0.74
+   ],
+   [
+    "escape",
+    0.74,
+    1.12
+   ],
+   [
+    "a",
+    1.28,
+    1.38
+   ],
+   [
+    "black",
+    1.38,
+    1.58
+   ],
+   [
+    "hole.",
+    1.58,
+    1.92
+   ],
+   [
+    "These",
+    2.58,
+    2.74
+   ],
+   [
+    "objects",
+    2.74,
+    3.2
+   ],
+   [
+    "are",
+    3.2,
+    3.52
+   ],
+   [
+    "so",
+    3.52,
+    3.86
+   ],
+   [
+    "compact",
+    3.86,
+    4.42
+   ],
+   [
+    "that",
+    4.42,
+    4.84
+   ],
+   [
+    "gravity",
+    4.84,
+    5.34
+   ],
+   [
+    "traps",
+    5.34,
+    5.78
+   ],
+   [
+    "even",
+    6.04,
+    6.22
+   ],
+   [
+    "light.",
+    6.22,
+    6.62
+   ],
+   [
+    "Einstein’s",
+    7.92,
+    8.02
+   ],
+   [
+    "theory",
+    8.02,
+    8.16
+   ],
+   [
+    "predicts",
+    8.64,
+    8.74
+   ],
+   [
+    "they",
+    8.74,
+    8.82
+   ],
+   [
+    "form",
+    8.82,
+    9.18
+   ],
+   [
+    "when",
+    9.18,
+    9.44
+   ],
+   [
+    "mass",
+    9.44,
+    9.84
+   ],
+   [
+    "curves",
+    9.84,
+    10.44
+   ],
+   [
+    "spacetime.",
+    10.44,
+    11.04
+   ],
+   [
+    "The",
+    11.78,
+    11.86
+   ],
+   [
+    "boundary",
+    11.86,
+    12.18
+   ],
+   [
+    "of",
+    12.18,
+    12.5
+   ],
+   [
+    "no",
+    12.5,
+    12.7
+   ],
+   [
+    "escape",
+    12.7,
+    13.12
+   ],
+   [
+    "is",
+    13.12,
+    13.4
+   ],
+   [
+    "called",
+    13.44,
+    13.64
+   ],
+   [
+    "the",
+    13.64,
+    13.84
+   ],
+   [
+    "event",
+    13.84,
+    14.26
+   ],
+   [
+    "horizon.",
+    14.26,
+    14.7
+   ],
+   [
+    "Crossing",
+    15.46,
+    15.74
+   ],
+   [
+    "this",
+    15.74,
+    16.02
+   ],
+   [
+    "horizon",
+    16.02,
+    16.48
+   ],
+   [
+    "traps",
+    16.48,
+    16.92
+   ],
+   [
+    "an",
+    16.92,
+    17.18
+   ],
+   [
+    "object",
+    17.18,
+    17.46
+   ],
+   [
+    "inside",
+    17.46,
+    18.06
+   ],
+   [
+    "without",
+    18.06,
+    18.48
+   ],
+   [
+    "any",
+    18.48,
+    18.98
+   ],
+   [
+    "detectable",
+    18.98,
+    19.6
+   ],
+   [
+    "change.",
+    19.6,
+    19.86
+   ],
+   [
+    "At",
+    20.7,
+    20.82
+   ],
+   [
+    "the",
+    20.84,
+    20.94
+   ],
+   [
+    "center",
+    20.94,
+    21.3
+   ],
+   [
+    "lies",
+    21.32,
+    21.8
+   ],
+   [
+    "a",
+    21.8,
+    22.06
+   ],
+   [
+    "singularity",
+    22.06,
+    22.92
+   ],
+   [
+    "where",
+    23.32,
+    23.42
+   ],
+   [
+    "spacetime",
+    23.42,
+    24.04
+   ],
+   [
+    "curvature",
+    24.04,
+    24.46
+   ],
+   [
+    "becomes",
+    24.5,
+    25.02
+   ],
+   [
+    "infinite.",
+    25.02,
+    25.48
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   25,
+   35,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/LightConesNearBlackHoleEventHorizon.png/960px-LightConesNearBlackHoleEventHorizon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 543,
+   "license": "CC BY-SA 3.0",
+   "artist": "Adoarns",
+   "page": "https://commons.wikimedia.org/wiki/File:LightConesNearBlackHoleEventHorizon.png",
+   "desc": "LightConesNearBlackHoleEventHorizon — A view of the way light cones are altered by the gravitational field near a black hole, including the change induced at and below the event horizon precluding any object, including, light, from escaping."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  0,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q589",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Black hole",
+  "url": "https://en.wikipedia.org/wiki/Black_hole",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:26:05Z",
+ "trimmed": true
+}

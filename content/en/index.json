@@ -29,7 +29,8 @@
   "Honey",
   "nasa:1258573",
   "Lightning",
-  "Venus"
+  "Venus",
+  "nasa:1341937"
  ],
  "rejected": [
   "Chameleon",
@@ -129,6 +130,9 @@
   ],
   "Venus": [
    "Venus: The Solar System's Inferno: Venus is the hottest planet in our solar system."
+  ],
+  "nasa:1341937": [
+   "A Baby Planet Discovered: Meet the youngest planet ever found."
   ]
  },
  "exhausted": []
