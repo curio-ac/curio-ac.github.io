@@ -1,0 +1,452 @@
+{
+ "id": "en-a5c4acb7",
+ "lang": "en",
+ "title": "Luis Miguel's Record Tour",
+ "cat": "art",
+ "emoji": "🎵",
+ "sentences": [
+  "His tour became the highest-grossing.",
+  "Luis Miguel released his 13th studio album on September 13, 1999.",
+  "He produced the pop record with R&B and jazz influences.",
+  "He preferred to sing in Spanish instead of crossing over to English.",
+  "Four singles were released to promote the album.",
+  "It debuted at number one in Spain and on the Billboard chart.",
+  "The album achieved multi-platinum status in Argentina, Chile, and Mexico."
+ ],
+ "tim": {
+  "w": [
+   [
+    "His",
+    0.26,
+    0.4
+   ],
+   [
+    "tour",
+    0.4,
+    0.76
+   ],
+   [
+    "became",
+    0.76,
+    1.22
+   ],
+   [
+    "the",
+    1.22,
+    1.44
+   ],
+   [
+    "highest-grossing.",
+    1.44,
+    2.34
+   ],
+   [
+    "Luis",
+    3.1,
+    3.26
+   ],
+   [
+    "Miguel",
+    3.26,
+    3.62
+   ],
+   [
+    "released",
+    3.62,
+    4.04
+   ],
+   [
+    "his",
+    4.04,
+    4.26
+   ],
+   [
+    "13th",
+    4.26,
+    5.04
+   ],
+   [
+    "studio",
+    5.16,
+    5.26
+   ],
+   [
+    "album",
+    5.62,
+    5.72
+   ],
+   [
+    "on",
+    5.92,
+    6.02
+   ],
+   [
+    "September",
+    6.02,
+    6.3
+   ],
+   [
+    "13,",
+    6.3,
+    7.0
+   ],
+   [
+    "1999.",
+    7.28,
+    7.88
+   ],
+   [
+    "He",
+    8.46,
+    8.52
+   ],
+   [
+    "produced",
+    8.7,
+    8.8
+   ],
+   [
+    "the",
+    8.8,
+    9.06
+   ],
+   [
+    "pop",
+    9.14,
+    9.24
+   ],
+   [
+    "record",
+    9.24,
+    9.6
+   ],
+   [
+    "with",
+    9.66,
+    9.84
+   ],
+   [
+    "R&B",
+    10.0,
+    10.42
+   ],
+   [
+    "and",
+    10.42,
+    10.66
+   ],
+   [
+    "jazz",
+    10.66,
+    10.94
+   ],
+   [
+    "influences.",
+    10.94,
+    11.18
+   ],
+   [
+    "He",
+    12.28,
+    12.36
+   ],
+   [
+    "preferred",
+    12.36,
+    12.62
+   ],
+   [
+    "to",
+    12.62,
+    12.82
+   ],
+   [
+    "sing",
+    12.82,
+    12.94
+   ],
+   [
+    "in",
+    12.94,
+    13.06
+   ],
+   [
+    "Spanish",
+    13.06,
+    13.4
+   ],
+   [
+    "instead",
+    13.4,
+    13.88
+   ],
+   [
+    "of",
+    13.88,
+    14.06
+   ],
+   [
+    "crossing",
+    14.06,
+    14.32
+   ],
+   [
+    "over",
+    14.32,
+    14.54
+   ],
+   [
+    "to",
+    14.54,
+    14.66
+   ],
+   [
+    "English.",
+    14.66,
+    15.21
+   ],
+   [
+    "Four",
+    15.9,
+    16.04
+   ],
+   [
+    "singles",
+    16.04,
+    16.34
+   ],
+   [
+    "were",
+    16.34,
+    16.58
+   ],
+   [
+    "released",
+    16.58,
+    16.88
+   ],
+   [
+    "to",
+    16.88,
+    17.2
+   ],
+   [
+    "promote",
+    17.3,
+    17.4
+   ],
+   [
+    "the",
+    17.4,
+    17.62
+   ],
+   [
+    "album.",
+    17.62,
+    17.84
+   ],
+   [
+    "It",
+    18.4,
+    18.48
+   ],
+   [
+    "debuted",
+    18.54,
+    18.78
+   ],
+   [
+    "at",
+    18.78,
+    19.0
+   ],
+   [
+    "number",
+    19.0,
+    19.2
+   ],
+   [
+    "one",
+    19.2,
+    19.46
+   ],
+   [
+    "in",
+    19.46,
+    19.6
+   ],
+   [
+    "Spain",
+    19.8,
+    19.9
+   ],
+   [
+    "and",
+    19.9,
+    20.38
+   ],
+   [
+    "on",
+    20.38,
+    20.54
+   ],
+   [
+    "the",
+    20.54,
+    20.64
+   ],
+   [
+    "Billboard",
+    20.64,
+    20.82
+   ],
+   [
+    "chart.",
+    20.82,
+    21.26
+   ],
+   [
+    "The",
+    21.76,
+    21.86
+   ],
+   [
+    "album",
+    21.86,
+    22.12
+   ],
+   [
+    "achieved",
+    22.12,
+    22.54
+   ],
+   [
+    "multi-platinum",
+    22.54,
+    23.54
+   ],
+   [
+    "status",
+    23.54,
+    23.72
+   ],
+   [
+    "in",
+    23.72,
+    24.04
+   ],
+   [
+    "Argentina,",
+    24.04,
+    24.78
+   ],
+   [
+    "Chile,",
+    25.0,
+    25.36
+   ],
+   [
+    "and",
+    25.5,
+    25.52
+   ],
+   [
+    "Mexico.",
+    25.52,
+    25.88
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   16,
+   26,
+   38,
+   46,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Vinyl_records_single.JPG/960px-Vinyl_records_single.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "能無しさん",
+   "page": "https://commons.wikimedia.org/wiki/File:Vinyl_records_single.JPG",
+   "desc": "Vinyl records single — アダプターの不要なシングル盤。必要に応じて中央の三つ葉のような部分を折り取れるようになっている。"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Frederick_Tandberg_%281910-1988%29_at_the_American_Music_Company_an_advertisement_in_Billboard_magazine_on_January_30%2C_1961.png/960px-Carl_Frederick_Tandberg_%281910-1988%29_at_the_American_Music_Company_an_advertisement_in_Billboard_magazine_on_January_30%2C_1961.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1046,
+   "license": "Public domain",
+   "artist": "AnonymousUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Carl_Frederick_Tandberg_(1910-1988)_at_the_American_Music_Company_an_advertisement_in_Billboard_magazine_on_January_30,_1961.png",
+   "desc": "Carl Frederick Tandberg (1910-1988) at the American Music Company an advertisement in Billboard magazine on January 30, 1961 — Carl Frederick Tandberg (1910-1988) at the American Music Company an advertisement in Billboard magazine on January 30, 1961"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Platino_voodoo_lounge.jpg/960px-Platino_voodoo_lounge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 471,
+   "license": "CC BY-SA 3.0",
+   "artist": "Kim for sure",
+   "page": "https://commons.wikimedia.org/wiki/File:Platino_voodoo_lounge.jpg",
+   "desc": "Platino voodoo lounge — Multiple platinum award for Voodoo Lounge, the Rolling Stones' 1994 Gramy-winning studio album. Photographed at the Museo del Rock in Madrid. The museum houses a collection of records, objects, memorabilia and archive ma"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  0,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "tour",
+   "label": "highest-grossing tour"
+  },
+  {
+   "type": "timeline",
+   "year": 1999
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3281642",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Amarte Es un Placer (album)",
+  "url": "https://en.wikipedia.org/wiki/Amarte_Es_un_Placer_%28album%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:49:57Z",
+ "trimmed": true
+}

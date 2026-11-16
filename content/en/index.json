@@ -71,7 +71,8 @@
   "Banksia spinulosa",
   "Thomas de la More",
   "nasa:1276885",
-  "nasa:1283342"
+  "nasa:1283342",
+  "James Chadwick"
  ],
  "rejected": [
   "Chameleon",
@@ -320,6 +321,9 @@
   ],
   "nasa:1283342": [
    "Indonesia's Underground Peat Fires: Tropical peatland fires are the apex predators of fires."
+  ],
+  "James Chadwick": [
+   "The Prisoner Who Changed Physics: A prisoner of war discovered the neutron."
   ]
  },
  "exhausted": []
