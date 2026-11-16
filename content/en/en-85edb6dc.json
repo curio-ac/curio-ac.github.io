@@ -1,0 +1,411 @@
+{
+ "id": "en-85edb6dc",
+ "lang": "en",
+ "title": "Short-Lived Confederate Regiment",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "This Confederate regiment lasted only months!",
+  "The 4th Missouri Infantry Regiment formed on April 28, 1862.",
+  "It missed action at Farmington and Iuka despite being present.",
+  "The men charged Union lines three times during the Second Battle of Corinth.",
+  "An attack on October 4 was repulsed by a Union counterattack.",
+  "On November 7, 1862, it combined with the 1st Missouri Infantry Regiment."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.08,
+    0.22
+   ],
+   [
+    "Confederate",
+    0.22,
+    0.74
+   ],
+   [
+    "regiment",
+    0.74,
+    1.22
+   ],
+   [
+    "lasted",
+    1.22,
+    1.82
+   ],
+   [
+    "only",
+    1.82,
+    2.3
+   ],
+   [
+    "months!",
+    2.3,
+    3.36
+   ],
+   [
+    "The",
+    3.36,
+    3.42
+   ],
+   [
+    "4th",
+    3.42,
+    3.84
+   ],
+   [
+    "Missouri",
+    3.84,
+    4.18
+   ],
+   [
+    "Infantry",
+    4.18,
+    4.74
+   ],
+   [
+    "Regiment",
+    4.74,
+    5.14
+   ],
+   [
+    "formed",
+    5.36,
+    5.54
+   ],
+   [
+    "on",
+    5.54,
+    5.82
+   ],
+   [
+    "April",
+    5.82,
+    6.18
+   ],
+   [
+    "28,",
+    6.18,
+    6.88
+   ],
+   [
+    "1862.",
+    7.18,
+    8.16
+   ],
+   [
+    "It",
+    8.82,
+    8.9
+   ],
+   [
+    "missed",
+    8.9,
+    9.18
+   ],
+   [
+    "action",
+    9.18,
+    9.6
+   ],
+   [
+    "at",
+    9.6,
+    9.92
+   ],
+   [
+    "Farmington",
+    10.04,
+    10.5
+   ],
+   [
+    "and",
+    10.5,
+    10.92
+   ],
+   [
+    "Iuka",
+    10.92,
+    11.34
+   ],
+   [
+    "despite",
+    11.68,
+    11.92
+   ],
+   [
+    "being",
+    11.92,
+    12.3
+   ],
+   [
+    "present.",
+    12.3,
+    12.7
+   ],
+   [
+    "The",
+    13.46,
+    13.56
+   ],
+   [
+    "men",
+    13.56,
+    13.74
+   ],
+   [
+    "charged",
+    13.74,
+    14.12
+   ],
+   [
+    "Union",
+    14.12,
+    14.5
+   ],
+   [
+    "lines",
+    14.5,
+    14.88
+   ],
+   [
+    "three",
+    14.88,
+    15.3
+   ],
+   [
+    "times",
+    15.3,
+    15.78
+   ],
+   [
+    "during",
+    15.78,
+    16.02
+   ],
+   [
+    "the",
+    16.02,
+    16.18
+   ],
+   [
+    "Second",
+    16.18,
+    16.5
+   ],
+   [
+    "Battle",
+    16.5,
+    16.88
+   ],
+   [
+    "of",
+    16.88,
+    17.06
+   ],
+   [
+    "Corinth.",
+    17.06,
+    17.36
+   ],
+   [
+    "An",
+    18.18,
+    18.26
+   ],
+   [
+    "attack",
+    18.26,
+    18.52
+   ],
+   [
+    "on",
+    18.52,
+    18.76
+   ],
+   [
+    "October",
+    18.76,
+    19.02
+   ],
+   [
+    "4",
+    19.02,
+    19.46
+   ],
+   [
+    "was",
+    19.46,
+    19.82
+   ],
+   [
+    "repulsed",
+    19.82,
+    20.36
+   ],
+   [
+    "by",
+    20.36,
+    20.5
+   ],
+   [
+    "a",
+    20.5,
+    20.64
+   ],
+   [
+    "Union",
+    20.64,
+    20.9
+   ],
+   [
+    "counterattack.",
+    20.9,
+    21.55
+   ],
+   [
+    "On",
+    22.5,
+    22.6
+   ],
+   [
+    "November",
+    22.6,
+    22.8
+   ],
+   [
+    "7,",
+    22.8,
+    23.3
+   ],
+   [
+    "1862,",
+    23.54,
+    24.56
+   ],
+   [
+    "it",
+    24.82,
+    24.9
+   ],
+   [
+    "combined",
+    24.94,
+    25.22
+   ],
+   [
+    "with",
+    25.22,
+    25.6
+   ],
+   [
+    "the",
+    25.6,
+    25.78
+   ],
+   [
+    "1st",
+    25.78,
+    26.12
+   ],
+   [
+    "Missouri",
+    26.12,
+    26.38
+   ],
+   [
+    "Infantry",
+    26.38,
+    26.94
+   ],
+   [
+    "Regiment.",
+    26.94,
+    27.2
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   26,
+   39,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Iuka-Corinth_Campaign2.png/960px-Iuka-Corinth_Campaign2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 556,
+   "license": "CC BY 3.0",
+   "artist": "Hal Jespersen at en.wikipedia, the copyright holder of this work, hereby publish",
+   "page": "https://commons.wikimedia.org/wiki/File:Iuka-Corinth_Campaign2.png",
+   "desc": "Iuka-Corinth Campaign2 — Iuka-Corinth Campaign of the American Civil War, part 2."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Major_General_John_McAllister_Schofield_of_1st_Missouri_Infantry_Regiment_in_uniform%29_-_Bogardus%2C_photographer%2C_363_Broadway%2C_Cor._Franklin_St.%2C_New_York_LCCN2017659646.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1139,
+   "license": "Public domain",
+   "artist": "Bogardus, A. (Abraham), 1822-1908, photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:Major_General_John_McAllister_Schofield_of_1st_Missouri_Infantry_Regiment_in_uniform)_-_Bogardus,_photographer,_363_Broadway,_Cor._Franklin_St.,_New_York_LCCN2017659646.jpg",
+   "desc": "Major General John McAllister Schofield of 1st Missouri Infantry Regiment in uniform) - Bogardus, photographer, 363 Broadway, Cor. Franklin St., New York LCCN2017659646 — Title: Major General John McAllister Schofield of 1st Missouri Infantry Regiment in unifo"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "months",
+   "label": "regiment lasted"
+  },
+  {
+   "type": "timeline",
+   "year": 1862
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "charges",
+   "label": "Union lines"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1862
+  }
+ ],
+ "geo": null,
+ "qid": "Q96371092",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "4th Missouri Infantry Regiment (Confederate)",
+  "url": "https://en.wikipedia.org/wiki/4th_Missouri_Infantry_Regiment_%28Confederate%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:57:20Z",
+ "trimmed": true
+}
