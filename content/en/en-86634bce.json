@@ -1,0 +1,380 @@
+{
+ "id": "en-86634bce",
+ "lang": "en",
+ "title": "Mould That Fights Bacteria",
+ "cat": "medicine",
+ "emoji": "🦠",
+ "sentences": [
+  "Penicillin comes from Penicillium moulds.",
+  "Only two purified compounds are used in clinics today.",
+  "Penicillin G is given by injection.",
+  "Penicillin V is taken by mouth.",
+  "They were among the first drugs to beat bacterial infections.",
+  "Many bacteria have now developed resistance.",
+  "Still, 90% of people claiming allergies can eventually tolerate it."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Penicillin",
+    0.35,
+    0.85
+   ],
+   [
+    "comes",
+    0.85,
+    1.03
+   ],
+   [
+    "from",
+    1.03,
+    1.29
+   ],
+   [
+    "Penicillium",
+    1.29,
+    2.01
+   ],
+   [
+    "moulds.",
+    2.01,
+    2.35
+   ],
+   [
+    "Only",
+    3.01,
+    3.21
+   ],
+   [
+    "two",
+    3.21,
+    3.49
+   ],
+   [
+    "purified",
+    3.49,
+    4.07
+   ],
+   [
+    "compounds",
+    4.07,
+    4.59
+   ],
+   [
+    "are",
+    4.59,
+    4.87
+   ],
+   [
+    "used",
+    4.87,
+    5.17
+   ],
+   [
+    "in",
+    5.17,
+    5.33
+   ],
+   [
+    "clinics",
+    5.33,
+    5.63
+   ],
+   [
+    "today.",
+    5.63,
+    5.73
+   ],
+   [
+    "Penicillin",
+    6.57,
+    7.11
+   ],
+   [
+    "G",
+    7.11,
+    7.29
+   ],
+   [
+    "is",
+    7.29,
+    7.61
+   ],
+   [
+    "given",
+    7.61,
+    7.87
+   ],
+   [
+    "by",
+    7.87,
+    8.11
+   ],
+   [
+    "injection.",
+    8.11,
+    8.73
+   ],
+   [
+    "Penicillin",
+    9.29,
+    9.79
+   ],
+   [
+    "V",
+    9.79,
+    9.99
+   ],
+   [
+    "is",
+    9.99,
+    10.31
+   ],
+   [
+    "taken",
+    10.31,
+    10.61
+   ],
+   [
+    "by",
+    10.61,
+    10.87
+   ],
+   [
+    "mouth.",
+    10.87,
+    11.19
+   ],
+   [
+    "They",
+    11.77,
+    11.85
+   ],
+   [
+    "were",
+    11.85,
+    11.97
+   ],
+   [
+    "among",
+    11.97,
+    12.13
+   ],
+   [
+    "the",
+    12.13,
+    12.33
+   ],
+   [
+    "first",
+    12.33,
+    12.55
+   ],
+   [
+    "drugs",
+    12.55,
+    12.95
+   ],
+   [
+    "to",
+    12.95,
+    13.15
+   ],
+   [
+    "beat",
+    13.15,
+    13.33
+   ],
+   [
+    "bacterial",
+    13.33,
+    13.91
+   ],
+   [
+    "infections.",
+    13.91,
+    14.41
+   ],
+   [
+    "Many",
+    15.21,
+    15.33
+   ],
+   [
+    "bacteria",
+    15.33,
+    15.81
+   ],
+   [
+    "have",
+    15.81,
+    16.21
+   ],
+   [
+    "now",
+    16.21,
+    16.45
+   ],
+   [
+    "developed",
+    16.45,
+    16.95
+   ],
+   [
+    "resistance.",
+    16.95,
+    17.51
+   ],
+   [
+    "Still,",
+    18.31,
+    18.59
+   ],
+   [
+    "90%",
+    19.05,
+    19.55
+   ],
+   [
+    "of",
+    19.55,
+    19.73
+   ],
+   [
+    "people",
+    19.91,
+    20.01
+   ],
+   [
+    "claiming",
+    20.01,
+    20.39
+   ],
+   [
+    "allergies",
+    20.39,
+    20.93
+   ],
+   [
+    "can",
+    20.93,
+    21.25
+   ],
+   [
+    "eventually",
+    21.61,
+    21.71
+   ],
+   [
+    "tolerate",
+    21.71,
+    22.23
+   ],
+   [
+    "it.",
+    22.23,
+    22.35
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   14,
+   20,
+   26,
+   36,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg/960px-Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 584,
+   "license": "CC BY-SA 4.0",
+   "artist": "Science Museum London / Science and Society Picture Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod,_1935_(9672239344).jpg",
+   "desc": "Sample of penicillin mould presented by Alexander Fleming to Douglas Macleod, 1935 (9672239344) — Sample of penicillin mould presented by Alexander Fleming to Douglas Macleod, 1935. Front three-quarter view, grey background."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Penicillin-G_3D.png/960px-Penicillin-G_3D.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 317,
+   "license": "Public domain",
+   "artist": "Cacycle",
+   "page": "https://commons.wikimedia.org/wiki/File:Penicillin-G_3D.png",
+   "desc": "Penicillin-G 3D — Chemical structure of Penicillin G. High-resolution .PNG made with Chem3D and IrfanView — see WikiProject Chemistry - structure drawing for detailed instructions. Please drop me a note if you need the source file."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PenicillinPSAedit.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 583,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:PenicillinPSAedit.jpg",
+   "desc": "PenicillinPSAedit — A poster attached to a curbside trash receptacle offering advice to World War II servicemen: Penicillin cures gonorrhea in 4 hours."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Measuring_allergic_reaction.JPG/960px-Measuring_allergic_reaction.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "Public domain",
+   "artist": "U.S. Air Force photo by Airmen 1st Class Kyle Gese",
+   "page": "https://commons.wikimedia.org/wiki/File:Measuring_allergic_reaction.JPG",
+   "desc": "Measuring allergic reaction — SPANGDAHLEM AIR BASE, Germany – U.S. Air Force Staff Sgt. Sarah Ellis, 52nd Medical Operations Squadron NCO in charge of Allergy Immunizations from Mount Hood, Ore., measures the swelling of a reaction on Wildmer Santiag"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 90,
+   "unit": "%",
+   "label": "tolerate penicillin"
+  }
+ ],
+ "geo": null,
+ "qid": "Q12190",
+ "pron_wer": 0.019,
+ "angle": 1,
+ "source": {
+  "title": "Penicillin",
+  "url": "https://en.wikipedia.org/wiki/Penicillin",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:09:46Z",
+ "trimmed": true
+}
