@@ -1,0 +1,447 @@
+{
+ "id": "en-c58f1338",
+ "lang": "en",
+ "title": "Civil War Charges",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "Present at battles, but saw no action!",
+  "On October 3, 1862, they charged Union lines 3 times at the Second Battle of Corinth.",
+  "The next day, their attack saw initial success before a Union counterattack pushed them back.",
+  "By November 7, 1862, the unit combined with the 1st Missouri Infantry Regiment.",
+  "After surviving the Vicksburg siege and a prisoner exchange, they fought in the Atlanta campaign and the Battle of Franklin."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Present",
+    0.35,
+    0.35
+   ],
+   [
+    "at",
+    0.35,
+    0.55
+   ],
+   [
+    "battles,",
+    0.55,
+    0.93
+   ],
+   [
+    "but",
+    1.01,
+    1.07
+   ],
+   [
+    "saw",
+    1.09,
+    1.29
+   ],
+   [
+    "no",
+    1.29,
+    1.47
+   ],
+   [
+    "action!",
+    1.47,
+    1.93
+   ],
+   [
+    "On",
+    2.45,
+    2.55
+   ],
+   [
+    "October",
+    2.55,
+    2.83
+   ],
+   [
+    "3,",
+    2.83,
+    3.45
+   ],
+   [
+    "1862,",
+    3.69,
+    4.53
+   ],
+   [
+    "they",
+    4.89,
+    4.93
+   ],
+   [
+    "charged",
+    4.93,
+    5.25
+   ],
+   [
+    "Union",
+    5.25,
+    5.61
+   ],
+   [
+    "lines",
+    5.61,
+    6.01
+   ],
+   [
+    "3",
+    6.01,
+    6.33
+   ],
+   [
+    "times",
+    6.43,
+    6.67
+   ],
+   [
+    "at",
+    6.67,
+    6.85
+   ],
+   [
+    "the",
+    6.85,
+    6.95
+   ],
+   [
+    "Second",
+    6.95,
+    7.17
+   ],
+   [
+    "Battle",
+    7.17,
+    7.51
+   ],
+   [
+    "of",
+    7.51,
+    7.69
+   ],
+   [
+    "Corinth.",
+    7.69,
+    7.79
+   ],
+   [
+    "The",
+    8.71,
+    8.75
+   ],
+   [
+    "next",
+    8.75,
+    8.93
+   ],
+   [
+    "day,",
+    8.93,
+    9.31
+   ],
+   [
+    "their",
+    9.67,
+    9.71
+   ],
+   [
+    "attack",
+    9.71,
+    10.01
+   ],
+   [
+    "saw",
+    10.01,
+    10.29
+   ],
+   [
+    "initial",
+    10.29,
+    10.55
+   ],
+   [
+    "success",
+    10.55,
+    11.07
+   ],
+   [
+    "before",
+    11.31,
+    11.41
+   ],
+   [
+    "a",
+    11.41,
+    11.63
+   ],
+   [
+    "Union",
+    11.63,
+    11.89
+   ],
+   [
+    "counterattack",
+    11.89,
+    12.61
+   ],
+   [
+    "pushed",
+    12.61,
+    12.89
+   ],
+   [
+    "them",
+    12.89,
+    13.09
+   ],
+   [
+    "back.",
+    13.09,
+    13.33
+   ],
+   [
+    "By",
+    13.95,
+    14.05
+   ],
+   [
+    "November",
+    14.05,
+    14.27
+   ],
+   [
+    "7,",
+    14.27,
+    14.82
+   ],
+   [
+    "1862,",
+    15.33,
+    16.25
+   ],
+   [
+    "the",
+    16.61,
+    16.65
+   ],
+   [
+    "unit",
+    16.65,
+    16.87
+   ],
+   [
+    "combined",
+    16.87,
+    17.21
+   ],
+   [
+    "with",
+    17.21,
+    17.59
+   ],
+   [
+    "the",
+    17.59,
+    17.73
+   ],
+   [
+    "1st",
+    17.79,
+    18.01
+   ],
+   [
+    "Missouri",
+    18.01,
+    18.37
+   ],
+   [
+    "Infantry",
+    18.37,
+    19.01
+   ],
+   [
+    "Regiment.",
+    19.01,
+    19.33
+   ],
+   [
+    "After",
+    20.03,
+    20.23
+   ],
+   [
+    "surviving",
+    20.23,
+    20.67
+   ],
+   [
+    "the",
+    20.67,
+    20.93
+   ],
+   [
+    "Vicksburg",
+    20.93,
+    21.37
+   ],
+   [
+    "siege",
+    21.37,
+    21.73
+   ],
+   [
+    "and",
+    21.73,
+    21.95
+   ],
+   [
+    "a",
+    21.95,
+    22.09
+   ],
+   [
+    "prisoner",
+    22.13,
+    22.27
+   ],
+   [
+    "exchange,",
+    22.27,
+    22.91
+   ],
+   [
+    "they",
+    23.43,
+    23.51
+   ],
+   [
+    "fought",
+    23.51,
+    23.75
+   ],
+   [
+    "in",
+    23.75,
+    23.91
+   ],
+   [
+    "the",
+    23.91,
+    23.99
+   ],
+   [
+    "Atlanta",
+    23.99,
+    24.33
+   ],
+   [
+    "campaign",
+    24.33,
+    24.91
+   ],
+   [
+    "and",
+    24.91,
+    25.19
+   ],
+   [
+    "the",
+    25.19,
+    25.35
+   ],
+   [
+    "Battle",
+    25.35,
+    25.61
+   ],
+   [
+    "of",
+    25.61,
+    25.79
+   ],
+   [
+    "Franklin.",
+    25.79,
+    25.89
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   23,
+   38,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Battle_of_Corinth%2C_Currier_and_Ives.jpg/960px-Battle_of_Corinth%2C_Currier_and_Ives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 519,
+   "license": "Public domain",
+   "artist": "Battle_of_Corinth,_Miss._Oct._4th_1862.jpg: Currier &amp; Ives derivative work: ",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Corinth,_Currier_and_Ives.jpg",
+   "desc": "Battle of Corinth, Currier and Ives — Rendition of the Second Battle of Corinth, Mississippi, second day (October 4, 1862), during the American Civil War. Hand-colored lithograph by Currier and Ives, 1862. Minor cropping and color correction by Hal Jespersen"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Battle_of_Franklin%2C_November_30%2C_1864.jpg/960px-Battle_of_Franklin%2C_November_30%2C_1864.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 501,
+   "license": "Public domain",
+   "artist": "Kurz and Allison Restoration by Mmxx",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Franklin,_November_30,_1864.jpg",
+   "desc": "Battle of Franklin, November 30, 1864 — Battle of Franklin. November 30, 1864"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  0,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1862
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "Nov",
+   "label": "Unit combination date"
+  },
+  {
+   "type": "timeline",
+   "year": 1863
+  }
+ ],
+ "geo": null,
+ "qid": "Q96371092",
+ "pron_wer": 0.07,
+ "angle": 1,
+ "source": {
+  "title": "4th Missouri Infantry Regiment (Confederate)",
+  "url": "https://en.wikipedia.org/wiki/4th_Missouri_Infantry_Regiment_%28Confederate%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:13:01Z",
+ "trimmed": true
+}
