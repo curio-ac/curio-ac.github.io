@@ -66,7 +66,8 @@
   "21st Waffen Mountain Division of the SS Skanderbeg",
   "Changeling (film)",
   "nasa:1279928",
-  "Australian green tree frog"
+  "Australian green tree frog",
+  "nasa:1346682"
  ],
  "rejected": [
   "Chameleon",
@@ -295,6 +296,9 @@
   ],
   "Australian green tree frog": [
    "This Frog Actually Screams!: This frog actually screams in danger!"
+  ],
+  "nasa:1346682": [
+   "Summer's Brutal Heat Dome: Fall was near, but a fierce heat dome struck."
   ]
  },
  "exhausted": []
