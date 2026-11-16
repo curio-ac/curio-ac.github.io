@@ -1,0 +1,409 @@
+{
+ "id": "en-552d2d6c",
+ "lang": "en",
+ "title": "Missing Oxygen Mystery",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "Dwarf galaxies are missing their oxygen.",
+  "Hubble studied 37 nearby dwarf galaxies to solve this cosmic mystery.",
+  "Simulations predicted much more oxygen should live inside them.",
+  "Massive stars and supernova explosions drive this material out.",
+  "Galactic winds are way better at removing oxygen than models expected.",
+  "Now, scientists want to find out where all that missing oxygen actually went."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Dwarf",
+    0.35,
+    0.61
+   ],
+   [
+    "galaxies",
+    0.63,
+    1.05
+   ],
+   [
+    "are",
+    1.05,
+    1.37
+   ],
+   [
+    "missing",
+    1.37,
+    1.63
+   ],
+   [
+    "their",
+    1.63,
+    1.89
+   ],
+   [
+    "oxygen.",
+    1.89,
+    2.15
+   ],
+   [
+    "Hubble",
+    3.01,
+    3.17
+   ],
+   [
+    "studied",
+    3.17,
+    3.57
+   ],
+   [
+    "37",
+    3.57,
+    4.21
+   ],
+   [
+    "nearby",
+    4.21,
+    4.65
+   ],
+   [
+    "dwarf",
+    4.65,
+    5.09
+   ],
+   [
+    "galaxies",
+    5.09,
+    5.65
+   ],
+   [
+    "to",
+    5.65,
+    5.99
+   ],
+   [
+    "solve",
+    5.99,
+    6.31
+   ],
+   [
+    "this",
+    6.31,
+    6.57
+   ],
+   [
+    "cosmic",
+    6.57,
+    7.01
+   ],
+   [
+    "mystery.",
+    7.01,
+    7.37
+   ],
+   [
+    "Simulations",
+    8.11,
+    8.63
+   ],
+   [
+    "predicted",
+    8.63,
+    9.01
+   ],
+   [
+    "much",
+    9.01,
+    9.45
+   ],
+   [
+    "more",
+    9.45,
+    9.65
+   ],
+   [
+    "oxygen",
+    9.65,
+    10.13
+   ],
+   [
+    "should",
+    10.13,
+    10.39
+   ],
+   [
+    "live",
+    10.39,
+    10.61
+   ],
+   [
+    "inside",
+    10.61,
+    11.07
+   ],
+   [
+    "them.",
+    11.07,
+    11.19
+   ],
+   [
+    "Massive",
+    11.87,
+    12.23
+   ],
+   [
+    "stars",
+    12.23,
+    12.55
+   ],
+   [
+    "and",
+    12.55,
+    12.87
+   ],
+   [
+    "supernova",
+    12.87,
+    13.39
+   ],
+   [
+    "explosions",
+    13.39,
+    14.11
+   ],
+   [
+    "drive",
+    14.39,
+    14.57
+   ],
+   [
+    "this",
+    14.57,
+    14.85
+   ],
+   [
+    "material",
+    14.85,
+    15.31
+   ],
+   [
+    "out.",
+    15.31,
+    15.61
+   ],
+   [
+    "Galactic",
+    16.23,
+    16.61
+   ],
+   [
+    "winds",
+    16.61,
+    16.99
+   ],
+   [
+    "are",
+    16.99,
+    17.21
+   ],
+   [
+    "way",
+    17.21,
+    17.39
+   ],
+   [
+    "better",
+    17.39,
+    17.73
+   ],
+   [
+    "at",
+    17.73,
+    17.91
+   ],
+   [
+    "removing",
+    17.91,
+    18.27
+   ],
+   [
+    "oxygen",
+    18.27,
+    18.95
+   ],
+   [
+    "than",
+    18.95,
+    19.21
+   ],
+   [
+    "models",
+    19.21,
+    19.59
+   ],
+   [
+    "expected.",
+    19.59,
+    20.07
+   ],
+   [
+    "Now,",
+    20.83,
+    21.13
+   ],
+   [
+    "scientists",
+    21.79,
+    21.89
+   ],
+   [
+    "want",
+    21.89,
+    22.31
+   ],
+   [
+    "to",
+    22.31,
+    22.45
+   ],
+   [
+    "find",
+    22.51,
+    22.67
+   ],
+   [
+    "out",
+    22.67,
+    22.87
+   ],
+   [
+    "where",
+    22.87,
+    23.07
+   ],
+   [
+    "all",
+    23.07,
+    23.37
+   ],
+   [
+    "that",
+    23.37,
+    23.59
+   ],
+   [
+    "missing",
+    23.59,
+    23.85
+   ],
+   [
+    "oxygen",
+    23.85,
+    24.41
+   ],
+   [
+    "actually",
+    24.41,
+    24.87
+   ],
+   [
+    "went.",
+    24.87,
+    25.21
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   26,
+   35,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/A_stubborn_dwarf_galaxy.jpg/960px-A_stubborn_dwarf_galaxy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 511,
+   "license": "CC BY 4.0",
+   "artist": "ESA/Hubble &amp; NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:A_stubborn_dwarf_galaxy.jpg",
+   "desc": "A stubborn dwarf galaxy — The fuzzy collection of stars seen in this NASA/ESA Hubble Space Telescope image forms an intriguing dwarf galaxy named LEDA 677373, located about 14 million light-years away from us. Dwarf galaxies are small, faint coll"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Phoenix_dwarf_galaxy_%28ann11075a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 4.0",
+   "artist": "ESA/Hubble and NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Phoenix_dwarf_galaxy_(ann11075a).jpg",
+   "desc": "The Phoenix dwarf galaxy (ann11075a) — The Phoenix Dwarf, imaged here by the NASA/ESA Hubble Space Telescope, is an irregular dwarf galaxy that was discovered in 1976 by Hans-Emil Schuster and Richard Martin West. It is located in the constellation Phoenix in"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Tycho-supernova-xray.jpg/960px-Tycho-supernova-xray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/CXC/Rutgers/J.Warren &amp; J.Hughes et al.",
+   "page": "https://commons.wikimedia.org/wiki/File:Tycho-supernova-xray.jpg",
+   "desc": "Tycho-supernova-xray — The Chandra X-ray Observatory image of Tycho's Supernova Remnant depicts a glowing, multi-colored sphere that appears to be suspended in the blackness of space. This spherical structure is actually a remnant of a massive"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Galactic_Winds_Demystified_-_49784490748.png/960px-Galactic_Winds_Demystified_-_49784490748.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1280,
+   "license": "CC BY 2.0",
+   "artist": "OLCF",
+   "page": "https://commons.wikimedia.org/wiki/File:Galactic_Winds_Demystified_-_49784490748.png",
+   "desc": "Galactic Winds Demystified - 49784490748 — Using the Titan supercomputer at the US Department of Energy’s Oak Ridge National Laboratory, a team of astrophysicists created a set of galactic wind simulations of the highest resolution ever performed. The simulati"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 37,
+   "unit": "galaxies",
+   "label": "nearby dwarf galaxies"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:58:52Z",
+ "trimmed": true
+}

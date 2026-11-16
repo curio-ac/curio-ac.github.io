@@ -76,7 +76,8 @@
   "Amarte Es un Placer (album)",
   "nasa:1488476",
   "Battle of Byram's Ford",
-  "1910 Cuba hurricane"
+  "1910 Cuba hurricane",
+  "Astronomica (Manilius)"
  ],
  "rejected": [
   "Chameleon",
@@ -340,6 +341,9 @@
   ],
   "1910 Cuba hurricane": [
    "The Five-Day Cuban Cyclone: A destructive hurricane hit Cuba twice in October 1910."
+  ],
+  "Astronomica (Manilius)": [
+   "Lost Roman Cosmic Poem Found: An ancient Roman wrote a cosmic poem."
   ]
  },
  "exhausted": []
