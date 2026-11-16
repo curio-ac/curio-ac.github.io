@@ -1,0 +1,381 @@
+{
+ "id": "he-f99a42ac",
+ "lang": "he",
+ "title": "האיש שפיצח את הקבלה",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "ילד מתבולל הפך לענק חקר הקבלה.",
+  "גרשם שלום נולד בברלין למשפחה רחוקה מיהדות.",
+  "בגיל 18 הוא כבר למד את הזוהר לבדו.",
+  "הוא עלה לישראל וניהל את המחלקה ליהדות בבית הספרים הלאומי.",
+  "שלום יצא לאירופה להציל ספרים שהוחרמו בתקופת השואה.",
+  "במהלך חייו הוא פרסם כ-600 מחקרים על תורת הסוד היהודית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "ילד",
+    0.02,
+    0.3
+   ],
+   [
+    "מתבולל",
+    0.3,
+    1.04
+   ],
+   [
+    "הפך",
+    1.4,
+    1.6
+   ],
+   [
+    "לענק",
+    1.6,
+    2.28
+   ],
+   [
+    "חקר",
+    2.34,
+    2.72
+   ],
+   [
+    "הקבלה.",
+    2.72,
+    3.18
+   ],
+   [
+    "גרשם",
+    4.0,
+    4.34
+   ],
+   [
+    "שלום",
+    4.34,
+    4.78
+   ],
+   [
+    "נולד",
+    4.78,
+    5.22
+   ],
+   [
+    "בברלין",
+    5.22,
+    5.82
+   ],
+   [
+    "למשפחה",
+    5.82,
+    6.44
+   ],
+   [
+    "רחוקה",
+    6.44,
+    6.96
+   ],
+   [
+    "מיהדות.",
+    6.96,
+    7.42
+   ],
+   [
+    "בגיל",
+    8.18,
+    8.4
+   ],
+   [
+    "18",
+    8.4,
+    8.76
+   ],
+   [
+    "הוא",
+    8.76,
+    9.46
+   ],
+   [
+    "כבר",
+    9.56,
+    9.7
+   ],
+   [
+    "למד",
+    9.7,
+    10.02
+   ],
+   [
+    "את",
+    10.02,
+    10.12
+   ],
+   [
+    "הזוהר",
+    10.12,
+    10.68
+   ],
+   [
+    "לבדו.",
+    10.68,
+    11.14
+   ],
+   [
+    "הוא",
+    12.04,
+    12.14
+   ],
+   [
+    "עלה",
+    12.14,
+    12.36
+   ],
+   [
+    "לישראל",
+    12.36,
+    12.86
+   ],
+   [
+    "וניהל",
+    12.86,
+    13.52
+   ],
+   [
+    "את",
+    13.52,
+    13.62
+   ],
+   [
+    "המחלקה",
+    13.64,
+    14.18
+   ],
+   [
+    "ליהדות",
+    14.18,
+    14.74
+   ],
+   [
+    "בבית",
+    14.82,
+    15.1
+   ],
+   [
+    "הספרים",
+    15.1,
+    15.48
+   ],
+   [
+    "הלאומי.",
+    15.48,
+    15.9
+   ],
+   [
+    "שלום",
+    16.9,
+    17.16
+   ],
+   [
+    "יצא",
+    17.16,
+    17.48
+   ],
+   [
+    "לאירופה",
+    17.48,
+    18.02
+   ],
+   [
+    "להציל",
+    18.02,
+    18.48
+   ],
+   [
+    "ספרים",
+    18.48,
+    18.92
+   ],
+   [
+    "שהוחרמו",
+    18.92,
+    19.64
+   ],
+   [
+    "בתקופת",
+    19.64,
+    20.2
+   ],
+   [
+    "השואה.",
+    20.2,
+    20.42
+   ],
+   [
+    "במהלך",
+    21.48,
+    21.88
+   ],
+   [
+    "חייו",
+    21.88,
+    22.32
+   ],
+   [
+    "הוא",
+    22.32,
+    22.66
+   ],
+   [
+    "פרסם",
+    22.72,
+    23.08
+   ],
+   [
+    "כ-600",
+    23.08,
+    23.58
+   ],
+   [
+    "מחקרים",
+    23.58,
+    24.42
+   ],
+   [
+    "על",
+    24.42,
+    24.7
+   ],
+   [
+    "תורת",
+    25.0,
+    25.1
+   ],
+   [
+    "הסוד",
+    25.12,
+    25.44
+   ],
+   [
+    "היהודית.",
+    25.44,
+    25.68
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   21,
+   31,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gershom_Scholem_1935.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Gershom_Scholem_1935.jpg",
+   "desc": "Gershom Scholem 1935 — Gershom Scholem in 1935."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Berlin_-_Central_Hotel%2C_Friedrichstrasse_early_1900s_%2849975027096%29.jpg/960px-Berlin_-_Central_Hotel%2C_Friedrichstrasse_early_1900s_%2849975027096%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 471,
+   "license": "CC BY-SA 2.0",
+   "artist": "Sludge G",
+   "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Central_Hotel,_Friedrichstrasse_early_1900s_(49975027096).jpg",
+   "desc": "Berlin - Central Hotel, Friedrichstrasse early 1900s (49975027096) — Berlin - Central Hotel, Friedrichstrasse early 1900s"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gershom_Scholem_learning_the_Zohar_%28NNL_003800553%29.III.jpg/960px-Gershom_Scholem_learning_the_Zohar_%28NNL_003800553%29.III.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 421,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Gershom_Scholem_learning_the_Zohar_(NNL_003800553).III.jpg",
+   "desc": "Gershom Scholem learning the Zohar (NNL 003800553).III — תצלום שבו נראה גרשם שלום יושב לפני ספר פתוח, חובש כיפה לראשו. בגב התצלום כתב שלום כי הוא צולם בעת לימוד ספר הזוהר, בחג הסוכות תרפ\"ו."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/THE_NATIONAL_LIBRARY_BUILDING_OF_THE_HEBREW_UNIVERSITY_IN_JERUSALEM._%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D..jpg/960px-THE_NATIONAL_LIBRARY_BUILDING_OF_THE_HEBREW_UNIVERSITY_IN_JERUSALEM._%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Zoltan Kluger",
+   "page": "https://commons.wikimedia.org/wiki/File:THE_NATIONAL_LIBRARY_BUILDING_OF_THE_HEBREW_UNIVERSITY_IN_JERUSALEM._%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D..jpg",
+   "desc": "THE NATIONAL LIBRARY BUILDING OF THE HEBREW UNIVERSITY IN JERUSALEM. הספריה הלאומית באוניברסיטה העברית בירושלים. — THE NATIONAL LIBRARY BUILDING OF THE HEBREW UNIVERSITY IN JERUSALEM. הספריה הלאומית באוניברסיטה העברית בירושלים."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/NAZI_reading_before_burning_the_library_of_Dr._Hirschfeld%2C_Institute_for_Sexual_Research%2C_Berlin%2C_6_May_1933-_Institut_f%C3%BCr_Sexualwissenschaft_-_Bibliothek_1933_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 896,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:NAZI_reading_before_burning_the_library_of_Dr._Hirschfeld,_Institute_for_Sexual_Research,_Berlin,_6_May_1933-_Institut_f%C3%BCr_Sexualwissenschaft_-_Bibliothek_1933_(cropped).jpg",
+   "desc": "NAZI reading before burning the library of Dr. Hirschfeld, Institute for Sexual Research, Berlin, 6 May 1933- Institut für Sexualwissenschaft - Bibliothek 1933 (cropped) — A young man in a SS uniform examines material plundered from the library of Dr. Magnus H"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Scholem_card_catalog.jpg/960px-Scholem_card_catalog.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1204,
+   "license": "CC BY-SA 3.0",
+   "artist": "Haimlevy",
+   "page": "https://commons.wikimedia.org/wiki/File:Scholem_card_catalog.jpg",
+   "desc": "Scholem card catalog — The card catalog where Gershom Scholem used to write his notes."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1897
+  },
+  {
+   "type": "stat",
+   "value": 18,
+   "unit": "גיל",
+   "label": "למד את הזוהר"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 600,
+   "unit": "מחקרים",
+   "label": "תורת הסוד"
+  }
+ ],
+ "geo": null,
+ "qid": "Q138850",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "גרשם שלום",
+  "url": "https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%A9%D7%9D_%D7%A9%D7%9C%D7%95%D7%9D",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:32:39Z",
+ "trimmed": true
+}
