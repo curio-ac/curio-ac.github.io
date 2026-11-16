@@ -77,7 +77,8 @@
   "nasa:1488476",
   "Battle of Byram's Ford",
   "1910 Cuba hurricane",
-  "Astronomica (Manilius)"
+  "Astronomica (Manilius)",
+  "nasa:1506766"
  ],
  "rejected": [
   "Chameleon",
@@ -344,6 +345,9 @@
   ],
   "Astronomica (Manilius)": [
    "Lost Roman Cosmic Poem Found: An ancient Roman wrote a cosmic poem."
+  ],
+  "nasa:1506766": [
+   "Missing Oxygen Mystery: Dwarf galaxies are missing their oxygen."
   ]
  },
  "exhausted": []
