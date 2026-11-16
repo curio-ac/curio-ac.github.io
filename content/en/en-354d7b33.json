@@ -1,0 +1,459 @@
+{
+ "id": "en-354d7b33",
+ "lang": "en",
+ "title": "The Rosetta Stone Secret",
+ "cat": "history",
+ "emoji": "🗿",
+ "sentences": [
+  "A famous ancient stone became mere building material.",
+  "It features a decree issued in 196 BC.",
+  "The text uses hieroglyphic, Demotic, and Ancient Greek.",
+  "Minor differences between them made it key to deciphering the scripts.",
+  "A French officer found it in July 1799 during France's invasion.",
+  "It was the first Ancient Egyptian bilingual text recovered in modern times.",
+  "Soon, copies and casts circulated among European museums and scholars."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.35,
+    0.35
+   ],
+   [
+    "famous",
+    0.35,
+    0.59
+   ],
+   [
+    "ancient",
+    0.59,
+    0.99
+   ],
+   [
+    "stone",
+    1.01,
+    1.39
+   ],
+   [
+    "became",
+    1.39,
+    1.75
+   ],
+   [
+    "mere",
+    1.75,
+    2.07
+   ],
+   [
+    "building",
+    2.07,
+    2.33
+   ],
+   [
+    "material.",
+    2.33,
+    2.77
+   ],
+   [
+    "It",
+    3.41,
+    3.43
+   ],
+   [
+    "features",
+    3.43,
+    3.69
+   ],
+   [
+    "a",
+    3.69,
+    3.89
+   ],
+   [
+    "decree",
+    3.89,
+    4.11
+   ],
+   [
+    "issued",
+    4.11,
+    4.63
+   ],
+   [
+    "in",
+    4.63,
+    4.83
+   ],
+   [
+    "196",
+    4.83,
+    5.41
+   ],
+   [
+    "BC.",
+    5.41,
+    6.13
+   ],
+   [
+    "The",
+    6.77,
+    6.79
+   ],
+   [
+    "text",
+    6.79,
+    6.99
+   ],
+   [
+    "uses",
+    6.99,
+    7.29
+   ],
+   [
+    "hieroglyphic,",
+    7.29,
+    7.94
+   ],
+   [
+    "Demotic,",
+    8.43,
+    8.83
+   ],
+   [
+    "and",
+    9.07,
+    9.13
+   ],
+   [
+    "Ancient",
+    9.13,
+    9.43
+   ],
+   [
+    "Greek.",
+    9.43,
+    9.75
+   ],
+   [
+    "Minor",
+    10.39,
+    10.55
+   ],
+   [
+    "differences",
+    10.55,
+    10.97
+   ],
+   [
+    "between",
+    11.29,
+    11.39
+   ],
+   [
+    "them",
+    11.39,
+    11.63
+   ],
+   [
+    "made",
+    11.63,
+    11.89
+   ],
+   [
+    "it",
+    11.89,
+    11.99
+   ],
+   [
+    "key",
+    11.99,
+    12.25
+   ],
+   [
+    "to",
+    12.25,
+    12.39
+   ],
+   [
+    "deciphering",
+    12.43,
+    12.93
+   ],
+   [
+    "the",
+    12.93,
+    13.03
+   ],
+   [
+    "scripts.",
+    13.03,
+    13.13
+   ],
+   [
+    "A",
+    13.89,
+    13.97
+   ],
+   [
+    "French",
+    13.97,
+    14.17
+   ],
+   [
+    "officer",
+    14.17,
+    14.57
+   ],
+   [
+    "found",
+    14.57,
+    14.95
+   ],
+   [
+    "it",
+    14.95,
+    15.09
+   ],
+   [
+    "in",
+    15.09,
+    15.21
+   ],
+   [
+    "July",
+    15.21,
+    15.49
+   ],
+   [
+    "1799",
+    15.49,
+    16.55
+   ],
+   [
+    "during",
+    16.55,
+    16.95
+   ],
+   [
+    "France's",
+    16.95,
+    17.45
+   ],
+   [
+    "invasion.",
+    17.45,
+    17.95
+   ],
+   [
+    "It",
+    18.51,
+    18.61
+   ],
+   [
+    "was",
+    18.61,
+    18.73
+   ],
+   [
+    "the",
+    18.73,
+    18.87
+   ],
+   [
+    "first",
+    18.87,
+    19.09
+   ],
+   [
+    "Ancient",
+    19.09,
+    19.47
+   ],
+   [
+    "Egyptian",
+    19.47,
+    19.89
+   ],
+   [
+    "bilingual",
+    19.91,
+    20.33
+   ],
+   [
+    "text",
+    20.33,
+    20.95
+   ],
+   [
+    "recovered",
+    21.27,
+    21.43
+   ],
+   [
+    "in",
+    21.43,
+    21.67
+   ],
+   [
+    "modern",
+    21.67,
+    21.97
+   ],
+   [
+    "times.",
+    21.97,
+    22.35
+   ],
+   [
+    "Soon,",
+    23.13,
+    23.43
+   ],
+   [
+    "copies",
+    24.19,
+    24.19
+   ],
+   [
+    "and",
+    24.19,
+    24.41
+   ],
+   [
+    "casts",
+    24.41,
+    24.79
+   ],
+   [
+    "circulated",
+    24.79,
+    25.45
+   ],
+   [
+    "among",
+    25.45,
+    25.69
+   ],
+   [
+    "European",
+    25.69,
+    26.13
+   ],
+   [
+    "museums",
+    26.53,
+    26.63
+   ],
+   [
+    "and",
+    26.63,
+    27.05
+   ],
+   [
+    "scholars.",
+    27.05,
+    27.41
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   24,
+   35,
+   46,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/960px-Rosetta_Stone.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 842,
+   "license": "CC BY-SA 4.0",
+   "artist": "Hans Hillewaert",
+   "page": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+   "desc": "Rosetta Stone — The Rosetta Stone in the British Museum."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Champollion_table.jpg/960px-Champollion_table.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 871,
+   "license": "Public domain",
+   "artist": "Jean-François Champollion",
+   "page": "https://commons.wikimedia.org/wiki/File:Champollion_table.jpg",
+   "desc": "Champollion table — Table of hieroglyphics and demotic phonetic signs"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Porson_13_Jan_1803.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 542,
+   "license": "Public domain",
+   "artist": "Richard Porson",
+   "page": "https://commons.wikimedia.org/wiki/File:Porson_13_Jan_1803.jpg",
+   "desc": "Porson 13 Jan 1803 — Reconstruction of the missing Greek text on the Rosetta Stone"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Copy_of_Rosetta_Stone.jpg/960px-Copy_of_Rosetta_Stone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 966,
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Copy_of_Rosetta_Stone.jpg",
+   "desc": "Copy of Rosetta Stone — Photo of the copy of Rosetta Stone in British Museum. Photo by kacperg333"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": -196
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1799
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q48584",
+ "pron_wer": 0.029,
+ "angle": 1,
+ "source": {
+  "title": "Rosetta Stone",
+  "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:28:19Z",
+ "trimmed": true
+}
