@@ -1,0 +1,364 @@
+{
+ "id": "he-467eb44f",
+ "lang": "he",
+ "title": "הצבא הסודי שבתוכך",
+ "cat": "medicine",
+ "emoji": "🛡️",
+ "sentences": [
+  "לכמעט כל יצור חי יש מערכת הגנה ביולוגית.",
+  "המערכת מזהה נגיפים, חיידקים, פטריות וטפילים מסוכנים.",
+  "היא אפילו משמידה תאים סרטניים או פגועים בגוף.",
+  "בחולייתנים התפתחו מנגנונים מתוחכמים לזיהוי פתוגנים.",
+  "זיכרון חיסוני מאפשר למערכת להגיב לפתוגן מוכר במהירות ועוצמה.",
+  "תהליך חסינות נרכשת זה הוא הבסיס לחיסונים שאנחנו מקבלים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "לכמעט",
+    0,
+    0.52
+   ],
+   [
+    "כל",
+    0.64,
+    0.76
+   ],
+   [
+    "יצור",
+    0.76,
+    1.18
+   ],
+   [
+    "חי",
+    1.18,
+    1.62
+   ],
+   [
+    "יש",
+    1.76,
+    1.96
+   ],
+   [
+    "מערכת",
+    1.96,
+    2.5
+   ],
+   [
+    "הגנה",
+    2.5,
+    2.82
+   ],
+   [
+    "ביולוגית.",
+    2.82,
+    3.42
+   ],
+   [
+    "המערכת",
+    4.04,
+    4.64
+   ],
+   [
+    "מזהה",
+    4.66,
+    5.1
+   ],
+   [
+    "נגיפים,",
+    5.1,
+    5.92
+   ],
+   [
+    "חיידקים,",
+    5.92,
+    6.7
+   ],
+   [
+    "פטריות",
+    6.96,
+    7.24
+   ],
+   [
+    "וטפילים",
+    7.24,
+    8.04
+   ],
+   [
+    "מסוכנים.",
+    8.04,
+    8.64
+   ],
+   [
+    "היא",
+    9.14,
+    9.2
+   ],
+   [
+    "אפילו",
+    9.2,
+    9.48
+   ],
+   [
+    "משמידה",
+    9.48,
+    10.06
+   ],
+   [
+    "תאים",
+    10.06,
+    10.42
+   ],
+   [
+    "סרטניים",
+    10.42,
+    11.26
+   ],
+   [
+    "או",
+    11.26,
+    11.52
+   ],
+   [
+    "פגועים",
+    11.58,
+    11.92
+   ],
+   [
+    "בגוף.",
+    11.92,
+    12.18
+   ],
+   [
+    "בחולייתנים",
+    12.96,
+    13.62
+   ],
+   [
+    "התפתחו",
+    13.62,
+    14.28
+   ],
+   [
+    "מנגנונים",
+    14.28,
+    14.76
+   ],
+   [
+    "מתוחכמים",
+    14.76,
+    15.42
+   ],
+   [
+    "לזיהוי",
+    15.42,
+    15.94
+   ],
+   [
+    "פתוגנים.",
+    15.94,
+    17.04
+   ],
+   [
+    "זיכרון",
+    17.04,
+    17.44
+   ],
+   [
+    "חיסוני",
+    17.44,
+    18.02
+   ],
+   [
+    "מאפשר",
+    18.02,
+    18.66
+   ],
+   [
+    "למערכת",
+    18.66,
+    19.3
+   ],
+   [
+    "להגיב",
+    19.3,
+    19.78
+   ],
+   [
+    "לפתוגן",
+    19.78,
+    20.4
+   ],
+   [
+    "מוכר",
+    20.4,
+    20.86
+   ],
+   [
+    "במהירות",
+    20.86,
+    21.6
+   ],
+   [
+    "ועוצמה.",
+    21.6,
+    22.26
+   ],
+   [
+    "תהליך",
+    22.84,
+    23.18
+   ],
+   [
+    "חסינות",
+    23.18,
+    23.6
+   ],
+   [
+    "נרכשת",
+    23.9,
+    24.16
+   ],
+   [
+    "זה",
+    24.16,
+    24.3
+   ],
+   [
+    "הוא",
+    24.3,
+    24.7
+   ],
+   [
+    "הבסיס",
+    24.7,
+    25.12
+   ],
+   [
+    "לחיסונים",
+    25.12,
+    25.72
+   ],
+   [
+    "שאנחנו",
+    26.06,
+    26.16
+   ],
+   [
+    "מקבלים.",
+    26.16,
+    26.28
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   23,
+   29,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Immune.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 435,
+   "license": "Public domain",
+   "artist": "Pixie מוויקיפדיה העברית",
+   "page": "https://commons.wikimedia.org/wiki/File:Immune.png",
+   "desc": "Immune — תאי he:מערכת החיסון. עוצב והופק על ידי Pixie"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Neutrophil_with_anthrax_copy.jpg/960px-Neutrophil_with_anthrax_copy.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 751,
+   "license": "CC BY 2.5",
+   "artist": "Volker Brinkmann",
+   "page": "https://commons.wikimedia.org/wiki/File:Neutrophil_with_anthrax_copy.jpg",
+   "desc": "Neutrophil with anthrax copy — Neutrophil engulfing anthrax bacteria, taken with a Leo 1550 scanning electron microscope. Scale bar is 5 micrometers."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Apoptosis_DU145_cells_mosaic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1444,
+   "license": "CC BY-SA 3.0",
+   "artist": "Egelberg",
+   "page": "https://commons.wikimedia.org/wiki/File:Apoptosis_DU145_cells_mosaic.jpg",
+   "desc": "Apoptosis DU145 cells mosaic — The sub images where extracted from a time-lapse microscopy video showing apoptosis of DU145 prostate cancer cells. To induce apoptosis the cells were treated with etoposide. The 61 hour time-lapse was created using the "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Attributes_of_%CE%B3%CE%B4_T-cell_subsets_most_commonly_found_in_humans_or_mice.png/960px-Attributes_of_%CE%B3%CE%B4_T-cell_subsets_most_commonly_found_in_humans_or_mice.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 528,
+   "license": "CC BY 4.0",
+   "artist": "Schönefeldt, S.; Wais, T.; Herling, M.; Mustjoki, S.; Bekiaris, V.; Moriggl, R.;",
+   "page": "https://commons.wikimedia.org/wiki/File:Attributes_of_%CE%B3%CE%B4_T-cell_subsets_most_commonly_found_in_humans_or_mice.png",
+   "desc": "Attributes of γδ T-cell subsets most commonly found in humans or mice — Figure 1. Attributes of γδ T-cell subsets most commonly found in humans or mice. The main human γδ T-cell subsets, Vδ1, Vδ2 and Vδ3 (top), and the main murine γδ T-cell subsets, Vγ1, Vγ4, "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Immunological_Memory.png/960px-Immunological_Memory.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 656,
+   "license": "CC BY-SA 4.0",
+   "artist": "סתו כסלו",
+   "page": "https://commons.wikimedia.org/wiki/File:Immunological_Memory.png",
+   "desc": "Immunological Memory — Immunological Memory"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vaccination_campagne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 472,
+   "license": "Public domain",
+   "artist": "CDC/Reuel WaldropUploader : fr:User:Ske",
+   "page": "https://commons.wikimedia.org/wiki/File:Vaccination_campagne.jpg",
+   "desc": "Vaccination campagne — Group Immunization, USA, ?. Multiracial group of women and children in a housing project mobile clinic waiting for and receiving vaccinations. Scene contains a doctor and a nurse."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1059",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "מערכת החיסון",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%97%D7%99%D7%A1%D7%95%D7%9F",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:41:25Z",
+ "trimmed": true
+}
