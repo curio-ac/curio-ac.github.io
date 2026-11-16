@@ -27,8 +27,10 @@ def http(url, body=None, headers=None, timeout=120):
         except urllib.error.HTTPError as e:
             msg = e.read()[:300].decode("utf8", "ignore")
             if e.code == 429:
-                if "PerDay" in msg or "per day" in msg.lower() or attempt == 2:
+                if "PerDay" in msg or "per day" in msg.lower() or "billing" in msg.lower():
                     raise Quota(url.split("/models/")[-1].split(":")[0] + " " + re.sub(r"\s+", " ", msg)[-200:])
+                if attempt == 2:
+                    raise RuntimeError(f"429 per-minute limit {msg[:80]}")
                 time.sleep(30); continue
             if e.code >= 500 and attempt < 2:
                 time.sleep(20 * (attempt + 1)); continue
@@ -59,21 +61,32 @@ def pick_model(kind):
 
 
 TTS_MODELS = os.environ.get("TTS_MODELS", "gemini-3.8-flash-tts,gemini-3.1-flash-tts-preview,gemini-2.5-flash-preview-tts,gemini-2.5-pro-preview-tts").split(",")
-TEXT_MODELS = os.environ.get("TEXT_MODELS", "gemini-3.5-flash,gemini-3.1-flash-lite,gemini-flash-lite-latest").split(",")
+TEXT_MODELS = os.environ.get("TEXT_MODELS", "gemini-3.1-flash-lite,gemini-flash-lite-latest").split(",")
 
 
 def gen_json(model, prompt):
-    """model arg ignored: walks TEXT_MODELS, dropping a model that times out / is overloaded / out of quota."""
-    while TEXT_MODELS:
-        try:
-            r = _gen_json(TEXT_MODELS[0], prompt)
-            return r[0] if isinstance(r, list) and len(r) == 1 and isinstance(r[0], dict) else r
-        except (Quota, RuntimeError) as e:
-            if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429)", str(e)):
-                raise
-            print(f"   ↪ {TEXT_MODELS[0]} unavailable ({str(e)[:60]}), switching model", flush=True)
-            TEXT_MODELS.pop(0)
-    raise Quota("all text models exhausted")
+    """model arg ignored. Walks TEXT_MODELS. Only a real daily quota (or billing) drops a model for the run;
+    a busy model (503 / timeout) is skipped for this call and retried later - it never ends the day."""
+    for rnd in range(4):
+        busy = False
+        for m in list(TEXT_MODELS):
+            try:
+                r = _gen_json(m, prompt)
+                return r[0] if isinstance(r, list) and len(r) == 1 and isinstance(r[0], dict) else r
+            except Quota as e:
+                print(f"   ↪ {m} out of daily quota, dropping it", flush=True); TEXT_MODELS.remove(m)
+            except RuntimeError as e:
+                s = str(e)
+                if re.match(r"(400|403)", s) and "billing" in s.lower():
+                    print(f"   ↪ {m} needs billing, dropping it", flush=True); TEXT_MODELS.remove(m); continue
+                if not re.match(r"(timeout|503|500|429)", s):
+                    raise
+                busy = True; print(f"   ↪ {m} busy ({s[:40]}), trying next", flush=True)
+        if not TEXT_MODELS:
+            raise Quota("all text models exhausted")
+        if busy:
+            time.sleep(60 * (rnd + 1))
+    raise RuntimeError("text models busy, skipping this item")
 
 
 def _gen_json(model, prompt):
@@ -446,8 +459,9 @@ def record(lang, sentences, mp3, stats):
         except (Quota, RuntimeError) as e:
             if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
                 raise
-            print(f"   ↪ tts {m} unavailable", flush=True)
-            if m in models: models.remove(m)
+            gone = isinstance(e, Quota) or str(e).startswith("404")
+            print(f"   ↪ tts {m} {'out of quota' if gone else 'busy'}", flush=True)
+            if gone and m in models: models.remove(m)
             continue
         tim = align(mp3, sentences, lang); trim(mp3, tim)
         w, heard = check(mp3, shown, lang)
