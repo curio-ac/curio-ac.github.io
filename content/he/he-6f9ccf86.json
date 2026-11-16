@@ -1,0 +1,331 @@
+{
+ "id": "he-6f9ccf86",
+ "lang": "he",
+ "title": "הספורט הקטלני של רומא",
+ "cat": "history",
+ "emoji": "🐎",
+ "sentences": [
+  "מרוצי מרכבות היו ספורט קטלני ומסוכן מאוד.",
+  "הם היו פופולריים מאוד ביוון וברומא העתיקה.",
+  "קבוצות ספורט ייצגו תומכים כלכליים ונלחמו על רוכבים.",
+  "היריבות בין האוהדים הפכה אפילו לסכסוכים אלימים.",
+  "לפי האגדה, האולימפיאדה היוונית כולה מבוססת על מרוצים אלו.",
+  "היום הספורט הזה נקרא מרוץ רתמות."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מרוצי",
+    0.16,
+    0.58
+   ],
+   [
+    "מרכבות",
+    0.58,
+    1.06
+   ],
+   [
+    "היו",
+    1.06,
+    1.26
+   ],
+   [
+    "ספורט",
+    1.26,
+    1.7
+   ],
+   [
+    "קטלני",
+    1.76,
+    2.3
+   ],
+   [
+    "ומסוכן",
+    2.3,
+    3.06
+   ],
+   [
+    "מאוד.",
+    3.06,
+    3.34
+   ],
+   [
+    "הם",
+    3.72,
+    3.82
+   ],
+   [
+    "היו",
+    3.82,
+    3.96
+   ],
+   [
+    "פופולריים",
+    3.96,
+    4.5
+   ],
+   [
+    "מאוד",
+    4.5,
+    4.68
+   ],
+   [
+    "ביוון",
+    4.68,
+    5.22
+   ],
+   [
+    "וברומא",
+    5.22,
+    5.66
+   ],
+   [
+    "העתיקה.",
+    5.66,
+    6.08
+   ],
+   [
+    "קבוצות",
+    6.8,
+    7.1
+   ],
+   [
+    "ספורט",
+    7.1,
+    7.44
+   ],
+   [
+    "ייצגו",
+    7.44,
+    7.72
+   ],
+   [
+    "תומכים",
+    7.72,
+    8.08
+   ],
+   [
+    "כלכליים",
+    8.08,
+    8.64
+   ],
+   [
+    "ונלחמו",
+    8.64,
+    9.32
+   ],
+   [
+    "על",
+    9.32,
+    9.44
+   ],
+   [
+    "רוכבים.",
+    9.44,
+    9.88
+   ],
+   [
+    "היריבות",
+    10.66,
+    11.02
+   ],
+   [
+    "בין",
+    11.02,
+    11.22
+   ],
+   [
+    "האוהדים",
+    11.22,
+    11.7
+   ],
+   [
+    "הפכה",
+    11.7,
+    12.02
+   ],
+   [
+    "אפילו",
+    12.02,
+    12.28
+   ],
+   [
+    "לסכסוכים",
+    12.28,
+    12.92
+   ],
+   [
+    "אלימים.",
+    12.92,
+    13.28
+   ],
+   [
+    "לפי",
+    14.18,
+    14.38
+   ],
+   [
+    "האגדה,",
+    14.38,
+    14.82
+   ],
+   [
+    "האולימפיאדה",
+    15.2,
+    15.76
+   ],
+   [
+    "היוונית",
+    15.76,
+    16.14
+   ],
+   [
+    "כולה",
+    16.14,
+    16.5
+   ],
+   [
+    "מבוססת",
+    16.5,
+    17.06
+   ],
+   [
+    "על",
+    17.06,
+    17.16
+   ],
+   [
+    "מרוצים",
+    17.16,
+    17.58
+   ],
+   [
+    "אלו.",
+    17.58,
+    17.7
+   ],
+   [
+    "היום",
+    18.46,
+    18.62
+   ],
+   [
+    "הספורט",
+    18.62,
+    19.0
+   ],
+   [
+    "הזה",
+    19.02,
+    19.14
+   ],
+   [
+    "נקרא",
+    19.14,
+    19.54
+   ],
+   [
+    "מרוץ",
+    19.54,
+    20.04
+   ],
+   [
+    "רתמות.",
+    20.04,
+    20.44
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   22,
+   29,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ancient_Roman_frescos_in_the_House_of_the_Vettii_%28Pompeii%29-12.jpg/960px-Ancient_Roman_frescos_in_the_House_of_the_Vettii_%28Pompeii%29-12.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 341,
+   "license": "CC BY-SA 4.0",
+   "artist": "Yair Haklai",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_frescos_in_the_House_of_the_Vettii_(Pompeii)-12.jpg",
+   "desc": "Ancient Roman frescos in the House of the Vettii (Pompeii)-12 — Cupids and Psyches running a race with chariots drawn by Antelopes, One has crashed, Ancient Roman frescos in the House of the Vettii, Pompeii"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Map_of_the_Roman_Empire_in_its_greatest_extent._%28with%29_Ancient_Greece._%28By_S._Augustus_Mitchell._1880%29_%28IA_dr_map-of-the-roman-empire-in-its-greatest-extent-with-ancient-greece-by-0586072%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 622,
+   "license": "Public domain",
+   "artist": "Mitchell, Samuel Augustus",
+   "page": "https://commons.wikimedia.org/wiki/File:Map_of_the_Roman_Empire_in_its_greatest_extent._(with)_Ancient_Greece._(By_S._Augustus_Mitchell._1880)_(IA_dr_map-of-the-roman-empire-in-its-greatest-extent-with-ancient-greece-by-0586072).jpg",
+   "desc": "Map of the Roman Empire in its greatest extent. (with) Ancient Greece. (By S. Augustus Mitchell. 1880) (IA dr map-of-the-roman-empire-in-its-greatest-extent-with-ancient-greece-by-0586072) — Zoomable full resolution image available at davidrumsey.com.This imag"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Delphi_charioteer_front_DSC06255.JPG/960px-Delphi_charioteer_front_DSC06255.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1416,
+   "license": "CC BY-SA 1.0",
+   "artist": "Copyright © 2004 David Monniaux",
+   "page": "https://commons.wikimedia.org/wiki/File:Delphi_charioteer_front_DSC06255.JPG",
+   "desc": "Delphi charioteer front DSC06255 — Statue of a charioteer found in Delphi, Greece (front) most probably a chariot driver in the Pythian Games The driver ran for the horses' owner, Polyzalos, tyrant in Sicily between 480-470BC."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mosaic_white_charioteer_Massimo.jpg/960px-Mosaic_white_charioteer_Massimo.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 734,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown artist",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosaic_white_charioteer_Massimo.jpg",
+   "desc": "Mosaic white charioteer Massimo — Pavement mosaic with a circus charioteer of the albata (white) faction. Roman artwork, first half of the 3rd century CE. From the Villa dei Severi at Baccano, 16 miles from the Via Appia."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1164462",
+ "pron_wer": 0.023,
+ "angle": 0,
+ "source": {
+  "title": "מרוץ מרכבות",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%95%D7%A5_%D7%9E%D7%A8%D7%9B%D7%91%D7%95%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:18:17Z",
+ "trimmed": true
+}
