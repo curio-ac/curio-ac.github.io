@@ -1,0 +1,392 @@
+{
+ "id": "en-5618c60a",
+ "lang": "en",
+ "title": "The Swan in the Sky",
+ "cat": "space",
+ "emoji": "🦢",
+ "sentences": [
+  "A massive black hole hides inside Cygnus.",
+  "Cygnus, the swan constellation, is visible all summer.",
+  "Start by finding Deneb, the tail star.",
+  "Through a telescope, the beak star Albireo reveals a vivid gold and blue pair.",
+  "You can also spot the Veil Nebula, a faint ring of gas from a dead star.",
+  "Nearby, the black hole Cygnus X-1 spins 800 times every second."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.28,
+    0.38
+   ],
+   [
+    "massive",
+    0.38,
+    0.94
+   ],
+   [
+    "black",
+    0.94,
+    1.36
+   ],
+   [
+    "hole",
+    1.36,
+    1.84
+   ],
+   [
+    "hides",
+    1.84,
+    2.34
+   ],
+   [
+    "inside",
+    2.34,
+    2.84
+   ],
+   [
+    "Cygnus.",
+    2.84,
+    3.2
+   ],
+   [
+    "Cygnus,",
+    4.1,
+    4.58
+   ],
+   [
+    "the",
+    4.68,
+    4.68
+   ],
+   [
+    "swan",
+    4.68,
+    5.06
+   ],
+   [
+    "constellation,",
+    5.06,
+    5.9
+   ],
+   [
+    "is",
+    6.02,
+    6.08
+   ],
+   [
+    "visible",
+    6.08,
+    6.38
+   ],
+   [
+    "all",
+    6.38,
+    6.8
+   ],
+   [
+    "summer.",
+    6.8,
+    7.02
+   ],
+   [
+    "Start",
+    7.74,
+    7.84
+   ],
+   [
+    "by",
+    7.84,
+    8.06
+   ],
+   [
+    "finding",
+    8.06,
+    8.32
+   ],
+   [
+    "Deneb,",
+    8.32,
+    8.8
+   ],
+   [
+    "the",
+    9.12,
+    9.12
+   ],
+   [
+    "tail",
+    9.22,
+    9.36
+   ],
+   [
+    "star.",
+    9.36,
+    9.46
+   ],
+   [
+    "Through",
+    10.24,
+    10.34
+   ],
+   [
+    "a",
+    10.34,
+    10.44
+   ],
+   [
+    "telescope,",
+    10.44,
+    10.69
+   ],
+   [
+    "the",
+    11.16,
+    11.18
+   ],
+   [
+    "beak",
+    11.18,
+    11.4
+   ],
+   [
+    "star",
+    11.44,
+    11.68
+   ],
+   [
+    "Albireo",
+    11.68,
+    12.48
+   ],
+   [
+    "reveals",
+    12.72,
+    12.84
+   ],
+   [
+    "a",
+    12.84,
+    13.08
+   ],
+   [
+    "vivid",
+    13.2,
+    13.38
+   ],
+   [
+    "gold",
+    13.38,
+    13.84
+   ],
+   [
+    "and",
+    13.84,
+    14.08
+   ],
+   [
+    "blue",
+    14.08,
+    14.3
+   ],
+   [
+    "pair.",
+    14.3,
+    14.68
+   ],
+   [
+    "You",
+    15.3,
+    15.38
+   ],
+   [
+    "can",
+    15.38,
+    15.5
+   ],
+   [
+    "also",
+    15.5,
+    15.68
+   ],
+   [
+    "spot",
+    15.68,
+    15.98
+   ],
+   [
+    "the",
+    15.98,
+    16.18
+   ],
+   [
+    "Veil",
+    16.18,
+    16.44
+   ],
+   [
+    "Nebula,",
+    16.44,
+    16.82
+   ],
+   [
+    "a",
+    17.14,
+    17.24
+   ],
+   [
+    "faint",
+    17.36,
+    17.52
+   ],
+   [
+    "ring",
+    17.52,
+    17.8
+   ],
+   [
+    "of",
+    17.8,
+    17.98
+   ],
+   [
+    "gas",
+    17.98,
+    18.3
+   ],
+   [
+    "from",
+    18.3,
+    18.6
+   ],
+   [
+    "a",
+    18.6,
+    18.74
+   ],
+   [
+    "dead",
+    18.74,
+    18.88
+   ],
+   [
+    "star.",
+    18.88,
+    19.24
+   ],
+   [
+    "Nearby,",
+    19.88,
+    20.44
+   ],
+   [
+    "the",
+    20.56,
+    20.56
+   ],
+   [
+    "black",
+    20.56,
+    20.8
+   ],
+   [
+    "hole",
+    20.8,
+    21.06
+   ],
+   [
+    "Cygnus",
+    21.06,
+    21.62
+   ],
+   [
+    "X-1",
+    21.62,
+    22.12
+   ],
+   [
+    "spins",
+    22.12,
+    22.56
+   ],
+   [
+    "800",
+    23.06,
+    23.16
+   ],
+   [
+    "times",
+    23.16,
+    23.78
+   ],
+   [
+    "every",
+    23.78,
+    24.3
+   ],
+   [
+    "second.",
+    24.3,
+    24.56
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   22,
+   36,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 800,
+   "unit": "rotations/sec",
+   "label": "spinning rate"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "Summer Triangle Corner: Deneb",
+  "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:15:37Z",
+ "trimmed": true
+}

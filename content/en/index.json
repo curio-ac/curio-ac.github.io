@@ -25,7 +25,8 @@
   "nasa:1342478",
   "Penicillin",
   "Octopus",
-  "Tardigrade"
+  "Tardigrade",
+  "Honey"
  ],
  "rejected": [
   "Chameleon",
@@ -113,6 +114,9 @@
   ],
   "Tardigrade": [
    "Meet the Space Bear: These tiny creatures have survived in outer space."
+  ],
+  "Honey": [
+   "How Bees Make Honey: Bees make honey from plant secretions."
   ]
  },
  "exhausted": []
