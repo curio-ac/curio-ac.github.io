@@ -1,0 +1,17 @@
+{
+ "lang": "he",
+ "exhausted_day": null,
+ "runs": [
+  {
+   "at": "2026-11-16T05:48:31Z",
+   "made": 2,
+   "rejected": 1,
+   "repaired": 3,
+   "calls": 29,
+   "notes": [
+    "יעקב לידסקי: fact-check",
+    "repair he-1a9bb1a4: 18.2% of words misheard"
+   ]
+  }
+ ]
+}
