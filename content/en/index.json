@@ -31,7 +31,8 @@
   "Lightning",
   "Venus",
   "nasa:1341937",
-  "Black hole"
+  "Black hole",
+  "Marie Curie"
  ],
  "rejected": [
   "Chameleon",
@@ -137,6 +138,9 @@
   ],
   "Black hole": [
    "Black Holes Explained: Nothing can escape a black hole."
+  ],
+  "Marie Curie": [
+   "Marie Curie's Incredible Record: She won two Nobel Prizes in different fields."
   ]
  },
  "exhausted": []
