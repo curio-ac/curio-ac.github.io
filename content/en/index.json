@@ -68,7 +68,8 @@
   "nasa:1279928",
   "Australian green tree frog",
   "nasa:1346682",
-  "Banksia spinulosa"
+  "Banksia spinulosa",
+  "Thomas de la More"
  ],
  "rejected": [
   "Chameleon",
@@ -303,6 +304,9 @@
   ],
   "Banksia spinulosa": [
    "The Hairpin Banksia: This plant sports black or purple styles!"
+  ],
+  "Thomas de la More": [
+   "Medieval Sheriff's Dangerous Feud: Assaulted by Lord Egremont!"
   ]
  },
  "exhausted": []

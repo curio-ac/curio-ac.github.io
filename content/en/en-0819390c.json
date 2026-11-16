@@ -1,0 +1,435 @@
+{
+ "id": "en-0819390c",
+ "lang": "en",
+ "title": "Future Planetary Scientists Learn Outreach",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Future planetary scientists are learning public engagement skills.",
+  "NASA SCoPE partnered with Arizona State University's FORCE Summer School in Summer 2026.",
+  "Seven undergraduate interns built skills to share their research.",
+  "FORCE uses high-pressure equipment to recreate extreme conditions deep within planets.",
+  "Interns learned to translate technical research into compelling stories.",
+  "Training culminated in an open house and a poster session for the university community."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Future",
+    0.35,
+    0.37
+   ],
+   [
+    "planetary",
+    0.37,
+    0.85
+   ],
+   [
+    "scientists",
+    0.85,
+    1.53
+   ],
+   [
+    "are",
+    1.77,
+    1.87
+   ],
+   [
+    "learning",
+    1.87,
+    2.17
+   ],
+   [
+    "public",
+    2.17,
+    2.51
+   ],
+   [
+    "engagement",
+    2.51,
+    2.99
+   ],
+   [
+    "skills.",
+    2.99,
+    3.17
+   ],
+   [
+    "NASA",
+    4.15,
+    4.37
+   ],
+   [
+    "SCoPE",
+    4.37,
+    5.07
+   ],
+   [
+    "partnered",
+    5.07,
+    5.57
+   ],
+   [
+    "with",
+    5.57,
+    5.85
+   ],
+   [
+    "Arizona",
+    5.85,
+    6.19
+   ],
+   [
+    "State",
+    6.19,
+    6.63
+   ],
+   [
+    "University's",
+    6.63,
+    7.49
+   ],
+   [
+    "FORCE",
+    7.63,
+    7.87
+   ],
+   [
+    "Summer",
+    7.87,
+    8.11
+   ],
+   [
+    "School",
+    8.11,
+    8.43
+   ],
+   [
+    "in",
+    8.43,
+    8.73
+   ],
+   [
+    "Summer",
+    8.73,
+    9.01
+   ],
+   [
+    "2026.",
+    9.01,
+    10.59
+   ],
+   [
+    "Seven",
+    10.63,
+    10.81
+   ],
+   [
+    "undergraduate",
+    10.81,
+    11.31
+   ],
+   [
+    "interns",
+    11.31,
+    11.81
+   ],
+   [
+    "built",
+    11.81,
+    12.25
+   ],
+   [
+    "skills",
+    12.25,
+    12.63
+   ],
+   [
+    "to",
+    12.63,
+    12.85
+   ],
+   [
+    "share",
+    12.85,
+    13.09
+   ],
+   [
+    "their",
+    13.09,
+    13.27
+   ],
+   [
+    "research.",
+    13.27,
+    13.63
+   ],
+   [
+    "FORCE",
+    14.33,
+    14.59
+   ],
+   [
+    "uses",
+    14.59,
+    14.83
+   ],
+   [
+    "high-pressure",
+    14.83,
+    15.41
+   ],
+   [
+    "equipment",
+    15.41,
+    15.75
+   ],
+   [
+    "to",
+    15.75,
+    15.97
+   ],
+   [
+    "recreate",
+    15.97,
+    16.29
+   ],
+   [
+    "extreme",
+    16.29,
+    16.79
+   ],
+   [
+    "conditions",
+    16.79,
+    17.45
+   ],
+   [
+    "deep",
+    17.45,
+    17.71
+   ],
+   [
+    "within",
+    17.85,
+    18.03
+   ],
+   [
+    "planets.",
+    18.03,
+    18.39
+   ],
+   [
+    "Interns",
+    19.17,
+    19.61
+   ],
+   [
+    "learned",
+    19.61,
+    19.83
+   ],
+   [
+    "to",
+    19.83,
+    20.05
+   ],
+   [
+    "translate",
+    20.07,
+    20.51
+   ],
+   [
+    "technical",
+    20.51,
+    20.99
+   ],
+   [
+    "research",
+    20.99,
+    21.59
+   ],
+   [
+    "into",
+    21.59,
+    21.81
+   ],
+   [
+    "compelling",
+    21.81,
+    22.23
+   ],
+   [
+    "stories.",
+    22.23,
+    22.71
+   ],
+   [
+    "Training",
+    23.49,
+    23.71
+   ],
+   [
+    "culminated",
+    23.71,
+    24.43
+   ],
+   [
+    "in",
+    24.43,
+    24.63
+   ],
+   [
+    "an",
+    24.63,
+    24.71
+   ],
+   [
+    "open",
+    24.71,
+    24.97
+   ],
+   [
+    "house",
+    24.97,
+    25.39
+   ],
+   [
+    "and",
+    25.39,
+    25.81
+   ],
+   [
+    "a",
+    25.81,
+    25.93
+   ],
+   [
+    "poster",
+    25.99,
+    26.15
+   ],
+   [
+    "session",
+    26.15,
+    26.63
+   ],
+   [
+    "for",
+    26.63,
+    26.87
+   ],
+   [
+    "the",
+    26.89,
+    26.99
+   ],
+   [
+    "university",
+    26.99,
+    27.43
+   ],
+   [
+    "community.",
+    27.43,
+    27.95
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   21,
+   30,
+   41,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Campus_view_-_Arizona_State_University_-_Tempe%2C_AZ_-_DSC05930.JPG/960px-Campus_view_-_Arizona_State_University_-_Tempe%2C_AZ_-_DSC05930.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Daderot",
+   "page": "https://commons.wikimedia.org/wiki/File:Campus_view_-_Arizona_State_University_-_Tempe,_AZ_-_DSC05930.JPG",
+   "desc": "Campus view - Arizona State University - Tempe, AZ - DSC05930 — Arizona State University Tempe campus, Tempe, Arizona, USA."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/A_Veterinary_medical_student_in_the_Laboratory_during_his_undergraduate_project_research_01.jpg/960px-A_Veterinary_medical_student_in_the_Laboratory_during_his_undergraduate_project_research_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1280,
+   "license": "CC BY-SA 4.0",
+   "artist": "Emmanuelmosaku",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Veterinary_medical_student_in_the_Laboratory_during_his_undergraduate_project_research_01.jpg",
+   "desc": "A Veterinary medical student in the Laboratory during his undergraduate project research 01 — This is an image of \"African people at work\" from"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/CSIRO_ScienceImage_11125_The_high_pressure_triaxial_cell_for_measuring_rock_strength.jpg/960px-CSIRO_ScienceImage_11125_The_high_pressure_triaxial_cell_for_measuring_rock_strength.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1084,
+   "license": "CC BY 3.0",
+   "artist": "Darryl Peroni, CSIRO",
+   "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11125_The_high_pressure_triaxial_cell_for_measuring_rock_strength.jpg",
+   "desc": "CSIRO ScienceImage 11125 The high pressure triaxial cell for measuring rock strength — CSIRO have developed a range of high pressure and temperature triaxial cells for rock testing, sand production simulation and understanding rock-fluid interaction and deform"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Industrial_Ecology_poster_session_%285622313286%29.jpg/960px-Industrial_Ecology_poster_session_%285622313286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 445,
+   "license": "CC BY 2.0",
+   "artist": "University of Michigan School for Environment and Sustainability from Ann Arbor",
+   "page": "https://commons.wikimedia.org/wiki/File:Industrial_Ecology_poster_session_(5622313286).jpg",
+   "desc": "Industrial Ecology poster session (5622313286) — Patrick Lord (right) explains his analysis of whether green beans are better canned than frozen to Mike Kasameyer during a recent poster session. The Industrial Ecology course is part of the Sustainable Systems "
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "interns",
+   "label": "undergraduate interns"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
+ "pron_wer": 0.076,
+ "angle": 0,
+ "source": {
+  "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
+  "url": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:01:52Z",
+ "trimmed": true
+}
