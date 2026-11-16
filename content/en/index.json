@@ -55,7 +55,8 @@
   "Abutiu",
   "City of Champaign v. Madigan",
   "nasa:1439420",
-  "Donkey Kong"
+  "Donkey Kong",
+  "Delaware Tercentenary half dollar"
  ],
  "rejected": [
   "Chameleon",
@@ -246,6 +247,9 @@
   ],
   "Donkey Kong": [
    "The Secret Donkey Kong Origin: Unsold arcade cabinets led to Donkey Kong."
+  ],
+  "Delaware Tercentenary half dollar": [
+   "Confusing Delaware Coin Dates: This 1936 coin wasn't actually minted then."
   ]
  },
  "exhausted": []

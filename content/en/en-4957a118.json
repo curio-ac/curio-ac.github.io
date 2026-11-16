@@ -1,0 +1,432 @@
+{
+ "id": "en-4957a118",
+ "lang": "en",
+ "title": "The Forgotten Soviet Republic",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "Abkhazia was once its own Soviet Republic.",
+  "This short-lived state existed from 1921 to 1931.",
+  "It formed right after the Red Army invaded Georgia.",
+  "Abkhazia signed a treaty uniting it with the Georgian SSR.",
+  "It even kept unique perks like its own military units.",
+  "Nestor Lakoba led the region during this time.",
+  "Eventually, it became an autonomous republic within Georgia."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Abkhazia",
+    0.24,
+    0.76
+   ],
+   [
+    "was",
+    0.76,
+    0.98
+   ],
+   [
+    "once",
+    0.98,
+    1.26
+   ],
+   [
+    "its",
+    1.26,
+    1.46
+   ],
+   [
+    "own",
+    1.46,
+    1.8
+   ],
+   [
+    "Soviet",
+    1.8,
+    2.32
+   ],
+   [
+    "Republic.",
+    2.32,
+    3.17
+   ],
+   [
+    "This",
+    3.28,
+    3.4
+   ],
+   [
+    "short-lived",
+    3.4,
+    3.9
+   ],
+   [
+    "state",
+    3.9,
+    4.28
+   ],
+   [
+    "existed",
+    4.28,
+    4.68
+   ],
+   [
+    "from",
+    4.68,
+    5.02
+   ],
+   [
+    "1921",
+    5.04,
+    5.82
+   ],
+   [
+    "to",
+    5.82,
+    6.1
+   ],
+   [
+    "1931.",
+    6.1,
+    7.12
+   ],
+   [
+    "It",
+    7.48,
+    7.56
+   ],
+   [
+    "formed",
+    7.7,
+    7.84
+   ],
+   [
+    "right",
+    7.84,
+    8.16
+   ],
+   [
+    "after",
+    8.16,
+    8.54
+   ],
+   [
+    "the",
+    8.54,
+    8.7
+   ],
+   [
+    "Red",
+    8.7,
+    8.92
+   ],
+   [
+    "Army",
+    8.92,
+    9.24
+   ],
+   [
+    "invaded",
+    9.24,
+    9.72
+   ],
+   [
+    "Georgia.",
+    9.72,
+    10.1
+   ],
+   [
+    "Abkhazia",
+    10.86,
+    11.28
+   ],
+   [
+    "signed",
+    11.28,
+    11.54
+   ],
+   [
+    "a",
+    11.54,
+    11.7
+   ],
+   [
+    "treaty",
+    11.7,
+    11.94
+   ],
+   [
+    "uniting",
+    11.94,
+    12.48
+   ],
+   [
+    "it",
+    12.48,
+    12.64
+   ],
+   [
+    "with",
+    12.64,
+    12.78
+   ],
+   [
+    "the",
+    12.78,
+    12.9
+   ],
+   [
+    "Georgian",
+    12.94,
+    13.32
+   ],
+   [
+    "SSR.",
+    13.32,
+    13.78
+   ],
+   [
+    "It",
+    14.42,
+    14.5
+   ],
+   [
+    "even",
+    14.5,
+    14.7
+   ],
+   [
+    "kept",
+    14.7,
+    14.9
+   ],
+   [
+    "unique",
+    15.0,
+    15.18
+   ],
+   [
+    "perks",
+    15.18,
+    15.58
+   ],
+   [
+    "like",
+    15.58,
+    15.86
+   ],
+   [
+    "its",
+    15.86,
+    16.0
+   ],
+   [
+    "own",
+    16.06,
+    16.16
+   ],
+   [
+    "military",
+    16.16,
+    16.58
+   ],
+   [
+    "units.",
+    16.58,
+    17.18
+   ],
+   [
+    "Nestor",
+    17.76,
+    18.04
+   ],
+   [
+    "Lakoba",
+    18.04,
+    18.46
+   ],
+   [
+    "led",
+    18.46,
+    18.76
+   ],
+   [
+    "the",
+    18.76,
+    18.96
+   ],
+   [
+    "region",
+    18.96,
+    19.26
+   ],
+   [
+    "during",
+    19.26,
+    19.52
+   ],
+   [
+    "this",
+    19.54,
+    19.76
+   ],
+   [
+    "time.",
+    19.76,
+    20.12
+   ],
+   [
+    "Eventually,",
+    20.8,
+    21.36
+   ],
+   [
+    "it",
+    21.4,
+    21.4
+   ],
+   [
+    "became",
+    21.4,
+    21.68
+   ],
+   [
+    "an",
+    21.68,
+    21.86
+   ],
+   [
+    "autonomous",
+    22.24,
+    22.34
+   ],
+   [
+    "republic",
+    22.34,
+    22.96
+   ],
+   [
+    "within",
+    23.16,
+    23.38
+   ],
+   [
+    "Georgia.",
+    23.38,
+    23.7
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   34,
+   44,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Abkhazia_SSR_1921.jpg/960px-Abkhazia_SSR_1921.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Abkhazia_SSR_1921.jpg",
+   "desc": "Abkhazia SSR 1921 — Один из первых митингов в Сухуме после установления Советской власти 8 марта 1921 г."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Europe_location_Abkhazia_1921.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 542,
+   "license": "Public domain",
+   "artist": "Николай Сидоров",
+   "page": "https://commons.wikimedia.org/wiki/File:Europe_location_Abkhazia_1921.PNG",
+   "desc": "Europe location Abkhazia 1921 — карта расположения ССР Абхазии (1921)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Georgian_soviet_republic1922.png/960px-Georgian_soviet_republic1922.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 440,
+   "license": "Public domain",
+   "artist": "WikiEditor2004",
+   "page": "https://commons.wikimedia.org/wiki/File:Georgian_soviet_republic1922.png",
+   "desc": "Georgian soviet republic1922 — Georgian Soviet Socialist Republic in 1922, including Abkhazian Soviet Socialist Republic, Ajarian Autonomous Soviet Socialist Republic, and South Ossetian Autonomous Oblast."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/NestorLakoba1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 936,
+   "license": "Public domain",
+   "artist": "Nestor Lakoba",
+   "page": "https://commons.wikimedia.org/wiki/File:NestorLakoba1936.jpg",
+   "desc": "NestorLakoba1936 — Nestor Lakoba in 1936"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  3,
+  2
+ ],
+ "vis": [
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 1921
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "unit",
+   "label": "military units"
+  },
+  {
+   "type": "focus",
+   "target": "Nestor Lakoba",
+   "box": [
+    120,
+    174,
+    953,
+    826
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1931
+  }
+ ],
+ "geo": [
+  43,
+  41.017
+ ],
+ "qid": "Q307041",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Socialist Soviet Republic of Abkhazia",
+  "url": "https://en.wikipedia.org/wiki/Socialist_Soviet_Republic_of_Abkhazia",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:50:57Z",
+ "trimmed": true
+}
