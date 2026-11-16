@@ -54,7 +54,8 @@
   "nasa:1278826",
   "Abutiu",
   "City of Champaign v. Madigan",
-  "nasa:1439420"
+  "nasa:1439420",
+  "Donkey Kong"
  ],
  "rejected": [
   "Chameleon",
@@ -63,7 +64,8 @@
   "Battle of Dyrrhachium (1081)",
   "nasa:1440433",
   "Bluey (TV series)",
-  "Tardigrade"
+  "Tardigrade",
+  "Monarch butterfly"
  ],
  "angles": {
   "Blue whale": [
@@ -237,6 +239,9 @@
   ],
   "nasa:1439420": [
    "Planet-Shattering Cosmic Collisions: Planets smash together in deep space!"
+  ],
+  "Donkey Kong": [
+   "The Secret Donkey Kong Origin: Unsold arcade cabinets led to Donkey Kong."
   ]
  },
  "exhausted": []

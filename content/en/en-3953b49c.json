@@ -1,0 +1,352 @@
+{
+ "id": "en-3953b49c",
+ "lang": "en",
+ "title": "Decoding the Rosetta Stone",
+ "cat": "history",
+ "emoji": "🗿",
+ "sentences": [
+  "Three scripts tell one story.",
+  "It features a decree from 196 BC for King Ptolemy V.",
+  "Hieroglyphic and Demotic scripts fill the top and middle.",
+  "Ancient Greek covers the bottom.",
+  "French officer Pierre-François Bouchard found it in July 1799.",
+  "Plaster casts soon circulated across European museums."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Three",
+    0.35,
+    0.35
+   ],
+   [
+    "scripts",
+    0.35,
+    0.71
+   ],
+   [
+    "tell",
+    0.87,
+    0.99
+   ],
+   [
+    "one",
+    0.99,
+    1.23
+   ],
+   [
+    "story.",
+    1.23,
+    1.83
+   ],
+   [
+    "It",
+    2.25,
+    2.25
+   ],
+   [
+    "features",
+    2.25,
+    2.53
+   ],
+   [
+    "a",
+    2.53,
+    2.73
+   ],
+   [
+    "decree",
+    2.73,
+    3.01
+   ],
+   [
+    "from",
+    3.01,
+    3.31
+   ],
+   [
+    "196",
+    3.31,
+    3.93
+   ],
+   [
+    "BC",
+    3.93,
+    4.63
+   ],
+   [
+    "for",
+    4.63,
+    5.19
+   ],
+   [
+    "King",
+    5.31,
+    5.43
+   ],
+   [
+    "Ptolemy",
+    5.43,
+    5.91
+   ],
+   [
+    "V.",
+    5.91,
+    6.27
+   ],
+   [
+    "Hieroglyphic",
+    6.63,
+    7.31
+   ],
+   [
+    "and",
+    7.31,
+    7.43
+   ],
+   [
+    "Demotic",
+    7.43,
+    7.85
+   ],
+   [
+    "scripts",
+    7.85,
+    8.15
+   ],
+   [
+    "fill",
+    8.15,
+    8.51
+   ],
+   [
+    "the",
+    8.51,
+    8.67
+   ],
+   [
+    "top",
+    8.79,
+    8.93
+   ],
+   [
+    "and",
+    8.93,
+    9.13
+   ],
+   [
+    "middle.",
+    9.13,
+    9.43
+   ],
+   [
+    "Ancient",
+    10.03,
+    10.23
+   ],
+   [
+    "Greek",
+    10.23,
+    10.55
+   ],
+   [
+    "covers",
+    10.55,
+    10.95
+   ],
+   [
+    "the",
+    10.95,
+    11.19
+   ],
+   [
+    "bottom.",
+    11.19,
+    11.47
+   ],
+   [
+    "French",
+    12.15,
+    12.29
+   ],
+   [
+    "officer",
+    12.29,
+    12.73
+   ],
+   [
+    "Pierre-François",
+    12.73,
+    13.59
+   ],
+   [
+    "Bouchard",
+    13.59,
+    14.09
+   ],
+   [
+    "found",
+    14.09,
+    14.45
+   ],
+   [
+    "it",
+    14.45,
+    14.59
+   ],
+   [
+    "in",
+    14.59,
+    14.69
+   ],
+   [
+    "July",
+    14.69,
+    14.97
+   ],
+   [
+    "1799.",
+    14.97,
+    16.11
+   ],
+   [
+    "Plaster",
+    16.79,
+    17.11
+   ],
+   [
+    "casts",
+    17.11,
+    17.47
+   ],
+   [
+    "soon",
+    17.47,
+    17.93
+   ],
+   [
+    "circulated",
+    17.93,
+    18.61
+   ],
+   [
+    "across",
+    18.75,
+    18.85
+   ],
+   [
+    "European",
+    18.85,
+    19.43
+   ],
+   [
+    "museums.",
+    19.43,
+    19.99
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   16,
+   25,
+   30,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/960px-Rosetta_Stone.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 842,
+   "license": "CC BY-SA 4.0",
+   "artist": "Hans Hillewaert",
+   "page": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+   "desc": "Rosetta Stone — The Rosetta Stone in the British Museum."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/PepiII-DecreeOfOfficialExactionForTempleOfMin_MetropolitanMuseum.png/960px-PepiII-DecreeOfOfficialExactionForTempleOfMin_MetropolitanMuseum.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 753,
+   "license": "CC BY-SA 2.5",
+   "artist": "Keith Schengili-Roberts",
+   "page": "https://commons.wikimedia.org/wiki/File:PepiII-DecreeOfOfficialExactionForTempleOfMin_MetropolitanMuseum.png",
+   "desc": "PepiII-DecreeOfOfficialExactionForTempleOfMin MetropolitanMuseum — مرسوم صادر عن الفرعون بيبي الثاني يُعفي فيه معبد المعبود مين من السخرة والضرائب. يعود تاريخه إلى الأسرة السادسة، في الفترة ما بين 2246-2152 قبل الميلاد تقريبًا."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/DemoticScriptsRosettaStoneReplica.jpg/960px-DemoticScriptsRosettaStoneReplica.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 489,
+   "license": "CC BY-SA 3.0",
+   "artist": "Chris 73 (Talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:DemoticScriptsRosettaStoneReplica.jpg",
+   "desc": "DemoticScriptsRosettaStoneReplica — Demotic script on a replica of the rosetta stone on display in Magdeburg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Porson_13_Jan_1803.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 542,
+   "license": "Public domain",
+   "artist": "Richard Porson",
+   "page": "https://commons.wikimedia.org/wiki/File:Porson_13_Jan_1803.jpg",
+   "desc": "Porson 13 Jan 1803 — Reconstruction of the missing Greek text on the Rosetta Stone"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Copy_of_Rosetta_Stone.jpg/960px-Copy_of_Rosetta_Stone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 966,
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Copy_of_Rosetta_Stone.jpg",
+   "desc": "Copy of Rosetta Stone — Photo of the copy of Rosetta Stone in British Museum. Photo by kacperg333"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": -196
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1799
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q48584",
+ "pron_wer": 0.064,
+ "angle": 2,
+ "source": {
+  "title": "Rosetta Stone",
+  "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:59:31Z",
+ "trimmed": true
+}
