@@ -1,0 +1,404 @@
+{
+ "id": "he-e6820b50",
+ "lang": "he",
+ "title": "ג'יימס ג'ויס: הסופר הנודד",
+ "cat": "art",
+ "emoji": "🇮🇪",
+ "sentences": [
+  "ג'יימס ג'ויס עזב את אירלנד ולא חזר לגור בה.",
+  "הוא נולד בדבלין ב-1882 למשפחה שירדה מנכסיה.",
+  "ב-1904 פגש את נורה, בת זוגו לכל החיים.",
+  "בזמן שחי בטריאסטה ובציריך, כתב את יצירותיו הגדולות.",
+  "הספר המפורסם שלו, 'יוליסס', פורסם ב-1922.",
+  "למרות שחי מחוץ לאירלנד, כל יצירותיו נסבו סביב דבלין.",
+  "ב-1941 הוא מת בציריך ונקבר שם."
+ ],
+ "tim": {
+  "w": [
+   [
+    "ג'יימס",
+    0.12,
+    0.36
+   ],
+   [
+    "ג'ויס",
+    0.36,
+    0.78
+   ],
+   [
+    "עזב",
+    0.78,
+    1.2
+   ],
+   [
+    "את",
+    1.2,
+    1.32
+   ],
+   [
+    "אירלנד",
+    1.34,
+    1.82
+   ],
+   [
+    "ולא",
+    1.82,
+    2.08
+   ],
+   [
+    "חזר",
+    2.08,
+    2.38
+   ],
+   [
+    "לגור",
+    2.38,
+    2.68
+   ],
+   [
+    "בה.",
+    2.68,
+    2.84
+   ],
+   [
+    "הוא",
+    3.46,
+    3.46
+   ],
+   [
+    "נולד",
+    3.46,
+    3.76
+   ],
+   [
+    "בדבלין",
+    3.76,
+    4.36
+   ],
+   [
+    "ב-1882",
+    4.6,
+    5.9
+   ],
+   [
+    "למשפחה",
+    5.9,
+    7.18
+   ],
+   [
+    "שירדה",
+    7.18,
+    7.72
+   ],
+   [
+    "מנכסיה.",
+    7.72,
+    8.2
+   ],
+   [
+    "ב-1904",
+    9.1,
+    10.32
+   ],
+   [
+    "פגש",
+    10.32,
+    10.82
+   ],
+   [
+    "את",
+    10.82,
+    10.94
+   ],
+   [
+    "נורה,",
+    10.94,
+    11.04
+   ],
+   [
+    "בת",
+    11.58,
+    11.7
+   ],
+   [
+    "זוגו",
+    11.7,
+    12.06
+   ],
+   [
+    "לכל",
+    12.06,
+    12.44
+   ],
+   [
+    "החיים.",
+    12.44,
+    12.56
+   ],
+   [
+    "בזמן",
+    13.78,
+    13.98
+   ],
+   [
+    "שחי",
+    13.98,
+    14.34
+   ],
+   [
+    "בטריאסטה",
+    14.34,
+    15.1
+   ],
+   [
+    "ובציריך,",
+    15.1,
+    15.78
+   ],
+   [
+    "כתב",
+    16.26,
+    16.4
+   ],
+   [
+    "את",
+    16.4,
+    16.48
+   ],
+   [
+    "יצירותיו",
+    16.48,
+    17.02
+   ],
+   [
+    "הגדולות.",
+    17.02,
+    17.3
+   ],
+   [
+    "הספר",
+    18.18,
+    18.4
+   ],
+   [
+    "המפורסם",
+    18.44,
+    19.04
+   ],
+   [
+    "שלו,",
+    19.04,
+    19.58
+   ],
+   [
+    "'יוליסס',",
+    19.58,
+    20.04
+   ],
+   [
+    "פורסם",
+    20.48,
+    20.76
+   ],
+   [
+    "ב-1922.",
+    20.76,
+    22.11
+   ],
+   [
+    "למרות",
+    23.4,
+    23.68
+   ],
+   [
+    "שחי",
+    23.68,
+    24.0
+   ],
+   [
+    "מחוץ",
+    24.0,
+    24.46
+   ],
+   [
+    "לאירלנד,",
+    24.46,
+    25.02
+   ],
+   [
+    "כל",
+    25.42,
+    25.52
+   ],
+   [
+    "יצירותיו",
+    25.52,
+    26.2
+   ],
+   [
+    "נסבו",
+    26.2,
+    26.72
+   ],
+   [
+    "סביב",
+    26.96,
+    27.12
+   ],
+   [
+    "דבלין.",
+    27.12,
+    27.38
+   ],
+   [
+    "ב-1941",
+    28.32,
+    29.48
+   ],
+   [
+    "הוא",
+    29.48,
+    30.38
+   ],
+   [
+    "מת",
+    30.4,
+    30.54
+   ],
+   [
+    "בציריך",
+    30.54,
+    31.16
+   ],
+   [
+    "ונקבר",
+    31.38,
+    31.76
+   ],
+   [
+    "שם.",
+    31.76,
+    31.9
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   16,
+   24,
+   32,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1092,
+   "license": "Public domain",
+   "artist": "James_Joyce_by_Alex_Ehrenzweig,_1915_restored.jpg: *James_Joyce_by_Alex_Ehrenzwe",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Joyce_by_Alex_Ehrenzweig,_1915_cropped.jpg",
+   "desc": "James Joyce by Alex Ehrenzweig, 1915 cropped — James Joyce, 1 photographic print, b&amp;w, cartes-de-visites, 9.2 x 6.1 on mount 10.5 x 6.5 cm."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/James_Joyce_with_Nora%2C_seated_on_wall_in_Zurich_%281930%29.jpg/960px-James_Joyce_with_Nora%2C_seated_on_wall_in_Zurich_%281930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Joyce_with_Nora,_seated_on_wall_in_Zurich_(1930).jpg",
+   "desc": "James Joyce with Nora, seated on wall in Zurich (1930) — Author James Joyce and his wife Nora Barnacle, photographed in Zurich in 1930. Note on sleeve read \"This neg. rec'd. from Sylvia Beach\"."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/James_Joyce_Tower_and_Museum3.JPG/960px-James_Joyce_Tower_and_Museum3.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "myself",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Joyce_Tower_and_Museum3.JPG",
+   "desc": "James Joyce Tower and Museum3 — James Joyce Tower and Museum, room inside tower"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/A_Portrait_of_the_Artist_as_a_Young_Man.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1012,
+   "license": "Public domain",
+   "artist": "The Egoist Ltd., London",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Portrait_of_the_Artist_as_a_Young_Man.jpg",
+   "desc": "A Portrait of the Artist as a Young Man — Cover of the first UK book edition of James Joyce's A Portrait of the Artist as a Young Man."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anna_Livia_Plurabelle.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1398,
+   "license": "CC BY-SA 3.0",
+   "artist": "לא סופק יוצר ששמו ניתן לקריאה במכונה. בהתבסס על תביעות זכויות יוצרים, ההנחה היא ",
+   "page": "https://commons.wikimedia.org/wiki/File:Anna_Livia_Plurabelle.jpg",
+   "desc": "Anna Livia Plurabelle — Anna Livia Plurabelle, representation of River Liffey. Fountain in O'Connell Street, Dublin, Ireland."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Grave_James_Joyce.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "Lars Haefner - uploaded by Albinfo",
+   "page": "https://commons.wikimedia.org/wiki/File:Grave_James_Joyce.jpg",
+   "desc": "Grave James Joyce — Grave of James, Nora and Giorgio Joyce, Fluntern, Zürich. The statue of James Joyce is by sculptor Milton Hebald."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1882
+  },
+  {
+   "type": "timeline",
+   "year": 1904
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1922
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1941
+  }
+ ],
+ "geo": null,
+ "qid": "Q6882",
+ "pron_wer": 0.068,
+ "angle": 0,
+ "source": {
+  "title": "ג'יימס ג'ויס",
+  "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%99%D7%99%D7%9E%D7%A1_%D7%92%27%D7%95%D7%99%D7%A1",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:11:29Z",
+ "trimmed": true
+}
