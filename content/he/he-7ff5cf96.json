@@ -1,0 +1,364 @@
+{
+ "id": "he-7ff5cf96",
+ "lang": "he",
+ "title": "החלקיק שיוצר את הראייה",
+ "cat": "physics",
+ "emoji": "💡",
+ "sentences": [
+  "פוטון בודד הוא הבסיס לפיזיולוגיה של הראייה.",
+  "זהו חלקיק יסודי, נטול מסה ומטען חשמלי.",
+  "הוא מתנהג גם כגל וגם כחלקיק, תופעה שנקראת דואליות.",
+  "האנרגיה שלו נקבעת רק לפי התדר או אורך הגל.",
+  "כשאור ירוק פוגע בעין, פוטון בודד מעורר תא בודד.",
+  "כך נוצר האות העצבי שמאפשר לנו לראות את העולם."
+ ],
+ "tim": {
+  "w": [
+   [
+    "פוטון",
+    0.28,
+    0.58
+   ],
+   [
+    "בודד",
+    0.58,
+    1.08
+   ],
+   [
+    "הוא",
+    1.08,
+    1.18
+   ],
+   [
+    "הבסיס",
+    1.18,
+    1.76
+   ],
+   [
+    "לפיזיולוגיה",
+    1.76,
+    2.6
+   ],
+   [
+    "של",
+    2.6,
+    2.76
+   ],
+   [
+    "הראייה.",
+    2.76,
+    3.16
+   ],
+   [
+    "זהו",
+    3.72,
+    3.86
+   ],
+   [
+    "חלקיק",
+    3.86,
+    4.2
+   ],
+   [
+    "יסודי,",
+    4.2,
+    4.86
+   ],
+   [
+    "נטול",
+    5.2,
+    5.32
+   ],
+   [
+    "מסה",
+    5.32,
+    5.76
+   ],
+   [
+    "ומטען",
+    5.76,
+    6.16
+   ],
+   [
+    "חשמלי.",
+    6.16,
+    6.42
+   ],
+   [
+    "הוא",
+    7.18,
+    7.22
+   ],
+   [
+    "מתנהג",
+    7.22,
+    7.58
+   ],
+   [
+    "גם",
+    7.58,
+    7.78
+   ],
+   [
+    "כגל",
+    7.78,
+    8.3
+   ],
+   [
+    "וגם",
+    8.3,
+    8.68
+   ],
+   [
+    "כחלקיק,",
+    8.68,
+    9.3
+   ],
+   [
+    "תופעה",
+    9.84,
+    10.0
+   ],
+   [
+    "שנקראת",
+    10.0,
+    10.48
+   ],
+   [
+    "דואליות.",
+    10.48,
+    11.04
+   ],
+   [
+    "האנרגיה",
+    11.88,
+    12.36
+   ],
+   [
+    "שלו",
+    12.36,
+    12.6
+   ],
+   [
+    "נקבעת",
+    12.6,
+    13.0
+   ],
+   [
+    "רק",
+    13.14,
+    13.24
+   ],
+   [
+    "לפי",
+    13.24,
+    13.62
+   ],
+   [
+    "התדר",
+    13.62,
+    14.08
+   ],
+   [
+    "או",
+    14.08,
+    14.4
+   ],
+   [
+    "אורך",
+    14.4,
+    14.72
+   ],
+   [
+    "הגל.",
+    14.72,
+    14.82
+   ],
+   [
+    "כשאור",
+    15.9,
+    16.04
+   ],
+   [
+    "ירוק",
+    16.04,
+    16.34
+   ],
+   [
+    "פוגע",
+    16.46,
+    16.7
+   ],
+   [
+    "בעין,",
+    16.7,
+    17.24
+   ],
+   [
+    "פוטון",
+    17.72,
+    17.84
+   ],
+   [
+    "בודד",
+    17.84,
+    18.24
+   ],
+   [
+    "מעורר",
+    18.24,
+    18.64
+   ],
+   [
+    "תא",
+    18.64,
+    19.0
+   ],
+   [
+    "בודד.",
+    19.0,
+    19.34
+   ],
+   [
+    "כך",
+    19.86,
+    20.04
+   ],
+   [
+    "נוצר",
+    20.18,
+    20.32
+   ],
+   [
+    "האות",
+    20.32,
+    20.56
+   ],
+   [
+    "העצבי",
+    20.56,
+    21.1
+   ],
+   [
+    "שמאפשר",
+    21.1,
+    21.66
+   ],
+   [
+    "לנו",
+    21.66,
+    21.88
+   ],
+   [
+    "לראות",
+    21.88,
+    22.3
+   ],
+   [
+    "את",
+    22.3,
+    22.38
+   ],
+   [
+    "העולם.",
+    22.38,
+    22.72
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   23,
+   32,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Particle_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 3.0",
+   "artist": "AffectioNet",
+   "page": "https://commons.wikimedia.org/wiki/File:Particle_model.jpg",
+   "desc": "Particle model — This is a graphic depiction of the Standard Model in particle physics I did using Photoshop."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Young_Diffraction.png/960px-Young_Diffraction.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 319,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Young_Diffraction.png",
+   "desc": "Young Diffraction — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/EM_spectrumrevised.png/960px-EM_spectrumrevised.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 385,
+   "license": "CC BY-SA 3.0",
+   "artist": "Philip Ronan, Gringer",
+   "page": "https://commons.wikimedia.org/wiki/File:EM_spectrumrevised.png",
+   "desc": "EM spectrumrevised — Revised diagram with re-aligned spectrum"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/RetinalCisandTrans.png/960px-RetinalCisandTrans.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 384,
+   "license": "CC BY-SA 3.0",
+   "artist": "V8rik",
+   "page": "https://commons.wikimedia.org/wiki/File:RetinalCisandTrans.png",
+   "desc": "RetinalCisandTrans — Retinal Cis and Trans"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "ספין",
+   "label": "ספין של הפוטון"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3198",
+ "pron_wer": 0.06,
+ "angle": 0,
+ "source": {
+  "title": "פוטון",
+  "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%98%D7%95%D7%9F",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:05:37Z",
+ "trimmed": true
+}
