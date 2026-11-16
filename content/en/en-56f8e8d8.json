@@ -1,0 +1,437 @@
+{
+ "id": "en-56f8e8d8",
+ "lang": "en",
+ "title": "Your Body's Secret Defense",
+ "cat": "biology",
+ "emoji": "🛡️",
+ "sentences": [
+  "Your immune system fights off splinters.",
+  "It works like a biological network protecting you from diseases.",
+  "The system detects viruses, bacteria, and even cancer cells.",
+  "It accurately distinguishes these threats from your own healthy tissue.",
+  "Many species use two major subsystems.",
+  "The innate system reacts broadly, while the adaptive system learns to recognize specific molecules.",
+  "Nearly all organisms have some kind of immune defense."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Your",
+    0.18,
+    0.18
+   ],
+   [
+    "immune",
+    0.18,
+    0.52
+   ],
+   [
+    "system",
+    0.52,
+    1.04
+   ],
+   [
+    "fights",
+    1.04,
+    1.4
+   ],
+   [
+    "off",
+    1.4,
+    1.74
+   ],
+   [
+    "splinters.",
+    1.74,
+    2.6
+   ],
+   [
+    "It",
+    2.94,
+    3.08
+   ],
+   [
+    "works",
+    3.1,
+    3.32
+   ],
+   [
+    "like",
+    3.32,
+    3.58
+   ],
+   [
+    "a",
+    3.58,
+    3.7
+   ],
+   [
+    "biological",
+    3.7,
+    4.22
+   ],
+   [
+    "network",
+    4.22,
+    4.94
+   ],
+   [
+    "protecting",
+    5.36,
+    5.5
+   ],
+   [
+    "you",
+    5.5,
+    5.82
+   ],
+   [
+    "from",
+    5.82,
+    5.98
+   ],
+   [
+    "diseases.",
+    5.98,
+    6.44
+   ],
+   [
+    "The",
+    7.16,
+    7.26
+   ],
+   [
+    "system",
+    7.26,
+    7.56
+   ],
+   [
+    "detects",
+    7.56,
+    8.08
+   ],
+   [
+    "viruses,",
+    8.08,
+    8.94
+   ],
+   [
+    "bacteria,",
+    8.96,
+    9.68
+   ],
+   [
+    "and",
+    9.86,
+    9.96
+   ],
+   [
+    "even",
+    9.96,
+    10.18
+   ],
+   [
+    "cancer",
+    10.18,
+    10.64
+   ],
+   [
+    "cells.",
+    10.64,
+    10.96
+   ],
+   [
+    "It",
+    11.58,
+    11.7
+   ],
+   [
+    "accurately",
+    11.7,
+    12.22
+   ],
+   [
+    "distinguishes",
+    12.22,
+    13.04
+   ],
+   [
+    "these",
+    13.04,
+    13.24
+   ],
+   [
+    "threats",
+    13.24,
+    13.56
+   ],
+   [
+    "from",
+    13.56,
+    13.86
+   ],
+   [
+    "your",
+    13.86,
+    14.02
+   ],
+   [
+    "own",
+    14.02,
+    14.34
+   ],
+   [
+    "healthy",
+    14.34,
+    14.76
+   ],
+   [
+    "tissue.",
+    14.76,
+    15.2
+   ],
+   [
+    "Many",
+    15.98,
+    16.18
+   ],
+   [
+    "species",
+    16.18,
+    16.54
+   ],
+   [
+    "use",
+    16.54,
+    16.94
+   ],
+   [
+    "two",
+    16.94,
+    17.26
+   ],
+   [
+    "major",
+    17.26,
+    17.74
+   ],
+   [
+    "subsystems.",
+    17.74,
+    18.66
+   ],
+   [
+    "The",
+    19.06,
+    19.16
+   ],
+   [
+    "innate",
+    19.16,
+    19.44
+   ],
+   [
+    "system",
+    19.72,
+    19.9
+   ],
+   [
+    "reacts",
+    19.9,
+    20.28
+   ],
+   [
+    "broadly,",
+    20.28,
+    20.38
+   ],
+   [
+    "while",
+    21.3,
+    21.4
+   ],
+   [
+    "the",
+    21.4,
+    21.52
+   ],
+   [
+    "adaptive",
+    21.52,
+    21.94
+   ],
+   [
+    "system",
+    21.96,
+    22.4
+   ],
+   [
+    "learns",
+    22.4,
+    22.76
+   ],
+   [
+    "to",
+    22.76,
+    23.04
+   ],
+   [
+    "recognize",
+    23.04,
+    23.46
+   ],
+   [
+    "specific",
+    23.46,
+    24.12
+   ],
+   [
+    "molecules.",
+    24.12,
+    25.02
+   ],
+   [
+    "Nearly",
+    25.56,
+    25.76
+   ],
+   [
+    "all",
+    25.76,
+    26.2
+   ],
+   [
+    "organisms",
+    26.2,
+    26.7
+   ],
+   [
+    "have",
+    26.7,
+    27.06
+   ],
+   [
+    "some",
+    27.1,
+    27.4
+   ],
+   [
+    "kind",
+    27.4,
+    27.64
+   ],
+   [
+    "of",
+    27.64,
+    27.8
+   ],
+   [
+    "immune",
+    27.8,
+    28.06
+   ],
+   [
+    "defense.",
+    28.06,
+    28.7
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   25,
+   35,
+   41,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Macs_killing_cancer_cell.jpg/960px-Macs_killing_cancer_cell.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 525,
+   "license": "Public domain",
+   "artist": "Susan Arnold (photographer)",
+   "page": "https://commons.wikimedia.org/wiki/File:Macs_killing_cancer_cell.jpg",
+   "desc": "Macs killing cancer cell — [Part of a] six-step sequence of the death of a cancer cell. A cancer cell has migrated through the holes of a matrix coated membrane from the top to the bottom, simulating natural migration of a invading cancer cell bet"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Innate_immune_system.png/960px-Innate_immune_system.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 760,
+   "license": "CC BY-SA 3.0",
+   "artist": "Architha Srinivasan",
+   "page": "https://commons.wikimedia.org/wiki/File:Innate_immune_system.png",
+   "desc": "Innate immune system — Flow diagram showing a summary of innate immune system"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Activation_of_T_and_B_cells.png/960px-Activation_of_T_and_B_cells.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 327,
+   "license": "CC BY-SA 4.0",
+   "artist": "Immcarle105",
+   "page": "https://commons.wikimedia.org/wiki/File:Activation_of_T_and_B_cells.png",
+   "desc": "Activation of T and B cells — This is a visual depicting how T helper cells and B cells are activated. For T cell activation, there must be binding of the T cell receptor to both the antigen peptide and the MHC class II molecule on an antigen present"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Issoria_lathonia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 509,
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Issoria_lathonia.jpg",
+   "desc": "Issoria lathonia — "
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1059",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Immune system",
+  "url": "https://en.wikipedia.org/wiki/Immune_system",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:19:45Z",
+ "trimmed": true
+}

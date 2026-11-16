@@ -33,7 +33,8 @@
   "nasa:1341937",
   "Black hole",
   "Marie Curie",
-  "nasa:1399541"
+  "nasa:1399541",
+  "Leonardo da Vinci"
  ],
  "rejected": [
   "Chameleon",
@@ -145,6 +146,9 @@
   ],
   "nasa:1399541": [
    "Hurricane Polo's Explosive Growth: Hurricane Polo grew with absolute insanity."
+  ],
+  "Leonardo da Vinci": [
+   "The Ultimate Renaissance Genius: Leonardo da Vinci was a true polymath."
   ]
  },
  "exhausted": []
