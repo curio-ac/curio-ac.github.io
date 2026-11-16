@@ -1,0 +1,419 @@
+{
+ "id": "en-457ba641",
+ "lang": "en",
+ "title": "The Power of Lightning",
+ "cat": "physics",
+ "emoji": "⚡",
+ "sentences": [
+  "Lightning hits 30,000 °C instantly.",
+  "This phenomenon creates electrostatic discharges between electrically charged regions.",
+  "It releases energy ranging from 200 megajoules to 7 gigajoules.",
+  "The intense heat creates a shock wave we call thunder.",
+  "Lightning happens in thunderstorms and even during volcanic eruptions.",
+  "It also acts as a natural ignition source for wildfires.",
+  "These strikes neutralize charged regions in the atmosphere."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Lightning",
+    0.35,
+    0.35
+   ],
+   [
+    "hits",
+    0.35,
+    0.73
+   ],
+   [
+    "30,000",
+    1.03,
+    1.85
+   ],
+   [
+    "°C",
+    1.85,
+    2.69
+   ],
+   [
+    "instantly.",
+    2.69,
+    3.51
+   ],
+   [
+    "This",
+    4.39,
+    4.53
+   ],
+   [
+    "phenomenon",
+    4.53,
+    4.91
+   ],
+   [
+    "creates",
+    4.91,
+    5.37
+   ],
+   [
+    "electrostatic",
+    5.37,
+    6.27
+   ],
+   [
+    "discharges",
+    6.27,
+    6.99
+   ],
+   [
+    "between",
+    6.99,
+    7.31
+   ],
+   [
+    "electrically",
+    7.31,
+    7.91
+   ],
+   [
+    "charged",
+    7.91,
+    8.19
+   ],
+   [
+    "regions.",
+    8.19,
+    8.73
+   ],
+   [
+    "It",
+    9.25,
+    9.25
+   ],
+   [
+    "releases",
+    9.25,
+    9.59
+   ],
+   [
+    "energy",
+    9.59,
+    9.99
+   ],
+   [
+    "ranging",
+    9.99,
+    10.33
+   ],
+   [
+    "from",
+    10.33,
+    10.61
+   ],
+   [
+    "200",
+    10.61,
+    11.21
+   ],
+   [
+    "megajoules",
+    11.21,
+    11.87
+   ],
+   [
+    "to",
+    11.95,
+    12.07
+   ],
+   [
+    "7",
+    12.07,
+    12.49
+   ],
+   [
+    "gigajoules.",
+    12.49,
+    12.95
+   ],
+   [
+    "The",
+    13.67,
+    13.75
+   ],
+   [
+    "intense",
+    13.75,
+    13.95
+   ],
+   [
+    "heat",
+    13.95,
+    14.25
+   ],
+   [
+    "creates",
+    14.25,
+    14.59
+   ],
+   [
+    "a",
+    14.59,
+    14.79
+   ],
+   [
+    "shock",
+    14.79,
+    15.05
+   ],
+   [
+    "wave",
+    15.05,
+    15.33
+   ],
+   [
+    "we",
+    15.33,
+    15.55
+   ],
+   [
+    "call",
+    15.55,
+    15.73
+   ],
+   [
+    "thunder.",
+    15.73,
+    16.15
+   ],
+   [
+    "Lightning",
+    16.69,
+    16.89
+   ],
+   [
+    "happens",
+    16.89,
+    17.19
+   ],
+   [
+    "in",
+    17.19,
+    17.41
+   ],
+   [
+    "thunderstorms",
+    17.41,
+    18.11
+   ],
+   [
+    "and",
+    18.11,
+    18.31
+   ],
+   [
+    "even",
+    18.31,
+    18.53
+   ],
+   [
+    "during",
+    18.53,
+    18.77
+   ],
+   [
+    "volcanic",
+    18.77,
+    19.13
+   ],
+   [
+    "eruptions.",
+    19.13,
+    19.57
+   ],
+   [
+    "It",
+    20.25,
+    20.35
+   ],
+   [
+    "also",
+    20.35,
+    20.69
+   ],
+   [
+    "acts",
+    20.69,
+    21.01
+   ],
+   [
+    "as",
+    21.01,
+    21.17
+   ],
+   [
+    "a",
+    21.17,
+    21.27
+   ],
+   [
+    "natural",
+    21.45,
+    21.55
+   ],
+   [
+    "ignition",
+    21.55,
+    21.91
+   ],
+   [
+    "source",
+    21.91,
+    22.35
+   ],
+   [
+    "for",
+    22.35,
+    22.55
+   ],
+   [
+    "wildfires.",
+    22.55,
+    22.89
+   ],
+   [
+    "These",
+    23.71,
+    23.79
+   ],
+   [
+    "strikes",
+    23.79,
+    24.07
+   ],
+   [
+    "neutralize",
+    24.07,
+    24.73
+   ],
+   [
+    "charged",
+    24.73,
+    24.97
+   ],
+   [
+    "regions",
+    24.97,
+    25.45
+   ],
+   [
+    "in",
+    25.45,
+    25.65
+   ],
+   [
+    "the",
+    25.65,
+    25.75
+   ],
+   [
+    "atmosphere.",
+    25.75,
+    25.95
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   14,
+   24,
+   34,
+   43,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Lightning_2012.jpg/960px-Lightning_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Biso",
+   "page": "https://commons.wikimedia.org/wiki/File:Lightning_2012.jpg",
+   "desc": "Lightning 2012 — Lightning is a natural phenomenon consisting of electrostatic discharges occurring through the atmosphere between two electrically charged regions."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Galunggung.jpg/960px-Galunggung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "R. Hadian, U.S. Geological Survey",
+   "page": "https://commons.wikimedia.org/wiki/File:Galunggung.jpg",
+   "desc": "Galunggung — United States Geological Survey photo of 1982 eruption of Galunggung (with lightning strikes). Cropped. This stratovolcano with a lava dome is located in western Java. Its first eruption in 1822 produced a 22-km-long mud"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Black_walnut_lightning_strike.jpg/960px-Black_walnut_lightning_strike.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Geo Lightspeed7",
+   "page": "https://commons.wikimedia.org/wiki/File:Black_walnut_lightning_strike.jpg",
+   "desc": "Black walnut lightning strike — This Black Walnut tree was struck by lightning at 11:30 PM (CST) on 4-23-2022. The “thunderous” sound abruptly woke me up from a sound sleep. I immediately noted the time on my clock. The following morning is when I disc"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 30000,
+   "unit": "°C",
+   "label": "lightning temperature"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "gigajoules",
+   "label": "energy released"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q33741",
+ "pron_wer": 0.066,
+ "angle": 0,
+ "source": {
+  "title": "Lightning",
+  "url": "https://en.wikipedia.org/wiki/Lightning",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:16:47Z",
+ "trimmed": true
+}

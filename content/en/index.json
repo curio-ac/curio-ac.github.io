@@ -26,7 +26,8 @@
   "Penicillin",
   "Octopus",
   "Tardigrade",
-  "Honey"
+  "Honey",
+  "nasa:1258573"
  ],
  "rejected": [
   "Chameleon",
@@ -117,6 +118,9 @@
   ],
   "Honey": [
    "How Bees Make Honey: Bees make honey from plant secretions."
+  ],
+  "nasa:1258573": [
+   "The Swan in the Sky: A massive black hole hides inside Cygnus."
   ]
  },
  "exhausted": []
