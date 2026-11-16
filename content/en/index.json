@@ -38,7 +38,8 @@
   "Immune system",
   "Creek Turnpike",
   "Jonathan Agnew",
-  "nasa:1378211"
+  "nasa:1378211",
+  "Burnley F.C. in European football"
  ],
  "rejected": [
   "Chameleon",
@@ -166,6 +167,9 @@
   ],
   "nasa:1378211": [
    "Perseverance's Mars Panorama: NASA’s Perseverance rover captured a massive 360-degree panorama."
+  ],
+  "Burnley F.C. in European football": [
+   "Burnley's European Football Journey: Burnley toured Germany and Austria-Hungary in 1914!"
   ]
  },
  "exhausted": []

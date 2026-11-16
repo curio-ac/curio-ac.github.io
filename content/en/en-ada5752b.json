@@ -1,0 +1,437 @@
+{
+ "id": "en-ada5752b",
+ "lang": "en",
+ "title": "Cambridge's Rowing Sweep",
+ "cat": "history",
+ "emoji": "🚣",
+ "sentences": [
+  "Cambridge swept every single 2018 Boat Race.",
+  "The annual event pits Oxford against Cambridge on London’s River Thames.",
+  "This 4.2-mile race saw all four competitions held on the same day.",
+  "Cambridge women dominated, securing their second consecutive victory.",
+  "The men’s team also won, completing a total whitewash.",
+  "Even the reserve crews, Blondie and Goldie, crushed their Oxford rivals.",
+  "Cambridge now holds the overall lead in both series."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cambridge",
+    0.28,
+    0.28
+   ],
+   [
+    "swept",
+    0.28,
+    0.64
+   ],
+   [
+    "every",
+    0.64,
+    1.16
+   ],
+   [
+    "single",
+    1.16,
+    1.52
+   ],
+   [
+    "2018",
+    1.52,
+    2.12
+   ],
+   [
+    "Boat",
+    2.16,
+    2.64
+   ],
+   [
+    "Race.",
+    2.64,
+    3.02
+   ],
+   [
+    "The",
+    3.5,
+    3.5
+   ],
+   [
+    "annual",
+    3.5,
+    3.78
+   ],
+   [
+    "event",
+    3.78,
+    4.16
+   ],
+   [
+    "pits",
+    4.28,
+    4.42
+   ],
+   [
+    "Oxford",
+    4.42,
+    4.82
+   ],
+   [
+    "against",
+    4.82,
+    5.16
+   ],
+   [
+    "Cambridge",
+    5.16,
+    5.64
+   ],
+   [
+    "on",
+    5.64,
+    5.92
+   ],
+   [
+    "London’s",
+    5.92,
+    6.34
+   ],
+   [
+    "River",
+    6.34,
+    6.52
+   ],
+   [
+    "Thames.",
+    6.52,
+    6.88
+   ],
+   [
+    "This",
+    7.64,
+    7.74
+   ],
+   [
+    "4.2-mile",
+    7.74,
+    8.62
+   ],
+   [
+    "race",
+    8.62,
+    8.98
+   ],
+   [
+    "saw",
+    8.98,
+    9.26
+   ],
+   [
+    "all",
+    9.26,
+    9.54
+   ],
+   [
+    "four",
+    9.54,
+    9.78
+   ],
+   [
+    "competitions",
+    9.78,
+    10.34
+   ],
+   [
+    "held",
+    10.34,
+    10.68
+   ],
+   [
+    "on",
+    10.68,
+    10.88
+   ],
+   [
+    "the",
+    10.88,
+    10.98
+   ],
+   [
+    "same",
+    10.98,
+    11.24
+   ],
+   [
+    "day.",
+    11.24,
+    11.68
+   ],
+   [
+    "Cambridge",
+    12.36,
+    12.56
+   ],
+   [
+    "women",
+    12.56,
+    12.88
+   ],
+   [
+    "dominated,",
+    12.88,
+    13.46
+   ],
+   [
+    "securing",
+    13.98,
+    14.08
+   ],
+   [
+    "their",
+    14.08,
+    14.34
+   ],
+   [
+    "second",
+    14.34,
+    14.7
+   ],
+   [
+    "consecutive",
+    14.7,
+    15.18
+   ],
+   [
+    "victory.",
+    15.18,
+    15.76
+   ],
+   [
+    "The",
+    16.46,
+    16.52
+   ],
+   [
+    "men’s",
+    16.52,
+    16.82
+   ],
+   [
+    "team",
+    16.82,
+    16.96
+   ],
+   [
+    "also",
+    16.96,
+    17.28
+   ],
+   [
+    "won,",
+    17.28,
+    17.58
+   ],
+   [
+    "completing",
+    18.0,
+    18.1
+   ],
+   [
+    "a",
+    18.1,
+    18.34
+   ],
+   [
+    "total",
+    18.34,
+    18.64
+   ],
+   [
+    "whitewash.",
+    18.64,
+    19.38
+   ],
+   [
+    "Even",
+    20.02,
+    20.18
+   ],
+   [
+    "the",
+    20.18,
+    20.32
+   ],
+   [
+    "reserve",
+    20.32,
+    20.6
+   ],
+   [
+    "crews,",
+    20.6,
+    21.12
+   ],
+   [
+    "Blondie",
+    21.22,
+    21.54
+   ],
+   [
+    "and",
+    21.54,
+    21.66
+   ],
+   [
+    "Goldie,",
+    21.66,
+    21.98
+   ],
+   [
+    "crushed",
+    22.34,
+    22.48
+   ],
+   [
+    "their",
+    22.48,
+    22.7
+   ],
+   [
+    "Oxford",
+    22.7,
+    23.0
+   ],
+   [
+    "rivals.",
+    23.0,
+    23.64
+   ],
+   [
+    "Cambridge",
+    24.32,
+    24.5
+   ],
+   [
+    "now",
+    24.5,
+    24.78
+   ],
+   [
+    "holds",
+    24.78,
+    25.04
+   ],
+   [
+    "the",
+    25.04,
+    25.22
+   ],
+   [
+    "overall",
+    25.22,
+    25.58
+   ],
+   [
+    "lead",
+    25.58,
+    25.86
+   ],
+   [
+    "in",
+    25.86,
+    26.04
+   ],
+   [
+    "both",
+    26.1,
+    26.24
+   ],
+   [
+    "series.",
+    26.24,
+    26.88
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   30,
+   38,
+   47,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Rowing_on_the_River_Thames%2C_Oxford_%281%29_2025-05-04.jpg/960px-Rowing_on_the_River_Thames%2C_Oxford_%281%29_2025-05-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 542,
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Rowing_on_the_River_Thames,_Oxford_(1)_2025-05-04.jpg",
+   "desc": "Rowing on the River Thames, Oxford (1) 2025-05-04 — Rowing on the River Thames, Oxford"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 2018,
+   "unit": "year",
+   "label": "2018 Boat Race"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 6759,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 43,
+   "unit": "wins",
+   "label": "Cambridge women record"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 83,
+   "unit": "wins",
+   "label": "Cambridge men record"
+  }
+ ],
+ "geo": null,
+ "qid": "Q39057217",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "The Boat Race 2018",
+  "url": "https://en.wikipedia.org/wiki/The_Boat_Race_2018",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:49:33Z",
+ "trimmed": true
+}
