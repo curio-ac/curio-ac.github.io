@@ -1,0 +1,424 @@
+{
+ "id": "en-de519fdb",
+ "lang": "en",
+ "title": "Hitler's Albanian Mountain Division",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "Meet the Nazi SS Skanderbeg division.",
+  "It was a German mountain infantry unit formed during World War II.",
+  "The troops were mostly Muslim and Catholic Albanians led by German officers.",
+  "They were named after a medieval Albanian lord who fought the Ottoman Empire.",
+  "Despite its name, it never actually reached full divisional strength.",
+  "After the war, the Waffen-SS was declared a criminal organization."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.35,
+    0.47
+   ],
+   [
+    "the",
+    0.47,
+    0.65
+   ],
+   [
+    "Nazi",
+    0.65,
+    0.99
+   ],
+   [
+    "SS",
+    0.99,
+    1.47
+   ],
+   [
+    "Skanderbeg",
+    1.47,
+    2.21
+   ],
+   [
+    "division.",
+    2.21,
+    2.59
+   ],
+   [
+    "It",
+    3.13,
+    3.21
+   ],
+   [
+    "was",
+    3.21,
+    3.35
+   ],
+   [
+    "a",
+    3.35,
+    3.45
+   ],
+   [
+    "German",
+    3.45,
+    3.73
+   ],
+   [
+    "mountain",
+    3.73,
+    4.07
+   ],
+   [
+    "infantry",
+    4.07,
+    4.57
+   ],
+   [
+    "unit",
+    4.61,
+    4.91
+   ],
+   [
+    "formed",
+    4.91,
+    5.25
+   ],
+   [
+    "during",
+    5.25,
+    5.55
+   ],
+   [
+    "World",
+    5.55,
+    5.87
+   ],
+   [
+    "War",
+    5.87,
+    6.17
+   ],
+   [
+    "II.",
+    6.17,
+    6.59
+   ],
+   [
+    "The",
+    7.17,
+    7.27
+   ],
+   [
+    "troops",
+    7.27,
+    7.51
+   ],
+   [
+    "were",
+    7.51,
+    7.73
+   ],
+   [
+    "mostly",
+    7.73,
+    8.05
+   ],
+   [
+    "Muslim",
+    8.09,
+    8.63
+   ],
+   [
+    "and",
+    8.63,
+    8.85
+   ],
+   [
+    "Catholic",
+    8.85,
+    9.21
+   ],
+   [
+    "Albanians",
+    9.29,
+    9.99
+   ],
+   [
+    "led",
+    9.99,
+    10.21
+   ],
+   [
+    "by",
+    10.21,
+    10.43
+   ],
+   [
+    "German",
+    10.43,
+    10.71
+   ],
+   [
+    "officers.",
+    10.71,
+    11.29
+   ],
+   [
+    "They",
+    11.95,
+    12.03
+   ],
+   [
+    "were",
+    12.03,
+    12.13
+   ],
+   [
+    "named",
+    12.13,
+    12.37
+   ],
+   [
+    "after",
+    12.37,
+    12.69
+   ],
+   [
+    "a",
+    12.69,
+    12.83
+   ],
+   [
+    "medieval",
+    12.83,
+    13.21
+   ],
+   [
+    "Albanian",
+    13.21,
+    13.81
+   ],
+   [
+    "lord",
+    14.05,
+    14.31
+   ],
+   [
+    "who",
+    14.31,
+    14.51
+   ],
+   [
+    "fought",
+    14.51,
+    14.73
+   ],
+   [
+    "the",
+    14.73,
+    14.93
+   ],
+   [
+    "Ottoman",
+    14.93,
+    15.25
+   ],
+   [
+    "Empire.",
+    15.25,
+    15.79
+   ],
+   [
+    "Despite",
+    16.43,
+    16.63
+   ],
+   [
+    "its",
+    16.63,
+    16.93
+   ],
+   [
+    "name,",
+    16.93,
+    17.23
+   ],
+   [
+    "it",
+    17.71,
+    17.73
+   ],
+   [
+    "never",
+    17.73,
+    17.97
+   ],
+   [
+    "actually",
+    17.97,
+    18.43
+   ],
+   [
+    "reached",
+    18.67,
+    18.77
+   ],
+   [
+    "full",
+    18.77,
+    19.07
+   ],
+   [
+    "divisional",
+    19.07,
+    19.61
+   ],
+   [
+    "strength.",
+    19.61,
+    20.01
+   ],
+   [
+    "After",
+    20.81,
+    20.91
+   ],
+   [
+    "the",
+    20.91,
+    21.05
+   ],
+   [
+    "war,",
+    21.05,
+    21.4
+   ],
+   [
+    "the",
+    21.73,
+    21.77
+   ],
+   [
+    "Waffen-SS",
+    21.77,
+    22.43
+   ],
+   [
+    "was",
+    22.43,
+    22.73
+   ],
+   [
+    "declared",
+    22.73,
+    23.15
+   ],
+   [
+    "a",
+    23.15,
+    23.41
+   ],
+   [
+    "criminal",
+    23.55,
+    23.73
+   ],
+   [
+    "organization.",
+    23.73,
+    24.48
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   30,
+   43,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/SS_Skanderbeg_volunteer_sleeve_patch.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "SS Clothing Department at the Dachau KZ",
+   "page": "https://commons.wikimedia.org/wiki/File:SS_Skanderbeg_volunteer_sleeve_patch.png",
+   "desc": "SS Skanderbeg volunteer sleeve patch — Waffen-SS Albanian \"Skanderbeg\" volunteer sleeve patch. Albanian nationals were authorized the wear of an identifying sleeve patch to be worn just below the SS eagle on the upper left sleeve of the uniform. Worn by soldi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/German_Occupation_of_Norway_during_WW2_1940-45._Waffen-SS_uniform_cap_Fez_SS-Adler_Nazi_eagle_Totenkopf_skull_Dachau_KZ_Lager_Concentration_camp_konsentrasjonsleir_Muslim_troops_from_Balkans_1943_Bergenhus_Festningsmuseum_Museum_A.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Wolfmann",
+   "page": "https://commons.wikimedia.org/wiki/File:German_Occupation_of_Norway_during_WW2_1940-45._Waffen-SS_uniform_cap_Fez_SS-Adler_Nazi_eagle_Totenkopf_skull_Dachau_KZ_Lager_Concentration_camp_konsentrasjonsleir_Muslim_troops_from_Balkans_1943_Bergenhus_Festningsmuseum_Museum_A.jpg",
+   "desc": "German Occupation of Norway during WW2 1940-45. Waffen-SS uniform cap Fez SS-Adler Nazi eagle Totenkopf skull Dachau KZ Lager Concentration camp konsentrasjonsleir Muslim troops from Balkans 1943 Bergenhus Festningsmuseum Museum A — Items from an exhibition on"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Tirana_-_Skanderbeg_monument_by_night.JPG/960px-Tirana_-_Skanderbeg_monument_by_night.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 453,
+   "license": "CC BY-SA 4.0",
+   "artist": "Pudelek",
+   "page": "https://commons.wikimedia.org/wiki/File:Tirana_-_Skanderbeg_monument_by_night.JPG",
+   "desc": "Tirana - Skanderbeg monument by night — Tirana, Albania - Skanderbeg monument by night"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 21,
+   "unit": "Division",
+   "label": "SS Skanderbeg division"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 15
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "Brigade",
+   "label": "never reached full"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q160776",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "21st Waffen Mountain Division of the SS Skanderbeg",
+  "url": "https://en.wikipedia.org/wiki/21st_Waffen_Mountain_Division_of_the_SS_Skanderbeg",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:03:07Z",
+ "trimmed": true
+}

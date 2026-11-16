@@ -61,7 +61,8 @@
   "nasa:1279561",
   "1989–90 Gillingham F.C. season",
   "4th Missouri Infantry Regiment (Confederate)",
-  "nasa:1278993"
+  "nasa:1278993",
+  "Blackstar (album)"
  ],
  "rejected": [
   "Chameleon",
@@ -270,6 +271,9 @@
   ],
   "nasa:1278993": [
    "Venus on Earth: An ancient lake is now Venus on Earth."
+  ],
+  "Blackstar (album)": [
+   "Bowie's Secret Final Album: David Bowie recorded his final album in secret."
   ]
  },
  "exhausted": []
