@@ -1,1 +1,46 @@
-{"lang": "he", "exhausted_day": null, "runs": [{"at": "2026-11-16T15:42:52Z", "made": 12, "rejected": 2, "repaired": 0, "calls": 115, "notes": ["הקתדרלה הקתולית של מוסקבה: pronunciation 11.6% of words misheard", "nasa:1497670: pronunciation 16.4% of words misheard", "quota: all text models exhausted"]}, {"at": "2026-11-16T05:48:31Z", "made": 2, "rejected": 1, "repaired": 3, "calls": 29, "notes": ["יעקב לידסקי: fact-check", "repair he-1a9bb1a4: 18.2% of words misheard"]}]}
+{
+ "lang": "he",
+ "exhausted_day": "2026-11-16",
+ "runs": [
+  {
+   "at": "2026-11-16T16:47:37Z",
+   "made": 6,
+   "rejected": 5,
+   "repaired": 0,
+   "calls": 79,
+   "notes": [
+    "Hollywood's Bleeding: pronunciation 19.2% of words misheard",
+    "nasa:1508114: 'list' object has no attribute 'get'",
+    "פרק 3 לחוקת ארצות הברית: fact-check",
+    "ג'ון שרמן קופר: fact-check",
+    "nasa:1345718: pronunciation 12.8% of words misheard",
+    "Views: pronunciation 15.4% of words misheard",
+    "מרי קירי: 'list' object has no attribute 'get'",
+    "quota: Hebrew voices exhausted for today"
+   ]
+  },
+  {
+   "at": "2026-11-16T15:42:52Z",
+   "made": 12,
+   "rejected": 2,
+   "repaired": 0,
+   "calls": 115,
+   "notes": [
+    "הקתדרלה הקתולית של מוסקבה: pronunciation 11.6% of words misheard",
+    "nasa:1497670: pronunciation 16.4% of words misheard",
+    "quota: all text models exhausted"
+   ]
+  },
+  {
+   "at": "2026-11-16T05:48:31Z",
+   "made": 2,
+   "rejected": 1,
+   "repaired": 3,
+   "calls": 29,
+   "notes": [
+    "יעקב לידסקי: fact-check",
+    "repair he-1a9bb1a4: 18.2% of words misheard"
+   ]
+  }
+ ]
+}
