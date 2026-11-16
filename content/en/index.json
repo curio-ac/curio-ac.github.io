@@ -50,7 +50,8 @@
   "nasa:1505194",
   "Battersea Bridge",
   "nasa:1509895",
-  "Bulgaria"
+  "Bulgaria",
+  "nasa:1278826"
  ],
  "rejected": [
   "Chameleon",
@@ -221,6 +222,9 @@
   ],
   "Bulgaria": [
    "Ancient Bulgarian Roots: Bulgaria has roots going back to 6,500 BC!"
+  ],
+  "nasa:1278826": [
+   "How the Sun Shaped Earth: Our solar system has a massive protective bubble called the heliosphere."
   ]
  },
  "exhausted": []

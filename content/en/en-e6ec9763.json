@@ -1,0 +1,446 @@
+{
+ "id": "en-e6ec9763",
+ "lang": "en",
+ "title": "Ancient Egypt's Named Dog",
+ "cat": "history",
+ "emoji": "🐕",
+ "sentences": [
+  "Meet Abutiu, an ancient Egyptian guard dog.",
+  "He is one of the earliest documented domestic animals with a known name.",
+  "He died before 2280 BC and received an elaborate ceremonial burial in the Giza Necropolis.",
+  "An unknown pharaoh commanded this burial.",
+  "Egyptologist George A. Reisner found the inscribed stone listing the funeral gifts in October 1935.",
+  "The white limestone tablet features 10 vertical rows of hieroglyphs."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.3,
+    0.3
+   ],
+   [
+    "Abutiu,",
+    0.3,
+    1.16
+   ],
+   [
+    "an",
+    1.62,
+    1.64
+   ],
+   [
+    "ancient",
+    1.72,
+    1.98
+   ],
+   [
+    "Egyptian",
+    1.98,
+    2.5
+   ],
+   [
+    "guard",
+    2.5,
+    2.96
+   ],
+   [
+    "dog.",
+    2.96,
+    3.24
+   ],
+   [
+    "He",
+    3.74,
+    3.84
+   ],
+   [
+    "is",
+    3.84,
+    3.96
+   ],
+   [
+    "one",
+    3.96,
+    4.1
+   ],
+   [
+    "of",
+    4.1,
+    4.2
+   ],
+   [
+    "the",
+    4.2,
+    4.34
+   ],
+   [
+    "earliest",
+    4.34,
+    4.74
+   ],
+   [
+    "documented",
+    4.74,
+    5.09
+   ],
+   [
+    "domestic",
+    5.48,
+    5.82
+   ],
+   [
+    "animals",
+    5.82,
+    6.44
+   ],
+   [
+    "with",
+    6.44,
+    6.74
+   ],
+   [
+    "a",
+    6.74,
+    6.88
+   ],
+   [
+    "known",
+    6.88,
+    7.12
+   ],
+   [
+    "name.",
+    7.12,
+    7.5
+   ],
+   [
+    "He",
+    8.22,
+    8.32
+   ],
+   [
+    "died",
+    8.32,
+    8.56
+   ],
+   [
+    "before",
+    8.56,
+    9.0
+   ],
+   [
+    "2280",
+    9.0,
+    9.94
+   ],
+   [
+    "BC",
+    9.94,
+    10.44
+   ],
+   [
+    "and",
+    10.44,
+    10.92
+   ],
+   [
+    "received",
+    10.92,
+    11.26
+   ],
+   [
+    "an",
+    11.26,
+    11.48
+   ],
+   [
+    "elaborate",
+    11.48,
+    11.98
+   ],
+   [
+    "ceremonial",
+    11.98,
+    12.8
+   ],
+   [
+    "burial",
+    12.8,
+    13.14
+   ],
+   [
+    "in",
+    13.14,
+    13.5
+   ],
+   [
+    "the",
+    13.5,
+    13.58
+   ],
+   [
+    "Giza",
+    13.58,
+    13.94
+   ],
+   [
+    "Necropolis.",
+    13.94,
+    14.42
+   ],
+   [
+    "An",
+    15.38,
+    15.48
+   ],
+   [
+    "unknown",
+    15.48,
+    15.88
+   ],
+   [
+    "pharaoh",
+    15.88,
+    16.38
+   ],
+   [
+    "commanded",
+    16.38,
+    16.92
+   ],
+   [
+    "this",
+    16.92,
+    17.22
+   ],
+   [
+    "burial.",
+    17.22,
+    17.48
+   ],
+   [
+    "Egyptologist",
+    18.34,
+    19.02
+   ],
+   [
+    "George",
+    19.02,
+    19.48
+   ],
+   [
+    "A.",
+    19.48,
+    19.86
+   ],
+   [
+    "Reisner",
+    19.86,
+    20.22
+   ],
+   [
+    "found",
+    20.4,
+    20.54
+   ],
+   [
+    "the",
+    20.54,
+    20.7
+   ],
+   [
+    "inscribed",
+    20.7,
+    21.16
+   ],
+   [
+    "stone",
+    21.16,
+    21.62
+   ],
+   [
+    "listing",
+    21.62,
+    21.98
+   ],
+   [
+    "the",
+    21.98,
+    22.24
+   ],
+   [
+    "funeral",
+    22.36,
+    22.48
+   ],
+   [
+    "gifts",
+    22.48,
+    22.84
+   ],
+   [
+    "in",
+    22.84,
+    23.12
+   ],
+   [
+    "October",
+    23.12,
+    23.52
+   ],
+   [
+    "1935.",
+    23.52,
+    24.86
+   ],
+   [
+    "The",
+    25.6,
+    25.7
+   ],
+   [
+    "white",
+    25.7,
+    25.9
+   ],
+   [
+    "limestone",
+    25.9,
+    26.32
+   ],
+   [
+    "tablet",
+    26.32,
+    26.8
+   ],
+   [
+    "features",
+    26.8,
+    27.16
+   ],
+   [
+    "10",
+    27.5,
+    27.6
+   ],
+   [
+    "vertical",
+    27.6,
+    28.06
+   ],
+   [
+    "rows",
+    28.06,
+    28.44
+   ],
+   [
+    "of",
+    28.44,
+    28.64
+   ],
+   [
+    "hieroglyphs.",
+    28.64,
+    29.04
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   35,
+   41,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Giza-pyramids.JPG/960px-Giza-pyramids.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 475,
+   "license": "CC0",
+   "artist": "Robster1983 at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Giza-pyramids.JPG",
+   "desc": "Giza-pyramids — The Giza-pyramids and Giza Necropolis, Egypt, seen from above. Photo taken on 12 December 2008."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Ancient_Egypt_Carved_Relief_of_Pharaoh_%2828750257795%29.jpg/960px-Ancient_Egypt_Carved_Relief_of_Pharaoh_%2828750257795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC0",
+   "artist": "Gary Todd from Xinzheng, China",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancient_Egypt_Carved_Relief_of_Pharaoh_(28750257795).jpg",
+   "desc": "Ancient Egypt Carved Relief of Pharaoh (28750257795) — Egyptian Gallery, Neues Museum, Berlin, Germany. Complete indexed photo collection at WorldHistoryPics.com."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Portrait_of_George_Andrew_Reisner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 945,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_George_Andrew_Reisner.jpg",
+   "desc": "Portrait of George Andrew Reisner — Portrait of George Andrew Reisner"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Funerary_stele_of_Intef_II.jpg/960px-Funerary_stele_of_Intef_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "One dead president, David Liam Moran",
+   "page": "https://commons.wikimedia.org/wiki/File:Funerary_stele_of_Intef_II.jpg",
+   "desc": "Funerary stele of Intef II — Funerary stele of Intef II. Limestone. Middle Kingdom, Dynasty XI, c. 2108-2059 BC. From Thebes."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": -2280
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1935
+  },
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "rows",
+   "label": "vertical rows"
+  }
+ ],
+ "geo": null,
+ "qid": "Q42235",
+ "pron_wer": 0.03,
+ "angle": 0,
+ "source": {
+  "title": "Abutiu",
+  "url": "https://en.wikipedia.org/wiki/Abutiu",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:52:07Z",
+ "trimmed": true
+}
