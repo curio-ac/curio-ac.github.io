@@ -72,7 +72,8 @@
   "Thomas de la More",
   "nasa:1276885",
   "nasa:1283342",
-  "James Chadwick"
+  "James Chadwick",
+  "Amarte Es un Placer (album)"
  ],
  "rejected": [
   "Chameleon",
@@ -324,6 +325,9 @@
   ],
   "James Chadwick": [
    "The Prisoner Who Changed Physics: A prisoner of war discovered the neutron."
+  ],
+  "Amarte Es un Placer (album)": [
+   "Luis Miguel's Record Tour: His tour became the highest-grossing."
   ]
  },
  "exhausted": []
