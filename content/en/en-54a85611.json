@@ -1,0 +1,411 @@
+{
+ "id": "en-54a85611",
+ "lang": "en",
+ "title": "Wild Gillingham Football Season",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Teenagers played after a number of players left.",
+  "Gillingham began the Fourth Division campaign in very poor form.",
+  "A run of 5 straight wins pushed them into the top 6.",
+  "They lost to Maidstone United in the first Kent league match.",
+  "Promotion hopes died after losing 6 consecutive games in March.",
+  "The season ultimately ended with a 14th place finish."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Teenagers",
+    0.16,
+    0.48
+   ],
+   [
+    "played",
+    0.48,
+    0.78
+   ],
+   [
+    "after",
+    0.78,
+    1.2
+   ],
+   [
+    "a",
+    1.2,
+    1.34
+   ],
+   [
+    "number",
+    1.34,
+    1.62
+   ],
+   [
+    "of",
+    1.62,
+    1.76
+   ],
+   [
+    "players",
+    1.94,
+    2.04
+   ],
+   [
+    "left.",
+    2.04,
+    2.36
+   ],
+   [
+    "Gillingham",
+    2.98,
+    3.42
+   ],
+   [
+    "began",
+    3.42,
+    3.74
+   ],
+   [
+    "the",
+    3.74,
+    3.92
+   ],
+   [
+    "Fourth",
+    3.92,
+    4.18
+   ],
+   [
+    "Division",
+    4.18,
+    4.58
+   ],
+   [
+    "campaign",
+    4.58,
+    5.12
+   ],
+   [
+    "in",
+    5.12,
+    5.44
+   ],
+   [
+    "very",
+    5.44,
+    5.84
+   ],
+   [
+    "poor",
+    5.84,
+    6.18
+   ],
+   [
+    "form.",
+    6.18,
+    6.3
+   ],
+   [
+    "A",
+    7.14,
+    7.22
+   ],
+   [
+    "run",
+    7.22,
+    7.4
+   ],
+   [
+    "of",
+    7.4,
+    7.54
+   ],
+   [
+    "5",
+    7.54,
+    7.86
+   ],
+   [
+    "straight",
+    7.86,
+    8.2
+   ],
+   [
+    "wins",
+    8.2,
+    8.62
+   ],
+   [
+    "pushed",
+    8.62,
+    8.96
+   ],
+   [
+    "them",
+    8.96,
+    9.18
+   ],
+   [
+    "into",
+    9.18,
+    9.4
+   ],
+   [
+    "the",
+    9.4,
+    9.54
+   ],
+   [
+    "top",
+    9.56,
+    9.78
+   ],
+   [
+    "6.",
+    9.78,
+    9.88
+   ],
+   [
+    "They",
+    10.78,
+    10.88
+   ],
+   [
+    "lost",
+    10.88,
+    11.2
+   ],
+   [
+    "to",
+    11.2,
+    11.4
+   ],
+   [
+    "Maidstone",
+    11.4,
+    11.92
+   ],
+   [
+    "United",
+    11.92,
+    12.28
+   ],
+   [
+    "in",
+    12.28,
+    12.6
+   ],
+   [
+    "the",
+    12.6,
+    12.7
+   ],
+   [
+    "first",
+    12.82,
+    13.02
+   ],
+   [
+    "Kent",
+    13.02,
+    13.3
+   ],
+   [
+    "league",
+    13.3,
+    13.58
+   ],
+   [
+    "match.",
+    13.58,
+    14.12
+   ],
+   [
+    "Promotion",
+    14.58,
+    14.92
+   ],
+   [
+    "hopes",
+    14.92,
+    15.16
+   ],
+   [
+    "died",
+    15.16,
+    15.52
+   ],
+   [
+    "after",
+    15.52,
+    15.9
+   ],
+   [
+    "losing",
+    15.9,
+    16.16
+   ],
+   [
+    "6",
+    16.16,
+    16.58
+   ],
+   [
+    "consecutive",
+    16.58,
+    17.22
+   ],
+   [
+    "games",
+    17.22,
+    17.72
+   ],
+   [
+    "in",
+    17.72,
+    17.88
+   ],
+   [
+    "March.",
+    17.88,
+    18.1
+   ],
+   [
+    "The",
+    18.8,
+    18.8
+   ],
+   [
+    "season",
+    18.8,
+    19.12
+   ],
+   [
+    "ultimately",
+    19.12,
+    19.6
+   ],
+   [
+    "ended",
+    19.6,
+    20.04
+   ],
+   [
+    "with",
+    20.04,
+    20.28
+   ],
+   [
+    "a",
+    20.28,
+    20.42
+   ],
+   [
+    "14th",
+    20.42,
+    21.04
+   ],
+   [
+    "place",
+    21.12,
+    21.22
+   ],
+   [
+    "finish.",
+    21.22,
+    21.86
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   30,
+   41,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Summer_in_Chinawal_8.jpg/960px-Summer_in_Chinawal_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "abhiriksh",
+   "page": "https://commons.wikimedia.org/wiki/File:Summer_in_Chinawal_8.jpg",
+   "desc": "Summer in Chinawal 8 — Teenagers passing afternoon summer heat time by playing Carrom under the shade of roadside Neem tree in Chinawal village, India"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gillsgate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 385,
+   "license": "CC BY 3.0",
+   "artist": "ChrisTheDude at en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Gillsgate.jpg",
+   "desc": "Gillsgate — Gillingham F.C. team before the match against Ramsgate F.C. on 13 July 2011. I took the picture myself"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tom_Hadler_playing_for_Maidstone_United.png/960px-Tom_Hadler_playing_for_Maidstone_United.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 965,
+   "license": "CC BY-SA 4.0",
+   "artist": "Maidstone22",
+   "page": "https://commons.wikimedia.org/wiki/File:Tom_Hadler_playing_for_Maidstone_United.png",
+   "desc": "Tom Hadler playing for Maidstone United — Tom Hadler playing for Maidstone United"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "tier",
+   "label": "Fourth Division"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "wins",
+   "label": "consecutive wins"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 14,
+   "unit": "place",
+   "label": "14th place finish"
+  }
+ ],
+ "geo": null,
+ "qid": "Q112061909",
+ "pron_wer": 0.05,
+ "angle": 0,
+ "source": {
+  "title": "1989–90 Gillingham F.C. season",
+  "url": "https://en.wikipedia.org/wiki/1989%E2%80%9390_Gillingham_F.C._season",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:55:29Z",
+ "trimmed": true
+}
