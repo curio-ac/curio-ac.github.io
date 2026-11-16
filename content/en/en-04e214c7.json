@@ -1,0 +1,472 @@
+{
+ "id": "en-04e214c7",
+ "lang": "en",
+ "title": "The Prisoner Who Changed Physics",
+ "cat": "physics",
+ "emoji": "⚛️",
+ "sentences": [
+  "A prisoner of war discovered the neutron.",
+  "James Chadwick studied physics under Ernest Rutherford before winning a 1935 Nobel Prize.",
+  "While researching radiation in Berlin, World War I broke out.",
+  "Chadwick spent 4 years trapped in an internment camp.",
+  "Later, he led the British team on the Manhattan Project.",
+  "He eventually wrote the report that kickstarted atomic bomb research.",
+  "By 1945, he was knighted for his nuclear achievements."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.28,
+    0.38
+   ],
+   [
+    "prisoner",
+    0.44,
+    0.68
+   ],
+   [
+    "of",
+    0.68,
+    0.92
+   ],
+   [
+    "war",
+    0.92,
+    1.16
+   ],
+   [
+    "discovered",
+    1.16,
+    1.52
+   ],
+   [
+    "the",
+    1.56,
+    2.04
+   ],
+   [
+    "neutron.",
+    2.04,
+    2.52
+   ],
+   [
+    "James",
+    3.16,
+    3.32
+   ],
+   [
+    "Chadwick",
+    3.32,
+    3.8
+   ],
+   [
+    "studied",
+    3.8,
+    4.1
+   ],
+   [
+    "physics",
+    4.1,
+    4.46
+   ],
+   [
+    "under",
+    4.46,
+    4.8
+   ],
+   [
+    "Ernest",
+    4.8,
+    5.18
+   ],
+   [
+    "Rutherford",
+    5.18,
+    5.7
+   ],
+   [
+    "before",
+    5.7,
+    6.02
+   ],
+   [
+    "winning",
+    6.02,
+    6.3
+   ],
+   [
+    "a",
+    6.3,
+    6.44
+   ],
+   [
+    "1935",
+    6.44,
+    7.28
+   ],
+   [
+    "Nobel",
+    7.28,
+    7.64
+   ],
+   [
+    "Prize.",
+    7.64,
+    8.08
+   ],
+   [
+    "While",
+    9.06,
+    9.18
+   ],
+   [
+    "researching",
+    9.18,
+    9.6
+   ],
+   [
+    "radiation",
+    9.6,
+    10.02
+   ],
+   [
+    "in",
+    10.02,
+    10.36
+   ],
+   [
+    "Berlin,",
+    10.36,
+    11.02
+   ],
+   [
+    "World",
+    11.02,
+    11.12
+   ],
+   [
+    "War",
+    11.12,
+    11.32
+   ],
+   [
+    "I",
+    11.32,
+    11.56
+   ],
+   [
+    "broke",
+    11.56,
+    11.78
+   ],
+   [
+    "out.",
+    11.78,
+    11.88
+   ],
+   [
+    "Chadwick",
+    12.72,
+    12.96
+   ],
+   [
+    "spent",
+    12.96,
+    13.18
+   ],
+   [
+    "4",
+    13.18,
+    13.6
+   ],
+   [
+    "years",
+    13.6,
+    13.92
+   ],
+   [
+    "trapped",
+    13.92,
+    14.42
+   ],
+   [
+    "in",
+    14.42,
+    14.72
+   ],
+   [
+    "an",
+    14.72,
+    14.82
+   ],
+   [
+    "internment",
+    14.82,
+    15.36
+   ],
+   [
+    "camp.",
+    15.36,
+    15.46
+   ],
+   [
+    "Later,",
+    16.26,
+    16.64
+   ],
+   [
+    "he",
+    16.76,
+    16.76
+   ],
+   [
+    "led",
+    16.76,
+    16.96
+   ],
+   [
+    "the",
+    16.96,
+    17.1
+   ],
+   [
+    "British",
+    17.1,
+    17.32
+   ],
+   [
+    "team",
+    17.32,
+    17.64
+   ],
+   [
+    "on",
+    17.64,
+    17.86
+   ],
+   [
+    "the",
+    17.86,
+    17.94
+   ],
+   [
+    "Manhattan",
+    17.94,
+    18.3
+   ],
+   [
+    "Project.",
+    18.3,
+    18.76
+   ],
+   [
+    "He",
+    19.5,
+    19.58
+   ],
+   [
+    "eventually",
+    19.58,
+    19.8
+   ],
+   [
+    "wrote",
+    19.8,
+    20.14
+   ],
+   [
+    "the",
+    20.14,
+    20.26
+   ],
+   [
+    "report",
+    20.26,
+    20.56
+   ],
+   [
+    "that",
+    20.56,
+    20.76
+   ],
+   [
+    "kickstarted",
+    20.76,
+    21.42
+   ],
+   [
+    "atomic",
+    21.42,
+    21.7
+   ],
+   [
+    "bomb",
+    21.7,
+    22.02
+   ],
+   [
+    "research.",
+    22.02,
+    22.5
+   ],
+   [
+    "By",
+    23.08,
+    23.18
+   ],
+   [
+    "1945,",
+    23.18,
+    23.66
+   ],
+   [
+    "he",
+    24.24,
+    24.3
+   ],
+   [
+    "was",
+    24.3,
+    24.44
+   ],
+   [
+    "knighted",
+    24.44,
+    24.92
+   ],
+   [
+    "for",
+    24.92,
+    25.08
+   ],
+   [
+    "his",
+    25.08,
+    25.18
+   ],
+   [
+    "nuclear",
+    25.18,
+    25.46
+   ],
+   [
+    "achievements.",
+    25.46,
+    25.86
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   30,
+   39,
+   49,
+   59
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Groves_and_Chadwick_830308.jpg/960px-Groves_and_Chadwick_830308.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 545,
+   "license": "Attribution",
+   "artist": "Los Alamos National Laboratory",
+   "page": "https://commons.wikimedia.org/wiki/File:Groves_and_Chadwick_830308.jpg",
+   "desc": "Groves and Chadwick 830308 — James Chadwick (left) with Major General Leslie R. Groves, Jr."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/James_Chadwick.jpg/960px-James_Chadwick.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Attribution",
+   "artist": "Los Alamos National Laboratory",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Chadwick.jpg",
+   "desc": "James Chadwick — James Chadwick"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ruhleben_Prison_Camp_-_Panoramic_View_Art.IWMART522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 293,
+   "license": "Public domain",
+   "artist": "Nico Jungmann",
+   "page": "https://commons.wikimedia.org/wiki/File:Ruhleben_Prison_Camp_-_Panoramic_View_Art.IWMART522.jpg",
+   "desc": "Ruhleben Prison Camp - Panoramic View Art.IWMART522 — Ruhleben Prison Camp - Panoramic View image: A panoramic view of a prison camp that is housed within a horse racecourse. In the centre foreground is a stand that looks out onto the racecourse, which is on t"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Quebec_conference_1943.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 562,
+   "license": "Public domain",
+   "artist": "Montreal Gazette",
+   "page": "https://commons.wikimedia.org/wiki/File:Quebec_conference_1943.png",
+   "desc": "Quebec conference 1943 — Rt. Hon. Mackenzie King, President Franklin D. Roosevelt and Rt. Hon. Winston Churchill at the Quebec Conference"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/FDR_approves_the_creation_of_the_Manhattan_Project%2C_17_June_1942.jpg/960px-FDR_approves_the_creation_of_the_Manhattan_Project%2C_17_June_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 920,
+   "license": "Public domain",
+   "artist": "Vannevar Bush, in his capacity as director of the Office of Scientific Research ",
+   "page": "https://commons.wikimedia.org/wiki/File:FDR_approves_the_creation_of_the_Manhattan_Project,_17_June_1942.jpg",
+   "desc": "FDR approves the creation of the Manhattan Project, 17 June 1942 — This is the cover letter, written by Bush, for the report by Vannevar Bush and James Conant to the Top Policy Committee in June 1942. The report, \"Atomic Fission Bombs,\" recommends creating a c"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1935
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "years",
+   "label": "internment camp duration"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1941
+  },
+  {
+   "type": "timeline",
+   "year": 1945
+  }
+ ],
+ "geo": null,
+ "qid": "Q80884",
+ "pron_wer": 0.044,
+ "angle": 0,
+ "source": {
+  "title": "James Chadwick",
+  "url": "https://en.wikipedia.org/wiki/James_Chadwick",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:48:20Z",
+ "trimmed": true
+}
