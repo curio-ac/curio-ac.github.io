@@ -65,7 +65,8 @@
   "Blackstar (album)",
   "21st Waffen Mountain Division of the SS Skanderbeg",
   "Changeling (film)",
-  "nasa:1279928"
+  "nasa:1279928",
+  "Australian green tree frog"
  ],
  "rejected": [
   "Chameleon",
@@ -291,6 +292,9 @@
   ],
   "nasa:1279928": [
    "New NASA Galactic Gallery: Cosmic gems shine in 16 new images."
+  ],
+  "Australian green tree frog": [
+   "This Frog Actually Screams!: This frog actually screams in danger!"
   ]
  },
  "exhausted": []

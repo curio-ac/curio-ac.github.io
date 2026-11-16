@@ -1,0 +1,393 @@
+{
+ "id": "en-7407e758",
+ "lang": "en",
+ "title": "Summer's Brutal Heat Dome",
+ "cat": "geography",
+ "emoji": "☀️",
+ "sentences": [
+  "Fall was near, but a fierce heat dome struck.",
+  "Over 41 million people faced extreme heat advisories.",
+  "On September 15, 2026, temperatures soared past 100 degrees Fahrenheit in Texas and Tennessee.",
+  "Nashville broke a daily high record set way back in 1927.",
+  "High pressure trapped hot air near the ground, blocking clouds and baking the region."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Fall",
+    0.35,
+    0.35
+   ],
+   [
+    "was",
+    0.35,
+    0.59
+   ],
+   [
+    "near,",
+    0.59,
+    0.99
+   ],
+   [
+    "but",
+    1.07,
+    1.15
+   ],
+   [
+    "a",
+    1.15,
+    1.29
+   ],
+   [
+    "fierce",
+    1.37,
+    1.51
+   ],
+   [
+    "heat",
+    1.51,
+    1.77
+   ],
+   [
+    "dome",
+    1.87,
+    2.01
+   ],
+   [
+    "struck.",
+    2.01,
+    2.36
+   ],
+   [
+    "Over",
+    2.93,
+    3.07
+   ],
+   [
+    "41",
+    3.07,
+    3.51
+   ],
+   [
+    "million",
+    3.51,
+    3.95
+   ],
+   [
+    "people",
+    3.95,
+    4.33
+   ],
+   [
+    "faced",
+    4.57,
+    4.67
+   ],
+   [
+    "extreme",
+    4.67,
+    5.21
+   ],
+   [
+    "heat",
+    5.21,
+    5.49
+   ],
+   [
+    "advisories.",
+    5.49,
+    5.95
+   ],
+   [
+    "On",
+    6.69,
+    6.77
+   ],
+   [
+    "September",
+    6.77,
+    7.03
+   ],
+   [
+    "15,",
+    7.03,
+    7.83
+   ],
+   [
+    "2026,",
+    8.27,
+    8.93
+   ],
+   [
+    "temperatures",
+    9.45,
+    9.69
+   ],
+   [
+    "soared",
+    9.73,
+    10.23
+   ],
+   [
+    "past",
+    10.23,
+    10.47
+   ],
+   [
+    "100",
+    10.47,
+    10.97
+   ],
+   [
+    "degrees",
+    10.97,
+    11.33
+   ],
+   [
+    "Fahrenheit",
+    11.33,
+    11.89
+   ],
+   [
+    "in",
+    11.89,
+    12.21
+   ],
+   [
+    "Texas",
+    12.21,
+    12.55
+   ],
+   [
+    "and",
+    12.63,
+    12.85
+   ],
+   [
+    "Tennessee.",
+    12.85,
+    13.37
+   ],
+   [
+    "Nashville",
+    13.95,
+    14.31
+   ],
+   [
+    "broke",
+    14.31,
+    14.63
+   ],
+   [
+    "a",
+    14.63,
+    14.79
+   ],
+   [
+    "daily",
+    14.79,
+    15.13
+   ],
+   [
+    "high",
+    15.13,
+    15.45
+   ],
+   [
+    "record",
+    15.45,
+    15.79
+   ],
+   [
+    "set",
+    15.93,
+    16.07
+   ],
+   [
+    "way",
+    16.07,
+    16.33
+   ],
+   [
+    "back",
+    16.33,
+    16.61
+   ],
+   [
+    "in",
+    16.61,
+    16.79
+   ],
+   [
+    "1927.",
+    16.88,
+    17.73
+   ],
+   [
+    "High",
+    18.39,
+    18.49
+   ],
+   [
+    "pressure",
+    18.49,
+    18.83
+   ],
+   [
+    "trapped",
+    18.83,
+    19.17
+   ],
+   [
+    "hot",
+    19.17,
+    19.51
+   ],
+   [
+    "air",
+    19.51,
+    19.77
+   ],
+   [
+    "near",
+    19.77,
+    20.01
+   ],
+   [
+    "the",
+    20.01,
+    20.15
+   ],
+   [
+    "ground,",
+    20.15,
+    20.51
+   ],
+   [
+    "blocking",
+    21.15,
+    21.25
+   ],
+   [
+    "clouds",
+    21.25,
+    21.77
+   ],
+   [
+    "and",
+    21.77,
+    22.01
+   ],
+   [
+    "baking",
+    22.01,
+    22.27
+   ],
+   [
+    "the",
+    22.33,
+    22.47
+   ],
+   [
+    "region.",
+    22.47,
+    22.81
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   17,
+   31,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Summer_Goes_Out_With_a_Heat_Dome_%281346682%29.jpg/960px-Summer_Goes_Out_With_a_Heat_Dome_%281346682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 566,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Summer_Goes_Out_With_a_Heat_Dome_(1346682).jpg",
+   "desc": "Summer Goes Out With a Heat Dome (1346682) — An area of high pressure over the south-central U.S. produced unseasonable and, in some places, record-breaking warmth on September 15, 2026, as shown in this map of modeled air temperatures from GEOS (Goddard Earth"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Extreme_Heat_Warnings_slowly_fade_away_%E2%80%93_July_4th%2C_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 450,
+   "license": "Public domain",
+   "artist": "National Weather Service",
+   "page": "https://commons.wikimedia.org/wiki/File:Extreme_Heat_Warnings_slowly_fade_away_%E2%80%93_July_4th,_2026.png",
+   "desc": "Extreme Heat Warnings slowly fade away – July 4th, 2026 — Map of alerts on the morning of July 4. Purple colors across parts of the Northeast and Mid Atlantic, as well as the Ohio Valley and parts of the Midwest are Extreme Heat Warnings. Orange are Heat Advis"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Summer_Goes_Out_With_a_Heat_Dome_%281346682_-_lrg%29.jpg/960px-Summer_Goes_Out_With_a_Heat_Dome_%281346682_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 532,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Summer_Goes_Out_With_a_Heat_Dome_(1346682_-_lrg).jpg",
+   "desc": "Summer Goes Out With a Heat Dome (1346682 - lrg) — An area of high pressure over the south-central U.S. produced unseasonable and, in some places, record-breaking warmth on September 15, 2026, as shown in this map of modeled air temperatures from GEOS (Goddard"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Heat_Wave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 394,
+   "license": "Public domain",
+   "artist": "U. S. National Weather Service/National Ocean Service",
+   "page": "https://commons.wikimedia.org/wiki/File:Heat_Wave.jpg",
+   "desc": "Heat Wave — Formation of a heat wave : a high-pressure circulation in the atmosphere acts like a dome or cap, trapping heat at the surface."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "stat",
+   "value": 41,
+   "unit": "million",
+   "label": "people under advisory"
+  },
+  {
+   "type": "stat",
+   "value": 100,
+   "unit": "°F",
+   "label": "temperatures soared"
+  },
+  {
+   "type": "timeline",
+   "year": 1927
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Summer Goes Out With a Heat Dome",
+  "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:54:50Z",
+ "trimmed": true
+}
