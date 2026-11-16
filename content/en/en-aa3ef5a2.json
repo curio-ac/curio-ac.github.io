@@ -1,0 +1,475 @@
+{
+ "id": "en-aa3ef5a2",
+ "lang": "en",
+ "title": "London's Most Dangerous Bridge",
+ "cat": "history",
+ "emoji": "🌉",
+ "sentences": [
+  "London’s Battersea Bridge was famously dangerous.",
+  "It replaced a ferry service operating since the 16th century.",
+  "Originally, the owner wanted a stone bridge but only had money for wood.",
+  "The wooden design was poorly built and hazardous for traffic.",
+  "Boats constantly crashed into it, forcing repairs with iron girders.",
+  "Despite being unpopular, it became the last surviving wooden bridge on the Thames.",
+  "Even famous artists like Whistler painted this shaky structure."
+ ],
+ "tim": {
+  "w": [
+   [
+    "London’s",
+    0.28,
+    0.82
+   ],
+   [
+    "Battersea",
+    0.82,
+    1.24
+   ],
+   [
+    "Bridge",
+    1.24,
+    1.52
+   ],
+   [
+    "was",
+    1.52,
+    1.84
+   ],
+   [
+    "famously",
+    1.84,
+    2.34
+   ],
+   [
+    "dangerous.",
+    2.34,
+    3.02
+   ],
+   [
+    "It",
+    3.5,
+    3.56
+   ],
+   [
+    "replaced",
+    3.58,
+    3.88
+   ],
+   [
+    "a",
+    3.88,
+    4.06
+   ],
+   [
+    "ferry",
+    4.06,
+    4.28
+   ],
+   [
+    "service",
+    4.28,
+    4.64
+   ],
+   [
+    "operating",
+    4.76,
+    5.06
+   ],
+   [
+    "since",
+    5.06,
+    5.36
+   ],
+   [
+    "the",
+    5.36,
+    5.58
+   ],
+   [
+    "16th",
+    6.02,
+    6.12
+   ],
+   [
+    "century.",
+    6.12,
+    6.32
+   ],
+   [
+    "Originally,",
+    6.92,
+    7.52
+   ],
+   [
+    "the",
+    7.54,
+    7.56
+   ],
+   [
+    "owner",
+    7.56,
+    7.76
+   ],
+   [
+    "wanted",
+    7.76,
+    8.06
+   ],
+   [
+    "a",
+    8.06,
+    8.3
+   ],
+   [
+    "stone",
+    8.3,
+    8.54
+   ],
+   [
+    "bridge",
+    8.54,
+    8.84
+   ],
+   [
+    "but",
+    9.04,
+    9.14
+   ],
+   [
+    "only",
+    9.14,
+    9.5
+   ],
+   [
+    "had",
+    9.5,
+    9.7
+   ],
+   [
+    "money",
+    9.7,
+    9.92
+   ],
+   [
+    "for",
+    9.92,
+    10.14
+   ],
+   [
+    "wood.",
+    10.14,
+    10.44
+   ],
+   [
+    "The",
+    10.98,
+    11.06
+   ],
+   [
+    "wooden",
+    11.06,
+    11.2
+   ],
+   [
+    "design",
+    11.2,
+    11.56
+   ],
+   [
+    "was",
+    11.56,
+    11.8
+   ],
+   [
+    "poorly",
+    11.8,
+    12.22
+   ],
+   [
+    "built",
+    12.22,
+    12.52
+   ],
+   [
+    "and",
+    12.52,
+    12.76
+   ],
+   [
+    "hazardous",
+    12.76,
+    13.1
+   ],
+   [
+    "for",
+    13.1,
+    13.44
+   ],
+   [
+    "traffic.",
+    13.44,
+    13.72
+   ],
+   [
+    "Boats",
+    14.34,
+    14.54
+   ],
+   [
+    "constantly",
+    14.74,
+    15.08
+   ],
+   [
+    "crashed",
+    15.08,
+    15.46
+   ],
+   [
+    "into",
+    15.46,
+    15.8
+   ],
+   [
+    "it,",
+    15.8,
+    15.98
+   ],
+   [
+    "forcing",
+    16.08,
+    16.3
+   ],
+   [
+    "repairs",
+    16.3,
+    16.64
+   ],
+   [
+    "with",
+    16.64,
+    16.94
+   ],
+   [
+    "iron",
+    17.06,
+    17.2
+   ],
+   [
+    "girders.",
+    17.2,
+    17.56
+   ],
+   [
+    "Despite",
+    18.3,
+    18.46
+   ],
+   [
+    "being",
+    18.46,
+    18.76
+   ],
+   [
+    "unpopular,",
+    18.76,
+    19.44
+   ],
+   [
+    "it",
+    19.66,
+    19.74
+   ],
+   [
+    "became",
+    19.88,
+    19.98
+   ],
+   [
+    "the",
+    19.98,
+    20.18
+   ],
+   [
+    "last",
+    20.18,
+    20.56
+   ],
+   [
+    "surviving",
+    20.56,
+    20.92
+   ],
+   [
+    "wooden",
+    20.92,
+    21.32
+   ],
+   [
+    "bridge",
+    21.32,
+    21.62
+   ],
+   [
+    "on",
+    21.62,
+    21.84
+   ],
+   [
+    "the",
+    21.84,
+    21.94
+   ],
+   [
+    "Thames.",
+    21.94,
+    22.34
+   ],
+   [
+    "Even",
+    22.72,
+    22.84
+   ],
+   [
+    "famous",
+    22.84,
+    23.2
+   ],
+   [
+    "artists",
+    23.2,
+    23.7
+   ],
+   [
+    "like",
+    23.7,
+    23.98
+   ],
+   [
+    "Whistler",
+    23.98,
+    24.4
+   ],
+   [
+    "painted",
+    24.4,
+    24.8
+   ],
+   [
+    "this",
+    24.8,
+    25.08
+   ],
+   [
+    "shaky",
+    25.32,
+    25.42
+   ],
+   [
+    "structure.",
+    25.42,
+    25.6
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   29,
+   39,
+   49,
+   62
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Fulham_LCCN2003687676.jpg/960px-Fulham_LCCN2003687676.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 484,
+   "license": "Public domain",
+   "artist": "Whistler, James Abbott McNeill, 1834-1903, artist",
+   "page": "https://commons.wikimedia.org/wiki/File:Fulham_LCCN2003687676.jpg",
+   "desc": "Fulham LCCN2003687676 — Published as Chelsea: showing old Battersea Bridge and Chelsea Old Church on the River Thames (seen in reverse); mistakenly catalogued as Fulham Abstract/medium: etching ; 13.1 x 20.5 cm."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Rocque_Battersea.png/960px-Rocque_Battersea.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 819,
+   "license": "Public domain",
+   "artist": "John Rocque (1709?–62)",
+   "page": "https://commons.wikimedia.org/wiki/File:Rocque_Battersea.png",
+   "desc": "Rocque Battersea — Battersea &amp; Chelsea, 1746"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Battersea_bridge_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 332,
+   "license": "CC BY-SA 2.5",
+   "artist": "Fin Fahey",
+   "page": "https://commons.wikimedia.org/wiki/File:Battersea_bridge_1.jpg",
+   "desc": "Battersea bridge 1 — Battersea Bridge, River Thames, London, looking downstream from the north bank. Albert Bridge in background."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/James_Abbot_McNeill_Whistler_006.jpg/960px-James_Abbot_McNeill_Whistler_006.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 951,
+   "license": "Public domain",
+   "artist": "James McNeill Whistler",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Abbot_McNeill_Whistler_006.jpg",
+   "desc": "James Abbot McNeill Whistler 006 — "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  51.481,
+  -0.172
+ ],
+ "qid": "Q810945",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Battersea Bridge",
+  "url": "https://en.wikipedia.org/wiki/Battersea_Bridge",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:47:49Z",
+ "trimmed": true
+}
