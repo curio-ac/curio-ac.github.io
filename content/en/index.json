@@ -37,7 +37,8 @@
   "Leonardo da Vinci",
   "Immune system",
   "Creek Turnpike",
-  "Jonathan Agnew"
+  "Jonathan Agnew",
+  "nasa:1378211"
  ],
  "rejected": [
   "Chameleon",
@@ -162,6 +163,9 @@
   ],
   "Jonathan Agnew": [
    "Aggers: From Bowler to Broadcaster: Jonathan Agnew is nicknamed after a US Vice-president."
+  ],
+  "nasa:1378211": [
+   "Perseverance's Mars Panorama: NASA’s Perseverance rover captured a massive 360-degree panorama."
   ]
  },
  "exhausted": []
