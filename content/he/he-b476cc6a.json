@@ -1,0 +1,398 @@
+{
+ "id": "he-b476cc6a",
+ "lang": "he",
+ "title": "הפרפר שנודד 4,500 קילומטרים",
+ "cat": "biology",
+ "emoji": "🦋",
+ "sentences": [
+  "הדנאית המלכותית היא פרפר שנודד מעל 4,500 קילומטרים.",
+  "היא חיה בעיקר באמריקה הצפונית אך הגיעה גם לאוסטרליה.",
+  "ייתכן שהשם 'מונרך' ניתן לה לכבוד המלך ויליאם ה-3.",
+  "הכנפיים שלה כתומות עם עורקים שחורים ונקודות לבנות.",
+  "היא אוכלת צמחים רעילים שפוגעים בטורפים שינסו לאכול אותה.",
+  "כל פרפר משתתף במסע המדהים הזה פעם אחת בלבד בחייו."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הדנאית",
+    0.28,
+    0.86
+   ],
+   [
+    "המלכותית",
+    0.86,
+    1.62
+   ],
+   [
+    "היא",
+    1.62,
+    1.82
+   ],
+   [
+    "פרפר",
+    1.88,
+    2.26
+   ],
+   [
+    "שנודד",
+    2.26,
+    2.94
+   ],
+   [
+    "מעל",
+    2.94,
+    3.36
+   ],
+   [
+    "4,500",
+    3.36,
+    4.6
+   ],
+   [
+    "קילומטרים.",
+    4.6,
+    5.26
+   ],
+   [
+    "היא",
+    6.04,
+    6.14
+   ],
+   [
+    "חיה",
+    6.14,
+    6.32
+   ],
+   [
+    "בעיקר",
+    6.32,
+    6.74
+   ],
+   [
+    "באמריקה",
+    6.74,
+    7.28
+   ],
+   [
+    "הצפונית",
+    7.28,
+    7.84
+   ],
+   [
+    "אך",
+    8.06,
+    8.16
+   ],
+   [
+    "הגיעה",
+    8.16,
+    8.46
+   ],
+   [
+    "גם",
+    8.46,
+    8.56
+   ],
+   [
+    "לאוסטרליה.",
+    8.56,
+    9.12
+   ],
+   [
+    "ייתכן",
+    10.0,
+    10.12
+   ],
+   [
+    "שהשם",
+    10.12,
+    10.54
+   ],
+   [
+    "'מונרך'",
+    10.54,
+    11.24
+   ],
+   [
+    "ניתן",
+    11.56,
+    11.82
+   ],
+   [
+    "לה",
+    11.82,
+    11.92
+   ],
+   [
+    "לכבוד",
+    11.92,
+    12.22
+   ],
+   [
+    "המלך",
+    12.22,
+    12.64
+   ],
+   [
+    "ויליאם",
+    12.64,
+    13.0
+   ],
+   [
+    "ה-3.",
+    13.0,
+    13.44
+   ],
+   [
+    "הכנפיים",
+    14.4,
+    14.52
+   ],
+   [
+    "שלה",
+    14.52,
+    14.82
+   ],
+   [
+    "כתומות",
+    15.04,
+    15.4
+   ],
+   [
+    "עם",
+    15.4,
+    15.5
+   ],
+   [
+    "עורקים",
+    15.5,
+    16.02
+   ],
+   [
+    "שחורים",
+    16.02,
+    16.5
+   ],
+   [
+    "ונקודות",
+    16.5,
+    17.08
+   ],
+   [
+    "לבנות.",
+    17.08,
+    17.18
+   ],
+   [
+    "היא",
+    18.12,
+    18.22
+   ],
+   [
+    "אוכלת",
+    18.22,
+    18.54
+   ],
+   [
+    "צמחים",
+    18.58,
+    18.96
+   ],
+   [
+    "רעילים",
+    18.96,
+    19.44
+   ],
+   [
+    "שפוגעים",
+    19.58,
+    20.1
+   ],
+   [
+    "בטורפים",
+    20.1,
+    20.56
+   ],
+   [
+    "שינסו",
+    20.56,
+    20.98
+   ],
+   [
+    "לאכול",
+    20.98,
+    21.3
+   ],
+   [
+    "אותה.",
+    21.3,
+    21.4
+   ],
+   [
+    "כל",
+    22.4,
+    22.52
+   ],
+   [
+    "פרפר",
+    22.52,
+    22.98
+   ],
+   [
+    "משתתף",
+    22.98,
+    23.72
+   ],
+   [
+    "במסע",
+    23.78,
+    24.18
+   ],
+   [
+    "המדהים",
+    24.18,
+    24.74
+   ],
+   [
+    "הזה",
+    24.74,
+    24.94
+   ],
+   [
+    "פעם",
+    24.94,
+    25.62
+   ],
+   [
+    "אחת",
+    25.62,
+    26.08
+   ],
+   [
+    "בלבד",
+    26.16,
+    26.64
+   ],
+   [
+    "בחייו.",
+    26.64,
+    27.32
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   34,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Monarch_Butterfly_Showy_Male_3000px.jpg/960px-Monarch_Butterfly_Showy_Male_3000px.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "GFDL 1.2",
+   "artist": "Photo (c)2006 Derek Ramsey (Ram-Man)",
+   "page": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Showy_Male_3000px.jpg",
+   "desc": "Monarch Butterfly Showy Male 3000px — Photograph of a male Monarch butterfly (Danaus plexippus en ). This butterfly was stationary on a leaf with his wings outstretched in an attempt to show off and attract a mate. The picture was taken in the butterfly hous"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MonarchDistribution2-3a.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 316,
+   "license": "CC BY-SA 3.0",
+   "artist": "Harald Süpfle &amp; Wiz9999",
+   "page": "https://commons.wikimedia.org/wiki/File:MonarchDistribution2-3a.png",
+   "desc": "MonarchDistribution2-3a — Distribution of Monarch Butterfly Danaus plexippus (small, with dates)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Godefridus_Schalcken_-_Portrait_of_Stadholder-King_William_III_%281650-_1702%29_-_158_-_Mauritshuis.jpg/960px-Godefridus_Schalcken_-_Portrait_of_Stadholder-King_William_III_%281650-_1702%29_-_158_-_Mauritshuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 791,
+   "license": "Public domain",
+   "artist": "Godfried Schalcken",
+   "page": "https://commons.wikimedia.org/wiki/File:Godefridus_Schalcken_-_Portrait_of_Stadholder-King_William_III_(1650-_1702)_-_158_-_Mauritshuis.jpg",
+   "desc": "Godefridus Schalcken - Portrait of Stadholder-King William III (1650- 1702) - 158 - Mauritshuis — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Monarch_Butterfly_Pink_Zinnia_1800px.jpg/960px-Monarch_Butterfly_Pink_Zinnia_1800px.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 800,
+   "license": "GFDL 1.2",
+   "artist": "Photo (c)2006 Derek Ramsey (Ram-Man)",
+   "page": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Pink_Zinnia_1800px.jpg",
+   "desc": "Monarch Butterfly Pink Zinnia 1800px — Photograph of a Monarch butterfly (Danaus plexippus en ) on an unidentified Zinnia flower. The picture was taken in Aston Township, Pennsylvania."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Monarch_Butterfly_Danaus_plexippus_on_Milkweed_Hybrid_2800px.jpg/960px-Monarch_Butterfly_Danaus_plexippus_on_Milkweed_Hybrid_2800px.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 476,
+   "license": "GFDL 1.2",
+   "artist": "Photo by and (c)2008 Derek Ramsey (Ram-Man)",
+   "page": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_on_Milkweed_Hybrid_2800px.jpg",
+   "desc": "Monarch Butterfly Danaus plexippus on Milkweed Hybrid 2800px — Photograph of a female Monarch Butterflyen (Danaus plexippus en ) on a Mexican Milkweeden (Asclepias curassavica en 'Silky Gold'). The picture was taken in Aston Township, Pennsylvania."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 4500,
+   "unit": "ק\"מ",
+   "label": "מרחק נדידה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "butterfly wings",
+   "box": [
+    31,
+    118,
+    465,
+    574
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "פעם",
+   "label": "מספר נדידות"
+  }
+ ],
+ "geo": null,
+ "qid": "Q212398",
+ "pron_wer": 0.037,
+ "angle": 1,
+ "source": {
+  "title": "דנאית מלכותית",
+  "url": "https://he.wikipedia.org/wiki/%D7%93%D7%A0%D7%90%D7%99%D7%AA_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA%D7%99%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T05:43:18Z",
+ "trimmed": true
+}
