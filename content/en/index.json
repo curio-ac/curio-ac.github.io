@@ -49,7 +49,8 @@
   "1909 Chinese provincial elections",
   "nasa:1505194",
   "Battersea Bridge",
-  "nasa:1509895"
+  "nasa:1509895",
+  "Bulgaria"
  ],
  "rejected": [
   "Chameleon",
@@ -217,6 +218,9 @@
   ],
   "nasa:1509895": [
    "Curiosity's 49th Drill Hole: NASA's Curiosity drilled its 49th hole on Mars."
+  ],
+  "Bulgaria": [
+   "Ancient Bulgarian Roots: Bulgaria has roots going back to 6,500 BC!"
   ]
  },
  "exhausted": []

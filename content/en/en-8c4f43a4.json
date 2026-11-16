@@ -1,0 +1,416 @@
+{
+ "id": "en-8c4f43a4",
+ "lang": "en",
+ "title": "How the Sun Shaped Earth",
+ "cat": "space",
+ "emoji": "☀️",
+ "sentences": [
+  "Our solar system has a massive protective bubble called the heliosphere.",
+  "Interstellar cold clouds have pushed against this bubble in the past.",
+  "This caused the heliosphere to shrink smaller than Earth's orbit.",
+  "Our planet was exposed to entirely different galactic surroundings.",
+  "These ancient cosmic encounters may have driven Earth's ice ages.",
+  "NASA is using computer models to trace this hidden history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Our",
+    0.16,
+    0.16
+   ],
+   [
+    "solar",
+    0.16,
+    0.46
+   ],
+   [
+    "system",
+    0.46,
+    0.9
+   ],
+   [
+    "has",
+    0.9,
+    1.14
+   ],
+   [
+    "a",
+    1.14,
+    1.28
+   ],
+   [
+    "massive",
+    1.28,
+    1.7
+   ],
+   [
+    "protective",
+    1.7,
+    2.22
+   ],
+   [
+    "bubble",
+    2.24,
+    2.64
+   ],
+   [
+    "called",
+    2.64,
+    3.08
+   ],
+   [
+    "the",
+    3.08,
+    3.26
+   ],
+   [
+    "heliosphere.",
+    3.26,
+    4.36
+   ],
+   [
+    "Interstellar",
+    4.54,
+    5.12
+   ],
+   [
+    "cold",
+    5.12,
+    5.36
+   ],
+   [
+    "clouds",
+    5.36,
+    5.9
+   ],
+   [
+    "have",
+    5.9,
+    6.06
+   ],
+   [
+    "pushed",
+    6.3,
+    6.44
+   ],
+   [
+    "against",
+    6.44,
+    6.74
+   ],
+   [
+    "this",
+    6.74,
+    7.04
+   ],
+   [
+    "bubble",
+    7.12,
+    7.28
+   ],
+   [
+    "in",
+    7.28,
+    7.46
+   ],
+   [
+    "the",
+    7.46,
+    7.52
+   ],
+   [
+    "past.",
+    7.52,
+    7.8
+   ],
+   [
+    "This",
+    8.5,
+    8.6
+   ],
+   [
+    "caused",
+    8.6,
+    8.86
+   ],
+   [
+    "the",
+    8.86,
+    9.04
+   ],
+   [
+    "heliosphere",
+    9.08,
+    9.58
+   ],
+   [
+    "to",
+    9.58,
+    9.76
+   ],
+   [
+    "shrink",
+    9.76,
+    10.12
+   ],
+   [
+    "smaller",
+    10.12,
+    10.66
+   ],
+   [
+    "than",
+    10.66,
+    10.94
+   ],
+   [
+    "Earth's",
+    11.26,
+    11.36
+   ],
+   [
+    "orbit.",
+    11.36,
+    12.06
+   ],
+   [
+    "Our",
+    12.36,
+    12.48
+   ],
+   [
+    "planet",
+    12.48,
+    12.8
+   ],
+   [
+    "was",
+    12.8,
+    13.0
+   ],
+   [
+    "exposed",
+    13.0,
+    13.34
+   ],
+   [
+    "to",
+    13.34,
+    13.68
+   ],
+   [
+    "entirely",
+    13.68,
+    14.22
+   ],
+   [
+    "different",
+    14.22,
+    14.84
+   ],
+   [
+    "galactic",
+    15.02,
+    15.32
+   ],
+   [
+    "surroundings.",
+    15.32,
+    15.82
+   ],
+   [
+    "These",
+    16.58,
+    16.72
+   ],
+   [
+    "ancient",
+    16.72,
+    17.16
+   ],
+   [
+    "cosmic",
+    17.16,
+    17.62
+   ],
+   [
+    "encounters",
+    17.7,
+    18.12
+   ],
+   [
+    "may",
+    18.12,
+    18.58
+   ],
+   [
+    "have",
+    18.58,
+    18.8
+   ],
+   [
+    "driven",
+    18.94,
+    19.08
+   ],
+   [
+    "Earth's",
+    19.08,
+    19.6
+   ],
+   [
+    "ice",
+    19.72,
+    19.86
+   ],
+   [
+    "ages.",
+    19.86,
+    19.98
+   ],
+   [
+    "NASA",
+    20.84,
+    21.12
+   ],
+   [
+    "is",
+    21.12,
+    21.4
+   ],
+   [
+    "using",
+    21.4,
+    21.66
+   ],
+   [
+    "computer",
+    21.66,
+    22.0
+   ],
+   [
+    "models",
+    22.0,
+    22.44
+   ],
+   [
+    "to",
+    22.44,
+    22.64
+   ],
+   [
+    "trace",
+    22.9,
+    23.02
+   ],
+   [
+    "this",
+    23.02,
+    23.3
+   ],
+   [
+    "hidden",
+    23.3,
+    23.66
+   ],
+   [
+    "history.",
+    23.66,
+    24.36
+   ]
+  ],
+  "b": [
+   0,
+   11,
+   22,
+   32,
+   41,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Voyagers_in_the_Heliosheath.jpg/960px-Voyagers_in_the_Heliosheath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyagers_in_the_Heliosheath.jpg",
+   "desc": "Voyagers in the Heliosheath — This artist's concept shows NASA's two Voyager spacecraft exploring a turbulent region of space known as the heliosheath, the outer shell of the bubble of charged particles around our sun. After more than 33 years of tra"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/The_Rho_Ophiuchi_star_formation_region%2C_where_hydrogen_peroxide_has_been_detected_in_space_%28annotated%29_%28eso1123a%29.jpg/960px-The_Rho_Ophiuchi_star_formation_region%2C_where_hydrogen_peroxide_has_been_detected_in_space_%28annotated%29_%28eso1123a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 4.0",
+   "artist": "ESO/S. Guisard (www.eso.org/~sguisard)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Rho_Ophiuchi_star_formation_region,_where_hydrogen_peroxide_has_been_detected_in_space_(annotated)_(eso1123a).jpg",
+   "desc": "The Rho Ophiuchi star formation region, where hydrogen peroxide has been detected in space (annotated) (eso1123a) — The colourful Rho Ophiuchi star formation region, about 400 light-years from Earth, contains very cold (around -250 degrees Celsius), dense clou"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/960px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 654,
+   "license": "CC BY 4.0",
+   "artist": "ESO/Yuri Beletsky (ybialets at eso.org)",
+   "page": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+   "desc": "Laser Towards Milky Ways Centre — In mid-August 2010 ESO Photo Ambassador Yuri Beletsky snapped this photo at ESO’s Paranal Observatory, Chile. A group of astronomers were observing the centre of the Milky Way using the laser guide star facility at Yepun"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Southern_Patagonia_Ice_Field_from_ISS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA ISS astronaut photo",
+   "page": "https://commons.wikimedia.org/wiki/File:Southern_Patagonia_Ice_Field_from_ISS.jpg",
+   "desc": "Southern Patagonia Ice Field from ISS — This grand panorama of the Southern Patagonia Ice Field was photographed by a crew member aboard the International Space Station (ISS) on a rare clear day in the southern Andes Mountains. With an area of 13,000 square ki"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
+  "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:50:06Z",
+ "trimmed": true
+}
