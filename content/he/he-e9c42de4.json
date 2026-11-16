@@ -1,0 +1,445 @@
+{
+ "id": "he-e9c42de4",
+ "lang": "he",
+ "title": "העוף שצולל לעומק מטורף",
+ "cat": "biology",
+ "emoji": "🐧",
+ "sentences": [
+  "הפינגווין הקיסרי יכול לעצור את הנשימה ל-18 דקות!",
+  "זהו הפינגווין הגבוה והכבד ביותר, והוא אנדמי לאנטארקטיקה.",
+  "הוא צולל לעומק של כ-530 מטרים כדי לצוד דגים ודיונונים.",
+  "העצמות שלו אינן חלולות כדי להפחית את פגיעת הלחץ.",
+  "יש לו המוגלובין ייחודי שמסייע לו לתפקד ברמות חמצן נמוכות.",
+  "בעונת הרבייה הפינגווינים נודדים עד 120 ק\"מ על הקרח.",
+  "בשעת הצורך, הוא פשוט משבית איברים שאינם הכרחיים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הפינגווין",
+    0.35,
+    0.65
+   ],
+   [
+    "הקיסרי",
+    0.65,
+    1.11
+   ],
+   [
+    "יכול",
+    1.11,
+    1.35
+   ],
+   [
+    "לעצור",
+    1.35,
+    1.77
+   ],
+   [
+    "את",
+    1.77,
+    1.89
+   ],
+   [
+    "הנשימה",
+    1.89,
+    2.33
+   ],
+   [
+    "ל-18",
+    2.33,
+    3.11
+   ],
+   [
+    "דקות!",
+    3.11,
+    3.89
+   ],
+   [
+    "זהו",
+    4.59,
+    4.71
+   ],
+   [
+    "הפינגווין",
+    4.71,
+    5.13
+   ],
+   [
+    "הגבוה",
+    5.13,
+    5.55
+   ],
+   [
+    "והכבד",
+    5.55,
+    6.13
+   ],
+   [
+    "ביותר,",
+    6.13,
+    6.79
+   ],
+   [
+    "והוא",
+    6.79,
+    6.87
+   ],
+   [
+    "אנדמי",
+    6.87,
+    7.25
+   ],
+   [
+    "לאנטארקטיקה.",
+    7.25,
+    7.61
+   ],
+   [
+    "הוא",
+    8.41,
+    8.47
+   ],
+   [
+    "צולל",
+    8.47,
+    8.81
+   ],
+   [
+    "לעומק",
+    8.81,
+    9.09
+   ],
+   [
+    "של",
+    9.09,
+    9.25
+   ],
+   [
+    "כ-530",
+    9.49,
+    10.15
+   ],
+   [
+    "מטרים",
+    10.15,
+    10.65
+   ],
+   [
+    "כדי",
+    10.65,
+    10.95
+   ],
+   [
+    "לצוד",
+    10.95,
+    11.23
+   ],
+   [
+    "דגים",
+    11.23,
+    11.53
+   ],
+   [
+    "ודיונונים.",
+    11.53,
+    12.09
+   ],
+   [
+    "העצמות",
+    12.73,
+    13.11
+   ],
+   [
+    "שלו",
+    13.11,
+    13.29
+   ],
+   [
+    "אינן",
+    13.29,
+    13.53
+   ],
+   [
+    "חלולות",
+    13.53,
+    14.01
+   ],
+   [
+    "כדי",
+    14.01,
+    14.25
+   ],
+   [
+    "להפחית",
+    14.51,
+    14.61
+   ],
+   [
+    "את",
+    14.61,
+    14.69
+   ],
+   [
+    "פגיעת",
+    14.69,
+    15.07
+   ],
+   [
+    "הלחץ.",
+    15.07,
+    15.37
+   ],
+   [
+    "יש",
+    15.97,
+    16.07
+   ],
+   [
+    "לו",
+    16.07,
+    16.19
+   ],
+   [
+    "המוגלובין",
+    16.19,
+    16.75
+   ],
+   [
+    "ייחודי",
+    16.75,
+    17.23
+   ],
+   [
+    "שמסייע",
+    17.23,
+    17.79
+   ],
+   [
+    "לו",
+    17.79,
+    17.89
+   ],
+   [
+    "לתפקד",
+    17.89,
+    18.37
+   ],
+   [
+    "ברמות",
+    18.37,
+    18.69
+   ],
+   [
+    "חמצן",
+    18.97,
+    19.13
+   ],
+   [
+    "נמוכות.",
+    19.13,
+    19.29
+   ],
+   [
+    "בעונת",
+    20.21,
+    20.47
+   ],
+   [
+    "הרבייה",
+    20.47,
+    20.91
+   ],
+   [
+    "הפינגווינים",
+    20.91,
+    21.63
+   ],
+   [
+    "נודדים",
+    21.63,
+    21.99
+   ],
+   [
+    "עד",
+    21.99,
+    22.15
+   ],
+   [
+    "120",
+    22.15,
+    22.63
+   ],
+   [
+    "ק\"מ",
+    22.63,
+    23.35
+   ],
+   [
+    "על",
+    23.35,
+    23.53
+   ],
+   [
+    "הקרח.",
+    23.53,
+    23.79
+   ],
+   [
+    "בשעת",
+    24.73,
+    24.91
+   ],
+   [
+    "הצורך,",
+    24.91,
+    25.29
+   ],
+   [
+    "הוא",
+    25.59,
+    25.65
+   ],
+   [
+    "פשוט",
+    25.79,
+    25.99
+   ],
+   [
+    "משבית",
+    25.99,
+    26.41
+   ],
+   [
+    "איברים",
+    26.63,
+    26.73
+   ],
+   [
+    "שאינם",
+    26.73,
+    27.27
+   ],
+   [
+    "הכרחיים.",
+    27.27,
+    27.39
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   26,
+   35,
+   45,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cape_Hallett_With_Penguins.jpg/960px-Cape_Hallett_With_Penguins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 2.0",
+   "artist": "owamux",
+   "page": "https://commons.wikimedia.org/wiki/File:Cape_Hallett_With_Penguins.jpg",
+   "desc": "Cape Hallett With Penguins — An Emperor Penguin and an Adélie Penguin take a rest on sea ice just off of Cape Hallett."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Manchot_empereur_carte_reparition.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 679,
+   "license": "CC BY-SA 3.0",
+   "artist": "Sébastien Bruchet",
+   "page": "https://commons.wikimedia.org/wiki/File:Manchot_empereur_carte_reparition.png",
+   "desc": "Manchot empereur carte reparition — Emperor Penguin (Aptenodytes forsteri) - Habitat map and breeding areas. Red: areas where the Emperor Penguin lives. Green: areas where the Emperor Penguin breeds."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Aptenodytes_forsteri_-Antarctica_-swimming-8.jpg/960px-Aptenodytes_forsteri_-Antarctica_-swimming-8.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 2.0",
+   "artist": "Ian Duffy from UK",
+   "page": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Antarctica_-swimming-8.jpg",
+   "desc": "Aptenodytes forsteri -Antarctica -swimming-8 — Emperor Penguins swimming in Antarctica."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hemoglob%C3%AEn_ku.png/960px-Hemoglob%C3%AEn_ku.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "https://openstax.org.",
+   "page": "https://commons.wikimedia.org/wiki/File:Hemoglob%C3%AEn_ku.png",
+   "desc": "Hemoglobîn ku — Structure of a hemoglobin molecule."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kaiserpinguine_mit_Jungen.jpg/960px-Kaiserpinguine_mit_Jungen.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 473,
+   "license": "Public domain",
+   "artist": "Image ID: corp2417, NOAA Corps Collection Photographer: Giuseppe Zibordi Credit:",
+   "page": "https://commons.wikimedia.org/wiki/File:Kaiserpinguine_mit_Jungen.jpg",
+   "desc": "Kaiserpinguine mit Jungen — Kaiserpinguine mit Jungen"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 18,
+   "unit": "דקות",
+   "label": "עצירת נשימה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 530,
+   "unit": "מטרים",
+   "label": "עומק צלילה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 120,
+   "unit": "ק\"מ",
+   "label": "מרחק נדידה"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q161829",
+ "pron_wer": 0.077,
+ "angle": 0,
+ "source": {
+  "title": "פינגווין קיסרי",
+  "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A0%D7%92%D7%95%D7%95%D7%99%D7%9F_%D7%A7%D7%99%D7%A1%D7%A8%D7%99",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T05:42:05Z",
+ "trimmed": true
+}
