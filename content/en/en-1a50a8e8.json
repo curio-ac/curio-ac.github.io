@@ -1,0 +1,343 @@
+{
+ "id": "en-1a50a8e8",
+ "lang": "en",
+ "title": "New NASA Galactic Gallery",
+ "cat": "space",
+ "emoji": "✨",
+ "sentences": [
+  "Cosmic gems shine in 16 new images.",
+  "NASA released this gallery from Chandra and other telescopes.",
+  "Astronomy groups galaxies into spirals, ellipticals, and irregulars.",
+  "Each image combines Chandra X-ray data with Webb and Hubble observations.",
+  "These distant views help scientists study Earth's place in the Milky Way."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cosmic",
+    0.35,
+    0.59
+   ],
+   [
+    "gems",
+    0.67,
+    0.91
+   ],
+   [
+    "shine",
+    0.91,
+    1.27
+   ],
+   [
+    "in",
+    1.27,
+    1.49
+   ],
+   [
+    "16",
+    1.49,
+    1.89
+   ],
+   [
+    "new",
+    1.89,
+    2.21
+   ],
+   [
+    "images.",
+    2.21,
+    2.55
+   ],
+   [
+    "NASA",
+    3.25,
+    3.47
+   ],
+   [
+    "released",
+    3.47,
+    3.93
+   ],
+   [
+    "this",
+    3.93,
+    4.17
+   ],
+   [
+    "gallery",
+    4.17,
+    4.53
+   ],
+   [
+    "from",
+    4.53,
+    4.79
+   ],
+   [
+    "Chandra",
+    4.79,
+    5.25
+   ],
+   [
+    "and",
+    5.25,
+    5.61
+   ],
+   [
+    "other",
+    5.61,
+    5.83
+   ],
+   [
+    "telescopes.",
+    5.83,
+    6.29
+   ],
+   [
+    "Astronomy",
+    7.07,
+    7.63
+   ],
+   [
+    "groups",
+    7.63,
+    7.91
+   ],
+   [
+    "galaxies",
+    7.91,
+    8.51
+   ],
+   [
+    "into",
+    8.51,
+    8.81
+   ],
+   [
+    "spirals,",
+    8.81,
+    9.41
+   ],
+   [
+    "ellipticals,",
+    9.69,
+    9.95
+   ],
+   [
+    "and",
+    10.49,
+    10.53
+   ],
+   [
+    "irregulars.",
+    10.53,
+    11.03
+   ],
+   [
+    "Each",
+    11.79,
+    11.93
+   ],
+   [
+    "image",
+    12.03,
+    12.29
+   ],
+   [
+    "combines",
+    12.29,
+    12.71
+   ],
+   [
+    "Chandra",
+    12.71,
+    13.33
+   ],
+   [
+    "X-ray",
+    13.33,
+    13.81
+   ],
+   [
+    "data",
+    13.81,
+    14.11
+   ],
+   [
+    "with",
+    14.11,
+    14.33
+   ],
+   [
+    "Webb",
+    14.33,
+    14.67
+   ],
+   [
+    "and",
+    14.67,
+    14.91
+   ],
+   [
+    "Hubble",
+    14.91,
+    15.15
+   ],
+   [
+    "observations.",
+    15.15,
+    15.75
+   ],
+   [
+    "These",
+    16.59,
+    16.71
+   ],
+   [
+    "distant",
+    16.71,
+    17.11
+   ],
+   [
+    "views",
+    17.11,
+    17.49
+   ],
+   [
+    "help",
+    17.49,
+    17.81
+   ],
+   [
+    "scientists",
+    17.81,
+    18.41
+   ],
+   [
+    "study",
+    18.41,
+    18.79
+   ],
+   [
+    "Earth's",
+    18.79,
+    19.23
+   ],
+   [
+    "place",
+    19.35,
+    19.45
+   ],
+   [
+    "in",
+    19.45,
+    19.69
+   ],
+   [
+    "the",
+    19.69,
+    19.79
+   ],
+   [
+    "Milky",
+    19.79,
+    20.01
+   ],
+   [
+    "Way.",
+    20.01,
+    20.35
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   35
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Galaxy_Gallery%E2%80%93_Galactic_Gems_Glisten_in_New_Gallery_From_NASA%27s_Chandra_%28Unlabeled%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 523,
+   "license": "Public domain",
+   "artist": "NASA/CXC/SAO",
+   "page": "https://commons.wikimedia.org/wiki/File:Galaxy_Gallery%E2%80%93_Galactic_Gems_Glisten_in_New_Gallery_From_NASA%27s_Chandra_(Unlabeled).jpg",
+   "desc": "Galaxy Gallery– Galactic Gems Glisten in New Gallery From NASA's Chandra (Unlabeled) — This gallery displays a collection of 16 galactic images from Chandra and other telescopes. Astronomers put galaxies into three main categories: spirals like our own Milky W"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Galaxy_Gallery%E2%80%93_Galactic_Gems_Glisten_in_New_Gallery_From_NASA%27s_Chandra_%28Labelled%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 523,
+   "license": "Public domain",
+   "artist": "NASA/CXC/SAO",
+   "page": "https://commons.wikimedia.org/wiki/File:Galaxy_Gallery%E2%80%93_Galactic_Gems_Glisten_in_New_Gallery_From_NASA%27s_Chandra_(Labelled).jpg",
+   "desc": "Galaxy Gallery– Galactic Gems Glisten in New Gallery From NASA's Chandra (Labelled) — This gallery displays a collection of 16 galactic images from Chandra and other telescopes. Astronomers put galaxies into three main categories: spirals like our own Milky Wa"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Galaxy_Gallery%E2%80%93_Galactic_Gems_Glisten_in_New_Gallery_From_NASA%27s_Chandra_%28NGC_1672_Composite%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 512,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/SAO; Optical: NASA/ESA/STScI/Hubble Heritage Team; Infrared: NAS",
+   "page": "https://commons.wikimedia.org/wiki/File:Galaxy_Gallery%E2%80%93_Galactic_Gems_Glisten_in_New_Gallery_From_NASA%27s_Chandra_(NGC_1672_Composite).jpg",
+   "desc": "Galaxy Gallery– Galactic Gems Glisten in New Gallery From NASA's Chandra (NGC 1672 Composite) — A barred spiral galaxy featuring a prominent central bar or bridge of stars that channels gas toward its core. Chandra X-rays (purple) highlight growing black holes"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/960px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 654,
+   "license": "CC BY 4.0",
+   "artist": "ESO/Yuri Beletsky (ybialets at eso.org)",
+   "page": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+   "desc": "Laser Towards Milky Ways Centre — In mid-August 2010 ESO Photo Ambassador Yuri Beletsky snapped this photo at ESO’s Paranal Observatory, Chile. A group of astronomers were observing the centre of the Milky Way using the laser guide star facility at Yepun"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 16,
+   "unit": "images",
+   "label": "Cosmic gems shine"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/",
+ "pron_wer": 0.041,
+ "angle": 0,
+ "source": {
+  "title": "Galactic Gems Glisten in New Gallery From NASA’s Chandra",
+  "url": "https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:50:59Z",
+ "trimmed": true
+}
