@@ -1,0 +1,395 @@
+{
+ "id": "he-3eef0640",
+ "lang": "he",
+ "title": "היומן הסודי של אנגליה",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "הכרוניקה האנגלו-סקסונית היא לא תמיד אמת צרופה.",
+  "זהו תיעוד היסטורי מפורט של אנגליה מהתקופה הרומית ועד הכיבוש הנורמני.",
+  "הכתיבה החלה בממלכת וסקס בימי המלך אלפרד הגדול במאה ה-9.",
+  "הכרוניקה משמיטה אירועים חשובים ומציגה לעיתים גרסאות חד-צדדיות.",
+  "למרות הסתירות, זהו המקור החשוב ביותר להבנת התקופה.",
+  "היא גם אוצר בלום ללימוד תולדות השפה האנגלית העתיקה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הכרוניקה",
+    0.2,
+    0.76
+   ],
+   [
+    "האנגלו-סקסונית",
+    0.76,
+    1.7
+   ],
+   [
+    "היא",
+    1.74,
+    1.84
+   ],
+   [
+    "לא",
+    1.84,
+    2.04
+   ],
+   [
+    "תמיד",
+    2.04,
+    2.4
+   ],
+   [
+    "אמת",
+    2.4,
+    2.62
+   ],
+   [
+    "צרופה.",
+    2.62,
+    3.34
+   ],
+   [
+    "זהו",
+    3.8,
+    3.98
+   ],
+   [
+    "תיעוד",
+    3.98,
+    4.26
+   ],
+   [
+    "היסטורי",
+    4.26,
+    4.62
+   ],
+   [
+    "מפורט",
+    4.62,
+    5.0
+   ],
+   [
+    "של",
+    5.0,
+    5.14
+   ],
+   [
+    "אנגליה",
+    5.14,
+    5.62
+   ],
+   [
+    "מהתקופה",
+    5.62,
+    6.12
+   ],
+   [
+    "הרומית",
+    6.12,
+    6.6
+   ],
+   [
+    "ועד",
+    6.66,
+    6.86
+   ],
+   [
+    "הכיבוש",
+    6.86,
+    7.22
+   ],
+   [
+    "הנורמני.",
+    7.22,
+    7.64
+   ],
+   [
+    "הכתיבה",
+    8.28,
+    8.46
+   ],
+   [
+    "החלה",
+    8.46,
+    8.74
+   ],
+   [
+    "בממלכת",
+    8.74,
+    9.26
+   ],
+   [
+    "וסקס",
+    9.26,
+    9.82
+   ],
+   [
+    "בימי",
+    9.84,
+    10.08
+   ],
+   [
+    "המלך",
+    10.08,
+    10.46
+   ],
+   [
+    "אלפרד",
+    10.52,
+    10.9
+   ],
+   [
+    "הגדול",
+    10.9,
+    11.3
+   ],
+   [
+    "במאה",
+    11.36,
+    11.76
+   ],
+   [
+    "ה-9.",
+    11.76,
+    11.96
+   ],
+   [
+    "הכרוניקה",
+    12.98,
+    13.28
+   ],
+   [
+    "משמיטה",
+    13.28,
+    13.7
+   ],
+   [
+    "אירועים",
+    13.7,
+    14.0
+   ],
+   [
+    "חשובים",
+    14.0,
+    14.54
+   ],
+   [
+    "ומציגה",
+    14.54,
+    15.08
+   ],
+   [
+    "לעיתים",
+    15.08,
+    15.36
+   ],
+   [
+    "גרסאות",
+    15.36,
+    15.76
+   ],
+   [
+    "חד-צדדיות.",
+    15.76,
+    16.44
+   ],
+   [
+    "למרות",
+    17.14,
+    17.38
+   ],
+   [
+    "הסתירות,",
+    17.38,
+    17.8
+   ],
+   [
+    "זהו",
+    18.04,
+    18.16
+   ],
+   [
+    "המקור",
+    18.16,
+    18.44
+   ],
+   [
+    "החשוב",
+    18.44,
+    18.82
+   ],
+   [
+    "ביותר",
+    18.82,
+    19.16
+   ],
+   [
+    "להבנת",
+    19.16,
+    19.54
+   ],
+   [
+    "התקופה.",
+    19.54,
+    20.46
+   ],
+   [
+    "היא",
+    20.64,
+    20.72
+   ],
+   [
+    "גם",
+    20.72,
+    20.8
+   ],
+   [
+    "אוצר",
+    20.8,
+    21.04
+   ],
+   [
+    "בלום",
+    21.04,
+    21.36
+   ],
+   [
+    "ללימוד",
+    21.36,
+    21.72
+   ],
+   [
+    "תולדות",
+    21.72,
+    22.08
+   ],
+   [
+    "השפה",
+    22.08,
+    22.44
+   ],
+   [
+    "האנגלית",
+    22.44,
+    22.8
+   ],
+   [
+    "העתיקה.",
+    22.8,
+    23.2
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   28,
+   36,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Anglo-Saxon_Chronicle_-_C_-_871.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1053,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Anglo-Saxon_Chronicle_-_C_-_871.jpg",
+   "desc": "Anglo-Saxon Chronicle - C - 871 — A page from the C manuscript of the en:Anglo-Saxon Chronicle. It shows the entry for the year 871. British Library Cotton Tiberius B i."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Blmscottontiberiusbivfol20r_%28cropped%29.png/960px-Blmscottontiberiusbivfol20r_%28cropped%29.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1056,
+   "license": "Public domain",
+   "artist": "12th century scribe with 16th century annotations",
+   "page": "https://commons.wikimedia.org/wiki/File:Blmscottontiberiusbivfol20r_(cropped).png",
+   "desc": "Blmscottontiberiusbivfol20r (cropped) — Folio 20 reverse of the British Library ms Cotton Tiberius B.iv (aka Anglo-Saxon Chronicle version D, from Worcester). This particular page was annotated in the 16th century by John Joscelyn, who likely owned the manuscr"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Peterborough.Chronicle.firstpagetrimmed_%28cropped%29.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 498,
+   "license": "CC BY-SA 4.0",
+   "artist": "Peterborough.Chronicle.firstpage.jpg: en:User:Geogre derivative work: Hchc2009 (",
+   "page": "https://commons.wikimedia.org/wiki/File:Peterborough.Chronicle.firstpagetrimmed_(cropped).png",
+   "desc": "Peterborough.Chronicle.firstpagetrimmed (cropped) — The initial page of the Peterborough Chronicle, marked secondarily by the librarian of the Laud collection. The manuscript is an autograph of the monastic scribes of Peterborough. The opening sections were li"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Anglo-Saxon_Chronicle_-_C_-_871.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1053,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Anglo-Saxon_Chronicle_-_C_-_871.jpg",
+   "desc": "Anglo-Saxon Chronicle - C - 871 — A page from the C manuscript of the en:Anglo-Saxon Chronicle. It shows the entry for the year 871. British Library Cotton Tiberius B i."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Peterborough.Chronicle.firstpage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1101,
+   "license": "Public domain",
+   "artist": "Photographed by en:User:Geogre, original author, monastic scribes in Peterboroug",
+   "page": "https://commons.wikimedia.org/wiki/File:Peterborough.Chronicle.firstpage.jpg",
+   "desc": "Peterborough.Chronicle.firstpage — The initial page of the Peterborough Chronicle, marked secondarily by the librarian of the Laud collection. The manuscript is an autograph of the monastic scribes of Peterborough. The opening sections were likely scribed"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Peterborough.Chronicle.firstpagetrimmed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1086,
+   "license": "Public domain",
+   "artist": "Peterborough.Chronicle.firstpage.jpg: en:User:Geogre derivative work: Hchc2009 (",
+   "page": "https://commons.wikimedia.org/wiki/File:Peterborough.Chronicle.firstpagetrimmed.jpg",
+   "desc": "Peterborough.Chronicle.firstpagetrimmed — The initial page of the Peterborough Chronicle, marked secondarily by the librarian of the Laud collection. The manuscript is an autograph of the monastic scribes of Peterborough. The opening sections were likely scrib"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 5
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q212746",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "הכרוניקה האנגלו-סקסונית",
+  "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%A8%D7%95%D7%A0%D7%99%D7%A7%D7%94_%D7%94%D7%90%D7%A0%D7%92%D7%9C%D7%95-%D7%A1%D7%A7%D7%A1%D7%95%D7%A0%D7%99%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:08:43Z",
+ "trimmed": true
+}
