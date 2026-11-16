@@ -1,0 +1,373 @@
+{
+ "id": "en-f4f71aeb",
+ "lang": "en",
+ "title": "Secrets of the Octopus",
+ "cat": "biology",
+ "emoji": "🐙",
+ "sentences": [
+  "An octopus can radically deform its shape.",
+  "This lets it squeeze through small gaps.",
+  "They trail their appendages behind them as they swim backwards.",
+  "Using a siphon, they shoot water jets to move around.",
+  "With a complex nervous system, they are among the most intelligent invertebrates.",
+  "After delivering sperm, the male octopus becomes senescent and dies."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.08,
+    0.14
+   ],
+   [
+    "octopus",
+    0.14,
+    0.52
+   ],
+   [
+    "can",
+    0.52,
+    0.86
+   ],
+   [
+    "radically",
+    0.86,
+    1.44
+   ],
+   [
+    "deform",
+    1.48,
+    1.94
+   ],
+   [
+    "its",
+    1.94,
+    2.3
+   ],
+   [
+    "shape.",
+    2.3,
+    3.12
+   ],
+   [
+    "This",
+    3.18,
+    3.2
+   ],
+   [
+    "lets",
+    3.2,
+    3.44
+   ],
+   [
+    "it",
+    3.44,
+    3.62
+   ],
+   [
+    "squeeze",
+    3.62,
+    3.88
+   ],
+   [
+    "through",
+    3.88,
+    4.18
+   ],
+   [
+    "small",
+    4.18,
+    4.42
+   ],
+   [
+    "gaps.",
+    4.42,
+    4.7
+   ],
+   [
+    "They",
+    5.44,
+    5.52
+   ],
+   [
+    "trail",
+    5.54,
+    5.8
+   ],
+   [
+    "their",
+    5.8,
+    6.0
+   ],
+   [
+    "appendages",
+    6.0,
+    6.46
+   ],
+   [
+    "behind",
+    6.68,
+    6.78
+   ],
+   [
+    "them",
+    6.78,
+    7.02
+   ],
+   [
+    "as",
+    7.02,
+    7.26
+   ],
+   [
+    "they",
+    7.34,
+    7.44
+   ],
+   [
+    "swim",
+    7.44,
+    7.64
+   ],
+   [
+    "backwards.",
+    7.64,
+    7.92
+   ],
+   [
+    "Using",
+    9.1,
+    9.28
+   ],
+   [
+    "a",
+    9.28,
+    9.46
+   ],
+   [
+    "siphon,",
+    9.46,
+    9.91
+   ],
+   [
+    "they",
+    10.04,
+    10.06
+   ],
+   [
+    "shoot",
+    10.06,
+    10.36
+   ],
+   [
+    "water",
+    10.36,
+    10.68
+   ],
+   [
+    "jets",
+    10.68,
+    10.92
+   ],
+   [
+    "to",
+    10.92,
+    11.2
+   ],
+   [
+    "move",
+    11.2,
+    11.36
+   ],
+   [
+    "around.",
+    11.36,
+    11.66
+   ],
+   [
+    "With",
+    12.6,
+    12.7
+   ],
+   [
+    "a",
+    12.74,
+    12.84
+   ],
+   [
+    "complex",
+    12.84,
+    13.18
+   ],
+   [
+    "nervous",
+    13.18,
+    13.52
+   ],
+   [
+    "system,",
+    13.52,
+    14.12
+   ],
+   [
+    "they",
+    14.24,
+    14.3
+   ],
+   [
+    "are",
+    14.3,
+    14.42
+   ],
+   [
+    "among",
+    14.42,
+    14.6
+   ],
+   [
+    "the",
+    14.6,
+    14.76
+   ],
+   [
+    "most",
+    14.76,
+    14.92
+   ],
+   [
+    "intelligent",
+    14.92,
+    15.54
+   ],
+   [
+    "invertebrates.",
+    15.54,
+    15.94
+   ],
+   [
+    "After",
+    17.18,
+    17.36
+   ],
+   [
+    "delivering",
+    17.38,
+    17.72
+   ],
+   [
+    "sperm,",
+    17.72,
+    18.34
+   ],
+   [
+    "the",
+    18.5,
+    18.52
+   ],
+   [
+    "male",
+    18.52,
+    18.72
+   ],
+   [
+    "octopus",
+    19.06,
+    19.16
+   ],
+   [
+    "becomes",
+    19.16,
+    19.6
+   ],
+   [
+    "senescent",
+    19.6,
+    20.3
+   ],
+   [
+    "and",
+    20.3,
+    20.54
+   ],
+   [
+    "dies.",
+    20.54,
+    20.96
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   24,
+   34,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/960px-Octopus2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 548,
+   "license": "CC BY-SA 3.0",
+   "artist": "albert kok",
+   "page": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+   "desc": "Octopus2 — Octopus vulgaris (common octopus)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dumbo-hires_%28cropped%29.jpg/960px-Dumbo-hires_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 609,
+   "license": "Public domain",
+   "artist": "NOAA Okeanos Explorer",
+   "page": "https://commons.wikimedia.org/wiki/File:Dumbo-hires_(cropped).jpg",
+   "desc": "Dumbo-hires (cropped) — One of the highlights of the dive, a dumbo octopus (Grimpoteuthis) uses his ear-like fins to slowly swim away – this coiled leg body posture has never been observed before in this species."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q40152",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Octopus",
+  "url": "https://en.wikipedia.org/wiki/Octopus",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:07:30Z",
+ "trimmed": true
+}
