@@ -1,0 +1,344 @@
+{
+ "id": "he-07407136",
+ "lang": "he",
+ "title": "הסתיו המוקדם של קנדה",
+ "cat": "geography",
+ "emoji": "🍂",
+ "sentences": [
+  "הסתיו מגיע לקנדה מוקדם מאוד.",
+  "כבר ב-6 בספטמבר, הטונדרה בנונווט משנה את פניה.",
+  "צמחים כמו אוכמניות וערבות נצבעים באדום, כתום וצהוב.",
+  "זה קורה כשצמחים מאבדים כלורופיל בגלל פחות שמש.",
+  "פיגמנטים אחרים נחשפים וצובעים את הנוף.",
+  "שיא הצבע נמשך לפעמים רק שבוע אחד.",
+  "זהו אחד המקומות הראשונים בצפון אמריקה שמשנים צבע."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הסתיו",
+    0.28,
+    0.74
+   ],
+   [
+    "מגיע",
+    0.74,
+    1.08
+   ],
+   [
+    "לקנדה",
+    1.08,
+    1.62
+   ],
+   [
+    "מוקדם",
+    1.62,
+    2.08
+   ],
+   [
+    "מאוד.",
+    2.08,
+    2.18
+   ],
+   [
+    "כבר",
+    2.9,
+    3.04
+   ],
+   [
+    "ב-6",
+    3.04,
+    3.36
+   ],
+   [
+    "בספטמבר,",
+    3.36,
+    4.18
+   ],
+   [
+    "הטונדרה",
+    4.6,
+    4.88
+   ],
+   [
+    "בנונווט",
+    4.88,
+    5.42
+   ],
+   [
+    "משנה",
+    5.52,
+    5.8
+   ],
+   [
+    "את",
+    5.8,
+    5.92
+   ],
+   [
+    "פניה.",
+    5.92,
+    6.16
+   ],
+   [
+    "צמחים",
+    6.92,
+    7.34
+   ],
+   [
+    "כמו",
+    7.34,
+    7.62
+   ],
+   [
+    "אוכמניות",
+    7.62,
+    8.18
+   ],
+   [
+    "וערבות",
+    8.22,
+    8.66
+   ],
+   [
+    "נצבעים",
+    8.66,
+    9.14
+   ],
+   [
+    "באדום,",
+    9.14,
+    9.76
+   ],
+   [
+    "כתום",
+    10.16,
+    10.42
+   ],
+   [
+    "וצהוב.",
+    10.42,
+    11.04
+   ],
+   [
+    "זה",
+    11.5,
+    11.58
+   ],
+   [
+    "קורה",
+    11.58,
+    11.76
+   ],
+   [
+    "כשצמחים",
+    11.76,
+    12.34
+   ],
+   [
+    "מאבדים",
+    12.34,
+    12.6
+   ],
+   [
+    "כלורופיל",
+    12.6,
+    13.14
+   ],
+   [
+    "בגלל",
+    13.14,
+    13.42
+   ],
+   [
+    "פחות",
+    13.42,
+    13.78
+   ],
+   [
+    "שמש.",
+    13.78,
+    14.02
+   ],
+   [
+    "פיגמנטים",
+    14.76,
+    15.08
+   ],
+   [
+    "אחרים",
+    15.08,
+    15.44
+   ],
+   [
+    "נחשפים",
+    15.44,
+    15.96
+   ],
+   [
+    "וצובעים",
+    15.96,
+    16.5
+   ],
+   [
+    "את",
+    16.5,
+    16.58
+   ],
+   [
+    "הנוף.",
+    16.58,
+    16.68
+   ],
+   [
+    "שיא",
+    17.7,
+    17.84
+   ],
+   [
+    "הצבע",
+    17.84,
+    18.16
+   ],
+   [
+    "נמשך",
+    18.16,
+    18.62
+   ],
+   [
+    "לפעמים",
+    18.82,
+    18.98
+   ],
+   [
+    "רק",
+    18.98,
+    19.14
+   ],
+   [
+    "שבוע",
+    19.14,
+    19.62
+   ],
+   [
+    "אחד.",
+    19.62,
+    19.98
+   ],
+   [
+    "זהו",
+    20.6,
+    20.7
+   ],
+   [
+    "אחד",
+    20.7,
+    20.86
+   ],
+   [
+    "המקומות",
+    20.86,
+    21.36
+   ],
+   [
+    "הראשונים",
+    21.36,
+    21.82
+   ],
+   [
+    "בצפון",
+    21.82,
+    22.24
+   ],
+   [
+    "אמריקה",
+    22.24,
+    22.74
+   ],
+   [
+    "שמשנים",
+    23.0,
+    23.3
+   ],
+   [
+    "צבע.",
+    23.3,
+    23.4
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   13,
+   21,
+   29,
+   35,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fall_colors_of_the_arctic_tundra_on_a_bluebird_sky_day._%28c51fb8df-1dd8-b71c-0753-1c57348df744%29.jpg/960px-Fall_colors_of_the_arctic_tundra_on_a_bluebird_sky_day._%28c51fb8df-1dd8-b71c-0753-1c57348df744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NPS Photo",
+   "page": "https://commons.wikimedia.org/wiki/File:Fall_colors_of_the_arctic_tundra_on_a_bluebird_sky_day._(c51fb8df-1dd8-b71c-0753-1c57348df744).jpg",
+   "desc": "Fall colors of the arctic tundra on a bluebird sky day. (c51fb8df-1dd8-b71c-0753-1c57348df744) — Blue lake and sky with red tundra mountains Fall colors of the arctic tundra on a bluebird sky day. Keywords: landscape; mountain; itivlik lake; lake; backcountry;"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  0,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "week",
+   "label": "שיא הצבע"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+ "pron_wer": 0.059,
+ "angle": 0,
+ "source": {
+  "title": "An Early Look at Fall Color in Canada",
+  "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:09:38Z",
+ "trimmed": true
+}
