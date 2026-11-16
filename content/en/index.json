@@ -64,7 +64,8 @@
   "nasa:1278993",
   "Blackstar (album)",
   "21st Waffen Mountain Division of the SS Skanderbeg",
-  "Changeling (film)"
+  "Changeling (film)",
+  "nasa:1279928"
  ],
  "rejected": [
   "Chameleon",
@@ -287,6 +288,9 @@
   ],
   "Changeling (film)": [
    "The Changeling's True Origin: This horror movie is based on real claims."
+  ],
+  "nasa:1279928": [
+   "New NASA Galactic Gallery: Cosmic gems shine in 16 new images."
   ]
  },
  "exhausted": []

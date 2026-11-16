@@ -1,0 +1,388 @@
+{
+ "id": "en-5ee1f449",
+ "lang": "en",
+ "title": "This Frog Actually Screams!",
+ "cat": "biology",
+ "emoji": "🐸",
+ "sentences": [
+  "This frog actually screams in danger!",
+  "The Australian green tree frog reaches over 10 cm in length.",
+  "Its average lifespan in captivity is about 16 years.",
+  "Docile and close to humans, they sit on window sills eating bugs.",
+  "They are popular exotic pets across the entire world.",
+  "Their skin secretions also have antibacterial and antiviral properties."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "frog",
+    0.35,
+    0.67
+   ],
+   [
+    "actually",
+    0.67,
+    1.19
+   ],
+   [
+    "screams",
+    1.19,
+    1.65
+   ],
+   [
+    "in",
+    1.65,
+    1.85
+   ],
+   [
+    "danger!",
+    1.85,
+    2.19
+   ],
+   [
+    "The",
+    2.85,
+    2.85
+   ],
+   [
+    "Australian",
+    2.85,
+    3.27
+   ],
+   [
+    "green",
+    3.27,
+    3.65
+   ],
+   [
+    "tree",
+    3.65,
+    3.97
+   ],
+   [
+    "frog",
+    3.97,
+    4.31
+   ],
+   [
+    "reaches",
+    4.31,
+    4.71
+   ],
+   [
+    "over",
+    4.71,
+    4.97
+   ],
+   [
+    "10",
+    4.97,
+    5.25
+   ],
+   [
+    "cm",
+    5.25,
+    5.61
+   ],
+   [
+    "in",
+    5.61,
+    5.79
+   ],
+   [
+    "length.",
+    5.79,
+    5.97
+   ],
+   [
+    "Its",
+    6.55,
+    6.65
+   ],
+   [
+    "average",
+    6.65,
+    6.99
+   ],
+   [
+    "lifespan",
+    6.99,
+    7.53
+   ],
+   [
+    "in",
+    7.53,
+    7.71
+   ],
+   [
+    "captivity",
+    7.71,
+    8.05
+   ],
+   [
+    "is",
+    8.05,
+    8.51
+   ],
+   [
+    "about",
+    8.51,
+    8.71
+   ],
+   [
+    "16",
+    8.71,
+    9.21
+   ],
+   [
+    "years.",
+    9.21,
+    9.61
+   ],
+   [
+    "Docile",
+    10.31,
+    10.65
+   ],
+   [
+    "and",
+    10.65,
+    10.87
+   ],
+   [
+    "close",
+    10.87,
+    11.09
+   ],
+   [
+    "to",
+    11.09,
+    11.31
+   ],
+   [
+    "humans,",
+    11.31,
+    11.67
+   ],
+   [
+    "they",
+    12.17,
+    12.23
+   ],
+   [
+    "sit",
+    12.23,
+    12.47
+   ],
+   [
+    "on",
+    12.47,
+    12.65
+   ],
+   [
+    "window",
+    12.65,
+    12.97
+   ],
+   [
+    "sills",
+    12.97,
+    13.49
+   ],
+   [
+    "eating",
+    13.49,
+    13.75
+   ],
+   [
+    "bugs.",
+    13.75,
+    14.13
+   ],
+   [
+    "They",
+    14.77,
+    14.85
+   ],
+   [
+    "are",
+    14.85,
+    14.93
+   ],
+   [
+    "popular",
+    14.93,
+    15.37
+   ],
+   [
+    "exotic",
+    15.37,
+    15.87
+   ],
+   [
+    "pets",
+    15.87,
+    16.31
+   ],
+   [
+    "across",
+    16.51,
+    16.61
+   ],
+   [
+    "the",
+    16.61,
+    16.93
+   ],
+   [
+    "entire",
+    16.93,
+    17.33
+   ],
+   [
+    "world.",
+    17.33,
+    17.69
+   ],
+   [
+    "Their",
+    18.37,
+    18.47
+   ],
+   [
+    "skin",
+    18.47,
+    18.79
+   ],
+   [
+    "secretions",
+    18.79,
+    19.41
+   ],
+   [
+    "also",
+    19.41,
+    19.77
+   ],
+   [
+    "have",
+    19.77,
+    20.03
+   ],
+   [
+    "antibacterial",
+    20.03,
+    21.15
+   ],
+   [
+    "and",
+    21.15,
+    21.27
+   ],
+   [
+    "antiviral",
+    21.27,
+    21.97
+   ],
+   [
+    "properties.",
+    21.97,
+    22.33
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   26,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Litoria_caerulea05.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 318,
+   "license": "CC BY-SA 2.5",
+   "artist": "Jean-Marc Hero",
+   "page": "https://commons.wikimedia.org/wiki/File:Litoria_caerulea05.jpg",
+   "desc": "Litoria caerulea05 — Litoria caerulea"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Litoria_caerulea2.JPG/960px-Litoria_caerulea2.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "William Kreijkes",
+   "page": "https://commons.wikimedia.org/wiki/File:Litoria_caerulea2.JPG",
+   "desc": "Litoria caerulea2 — White's tree frog - Litoria caerulea"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Captive_bred_Zhangixalus_arboreus_in_terrarium_as_a_pet.jpg/960px-Captive_bred_Zhangixalus_arboreus_in_terrarium_as_a_pet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "Joshuuascmoss",
+   "page": "https://commons.wikimedia.org/wiki/File:Captive_bred_Zhangixalus_arboreus_in_terrarium_as_a_pet.jpg",
+   "desc": "Captive bred Zhangixalus arboreus in terrarium as a pet — Zhangixalus arboreus, also known as the Japanese Flying Tree Frog, Forest Green Tree Frog and Kinugasa Flying Frog is a tree frog endemic to Japan, and recently was captive bred for the first time in th"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.1,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 16,
+   "unit": "years",
+   "label": "average lifespan"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q654682",
+ "pron_wer": 0.036,
+ "angle": 0,
+ "source": {
+  "title": "Australian green tree frog",
+  "url": "https://en.wikipedia.org/wiki/Australian_green_tree_frog",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T20:52:56Z",
+ "trimmed": true
+}
