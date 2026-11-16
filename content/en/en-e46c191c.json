@@ -1,0 +1,395 @@
+{
+ "id": "en-e46c191c",
+ "lang": "en",
+ "title": "A Baby Planet Discovered",
+ "cat": "space",
+ "emoji": "🪐",
+ "sentences": [
+  "Meet the youngest planet ever found.",
+  "Astronomers confirmed Elias 2-24 b is less than a million years old.",
+  "This Jupiter-mass world is still forming inside a giant disk of gas and dust.",
+  "It sits 450 light-years away from Earth.",
+  "Scientists say this discovery proves current planet-formation models are missing important processes.",
+  "It acts like a time machine into our own planet’s early history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.16,
+    0.18
+   ],
+   [
+    "the",
+    0.18,
+    0.38
+   ],
+   [
+    "youngest",
+    0.38,
+    0.72
+   ],
+   [
+    "planet",
+    0.72,
+    1.28
+   ],
+   [
+    "ever",
+    1.28,
+    1.68
+   ],
+   [
+    "found.",
+    1.68,
+    2.02
+   ],
+   [
+    "Astronomers",
+    2.66,
+    3.24
+   ],
+   [
+    "confirmed",
+    3.24,
+    3.64
+   ],
+   [
+    "Elias",
+    3.64,
+    4.4
+   ],
+   [
+    "2-24",
+    4.4,
+    5.36
+   ],
+   [
+    "b",
+    5.36,
+    5.76
+   ],
+   [
+    "is",
+    5.76,
+    6.14
+   ],
+   [
+    "less",
+    6.14,
+    6.36
+   ],
+   [
+    "than",
+    6.36,
+    6.58
+   ],
+   [
+    "a",
+    6.58,
+    6.66
+   ],
+   [
+    "million",
+    6.66,
+    7.06
+   ],
+   [
+    "years",
+    7.06,
+    7.42
+   ],
+   [
+    "old.",
+    7.42,
+    7.7
+   ],
+   [
+    "This",
+    8.42,
+    8.56
+   ],
+   [
+    "Jupiter-mass",
+    8.56,
+    9.3
+   ],
+   [
+    "world",
+    9.3,
+    9.74
+   ],
+   [
+    "is",
+    9.74,
+    10.02
+   ],
+   [
+    "still",
+    10.02,
+    10.28
+   ],
+   [
+    "forming",
+    10.28,
+    10.76
+   ],
+   [
+    "inside",
+    10.76,
+    11.14
+   ],
+   [
+    "a",
+    11.14,
+    11.32
+   ],
+   [
+    "giant",
+    11.32,
+    11.76
+   ],
+   [
+    "disk",
+    11.76,
+    12.16
+   ],
+   [
+    "of",
+    12.16,
+    12.32
+   ],
+   [
+    "gas",
+    12.46,
+    12.64
+   ],
+   [
+    "and",
+    12.64,
+    12.88
+   ],
+   [
+    "dust.",
+    12.88,
+    13.32
+   ],
+   [
+    "It",
+    13.8,
+    13.88
+   ],
+   [
+    "sits",
+    13.88,
+    14.02
+   ],
+   [
+    "450",
+    14.02,
+    14.8
+   ],
+   [
+    "light-years",
+    15.14,
+    15.74
+   ],
+   [
+    "away",
+    15.76,
+    15.98
+   ],
+   [
+    "from",
+    16.12,
+    16.22
+   ],
+   [
+    "Earth.",
+    16.22,
+    16.38
+   ],
+   [
+    "Scientists",
+    17.12,
+    17.42
+   ],
+   [
+    "say",
+    17.42,
+    17.76
+   ],
+   [
+    "this",
+    17.76,
+    18.02
+   ],
+   [
+    "discovery",
+    18.02,
+    18.48
+   ],
+   [
+    "proves",
+    18.48,
+    18.94
+   ],
+   [
+    "current",
+    18.94,
+    19.38
+   ],
+   [
+    "planet-formation",
+    19.38,
+    20.0
+   ],
+   [
+    "models",
+    20.0,
+    20.54
+   ],
+   [
+    "are",
+    20.54,
+    20.8
+   ],
+   [
+    "missing",
+    20.8,
+    21.06
+   ],
+   [
+    "important",
+    21.06,
+    21.7
+   ],
+   [
+    "processes.",
+    21.7,
+    22.08
+   ],
+   [
+    "It",
+    22.94,
+    23.04
+   ],
+   [
+    "acts",
+    23.04,
+    23.2
+   ],
+   [
+    "like",
+    23.2,
+    23.38
+   ],
+   [
+    "a",
+    23.38,
+    23.46
+   ],
+   [
+    "time",
+    23.7,
+    23.8
+   ],
+   [
+    "machine",
+    23.8,
+    24.18
+   ],
+   [
+    "into",
+    24.34,
+    24.46
+   ],
+   [
+    "our",
+    24.46,
+    24.62
+   ],
+   [
+    "own",
+    24.74,
+    24.92
+   ],
+   [
+    "planet’s",
+    24.92,
+    25.52
+   ],
+   [
+    "early",
+    25.6,
+    25.72
+   ],
+   [
+    "history.",
+    25.72,
+    26.08
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   32,
+   39,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "million years",
+   "label": "planet age"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 450,
+   "unit": "light-years",
+   "label": "distance from Earth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/",
+ "pron_wer": 0.029,
+ "angle": 0,
+ "source": {
+  "title": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
+  "url": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:23:40Z",
+ "trimmed": true
+}

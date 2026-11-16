@@ -28,7 +28,8 @@
   "Tardigrade",
   "Honey",
   "nasa:1258573",
-  "Lightning"
+  "Lightning",
+  "Venus"
  ],
  "rejected": [
   "Chameleon",
@@ -125,6 +126,9 @@
   ],
   "Lightning": [
    "The Power of Lightning: Lightning hits 30,000 °C instantly."
+  ],
+  "Venus": [
+   "Venus: The Solar System's Inferno: Venus is the hottest planet in our solar system."
   ]
  },
  "exhausted": []
