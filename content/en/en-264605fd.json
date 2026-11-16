@@ -1,0 +1,442 @@
+{
+ "id": "en-264605fd",
+ "lang": "en",
+ "title": "Private Texts Go Public",
+ "cat": "history",
+ "emoji": "📱",
+ "sentences": [
+  "Private texts can be public records?",
+  "In 2013, an Illinois court made a major FOIA ruling.",
+  "A reporter watched Champaign council members texting during a meeting.",
+  "The reporter requested access to those private messages.",
+  "City officials completely denied the disclosure request.",
+  "The court ruled that personal devices must still reveal public business.",
+  "This was the very first ruling of its kind in Illinois."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Private",
+    0.34,
+    0.34
+   ],
+   [
+    "texts",
+    0.34,
+    0.76
+   ],
+   [
+    "can",
+    0.76,
+    1.04
+   ],
+   [
+    "be",
+    1.04,
+    1.18
+   ],
+   [
+    "public",
+    1.18,
+    1.5
+   ],
+   [
+    "records?",
+    1.5,
+    2.2
+   ],
+   [
+    "In",
+    2.74,
+    2.84
+   ],
+   [
+    "2013,",
+    2.84,
+    3.72
+   ],
+   [
+    "an",
+    3.98,
+    4.0
+   ],
+   [
+    "Illinois",
+    4.0,
+    4.34
+   ],
+   [
+    "court",
+    4.34,
+    4.76
+   ],
+   [
+    "made",
+    4.76,
+    5.02
+   ],
+   [
+    "a",
+    5.02,
+    5.14
+   ],
+   [
+    "major",
+    5.14,
+    5.54
+   ],
+   [
+    "FOIA",
+    5.54,
+    6.24
+   ],
+   [
+    "ruling.",
+    6.24,
+    6.38
+   ],
+   [
+    "A",
+    7.32,
+    7.36
+   ],
+   [
+    "reporter",
+    7.36,
+    7.66
+   ],
+   [
+    "watched",
+    7.66,
+    8.1
+   ],
+   [
+    "Champaign",
+    8.1,
+    8.7
+   ],
+   [
+    "council",
+    8.7,
+    9.02
+   ],
+   [
+    "members",
+    9.08,
+    9.38
+   ],
+   [
+    "texting",
+    9.38,
+    9.88
+   ],
+   [
+    "during",
+    9.88,
+    10.24
+   ],
+   [
+    "a",
+    10.24,
+    10.38
+   ],
+   [
+    "meeting.",
+    10.38,
+    10.66
+   ],
+   [
+    "The",
+    11.24,
+    11.34
+   ],
+   [
+    "reporter",
+    11.34,
+    11.64
+   ],
+   [
+    "requested",
+    11.64,
+    12.1
+   ],
+   [
+    "access",
+    12.34,
+    12.6
+   ],
+   [
+    "to",
+    12.76,
+    12.86
+   ],
+   [
+    "those",
+    12.86,
+    13.02
+   ],
+   [
+    "private",
+    13.02,
+    13.28
+   ],
+   [
+    "messages.",
+    13.28,
+    13.93
+   ],
+   [
+    "City",
+    14.46,
+    14.66
+   ],
+   [
+    "officials",
+    14.66,
+    15.04
+   ],
+   [
+    "completely",
+    15.04,
+    15.66
+   ],
+   [
+    "denied",
+    15.66,
+    16.16
+   ],
+   [
+    "the",
+    16.16,
+    16.34
+   ],
+   [
+    "disclosure",
+    16.34,
+    16.64
+   ],
+   [
+    "request.",
+    16.64,
+    17.28
+   ],
+   [
+    "The",
+    17.94,
+    18.02
+   ],
+   [
+    "court",
+    18.02,
+    18.28
+   ],
+   [
+    "ruled",
+    18.28,
+    18.58
+   ],
+   [
+    "that",
+    18.58,
+    18.76
+   ],
+   [
+    "personal",
+    18.76,
+    19.24
+   ],
+   [
+    "devices",
+    19.24,
+    19.78
+   ],
+   [
+    "must",
+    19.78,
+    20.06
+   ],
+   [
+    "still",
+    20.06,
+    20.44
+   ],
+   [
+    "reveal",
+    20.44,
+    20.84
+   ],
+   [
+    "public",
+    20.84,
+    21.16
+   ],
+   [
+    "business.",
+    21.16,
+    21.48
+   ],
+   [
+    "This",
+    22.26,
+    22.36
+   ],
+   [
+    "was",
+    22.36,
+    22.5
+   ],
+   [
+    "the",
+    22.5,
+    22.66
+   ],
+   [
+    "very",
+    22.66,
+    23.02
+   ],
+   [
+    "first",
+    23.02,
+    23.36
+   ],
+   [
+    "ruling",
+    23.36,
+    23.74
+   ],
+   [
+    "of",
+    23.74,
+    23.92
+   ],
+   [
+    "its",
+    23.92,
+    24.04
+   ],
+   [
+    "kind",
+    24.04,
+    24.34
+   ],
+   [
+    "in",
+    24.34,
+    24.5
+   ],
+   [
+    "Illinois.",
+    24.5,
+    24.94
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   26,
+   34,
+   41,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Illinois_Appellate_Court%2C_Springfield.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Katherine Johnson",
+   "page": "https://commons.wikimedia.org/wiki/File:Illinois_Appellate_Court,_Springfield.jpg",
+   "desc": "Illinois Appellate Court, Springfield — Illinois Appellate Court, Fourth District (Springfield, Illinois)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Glasgow_City_Chambers_The_Council_Chamber.jpg/960px-Glasgow_City_Chambers_The_Council_Chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Michael D Beckwith",
+   "page": "https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber.jpg",
+   "desc": "Glasgow City Chambers The Council Chamber — Here is an hdr photograph taken from the council chamber inside Glasgow City Chambers. Located in Glasgow, Scotland, UK. (Taken with kind permission of the administration)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bud_Uanna_A_Declassified_Document_-_Cover_Sheet_from_FOI_request_of_U.S._Department_of_State_p.1.jpg/960px-Bud_Uanna_A_Declassified_Document_-_Cover_Sheet_from_FOI_request_of_U.S._Department_of_State_p.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 991,
+   "license": "Public domain",
+   "artist": "U.S. Department of State Office of Security.",
+   "page": "https://commons.wikimedia.org/wiki/File:Bud_Uanna_A_Declassified_Document_-_Cover_Sheet_from_FOI_request_of_U.S._Department_of_State_p.1.jpg",
+   "desc": "Bud Uanna A Declassified Document - Cover Sheet from FOI request of U.S. Department of State p.1 — This document accompanied files released to Bud Uanna's son in a Freedom of Information Act request to the U.S. Department of State. The first time the file was "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Denied_insurance_rejected_stamp.png/960px-Denied_insurance_rejected_stamp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 458,
+   "license": "CC0",
+   "artist": "tswedensky",
+   "page": "https://commons.wikimedia.org/wiki/File:Denied_insurance_rejected_stamp.png",
+   "desc": "Denied insurance rejected stamp — Red, boxed stamp with the word DENIED on it, like one used to reject an insurance document."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rahm_Emanuel_on_phone_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 789,
+   "license": "CC BY 2.0",
+   "artist": "Tim",
+   "page": "https://commons.wikimedia.org/wiki/File:Rahm_Emanuel_on_phone_2012_(cropped).jpg",
+   "desc": "Rahm Emanuel on phone 2012 (cropped) — Rahm Emanuel, Mayor of Chicago, taking a phone call"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2013
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q104882495",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "City of Champaign v. Madigan",
+  "url": "https://en.wikipedia.org/wiki/City_of_Champaign_v._Madigan",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T18:55:31Z",
+ "trimmed": true
+}

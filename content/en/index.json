@@ -51,7 +51,8 @@
   "Battersea Bridge",
   "nasa:1509895",
   "Bulgaria",
-  "nasa:1278826"
+  "nasa:1278826",
+  "Abutiu"
  ],
  "rejected": [
   "Chameleon",
@@ -225,6 +226,9 @@
   ],
   "nasa:1278826": [
    "How the Sun Shaped Earth: Our solar system has a massive protective bubble called the heliosphere."
+  ],
+  "Abutiu": [
+   "Ancient Egypt's Named Dog: Meet Abutiu, an ancient Egyptian guard dog."
   ]
  },
  "exhausted": []
