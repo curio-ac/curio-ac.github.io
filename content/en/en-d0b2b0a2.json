@@ -1,0 +1,429 @@
+{
+ "id": "en-d0b2b0a2",
+ "lang": "en",
+ "title": "Scale Of The Great Wall",
+ "cat": "history",
+ "emoji": "🧱",
+ "sentences": [
+  "It spans 21,196.18 km in total!",
+  "The first walls date to the 7th century BC.",
+  "These were joined together in the Qin dynasty.",
+  "The best-known sections were built by the Ming dynasty.",
+  "It used watchtowers and signaling by smoke or fire.",
+  "It also handled border controls and regulated trade.",
+  "It is a UNESCO World Heritage Site."
+ ],
+ "tim": {
+  "w": [
+   [
+    "It",
+    0.35,
+    0.35
+   ],
+   [
+    "spans",
+    0.35,
+    0.63
+   ],
+   [
+    "21,196.18",
+    0.63,
+    3.19
+   ],
+   [
+    "km",
+    3.19,
+    3.69
+   ],
+   [
+    "in",
+    3.69,
+    3.89
+   ],
+   [
+    "total!",
+    3.89,
+    4.29
+   ],
+   [
+    "The",
+    4.73,
+    4.83
+   ],
+   [
+    "first",
+    4.89,
+    5.05
+   ],
+   [
+    "walls",
+    5.05,
+    5.41
+   ],
+   [
+    "date",
+    5.41,
+    5.79
+   ],
+   [
+    "to",
+    5.79,
+    6.01
+   ],
+   [
+    "the",
+    6.01,
+    6.11
+   ],
+   [
+    "7th",
+    6.11,
+    6.53
+   ],
+   [
+    "century",
+    6.71,
+    6.81
+   ],
+   [
+    "BC.",
+    6.81,
+    7.31
+   ],
+   [
+    "These",
+    7.93,
+    8.09
+   ],
+   [
+    "were",
+    8.09,
+    8.27
+   ],
+   [
+    "joined",
+    8.27,
+    8.63
+   ],
+   [
+    "together",
+    8.63,
+    8.97
+   ],
+   [
+    "in",
+    8.97,
+    9.19
+   ],
+   [
+    "the",
+    9.19,
+    9.31
+   ],
+   [
+    "Qin",
+    9.31,
+    9.53
+   ],
+   [
+    "dynasty.",
+    9.53,
+    9.97
+   ],
+   [
+    "The",
+    10.65,
+    10.75
+   ],
+   [
+    "best-known",
+    10.75,
+    11.17
+   ],
+   [
+    "sections",
+    11.17,
+    11.59
+   ],
+   [
+    "were",
+    11.59,
+    11.93
+   ],
+   [
+    "built",
+    11.93,
+    12.17
+   ],
+   [
+    "by",
+    12.17,
+    12.41
+   ],
+   [
+    "the",
+    12.41,
+    12.55
+   ],
+   [
+    "Ming",
+    12.55,
+    12.73
+   ],
+   [
+    "dynasty.",
+    12.73,
+    13.23
+   ],
+   [
+    "It",
+    13.79,
+    13.89
+   ],
+   [
+    "used",
+    13.89,
+    14.15
+   ],
+   [
+    "watchtowers",
+    14.15,
+    14.89
+   ],
+   [
+    "and",
+    14.99,
+    15.11
+   ],
+   [
+    "signaling",
+    15.11,
+    15.51
+   ],
+   [
+    "by",
+    15.51,
+    15.85
+   ],
+   [
+    "smoke",
+    15.85,
+    16.17
+   ],
+   [
+    "or",
+    16.17,
+    16.45
+   ],
+   [
+    "fire.",
+    16.45,
+    16.83
+   ],
+   [
+    "It",
+    17.37,
+    17.45
+   ],
+   [
+    "also",
+    17.45,
+    17.73
+   ],
+   [
+    "handled",
+    17.73,
+    18.17
+   ],
+   [
+    "border",
+    18.17,
+    18.51
+   ],
+   [
+    "controls",
+    18.51,
+    19.07
+   ],
+   [
+    "and",
+    19.11,
+    19.33
+   ],
+   [
+    "regulated",
+    19.33,
+    19.77
+   ],
+   [
+    "trade.",
+    19.77,
+    20.29
+   ],
+   [
+    "It",
+    20.87,
+    20.97
+   ],
+   [
+    "is",
+    20.97,
+    21.07
+   ],
+   [
+    "a",
+    21.07,
+    21.19
+   ],
+   [
+    "UNESCO",
+    21.19,
+    21.69
+   ],
+   [
+    "World",
+    21.71,
+    22.09
+   ],
+   [
+    "Heritage",
+    22.09,
+    22.51
+   ],
+   [
+    "Site.",
+    22.51,
+    22.75
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   23,
+   32,
+   41,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Map_of_the_Great_Wall_of_China.jpg/960px-Map_of_the_Great_Wall_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 579,
+   "license": "CC BY-SA 2.5",
+   "artist": "Maximilian Dörrbecker (Chumwa)",
+   "page": "https://commons.wikimedia.org/wiki/File:Map_of_the_Great_Wall_of_China.jpg",
+   "desc": "Map of the Great Wall of China — Map of the Great Wall of China"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanmuren.JPG/960px-Hanmuren.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Bairuilong",
+   "page": "https://commons.wikimedia.org/wiki/File:Hanmuren.JPG",
+   "desc": "Hanmuren — Kinesiska muren från Handynastin vid Yumenguan"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/GreatWallOfHanDynasty.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 312,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ksyrie",
+   "page": "https://commons.wikimedia.org/wiki/File:GreatWallOfHanDynasty.png",
+   "desc": "GreatWallOfHanDynasty — A map of the great wall of china of Han Dynasty"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Grande_Muraille_de_Chine_Mutianyu_en_2015.jpg/960px-Grande_Muraille_de_Chine_Mutianyu_en_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 4.0",
+   "artist": "Wikibphil",
+   "page": "https://commons.wikimedia.org/wiki/File:Grande_Muraille_de_Chine_Mutianyu_en_2015.jpg",
+   "desc": "Grande Muraille de Chine Mutianyu en 2015 — Photo de la Grande Muraille de Chine à Mutianyu en 2015"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Henry_William_Parish_-_Plan%2C_Section_and_Geometrical_Elevation_of_the_Great_Wall_and_a_Tower%2C_near_the_Pass_at_Cou-pe-keou.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 455,
+   "license": "Public domain",
+   "artist": "Henry William Parish",
+   "page": "https://commons.wikimedia.org/wiki/File:Henry_William_Parish_-_Plan,_Section_and_Geometrical_Elevation_of_the_Great_Wall_and_a_Tower,_near_the_Pass_at_Cou-pe-keou.jpg",
+   "desc": "Henry William Parish - Plan, Section and Geometrical Elevation of the Great Wall and a Tower, near the Pass at Cou-pe-keou — One of several technical drawings of the Great Wall of China produced by Lieutenant Henry William Parish of the Royal Artillery during "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Great_Wall_of_China%2C_China_%28Unsplash%29.jpg/960px-Great_Wall_of_China%2C_China_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Diego Jimenez diegojimenez",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China,_China_(Unsplash).jpg",
+   "desc": "Great Wall of China, China (Unsplash) — Great Wall of China, China"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 21196.18,
+   "unit": "km",
+   "label": "total span"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1368
+  },
+  {
+   "type": "focus",
+   "target": "watchtowers",
+   "box": [
+    197,
+    53,
+    401,
+    245
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  40.431,
+  116.564
+ ],
+ "qid": "Q12501",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Great Wall of China",
+  "url": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T19:01:09Z",
+ "trimmed": true
+}
