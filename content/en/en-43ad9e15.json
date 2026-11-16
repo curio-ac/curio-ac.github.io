@@ -1,0 +1,412 @@
+{
+ "id": "en-43ad9e15",
+ "lang": "en",
+ "title": "Purple Haze Auroras!",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "A purple aurora made an astronaut quote Jimi Hendrix.",
+  "NASA astronaut Jessica Meir saw the glowing sky in 2026.",
+  "Solar wind particles hitting Earth's upper atmosphere create these colors.",
+  "Oxygen and nitrogen gases glow green, red, blue, or pink.",
+  "Mixing gases can make auroras look purple, pink, or white.",
+  "Earth's magnetic geometry makes equinoxes the best time for light shows."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.42
+   ],
+   [
+    "purple",
+    0.48,
+    0.66
+   ],
+   [
+    "aurora",
+    0.66,
+    1.18
+   ],
+   [
+    "made",
+    1.18,
+    1.4
+   ],
+   [
+    "an",
+    1.4,
+    1.54
+   ],
+   [
+    "astronaut",
+    1.54,
+    2.04
+   ],
+   [
+    "quote",
+    2.04,
+    2.32
+   ],
+   [
+    "Jimi",
+    2.32,
+    2.72
+   ],
+   [
+    "Hendrix.",
+    2.72,
+    3.02
+   ],
+   [
+    "NASA",
+    3.74,
+    3.98
+   ],
+   [
+    "astronaut",
+    3.98,
+    4.52
+   ],
+   [
+    "Jessica",
+    4.52,
+    5.0
+   ],
+   [
+    "Meir",
+    5.0,
+    5.34
+   ],
+   [
+    "saw",
+    5.34,
+    5.54
+   ],
+   [
+    "the",
+    5.54,
+    5.66
+   ],
+   [
+    "glowing",
+    5.68,
+    5.94
+   ],
+   [
+    "sky",
+    5.94,
+    6.3
+   ],
+   [
+    "in",
+    6.3,
+    6.56
+   ],
+   [
+    "2026.",
+    6.56,
+    8.14
+   ],
+   [
+    "Solar",
+    8.14,
+    8.32
+   ],
+   [
+    "wind",
+    8.32,
+    8.64
+   ],
+   [
+    "particles",
+    8.64,
+    9.06
+   ],
+   [
+    "hitting",
+    9.08,
+    9.38
+   ],
+   [
+    "Earth's",
+    9.38,
+    9.82
+   ],
+   [
+    "upper",
+    9.82,
+    9.98
+   ],
+   [
+    "atmosphere",
+    10.32,
+    10.52
+   ],
+   [
+    "create",
+    10.78,
+    10.92
+   ],
+   [
+    "these",
+    10.92,
+    11.18
+   ],
+   [
+    "colors.",
+    11.18,
+    11.93
+   ],
+   [
+    "Oxygen",
+    12.18,
+    12.68
+   ],
+   [
+    "and",
+    12.68,
+    12.84
+   ],
+   [
+    "nitrogen",
+    12.84,
+    13.18
+   ],
+   [
+    "gases",
+    13.18,
+    13.7
+   ],
+   [
+    "glow",
+    13.78,
+    14.08
+   ],
+   [
+    "green,",
+    14.08,
+    14.74
+   ],
+   [
+    "red,",
+    14.92,
+    15.12
+   ],
+   [
+    "blue,",
+    15.46,
+    15.88
+   ],
+   [
+    "or",
+    16.0,
+    16.04
+   ],
+   [
+    "pink.",
+    16.04,
+    16.34
+   ],
+   [
+    "Mixing",
+    17.12,
+    17.24
+   ],
+   [
+    "gases",
+    17.24,
+    17.58
+   ],
+   [
+    "can",
+    17.58,
+    17.86
+   ],
+   [
+    "make",
+    17.86,
+    18.02
+   ],
+   [
+    "auroras",
+    18.02,
+    18.56
+   ],
+   [
+    "look",
+    18.56,
+    18.78
+   ],
+   [
+    "purple,",
+    18.78,
+    19.14
+   ],
+   [
+    "pink,",
+    19.54,
+    19.76
+   ],
+   [
+    "or",
+    20.08,
+    20.1
+   ],
+   [
+    "white.",
+    20.1,
+    20.42
+   ],
+   [
+    "Earth's",
+    21.0,
+    21.3
+   ],
+   [
+    "magnetic",
+    21.32,
+    21.68
+   ],
+   [
+    "geometry",
+    21.68,
+    22.34
+   ],
+   [
+    "makes",
+    22.34,
+    22.72
+   ],
+   [
+    "equinoxes",
+    22.84,
+    23.34
+   ],
+   [
+    "the",
+    23.4,
+    23.56
+   ],
+   [
+    "best",
+    23.56,
+    23.78
+   ],
+   [
+    "time",
+    23.78,
+    24.12
+   ],
+   [
+    "for",
+    24.12,
+    24.3
+   ],
+   [
+    "light",
+    24.3,
+    24.54
+   ],
+   [
+    "shows.",
+    24.54,
+    24.9
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   19,
+   29,
+   39,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Purple_Haze_Aurora_%281342478%29.jpg/960px-Purple_Haze_Aurora_%281342478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Purple_Haze_Aurora_(1342478).jpg",
+   "desc": "Purple Haze Aurora (1342478) — Astronaut photograph ISS075-E-88592 was acquired on September 7, 2026, with a Nikon Z9 digital camera using a focal length of 15 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Scien"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Purple_Haze_Aurora_%281342478_-_lrg%29.jpg/960px-Purple_Haze_Aurora_%281342478_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Purple_Haze_Aurora_(1342478_-_lrg).jpg",
+   "desc": "Purple Haze Aurora (1342478 - lrg) — Astronaut photograph ISS075-E-88592 was acquired on September 7, 2026, with a Nikon Z9 digital camera using a focal length of 15 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Scien"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/039_Northern_lights_over_M%C3%BDvatn_%28Iceland%29_Photo_by_Giles_Laurent.jpg/960px-039_Northern_lights_over_M%C3%BDvatn_%28Iceland%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Giles Laurent",
+   "page": "https://commons.wikimedia.org/wiki/File:039_Northern_lights_over_M%C3%BDvatn_(Iceland)_Photo_by_Giles_Laurent.jpg",
+   "desc": "039 Northern lights over Mývatn (Iceland) Photo by Giles Laurent — Northern lights in the night sky over Mývatn (Iceland). Polar aurorae are caused by the collision of charged particles in the solar wind with gases in the upper atmosphere. These collisions gen"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/A_Colorful_Aurora_Paints_the_Night_Sky_%28153463%29.jpg/960px-A_Colorful_Aurora_Paints_the_Night_Sky_%28153463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory image by Michala Garrison, using VIIRS day-night band dat",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Colorful_Aurora_Paints_the_Night_Sky_(153463).jpg",
+   "desc": "A Colorful Aurora Paints the Night Sky (153463) — As we move into the peak of solar cycle 25, activity on the Sun has been ratcheting up. One sign of that appeared in Earth’s atmosphere in the form of an impressive display of the aurora borealis, or northern l"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/purple-haze-aurora/",
+ "pron_wer": 0.032,
+ "angle": 1,
+ "source": {
+  "title": "Purple Haze Aurora",
+  "url": "https://science.nasa.gov/earth/earth-observatory/purple-haze-aurora/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T21:15:02Z",
+ "trimmed": true
+}
