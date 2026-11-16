@@ -1,0 +1,417 @@
+{
+ "id": "he-94c39826",
+ "lang": "he",
+ "title": "הקרב ששינה את האוקיינוס השקט",
+ "cat": "history",
+ "emoji": "⚓",
+ "sentences": [
+  "קרב מידוויי היה נקודת המפנה באוקיינוס השקט.",
+  "הצי היפני ניסה להשמיד את הצי האמריקני.",
+  "הם רצו לכבוש את מידוויי כבסיס הגנה קדמי.",
+  "היפנים קיוו שהתבוסה תגרום לאמריקנים לבקש הפסקת אש.",
+  "התוכנית נכשלה בגלל הערכה שגויה של הצי האמריקני.",
+  "מפענחי צפנים אמריקניים הצליחו לפצח את הצופן היפני.",
+  "הצי היפני לא התאושש מהמכה שספג בקרב."
+ ],
+ "tim": {
+  "w": [
+   [
+    "קרב",
+    0.24,
+    0.44
+   ],
+   [
+    "מידוויי",
+    0.44,
+    0.9
+   ],
+   [
+    "היה",
+    0.9,
+    1.1
+   ],
+   [
+    "נקודת",
+    1.1,
+    1.7
+   ],
+   [
+    "המפנה",
+    1.7,
+    2.08
+   ],
+   [
+    "באוקיינוס",
+    2.08,
+    2.64
+   ],
+   [
+    "השקט.",
+    2.64,
+    2.74
+   ],
+   [
+    "הצי",
+    3.62,
+    3.72
+   ],
+   [
+    "היפני",
+    3.72,
+    4.1
+   ],
+   [
+    "ניסה",
+    4.1,
+    4.5
+   ],
+   [
+    "להשמיד",
+    4.5,
+    5.08
+   ],
+   [
+    "את",
+    5.08,
+    5.18
+   ],
+   [
+    "הצי",
+    5.34,
+    5.44
+   ],
+   [
+    "האמריקני.",
+    5.44,
+    6.04
+   ],
+   [
+    "הם",
+    6.52,
+    6.6
+   ],
+   [
+    "רצו",
+    6.6,
+    6.78
+   ],
+   [
+    "לכבוש",
+    6.78,
+    7.22
+   ],
+   [
+    "את",
+    7.24,
+    7.34
+   ],
+   [
+    "מידוויי",
+    7.34,
+    7.76
+   ],
+   [
+    "כבסיס",
+    7.76,
+    8.1
+   ],
+   [
+    "הגנה",
+    8.1,
+    8.42
+   ],
+   [
+    "קדמי.",
+    8.42,
+    8.52
+   ],
+   [
+    "היפנים",
+    9.3,
+    9.62
+   ],
+   [
+    "קיוו",
+    9.62,
+    9.94
+   ],
+   [
+    "שהתבוסה",
+    9.94,
+    10.66
+   ],
+   [
+    "תגרום",
+    10.66,
+    11.02
+   ],
+   [
+    "לאמריקנים",
+    11.02,
+    11.6
+   ],
+   [
+    "לבקש",
+    11.6,
+    12.02
+   ],
+   [
+    "הפסקת",
+    12.02,
+    12.42
+   ],
+   [
+    "אש.",
+    12.42,
+    13.4
+   ],
+   [
+    "התוכנית",
+    13.5,
+    13.74
+   ],
+   [
+    "נכשלה",
+    13.74,
+    14.22
+   ],
+   [
+    "בגלל",
+    14.22,
+    14.68
+   ],
+   [
+    "הערכה",
+    14.68,
+    15.16
+   ],
+   [
+    "שגויה",
+    15.16,
+    15.56
+   ],
+   [
+    "של",
+    15.56,
+    15.78
+   ],
+   [
+    "הצי",
+    15.88,
+    15.98
+   ],
+   [
+    "האמריקני.",
+    15.98,
+    16.5
+   ],
+   [
+    "מפענחי",
+    17.28,
+    17.58
+   ],
+   [
+    "צפנים",
+    17.58,
+    17.9
+   ],
+   [
+    "אמריקניים",
+    17.9,
+    18.56
+   ],
+   [
+    "הצליחו",
+    18.56,
+    18.92
+   ],
+   [
+    "לפצח",
+    18.92,
+    19.46
+   ],
+   [
+    "את",
+    19.46,
+    19.62
+   ],
+   [
+    "הצופן",
+    19.62,
+    20.0
+   ],
+   [
+    "היפני.",
+    20.0,
+    20.36
+   ],
+   [
+    "הצי",
+    21.0,
+    21.22
+   ],
+   [
+    "היפני",
+    21.22,
+    21.64
+   ],
+   [
+    "לא",
+    21.64,
+    21.9
+   ],
+   [
+    "התאושש",
+    21.9,
+    22.38
+   ],
+   [
+    "מהמכה",
+    22.38,
+    22.8
+   ],
+   [
+    "שספג",
+    22.84,
+    23.22
+   ],
+   [
+    "בקרב.",
+    23.22,
+    23.32
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   22,
+   30,
+   38,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg/960px-Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 768,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Midway_Atoll_on_24_November_1941_(80-G-451086).jpg",
+   "desc": "Aerial view of Midway Atoll on 24 November 1941 (80-G-451086) — Aerial photograph of Midway Atoll, looking just south of west across the southern side of the atoll, 24 November 1941. Eastern Island, then the site of Midway's airfield, is in the foreground. San"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/AkagiDeckApril42.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 789,
+   "license": "Public domain",
+   "artist": "Japanese Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:AkagiDeckApril42.jpg",
+   "desc": "AkagiDeckApril42 — Japanese aircraft carrier Akagi in April, 1942 during the Indian Ocean Raid as seen from an aircraft that has just taken off from her deck. The aircraft on the flight deck preparing for takeoff are Aichi D3A Type 99 dive"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg/960px-Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 768,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Midway_Atoll_on_24_November_1941_(80-G-451086).jpg",
+   "desc": "Midway Atoll — Aerial photograph of Midway Atoll, looking just south of west across the southern side of the atoll, 24 November 1941. Eastern Island, then the site of Midway's airfield, is in the foreground. Sand Island, location of mo"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg/960px-Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_(USAF-3725).jpg",
+   "desc": "Hiryu f075712 — The Japanese aircraft carrier Hiryu maneuvers to avoid bombs dropped by USAAF Boeing B-17E Flying Fortress bombers during the Battle of Midway on 4 June 1942."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Enigma-8-rotor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1082,
+   "license": "CC BY-SA 3.0",
+   "artist": "Eric Tischer (Author agreed to license photo under the GFDL after an email excha",
+   "page": "https://commons.wikimedia.org/wiki/File:Enigma-8-rotor.jpg",
+   "desc": "Enigma-8-rotor — An 8-rotor Enigma machine located in a war museum in Budapest."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg/960px-Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 566,
+   "license": "Public domain",
+   "artist": "A.D. Brick or CP(PA) J.S. Mihalovitch, USN",
+   "page": "https://commons.wikimedia.org/wiki/File:Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_(80-G-414422).jpg",
+   "desc": "Japanese heavy cruiser Mikuma sinking on 6 June 1942 (80-G-414422) — The Japanese heavy cruiser Mikuma, photographed from a USS Enterprise (CV-6) Douglas SBD-3 Dauntless during the afternoon of 6 June 1942, after she had been bombed by planes from Enterprise a"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Midway Atoll",
+   "box": [
+    188,
+    128,
+    663,
+    549
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "cryptography machine",
+   "box": [
+    128,
+    52,
+    853,
+    946
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  30,
+  -178
+ ],
+ "qid": "Q173034",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "קרב מידוויי",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%91_%D7%9E%D7%99%D7%93%D7%95%D7%95%D7%99%D7%99",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.5-flash",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T15:23:15Z",
+ "trimmed": true
+}
