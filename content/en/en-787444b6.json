@@ -1,0 +1,369 @@
+{
+ "id": "en-787444b6",
+ "lang": "en",
+ "title": "Hurricane Polo's Explosive Growth",
+ "cat": "geography",
+ "emoji": "🌀",
+ "sentences": [
+  "Hurricane Polo grew with absolute insanity.",
+  "It intensified from a depression to category 5 at record speeds.",
+  "Winds increased by 104 miles per hour in just 24 hours.",
+  "This storm hit speeds of nearly 180 miles per hour.",
+  "It thrived over ocean waters 3 degrees warmer than normal.",
+  "The storm's rapid intensification remains truly remarkable to meteorologists."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Hurricane",
+    0.32,
+    0.6
+   ],
+   [
+    "Polo",
+    0.6,
+    1.24
+   ],
+   [
+    "grew",
+    1.24,
+    1.54
+   ],
+   [
+    "with",
+    1.54,
+    1.98
+   ],
+   [
+    "absolute",
+    2.24,
+    2.68
+   ],
+   [
+    "insanity.",
+    2.68,
+    3.78
+   ],
+   [
+    "It",
+    3.94,
+    3.94
+   ],
+   [
+    "intensified",
+    3.94,
+    4.56
+   ],
+   [
+    "from",
+    4.56,
+    4.8
+   ],
+   [
+    "a",
+    4.8,
+    4.92
+   ],
+   [
+    "depression",
+    5.16,
+    5.4
+   ],
+   [
+    "to",
+    5.4,
+    5.78
+   ],
+   [
+    "category",
+    5.78,
+    6.24
+   ],
+   [
+    "5",
+    6.24,
+    6.74
+   ],
+   [
+    "at",
+    6.74,
+    7.06
+   ],
+   [
+    "record",
+    7.3,
+    7.54
+   ],
+   [
+    "speeds.",
+    7.54,
+    7.66
+   ],
+   [
+    "Winds",
+    8.78,
+    8.96
+   ],
+   [
+    "increased",
+    8.96,
+    9.46
+   ],
+   [
+    "by",
+    9.46,
+    9.76
+   ],
+   [
+    "104",
+    9.76,
+    10.38
+   ],
+   [
+    "miles",
+    10.38,
+    11.02
+   ],
+   [
+    "per",
+    11.02,
+    11.28
+   ],
+   [
+    "hour",
+    11.28,
+    11.56
+   ],
+   [
+    "in",
+    11.56,
+    11.8
+   ],
+   [
+    "just",
+    11.8,
+    12.0
+   ],
+   [
+    "24",
+    12.0,
+    12.54
+   ],
+   [
+    "hours.",
+    12.54,
+    12.88
+   ],
+   [
+    "This",
+    13.68,
+    13.78
+   ],
+   [
+    "storm",
+    13.78,
+    14.02
+   ],
+   [
+    "hit",
+    14.02,
+    14.26
+   ],
+   [
+    "speeds",
+    14.32,
+    14.62
+   ],
+   [
+    "of",
+    14.72,
+    14.82
+   ],
+   [
+    "nearly",
+    14.82,
+    15.0
+   ],
+   [
+    "180",
+    15.0,
+    16.1
+   ],
+   [
+    "miles",
+    16.1,
+    16.46
+   ],
+   [
+    "per",
+    16.46,
+    16.72
+   ],
+   [
+    "hour.",
+    16.72,
+    16.88
+   ],
+   [
+    "It",
+    17.52,
+    17.6
+   ],
+   [
+    "thrived",
+    17.6,
+    18.0
+   ],
+   [
+    "over",
+    18.0,
+    18.18
+   ],
+   [
+    "ocean",
+    18.18,
+    18.52
+   ],
+   [
+    "waters",
+    18.52,
+    18.8
+   ],
+   [
+    "3",
+    18.8,
+    19.32
+   ],
+   [
+    "degrees",
+    19.32,
+    19.7
+   ],
+   [
+    "warmer",
+    19.7,
+    20.16
+   ],
+   [
+    "than",
+    20.16,
+    20.44
+   ],
+   [
+    "normal.",
+    20.44,
+    20.56
+   ],
+   [
+    "The",
+    21.44,
+    21.5
+   ],
+   [
+    "storm's",
+    21.62,
+    21.84
+   ],
+   [
+    "rapid",
+    21.84,
+    22.18
+   ],
+   [
+    "intensification",
+    22.18,
+    22.98
+   ],
+   [
+    "remains",
+    22.98,
+    23.48
+   ],
+   [
+    "truly",
+    23.48,
+    24.0
+   ],
+   [
+    "remarkable",
+    24.0,
+    24.48
+   ],
+   [
+    "to",
+    24.5,
+    24.78
+   ],
+   [
+    "meteorologists.",
+    24.78,
+    25.2
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   28,
+   38,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "stat",
+   "value": 104,
+   "unit": "mph",
+   "label": "wind speed increase"
+  },
+  {
+   "type": "stat",
+   "value": 180,
+   "unit": "mph",
+   "label": "top wind speed"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "degrees",
+   "label": "warmer ocean water"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Explosive Intensification for Hurricane Polo",
+  "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-16T16:08:54Z",
+ "trimmed": true
+}
