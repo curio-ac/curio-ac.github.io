@@ -1,4 +1,4 @@
-# The factory's clock: starts a factory run every hour, around the clock.
+# The factory's clock: starts a factory run every hour, around the clock. 
 # Kept in its own file so code changes to the factory never touch the schedule.
 name: clock
 on:
