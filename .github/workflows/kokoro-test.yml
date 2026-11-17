@@ -1,18 +1,22 @@
 name: kokoro test
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      script: {default: kokoro_test.py}
 permissions: {contents: write}
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.11", cache: pip, cache-dependency-path: factory/requirements.txt}
       - run: |
           sudo apt-get install -y -qq espeak-ng ffmpeg
-          pip install -q -r factory/requirements.txt
-      - run: python factory/kokoro_test.py
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q -r factory/requirements.txt chatterbox-tts
+      - run: python factory/${{ inputs.script }}
         env: {GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}"}
       - uses: actions/upload-artifact@v4
         with: {name: kokoro, path: kokoro_out}
