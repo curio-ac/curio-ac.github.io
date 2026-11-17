@@ -89,7 +89,8 @@
   "Jefferson Davis",
   "nasa:1490468",
   "Alabama Centennial half dollar",
-  "Cædwalla"
+  "Cædwalla",
+  "nasa:1463889"
  ],
  "rejected": [
   "Chameleon",
@@ -401,6 +402,9 @@
   ],
   "Cædwalla": [
    "The King Who Abidicated: This king conquered kingdoms then just quit."
+  ],
+  "nasa:1463889": [
+   "Mars' Mystery Light Rocks: Mars just revealed a field of strange, light-colored rocks."
   ]
  },
  "exhausted": []
