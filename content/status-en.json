@@ -3,6 +3,19 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-17T09:05:22Z",
+   "made": 11,
+   "rejected": 4,
+   "repaired": 2,
+   "calls": 107,
+   "notes": [
+    "nasa:1282505: pronunciation 11.4% of words misheard",
+    "Battle of Preston (1648): fact-check",
+    "Banksia aculeata: pronunciation 10.7% of words misheard",
+    "Tardigrade: pronunciation 8.8% of words misheard"
+   ]
+  },
+  {
    "at": "2026-11-17T08:11:38Z",
    "made": 4,
    "rejected": 1,
