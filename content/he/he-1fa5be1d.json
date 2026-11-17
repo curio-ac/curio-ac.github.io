@@ -1,0 +1,357 @@
+{
+ "id": "he-1fa5be1d",
+ "lang": "he",
+ "title": "הגאון שהפך לסמל",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "השם שלו הפך למילה נרדפת לגאונות.",
+  "רבי עקיבא איגר נחשב לגדול הדור בתקופת האחרונים.",
+  "הוא סירב בתחילה לקבל משרה של פסיקת הלכה.",
+  "במשך 24 שנים כיהן כרב בעיירה מרקיש-פרידלנד.",
+  "לאחר מכן שימש 23 שנים כרבה של פוזנא.",
+  "הגהותיו על השולחן ערוך הן אבן יסוד בעולם הפסיקה עד היום."
+ ],
+ "tim": {
+  "w": [
+   [
+    "השם",
+    0,
+    0.3
+   ],
+   [
+    "שלו",
+    0.3,
+    0.6
+   ],
+   [
+    "הפך",
+    0.6,
+    0.96
+   ],
+   [
+    "למילה",
+    0.96,
+    1.46
+   ],
+   [
+    "נרדפת",
+    1.46,
+    2.06
+   ],
+   [
+    "לגאונות.",
+    2.06,
+    2.64
+   ],
+   [
+    "רבי",
+    3.38,
+    3.62
+   ],
+   [
+    "עקיבא",
+    3.62,
+    3.98
+   ],
+   [
+    "איגר",
+    4.04,
+    4.42
+   ],
+   [
+    "נחשב",
+    4.42,
+    4.96
+   ],
+   [
+    "לגדול",
+    4.96,
+    5.44
+   ],
+   [
+    "הדור",
+    5.44,
+    5.78
+   ],
+   [
+    "בתקופת",
+    5.78,
+    6.32
+   ],
+   [
+    "האחרונים.",
+    6.32,
+    6.84
+   ],
+   [
+    "הוא",
+    7.56,
+    7.64
+   ],
+   [
+    "סירב",
+    7.76,
+    8.04
+   ],
+   [
+    "בתחילה",
+    8.04,
+    8.52
+   ],
+   [
+    "לקבל",
+    8.52,
+    8.92
+   ],
+   [
+    "משרה",
+    8.92,
+    9.32
+   ],
+   [
+    "של",
+    9.32,
+    9.52
+   ],
+   [
+    "פסיקת",
+    9.8,
+    9.96
+   ],
+   [
+    "הלכה.",
+    9.96,
+    10.2
+   ],
+   [
+    "במשך",
+    11.02,
+    11.3
+   ],
+   [
+    "24",
+    11.36,
+    11.8
+   ],
+   [
+    "שנים",
+    11.8,
+    12.74
+   ],
+   [
+    "כיהן",
+    12.94,
+    13.22
+   ],
+   [
+    "כרב",
+    13.22,
+    13.6
+   ],
+   [
+    "בעיירה",
+    13.6,
+    14.24
+   ],
+   [
+    "מרקיש-פרידלנד.",
+    14.24,
+    15.16
+   ],
+   [
+    "לאחר",
+    16.1,
+    16.38
+   ],
+   [
+    "מכן",
+    16.38,
+    16.68
+   ],
+   [
+    "שימש",
+    16.68,
+    17.04
+   ],
+   [
+    "23",
+    17.04,
+    17.52
+   ],
+   [
+    "שנים",
+    17.52,
+    18.28
+   ],
+   [
+    "כרבה",
+    18.52,
+    18.62
+   ],
+   [
+    "של",
+    18.62,
+    18.84
+   ],
+   [
+    "פוזנא.",
+    18.84,
+    19.18
+   ],
+   [
+    "הגהותיו",
+    20.02,
+    20.5
+   ],
+   [
+    "על",
+    20.5,
+    20.62
+   ],
+   [
+    "השולחן",
+    20.62,
+    21.02
+   ],
+   [
+    "ערוך",
+    21.02,
+    21.34
+   ],
+   [
+    "הן",
+    21.62,
+    21.82
+   ],
+   [
+    "אבן",
+    21.86,
+    22.12
+   ],
+   [
+    "יסוד",
+    22.12,
+    22.58
+   ],
+   [
+    "בעולם",
+    22.58,
+    22.92
+   ],
+   [
+    "הפסיקה",
+    22.92,
+    23.5
+   ],
+   [
+    "עד",
+    23.5,
+    23.84
+   ],
+   [
+    "היום.",
+    23.84,
+    24.02
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   22,
+   29,
+   37
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Eger1910.jpg/960px-Eger1910.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 885,
+   "license": "CC BY-SA 3.0",
+   "artist": "ביקורת",
+   "page": "https://commons.wikimedia.org/wiki/File:Eger1910.jpg",
+   "desc": "Eger1910 — תמונה נפוצה של רבי עקיבא איגר"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Akiva_Eger.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1249,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Akiva_Eger.jpg",
+   "desc": "Akiva Eger — Engraving of Rabbi Akiva Eger. Hebrew inscription reads: \"Image of the Great and Pious Rabbi, Master of the Entire Diaspora, Master and Our Teacher, Akiva Eiger, May His Memory Be a Blessing. Chief Rabbi of Posen\""
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Miroslawiec_center.JPG/960px-Miroslawiec_center.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY-SA 3.0",
+   "artist": "MOs810",
+   "page": "https://commons.wikimedia.org/wiki/File:Miroslawiec_center.JPG",
+   "desc": "Miroslawiec center — Mirosławiec, centrum."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Akiva_Eger_Sq._Poznan.JPG/960px-Akiva_Eger_Sq._Poznan.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 347,
+   "license": "CC BY-SA 4.0",
+   "artist": "MOs810",
+   "page": "https://commons.wikimedia.org/wiki/File:Akiva_Eger_Sq._Poznan.JPG",
+   "desc": "Akiva Eger Sq. Poznan — Akiva Eger Square, Poznan."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 24,
+   "unit": "שנים",
+   "label": "רב במרקיש-פרידלנד"
+  },
+  {
+   "type": "stat",
+   "value": 23,
+   "unit": "שנים",
+   "label": "רב בפוזנא"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q175402",
+ "pron_wer": 0.02,
+ "angle": 0,
+ "source": {
+  "title": "עקיבא איגר",
+  "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A7%D7%99%D7%91%D7%90_%D7%90%D7%99%D7%92%D7%A8",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:49:20Z",
+ "trimmed": true
+}
