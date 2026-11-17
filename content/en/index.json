@@ -105,7 +105,8 @@
   "L'Ange de Nisida",
   "Conte di Cavour-class battleship",
   "nasa:1508914",
-  "World War II"
+  "World War II",
+  "nasa:1378514"
  ],
  "rejected": [
   "Chameleon",
@@ -476,6 +477,9 @@
   ],
   "World War II": [
    "The Deadliest War in History: History's deadliest conflict killed up to 75 million people."
+  ],
+  "nasa:1378514": [
+   "Earth's Seasons From Space: Earth’s tilt creates our changing seasons."
   ]
  },
  "exhausted": []
