@@ -82,7 +82,8 @@
   "Cholangiocarcinoma",
   "Castle",
   "Anna Blackburne",
-  "Neal Dow"
+  "Neal Dow",
+  "Capri-Sun"
  ],
  "rejected": [
   "Chameleon",
@@ -368,6 +369,9 @@
   ],
   "Neal Dow": [
    "The Father of Prohibition: He ordered soldiers to fire on a crowd."
+  ],
+  "Capri-Sun": [
+   "The Capri-Sun Story: 6 billion Capri-Sun pouches sell every year."
   ]
  },
  "exhausted": []

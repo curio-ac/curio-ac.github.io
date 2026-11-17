@@ -1,0 +1,400 @@
+{
+ "id": "en-e1c2fabf",
+ "lang": "en",
+ "title": "NASA's New Lunar AI",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA and IBM just launched a lunar AI.",
+  "This foundation model is open-source for anyone to use.",
+  "It was trained on massive datasets from the Lunar Reconnaissance Orbiter.",
+  "Researchers can now adapt this model to map craters efficiently.",
+  "It also helps scientists estimate where water ice may exist.",
+  "This tool accelerates how we study the Moon's geological history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.35,
+    0.35
+   ],
+   [
+    "and",
+    0.35,
+    0.63
+   ],
+   [
+    "IBM",
+    0.63,
+    1.09
+   ],
+   [
+    "just",
+    1.09,
+    1.53
+   ],
+   [
+    "launched",
+    1.53,
+    1.89
+   ],
+   [
+    "a",
+    1.89,
+    2.11
+   ],
+   [
+    "lunar",
+    2.11,
+    2.37
+   ],
+   [
+    "AI.",
+    2.37,
+    3.45
+   ],
+   [
+    "This",
+    3.47,
+    3.59
+   ],
+   [
+    "foundation",
+    3.59,
+    4.01
+   ],
+   [
+    "model",
+    4.01,
+    4.41
+   ],
+   [
+    "is",
+    4.41,
+    4.65
+   ],
+   [
+    "open-source",
+    4.65,
+    5.31
+   ],
+   [
+    "for",
+    5.31,
+    5.59
+   ],
+   [
+    "anyone",
+    5.73,
+    5.91
+   ],
+   [
+    "to",
+    5.91,
+    6.21
+   ],
+   [
+    "use.",
+    6.21,
+    6.61
+   ],
+   [
+    "It",
+    7.11,
+    7.11
+   ],
+   [
+    "was",
+    7.11,
+    7.25
+   ],
+   [
+    "trained",
+    7.25,
+    7.55
+   ],
+   [
+    "on",
+    7.55,
+    7.79
+   ],
+   [
+    "massive",
+    7.91,
+    8.29
+   ],
+   [
+    "datasets",
+    8.29,
+    8.77
+   ],
+   [
+    "from",
+    8.77,
+    9.11
+   ],
+   [
+    "the",
+    9.11,
+    9.23
+   ],
+   [
+    "Lunar",
+    9.23,
+    9.59
+   ],
+   [
+    "Reconnaissance",
+    9.59,
+    10.19
+   ],
+   [
+    "Orbiter.",
+    10.19,
+    10.63
+   ],
+   [
+    "Researchers",
+    11.21,
+    11.51
+   ],
+   [
+    "can",
+    11.51,
+    11.97
+   ],
+   [
+    "now",
+    11.97,
+    12.15
+   ],
+   [
+    "adapt",
+    12.15,
+    12.57
+   ],
+   [
+    "this",
+    12.57,
+    12.83
+   ],
+   [
+    "model",
+    12.83,
+    13.11
+   ],
+   [
+    "to",
+    13.23,
+    13.33
+   ],
+   [
+    "map",
+    13.33,
+    13.61
+   ],
+   [
+    "craters",
+    13.61,
+    14.07
+   ],
+   [
+    "efficiently.",
+    14.07,
+    14.51
+   ],
+   [
+    "It",
+    15.23,
+    15.29
+   ],
+   [
+    "also",
+    15.33,
+    15.57
+   ],
+   [
+    "helps",
+    15.57,
+    15.87
+   ],
+   [
+    "scientists",
+    15.89,
+    16.29
+   ],
+   [
+    "estimate",
+    16.29,
+    16.83
+   ],
+   [
+    "where",
+    16.83,
+    17.09
+   ],
+   [
+    "water",
+    17.09,
+    17.39
+   ],
+   [
+    "ice",
+    17.39,
+    17.63
+   ],
+   [
+    "may",
+    17.63,
+    17.89
+   ],
+   [
+    "exist.",
+    17.89,
+    18.25
+   ],
+   [
+    "This",
+    19.05,
+    19.21
+   ],
+   [
+    "tool",
+    19.21,
+    19.45
+   ],
+   [
+    "accelerates",
+    19.45,
+    20.29
+   ],
+   [
+    "how",
+    20.29,
+    20.45
+   ],
+   [
+    "we",
+    20.45,
+    20.59
+   ],
+   [
+    "study",
+    20.59,
+    20.85
+   ],
+   [
+    "the",
+    20.85,
+    21.03
+   ],
+   [
+    "Moon's",
+    21.03,
+    21.39
+   ],
+   [
+    "geological",
+    21.39,
+    21.99
+   ],
+   [
+    "history.",
+    21.99,
+    22.35
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   28,
+   38,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Linn%C3%A9_crater_color_coded_shaded_relief_map_detail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/GSFC/Arizona State University",
+   "page": "https://commons.wikimedia.org/wiki/File:Linn%C3%A9_crater_color_coded_shaded_relief_map_detail.png",
+   "desc": "Linné crater color coded shaded relief map detail — Barnstorming Linné crater: Color coded shaded relief map of Linné crater (2.2 km diameter) created from an LROC NAC stereo topographic model. The colors represent elevations; cool colors are lowest and hot co"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/A_Colorful_Look_at_the_Birt_E_Crater_on_the_Moon_%2814677604185%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Colorful_Look_at_the_Birt_E_Crater_on_the_Moon_(14677604185).png",
+   "desc": "A Colorful Look at the Birt E Crater on the Moon (14677604185) — This false color image of Birt E crater shows the topography of the Moon and it is thought to be the source region for lava that carved out Rima Birt, a rille in Mare Nubium. This mare is older t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Geologic_Map_of_the_Near_Side_of_the_Moon_CROP.jpg/960px-Geologic_Map_of_the_Near_Side_of_the_Moon_CROP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 835,
+   "license": "Public domain",
+   "artist": "Don E. Wilhems and John F. McCauley (USGS)",
+   "page": "https://commons.wikimedia.org/wiki/File:Geologic_Map_of_the_Near_Side_of_the_Moon_CROP.jpg",
+   "desc": "Geologic Map of the Near Side of the Moon CROP — By Don E. Wilhelms and John F. McCauley Prepared on behalf of the National Aeronautics and Space Administration (NASA) and in cooperation with the USAF Aeronautical Chart and Information Center (Now part of the "
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "lunar poles",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 2012
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
+ "pron_wer": 0.05,
+ "angle": 0,
+ "source": {
+  "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+  "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:56:19Z",
+ "trimmed": true
+}
