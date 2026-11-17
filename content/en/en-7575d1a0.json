@@ -1,0 +1,439 @@
+{
+ "id": "en-7575d1a0",
+ "lang": "en",
+ "title": "Falcon 9 Moon Crater",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "A Falcon 9 rocket just hit the Moon.",
+  "NASA’s LRO orbiter successfully captured the impact crater.",
+  "The spacecraft traveled 60 miles above the surface, timing shots within just 10 seconds.",
+  "The resulting crater is 60 feet wide and under 10 feet deep.",
+  "Scientists analyzed bright streaks to see fresh material excavated from deep underground.",
+  "This cosmic bullseye was found through global teamwork between professional experts and hobbyists."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.08
+   ],
+   [
+    "Falcon",
+    0.2,
+    0.42
+   ],
+   [
+    "9",
+    0.42,
+    0.72
+   ],
+   [
+    "rocket",
+    0.72,
+    1.12
+   ],
+   [
+    "just",
+    1.12,
+    1.52
+   ],
+   [
+    "hit",
+    1.52,
+    1.82
+   ],
+   [
+    "the",
+    1.82,
+    1.98
+   ],
+   [
+    "Moon.",
+    1.98,
+    2.32
+   ],
+   [
+    "NASA’s",
+    2.8,
+    3.26
+   ],
+   [
+    "LRO",
+    3.26,
+    3.72
+   ],
+   [
+    "orbiter",
+    3.72,
+    4.16
+   ],
+   [
+    "successfully",
+    4.16,
+    4.56
+   ],
+   [
+    "captured",
+    4.56,
+    5.22
+   ],
+   [
+    "the",
+    5.22,
+    5.42
+   ],
+   [
+    "impact",
+    5.42,
+    5.72
+   ],
+   [
+    "crater.",
+    5.72,
+    5.82
+   ],
+   [
+    "The",
+    6.68,
+    6.74
+   ],
+   [
+    "spacecraft",
+    7.0,
+    7.1
+   ],
+   [
+    "traveled",
+    7.1,
+    7.6
+   ],
+   [
+    "60",
+    7.92,
+    8.02
+   ],
+   [
+    "miles",
+    8.02,
+    8.38
+   ],
+   [
+    "above",
+    8.38,
+    8.66
+   ],
+   [
+    "the",
+    8.66,
+    8.84
+   ],
+   [
+    "surface,",
+    8.84,
+    9.08
+   ],
+   [
+    "timing",
+    9.62,
+    9.76
+   ],
+   [
+    "shots",
+    9.76,
+    10.08
+   ],
+   [
+    "within",
+    10.08,
+    10.36
+   ],
+   [
+    "just",
+    10.36,
+    10.6
+   ],
+   [
+    "10",
+    10.8,
+    10.96
+   ],
+   [
+    "seconds.",
+    10.96,
+    11.22
+   ],
+   [
+    "The",
+    12.02,
+    12.08
+   ],
+   [
+    "resulting",
+    12.08,
+    12.38
+   ],
+   [
+    "crater",
+    12.38,
+    12.76
+   ],
+   [
+    "is",
+    12.76,
+    13.0
+   ],
+   [
+    "60",
+    13.0,
+    13.36
+   ],
+   [
+    "feet",
+    13.46,
+    13.56
+   ],
+   [
+    "wide",
+    13.56,
+    13.9
+   ],
+   [
+    "and",
+    13.9,
+    14.2
+   ],
+   [
+    "under",
+    14.28,
+    14.5
+   ],
+   [
+    "10",
+    14.5,
+    14.8
+   ],
+   [
+    "feet",
+    14.8,
+    15.0
+   ],
+   [
+    "deep.",
+    15.0,
+    15.3
+   ],
+   [
+    "Scientists",
+    16.08,
+    16.34
+   ],
+   [
+    "analyzed",
+    16.34,
+    16.9
+   ],
+   [
+    "bright",
+    16.9,
+    17.32
+   ],
+   [
+    "streaks",
+    17.32,
+    17.84
+   ],
+   [
+    "to",
+    17.84,
+    18.02
+   ],
+   [
+    "see",
+    18.02,
+    18.14
+   ],
+   [
+    "fresh",
+    18.14,
+    18.44
+   ],
+   [
+    "material",
+    18.44,
+    18.92
+   ],
+   [
+    "excavated",
+    18.92,
+    19.64
+   ],
+   [
+    "from",
+    19.64,
+    19.82
+   ],
+   [
+    "deep",
+    19.82,
+    20.1
+   ],
+   [
+    "underground.",
+    20.1,
+    20.74
+   ],
+   [
+    "This",
+    21.44,
+    21.64
+   ],
+   [
+    "cosmic",
+    21.64,
+    22.12
+   ],
+   [
+    "bullseye",
+    22.12,
+    22.72
+   ],
+   [
+    "was",
+    22.72,
+    22.88
+   ],
+   [
+    "found",
+    22.88,
+    23.14
+   ],
+   [
+    "through",
+    23.14,
+    23.32
+   ],
+   [
+    "global",
+    23.32,
+    23.72
+   ],
+   [
+    "teamwork",
+    23.72,
+    24.18
+   ],
+   [
+    "between",
+    24.4,
+    24.5
+   ],
+   [
+    "professional",
+    24.5,
+    24.96
+   ],
+   [
+    "experts",
+    24.96,
+    25.54
+   ],
+   [
+    "and",
+    25.72,
+    25.84
+   ],
+   [
+    "hobbyists.",
+    25.84,
+    26.22
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   30,
+   42,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Recent_Impact_Crater_on_the_Lunar_Surface_Showing_Crater_Illusion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 558,
+   "license": "Public domain",
+   "artist": "©NASA/GSFC/ARIZONA STATE UNIVERSITY",
+   "page": "https://commons.wikimedia.org/wiki/File:Recent_Impact_Crater_on_the_Lunar_Surface_Showing_Crater_Illusion.jpg",
+   "desc": "Recent Impact Crater on the Lunar Surface Showing Crater Illusion — A 2013 image released by NASA from the Lunar Reconnaissance Orbiter. Because of the position of the sun, the walls of the crater appear convex instead of concave. This is an example of the cra"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  0,
+  0,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "impact crater",
+   "box": [
+    434,
+    252,
+    755,
+    483
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 60,
+   "unit": "miles",
+   "label": "orbiter altitude"
+  },
+  {
+   "type": "compare",
+   "value": 18.288,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "focus",
+   "target": "bright streaks",
+   "box": [
+    116,
+    25,
+    876,
+    977
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+  "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:02:23Z",
+ "trimmed": true
+}
