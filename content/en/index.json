@@ -115,7 +115,8 @@
   "nasa:1480607",
   "James Wood Bush",
   "2020 Seattle Sounders FC season",
-  "nasa:1504201"
+  "nasa:1504201",
+  "Caroline of Ansbach"
  ],
  "rejected": [
   "Chameleon",
@@ -521,6 +522,9 @@
   ],
   "nasa:1504201": [
    "Ancient River on Mars: Mars once held a rushing river."
+  ],
+  "Caroline of Ansbach": [
+   "A Queen's Rise: She rejected a future Spanish king."
   ]
  },
  "exhausted": []

@@ -1,0 +1,430 @@
+{
+ "id": "en-cf361aab",
+ "lang": "en",
+ "title": "The Tragic Return of Berman",
+ "cat": "art",
+ "emoji": "🎸",
+ "sentences": [
+  "A musician released one final album before dying.",
+  "David Berman founded the indie rock band Silver Jews.",
+  "He wrote multifaceted lyrics about substance abuse and depression.",
+  "After a 2003 suicide attempt, he dissolved the band.",
+  "Berman then withdrew from public life for several years.",
+  "In 2019, he returned with the project Purple Mountains.",
+  "He died by suicide one month after that release."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.24,
+    0.32
+   ],
+   [
+    "musician",
+    0.32,
+    0.6
+   ],
+   [
+    "released",
+    0.6,
+    1.1
+   ],
+   [
+    "one",
+    1.1,
+    1.44
+   ],
+   [
+    "final",
+    1.44,
+    1.82
+   ],
+   [
+    "album",
+    1.82,
+    2.22
+   ],
+   [
+    "before",
+    2.22,
+    2.52
+   ],
+   [
+    "dying.",
+    2.52,
+    3.47
+   ],
+   [
+    "David",
+    3.94,
+    4.1
+   ],
+   [
+    "Berman",
+    4.1,
+    4.44
+   ],
+   [
+    "founded",
+    4.44,
+    4.82
+   ],
+   [
+    "the",
+    4.82,
+    5.0
+   ],
+   [
+    "indie",
+    5.04,
+    5.14
+   ],
+   [
+    "rock",
+    5.14,
+    5.4
+   ],
+   [
+    "band",
+    5.62,
+    5.72
+   ],
+   [
+    "Silver",
+    5.72,
+    6.06
+   ],
+   [
+    "Jews.",
+    6.06,
+    6.4
+   ],
+   [
+    "He",
+    7.08,
+    7.1
+   ],
+   [
+    "wrote",
+    7.1,
+    7.24
+   ],
+   [
+    "multifaceted",
+    7.24,
+    8.06
+   ],
+   [
+    "lyrics",
+    8.06,
+    8.36
+   ],
+   [
+    "about",
+    8.36,
+    8.76
+   ],
+   [
+    "substance",
+    8.86,
+    9.16
+   ],
+   [
+    "abuse",
+    9.16,
+    9.46
+   ],
+   [
+    "and",
+    9.46,
+    9.88
+   ],
+   [
+    "depression.",
+    9.88,
+    10.3
+   ],
+   [
+    "After",
+    11.06,
+    11.28
+   ],
+   [
+    "a",
+    11.28,
+    11.4
+   ],
+   [
+    "2003",
+    11.4,
+    11.92
+   ],
+   [
+    "suicide",
+    11.92,
+    12.32
+   ],
+   [
+    "attempt,",
+    12.32,
+    12.84
+   ],
+   [
+    "he",
+    13.14,
+    13.14
+   ],
+   [
+    "dissolved",
+    13.14,
+    13.42
+   ],
+   [
+    "the",
+    13.42,
+    13.72
+   ],
+   [
+    "band.",
+    13.72,
+    14.47
+   ],
+   [
+    "Berman",
+    14.72,
+    14.92
+   ],
+   [
+    "then",
+    14.92,
+    15.08
+   ],
+   [
+    "withdrew",
+    15.08,
+    15.46
+   ],
+   [
+    "from",
+    15.46,
+    15.62
+   ],
+   [
+    "public",
+    15.7,
+    15.84
+   ],
+   [
+    "life",
+    15.84,
+    16.14
+   ],
+   [
+    "for",
+    16.26,
+    16.36
+   ],
+   [
+    "several",
+    16.36,
+    16.6
+   ],
+   [
+    "years.",
+    16.6,
+    16.92
+   ],
+   [
+    "In",
+    17.64,
+    17.72
+   ],
+   [
+    "2019,",
+    17.72,
+    18.5
+   ],
+   [
+    "he",
+    18.78,
+    18.8
+   ],
+   [
+    "returned",
+    18.8,
+    19.06
+   ],
+   [
+    "with",
+    19.06,
+    19.26
+   ],
+   [
+    "the",
+    19.26,
+    19.32
+   ],
+   [
+    "project",
+    19.42,
+    19.66
+   ],
+   [
+    "Purple",
+    19.66,
+    20.0
+   ],
+   [
+    "Mountains.",
+    20.0,
+    20.6
+   ],
+   [
+    "He",
+    21.24,
+    21.34
+   ],
+   [
+    "died",
+    21.36,
+    21.56
+   ],
+   [
+    "by",
+    21.56,
+    21.74
+   ],
+   [
+    "suicide",
+    21.74,
+    22.04
+   ],
+   [
+    "one",
+    22.16,
+    22.52
+   ],
+   [
+    "month",
+    22.52,
+    22.72
+   ],
+   [
+    "after",
+    22.72,
+    23.0
+   ],
+   [
+    "that",
+    23.0,
+    23.14
+   ],
+   [
+    "release.",
+    23.14,
+    23.56
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   35,
+   44,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Silver_Jews_Cathedral_Quarter_Arts_Festival_2008.jpg/960px-Silver_Jews_Cathedral_Quarter_Arts_Festival_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Steve Graham",
+   "page": "https://commons.wikimedia.org/wiki/File:Silver_Jews_Cathedral_Quarter_Arts_Festival_2008.jpg",
+   "desc": "Silver Jews Cathedral Quarter Arts Festival 2008 — Silver Jews tijdens een optreden in Belfast in 2008"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/David_Berman_performing_at_ATP_festival%2C_18th_May_2008.jpg/960px-David_Berman_performing_at_ATP_festival%2C_18th_May_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Freekorps",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Berman_performing_at_ATP_festival,_18th_May_2008.jpg",
+   "desc": "David Berman performing at ATP festival, 18th May 2008 — David Berman performs at ATP festival, 18th May 2008, Minehead, England"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/David_Berman_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 496,
+   "license": "CC BY-SA 4.0",
+   "artist": "Peyton Pinkerton",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Berman_1995.jpg",
+   "desc": "David Berman 1995 — Photo of David Berman in 1995"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Silver Jews band",
+   "box": [
+    282,
+    0,
+    915,
+    908
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2003
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2019
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "month",
+   "label": "after release"
+  }
+ ],
+ "geo": null,
+ "qid": "Q5231354",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "David Berman (musician)",
+  "url": "https://en.wikipedia.org/wiki/David_Berman_%28musician%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:52:54Z",
+ "trimmed": true
+}
