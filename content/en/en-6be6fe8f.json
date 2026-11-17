@@ -1,0 +1,425 @@
+{
+ "id": "en-6be6fe8f",
+ "lang": "en",
+ "title": "70 Pine Street's Hidden History",
+ "cat": "history",
+ "emoji": "🏙️",
+ "sentences": [
+  "This 952-foot skyscraper was once Lower Manhattan's tallest.",
+  "Built between 1930 and 1932, it was originally the Cities Service Building.",
+  "The Art Deco design features brick, limestone, and gneiss.",
+  "You can spot triangular logos and solar motifs on the facade.",
+  "It once used double-deck elevators to move people between floors.",
+  "A three-story penthouse was originally intended for the company founder."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "952-foot",
+    0.35,
+    1.79
+   ],
+   [
+    "skyscraper",
+    1.83,
+    2.51
+   ],
+   [
+    "was",
+    2.79,
+    2.89
+   ],
+   [
+    "once",
+    2.89,
+    3.11
+   ],
+   [
+    "Lower",
+    3.11,
+    3.43
+   ],
+   [
+    "Manhattan's",
+    3.43,
+    4.11
+   ],
+   [
+    "tallest.",
+    4.11,
+    4.41
+   ],
+   [
+    "Built",
+    5.15,
+    5.25
+   ],
+   [
+    "between",
+    5.25,
+    5.59
+   ],
+   [
+    "1930",
+    5.59,
+    6.31
+   ],
+   [
+    "and",
+    6.31,
+    6.57
+   ],
+   [
+    "1932,",
+    6.57,
+    7.42
+   ],
+   [
+    "it",
+    7.97,
+    8.03
+   ],
+   [
+    "was",
+    8.03,
+    8.13
+   ],
+   [
+    "originally",
+    8.13,
+    8.51
+   ],
+   [
+    "the",
+    8.51,
+    8.75
+   ],
+   [
+    "Cities",
+    8.75,
+    8.95
+   ],
+   [
+    "Service",
+    8.95,
+    9.35
+   ],
+   [
+    "Building.",
+    9.35,
+    9.67
+   ],
+   [
+    "The",
+    10.37,
+    10.43
+   ],
+   [
+    "Art",
+    10.43,
+    10.63
+   ],
+   [
+    "Deco",
+    10.63,
+    10.95
+   ],
+   [
+    "design",
+    10.95,
+    11.29
+   ],
+   [
+    "features",
+    11.29,
+    11.61
+   ],
+   [
+    "brick,",
+    11.61,
+    12.05
+   ],
+   [
+    "limestone,",
+    12.76,
+    13.21
+   ],
+   [
+    "and",
+    13.21,
+    13.27
+   ],
+   [
+    "gneiss.",
+    13.27,
+    13.45
+   ],
+   [
+    "You",
+    14.13,
+    14.19
+   ],
+   [
+    "can",
+    14.23,
+    14.33
+   ],
+   [
+    "spot",
+    14.33,
+    14.57
+   ],
+   [
+    "triangular",
+    14.57,
+    15.17
+   ],
+   [
+    "logos",
+    15.17,
+    15.67
+   ],
+   [
+    "and",
+    15.67,
+    16.03
+   ],
+   [
+    "solar",
+    16.03,
+    16.37
+   ],
+   [
+    "motifs",
+    16.37,
+    16.95
+   ],
+   [
+    "on",
+    16.97,
+    17.11
+   ],
+   [
+    "the",
+    17.11,
+    17.21
+   ],
+   [
+    "facade.",
+    17.21,
+    17.63
+   ],
+   [
+    "It",
+    18.19,
+    18.29
+   ],
+   [
+    "once",
+    18.29,
+    18.47
+   ],
+   [
+    "used",
+    18.47,
+    18.77
+   ],
+   [
+    "double-deck",
+    18.77,
+    19.39
+   ],
+   [
+    "elevators",
+    19.49,
+    19.93
+   ],
+   [
+    "to",
+    19.93,
+    20.13
+   ],
+   [
+    "move",
+    20.13,
+    20.33
+   ],
+   [
+    "people",
+    20.33,
+    20.71
+   ],
+   [
+    "between",
+    20.71,
+    21.01
+   ],
+   [
+    "floors.",
+    21.01,
+    21.51
+   ],
+   [
+    "A",
+    22.19,
+    22.29
+   ],
+   [
+    "three-story",
+    22.37,
+    22.79
+   ],
+   [
+    "penthouse",
+    22.79,
+    23.45
+   ],
+   [
+    "was",
+    23.45,
+    23.67
+   ],
+   [
+    "originally",
+    23.67,
+    24.11
+   ],
+   [
+    "intended",
+    24.11,
+    24.59
+   ],
+   [
+    "for",
+    24.59,
+    24.87
+   ],
+   [
+    "the",
+    24.89,
+    24.99
+   ],
+   [
+    "company",
+    24.99,
+    25.27
+   ],
+   [
+    "founder.",
+    25.27,
+    25.67
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   20,
+   29,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/AIG_New_York_building_at_the_golden_hour.jpg/960px-AIG_New_York_building_at_the_golden_hour.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "https://www.flickr.com/people/epicharmus/",
+   "page": "https://commons.wikimedia.org/wiki/File:AIG_New_York_building_at_the_golden_hour.jpg",
+   "desc": "AIG New York building at the golden hour — The top portion of the American International Group headquarters building in New York City lit by the sun; see a similar image of the building at dusk."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Citiesservicemodel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1238,
+   "license": "Public domain",
+   "artist": "Junkyard kahrs at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Citiesservicemodel.jpg",
+   "desc": "Citiesservicemodel — Author: John Kahrs"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/70_PINE_exteriors2.jpg/960px-70_PINE_exteriors2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 731,
+   "license": "CC BY-SA 4.0",
+   "artist": "Floral4",
+   "page": "https://commons.wikimedia.org/wiki/File:70_PINE_exteriors2.jpg",
+   "desc": "70 PINE exteriors2 — Exterior facade of 70 Pine St (Financial District in NYC)"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/American_International_Building3_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1296,
+   "license": "CC BY-SA 3.0",
+   "artist": "Clément Bardot",
+   "page": "https://commons.wikimedia.org/wiki/File:American_International_Building3_(cropped).JPG",
+   "desc": "American International Building3 (cropped) — L'American International Building (gratte-ciel de Manhattan, sis au n°70 Pine Street, à New York)."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 952,
+   "unit": "ft",
+   "label": "skyscraper height"
+  },
+  {
+   "type": "timeline",
+   "year": 1930
+  },
+  {
+   "type": "focus",
+   "target": "facade",
+   "box": [
+    133,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  40.706,
+  -74.007
+ ],
+ "qid": "Q262041",
+ "pron_wer": 0.031,
+ "angle": 2,
+ "source": {
+  "title": "70 Pine Street",
+  "url": "https://en.wikipedia.org/wiki/70_Pine_Street",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T10:03:29Z",
+ "trimmed": true
+}
