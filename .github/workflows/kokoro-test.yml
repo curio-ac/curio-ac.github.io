@@ -1,5 +1,6 @@
 name: kokoro test
 on: workflow_dispatch
+permissions: {contents: write}
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -15,3 +16,7 @@ jobs:
         env: {GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}"}
       - uses: actions/upload-artifact@v4
         with: {name: kokoro, path: kokoro_out}
+      - run: |
+          cd kokoro_out && git init -q -b samples && git add -A
+          git -c user.name=curio-bot -c user.email=curio-bot@users.noreply.github.com commit -qm samples
+          git push -qf https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} samples:kokoro-samples
