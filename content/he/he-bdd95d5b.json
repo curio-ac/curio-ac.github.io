@@ -1,0 +1,365 @@
+{
+ "id": "he-bdd95d5b",
+ "lang": "he",
+ "title": "החיה הכבדה ביותר בהיסטוריה",
+ "cat": "biology",
+ "emoji": "🐋",
+ "sentences": [
+  "הלווייתן הכחול הוא בעל החיים הכבד ביותר שהתקיים אי פעם.",
+  "אורכו מגיע עד 34 מטרים ומשקלו עד 177 טונות.",
+  "הוא ניזון בעיקר מקריל.",
+  "בתחילת המאה ה-20 נפגעה האוכלוסייה אנושות כתוצאה מציד בלתי מבוקר.",
+  "ציד הלווייתנים הכחולים הוצא מחוץ לחוק בשנת 1966.",
+  "כיום הלווייתן מסווג כמין בסכנת הכחדה מתמדת."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הלווייתן",
+    0,
+    0.52
+   ],
+   [
+    "הכחול",
+    0.52,
+    0.98
+   ],
+   [
+    "הוא",
+    0.98,
+    1.14
+   ],
+   [
+    "בעל",
+    1.14,
+    1.42
+   ],
+   [
+    "החיים",
+    1.42,
+    1.72
+   ],
+   [
+    "הכבד",
+    1.72,
+    2.18
+   ],
+   [
+    "ביותר",
+    2.18,
+    2.62
+   ],
+   [
+    "שהתקיים",
+    2.62,
+    3.22
+   ],
+   [
+    "אי",
+    3.22,
+    3.5
+   ],
+   [
+    "פעם.",
+    3.5,
+    3.74
+   ],
+   [
+    "אורכו",
+    4.22,
+    4.56
+   ],
+   [
+    "מגיע",
+    4.56,
+    4.9
+   ],
+   [
+    "עד",
+    4.9,
+    5.18
+   ],
+   [
+    "34",
+    5.18,
+    5.6
+   ],
+   [
+    "מטרים",
+    5.6,
+    6.48
+   ],
+   [
+    "ומשקלו",
+    6.48,
+    7.38
+   ],
+   [
+    "עד",
+    7.38,
+    7.62
+   ],
+   [
+    "177",
+    7.84,
+    8.68
+   ],
+   [
+    "טונות.",
+    8.68,
+    9.08
+   ],
+   [
+    "הוא",
+    9.66,
+    9.74
+   ],
+   [
+    "ניזון",
+    9.74,
+    10.04
+   ],
+   [
+    "בעיקר",
+    10.04,
+    10.46
+   ],
+   [
+    "מקריל.",
+    10.46,
+    10.92
+   ],
+   [
+    "בתחילת",
+    11.52,
+    11.92
+   ],
+   [
+    "המאה",
+    11.92,
+    12.22
+   ],
+   [
+    "ה-20",
+    12.22,
+    12.48
+   ],
+   [
+    "נפגעה",
+    12.48,
+    13.14
+   ],
+   [
+    "האוכלוסייה",
+    13.14,
+    13.68
+   ],
+   [
+    "אנושות",
+    13.68,
+    14.24
+   ],
+   [
+    "כתוצאה",
+    14.46,
+    14.78
+   ],
+   [
+    "מציד",
+    14.78,
+    15.22
+   ],
+   [
+    "בלתי",
+    15.22,
+    15.58
+   ],
+   [
+    "מבוקר.",
+    15.58,
+    16.04
+   ],
+   [
+    "ציד",
+    16.8,
+    16.98
+   ],
+   [
+    "הלווייתנים",
+    16.98,
+    17.44
+   ],
+   [
+    "הכחולים",
+    17.44,
+    17.9
+   ],
+   [
+    "הוצא",
+    17.9,
+    18.24
+   ],
+   [
+    "מחוץ",
+    18.24,
+    18.54
+   ],
+   [
+    "לחוק",
+    18.58,
+    18.9
+   ],
+   [
+    "בשנת",
+    19.22,
+    19.54
+   ],
+   [
+    "1966.",
+    19.54,
+    21.0
+   ],
+   [
+    "כיום",
+    21.64,
+    21.86
+   ],
+   [
+    "הלווייתן",
+    21.86,
+    22.34
+   ],
+   [
+    "מסווג",
+    22.34,
+    22.8
+   ],
+   [
+    "כמין",
+    22.8,
+    23.24
+   ],
+   [
+    "בסכנת",
+    23.24,
+    23.8
+   ],
+   [
+    "הכחדה",
+    23.8,
+    24.14
+   ],
+   [
+    "מתמדת.",
+    24.14,
+    24.62
+   ]
+  ],
+  "b": [
+   0,
+   10,
+   19,
+   23,
+   33,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/960px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 498,
+   "license": "Public domain",
+   "artist": "NOAA Photo Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+   "desc": "Anim1754 - Flickr - NOAA Photo Library — Balaenoptera musculus"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Blue-Whale-0009.jpg/960px-Blue-Whale-0009.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 477,
+   "license": "CC BY 2.0",
+   "artist": "Tim Wilson",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue-Whale-0009.jpg",
+   "desc": "Blue-Whale-0009 — לווייתן כחול ענק"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Krill666.jpg/960px-Krill666.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 560,
+   "license": "CC BY-SA 3.0",
+   "artist": "Uwe Kils I am willing to give the image in 1700 resolution to Wikipedia Uwe Kils",
+   "page": "https://commons.wikimedia.org/wiki/File:Krill666.jpg",
+   "desc": "Krill666 — Antarctic krill Euphausia superba."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/BlueWhaleWithCalf.jpg/960px-BlueWhaleWithCalf.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY-SA 4.0",
+   "artist": "Andreas Tille",
+   "page": "https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalf.jpg",
+   "desc": "BlueWhaleWithCalf — Blue Whale with Calf, Ólafsvík, Iceland Photo was taken using the following technique: Film: Kodak Elitechrome Extracolor Lens: 4/70-210 Filter: none Body: Minolta 7 Support: none Source: http://fam-tille.de/sparetime.ht"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 177,
+   "unit": "טונות",
+   "label": "החיה הכבדה ביותר"
+  },
+  {
+   "type": "compare",
+   "value": 34,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "focus",
+   "target": "krill",
+   "box": [
+    56,
+    72,
+    864,
+    918
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1966
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q42196",
+ "pron_wer": 0.061,
+ "angle": 2,
+ "source": {
+  "title": "לווייתן כחול",
+  "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%9F_%D7%9B%D7%97%D7%95%D7%9C",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:57:23Z",
+ "trimmed": true
+}
