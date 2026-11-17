@@ -107,7 +107,8 @@
   "nasa:1508914",
   "World War II",
   "nasa:1378514",
-  "nasa:1489375"
+  "nasa:1489375",
+  "Black American Sign Language"
  ],
  "rejected": [
   "Chameleon",
@@ -484,6 +485,9 @@
   ],
   "nasa:1489375": [
    "Amazon Rainforest on Fire: The Amazon is currently burning uncontrollably."
+  ],
+  "Black American Sign Language": [
+   "Black American Sign Language: BASL is a unique dialect of ASL."
   ]
  },
  "exhausted": []

@@ -1,0 +1,439 @@
+{
+ "id": "en-9cb510ab",
+ "lang": "en",
+ "title": "Moon Germs Are Real",
+ "cat": "space",
+ "emoji": "🌕",
+ "sentences": [
+  "Human germs might survive on the Moon.",
+  "NASA scientists found microbes could live in shaded lunar craters.",
+  "Astronauts carry millions of bacteria on their skin that vent from spacesuits.",
+  "Tough fungi like Aspergillus niger have even survived outside the space station.",
+  "These shadowed areas protect microbes from lethal radiation.",
+  "We must identify this contamination before searching for alien life on Mars."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Human",
+    0.28,
+    0.28
+   ],
+   [
+    "germs",
+    0.28,
+    0.74
+   ],
+   [
+    "might",
+    0.74,
+    1.04
+   ],
+   [
+    "survive",
+    1.04,
+    1.48
+   ],
+   [
+    "on",
+    1.48,
+    1.84
+   ],
+   [
+    "the",
+    1.84,
+    1.96
+   ],
+   [
+    "Moon.",
+    1.96,
+    2.24
+   ],
+   [
+    "NASA",
+    2.82,
+    3.08
+   ],
+   [
+    "scientists",
+    3.08,
+    3.68
+   ],
+   [
+    "found",
+    3.68,
+    4.06
+   ],
+   [
+    "microbes",
+    4.06,
+    4.52
+   ],
+   [
+    "could",
+    4.52,
+    4.88
+   ],
+   [
+    "live",
+    4.88,
+    5.18
+   ],
+   [
+    "in",
+    5.18,
+    5.44
+   ],
+   [
+    "shaded",
+    5.44,
+    5.86
+   ],
+   [
+    "lunar",
+    5.86,
+    6.2
+   ],
+   [
+    "craters.",
+    6.2,
+    6.96
+   ],
+   [
+    "Astronauts",
+    7.4,
+    8.02
+   ],
+   [
+    "carry",
+    8.02,
+    8.26
+   ],
+   [
+    "millions",
+    8.26,
+    8.86
+   ],
+   [
+    "of",
+    8.86,
+    9.2
+   ],
+   [
+    "bacteria",
+    9.24,
+    9.56
+   ],
+   [
+    "on",
+    9.56,
+    9.98
+   ],
+   [
+    "their",
+    9.98,
+    10.12
+   ],
+   [
+    "skin",
+    10.12,
+    10.48
+   ],
+   [
+    "that",
+    10.7,
+    10.82
+   ],
+   [
+    "vent",
+    10.82,
+    11.08
+   ],
+   [
+    "from",
+    11.08,
+    11.32
+   ],
+   [
+    "spacesuits.",
+    11.32,
+    11.97
+   ],
+   [
+    "Tough",
+    12.54,
+    12.7
+   ],
+   [
+    "fungi",
+    12.7,
+    13.18
+   ],
+   [
+    "like",
+    13.18,
+    13.44
+   ],
+   [
+    "Aspergillus",
+    13.44,
+    14.16
+   ],
+   [
+    "niger",
+    14.38,
+    14.48
+   ],
+   [
+    "have",
+    14.48,
+    14.8
+   ],
+   [
+    "even",
+    14.8,
+    15.1
+   ],
+   [
+    "survived",
+    15.1,
+    15.46
+   ],
+   [
+    "outside",
+    15.46,
+    16.14
+   ],
+   [
+    "the",
+    16.14,
+    16.4
+   ],
+   [
+    "space",
+    16.5,
+    16.6
+   ],
+   [
+    "station.",
+    16.6,
+    17.0
+   ],
+   [
+    "These",
+    17.72,
+    17.86
+   ],
+   [
+    "shadowed",
+    17.86,
+    18.42
+   ],
+   [
+    "areas",
+    18.42,
+    18.7
+   ],
+   [
+    "protect",
+    18.7,
+    19.22
+   ],
+   [
+    "microbes",
+    19.22,
+    19.76
+   ],
+   [
+    "from",
+    19.76,
+    20.04
+   ],
+   [
+    "lethal",
+    20.04,
+    20.46
+   ],
+   [
+    "radiation.",
+    20.46,
+    21.18
+   ],
+   [
+    "We",
+    21.82,
+    21.92
+   ],
+   [
+    "must",
+    21.92,
+    22.18
+   ],
+   [
+    "identify",
+    22.18,
+    22.72
+   ],
+   [
+    "this",
+    22.72,
+    23.08
+   ],
+   [
+    "contamination",
+    23.08,
+    23.74
+   ],
+   [
+    "before",
+    23.74,
+    24.28
+   ],
+   [
+    "searching",
+    24.28,
+    24.82
+   ],
+   [
+    "for",
+    24.82,
+    25.06
+   ],
+   [
+    "alien",
+    25.06,
+    25.32
+   ],
+   [
+    "life",
+    25.32,
+    25.66
+   ],
+   [
+    "on",
+    25.78,
+    25.9
+   ],
+   [
+    "Mars.",
+    25.9,
+    26.4
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   29,
+   41,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Casting_Light_on_Permanently_Shadowed_Regions_%28LROC979_-_content_sp_psrs%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/GSFC/Arizona State University",
+   "page": "https://commons.wikimedia.org/wiki/File:Casting_Light_on_Permanently_Shadowed_Regions_(LROC979_-_content_sp_psrs).png",
+   "desc": "Casting Light on Permanently Shadowed Regions (LROC979 - content sp psrs) — The locations of south pole permanently shadowed regions (PSRs) with areas &gt;10 km2. Images and information about each PSR can be found in the LROC PSR Atlas. [NASA/GSFC/Arizona Stat"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/ASTRONAUT_WHITE%2C_EDWARD_H._II_-_GEMINI-IV_-_EXTRAVEHICULAR_ACTIVITY_%28EVA%29.jpg/960px-ASTRONAUT_WHITE%2C_EDWARD_H._II_-_GEMINI-IV_-_EXTRAVEHICULAR_ACTIVITY_%28EVA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "National Museum of the U.S. Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:ASTRONAUT_WHITE,_EDWARD_H._II_-_GEMINI-IV_-_EXTRAVEHICULAR_ACTIVITY_(EVA).jpg",
+   "desc": "ASTRONAUT WHITE, EDWARD H. II - GEMINI-IV - EXTRAVEHICULAR ACTIVITY (EVA) — S65-30431 (3 June 1965) --- Astronaut Edward H. White II, pilot of the Gemini IV four-day Earth-orbital mission, floats in the zero gravity of space outside the Gemini IV spacecraft. B"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Micro-Girasoli.jpg/960px-Micro-Girasoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Chiara.marraccini",
+   "page": "https://commons.wikimedia.org/wiki/File:Micro-Girasoli.jpg",
+   "desc": "Micro-Girasoli — Aspergillus niger is a fungus that causes otitis externa in humans. The image was taken with an optical microscope at 40x. The two conidiophores formed by a globose vesicle. The main characteristic for the recognition of"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Casting_Light_on_Permanently_Shadowed_Regions_%28LROC979_-_content_sylvestern%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/GSFC/Arizona State University",
+   "page": "https://commons.wikimedia.org/wiki/File:Casting_Light_on_Permanently_Shadowed_Regions_(LROC979_-_content_sylvestern).png",
+   "desc": "Casting Light on Permanently Shadowed Regions (LROC979 - content sylvestern) — A controlled mosaic of NAC long exposure images covering the PSR (NP_823380_2913430) located inside of Sylvester N crater (82.41°N, 291.32°E). This controlled mosaic can also be dow"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "Public domain",
+   "artist": "NASA/JPL/Cornell University, Maas Digital LLC",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Mars_Rover.jpg",
+   "desc": "NASA Mars Rover — An artist's concept portrays a NASA Mars Exploration Rover on the surface of Mars. Rovers Opportunity and Spirit were launched a few weeks apart in 2003 and landed in January 2004 at two sites on Mars. Each rover was bui"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Aspergillus niger",
+   "box": [
+    19,
+    21,
+    977,
+    977
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Mars",
+   "box": [
+    465,
+    0,
+    999,
+    1000
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+ "pron_wer": 0.066,
+ "angle": 0,
+ "source": {
+  "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+  "url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:53:58Z",
+ "trimmed": true
+}
