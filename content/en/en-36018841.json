@@ -1,0 +1,482 @@
+{
+ "id": "en-36018841",
+ "lang": "en",
+ "title": "Confederate Missouri Infantry Regiment",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "This Confederate regiment formed on April 28, 1862.",
+  "It missed action at the Battle of Farmington and the Battle of Iuka.",
+  "The troops charged Union lines 3 times during the Second Battle of Corinth on October 3, 1862.",
+  "Their next day attack was repulsed by a Union counterattack.",
+  "The unit combined with the 1st Missouri Infantry Regiment on November 7, 1862.",
+  "The combined unit later fought in the Vicksburg campaign and surrendered at the siege."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "Confederate",
+    0.35,
+    0.75
+   ],
+   [
+    "regiment",
+    0.75,
+    1.13
+   ],
+   [
+    "formed",
+    1.13,
+    1.47
+   ],
+   [
+    "on",
+    1.47,
+    1.67
+   ],
+   [
+    "April",
+    1.67,
+    1.91
+   ],
+   [
+    "28,",
+    1.91,
+    2.53
+   ],
+   [
+    "1862.",
+    2.97,
+    3.57
+   ],
+   [
+    "It",
+    4.11,
+    4.23
+   ],
+   [
+    "missed",
+    4.23,
+    4.47
+   ],
+   [
+    "action",
+    4.47,
+    4.85
+   ],
+   [
+    "at",
+    4.85,
+    5.09
+   ],
+   [
+    "the",
+    5.09,
+    5.17
+   ],
+   [
+    "Battle",
+    5.17,
+    5.35
+   ],
+   [
+    "of",
+    5.35,
+    5.55
+   ],
+   [
+    "Farmington",
+    5.55,
+    5.97
+   ],
+   [
+    "and",
+    5.97,
+    6.15
+   ],
+   [
+    "the",
+    6.15,
+    6.27
+   ],
+   [
+    "Battle",
+    6.27,
+    6.43
+   ],
+   [
+    "of",
+    6.43,
+    6.59
+   ],
+   [
+    "Iuka.",
+    6.59,
+    7.04
+   ],
+   [
+    "The",
+    7.55,
+    7.57
+   ],
+   [
+    "troops",
+    7.57,
+    7.77
+   ],
+   [
+    "charged",
+    7.77,
+    8.15
+   ],
+   [
+    "Union",
+    8.15,
+    8.49
+   ],
+   [
+    "lines",
+    8.49,
+    8.85
+   ],
+   [
+    "3",
+    8.85,
+    9.13
+   ],
+   [
+    "times",
+    9.13,
+    9.55
+   ],
+   [
+    "during",
+    9.55,
+    9.79
+   ],
+   [
+    "the",
+    9.79,
+    9.95
+   ],
+   [
+    "Second",
+    9.95,
+    10.17
+   ],
+   [
+    "Battle",
+    10.17,
+    10.45
+   ],
+   [
+    "of",
+    10.45,
+    10.59
+   ],
+   [
+    "Corinth",
+    10.59,
+    10.87
+   ],
+   [
+    "on",
+    10.87,
+    11.07
+   ],
+   [
+    "October",
+    11.07,
+    11.31
+   ],
+   [
+    "3,",
+    11.31,
+    11.73
+   ],
+   [
+    "1862.",
+    12.12,
+    12.67
+   ],
+   [
+    "Their",
+    13.25,
+    13.33
+   ],
+   [
+    "next",
+    13.33,
+    13.55
+   ],
+   [
+    "day",
+    13.55,
+    13.75
+   ],
+   [
+    "attack",
+    13.75,
+    13.99
+   ],
+   [
+    "was",
+    13.99,
+    14.23
+   ],
+   [
+    "repulsed",
+    14.23,
+    14.75
+   ],
+   [
+    "by",
+    14.77,
+    14.87
+   ],
+   [
+    "a",
+    14.87,
+    14.99
+   ],
+   [
+    "Union",
+    14.99,
+    15.21
+   ],
+   [
+    "counterattack.",
+    15.21,
+    15.76
+   ],
+   [
+    "The",
+    16.51,
+    16.59
+   ],
+   [
+    "unit",
+    16.59,
+    16.81
+   ],
+   [
+    "combined",
+    16.81,
+    17.09
+   ],
+   [
+    "with",
+    17.09,
+    17.39
+   ],
+   [
+    "the",
+    17.39,
+    17.53
+   ],
+   [
+    "1st",
+    17.53,
+    17.77
+   ],
+   [
+    "Missouri",
+    17.77,
+    18.01
+   ],
+   [
+    "Infantry",
+    18.01,
+    18.53
+   ],
+   [
+    "Regiment",
+    18.53,
+    18.91
+   ],
+   [
+    "on",
+    18.91,
+    19.07
+   ],
+   [
+    "November",
+    19.07,
+    19.31
+   ],
+   [
+    "7,",
+    19.31,
+    19.79
+   ],
+   [
+    "1862.",
+    20.33,
+    20.93
+   ],
+   [
+    "The",
+    21.49,
+    21.59
+   ],
+   [
+    "combined",
+    21.65,
+    21.87
+   ],
+   [
+    "unit",
+    21.87,
+    22.29
+   ],
+   [
+    "later",
+    22.29,
+    22.53
+   ],
+   [
+    "fought",
+    22.53,
+    22.83
+   ],
+   [
+    "in",
+    22.83,
+    23.01
+   ],
+   [
+    "the",
+    23.01,
+    23.09
+   ],
+   [
+    "Vicksburg",
+    23.09,
+    23.47
+   ],
+   [
+    "campaign",
+    23.47,
+    23.93
+   ],
+   [
+    "and",
+    23.93,
+    24.23
+   ],
+   [
+    "surrendered",
+    24.23,
+    24.57
+   ],
+   [
+    "at",
+    24.57,
+    24.83
+   ],
+   [
+    "the",
+    24.83,
+    24.93
+   ],
+   [
+    "siege.",
+    24.93,
+    25.17
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   21,
+   38,
+   48,
+   61
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Battle_of_Iuka.png/960px-Battle_of_Iuka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 594,
+   "license": "CC BY 3.0",
+   "artist": "Hal Jespersen at en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Iuka.png",
+   "desc": "Battle of Iuka — Battle of Iuka of the American Civil War. Drawn by Hal Jespersen in Adobe Illustrator CS5. Graphic source file is available at http://www.posix.com/CWmaps/"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Iuka-Corinth_Campaign2.png/960px-Iuka-Corinth_Campaign2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 556,
+   "license": "CC BY 3.0",
+   "artist": "Hal Jespersen at en.wikipedia, the copyright holder of this work, hereby publish",
+   "page": "https://commons.wikimedia.org/wiki/File:Iuka-Corinth_Campaign2.png",
+   "desc": "Iuka-Corinth Campaign2 — Iuka-Corinth Campaign of the American Civil War, part 2."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Siege_of_Vicksburg_by_Kurz_%26_Allison.jpg/960px-Siege_of_Vicksburg_by_Kurz_%26_Allison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 556,
+   "license": "Public domain",
+   "artist": "Kurz &amp; Allison",
+   "page": "https://commons.wikimedia.org/wiki/File:Siege_of_Vicksburg_by_Kurz_%26_Allison.jpg",
+   "desc": "Siege of Vicksburg by Kurz & Allison — Siege of Vicksburg—XIII, XV, &amp; XVII Corps, Commanded by Gen. Ulysses S. Grant, assisted by the Navy under Admiral Porter—Surrender, July 4, 1863."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1862
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "charges",
+   "label": "charges against Union"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1862
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q96371092",
+ "pron_wer": 0.04,
+ "angle": 2,
+ "source": {
+  "title": "4th Missouri Infantry Regiment (Confederate)",
+  "url": "https://en.wikipedia.org/wiki/4th_Missouri_Infantry_Regiment_%28Confederate%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:21:57Z",
+ "trimmed": true
+}
