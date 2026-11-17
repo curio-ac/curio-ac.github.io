@@ -1,0 +1,375 @@
+{
+ "id": "en-4e575433",
+ "lang": "en",
+ "title": "The Secrets of The Bean",
+ "cat": "art",
+ "emoji": "🫘",
+ "sentences": [
+  "Chicago’s famous Bean weighs 110 tons.",
+  "Artist Anish Kapoor designed this massive sculpture.",
+  "It is made from 168 stainless steel plates.",
+  "Welders fused them together with no visible seams.",
+  "Its shape was inspired by liquid mercury.",
+  "Visitors walk under a 12-foot high arch.",
+  "The concave underside warps and multiplies your reflection."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Chicago’s",
+    0.2,
+    0.64
+   ],
+   [
+    "famous",
+    0.68,
+    0.92
+   ],
+   [
+    "Bean",
+    0.92,
+    1.3
+   ],
+   [
+    "weighs",
+    1.3,
+    1.7
+   ],
+   [
+    "110",
+    1.7,
+    2.54
+   ],
+   [
+    "tons.",
+    2.54,
+    3.42
+   ],
+   [
+    "Artist",
+    4.1,
+    4.42
+   ],
+   [
+    "Anish",
+    4.42,
+    4.96
+   ],
+   [
+    "Kapoor",
+    4.96,
+    5.46
+   ],
+   [
+    "designed",
+    5.46,
+    5.98
+   ],
+   [
+    "this",
+    5.98,
+    6.34
+   ],
+   [
+    "massive",
+    6.34,
+    6.82
+   ],
+   [
+    "sculpture.",
+    6.82,
+    7.46
+   ],
+   [
+    "It",
+    8.2,
+    8.2
+   ],
+   [
+    "is",
+    8.2,
+    8.32
+   ],
+   [
+    "made",
+    8.32,
+    8.5
+   ],
+   [
+    "from",
+    8.5,
+    8.7
+   ],
+   [
+    "168",
+    8.7,
+    10.0
+   ],
+   [
+    "stainless",
+    10.0,
+    10.44
+   ],
+   [
+    "steel",
+    10.44,
+    10.84
+   ],
+   [
+    "plates.",
+    10.84,
+    11.4
+   ],
+   [
+    "Welders",
+    11.9,
+    12.26
+   ],
+   [
+    "fused",
+    12.26,
+    12.72
+   ],
+   [
+    "them",
+    12.72,
+    12.88
+   ],
+   [
+    "together",
+    12.88,
+    13.24
+   ],
+   [
+    "with",
+    13.24,
+    13.5
+   ],
+   [
+    "no",
+    13.5,
+    13.8
+   ],
+   [
+    "visible",
+    13.8,
+    14.18
+   ],
+   [
+    "seams.",
+    14.18,
+    14.56
+   ],
+   [
+    "Its",
+    15.38,
+    15.5
+   ],
+   [
+    "shape",
+    15.5,
+    15.78
+   ],
+   [
+    "was",
+    15.78,
+    16.02
+   ],
+   [
+    "inspired",
+    16.02,
+    16.42
+   ],
+   [
+    "by",
+    16.42,
+    16.64
+   ],
+   [
+    "liquid",
+    16.64,
+    16.98
+   ],
+   [
+    "mercury.",
+    16.98,
+    17.6
+   ],
+   [
+    "Visitors",
+    18.3,
+    18.6
+   ],
+   [
+    "walk",
+    18.6,
+    18.88
+   ],
+   [
+    "under",
+    18.88,
+    19.16
+   ],
+   [
+    "a",
+    19.16,
+    19.32
+   ],
+   [
+    "12-foot",
+    19.32,
+    19.92
+   ],
+   [
+    "high",
+    19.92,
+    20.24
+   ],
+   [
+    "arch.",
+    20.24,
+    20.5
+   ],
+   [
+    "The",
+    21.16,
+    21.24
+   ],
+   [
+    "concave",
+    21.24,
+    21.76
+   ],
+   [
+    "underside",
+    21.76,
+    22.06
+   ],
+   [
+    "warps",
+    22.06,
+    22.92
+   ],
+   [
+    "and",
+    22.92,
+    23.06
+   ],
+   [
+    "multiplies",
+    23.06,
+    23.68
+   ],
+   [
+    "your",
+    23.68,
+    23.78
+   ],
+   [
+    "reflection.",
+    23.78,
+    24.1
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   21,
+   29,
+   36,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cloud_gate_construction.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 737,
+   "license": "CC BY 3.0",
+   "artist": "Cmgiulini",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloud_gate_construction.jpg",
+   "desc": "Cloud gate construction — Construction crews begin work on the Cloud Gate"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hg_Mercury.jpg/960px-Hg_Mercury.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 575,
+   "license": "Public domain",
+   "artist": "А",
+   "page": "https://commons.wikimedia.org/wiki/File:Hg_Mercury.jpg",
+   "desc": "Hg Mercury — Picture I took of a small puddle of the element mercury. Releasing to the public domain. This mercury is in the process of being disposed of properly, so none of it will end up in a landfill."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg/960px-Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 389,
+   "license": "CC BY 2.0",
+   "artist": "Roman Boed from The Netherlands",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicago_from_under_the_Cloud_Gate_(9694666470).jpg",
+   "desc": "Chicago from under the Cloud Gate (9694666470) — Chicago from under the Cloud Gate"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  0,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 110,
+   "unit": "short tons",
+   "label": "sculpture weight"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 168,
+   "unit": "plates",
+   "label": "steel plates"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 3.7,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  41.883,
+  -87.623
+ ],
+ "qid": "Q589099",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Cloud Gate",
+  "url": "https://en.wikipedia.org/wiki/Cloud_Gate",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:53:15Z",
+ "trimmed": true
+}

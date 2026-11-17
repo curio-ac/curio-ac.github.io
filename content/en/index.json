@@ -90,7 +90,8 @@
   "nasa:1490468",
   "Alabama Centennial half dollar",
   "Cædwalla",
-  "nasa:1463889"
+  "nasa:1463889",
+  "AI Mark IV radar"
  ],
  "rejected": [
   "Chameleon",
@@ -405,6 +406,9 @@
   ],
   "nasa:1463889": [
    "Mars' Mystery Light Rocks: Mars just revealed a field of strange, light-colored rocks."
+  ],
+  "AI Mark IV radar": [
+   "The World's First Air Radar: This was the world's first operational air-to-air radar."
   ]
  },
  "exhausted": []
