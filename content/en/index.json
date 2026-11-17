@@ -101,7 +101,8 @@
   "French battleship Courbet",
   "Bill Denny",
   "The Dark Side of the Moon",
-  "Admiralty Islands campaign"
+  "Admiralty Islands campaign",
+  "L'Ange de Nisida"
  ],
  "rejected": [
   "Chameleon",
@@ -456,6 +457,9 @@
   ],
   "Admiralty Islands campaign": [
    "The Empty Island Invasion: They invaded because they thought the islands were empty!"
+  ],
+  "L'Ange de Nisida": [
+   "Lost Opera Played 2018: An opera waited nearly 180 years for its premiere."
   ]
  },
  "exhausted": []

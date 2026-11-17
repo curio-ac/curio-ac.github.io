@@ -1,0 +1,442 @@
+{
+ "id": "en-4cdeb451",
+ "lang": "en",
+ "title": "Italian Dreadnoughts in WWI",
+ "cat": "history",
+ "emoji": "⚓",
+ "sentences": [
+  "Three Italian dreadnoughts formed the Conte di Cavour class in the 1910s.",
+  "They ferried 138,000 Serbian infantry across the Adriatic in 87 trips.",
+  "These ships also carried 13,000 cavalrymen and 10,000 horses to Corfu.",
+  "Leonardo da Vinci sank from a magazine explosion in 1916.",
+  "The two survivors were extensively reconstructed between 1933 and 1937.",
+  "Both ships later participated in the Battle of Calabria in July 1940."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Three",
+    0.35,
+    0.39
+   ],
+   [
+    "Italian",
+    0.39,
+    0.95
+   ],
+   [
+    "dreadnoughts",
+    0.95,
+    1.59
+   ],
+   [
+    "formed",
+    1.67,
+    1.83
+   ],
+   [
+    "the",
+    1.83,
+    2.09
+   ],
+   [
+    "Conte",
+    2.17,
+    2.49
+   ],
+   [
+    "di",
+    2.49,
+    2.61
+   ],
+   [
+    "Cavour",
+    2.61,
+    2.89
+   ],
+   [
+    "class",
+    2.89,
+    3.41
+   ],
+   [
+    "in",
+    3.41,
+    3.65
+   ],
+   [
+    "the",
+    3.65,
+    3.73
+   ],
+   [
+    "1910s.",
+    3.73,
+    4.47
+   ],
+   [
+    "They",
+    5.07,
+    5.13
+   ],
+   [
+    "ferried",
+    5.13,
+    5.41
+   ],
+   [
+    "138,000",
+    5.41,
+    6.11
+   ],
+   [
+    "Serbian",
+    7.07,
+    7.49
+   ],
+   [
+    "infantry",
+    7.85,
+    7.95
+   ],
+   [
+    "across",
+    7.95,
+    8.37
+   ],
+   [
+    "the",
+    8.37,
+    8.67
+   ],
+   [
+    "Adriatic",
+    8.67,
+    9.15
+   ],
+   [
+    "in",
+    9.15,
+    9.41
+   ],
+   [
+    "87",
+    9.55,
+    9.87
+   ],
+   [
+    "trips.",
+    9.87,
+    10.15
+   ],
+   [
+    "These",
+    11.11,
+    11.21
+   ],
+   [
+    "ships",
+    11.21,
+    11.37
+   ],
+   [
+    "also",
+    11.37,
+    11.75
+   ],
+   [
+    "carried",
+    11.75,
+    12.07
+   ],
+   [
+    "13,000",
+    12.07,
+    12.87
+   ],
+   [
+    "cavalrymen",
+    13.13,
+    13.79
+   ],
+   [
+    "and",
+    13.79,
+    14.17
+   ],
+   [
+    "10,000",
+    14.33,
+    14.81
+   ],
+   [
+    "horses",
+    14.87,
+    15.09
+   ],
+   [
+    "to",
+    15.09,
+    15.33
+   ],
+   [
+    "Corfu.",
+    15.33,
+    15.63
+   ],
+   [
+    "Leonardo",
+    16.59,
+    16.89
+   ],
+   [
+    "da",
+    16.89,
+    17.15
+   ],
+   [
+    "Vinci",
+    17.15,
+    17.35
+   ],
+   [
+    "sank",
+    17.35,
+    17.69
+   ],
+   [
+    "from",
+    17.69,
+    17.91
+   ],
+   [
+    "a",
+    17.91,
+    18.07
+   ],
+   [
+    "magazine",
+    18.07,
+    18.33
+   ],
+   [
+    "explosion",
+    18.33,
+    18.83
+   ],
+   [
+    "in",
+    18.83,
+    19.13
+   ],
+   [
+    "1916.",
+    19.13,
+    20.03
+   ],
+   [
+    "The",
+    20.55,
+    20.63
+   ],
+   [
+    "two",
+    20.63,
+    20.77
+   ],
+   [
+    "survivors",
+    20.77,
+    21.11
+   ],
+   [
+    "were",
+    21.11,
+    21.37
+   ],
+   [
+    "extensively",
+    21.37,
+    21.83
+   ],
+   [
+    "reconstructed",
+    21.83,
+    22.65
+   ],
+   [
+    "between",
+    22.81,
+    22.91
+   ],
+   [
+    "1933",
+    22.91,
+    23.57
+   ],
+   [
+    "and",
+    23.57,
+    24.31
+   ],
+   [
+    "1937.",
+    24.31,
+    25.15
+   ],
+   [
+    "Both",
+    25.87,
+    25.99
+   ],
+   [
+    "ships",
+    25.99,
+    26.19
+   ],
+   [
+    "later",
+    26.19,
+    26.43
+   ],
+   [
+    "participated",
+    26.43,
+    26.91
+   ],
+   [
+    "in",
+    26.91,
+    27.25
+   ],
+   [
+    "the",
+    27.25,
+    27.35
+   ],
+   [
+    "Battle",
+    27.35,
+    27.57
+   ],
+   [
+    "of",
+    27.57,
+    27.75
+   ],
+   [
+    "Calabria",
+    27.89,
+    28.31
+   ],
+   [
+    "in",
+    28.31,
+    28.75
+   ],
+   [
+    "July",
+    28.75,
+    28.97
+   ],
+   [
+    "1940.",
+    28.97,
+    29.27
+   ]
+  ],
+  "b": [
+   0,
+   12,
+   23,
+   34,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Drawing_of_Conte_di_Cavour-class_battleships.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 442,
+   "license": "Public domain",
+   "artist": "Unknown, likely official artist given the source",
+   "page": "https://commons.wikimedia.org/wiki/File:Drawing_of_Conte_di_Cavour-class_battleships.jpg",
+   "desc": "Drawing of Conte di Cavour-class battleships — Drawing of Conte di Cavour-class battleships in their original configuration"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/AerialViewCavour.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 367,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:AerialViewCavour.jpg",
+   "desc": "AerialViewCavour — An aerial view of Conte di Cavour after her reconstruction"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Giulioce07.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 434,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Giulioce07.jpg",
+   "desc": "Giulioce07 — Giulio Cesare leading her sister"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1910
+  },
+  {
+   "type": "stat",
+   "value": 138000,
+   "unit": "infantry",
+   "label": "Serbian infantry"
+  },
+  {
+   "type": "stat",
+   "value": 13000,
+   "unit": "cavalrymen",
+   "label": "cavalrymen"
+  },
+  {
+   "type": "timeline",
+   "year": 1916
+  },
+  {
+   "type": "timeline",
+   "year": 1933
+  },
+  {
+   "type": "timeline",
+   "year": 1940
+  }
+ ],
+ "geo": null,
+ "qid": "Q1128562",
+ "pron_wer": 0.061,
+ "angle": 0,
+ "source": {
+  "title": "Conte di Cavour-class battleship",
+  "url": "https://en.wikipedia.org/wiki/Conte_di_Cavour-class_battleship",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:05:52Z",
+ "trimmed": true
+}
