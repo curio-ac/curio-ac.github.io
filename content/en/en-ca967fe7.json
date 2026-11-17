@@ -1,0 +1,413 @@
+{
+ "id": "en-ca967fe7",
+ "lang": "en",
+ "title": "Anna Blackburne's Natural History Museum",
+ "cat": "history",
+ "emoji": "🦋",
+ "sentences": [
+  "Anna Blackburne built her own natural history museum.",
+  "She collected insects, shells, minerals, and birds.",
+  "She even taught herself Latin to read Carl Linnaeus’s book.",
+  "Her father owned hothouses for exotic plants at their home.",
+  "She studied entomology with naturalist Johann Reinhold Forster.",
+  "Her brother sent her bird specimens from New York.",
+  "She even sent her own collections directly to Linnaeus."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Anna",
+    0.32,
+    0.52
+   ],
+   [
+    "Blackburne",
+    0.52,
+    1.14
+   ],
+   [
+    "built",
+    1.14,
+    1.38
+   ],
+   [
+    "her",
+    1.38,
+    1.58
+   ],
+   [
+    "own",
+    1.58,
+    1.8
+   ],
+   [
+    "natural",
+    1.8,
+    2.24
+   ],
+   [
+    "history",
+    2.24,
+    2.58
+   ],
+   [
+    "museum.",
+    2.58,
+    2.92
+   ],
+   [
+    "She",
+    3.6,
+    3.66
+   ],
+   [
+    "collected",
+    3.74,
+    4.04
+   ],
+   [
+    "insects,",
+    4.04,
+    4.79
+   ],
+   [
+    "shells,",
+    5.0,
+    5.62
+   ],
+   [
+    "minerals,",
+    5.64,
+    6.28
+   ],
+   [
+    "and",
+    6.3,
+    6.34
+   ],
+   [
+    "birds.",
+    6.34,
+    6.66
+   ],
+   [
+    "She",
+    7.28,
+    7.42
+   ],
+   [
+    "even",
+    7.42,
+    7.62
+   ],
+   [
+    "taught",
+    7.62,
+    7.82
+   ],
+   [
+    "herself",
+    7.82,
+    8.04
+   ],
+   [
+    "Latin",
+    8.04,
+    8.5
+   ],
+   [
+    "to",
+    8.5,
+    8.84
+   ],
+   [
+    "read",
+    8.9,
+    9.04
+   ],
+   [
+    "Carl",
+    9.04,
+    9.38
+   ],
+   [
+    "Linnaeus’s",
+    9.38,
+    9.92
+   ],
+   [
+    "book.",
+    9.92,
+    10.02
+   ],
+   [
+    "Her",
+    10.96,
+    11.06
+   ],
+   [
+    "father",
+    11.06,
+    11.3
+   ],
+   [
+    "owned",
+    11.3,
+    11.58
+   ],
+   [
+    "hothouses",
+    11.58,
+    12.22
+   ],
+   [
+    "for",
+    12.22,
+    12.5
+   ],
+   [
+    "exotic",
+    12.76,
+    12.86
+   ],
+   [
+    "plants",
+    12.86,
+    13.2
+   ],
+   [
+    "at",
+    13.2,
+    13.34
+   ],
+   [
+    "their",
+    13.34,
+    13.44
+   ],
+   [
+    "home.",
+    13.44,
+    13.74
+   ],
+   [
+    "She",
+    14.36,
+    14.46
+   ],
+   [
+    "studied",
+    14.46,
+    14.76
+   ],
+   [
+    "entomology",
+    14.88,
+    15.5
+   ],
+   [
+    "with",
+    15.5,
+    15.78
+   ],
+   [
+    "naturalist",
+    15.78,
+    16.3
+   ],
+   [
+    "Johann",
+    16.3,
+    16.68
+   ],
+   [
+    "Reinhold",
+    16.68,
+    17.3
+   ],
+   [
+    "Forster.",
+    17.3,
+    17.8
+   ],
+   [
+    "Her",
+    18.56,
+    18.66
+   ],
+   [
+    "brother",
+    18.66,
+    18.88
+   ],
+   [
+    "sent",
+    18.88,
+    19.14
+   ],
+   [
+    "her",
+    19.14,
+    19.32
+   ],
+   [
+    "bird",
+    19.32,
+    19.62
+   ],
+   [
+    "specimens",
+    19.62,
+    20.0
+   ],
+   [
+    "from",
+    20.24,
+    20.34
+   ],
+   [
+    "New",
+    20.34,
+    20.48
+   ],
+   [
+    "York.",
+    20.48,
+    20.78
+   ],
+   [
+    "She",
+    21.54,
+    21.64
+   ],
+   [
+    "even",
+    21.64,
+    21.86
+   ],
+   [
+    "sent",
+    21.86,
+    22.12
+   ],
+   [
+    "her",
+    22.12,
+    22.32
+   ],
+   [
+    "own",
+    22.32,
+    22.64
+   ],
+   [
+    "collections",
+    22.64,
+    23.08
+   ],
+   [
+    "directly",
+    23.08,
+    23.64
+   ],
+   [
+    "to",
+    23.64,
+    24.0
+   ],
+   [
+    "Linnaeus.",
+    24.0,
+    24.52
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   25,
+   35,
+   43,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814748694774%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 981,
+   "license": "No restrictions",
+   "artist": "Internet Archive Book Images",
+   "page": "https://commons.wikimedia.org/wiki/File:Nature_neighbors,_embracing_birds,_plants,_animals,_minerals,_in_natural_colors_by_color_photography,_containing_articles_by_Gerald_Alan_Abbott,_Dr._Albert_Schneider,_William_Kerr_Higley...and_other_(14748694774).jpg",
+   "desc": "Nature neighbors, embracing birds, plants, animals, minerals, in natural colors by color photography, containing articles by Gerald Alan Abbott, Dr. Albert Schneider, William Kerr Higley...and other (14748694774) — Identifier: natureneighborse05bant (find matc"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/7Z1E8688.jpg/960px-7Z1E8688.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 452,
+   "license": "CC BY-SA 3.0",
+   "artist": "William H. Majoros",
+   "page": "https://commons.wikimedia.org/wiki/File:7Z1E8688.jpg",
+   "desc": "7Z1E8688 — blackburnian warbler"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blackburnesig3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 130,
+   "license": "Public domain",
+   "artist": "Anne Blackburne",
+   "page": "https://commons.wikimedia.org/wiki/File:Blackburnesig3.jpg",
+   "desc": "Blackburnesig3 — Anne Blackburne's signature from a letter to Linnaeus, 14 October 1771"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2850468",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Anna Blackburne",
+  "url": "https://en.wikipedia.org/wiki/Anna_Blackburne",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:09:43Z",
+ "trimmed": true
+}

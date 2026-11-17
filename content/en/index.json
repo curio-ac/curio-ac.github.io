@@ -79,7 +79,8 @@
   "1910 Cuba hurricane",
   "Astronomica (Manilius)",
   "nasa:1506766",
-  "Cholangiocarcinoma"
+  "Cholangiocarcinoma",
+  "Castle"
  ],
  "rejected": [
   "Chameleon",
@@ -90,7 +91,8 @@
   "Bluey (TV series)",
   "Tardigrade",
   "Monarch butterfly",
-  "Hurricane Connie"
+  "Hurricane Connie",
+  "nasa:1463164"
  ],
  "angles": {
   "Blue whale": [
@@ -352,6 +354,9 @@
   ],
   "Cholangiocarcinoma": [
    "Bile Duct Cancer Explained: Cholangiocarcinoma forms directly inside your bile ducts."
+  ],
+  "Castle": [
+   "Castles Were Never Just Homes: Castles were offensive bases, not just homes."
   ]
  },
  "exhausted": []
