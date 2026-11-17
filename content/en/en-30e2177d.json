@@ -1,0 +1,379 @@
+{
+ "id": "en-30e2177d",
+ "lang": "en",
+ "title": "Earth's Seasons From Space",
+ "cat": "space",
+ "emoji": "🌍",
+ "sentences": [
+  "Earth’s tilt creates our changing seasons.",
+  "A massive collision 4.5 billion years ago tilted our planet by 23.5 degrees.",
+  "NASA’s EPIC camera captures this tilt from 1 million miles away.",
+  "In June, the Northern Hemisphere leans toward the Sun for longer days.",
+  "By December, the Southern Hemisphere leans into the sunlight.",
+  "These images show our continents shifting positions throughout the year."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Earth’s",
+    0.24,
+    0.64
+   ],
+   [
+    "tilt",
+    0.64,
+    0.78
+   ],
+   [
+    "creates",
+    0.78,
+    1.2
+   ],
+   [
+    "our",
+    1.2,
+    1.4
+   ],
+   [
+    "changing",
+    1.4,
+    1.78
+   ],
+   [
+    "seasons.",
+    1.78,
+    2.14
+   ],
+   [
+    "A",
+    2.8,
+    2.8
+   ],
+   [
+    "massive",
+    2.8,
+    3.1
+   ],
+   [
+    "collision",
+    3.1,
+    3.52
+   ],
+   [
+    "4.5",
+    3.52,
+    4.52
+   ],
+   [
+    "billion",
+    4.7,
+    4.92
+   ],
+   [
+    "years",
+    4.92,
+    5.3
+   ],
+   [
+    "ago",
+    5.3,
+    5.62
+   ],
+   [
+    "tilted",
+    5.62,
+    5.98
+   ],
+   [
+    "our",
+    5.98,
+    6.2
+   ],
+   [
+    "planet",
+    6.2,
+    6.5
+   ],
+   [
+    "by",
+    6.5,
+    6.7
+   ],
+   [
+    "23.5",
+    6.7,
+    7.7
+   ],
+   [
+    "degrees.",
+    7.7,
+    7.8
+   ],
+   [
+    "NASA’s",
+    8.7,
+    9.18
+   ],
+   [
+    "EPIC",
+    9.28,
+    9.56
+   ],
+   [
+    "camera",
+    9.56,
+    9.96
+   ],
+   [
+    "captures",
+    10.12,
+    10.42
+   ],
+   [
+    "this",
+    10.42,
+    10.68
+   ],
+   [
+    "tilt",
+    10.68,
+    10.92
+   ],
+   [
+    "from",
+    10.92,
+    11.16
+   ],
+   [
+    "1",
+    11.16,
+    11.5
+   ],
+   [
+    "million",
+    11.5,
+    11.84
+   ],
+   [
+    "miles",
+    11.84,
+    12.16
+   ],
+   [
+    "away.",
+    12.16,
+    12.5
+   ],
+   [
+    "In",
+    13.3,
+    13.32
+   ],
+   [
+    "June,",
+    13.32,
+    13.9
+   ],
+   [
+    "the",
+    13.94,
+    13.96
+   ],
+   [
+    "Northern",
+    13.96,
+    14.22
+   ],
+   [
+    "Hemisphere",
+    14.22,
+    14.7
+   ],
+   [
+    "leans",
+    14.7,
+    15.22
+   ],
+   [
+    "toward",
+    15.22,
+    15.4
+   ],
+   [
+    "the",
+    15.4,
+    15.58
+   ],
+   [
+    "Sun",
+    15.58,
+    15.8
+   ],
+   [
+    "for",
+    15.8,
+    16.0
+   ],
+   [
+    "longer",
+    16.0,
+    16.26
+   ],
+   [
+    "days.",
+    16.26,
+    16.42
+   ],
+   [
+    "By",
+    17.06,
+    17.14
+   ],
+   [
+    "December,",
+    17.14,
+    17.72
+   ],
+   [
+    "the",
+    17.9,
+    17.94
+   ],
+   [
+    "Southern",
+    17.94,
+    18.26
+   ],
+   [
+    "Hemisphere",
+    18.26,
+    18.68
+   ],
+   [
+    "leans",
+    18.7,
+    19.08
+   ],
+   [
+    "into",
+    19.08,
+    19.2
+   ],
+   [
+    "the",
+    19.2,
+    19.36
+   ],
+   [
+    "sunlight.",
+    19.36,
+    19.7
+   ],
+   [
+    "These",
+    20.46,
+    20.56
+   ],
+   [
+    "images",
+    20.56,
+    20.9
+   ],
+   [
+    "show",
+    20.9,
+    21.28
+   ],
+   [
+    "our",
+    21.28,
+    21.48
+   ],
+   [
+    "continents",
+    21.48,
+    21.8
+   ],
+   [
+    "shifting",
+    21.8,
+    22.26
+   ],
+   [
+    "positions",
+    22.32,
+    22.82
+   ],
+   [
+    "throughout",
+    23.1,
+    23.2
+   ],
+   [
+    "the",
+    23.2,
+    23.4
+   ],
+   [
+    "year.",
+    23.4,
+    23.58
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   19,
+   30,
+   42,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "An Epic View of the Seasons",
+  "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:50:25Z",
+ "trimmed": true
+}
