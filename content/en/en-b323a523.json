@@ -1,0 +1,422 @@
+{
+ "id": "en-b323a523",
+ "lang": "en",
+ "title": "Secrets of Beta Radiation",
+ "cat": "physics",
+ "emoji": "⚛️",
+ "sentences": [
+  "He proved scientists wrong about beta radiation.",
+  "Working with Hans Geiger in Berlin, he used the new Geiger counter.",
+  "He showed it produced a continuous spectrum instead of discrete lines.",
+  "In 1941, he wrote the final draft of the MAUD Report.",
+  "This inspired the U.S. government to start serious atomic bomb research.",
+  "He later led the British team on the Manhattan Project."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.3,
+    0.3
+   ],
+   [
+    "proved",
+    0.3,
+    0.56
+   ],
+   [
+    "scientists",
+    0.56,
+    0.94
+   ],
+   [
+    "wrong",
+    0.94,
+    1.4
+   ],
+   [
+    "about",
+    1.4,
+    1.64
+   ],
+   [
+    "beta",
+    1.64,
+    1.88
+   ],
+   [
+    "radiation.",
+    1.88,
+    2.53
+   ],
+   [
+    "Working",
+    2.94,
+    3.1
+   ],
+   [
+    "with",
+    3.1,
+    3.34
+   ],
+   [
+    "Hans",
+    3.34,
+    3.54
+   ],
+   [
+    "Geiger",
+    3.54,
+    3.92
+   ],
+   [
+    "in",
+    3.92,
+    4.08
+   ],
+   [
+    "Berlin,",
+    4.08,
+    4.6
+   ],
+   [
+    "he",
+    4.72,
+    4.72
+   ],
+   [
+    "used",
+    4.72,
+    4.98
+   ],
+   [
+    "the",
+    4.98,
+    5.18
+   ],
+   [
+    "new",
+    5.18,
+    5.3
+   ],
+   [
+    "Geiger",
+    5.3,
+    5.6
+   ],
+   [
+    "counter.",
+    5.6,
+    5.92
+   ],
+   [
+    "He",
+    6.2,
+    6.28
+   ],
+   [
+    "showed",
+    6.28,
+    6.48
+   ],
+   [
+    "it",
+    6.48,
+    6.58
+   ],
+   [
+    "produced",
+    6.58,
+    6.88
+   ],
+   [
+    "a",
+    6.88,
+    7.08
+   ],
+   [
+    "continuous",
+    7.08,
+    7.5
+   ],
+   [
+    "spectrum",
+    7.5,
+    8.02
+   ],
+   [
+    "instead",
+    8.02,
+    8.4
+   ],
+   [
+    "of",
+    8.4,
+    8.58
+   ],
+   [
+    "discrete",
+    8.58,
+    8.82
+   ],
+   [
+    "lines.",
+    8.82,
+    9.24
+   ],
+   [
+    "In",
+    9.74,
+    9.8
+   ],
+   [
+    "1941,",
+    9.8,
+    10.54
+   ],
+   [
+    "he",
+    10.8,
+    10.88
+   ],
+   [
+    "wrote",
+    10.88,
+    11.04
+   ],
+   [
+    "the",
+    11.04,
+    11.2
+   ],
+   [
+    "final",
+    11.2,
+    11.42
+   ],
+   [
+    "draft",
+    11.42,
+    11.74
+   ],
+   [
+    "of",
+    11.74,
+    11.92
+   ],
+   [
+    "the",
+    11.92,
+    11.98
+   ],
+   [
+    "MAUD",
+    11.98,
+    12.16
+   ],
+   [
+    "Report.",
+    12.16,
+    12.52
+   ],
+   [
+    "This",
+    13.0,
+    13.08
+   ],
+   [
+    "inspired",
+    13.08,
+    13.44
+   ],
+   [
+    "the",
+    13.44,
+    13.68
+   ],
+   [
+    "U.S.",
+    13.68,
+    13.98
+   ],
+   [
+    "government",
+    14.02,
+    14.28
+   ],
+   [
+    "to",
+    14.28,
+    14.48
+   ],
+   [
+    "start",
+    14.48,
+    14.7
+   ],
+   [
+    "serious",
+    14.7,
+    15.08
+   ],
+   [
+    "atomic",
+    15.08,
+    15.48
+   ],
+   [
+    "bomb",
+    15.48,
+    15.78
+   ],
+   [
+    "research.",
+    15.78,
+    16.44
+   ],
+   [
+    "He",
+    16.52,
+    16.6
+   ],
+   [
+    "later",
+    16.6,
+    16.82
+   ],
+   [
+    "led",
+    16.82,
+    17.04
+   ],
+   [
+    "the",
+    17.04,
+    17.18
+   ],
+   [
+    "British",
+    17.18,
+    17.36
+   ],
+   [
+    "team",
+    17.36,
+    17.68
+   ],
+   [
+    "on",
+    17.68,
+    17.84
+   ],
+   [
+    "the",
+    17.84,
+    17.9
+   ],
+   [
+    "Manhattan",
+    17.9,
+    18.16
+   ],
+   [
+    "Project.",
+    18.16,
+    18.68
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   30,
+   41,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/James_Chadwick.jpg/960px-James_Chadwick.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Attribution",
+   "artist": "Los Alamos National Laboratory",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Chadwick.jpg",
+   "desc": "James Chadwick — James Chadwick"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/MAUD_Report.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1034,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:MAUD_Report.jpg",
+   "desc": "MAUD Report — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Quebec_conference_1943.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 562,
+   "license": "Public domain",
+   "artist": "Montreal Gazette",
+   "page": "https://commons.wikimedia.org/wiki/File:Quebec_conference_1943.png",
+   "desc": "Quebec conference 1943 — Rt. Hon. Mackenzie King, President Franklin D. Roosevelt and Rt. Hon. Winston Churchill at the Quebec Conference"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/William_Penney%2C_Otto_Frisch%2C_Rudolf_Peierls_and_John_Cockroft.jpg/960px-William_Penney%2C_Otto_Frisch%2C_Rudolf_Peierls_and_John_Cockroft.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 531,
+   "license": "Attribution",
+   "artist": "Los Alamos National Laboratory",
+   "page": "https://commons.wikimedia.org/wiki/File:William_Penney,_Otto_Frisch,_Rudolf_Peierls_and_John_Cockroft.jpg",
+   "desc": "William Penney, Otto Frisch, Rudolf Peierls and John Cockroft — Left to right: William Penney, Otto Frisch, Rudolf Peierls and John Cockcroft. They are wearing the American Medal of Freedom."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1941
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q80884",
+ "pron_wer": 0.048,
+ "angle": 1,
+ "source": {
+  "title": "James Chadwick",
+  "url": "https://en.wikipedia.org/wiki/James_Chadwick",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:16:20Z",
+ "trimmed": true
+}
