@@ -1,0 +1,399 @@
+{
+ "id": "en-6b9d740e",
+ "lang": "en",
+ "title": "Bile Duct Cancer Explained",
+ "cat": "medicine",
+ "emoji": "🩺",
+ "sentences": [
+  "Cholangiocarcinoma forms directly inside your bile ducts.",
+  "Symptoms include abdominal pain, yellowish skin, and fever.",
+  "Patients might also notice weight loss, itching, or dark urine.",
+  "Risk factors include cirrhosis, hepatitis B or C, and ulcerative colitis.",
+  "Most people have no identifiable risk factors at all.",
+  "Diagnosis requires examining tumor cells under a microscope.",
+  "It is typically incurable when first detected."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cholangiocarcinoma",
+    0.35,
+    1.25
+   ],
+   [
+    "forms",
+    1.25,
+    1.69
+   ],
+   [
+    "directly",
+    1.69,
+    2.21
+   ],
+   [
+    "inside",
+    2.21,
+    2.97
+   ],
+   [
+    "your",
+    2.97,
+    3.37
+   ],
+   [
+    "bile",
+    3.37,
+    3.65
+   ],
+   [
+    "ducts.",
+    3.65,
+    4.67
+   ],
+   [
+    "Symptoms",
+    4.77,
+    5.05
+   ],
+   [
+    "include",
+    5.05,
+    5.41
+   ],
+   [
+    "abdominal",
+    5.41,
+    5.95
+   ],
+   [
+    "pain,",
+    5.95,
+    6.87
+   ],
+   [
+    "yellowish",
+    6.95,
+    7.29
+   ],
+   [
+    "skin,",
+    7.29,
+    7.87
+   ],
+   [
+    "and",
+    7.95,
+    7.99
+   ],
+   [
+    "fever.",
+    7.99,
+    8.37
+   ],
+   [
+    "Patients",
+    9.27,
+    9.43
+   ],
+   [
+    "might",
+    9.53,
+    9.67
+   ],
+   [
+    "also",
+    9.67,
+    10.05
+   ],
+   [
+    "notice",
+    10.05,
+    10.39
+   ],
+   [
+    "weight",
+    10.39,
+    10.71
+   ],
+   [
+    "loss,",
+    10.71,
+    11.33
+   ],
+   [
+    "itching,",
+    11.47,
+    12.03
+   ],
+   [
+    "or",
+    12.11,
+    12.15
+   ],
+   [
+    "dark",
+    12.15,
+    12.45
+   ],
+   [
+    "urine.",
+    12.45,
+    12.87
+   ],
+   [
+    "Risk",
+    13.83,
+    13.83
+   ],
+   [
+    "factors",
+    13.83,
+    14.17
+   ],
+   [
+    "include",
+    14.17,
+    14.69
+   ],
+   [
+    "cirrhosis,",
+    14.69,
+    15.61
+   ],
+   [
+    "hepatitis",
+    15.73,
+    16.17
+   ],
+   [
+    "B",
+    16.17,
+    16.47
+   ],
+   [
+    "or",
+    16.47,
+    16.73
+   ],
+   [
+    "C,",
+    16.73,
+    17.23
+   ],
+   [
+    "and",
+    17.45,
+    17.57
+   ],
+   [
+    "ulcerative",
+    17.57,
+    18.09
+   ],
+   [
+    "colitis.",
+    18.09,
+    18.77
+   ],
+   [
+    "Most",
+    19.39,
+    19.59
+   ],
+   [
+    "people",
+    19.59,
+    19.85
+   ],
+   [
+    "have",
+    19.85,
+    20.13
+   ],
+   [
+    "no",
+    20.13,
+    20.45
+   ],
+   [
+    "identifiable",
+    20.45,
+    21.23
+   ],
+   [
+    "risk",
+    21.23,
+    21.55
+   ],
+   [
+    "factors",
+    21.55,
+    21.91
+   ],
+   [
+    "at",
+    21.91,
+    22.15
+   ],
+   [
+    "all.",
+    22.15,
+    22.41
+   ],
+   [
+    "Diagnosis",
+    23.31,
+    23.79
+   ],
+   [
+    "requires",
+    24.07,
+    24.17
+   ],
+   [
+    "examining",
+    24.17,
+    24.95
+   ],
+   [
+    "tumor",
+    24.95,
+    25.37
+   ],
+   [
+    "cells",
+    25.37,
+    25.73
+   ],
+   [
+    "under",
+    25.73,
+    26.01
+   ],
+   [
+    "a",
+    26.01,
+    26.17
+   ],
+   [
+    "microscope.",
+    26.17,
+    26.67
+   ],
+   [
+    "It",
+    27.31,
+    27.39
+   ],
+   [
+    "is",
+    27.39,
+    27.53
+   ],
+   [
+    "typically",
+    27.53,
+    27.95
+   ],
+   [
+    "incurable",
+    27.95,
+    28.85
+   ],
+   [
+    "when",
+    28.85,
+    29.15
+   ],
+   [
+    "first",
+    29.31,
+    29.45
+   ],
+   [
+    "detected.",
+    29.45,
+    29.55
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   25,
+   36,
+   45,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ERCP_cholangioca.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 559,
+   "license": "Public domain",
+   "artist": "Samir",
+   "page": "https://commons.wikimedia.org/wiki/File:ERCP_cholangioca.jpg",
+   "desc": "ERCP cholangioca — ERCP image of cholangiocarcinoma, showing common bile duct stricture and dilation of the proximal common bile duct"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Liver_Cirrhosis-ar.png/960px-Liver_Cirrhosis-ar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Modificado de BruceBlaus",
+   "page": "https://commons.wikimedia.org/wiki/File:Liver_Cirrhosis-ar.png",
+   "desc": "Liver Cirrhosis-ar — Normal liver compared to another with cirrhosis"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q124292",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Cholangiocarcinoma",
+  "url": "https://en.wikipedia.org/wiki/Cholangiocarcinoma",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:06:18Z",
+ "trimmed": true
+}
