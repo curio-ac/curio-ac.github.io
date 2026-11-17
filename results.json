@@ -1,0 +1,44 @@
+[
+ {
+  "file": "kokoro_out/cb1-ex60.mp3",
+  "ex": 0.6,
+  "title": "Surprising Blue Whale Facts",
+  "wer": 0.048,
+  "pass": true
+ },
+ {
+  "file": "kokoro_out/cb1-ex85.mp3",
+  "ex": 0.85,
+  "title": "Surprising Blue Whale Facts",
+  "wer": 0.048,
+  "pass": true
+ },
+ {
+  "file": "kokoro_out/cb2-ex60.mp3",
+  "ex": 0.6,
+  "title": "The Changeling's True Origin",
+  "wer": 0.031,
+  "pass": true
+ },
+ {
+  "file": "kokoro_out/cb2-ex85.mp3",
+  "ex": 0.85,
+  "title": "The Changeling's True Origin",
+  "wer": 0.046,
+  "pass": true
+ },
+ {
+  "file": "kokoro_out/cb3-ex60.mp3",
+  "ex": 0.6,
+  "title": "The King Who Abidicated",
+  "wer": 0.054,
+  "pass": true
+ },
+ {
+  "file": "kokoro_out/cb3-ex85.mp3",
+  "ex": 0.85,
+  "title": "The King Who Abidicated",
+  "wer": 0.054,
+  "pass": true
+ }
+]
