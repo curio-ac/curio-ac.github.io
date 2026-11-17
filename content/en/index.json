@@ -135,7 +135,8 @@
   "Kim Clijsters",
   "2017 Africa Cup of Nations final",
   "nasa:1479874",
-  "nasa:1281254"
+  "nasa:1281254",
+  "Ann Arbor, Michigan"
  ],
  "rejected": [
   "Chameleon",
@@ -158,7 +159,9 @@
   "Murder of William de Cantilupe",
   "California State Route 57",
   "Black hole",
-  "Bale Out"
+  "Bale Out",
+  "nasa:1447308",
+  "2002 Football League First Division play-off final"
  ],
  "angles": {
   "Blue whale": [
@@ -611,6 +614,9 @@
   ],
   "nasa:1281254": [
    "Congaree's Giant Forest: 80 percent of Congaree National Park is a floodplain."
+  ],
+  "Ann Arbor, Michigan": [
+   "The Secrets Of Ann Arbor: Native villages stood here back in 1774!"
   ]
  },
  "exhausted": []
