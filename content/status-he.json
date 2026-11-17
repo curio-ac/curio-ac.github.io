@@ -1,7 +1,22 @@
 {
  "lang": "he",
- "exhausted_day": null,
+ "exhausted_day": "2026-11-17",
  "runs": [
+  {
+   "at": "2026-11-17T08:57:58Z",
+   "made": 6,
+   "rejected": 1,
+   "repaired": 0,
+   "calls": 63,
+   "notes": [
+    "nasa:1487818: Expecting ',' delimiter: line 11 column 55 (char 438)",
+    "אטלנטיס: האימפריה האבודה: Expecting ',' delimiter: line 7 column 47 (char 210)",
+    "nasa:1346028: Expecting ',' delimiter: line 7 column 18 (char 148)",
+    "nasa:1277375: pronunciation 12.9% of words misheard",
+    "קתדרלת שארטר: Expecting ',' delimiter: line 5 column 24 (char 72)",
+    "quota: Hebrew voices exhausted for today"
+   ]
+  },
   {
    "at": "2026-11-17T08:18:09Z",
    "made": 3,
