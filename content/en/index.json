@@ -95,7 +95,8 @@
   "Cloud Gate",
   "nasa:1284270",
   "American paddlefish",
-  "Bougainville counterattack"
+  "Bougainville counterattack",
+  "nasa:1504374"
  ],
  "rejected": [
   "Chameleon",
@@ -425,6 +426,9 @@
   ],
   "Bougainville counterattack": [
    "The Failed WWII Counterattack: A massive Japanese offensive failed completely."
+  ],
+  "nasa:1504374": [
+   "Iceberg A-81's Long Journey: A massive iceberg is currently running aground."
   ]
  },
  "exhausted": []
