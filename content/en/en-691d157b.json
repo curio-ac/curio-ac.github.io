@@ -1,0 +1,444 @@
+{
+ "id": "en-691d157b",
+ "lang": "en",
+ "title": "Battersea Bridge's Dangerous Past",
+ "cat": "history",
+ "emoji": "🌉",
+ "sentences": [
+  "London’s Battersea Bridge was once dangerously wooden.",
+  "It replaced a ferry service operating since the 1500s.",
+  "John, Earl Spencer, originally planned a stone bridge.",
+  "Investment difficulties meant he built with wood instead.",
+  "The bridge was poorly designed and often hit by passing boats.",
+  "Two piers were eventually removed to fix the danger.",
+  "Famous artists like Whistler later painted this unpopular structure."
+ ],
+ "tim": {
+  "w": [
+   [
+    "London’s",
+    0.35,
+    0.57
+   ],
+   [
+    "Battersea",
+    0.57,
+    1.03
+   ],
+   [
+    "Bridge",
+    1.03,
+    1.29
+   ],
+   [
+    "was",
+    1.29,
+    1.55
+   ],
+   [
+    "once",
+    1.55,
+    1.77
+   ],
+   [
+    "dangerously",
+    1.77,
+    2.43
+   ],
+   [
+    "wooden.",
+    2.43,
+    2.71
+   ],
+   [
+    "It",
+    3.23,
+    3.29
+   ],
+   [
+    "replaced",
+    3.29,
+    3.59
+   ],
+   [
+    "a",
+    3.59,
+    3.77
+   ],
+   [
+    "ferry",
+    3.77,
+    4.09
+   ],
+   [
+    "service",
+    4.09,
+    4.45
+   ],
+   [
+    "operating",
+    4.45,
+    4.99
+   ],
+   [
+    "since",
+    4.99,
+    5.31
+   ],
+   [
+    "the",
+    5.31,
+    5.49
+   ],
+   [
+    "1500s.",
+    5.49,
+    6.15
+   ],
+   [
+    "John,",
+    6.85,
+    7.55
+   ],
+   [
+    "Earl",
+    7.55,
+    7.69
+   ],
+   [
+    "Spencer,",
+    7.69,
+    8.29
+   ],
+   [
+    "originally",
+    8.65,
+    8.89
+   ],
+   [
+    "planned",
+    8.89,
+    9.37
+   ],
+   [
+    "a",
+    9.37,
+    9.49
+   ],
+   [
+    "stone",
+    9.49,
+    9.71
+   ],
+   [
+    "bridge.",
+    9.71,
+    10.07
+   ],
+   [
+    "Investment",
+    10.71,
+    11.07
+   ],
+   [
+    "difficulties",
+    11.07,
+    11.53
+   ],
+   [
+    "meant",
+    11.53,
+    11.97
+   ],
+   [
+    "he",
+    11.97,
+    12.13
+   ],
+   [
+    "built",
+    12.13,
+    12.37
+   ],
+   [
+    "with",
+    12.37,
+    12.55
+   ],
+   [
+    "wood",
+    12.55,
+    12.79
+   ],
+   [
+    "instead.",
+    12.79,
+    13.27
+   ],
+   [
+    "The",
+    13.89,
+    13.91
+   ],
+   [
+    "bridge",
+    13.91,
+    14.15
+   ],
+   [
+    "was",
+    14.15,
+    14.41
+   ],
+   [
+    "poorly",
+    14.41,
+    14.75
+   ],
+   [
+    "designed",
+    14.75,
+    15.23
+   ],
+   [
+    "and",
+    15.23,
+    15.55
+   ],
+   [
+    "often",
+    15.55,
+    15.89
+   ],
+   [
+    "hit",
+    15.89,
+    16.19
+   ],
+   [
+    "by",
+    16.19,
+    16.39
+   ],
+   [
+    "passing",
+    16.39,
+    16.75
+   ],
+   [
+    "boats.",
+    16.75,
+    17.29
+   ],
+   [
+    "Two",
+    17.75,
+    17.85
+   ],
+   [
+    "piers",
+    17.85,
+    18.29
+   ],
+   [
+    "were",
+    18.29,
+    18.47
+   ],
+   [
+    "eventually",
+    18.47,
+    18.87
+   ],
+   [
+    "removed",
+    18.87,
+    19.31
+   ],
+   [
+    "to",
+    19.31,
+    19.59
+   ],
+   [
+    "fix",
+    19.59,
+    19.81
+   ],
+   [
+    "the",
+    19.81,
+    19.99
+   ],
+   [
+    "danger.",
+    19.99,
+    20.35
+   ],
+   [
+    "Famous",
+    21.01,
+    21.33
+   ],
+   [
+    "artists",
+    21.33,
+    21.73
+   ],
+   [
+    "like",
+    21.73,
+    22.05
+   ],
+   [
+    "Whistler",
+    22.05,
+    22.47
+   ],
+   [
+    "later",
+    22.47,
+    22.77
+   ],
+   [
+    "painted",
+    22.77,
+    23.23
+   ],
+   [
+    "this",
+    23.27,
+    23.53
+   ],
+   [
+    "unpopular",
+    23.53,
+    24.19
+   ],
+   [
+    "structure.",
+    24.19,
+    24.65
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   32,
+   43,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Old_Battersea_Bridge_%28Greaves%29.png/960px-Old_Battersea_Bridge_%28Greaves%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 595,
+   "license": "Public domain",
+   "artist": "Walter Greaves (Life time: 1846-1930)",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Battersea_Bridge_(Greaves).png",
+   "desc": "Old Battersea Bridge (Greaves) — 1874 painting Old Battersea Bridge by the British artist Walter Greaves"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Johnspencer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 883,
+   "license": "Public domain",
+   "artist": "Thomas Gainsborough",
+   "page": "https://commons.wikimedia.org/wiki/File:Johnspencer.jpg",
+   "desc": "Johnspencer — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/View%29_Plate_8._%28Construction_of_Wooden_Bridges._%28IA_dr_view-plate-8-construction-of-wooden-bridges-12190619%29.jpg/960px-View%29_Plate_8._%28Construction_of_Wooden_Bridges._%28IA_dr_view-plate-8-construction-of-wooden-bridges-12190619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 569,
+   "license": "Public domain",
+   "artist": "Heck, Johann Georg, -1857 Henry Winkles",
+   "page": "https://commons.wikimedia.org/wiki/File:View)_Plate_8._(Construction_of_Wooden_Bridges._(IA_dr_view-plate-8-construction-of-wooden-bridges-12190619).jpg",
+   "desc": "View) Plate 8. (Construction of Wooden Bridges. (IA dr view-plate-8-construction-of-wooden-bridges-12190619) — Zoomable full resolution image available at davidrumsey.com.This image 12190.619 is a part of image group 12190.000.This is a looseleaf atlas accompa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Fulham_LCCN2003687676.jpg/960px-Fulham_LCCN2003687676.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 484,
+   "license": "Public domain",
+   "artist": "Whistler, James Abbott McNeill, 1834-1903, artist",
+   "page": "https://commons.wikimedia.org/wiki/File:Fulham_LCCN2003687676.jpg",
+   "desc": "Fulham LCCN2003687676 — Published as Chelsea: showing old Battersea Bridge and Chelsea Old Church on the River Thames (seen in reverse); mistakenly catalogued as Fulham Abstract/medium: etching ; 13.1 x 20.5 cm."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/James_Abbot_McNeill_Whistler_006.jpg/960px-James_Abbot_McNeill_Whistler_006.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 951,
+   "license": "Public domain",
+   "artist": "James McNeill Whistler",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Abbot_McNeill_Whistler_006.jpg",
+   "desc": "James Abbot McNeill Whistler 006 — "
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "John, Earl Spencer",
+   "box": [
+    77,
+    273,
+    943,
+    723
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "piers",
+   "label": "piers removed"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  51.481,
+  -0.172
+ ],
+ "qid": "Q810945",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Battersea Bridge",
+  "url": "https://en.wikipedia.org/wiki/Battersea_Bridge",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T10:01:04Z",
+ "trimmed": true
+}
