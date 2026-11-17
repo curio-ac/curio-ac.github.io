@@ -128,7 +128,8 @@
   "Betsy Bakker-Nort",
   "nasa:1277717",
   "Guy Burgess",
-  "nasa:1386999"
+  "nasa:1386999",
+  "The Chattri"
  ],
  "rejected": [
   "Chameleon",
@@ -578,6 +579,9 @@
   ],
   "nasa:1386999": [
    "Hubble Hits 200,000 Orbits!: Hubble just hit 200,000 orbits!"
+  ],
+  "The Chattri": [
+   "The Chattri WWI Memorial: A WWI memorial sits in southern England."
   ]
  },
  "exhausted": []

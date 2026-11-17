@@ -1,0 +1,447 @@
+{
+ "id": "en-126d8f04",
+ "lang": "en",
+ "title": "Disraeli's Surprising Legacy",
+ "cat": "history",
+ "emoji": "🇬🇧",
+ "sentences": [
+  "Britain's only prime minister born Jewish.",
+  "Benjamin Disraeli served twice as Prime Minister.",
+  "He became an Anglican at age 11.",
+  "Entering the House of Commons in 1837, he shaped the Conservative Party.",
+  "He made them the party of the expanding British Empire.",
+  "He fought political battles with Liberal leader William Ewart Gladstone.",
+  "This writer was an influential voice in world affairs."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Britain's",
+    0.14,
+    0.34
+   ],
+   [
+    "only",
+    0.34,
+    0.62
+   ],
+   [
+    "prime",
+    0.62,
+    0.9
+   ],
+   [
+    "minister",
+    0.9,
+    1.28
+   ],
+   [
+    "born",
+    1.28,
+    1.56
+   ],
+   [
+    "Jewish.",
+    1.56,
+    2.26
+   ],
+   [
+    "Benjamin",
+    2.56,
+    2.62
+   ],
+   [
+    "Disraeli",
+    2.62,
+    3.2
+   ],
+   [
+    "served",
+    3.2,
+    3.4
+   ],
+   [
+    "twice",
+    3.4,
+    3.72
+   ],
+   [
+    "as",
+    3.72,
+    3.94
+   ],
+   [
+    "Prime",
+    3.94,
+    4.14
+   ],
+   [
+    "Minister.",
+    4.14,
+    4.62
+   ],
+   [
+    "He",
+    4.9,
+    4.92
+   ],
+   [
+    "became",
+    4.92,
+    5.2
+   ],
+   [
+    "an",
+    5.2,
+    5.36
+   ],
+   [
+    "Anglican",
+    5.36,
+    5.84
+   ],
+   [
+    "at",
+    5.84,
+    6.0
+   ],
+   [
+    "age",
+    6.0,
+    6.22
+   ],
+   [
+    "11.",
+    6.22,
+    6.78
+   ],
+   [
+    "Entering",
+    6.96,
+    7.3
+   ],
+   [
+    "the",
+    7.3,
+    7.4
+   ],
+   [
+    "House",
+    7.4,
+    7.58
+   ],
+   [
+    "of",
+    7.58,
+    7.72
+   ],
+   [
+    "Commons",
+    7.8,
+    8.04
+   ],
+   [
+    "in",
+    8.04,
+    8.26
+   ],
+   [
+    "1837,",
+    8.26,
+    8.81
+   ],
+   [
+    "he",
+    9.42,
+    9.5
+   ],
+   [
+    "shaped",
+    9.5,
+    9.8
+   ],
+   [
+    "the",
+    9.8,
+    9.96
+   ],
+   [
+    "Conservative",
+    10.0,
+    10.32
+   ],
+   [
+    "Party.",
+    10.32,
+    10.84
+   ],
+   [
+    "He",
+    10.98,
+    11.06
+   ],
+   [
+    "made",
+    11.06,
+    11.3
+   ],
+   [
+    "them",
+    11.3,
+    11.54
+   ],
+   [
+    "the",
+    11.54,
+    11.66
+   ],
+   [
+    "party",
+    11.66,
+    11.92
+   ],
+   [
+    "of",
+    11.92,
+    12.12
+   ],
+   [
+    "the",
+    12.12,
+    12.22
+   ],
+   [
+    "expanding",
+    12.22,
+    12.62
+   ],
+   [
+    "British",
+    12.62,
+    12.92
+   ],
+   [
+    "Empire.",
+    12.92,
+    13.52
+   ],
+   [
+    "He",
+    13.66,
+    13.72
+   ],
+   [
+    "fought",
+    13.72,
+    13.94
+   ],
+   [
+    "political",
+    13.94,
+    14.28
+   ],
+   [
+    "battles",
+    14.28,
+    14.7
+   ],
+   [
+    "with",
+    14.7,
+    14.92
+   ],
+   [
+    "Liberal",
+    14.92,
+    15.18
+   ],
+   [
+    "leader",
+    15.18,
+    15.54
+   ],
+   [
+    "William",
+    15.54,
+    15.84
+   ],
+   [
+    "Ewart",
+    15.84,
+    16.3
+   ],
+   [
+    "Gladstone.",
+    16.3,
+    16.92
+   ],
+   [
+    "This",
+    17.1,
+    17.22
+   ],
+   [
+    "writer",
+    17.22,
+    17.46
+   ],
+   [
+    "was",
+    17.46,
+    17.68
+   ],
+   [
+    "an",
+    17.68,
+    17.8
+   ],
+   [
+    "influential",
+    17.8,
+    18.18
+   ],
+   [
+    "voice",
+    18.18,
+    18.6
+   ],
+   [
+    "in",
+    18.6,
+    18.82
+   ],
+   [
+    "world",
+    18.82,
+    19.0
+   ],
+   [
+    "affairs.",
+    19.0,
+    19.48
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   20,
+   32,
+   42,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Benjamin_Disraeli%2C_1st_Earl_of_Beaconsfield_%28by_Sir_John_Everett_Millais%2C_1881%29_-_National_Portrait_Gallery_%28NPG_3241%29.jpg/960px-Benjamin_Disraeli%2C_1st_Earl_of_Beaconsfield_%28by_Sir_John_Everett_Millais%2C_1881%29_-_National_Portrait_Gallery_%28NPG_3241%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1003,
+   "license": "Public domain",
+   "artist": "John Everett Millais",
+   "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Disraeli,_1st_Earl_of_Beaconsfield_(by_Sir_John_Everett_Millais,_1881)_-_National_Portrait_Gallery_(NPG_3241).jpg",
+   "desc": "Benjamin Disraeli, 1st Earl of Beaconsfield (by Sir John Everett Millais, 1881) - National Portrait Gallery (NPG 3241) — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Benjamin_Disraeli_statue%2C_Parliament_Square_SW1_-_geograph.org.uk_-_1324152.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 962,
+   "license": "CC BY-SA 2.0",
+   "artist": "R Sones",
+   "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Disraeli_statue,_Parliament_Square_SW1_-_geograph.org.uk_-_1324152.jpg",
+   "desc": "Benjamin Disraeli statue, Parliament Square SW1 - geograph.org.uk - 1324152 — Benjamin Disraeli statue, Parliament Square SW1 Benjamin Disraeli (1804-81), Earl of Beaconsfield from 1876 - Politician - Prime Minister 1868 and 1874-80"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Benjamin_Disraeli%2C_Earl_of_Beaconsfield_%283x4_cropped%29.jpg/960px-Benjamin_Disraeli%2C_Earl_of_Beaconsfield_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 962,
+   "license": "Public domain",
+   "artist": "Cornelius Jabez Hughes",
+   "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Disraeli,_Earl_of_Beaconsfield_(3x4_cropped).jpg",
+   "desc": "Benjamin Disraeli, Earl of Beaconsfield (3x4 cropped) — Depicted person: Benjamin Disraeli – British statesman (1804–1881)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Battle_in_Afghanistan.jpg/960px-Battle_in_Afghanistan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 483,
+   "license": "Public domain",
+   "artist": "Richard Caton Woodville Jr.",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_in_Afghanistan.jpg",
+   "desc": "Battle in Afghanistan — 92nd Highlanders and 2nd Gurkhas storming the Gaudi Mullah Sahibdad at Kandahar 1 September 1880."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_William_Ewart_Gladstone_%284672317%29.jpg/960px-Portrait_of_William_Ewart_Gladstone_%284672317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1100,
+   "license": "Public domain",
+   "artist": "Georges-Henri Manesse",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_William_Ewart_Gladstone_(4672317).jpg",
+   "desc": "Portrait of William Ewart Gladstone (4672317) — A portrait from the Welsh Portrait Collection at the National Library of Wales. Depicted person: William Ewart Gladstone – British Liberal prime minister (1809–1898)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Benjamin_Disraeli%2C_Vanity_Fair%2C_1869-01-30.jpg/960px-Benjamin_Disraeli%2C_Vanity_Fair%2C_1869-01-30.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1240,
+   "license": "Public domain",
+   "artist": "Carlo Pellegrini",
+   "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Disraeli,_Vanity_Fair,_1869-01-30.jpg",
+   "desc": "Benjamin Disraeli, Vanity Fair, 1869-01-30 — Caricature of Benjamin Disraeli. Caption reads: \"No.13. He educated the Tories and dished the Whigs to pass Reform, but to have become what he is from what he was is the greatest Reform of all\"."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "times",
+   "label": "Prime Minister"
+  },
+  {
+   "type": "stat",
+   "value": 11,
+   "unit": "years",
+   "label": "Age at conversion"
+  },
+  {
+   "type": "timeline",
+   "year": 1837
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q82006",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Benjamin Disraeli",
+  "url": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:29:50Z",
+ "trimmed": true
+}
