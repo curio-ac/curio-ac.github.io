@@ -1,7 +1,17 @@
 {
  "lang": "en",
- "exhausted_day": "2026-11-16",
+ "exhausted_day": null,
  "runs": [
+  {
+   "at": "2026-11-17T08:11:38Z",
+   "made": 4,
+   "rejected": 1,
+   "repaired": 2,
+   "calls": 45,
+   "notes": [
+    "nasa:1463164: fact-check"
+   ]
+  },
   {
    "at": "2026-11-16T21:58:54Z",
    "made": 7,
