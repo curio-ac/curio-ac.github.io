@@ -1,0 +1,355 @@
+{
+ "id": "en-83362370",
+ "lang": "en",
+ "title": "Balkans Crossroads of Empires",
+ "cat": "history",
+ "emoji": "🇧🇬",
+ "sentences": [
+  "Rome conquered this Balkan land in 45 AD!",
+  "It is bordered by 5 different countries.",
+  "The Danube river forms its northern border.",
+  "Early Slavs settled here around the 6th century.",
+  "Bulgars invaded the region in the late 7th century.",
+  "Sofia is the nation's capital and largest city."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Rome",
+    0.35,
+    0.35
+   ],
+   [
+    "conquered",
+    0.35,
+    0.75
+   ],
+   [
+    "this",
+    0.75,
+    0.99
+   ],
+   [
+    "Balkan",
+    0.99,
+    1.51
+   ],
+   [
+    "land",
+    1.51,
+    1.79
+   ],
+   [
+    "in",
+    1.79,
+    2.01
+   ],
+   [
+    "45",
+    2.01,
+    2.49
+   ],
+   [
+    "AD!",
+    2.49,
+    3.19
+   ],
+   [
+    "It",
+    3.67,
+    3.73
+   ],
+   [
+    "is",
+    3.73,
+    3.85
+   ],
+   [
+    "bordered",
+    3.85,
+    4.33
+   ],
+   [
+    "by",
+    4.37,
+    4.47
+   ],
+   [
+    "5",
+    4.47,
+    4.85
+   ],
+   [
+    "different",
+    4.85,
+    5.13
+   ],
+   [
+    "countries.",
+    5.13,
+    5.51
+   ],
+   [
+    "The",
+    6.25,
+    6.33
+   ],
+   [
+    "Danube",
+    6.33,
+    6.79
+   ],
+   [
+    "river",
+    6.83,
+    7.03
+   ],
+   [
+    "forms",
+    7.03,
+    7.43
+   ],
+   [
+    "its",
+    7.43,
+    7.61
+   ],
+   [
+    "northern",
+    7.61,
+    7.93
+   ],
+   [
+    "border.",
+    7.93,
+    8.45
+   ],
+   [
+    "Early",
+    9.03,
+    9.21
+   ],
+   [
+    "Slavs",
+    9.21,
+    9.89
+   ],
+   [
+    "settled",
+    9.89,
+    10.09
+   ],
+   [
+    "here",
+    10.31,
+    10.45
+   ],
+   [
+    "around",
+    10.45,
+    10.79
+   ],
+   [
+    "the",
+    10.79,
+    10.95
+   ],
+   [
+    "6th",
+    10.95,
+    11.69
+   ],
+   [
+    "century.",
+    11.69,
+    12.25
+   ],
+   [
+    "Bulgars",
+    12.31,
+    12.73
+   ],
+   [
+    "invaded",
+    12.73,
+    13.01
+   ],
+   [
+    "the",
+    13.01,
+    13.35
+   ],
+   [
+    "region",
+    13.41,
+    13.69
+   ],
+   [
+    "in",
+    13.69,
+    13.91
+   ],
+   [
+    "the",
+    13.91,
+    14.01
+   ],
+   [
+    "late",
+    14.01,
+    14.23
+   ],
+   [
+    "7th",
+    14.27,
+    14.75
+   ],
+   [
+    "century.",
+    14.75,
+    15.09
+   ],
+   [
+    "Sofia",
+    16.03,
+    16.03
+   ],
+   [
+    "is",
+    16.03,
+    16.43
+   ],
+   [
+    "the",
+    16.43,
+    16.57
+   ],
+   [
+    "nation's",
+    16.57,
+    17.07
+   ],
+   [
+    "capital",
+    17.15,
+    17.41
+   ],
+   [
+    "and",
+    17.41,
+    17.73
+   ],
+   [
+    "largest",
+    17.73,
+    18.07
+   ],
+   [
+    "city.",
+    18.07,
+    18.47
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   22,
+   30,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bulgaria_Aministrative_Provinces_numbered.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 474,
+   "license": "CC0",
+   "artist": "Tourbillon",
+   "page": "https://commons.wikimedia.org/wiki/File:Bulgaria_Aministrative_Provinces_numbered.png",
+   "desc": "Bulgaria Aministrative Provinces numbered — Bulgarian administrative divisions, numbered. Based on [1]"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Migration_of_Early_Slavs.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 701,
+   "license": "CC BY-SA 4.0",
+   "artist": "Miki Filigranski",
+   "page": "https://commons.wikimedia.org/wiki/File:Migration_of_Early_Slavs.png",
+   "desc": "Migration of Early Slavs — Approximate location of the Early Slavs and subsequent migrations between the mid-6th and mid-7th century."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bulgarians_and_Slavs_VI-VII_century.png/960px-Bulgarians_and_Slavs_VI-VII_century.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 510,
+   "license": "Public domain",
+   "artist": "Kandi",
+   "page": "https://commons.wikimedia.org/wiki/File:Bulgarians_and_Slavs_VI-VII_century.png",
+   "desc": "Bulgarians and Slavs VI-VII century — Bulgarians and Slavs VI-VII century"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Alexander_Nevsky_Cathedral%2C_Sofia_%28by_Pudelek%29.JPG/960px-Alexander_Nevsky_Cathedral%2C_Sofia_%28by_Pudelek%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 466,
+   "license": "CC BY-SA 3.0",
+   "artist": "Pudelek (Marcin Szala)",
+   "page": "https://commons.wikimedia.org/wiki/File:Alexander_Nevsky_Cathedral,_Sofia_(by_Pudelek).JPG",
+   "desc": "Alexander Nevsky Cathedral, Sofia (by Pudelek) — Alexander Nevsky Cathedral, Sofia, Bulgaria"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 45
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "countries",
+   "label": "bordered by"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 6
+  },
+  {
+   "type": "timeline",
+   "year": 7
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  42.75,
+  25.5
+ ],
+ "qid": "Q219",
+ "pron_wer": 0.021,
+ "angle": 1,
+ "source": {
+  "title": "Bulgaria",
+  "url": "https://en.wikipedia.org/wiki/Bulgaria",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:20:51Z",
+ "trimmed": true
+}
