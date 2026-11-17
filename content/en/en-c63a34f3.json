@@ -1,0 +1,251 @@
+{
+ "id": "en-c63a34f3",
+ "lang": "en",
+ "title": "Ancient Interstellar Ice Ages",
+ "cat": "space",
+ "emoji": "☀️",
+ "sentences": [
+  "Cold clouds shrunk our solar shield.",
+  "Earth drifted outside its protective bubble.",
+  "Interstellar dust entered Antarctic snow.",
+  "This cosmic exposure triggered ice ages.",
+  "A dimmer Sun also kept early Earth warm."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cold",
+    0.28,
+    0.28
+   ],
+   [
+    "clouds",
+    0.28,
+    0.64
+   ],
+   [
+    "shrunk",
+    0.64,
+    1.0
+   ],
+   [
+    "our",
+    1.0,
+    1.14
+   ],
+   [
+    "solar",
+    1.14,
+    1.42
+   ],
+   [
+    "shield.",
+    1.42,
+    1.82
+   ],
+   [
+    "Earth",
+    2.34,
+    2.48
+   ],
+   [
+    "drifted",
+    2.48,
+    2.9
+   ],
+   [
+    "outside",
+    2.9,
+    3.18
+   ],
+   [
+    "its",
+    3.18,
+    3.46
+   ],
+   [
+    "protective",
+    3.52,
+    3.84
+   ],
+   [
+    "bubble.",
+    3.84,
+    4.34
+   ],
+   [
+    "Interstellar",
+    4.7,
+    5.2
+   ],
+   [
+    "dust",
+    5.2,
+    5.36
+   ],
+   [
+    "entered",
+    5.36,
+    5.72
+   ],
+   [
+    "Antarctic",
+    5.72,
+    6.24
+   ],
+   [
+    "snow.",
+    6.24,
+    6.72
+   ],
+   [
+    "This",
+    7.0,
+    7.08
+   ],
+   [
+    "cosmic",
+    7.08,
+    7.44
+   ],
+   [
+    "exposure",
+    7.44,
+    7.86
+   ],
+   [
+    "triggered",
+    7.86,
+    8.2
+   ],
+   [
+    "ice",
+    8.2,
+    8.5
+   ],
+   [
+    "ages.",
+    8.5,
+    9.04
+   ],
+   [
+    "A",
+    9.44,
+    9.52
+   ],
+   [
+    "dimmer",
+    9.52,
+    9.8
+   ],
+   [
+    "Sun",
+    9.8,
+    10.06
+   ],
+   [
+    "also",
+    10.06,
+    10.36
+   ],
+   [
+    "kept",
+    10.36,
+    10.64
+   ],
+   [
+    "early",
+    10.8,
+    10.92
+   ],
+   [
+    "Earth",
+    10.92,
+    11.2
+   ],
+   [
+    "warm.",
+    11.2,
+    11.78
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   12,
+   17,
+   23
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg",
+   "desc": "The Earth seen from Apollo 17 — \"The Blue Marble\" is a famous photograph of the Earth taken on December 7, 1972, by the crew of the Apollo 17 spacecraft en route to the Moon at a distance of about 29,400 kilometres (18,300 mi). It shows Africa, Antarct"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/The_abandoned_Antarctic_Snow_Cruiser.jpg/960px-The_abandoned_Antarctic_Snow_Cruiser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "C. C. Shirley",
+   "page": "https://commons.wikimedia.org/wiki/File:The_abandoned_Antarctic_Snow_Cruiser.jpg",
+   "desc": "The abandoned Antarctic Snow Cruiser — The abandoned Antarctic Snow Cruiser on December 22, 1940."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sun_shining_over_the_lake_of_Mandu.jpg/960px-Sun_shining_over_the_lake_of_Mandu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1280,
+   "license": "CC BY-SA 4.0",
+   "artist": "Heyyyyyyou",
+   "page": "https://commons.wikimedia.org/wiki/File:Sun_shining_over_the_lake_of_Mandu.jpg",
+   "desc": "Sun shining over the lake of Mandu — Sun shining over Lake"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
+  "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:11:49Z",
+ "trimmed": true
+}

@@ -124,7 +124,8 @@
   "nasa:1277375",
   "The Disasters of War",
   "Chinese characters",
-  "nasa:1472511"
+  "nasa:1472511",
+  "Betsy Bakker-Nort"
  ],
  "rejected": [
   "Chameleon",
@@ -557,6 +558,9 @@
   ],
   "nasa:1472511": [
    "Space's Most Distant Mystery: The farthest fast radio burst is finally located."
+  ],
+  "Betsy Bakker-Nort": [
+   "A Trailblazing Dutch Lawyer: She judged a 1933 Reichstag counter-trial."
   ]
  },
  "exhausted": []
