@@ -83,7 +83,8 @@
   "Castle",
   "Anna Blackburne",
   "Neal Dow",
-  "Capri-Sun"
+  "Capri-Sun",
+  "nasa:1307649"
  ],
  "rejected": [
   "Chameleon",
@@ -372,6 +373,9 @@
   ],
   "Capri-Sun": [
    "The Capri-Sun Story: 6 billion Capri-Sun pouches sell every year."
+  ],
+  "nasa:1307649": [
+   "NASA's New Lunar AI: NASA and IBM just launched a lunar AI."
   ]
  },
  "exhausted": []

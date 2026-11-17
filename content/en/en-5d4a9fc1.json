@@ -1,0 +1,416 @@
+{
+ "id": "en-5d4a9fc1",
+ "lang": "en",
+ "title": "The Secrets of Alicia",
+ "cat": "art",
+ "emoji": "🎹",
+ "sentences": [
+  "Alicia Keys collaborated more than ever before.",
+  "Her seventh studio album, Alicia, dropped in 2020.",
+  "She recorded it at Oven and Jungle City Studios in New York.",
+  "Keys wrote and produced most of the tracks herself.",
+  "The album features artists like Sampha, Tierra Whack, and Jill Scott.",
+  "It blends R&B with funk, country, and even Caribbean sounds.",
+  "These songs explore multifaceted identity and sociopolitical concerns."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Alicia",
+    0.3,
+    0.3
+   ],
+   [
+    "Keys",
+    0.3,
+    0.66
+   ],
+   [
+    "collaborated",
+    0.66,
+    1.26
+   ],
+   [
+    "more",
+    1.26,
+    1.76
+   ],
+   [
+    "than",
+    1.76,
+    1.96
+   ],
+   [
+    "ever",
+    2.02,
+    2.2
+   ],
+   [
+    "before.",
+    2.2,
+    2.62
+   ],
+   [
+    "Her",
+    3.18,
+    3.28
+   ],
+   [
+    "seventh",
+    3.28,
+    3.58
+   ],
+   [
+    "studio",
+    3.58,
+    3.92
+   ],
+   [
+    "album,",
+    3.92,
+    4.46
+   ],
+   [
+    "Alicia,",
+    4.78,
+    5.28
+   ],
+   [
+    "dropped",
+    5.56,
+    5.74
+   ],
+   [
+    "in",
+    5.74,
+    5.94
+   ],
+   [
+    "2020.",
+    5.94,
+    6.52
+   ],
+   [
+    "She",
+    7.1,
+    7.18
+   ],
+   [
+    "recorded",
+    7.18,
+    7.54
+   ],
+   [
+    "it",
+    7.54,
+    7.78
+   ],
+   [
+    "at",
+    7.78,
+    7.96
+   ],
+   [
+    "Oven",
+    7.96,
+    8.36
+   ],
+   [
+    "and",
+    8.36,
+    8.58
+   ],
+   [
+    "Jungle",
+    8.58,
+    8.86
+   ],
+   [
+    "City",
+    8.86,
+    9.16
+   ],
+   [
+    "Studios",
+    9.16,
+    9.62
+   ],
+   [
+    "in",
+    9.62,
+    9.9
+   ],
+   [
+    "New",
+    9.9,
+    10.06
+   ],
+   [
+    "York.",
+    10.06,
+    10.24
+   ],
+   [
+    "Keys",
+    11.02,
+    11.16
+   ],
+   [
+    "wrote",
+    11.16,
+    11.5
+   ],
+   [
+    "and",
+    11.5,
+    11.74
+   ],
+   [
+    "produced",
+    11.74,
+    12.06
+   ],
+   [
+    "most",
+    12.06,
+    12.44
+   ],
+   [
+    "of",
+    12.44,
+    12.66
+   ],
+   [
+    "the",
+    12.66,
+    12.74
+   ],
+   [
+    "tracks",
+    12.74,
+    13.0
+   ],
+   [
+    "herself.",
+    13.0,
+    13.48
+   ],
+   [
+    "The",
+    14.26,
+    14.34
+   ],
+   [
+    "album",
+    14.34,
+    14.58
+   ],
+   [
+    "features",
+    14.58,
+    14.88
+   ],
+   [
+    "artists",
+    14.88,
+    15.4
+   ],
+   [
+    "like",
+    15.4,
+    15.68
+   ],
+   [
+    "Sampha,",
+    15.68,
+    16.43
+   ],
+   [
+    "Tierra",
+    16.72,
+    16.9
+   ],
+   [
+    "Whack,",
+    16.9,
+    17.26
+   ],
+   [
+    "and",
+    17.52,
+    17.6
+   ],
+   [
+    "Jill",
+    17.6,
+    17.8
+   ],
+   [
+    "Scott.",
+    17.8,
+    18.2
+   ],
+   [
+    "It",
+    18.8,
+    18.88
+   ],
+   [
+    "blends",
+    18.88,
+    19.12
+   ],
+   [
+    "R&B",
+    19.12,
+    19.7
+   ],
+   [
+    "with",
+    19.7,
+    19.96
+   ],
+   [
+    "funk,",
+    19.96,
+    20.44
+   ],
+   [
+    "country,",
+    20.76,
+    21.24
+   ],
+   [
+    "and",
+    21.38,
+    21.48
+   ],
+   [
+    "even",
+    21.48,
+    21.7
+   ],
+   [
+    "Caribbean",
+    21.7,
+    22.1
+   ],
+   [
+    "sounds.",
+    22.1,
+    22.8
+   ],
+   [
+    "These",
+    23.44,
+    23.58
+   ],
+   [
+    "songs",
+    23.58,
+    23.92
+   ],
+   [
+    "explore",
+    23.92,
+    24.34
+   ],
+   [
+    "multifaceted",
+    24.34,
+    25.16
+   ],
+   [
+    "identity",
+    25.16,
+    25.58
+   ],
+   [
+    "and",
+    25.58,
+    25.94
+   ],
+   [
+    "sociopolitical",
+    25.94,
+    26.84
+   ],
+   [
+    "concerns.",
+    26.84,
+    27.34
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   27,
+   36,
+   47,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jungle_City_Studios.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 4.0",
+   "artist": "Walters-Storyk Design Group (WSDG)",
+   "page": "https://commons.wikimedia.org/wiki/File:Jungle_City_Studios.jpeg",
+   "desc": "Jungle City Studios — Jungle City Studios in New York, USA"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2020
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q83855781",
+ "pron_wer": 0.045,
+ "angle": 0,
+ "source": {
+  "title": "Alicia (album)",
+  "url": "https://en.wikipedia.org/wiki/Alicia_%28album%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:57:13Z",
+ "trimmed": true
+}
