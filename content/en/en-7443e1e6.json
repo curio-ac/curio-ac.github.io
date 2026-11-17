@@ -1,0 +1,394 @@
+{
+ "id": "en-7443e1e6",
+ "lang": "en",
+ "title": "Finding Planets With Gravity Waves",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "Gravitational waves could reveal hidden alien worlds.",
+  "The upcoming LISA observatory will detect ripples in space-time caused by orbiting masses.",
+  "NASA scientists found that planets orbiting double white dwarf systems imprint signals onto these waves.",
+  "This creates sidebands in the signal, acting like radio messages about a planet's presence.",
+  "The James Webb Space Telescope can then confirm these discoveries by detecting their unique infrared light."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Gravitational",
+    0.35,
+    0.97
+   ],
+   [
+    "waves",
+    0.97,
+    1.31
+   ],
+   [
+    "could",
+    1.31,
+    1.61
+   ],
+   [
+    "reveal",
+    1.61,
+    1.93
+   ],
+   [
+    "hidden",
+    1.93,
+    2.31
+   ],
+   [
+    "alien",
+    2.31,
+    2.65
+   ],
+   [
+    "worlds.",
+    2.65,
+    3.09
+   ],
+   [
+    "The",
+    3.87,
+    3.87
+   ],
+   [
+    "upcoming",
+    3.87,
+    4.23
+   ],
+   [
+    "LISA",
+    4.23,
+    4.63
+   ],
+   [
+    "observatory",
+    4.63,
+    5.45
+   ],
+   [
+    "will",
+    5.45,
+    5.67
+   ],
+   [
+    "detect",
+    5.67,
+    5.97
+   ],
+   [
+    "ripples",
+    5.97,
+    6.43
+   ],
+   [
+    "in",
+    6.43,
+    6.63
+   ],
+   [
+    "space-time",
+    6.63,
+    7.23
+   ],
+   [
+    "caused",
+    7.23,
+    7.61
+   ],
+   [
+    "by",
+    7.61,
+    7.85
+   ],
+   [
+    "orbiting",
+    7.85,
+    8.23
+   ],
+   [
+    "masses.",
+    8.23,
+    8.61
+   ],
+   [
+    "NASA",
+    9.39,
+    9.61
+   ],
+   [
+    "scientists",
+    9.61,
+    10.11
+   ],
+   [
+    "found",
+    10.11,
+    10.55
+   ],
+   [
+    "that",
+    10.55,
+    10.75
+   ],
+   [
+    "planets",
+    10.75,
+    11.11
+   ],
+   [
+    "orbiting",
+    11.11,
+    11.59
+   ],
+   [
+    "double",
+    11.59,
+    11.89
+   ],
+   [
+    "white",
+    11.89,
+    12.17
+   ],
+   [
+    "dwarf",
+    12.17,
+    12.43
+   ],
+   [
+    "systems",
+    12.43,
+    12.87
+   ],
+   [
+    "imprint",
+    12.87,
+    13.23
+   ],
+   [
+    "signals",
+    13.25,
+    13.75
+   ],
+   [
+    "onto",
+    13.75,
+    13.99
+   ],
+   [
+    "these",
+    13.99,
+    14.25
+   ],
+   [
+    "waves.",
+    14.25,
+    14.63
+   ],
+   [
+    "This",
+    15.35,
+    15.43
+   ],
+   [
+    "creates",
+    15.43,
+    15.79
+   ],
+   [
+    "sidebands",
+    15.79,
+    16.39
+   ],
+   [
+    "in",
+    16.39,
+    16.59
+   ],
+   [
+    "the",
+    16.59,
+    16.67
+   ],
+   [
+    "signal,",
+    16.67,
+    16.93
+   ],
+   [
+    "acting",
+    17.51,
+    17.75
+   ],
+   [
+    "like",
+    17.75,
+    17.99
+   ],
+   [
+    "radio",
+    17.99,
+    18.45
+   ],
+   [
+    "messages",
+    18.45,
+    18.87
+   ],
+   [
+    "about",
+    18.87,
+    19.25
+   ],
+   [
+    "a",
+    19.25,
+    19.41
+   ],
+   [
+    "planet's",
+    19.47,
+    19.81
+   ],
+   [
+    "presence.",
+    19.81,
+    20.09
+   ],
+   [
+    "The",
+    20.87,
+    20.95
+   ],
+   [
+    "James",
+    20.95,
+    21.27
+   ],
+   [
+    "Webb",
+    21.27,
+    21.55
+   ],
+   [
+    "Space",
+    21.55,
+    21.85
+   ],
+   [
+    "Telescope",
+    21.85,
+    22.53
+   ],
+   [
+    "can",
+    22.53,
+    22.97
+   ],
+   [
+    "then",
+    22.97,
+    23.13
+   ],
+   [
+    "confirm",
+    23.13,
+    23.51
+   ],
+   [
+    "these",
+    23.51,
+    23.83
+   ],
+   [
+    "discoveries",
+    23.83,
+    24.37
+   ],
+   [
+    "by",
+    24.93,
+    25.03
+   ],
+   [
+    "detecting",
+    25.03,
+    25.41
+   ],
+   [
+    "their",
+    25.45,
+    25.73
+   ],
+   [
+    "unique",
+    25.73,
+    26.15
+   ],
+   [
+    "infrared",
+    26.15,
+    26.69
+   ],
+   [
+    "light.",
+    26.69,
+    27.11
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   35,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2030
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+ "pron_wer": 0.0,
+ "angle": 2,
+ "source": {
+  "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+  "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T10:04:15Z",
+ "trimmed": true
+}
