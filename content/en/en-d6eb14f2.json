@@ -1,0 +1,324 @@
+{
+ "id": "en-d6eb14f2",
+ "lang": "en",
+ "title": "Asimov's Secret Magazine",
+ "cat": "history",
+ "emoji": "📚",
+ "sentences": [
+  "Isaac Asimov lent his name to a 1977 magazine.",
+  "Davis Publications launched it as a quarterly.",
+  "Circulation reached over 100,000 within a year.",
+  "The first editor favored traditional stories without sex.",
+  "Shawna McCarthy took over as editor in 1983.",
+  "She quickly relaxed the strictures on the fiction."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Isaac",
+    0.35,
+    0.35
+   ],
+   [
+    "Asimov",
+    0.35,
+    0.93
+   ],
+   [
+    "lent",
+    0.93,
+    1.15
+   ],
+   [
+    "his",
+    1.15,
+    1.35
+   ],
+   [
+    "name",
+    1.35,
+    1.57
+   ],
+   [
+    "to",
+    1.57,
+    1.75
+   ],
+   [
+    "a",
+    1.75,
+    1.87
+   ],
+   [
+    "1977",
+    1.87,
+    2.57
+   ],
+   [
+    "magazine.",
+    2.57,
+    3.12
+   ],
+   [
+    "Davis",
+    4.11,
+    4.25
+   ],
+   [
+    "Publications",
+    4.25,
+    4.97
+   ],
+   [
+    "launched",
+    4.97,
+    5.31
+   ],
+   [
+    "it",
+    5.31,
+    5.51
+   ],
+   [
+    "as",
+    5.51,
+    5.65
+   ],
+   [
+    "a",
+    5.65,
+    5.75
+   ],
+   [
+    "quarterly.",
+    5.75,
+    6.05
+   ],
+   [
+    "Circulation",
+    6.91,
+    7.39
+   ],
+   [
+    "reached",
+    7.39,
+    7.63
+   ],
+   [
+    "over",
+    7.63,
+    7.91
+   ],
+   [
+    "100,000",
+    7.91,
+    8.83
+   ],
+   [
+    "within",
+    8.83,
+    9.13
+   ],
+   [
+    "a",
+    9.13,
+    9.29
+   ],
+   [
+    "year.",
+    9.29,
+    9.47
+   ],
+   [
+    "The",
+    10.25,
+    10.27
+   ],
+   [
+    "first",
+    10.33,
+    10.47
+   ],
+   [
+    "editor",
+    10.47,
+    10.81
+   ],
+   [
+    "favored",
+    10.81,
+    11.15
+   ],
+   [
+    "traditional",
+    11.15,
+    11.59
+   ],
+   [
+    "stories",
+    11.59,
+    12.11
+   ],
+   [
+    "without",
+    12.33,
+    12.43
+   ],
+   [
+    "sex.",
+    12.43,
+    12.75
+   ],
+   [
+    "Shawna",
+    13.67,
+    13.85
+   ],
+   [
+    "McCarthy",
+    13.85,
+    14.09
+   ],
+   [
+    "took",
+    14.09,
+    14.45
+   ],
+   [
+    "over",
+    14.45,
+    14.65
+   ],
+   [
+    "as",
+    14.65,
+    14.81
+   ],
+   [
+    "editor",
+    14.81,
+    15.07
+   ],
+   [
+    "in",
+    15.07,
+    15.29
+   ],
+   [
+    "1983.",
+    15.29,
+    16.13
+   ],
+   [
+    "She",
+    16.81,
+    16.89
+   ],
+   [
+    "quickly",
+    16.89,
+    17.13
+   ],
+   [
+    "relaxed",
+    17.15,
+    17.65
+   ],
+   [
+    "the",
+    17.75,
+    17.85
+   ],
+   [
+    "strictures",
+    17.85,
+    18.33
+   ],
+   [
+    "on",
+    18.33,
+    18.51
+   ],
+   [
+    "the",
+    18.51,
+    18.59
+   ],
+   [
+    "fiction.",
+    18.59,
+    19.17
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   16,
+   23,
+   31,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Asimovs_Science_Fiction_magazine_circulation.png/960px-Asimovs_Science_Fiction_magazine_circulation.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 407,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mike Christie",
+   "page": "https://commons.wikimedia.org/wiki/File:Asimovs_Science_Fiction_magazine_circulation.png",
+   "desc": "Asimovs Science Fiction magazine circulation — Circulation figures for Asimov's Science Fiction magazine up to 2020"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1977
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 100000,
+   "unit": "copies",
+   "label": "circulation reached"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1983
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q144949",
+ "pron_wer": 0.021,
+ "angle": 0,
+ "source": {
+  "title": "Asimov's Science Fiction",
+  "url": "https://en.wikipedia.org/wiki/Asimov%27s_Science_Fiction",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T16:19:57Z",
+ "trimmed": true
+}
