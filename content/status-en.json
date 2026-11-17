@@ -3,6 +3,20 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-17T15:12:06Z",
+   "made": 10,
+   "rejected": 3,
+   "repaired": 2,
+   "calls": 94,
+   "notes": [
+    "Murder of William de Cantilupe: pronunciation 11.5% of words misheard",
+    "California State Route 57: fact-check",
+    "2017 Africa Cup of Nations final: 'list' object has no attribute 'get'",
+    "Black hole: pronunciation 10.5% of words misheard",
+    "Emperor penguin: 'list' object has no attribute 'get'"
+   ]
+  },
+  {
    "at": "2026-11-17T13:35:18Z",
    "made": 13,
    "rejected": 0,
