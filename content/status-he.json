@@ -1,7 +1,20 @@
 {
  "lang": "he",
- "exhausted_day": "2026-11-16",
+ "exhausted_day": null,
  "runs": [
+  {
+   "at": "2026-11-17T08:18:09Z",
+   "made": 3,
+   "rejected": 2,
+   "repaired": 5,
+   "calls": 56,
+   "notes": [
+    "nasa:1440433: pronunciation 12.8% of words misheard",
+    "התפרצות געשית: pronunciation 12.2% of words misheard",
+    "repair he-2bbdd40c: 14.0% of words misheard",
+    "repair he-4487406d: 12.9% of words misheard"
+   ]
+  },
   {
    "at": "2026-11-16T16:47:37Z",
    "made": 6,
