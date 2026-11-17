@@ -1,0 +1,435 @@
+{
+ "id": "en-d34dcd2e",
+ "lang": "en",
+ "title": "Space Objects Remember Their Past",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Tiny space rocks are remembering their history.",
+  "NASA’s Hubble and Webb telescopes just spotted 27 faint, icy objects beyond Neptune.",
+  "These are some of the smallest, dimmest bodies ever seen in our solar system.",
+  "Surprisingly, these tiny rocks look exactly like their larger family members.",
+  "This suggests they haven't changed much since the solar system first formed.",
+  "They are effectively preserving a frozen record of planet-building."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Tiny",
+    0.35,
+    0.35
+   ],
+   [
+    "space",
+    0.35,
+    0.71
+   ],
+   [
+    "rocks",
+    0.71,
+    1.15
+   ],
+   [
+    "are",
+    1.15,
+    1.49
+   ],
+   [
+    "remembering",
+    1.49,
+    2.13
+   ],
+   [
+    "their",
+    2.13,
+    2.49
+   ],
+   [
+    "history.",
+    2.49,
+    2.75
+   ],
+   [
+    "NASA’s",
+    3.61,
+    4.03
+   ],
+   [
+    "Hubble",
+    4.07,
+    4.23
+   ],
+   [
+    "and",
+    4.23,
+    4.49
+   ],
+   [
+    "Webb",
+    4.49,
+    4.71
+   ],
+   [
+    "telescopes",
+    4.71,
+    5.13
+   ],
+   [
+    "just",
+    5.13,
+    5.47
+   ],
+   [
+    "spotted",
+    5.47,
+    5.71
+   ],
+   [
+    "27",
+    5.71,
+    6.43
+   ],
+   [
+    "faint,",
+    6.43,
+    7.03
+   ],
+   [
+    "icy",
+    7.21,
+    7.45
+   ],
+   [
+    "objects",
+    7.45,
+    7.87
+   ],
+   [
+    "beyond",
+    7.87,
+    8.29
+   ],
+   [
+    "Neptune.",
+    8.29,
+    8.61
+   ],
+   [
+    "These",
+    9.29,
+    9.35
+   ],
+   [
+    "are",
+    9.35,
+    9.45
+   ],
+   [
+    "some",
+    9.45,
+    9.57
+   ],
+   [
+    "of",
+    9.57,
+    9.69
+   ],
+   [
+    "the",
+    9.69,
+    9.77
+   ],
+   [
+    "smallest,",
+    9.77,
+    10.07
+   ],
+   [
+    "dimmest",
+    10.57,
+    10.83
+   ],
+   [
+    "bodies",
+    10.83,
+    11.15
+   ],
+   [
+    "ever",
+    11.15,
+    11.61
+   ],
+   [
+    "seen",
+    11.61,
+    11.93
+   ],
+   [
+    "in",
+    11.93,
+    12.09
+   ],
+   [
+    "our",
+    12.09,
+    12.23
+   ],
+   [
+    "solar",
+    12.23,
+    12.39
+   ],
+   [
+    "system.",
+    12.39,
+    13.19
+   ],
+   [
+    "Surprisingly,",
+    13.75,
+    14.01
+   ],
+   [
+    "these",
+    14.25,
+    14.43
+   ],
+   [
+    "tiny",
+    14.43,
+    14.75
+   ],
+   [
+    "rocks",
+    14.75,
+    15.13
+   ],
+   [
+    "look",
+    15.13,
+    15.41
+   ],
+   [
+    "exactly",
+    15.41,
+    15.95
+   ],
+   [
+    "like",
+    16.01,
+    16.31
+   ],
+   [
+    "their",
+    16.37,
+    16.47
+   ],
+   [
+    "larger",
+    16.47,
+    16.81
+   ],
+   [
+    "family",
+    16.99,
+    17.15
+   ],
+   [
+    "members.",
+    17.15,
+    17.43
+   ],
+   [
+    "This",
+    18.07,
+    18.15
+   ],
+   [
+    "suggests",
+    18.15,
+    18.39
+   ],
+   [
+    "they",
+    18.39,
+    18.57
+   ],
+   [
+    "haven't",
+    18.57,
+    18.79
+   ],
+   [
+    "changed",
+    18.79,
+    18.99
+   ],
+   [
+    "much",
+    18.99,
+    19.27
+   ],
+   [
+    "since",
+    19.27,
+    19.49
+   ],
+   [
+    "the",
+    19.49,
+    19.71
+   ],
+   [
+    "solar",
+    19.71,
+    19.93
+   ],
+   [
+    "system",
+    19.93,
+    20.29
+   ],
+   [
+    "first",
+    20.29,
+    20.65
+   ],
+   [
+    "formed.",
+    20.65,
+    21.03
+   ],
+   [
+    "They",
+    21.65,
+    21.75
+   ],
+   [
+    "are",
+    21.75,
+    21.85
+   ],
+   [
+    "effectively",
+    21.85,
+    22.21
+   ],
+   [
+    "preserving",
+    22.27,
+    22.67
+   ],
+   [
+    "a",
+    22.67,
+    22.89
+   ],
+   [
+    "frozen",
+    23.09,
+    23.31
+   ],
+   [
+    "record",
+    23.31,
+    23.69
+   ],
+   [
+    "of",
+    23.69,
+    24.13
+   ],
+   [
+    "planet-building.",
+    24.13,
+    24.63
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   34,
+   45,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Smallest_Kuiper_Belt_Object.jpg/960px-Smallest_Kuiper_Belt_Object.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 804,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Smallest_Kuiper_Belt_Object.jpg",
+   "desc": "Smallest Kuiper Belt Object — NASA's Hubble Space Telescope has discovered the smallest object ever seen in visible light in the Kuiper Belt, a vast ring of icy debris that is encircling the outer rim of the solar system just beyond Neptune. This art"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Artist%E2%80%99s_Impression_of_a_Kuiper_Belt_Object.jpg/960px-Artist%E2%80%99s_Impression_of_a_Kuiper_Belt_Object.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, and G. Bacon (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_Impression_of_a_Kuiper_Belt_Object.jpg",
+   "desc": "Artist’s Impression of a Kuiper Belt Object — This is an artist's impression of a Kuiper Belt object (KBO), located on the outer rim of our Solar System at a staggering distance of 6.5 billion kilometres from the Sun. Unlike asteroids, KBOs have not been heate"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/NASA%E2%80%99s_Webb_Finds_Water%2C_and_a_New_Mystery%2C_in_Rare_Main_Belt_Comet_%2852900098829%29.png/960px-NASA%E2%80%99s_Webb_Finds_Water%2C_and_a_New_Mystery%2C_in_Rare_Main_Belt_Comet_%2852900098829%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 633,
+   "license": "CC BY 2.0",
+   "artist": "NASA's James Webb Space Telescope from Greenbelt, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Finds_Water,_and_a_New_Mystery,_in_Rare_Main_Belt_Comet_(52900098829).png",
+   "desc": "NASA’s Webb Finds Water, and a New Mystery, in Rare Main Belt Comet (52900098829) — Webb confirmed the first detection of water vapor around a rare type of comet in the main asteroid belt. This suggests that water from the early solar system can be preserved i"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  0,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 27,
+   "unit": "objects",
+   "label": "faint icy objects"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:53:59Z",
+ "trimmed": true
+}
