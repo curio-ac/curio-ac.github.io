@@ -120,7 +120,8 @@
   "David Berman (musician)",
   "nasa:1285516",
   "Chorioactis",
-  "1995 Pacific hurricane season"
+  "1995 Pacific hurricane season",
+  "nasa:1277375"
  ],
  "rejected": [
   "Chameleon",
@@ -541,6 +542,9 @@
   ],
   "1995 Pacific hurricane season": [
    "The 1995 Hurricane Season: 1995 saw unusually quiet hurricane activity."
+  ],
+  "nasa:1277375": [
+   "Falcon 9 Moon Crater: A Falcon 9 rocket just hit the Moon."
   ]
  },
  "exhausted": []

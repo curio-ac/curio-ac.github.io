@@ -1,0 +1,426 @@
+{
+ "id": "en-0c1c3f94",
+ "lang": "en",
+ "title": "Goya's Secret War Art",
+ "cat": "art",
+ "emoji": "🎨",
+ "sentences": [
+  "These 82 prints were hidden for decades.",
+  "Francisco Goya created this series between 1810 and 1820.",
+  "Art historians view them as a visual protest against the violence of the Peninsular War.",
+  "While working as a court painter, Goya kept his thoughts on the conflict private.",
+  "He was 62 and almost deaf when he started.",
+  "They were finally published in 1863, 35 years after his death."
+ ],
+ "tim": {
+  "w": [
+   [
+    "These",
+    0,
+    0.22
+   ],
+   [
+    "82",
+    0.22,
+    0.7
+   ],
+   [
+    "prints",
+    0.7,
+    1.12
+   ],
+   [
+    "were",
+    1.12,
+    1.44
+   ],
+   [
+    "hidden",
+    1.44,
+    1.78
+   ],
+   [
+    "for",
+    1.78,
+    2.08
+   ],
+   [
+    "decades.",
+    2.08,
+    2.76
+   ],
+   [
+    "Francisco",
+    3.24,
+    3.64
+   ],
+   [
+    "Goya",
+    3.64,
+    4.06
+   ],
+   [
+    "created",
+    4.06,
+    4.54
+   ],
+   [
+    "this",
+    4.54,
+    4.78
+   ],
+   [
+    "series",
+    4.78,
+    5.1
+   ],
+   [
+    "between",
+    5.1,
+    5.42
+   ],
+   [
+    "1810",
+    5.42,
+    6.2
+   ],
+   [
+    "and",
+    6.2,
+    6.46
+   ],
+   [
+    "1820.",
+    6.46,
+    7.14
+   ],
+   [
+    "Art",
+    7.9,
+    8.0
+   ],
+   [
+    "historians",
+    8.0,
+    8.32
+   ],
+   [
+    "view",
+    8.32,
+    8.82
+   ],
+   [
+    "them",
+    8.82,
+    8.98
+   ],
+   [
+    "as",
+    8.98,
+    9.2
+   ],
+   [
+    "a",
+    9.2,
+    9.28
+   ],
+   [
+    "visual",
+    9.28,
+    9.6
+   ],
+   [
+    "protest",
+    9.6,
+    10.16
+   ],
+   [
+    "against",
+    10.16,
+    10.52
+   ],
+   [
+    "the",
+    10.52,
+    10.72
+   ],
+   [
+    "violence",
+    10.72,
+    11.06
+   ],
+   [
+    "of",
+    11.06,
+    11.36
+   ],
+   [
+    "the",
+    11.36,
+    11.48
+   ],
+   [
+    "Peninsular",
+    11.52,
+    11.92
+   ],
+   [
+    "War.",
+    11.92,
+    12.12
+   ],
+   [
+    "While",
+    13.08,
+    13.22
+   ],
+   [
+    "working",
+    13.22,
+    13.46
+   ],
+   [
+    "as",
+    13.46,
+    13.64
+   ],
+   [
+    "a",
+    13.64,
+    13.72
+   ],
+   [
+    "court",
+    13.82,
+    13.92
+   ],
+   [
+    "painter,",
+    13.92,
+    14.42
+   ],
+   [
+    "Goya",
+    14.54,
+    14.74
+   ],
+   [
+    "kept",
+    14.74,
+    15.0
+   ],
+   [
+    "his",
+    15.0,
+    15.18
+   ],
+   [
+    "thoughts",
+    15.26,
+    15.36
+   ],
+   [
+    "on",
+    15.36,
+    15.54
+   ],
+   [
+    "the",
+    15.54,
+    15.62
+   ],
+   [
+    "conflict",
+    15.62,
+    15.96
+   ],
+   [
+    "private.",
+    15.96,
+    16.44
+   ],
+   [
+    "He",
+    17.18,
+    17.3
+   ],
+   [
+    "was",
+    17.34,
+    17.44
+   ],
+   [
+    "62",
+    17.44,
+    17.94
+   ],
+   [
+    "and",
+    17.94,
+    18.42
+   ],
+   [
+    "almost",
+    18.42,
+    18.72
+   ],
+   [
+    "deaf",
+    18.72,
+    19.12
+   ],
+   [
+    "when",
+    19.12,
+    19.42
+   ],
+   [
+    "he",
+    19.42,
+    19.54
+   ],
+   [
+    "started.",
+    19.54,
+    19.82
+   ],
+   [
+    "They",
+    20.68,
+    20.78
+   ],
+   [
+    "were",
+    20.78,
+    20.9
+   ],
+   [
+    "finally",
+    20.9,
+    21.2
+   ],
+   [
+    "published",
+    21.2,
+    21.56
+   ],
+   [
+    "in",
+    21.56,
+    21.82
+   ],
+   [
+    "1863,",
+    21.82,
+    22.56
+   ],
+   [
+    "35",
+    23.48,
+    23.72
+   ],
+   [
+    "years",
+    23.8,
+    24.28
+   ],
+   [
+    "after",
+    24.28,
+    24.66
+   ],
+   [
+    "his",
+    24.66,
+    24.84
+   ],
+   [
+    "death.",
+    24.84,
+    25.0
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   31,
+   45,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg/960px-Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 580,
+   "license": "Public domain",
+   "artist": "Francisco Goya",
+   "page": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg",
+   "desc": "Prado - Los Desastres de la Guerra - No. 01 - Tristes presentimientos de lo que ha de acontecer — Los desastres de la guerra, plate No. 1, (1st edition, Madrid: Real Academia de Bellas Artes de San Fernando, 1863)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Prado_-_Los_Desastres_de_la_Guerra_-_No._37_-_Esto_es_peor.jpg/960px-Prado_-_Los_Desastres_de_la_Guerra_-_No._37_-_Esto_es_peor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 541,
+   "license": "Public domain",
+   "artist": "Francisco Goya",
+   "page": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._37_-_Esto_es_peor.jpg",
+   "desc": "Prado - Los Desastres de la Guerra - No. 37 - Esto es peor — Los desastres de la guerra, plate No. 37, (1st edition, Madrid: Real Academia de Bellas Artes de San Fernando, 1863)"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 82,
+   "unit": "prints",
+   "label": "hidden collection"
+  },
+  {
+   "type": "timeline",
+   "year": 1810
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 62,
+   "unit": "years old",
+   "label": "Goya's age"
+  },
+  {
+   "type": "timeline",
+   "year": 1863
+  }
+ ],
+ "geo": null,
+ "qid": "Q1200522",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "The Disasters of War",
+  "url": "https://en.wikipedia.org/wiki/The_Disasters_of_War",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:03:21Z",
+ "trimmed": true
+}
