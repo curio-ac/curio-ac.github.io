@@ -1,0 +1,315 @@
+{
+ "id": "en-80b01a3f",
+ "lang": "en",
+ "title": "Secrets of the Eiffel Tower",
+ "cat": "history",
+ "emoji": "🗼",
+ "sentences": [
+  "Built for the 1889 World Fair!",
+  "Engineered by Gustave Eiffel's company.",
+  "Locally nicknamed La dame de fer.",
+  "Artists initially criticised its bold design.",
+  "It stands 330 metres tall in Paris.",
+  "Millions of people visit it every year."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Built",
+    0.35,
+    0.35
+   ],
+   [
+    "for",
+    0.35,
+    0.57
+   ],
+   [
+    "the",
+    0.57,
+    0.67
+   ],
+   [
+    "1889",
+    0.67,
+    1.69
+   ],
+   [
+    "World",
+    1.69,
+    2.07
+   ],
+   [
+    "Fair!",
+    2.07,
+    3.01
+   ],
+   [
+    "Engineered",
+    3.01,
+    3.53
+   ],
+   [
+    "by",
+    3.53,
+    3.69
+   ],
+   [
+    "Gustave",
+    3.69,
+    4.19
+   ],
+   [
+    "Eiffel's",
+    4.19,
+    4.69
+   ],
+   [
+    "company.",
+    4.69,
+    4.89
+   ],
+   [
+    "Locally",
+    5.61,
+    5.89
+   ],
+   [
+    "nicknamed",
+    5.89,
+    6.41
+   ],
+   [
+    "La",
+    6.41,
+    6.65
+   ],
+   [
+    "dame",
+    6.65,
+    7.01
+   ],
+   [
+    "de",
+    7.01,
+    7.17
+   ],
+   [
+    "fer.",
+    7.17,
+    7.47
+   ],
+   [
+    "Artists",
+    8.07,
+    8.49
+   ],
+   [
+    "initially",
+    8.49,
+    8.93
+   ],
+   [
+    "criticised",
+    8.93,
+    9.77
+   ],
+   [
+    "its",
+    9.77,
+    9.89
+   ],
+   [
+    "bold",
+    10.01,
+    10.23
+   ],
+   [
+    "design.",
+    10.23,
+    10.73
+   ],
+   [
+    "It",
+    11.29,
+    11.37
+   ],
+   [
+    "stands",
+    11.37,
+    11.65
+   ],
+   [
+    "330",
+    11.65,
+    12.35
+   ],
+   [
+    "metres",
+    12.35,
+    12.93
+   ],
+   [
+    "tall",
+    12.93,
+    13.33
+   ],
+   [
+    "in",
+    13.33,
+    13.55
+   ],
+   [
+    "Paris.",
+    13.55,
+    14.19
+   ],
+   [
+    "Millions",
+    14.59,
+    14.95
+   ],
+   [
+    "of",
+    14.95,
+    15.11
+   ],
+   [
+    "people",
+    15.27,
+    15.37
+   ],
+   [
+    "visit",
+    15.37,
+    15.75
+   ],
+   [
+    "it",
+    15.75,
+    15.95
+   ],
+   [
+    "every",
+    16.05,
+    16.23
+   ],
+   [
+    "year.",
+    16.23,
+    16.61
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   11,
+   17,
+   23,
+   30
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg/960px-Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 507,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg",
+   "desc": "Exposition Universelle de Paris 1889 - Universitäts- und Landesbibliothek Darmstadt — Exposition Universelle de Paris 1889"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Buste_Eiffel_par_Bourdelle.jpg/960px-Buste_Eiffel_par_Bourdelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1082,
+   "license": "CC0",
+   "artist": "Antoine Bourdelle",
+   "page": "https://commons.wikimedia.org/wiki/File:Buste_Eiffel_par_Bourdelle.jpg",
+   "desc": "Buste Eiffel par Bourdelle — Gilded bronze bust of Gustave Eiffel, by Antoine Bourdelle. One can see behind the basis of the northern pillar of the Tower."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Delaunay_-_Tour_Eiffel.jpeg/960px-Delaunay_-_Tour_Eiffel.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 904,
+   "license": "Public domain",
+   "artist": "Robert Delaunay",
+   "page": "https://commons.wikimedia.org/wiki/File:Delaunay_-_Tour_Eiffel.jpeg",
+   "desc": "Delaunay - Tour Eiffel — Graphic Champs de Mars: La Tour Rouge. 1911-1923, Robert Delaunay. Oil on canvas. The Art Institute of Chicago."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Eiffel_tower_by_Loki.jpg/960px-Eiffel_tower_by_Loki.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Lokeswaran Kaliyappan",
+   "page": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_by_Loki.jpg",
+   "desc": "Eiffel tower by Loki — The Eiffel Tower is a world-famous open-lattice wrought-iron monument located in Paris, France."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Tourists_visiting_the_Eiffel_Tower.jpg/960px-Tourists_visiting_the_Eiffel_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Eutouring",
+   "page": "https://commons.wikimedia.org/wiki/File:Tourists_visiting_the_Eiffel_Tower.jpg",
+   "desc": "Tourists visiting the Eiffel Tower — One of the queues with tourists waiting to use one of the elevators built into a leg of the Eiffel tower."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1889
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 330,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 5889000,
+   "unit": "visitors",
+   "label": "visitors in 2022"
+  }
+ ],
+ "geo": [
+  48.858,
+  2.294
+ ],
+ "qid": "Q243",
+ "pron_wer": 0.079,
+ "angle": 1,
+ "source": {
+  "title": "Eiffel Tower",
+  "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:19:54Z",
+ "trimmed": true
+}
