@@ -1,0 +1,429 @@
+{
+ "id": "en-608e243c",
+ "lang": "en",
+ "title": "Space's Most Distant Mystery",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "The farthest fast radio burst is finally located.",
+  "Astronomers used the James Webb Space Telescope to pinpoint a mysterious radio flash from deep space.",
+  "It came from a tiny, star-forming dwarf galaxy.",
+  "This burst happened just 3 billion years after the Big Bang.",
+  "The discovery suggests these bursts come from young, magnetic neutron stars called magnetars, not colliding stars.",
+  "This cosmic flashlight even revealed hidden structures across the universe."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0,
+    0.1
+   ],
+   [
+    "farthest",
+    0.1,
+    0.62
+   ],
+   [
+    "fast",
+    0.62,
+    0.96
+   ],
+   [
+    "radio",
+    0.96,
+    1.46
+   ],
+   [
+    "burst",
+    1.46,
+    1.74
+   ],
+   [
+    "is",
+    1.74,
+    2.06
+   ],
+   [
+    "finally",
+    2.06,
+    2.52
+   ],
+   [
+    "located.",
+    2.52,
+    3.06
+   ],
+   [
+    "Astronomers",
+    3.8,
+    4.24
+   ],
+   [
+    "used",
+    4.24,
+    4.4
+   ],
+   [
+    "the",
+    4.4,
+    4.58
+   ],
+   [
+    "James",
+    4.64,
+    4.86
+   ],
+   [
+    "Webb",
+    4.86,
+    5.18
+   ],
+   [
+    "Space",
+    5.18,
+    5.52
+   ],
+   [
+    "Telescope",
+    5.52,
+    6.14
+   ],
+   [
+    "to",
+    6.22,
+    6.32
+   ],
+   [
+    "pinpoint",
+    6.32,
+    6.7
+   ],
+   [
+    "a",
+    6.74,
+    7.02
+   ],
+   [
+    "mysterious",
+    7.02,
+    7.44
+   ],
+   [
+    "radio",
+    7.44,
+    7.92
+   ],
+   [
+    "flash",
+    7.92,
+    8.24
+   ],
+   [
+    "from",
+    8.42,
+    8.52
+   ],
+   [
+    "deep",
+    8.52,
+    8.76
+   ],
+   [
+    "space.",
+    8.76,
+    9.34
+   ],
+   [
+    "It",
+    9.82,
+    9.9
+   ],
+   [
+    "came",
+    9.94,
+    10.18
+   ],
+   [
+    "from",
+    10.18,
+    10.42
+   ],
+   [
+    "a",
+    10.42,
+    10.58
+   ],
+   [
+    "tiny,",
+    10.58,
+    11.02
+   ],
+   [
+    "star-forming",
+    11.14,
+    11.76
+   ],
+   [
+    "dwarf",
+    11.76,
+    12.04
+   ],
+   [
+    "galaxy.",
+    12.04,
+    12.64
+   ],
+   [
+    "This",
+    13.32,
+    13.46
+   ],
+   [
+    "burst",
+    13.46,
+    13.72
+   ],
+   [
+    "happened",
+    13.72,
+    14.02
+   ],
+   [
+    "just",
+    14.02,
+    14.28
+   ],
+   [
+    "3",
+    14.28,
+    14.7
+   ],
+   [
+    "billion",
+    14.7,
+    15.1
+   ],
+   [
+    "years",
+    15.1,
+    15.44
+   ],
+   [
+    "after",
+    15.44,
+    15.78
+   ],
+   [
+    "the",
+    15.78,
+    15.9
+   ],
+   [
+    "Big",
+    15.9,
+    16.04
+   ],
+   [
+    "Bang.",
+    16.04,
+    16.3
+   ],
+   [
+    "The",
+    17.02,
+    17.1
+   ],
+   [
+    "discovery",
+    17.1,
+    17.46
+   ],
+   [
+    "suggests",
+    17.46,
+    17.86
+   ],
+   [
+    "these",
+    17.86,
+    18.22
+   ],
+   [
+    "bursts",
+    18.22,
+    18.56
+   ],
+   [
+    "come",
+    18.56,
+    18.82
+   ],
+   [
+    "from",
+    18.82,
+    19.0
+   ],
+   [
+    "young,",
+    19.0,
+    19.36
+   ],
+   [
+    "magnetic",
+    19.56,
+    19.98
+   ],
+   [
+    "neutron",
+    19.98,
+    20.28
+   ],
+   [
+    "stars",
+    20.28,
+    20.78
+   ],
+   [
+    "called",
+    21.12,
+    21.24
+   ],
+   [
+    "magnetars,",
+    21.24,
+    22.16
+   ],
+   [
+    "not",
+    22.44,
+    22.62
+   ],
+   [
+    "colliding",
+    22.62,
+    22.96
+   ],
+   [
+    "stars.",
+    22.96,
+    23.3
+   ],
+   [
+    "This",
+    24.18,
+    24.3
+   ],
+   [
+    "cosmic",
+    24.3,
+    24.72
+   ],
+   [
+    "flashlight",
+    24.72,
+    25.2
+   ],
+   [
+    "even",
+    25.2,
+    25.6
+   ],
+   [
+    "revealed",
+    25.6,
+    25.98
+   ],
+   [
+    "hidden",
+    25.98,
+    26.3
+   ],
+   [
+    "structures",
+    26.3,
+    26.8
+   ],
+   [
+    "across",
+    26.8,
+    27.18
+   ],
+   [
+    "the",
+    27.18,
+    27.48
+   ],
+   [
+    "universe.",
+    27.48,
+    27.96
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   24,
+   32,
+   43,
+   59
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/FRB_20240304B_%28NIRCam_image%29_%28weic2621a%29.jpg/960px-FRB_20240304B_%28NIRCam_image%29_%28weic2621a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 627,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, CSA, STScI, T. Nanayakkara (USYD). Image Processing: J. DePasquale (S",
+   "page": "https://commons.wikimedia.org/wiki/File:FRB_20240304B_(NIRCam_image)_(weic2621a).jpg",
+   "desc": "FRB 20240304B (NIRCam image) (weic2621a) — The NASA/ESA/CSA James Webb Space Telescope’s NIRCam (Near-Infrared Camera) was able to detect the host galaxy of the fast radio burst called FRB 20240304B, whose location is shown by the white cross. They found it is"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+ "pron_wer": 0.043,
+ "angle": 0,
+ "source": {
+  "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+  "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:05:59Z",
+ "trimmed": true
+}

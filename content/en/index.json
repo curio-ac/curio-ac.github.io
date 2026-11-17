@@ -122,7 +122,8 @@
   "Chorioactis",
   "1995 Pacific hurricane season",
   "nasa:1277375",
-  "The Disasters of War"
+  "The Disasters of War",
+  "Chinese characters"
  ],
  "rejected": [
   "Chameleon",
@@ -549,6 +550,9 @@
   ],
   "The Disasters of War": [
    "Goya's Secret War Art: These 82 prints were hidden for decades."
+  ],
+  "Chinese characters": [
+   "Ancient Writing Still Alive: This writing system has survived for 3,000 years."
   ]
  },
  "exhausted": []
