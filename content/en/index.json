@@ -136,7 +136,8 @@
   "2017 Africa Cup of Nations final",
   "nasa:1479874",
   "nasa:1281254",
-  "Ann Arbor, Michigan"
+  "Ann Arbor, Michigan",
+  "After the Deluge (painting)"
  ],
  "rejected": [
   "Chameleon",
@@ -161,7 +162,10 @@
   "Black hole",
   "Bale Out",
   "nasa:1447308",
-  "2002 Football League First Division play-off final"
+  "2002 Football League First Division play-off final",
+  "nasa:1480607",
+  "nasa:1285516",
+  "nasa:1378211"
  ],
  "angles": {
   "Blue whale": [
@@ -617,6 +621,9 @@
   ],
   "Ann Arbor, Michigan": [
    "The Secrets Of Ann Arbor: Native villages stood here back in 1774!"
+  ],
+  "After the Deluge (painting)": [
+   "Painting God Without Showing Him: This glowing painting shows the end of Noah's Flood."
   ]
  },
  "exhausted": []

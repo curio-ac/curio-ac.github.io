@@ -1,0 +1,332 @@
+{
+ "id": "en-dae3aac6",
+ "lang": "en",
+ "title": "Martian Pebbles and Lasers",
+ "cat": "space",
+ "emoji": "🤖",
+ "sentences": [
+  "Lasers zap Martian pebbles.",
+  "Curiosity hunts for dark rocks named Palpala and Puna.",
+  "Some pebbles are too small and move when hit.",
+  "Scientists need them big enough to measure composition.",
+  "ChemCam also zaps down drill hole walls.",
+  "Long distance images target Mishe Mokwa and Cordillera buttes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Lasers",
+    0.35,
+    0.59
+   ],
+   [
+    "zap",
+    0.59,
+    0.91
+   ],
+   [
+    "Martian",
+    0.91,
+    1.39
+   ],
+   [
+    "pebbles.",
+    1.39,
+    1.59
+   ],
+   [
+    "Curiosity",
+    2.09,
+    2.33
+   ],
+   [
+    "hunts",
+    2.33,
+    2.79
+   ],
+   [
+    "for",
+    2.79,
+    2.89
+   ],
+   [
+    "dark",
+    2.89,
+    3.11
+   ],
+   [
+    "rocks",
+    3.11,
+    3.39
+   ],
+   [
+    "named",
+    3.39,
+    3.65
+   ],
+   [
+    "Palpala",
+    3.65,
+    4.25
+   ],
+   [
+    "and",
+    4.25,
+    4.47
+   ],
+   [
+    "Puna.",
+    4.47,
+    4.81
+   ],
+   [
+    "Some",
+    5.21,
+    5.25
+   ],
+   [
+    "pebbles",
+    5.25,
+    5.59
+   ],
+   [
+    "are",
+    5.59,
+    5.71
+   ],
+   [
+    "too",
+    5.71,
+    5.87
+   ],
+   [
+    "small",
+    5.87,
+    6.11
+   ],
+   [
+    "and",
+    6.11,
+    6.37
+   ],
+   [
+    "move",
+    6.37,
+    6.59
+   ],
+   [
+    "when",
+    6.59,
+    6.79
+   ],
+   [
+    "hit.",
+    6.79,
+    7.09
+   ],
+   [
+    "Scientists",
+    7.39,
+    7.61
+   ],
+   [
+    "need",
+    7.61,
+    7.93
+   ],
+   [
+    "them",
+    7.93,
+    8.09
+   ],
+   [
+    "big",
+    8.09,
+    8.27
+   ],
+   [
+    "enough",
+    8.27,
+    8.45
+   ],
+   [
+    "to",
+    8.45,
+    8.61
+   ],
+   [
+    "measure",
+    8.61,
+    8.77
+   ],
+   [
+    "composition.",
+    8.77,
+    9.22
+   ],
+   [
+    "ChemCam",
+    9.67,
+    9.99
+   ],
+   [
+    "also",
+    9.99,
+    10.29
+   ],
+   [
+    "zaps",
+    10.29,
+    10.67
+   ],
+   [
+    "down",
+    10.69,
+    10.83
+   ],
+   [
+    "drill",
+    10.83,
+    10.99
+   ],
+   [
+    "hole",
+    10.99,
+    11.21
+   ],
+   [
+    "walls.",
+    11.21,
+    11.51
+   ],
+   [
+    "Long",
+    11.83,
+    11.99
+   ],
+   [
+    "distance",
+    11.99,
+    12.25
+   ],
+   [
+    "images",
+    12.25,
+    12.63
+   ],
+   [
+    "target",
+    12.63,
+    13.01
+   ],
+   [
+    "Mishe",
+    13.01,
+    13.43
+   ],
+   [
+    "Mokwa",
+    13.43,
+    13.79
+   ],
+   [
+    "and",
+    13.79,
+    13.97
+   ],
+   [
+    "Cordillera",
+    13.97,
+    14.47
+   ],
+   [
+    "buttes.",
+    14.47,
+    14.75
+   ]
+  ],
+  "b": [
+   0,
+   4,
+   13,
+   22,
+   30,
+   37
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/PIA16075-Curiosity_Rover_ChemCam-20120819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 713,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/LANL/CNES/IRAP",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA16075-Curiosity_Rover_ChemCam-20120819.jpg",
+   "desc": "PIA16075-Curiosity Rover ChemCam-20120819 — 08.19.2012 First Laser-Zapped Rock on Mars This composite image, with magnified insets, depicts the first laser test by the Chemistry and Camera, or ChemCam, instrument aboard NASA’s Curiosity Mars rover. The composi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/PIA17362-MarsCuriosityRover-Sandstone-Waypoint1-20130921.jpg/960px-PIA17362-MarsCuriosityRover-Sandstone-Waypoint1-20130921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 429,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA17362-MarsCuriosityRover-Sandstone-Waypoint1-20130921.jpg",
+   "desc": "PIA17362-MarsCuriosityRover-Sandstone-Waypoint1-20130921 — PIA17362: Pebbly Sandstone Conglomerate Rock at Curiosity's 'Waypoint 1.' http://photojournal.jpl.nasa.gov/catalog/PIA17362 This mosaic of nine images, taken by the Mars Hand Lens Imager (MAHLI) camera"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/A_Collage_Showing_49_Drill_Holes_Made_by_NASA%E2%80%99s_Curiosity_Mars_Rover_%28PIA26804%29.jpg/960px-A_Collage_Showing_49_Drill_Holes_Made_by_NASA%E2%80%99s_Curiosity_Mars_Rover_%28PIA26804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Collage_Showing_49_Drill_Holes_Made_by_NASA%E2%80%99s_Curiosity_Mars_Rover_(PIA26804).jpg",
+   "desc": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover (PIA26804) — This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosit"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+ "pron_wer": 0.065,
+ "angle": 2,
+ "source": {
+  "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T16:10:43Z",
+ "trimmed": true
+}
