@@ -1,0 +1,447 @@
+{
+ "id": "en-8f7e79cc",
+ "lang": "en",
+ "title": "A Queen's Rise",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "She rejected a future Spanish king.",
+  "Caroline of Ansbach was orphaned as a young child.",
+  "She moved to Prussia, where she received an enlightened education.",
+  "Her guardian, Queen Sophia Charlotte, shaped her liberal outlook for life.",
+  "Later, she married George Augustus, who was third in line for the British throne.",
+  "They eventually had 8 children together.",
+  "She served as Queen of Great Britain until her death in 1737."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.28,
+    0.38
+   ],
+   [
+    "rejected",
+    0.38,
+    0.9
+   ],
+   [
+    "a",
+    0.9,
+    1.22
+   ],
+   [
+    "future",
+    1.32,
+    1.5
+   ],
+   [
+    "Spanish",
+    1.5,
+    1.86
+   ],
+   [
+    "king.",
+    1.86,
+    2.22
+   ],
+   [
+    "Caroline",
+    2.98,
+    3.16
+   ],
+   [
+    "of",
+    3.16,
+    3.36
+   ],
+   [
+    "Ansbach",
+    3.36,
+    3.82
+   ],
+   [
+    "was",
+    3.82,
+    4.12
+   ],
+   [
+    "orphaned",
+    4.24,
+    4.64
+   ],
+   [
+    "as",
+    4.64,
+    4.74
+   ],
+   [
+    "a",
+    4.74,
+    4.84
+   ],
+   [
+    "young",
+    4.84,
+    4.98
+   ],
+   [
+    "child.",
+    4.98,
+    5.08
+   ],
+   [
+    "She",
+    5.84,
+    5.92
+   ],
+   [
+    "moved",
+    5.92,
+    6.06
+   ],
+   [
+    "to",
+    6.06,
+    6.22
+   ],
+   [
+    "Prussia,",
+    6.22,
+    6.62
+   ],
+   [
+    "where",
+    6.7,
+    6.76
+   ],
+   [
+    "she",
+    6.76,
+    6.88
+   ],
+   [
+    "received",
+    6.88,
+    7.22
+   ],
+   [
+    "an",
+    7.22,
+    7.36
+   ],
+   [
+    "enlightened",
+    7.36,
+    7.72
+   ],
+   [
+    "education.",
+    7.72,
+    7.82
+   ],
+   [
+    "Her",
+    8.86,
+    8.96
+   ],
+   [
+    "guardian,",
+    8.96,
+    9.42
+   ],
+   [
+    "Queen",
+    9.6,
+    9.7
+   ],
+   [
+    "Sophia",
+    9.7,
+    10.0
+   ],
+   [
+    "Charlotte,",
+    10.0,
+    10.56
+   ],
+   [
+    "shaped",
+    10.74,
+    10.88
+   ],
+   [
+    "her",
+    10.88,
+    11.06
+   ],
+   [
+    "liberal",
+    11.06,
+    11.36
+   ],
+   [
+    "outlook",
+    11.36,
+    11.74
+   ],
+   [
+    "for",
+    11.74,
+    11.98
+   ],
+   [
+    "life.",
+    11.98,
+    12.73
+   ],
+   [
+    "Later,",
+    12.9,
+    13.22
+   ],
+   [
+    "she",
+    13.3,
+    13.38
+   ],
+   [
+    "married",
+    13.38,
+    13.56
+   ],
+   [
+    "George",
+    13.56,
+    13.84
+   ],
+   [
+    "Augustus,",
+    13.84,
+    14.42
+   ],
+   [
+    "who",
+    14.64,
+    14.74
+   ],
+   [
+    "was",
+    14.74,
+    14.84
+   ],
+   [
+    "third",
+    14.84,
+    15.04
+   ],
+   [
+    "in",
+    15.04,
+    15.2
+   ],
+   [
+    "line",
+    15.2,
+    15.4
+   ],
+   [
+    "for",
+    15.4,
+    15.58
+   ],
+   [
+    "the",
+    15.58,
+    15.66
+   ],
+   [
+    "British",
+    15.74,
+    15.88
+   ],
+   [
+    "throne.",
+    15.88,
+    16.18
+   ],
+   [
+    "They",
+    16.68,
+    16.74
+   ],
+   [
+    "eventually",
+    16.74,
+    17.04
+   ],
+   [
+    "had",
+    17.04,
+    17.3
+   ],
+   [
+    "8",
+    17.3,
+    17.56
+   ],
+   [
+    "children",
+    17.56,
+    17.9
+   ],
+   [
+    "together.",
+    17.9,
+    18.0
+   ],
+   [
+    "She",
+    18.86,
+    18.96
+   ],
+   [
+    "served",
+    18.96,
+    19.2
+   ],
+   [
+    "as",
+    19.2,
+    19.34
+   ],
+   [
+    "Queen",
+    19.34,
+    19.58
+   ],
+   [
+    "of",
+    19.58,
+    19.76
+   ],
+   [
+    "Great",
+    19.76,
+    19.92
+   ],
+   [
+    "Britain",
+    19.92,
+    20.16
+   ],
+   [
+    "until",
+    20.42,
+    20.52
+   ],
+   [
+    "her",
+    20.52,
+    20.7
+   ],
+   [
+    "death",
+    20.7,
+    20.94
+   ],
+   [
+    "in",
+    20.94,
+    21.12
+   ],
+   [
+    "1737.",
+    21.12,
+    21.57
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   25,
+   36,
+   50,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/German_School%2C_18th_century_-_Princess_Frederica_of_Prussia%2C_Margravine_of_Brandenburg-Ansbach_%281714-1784%29_-_RCIN_406794_-_Royal_Collection.jpg/960px-German_School%2C_18th_century_-_Princess_Frederica_of_Prussia%2C_Margravine_of_Brandenburg-Ansbach_%281714-1784%29_-_RCIN_406794_-_Royal_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1218,
+   "license": "Public domain",
+   "artist": "Unidentified painter",
+   "page": "https://commons.wikimedia.org/wiki/File:German_School,_18th_century_-_Princess_Frederica_of_Prussia,_Margravine_of_Brandenburg-Ansbach_(1714-1784)_-_RCIN_406794_-_Royal_Collection.jpg",
+   "desc": "German School, 18th century - Princess Frederica of Prussia, Margravine of Brandenburg-Ansbach (1714-1784) - RCIN 406794 - Royal Collection — So-called Portrait of Princess Friederike Luise of Prussia (1714-1784), wife of Charles William of Brandenburg-Ansbach"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Friedrich_Wilhelm_Weidemann_-_Sophie_Charlotte%2C_K%C3%B6nigin_von_Preu%C3%9Fen.jpg/960px-Friedrich_Wilhelm_Weidemann_-_Sophie_Charlotte%2C_K%C3%B6nigin_von_Preu%C3%9Fen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 957,
+   "license": "Public domain",
+   "artist": "Friedrich Wilhelm Weidemann",
+   "page": "https://commons.wikimedia.org/wiki/File:Friedrich_Wilhelm_Weidemann_-_Sophie_Charlotte,_K%C3%B6nigin_von_Preu%C3%9Fen.jpg",
+   "desc": "Friedrich Wilhelm Weidemann - Sophie Charlotte, Königin von Preußen — Portrait of Sophia Charlotte of Hanover (1668-1705), queen consort in Prussia.label QS:Len,\"Portrait of Sophia Charlotte of Hanover (1668-1705), queen consort in Prussia.\"label QS:Lde,\"Portr"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1683
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "in line",
+   "label": "British throne"
+  },
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "children",
+   "label": "total children"
+  },
+  {
+   "type": "timeline",
+   "year": 1737
+  }
+ ],
+ "geo": null,
+ "qid": "Q76961",
+ "pron_wer": 0.029,
+ "angle": 0,
+ "source": {
+  "title": "Caroline of Ansbach",
+  "url": "https://en.wikipedia.org/wiki/Caroline_of_Ansbach",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:51:54Z",
+ "trimmed": true
+}
