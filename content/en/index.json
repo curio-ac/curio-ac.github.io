@@ -125,7 +125,8 @@
   "The Disasters of War",
   "Chinese characters",
   "nasa:1472511",
-  "Betsy Bakker-Nort"
+  "Betsy Bakker-Nort",
+  "nasa:1277717"
  ],
  "rejected": [
   "Chameleon",
@@ -565,6 +566,9 @@
   ],
   "Betsy Bakker-Nort": [
    "A Trailblazing Dutch Lawyer: She judged a 1933 Reichstag counter-trial."
+  ],
+  "nasa:1277717": [
+   "NASA Data Feeds River Forecasts: Space data tracks water extremes."
   ]
  },
  "exhausted": []

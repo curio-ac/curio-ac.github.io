@@ -1,0 +1,405 @@
+{
+ "id": "en-f0d2c16b",
+ "lang": "en",
+ "title": "The Ultimate Double Agent",
+ "cat": "history",
+ "emoji": "🕵️",
+ "sentences": [
+  "A British diplomat was a Soviet spy.",
+  "Guy Burgess was part of the Cambridge Five ring.",
+  "He was recruited in 1935 by Soviet intelligence.",
+  "Burgess worked for the BBC and MI6 before joining the Foreign Office in 1944.",
+  "In 1951, he defected to the Soviet Union with Donald Maclean.",
+  "His escape caused a serious breach in Anglo-United States intelligence co-operation."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.34,
+    0.34
+   ],
+   [
+    "British",
+    0.34,
+    0.5
+   ],
+   [
+    "diplomat",
+    0.5,
+    1.08
+   ],
+   [
+    "was",
+    1.08,
+    1.24
+   ],
+   [
+    "a",
+    1.24,
+    1.38
+   ],
+   [
+    "Soviet",
+    1.38,
+    1.66
+   ],
+   [
+    "spy.",
+    1.66,
+    2.06
+   ],
+   [
+    "Guy",
+    2.66,
+    2.88
+   ],
+   [
+    "Burgess",
+    2.88,
+    3.24
+   ],
+   [
+    "was",
+    3.24,
+    3.38
+   ],
+   [
+    "part",
+    3.38,
+    3.56
+   ],
+   [
+    "of",
+    3.56,
+    3.68
+   ],
+   [
+    "the",
+    3.68,
+    3.76
+   ],
+   [
+    "Cambridge",
+    3.76,
+    4.0
+   ],
+   [
+    "Five",
+    4.0,
+    4.28
+   ],
+   [
+    "ring.",
+    4.28,
+    4.5
+   ],
+   [
+    "He",
+    4.96,
+    5.04
+   ],
+   [
+    "was",
+    5.04,
+    5.16
+   ],
+   [
+    "recruited",
+    5.16,
+    5.46
+   ],
+   [
+    "in",
+    5.46,
+    5.74
+   ],
+   [
+    "1935",
+    5.74,
+    6.4
+   ],
+   [
+    "by",
+    6.4,
+    6.68
+   ],
+   [
+    "Soviet",
+    6.68,
+    7.0
+   ],
+   [
+    "intelligence.",
+    7.0,
+    7.62
+   ],
+   [
+    "Burgess",
+    8.24,
+    8.56
+   ],
+   [
+    "worked",
+    8.56,
+    8.74
+   ],
+   [
+    "for",
+    8.74,
+    8.94
+   ],
+   [
+    "the",
+    8.94,
+    9.02
+   ],
+   [
+    "BBC",
+    9.02,
+    9.3
+   ],
+   [
+    "and",
+    9.3,
+    9.82
+   ],
+   [
+    "MI6",
+    9.82,
+    10.42
+   ],
+   [
+    "before",
+    10.42,
+    10.7
+   ],
+   [
+    "joining",
+    10.7,
+    11.06
+   ],
+   [
+    "the",
+    11.06,
+    11.22
+   ],
+   [
+    "Foreign",
+    11.22,
+    11.4
+   ],
+   [
+    "Office",
+    11.4,
+    11.68
+   ],
+   [
+    "in",
+    11.68,
+    11.88
+   ],
+   [
+    "1944.",
+    11.88,
+    12.78
+   ],
+   [
+    "In",
+    13.24,
+    13.34
+   ],
+   [
+    "1951,",
+    13.34,
+    14.04
+   ],
+   [
+    "he",
+    14.48,
+    14.5
+   ],
+   [
+    "defected",
+    14.5,
+    14.96
+   ],
+   [
+    "to",
+    14.96,
+    15.06
+   ],
+   [
+    "the",
+    15.06,
+    15.16
+   ],
+   [
+    "Soviet",
+    15.16,
+    15.42
+   ],
+   [
+    "Union",
+    15.42,
+    15.8
+   ],
+   [
+    "with",
+    15.8,
+    16.06
+   ],
+   [
+    "Donald",
+    16.06,
+    16.28
+   ],
+   [
+    "Maclean.",
+    16.28,
+    16.9
+   ],
+   [
+    "His",
+    17.24,
+    17.34
+   ],
+   [
+    "escape",
+    17.34,
+    17.7
+   ],
+   [
+    "caused",
+    17.7,
+    18.02
+   ],
+   [
+    "a",
+    18.02,
+    18.16
+   ],
+   [
+    "serious",
+    18.16,
+    18.5
+   ],
+   [
+    "breach",
+    18.5,
+    18.82
+   ],
+   [
+    "in",
+    18.82,
+    19.04
+   ],
+   [
+    "Anglo-United",
+    19.04,
+    19.7
+   ],
+   [
+    "States",
+    19.7,
+    19.98
+   ],
+   [
+    "intelligence",
+    19.98,
+    20.48
+   ],
+   [
+    "co-operation.",
+    20.48,
+    21.18
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   38,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Guy_Burgess.jpg/960px-Guy_Burgess.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "United Press International",
+   "page": "https://commons.wikimedia.org/wiki/File:Guy_Burgess.jpg",
+   "desc": "Guy Burgess — 1968 Press Photo British diplomats Guy Burgess and Donald Maclean - kfa20003"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Guy_Burgess_1935.jpg/960px-Guy_Burgess_1935.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 944,
+   "license": "Public domain",
+   "artist": "KEYSTONE Pictures USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Guy_Burgess_1935.jpg",
+   "desc": "Guy Burgess 1935 — Guy Burgess"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Broadcasting_House_-_geograph.org.uk_-_606696.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 2.0",
+   "artist": "Oxyman",
+   "page": "https://commons.wikimedia.org/wiki/File:Broadcasting_House_-_geograph.org.uk_-_606696.jpg",
+   "desc": "Broadcasting House - geograph.org.uk - 606696 — Broadcasting House is the headquarters and registered office of the BBC in Portland Place, London. It is home to BBC Radio 3, BBC Radio 4, and BBC 7. (Nearby on Great Portland Street in Yalding House is BBC Radio"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  0,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1935
+  },
+  {
+   "type": "timeline",
+   "year": 1944
+  },
+  {
+   "type": "timeline",
+   "year": 1951
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q918668",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Guy Burgess",
+  "url": "https://en.wikipedia.org/wiki/Guy_Burgess",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:08:30Z",
+ "trimmed": true
+}
