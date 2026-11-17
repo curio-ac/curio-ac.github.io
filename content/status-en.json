@@ -3,6 +3,16 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-17T10:05:01Z",
+   "made": 13,
+   "rejected": 1,
+   "repaired": 2,
+   "calls": 118,
+   "notes": [
+    "Cholangiocarcinoma: fact-check"
+   ]
+  },
+  {
    "at": "2026-11-17T09:05:22Z",
    "made": 11,
    "rejected": 4,
