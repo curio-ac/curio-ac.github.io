@@ -1,0 +1,425 @@
+{
+ "id": "en-36d724b3",
+ "lang": "en",
+ "title": "Australia's Invincible Cricket Legend",
+ "cat": "history",
+ "emoji": "🏏",
+ "sentences": [
+  "He played for the legendary Invincibles team.",
+  "William Alfred Brown was a talented Australian opening batsman.",
+  "He played 22 Test matches from 1934 to 1948.",
+  "His partnership with Jack Fingleton is still considered one of the finest in Australian history.",
+  "Brown even captained his country in one Test match.",
+  "After World War II, he toured England without a single defeat."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.06,
+    0.42
+   ],
+   [
+    "played",
+    0.5,
+    0.64
+   ],
+   [
+    "for",
+    0.64,
+    0.88
+   ],
+   [
+    "the",
+    0.88,
+    0.98
+   ],
+   [
+    "legendary",
+    0.98,
+    1.46
+   ],
+   [
+    "Invincibles",
+    1.46,
+    2.16
+   ],
+   [
+    "team.",
+    2.16,
+    3.06
+   ],
+   [
+    "William",
+    3.14,
+    3.34
+   ],
+   [
+    "Alfred",
+    3.34,
+    3.84
+   ],
+   [
+    "Brown",
+    3.84,
+    4.2
+   ],
+   [
+    "was",
+    4.2,
+    4.5
+   ],
+   [
+    "a",
+    4.5,
+    4.62
+   ],
+   [
+    "talented",
+    4.66,
+    5.02
+   ],
+   [
+    "Australian",
+    5.04,
+    5.8
+   ],
+   [
+    "opening",
+    5.8,
+    6.16
+   ],
+   [
+    "batsman.",
+    6.16,
+    6.54
+   ],
+   [
+    "He",
+    7.26,
+    7.34
+   ],
+   [
+    "played",
+    7.34,
+    7.56
+   ],
+   [
+    "22",
+    7.56,
+    8.02
+   ],
+   [
+    "Test",
+    8.02,
+    8.36
+   ],
+   [
+    "matches",
+    8.36,
+    8.7
+   ],
+   [
+    "from",
+    8.7,
+    9.02
+   ],
+   [
+    "1934",
+    9.02,
+    9.98
+   ],
+   [
+    "to",
+    9.98,
+    10.24
+   ],
+   [
+    "1948.",
+    10.24,
+    11.2
+   ],
+   [
+    "His",
+    11.78,
+    11.88
+   ],
+   [
+    "partnership",
+    11.88,
+    12.3
+   ],
+   [
+    "with",
+    12.3,
+    12.66
+   ],
+   [
+    "Jack",
+    12.76,
+    12.92
+   ],
+   [
+    "Fingleton",
+    12.92,
+    13.46
+   ],
+   [
+    "is",
+    13.46,
+    13.76
+   ],
+   [
+    "still",
+    13.76,
+    13.96
+   ],
+   [
+    "considered",
+    13.96,
+    14.46
+   ],
+   [
+    "one",
+    14.46,
+    14.72
+   ],
+   [
+    "of",
+    14.74,
+    14.84
+   ],
+   [
+    "the",
+    14.84,
+    14.92
+   ],
+   [
+    "finest",
+    14.92,
+    15.3
+   ],
+   [
+    "in",
+    15.3,
+    15.58
+   ],
+   [
+    "Australian",
+    15.58,
+    15.98
+   ],
+   [
+    "history.",
+    15.98,
+    16.5
+   ],
+   [
+    "Brown",
+    17.24,
+    17.38
+   ],
+   [
+    "even",
+    17.38,
+    17.7
+   ],
+   [
+    "captained",
+    17.7,
+    18.24
+   ],
+   [
+    "his",
+    18.24,
+    18.36
+   ],
+   [
+    "country",
+    18.36,
+    18.76
+   ],
+   [
+    "in",
+    18.76,
+    18.96
+   ],
+   [
+    "one",
+    18.96,
+    19.16
+   ],
+   [
+    "Test",
+    19.16,
+    19.46
+   ],
+   [
+    "match.",
+    19.46,
+    19.72
+   ],
+   [
+    "After",
+    20.44,
+    20.64
+   ],
+   [
+    "World",
+    20.64,
+    20.92
+   ],
+   [
+    "War",
+    20.92,
+    21.18
+   ],
+   [
+    "II,",
+    21.18,
+    21.78
+   ],
+   [
+    "he",
+    22.04,
+    22.2
+   ],
+   [
+    "toured",
+    22.24,
+    22.5
+   ],
+   [
+    "England",
+    22.5,
+    22.82
+   ],
+   [
+    "without",
+    22.82,
+    23.18
+   ],
+   [
+    "a",
+    23.18,
+    23.4
+   ],
+   [
+    "single",
+    23.4,
+    23.72
+   ],
+   [
+    "defeat.",
+    23.72,
+    24.0
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/BillBrown2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "The original uploader was Moondyne at English Wikipedia. (Original text: unknown",
+   "page": "https://commons.wikimedia.org/wiki/File:BillBrown2.jpg",
+   "desc": "BillBrown2 — Bill Brown, Australian cricketer, during the Ashes cricket tour of England, circa May 1934."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bill_Brown_graph.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 435,
+   "license": "CC BY-SA 3.0",
+   "artist": "YellowMonkey at en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Bill_Brown_graph.png",
+   "desc": "Bill Brown graph — Test batting chart of Bill Brown (cricketer). Red columns are the runs in the innings. Blue dots indicate not outs. Blue line is average in the last ten innings. Thanks to Raven4x4x for providing the template."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Fingleton_brown.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 994,
+   "license": "Public domain",
+   "artist": "see above - It has been cropped by Blnguyen",
+   "page": "https://commons.wikimedia.org/wiki/File:Fingleton_brown.jpg",
+   "desc": "Fingleton brown — Jack Fingleton (l), Bill Brown (r)"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Coota_plaque_Bill_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1320,
+   "license": "CC BY-SA 4.0",
+   "artist": "Doug butler",
+   "page": "https://commons.wikimedia.org/wiki/File:Coota_plaque_Bill_Brown.jpg",
+   "desc": "Coota plaque Bill Brown — Plaque at Cricket Captains Walk, Cootamundra with essential player details"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "William Alfred Brown",
+   "box": [
+    51,
+    137,
+    1000,
+    888
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 22,
+   "unit": "matches",
+   "label": "Test matches played"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "Test",
+   "label": "captained as captain"
+  },
+  {
+   "type": "timeline",
+   "year": 1948
+  }
+ ],
+ "geo": null,
+ "qid": "Q2667644",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Bill Brown (cricketer)",
+  "url": "https://en.wikipedia.org/wiki/Bill_Brown_%28cricketer%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:04:34Z",
+ "trimmed": true
+}
