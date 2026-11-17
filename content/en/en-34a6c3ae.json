@@ -1,0 +1,464 @@
+{
+ "id": "en-34a6c3ae",
+ "lang": "en",
+ "title": "Finding Planets With Gravitational Waves",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "Gravitational waves could reveal hidden alien worlds.",
+  "NASA’s future LISA observatory will track ripples in space-time caused by orbiting masses.",
+  "It targets double white dwarf systems, which emit nearly continuous gravitational signals.",
+  "If a planet orbits these binaries, it creates a wobble, leaving a detectable imprint.",
+  "LISA expects to find about 10,000 of these systems.",
+  "Then, the James Webb telescope can confirm these distant, newly discovered exoplanets."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Gravitational",
+    0.35,
+    0.95
+   ],
+   [
+    "waves",
+    0.95,
+    1.31
+   ],
+   [
+    "could",
+    1.31,
+    1.55
+   ],
+   [
+    "reveal",
+    1.55,
+    1.89
+   ],
+   [
+    "hidden",
+    1.89,
+    2.25
+   ],
+   [
+    "alien",
+    2.25,
+    2.61
+   ],
+   [
+    "worlds.",
+    2.61,
+    3.03
+   ],
+   [
+    "NASA’s",
+    3.71,
+    4.13
+   ],
+   [
+    "future",
+    4.23,
+    4.39
+   ],
+   [
+    "LISA",
+    4.39,
+    4.71
+   ],
+   [
+    "observatory",
+    4.71,
+    5.53
+   ],
+   [
+    "will",
+    5.53,
+    5.69
+   ],
+   [
+    "track",
+    5.69,
+    5.95
+   ],
+   [
+    "ripples",
+    5.95,
+    6.27
+   ],
+   [
+    "in",
+    6.27,
+    6.43
+   ],
+   [
+    "space-time",
+    6.43,
+    7.01
+   ],
+   [
+    "caused",
+    7.01,
+    7.39
+   ],
+   [
+    "by",
+    7.39,
+    7.63
+   ],
+   [
+    "orbiting",
+    7.63,
+    8.03
+   ],
+   [
+    "masses.",
+    8.03,
+    8.45
+   ],
+   [
+    "It",
+    9.17,
+    9.17
+   ],
+   [
+    "targets",
+    9.17,
+    9.43
+   ],
+   [
+    "double",
+    9.43,
+    9.83
+   ],
+   [
+    "white",
+    9.83,
+    10.09
+   ],
+   [
+    "dwarf",
+    10.09,
+    10.37
+   ],
+   [
+    "systems,",
+    10.37,
+    10.73
+   ],
+   [
+    "which",
+    11.27,
+    11.39
+   ],
+   [
+    "emit",
+    11.39,
+    11.57
+   ],
+   [
+    "nearly",
+    11.57,
+    11.89
+   ],
+   [
+    "continuous",
+    11.89,
+    12.59
+   ],
+   [
+    "gravitational",
+    12.59,
+    13.17
+   ],
+   [
+    "signals.",
+    13.17,
+    13.73
+   ],
+   [
+    "If",
+    14.45,
+    14.55
+   ],
+   [
+    "a",
+    14.55,
+    14.65
+   ],
+   [
+    "planet",
+    14.69,
+    14.89
+   ],
+   [
+    "orbits",
+    14.89,
+    15.31
+   ],
+   [
+    "these",
+    15.31,
+    15.59
+   ],
+   [
+    "binaries,",
+    15.59,
+    16.15
+   ],
+   [
+    "it",
+    16.41,
+    16.43
+   ],
+   [
+    "creates",
+    16.53,
+    16.71
+   ],
+   [
+    "a",
+    16.71,
+    16.91
+   ],
+   [
+    "wobble,",
+    16.91,
+    17.35
+   ],
+   [
+    "leaving",
+    17.69,
+    17.85
+   ],
+   [
+    "a",
+    17.85,
+    18.07
+   ],
+   [
+    "detectable",
+    18.07,
+    18.57
+   ],
+   [
+    "imprint.",
+    18.57,
+    18.83
+   ],
+   [
+    "LISA",
+    19.59,
+    19.79
+   ],
+   [
+    "expects",
+    19.79,
+    20.19
+   ],
+   [
+    "to",
+    20.19,
+    20.45
+   ],
+   [
+    "find",
+    20.53,
+    20.67
+   ],
+   [
+    "about",
+    20.67,
+    20.91
+   ],
+   [
+    "10,000",
+    20.91,
+    21.65
+   ],
+   [
+    "of",
+    21.65,
+    21.81
+   ],
+   [
+    "these",
+    21.81,
+    21.93
+   ],
+   [
+    "systems.",
+    21.93,
+    22.25
+   ],
+   [
+    "Then,",
+    23.07,
+    23.35
+   ],
+   [
+    "the",
+    23.69,
+    23.71
+   ],
+   [
+    "James",
+    23.71,
+    24.03
+   ],
+   [
+    "Webb",
+    24.03,
+    24.35
+   ],
+   [
+    "telescope",
+    24.35,
+    24.85
+   ],
+   [
+    "can",
+    24.85,
+    25.13
+   ],
+   [
+    "confirm",
+    25.13,
+    25.57
+   ],
+   [
+    "these",
+    25.57,
+    25.85
+   ],
+   [
+    "distant,",
+    25.85,
+    26.17
+   ],
+   [
+    "newly",
+    26.63,
+    26.87
+   ],
+   [
+    "discovered",
+    26.87,
+    27.43
+   ],
+   [
+    "exoplanets.",
+    27.43,
+    28.19
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   32,
+   46,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/This_visualization_shows_what_Einstein_envisioned.jpg/960px-This_visualization_shows_what_Einstein_envisioned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Henze, NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:This_visualization_shows_what_Einstein_envisioned.jpg",
+   "desc": "This visualization shows what Einstein envisioned — This visualization shows what Einstein envisioned. Researchers crunched Einstein's theory of general relativity on the Columbia supercomputer at the NASA Ames Research Center to create a three-dimensional sim"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/J0806_%28binary_star_-_artist%27s_conception%29.jpg/960px-J0806_%28binary_star_-_artist%27s_conception%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Credit: Tod Strohmayer (GSFC), CXC, NASA - Illustration: Dana Berry (CXC)",
+   "page": "https://commons.wikimedia.org/wiki/File:J0806_(binary_star_-_artist%27s_conception).jpg",
+   "desc": "J0806 (binary star - artist's conception) — About 1,600 light-years away, in a binary star system fondly known as J0806, two dense white dwarf stars orbit each other once every 321 seconds. Interpreting x-ray data from the Chandra Observatory astronomers argue"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/WASP-94_diagram.png/960px-WASP-94_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 392,
+   "license": "CC BY 4.0",
+   "artist": "Eva-Maria Ahrer, et al.",
+   "page": "https://commons.wikimedia.org/wiki/File:WASP-94_diagram.png",
+   "desc": "WASP-94 diagram — Sketch of the WASP-94 system. On the left, WASP-94A b is shown orbiting its host star at 0.056 AU in a misaligned, retrograde orbit. On the right the non-transiting WASP-94B b orbiting its host star at 0.033 AU. Both sta"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg/960px-James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1079,
+   "license": "CC BY 2.0",
+   "artist": "Chris Gunn",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_(30108124923).jpg",
+   "desc": "James Webb Space Telescope Mirrors Will Piece Together Cosmic Puzzles (30108124923) — The primary mirror of NASA's James Webb Space Telescope consisting of 18 hexagonal mirrors looks like a giant puzzle piece standing in the massive clean room of NASA's Goddar"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2030
+  },
+  {
+   "type": "focus",
+   "target": "double white dwarf system",
+   "box": [
+    426,
+    404,
+    564,
+    574
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 10000,
+   "unit": "systems",
+   "label": "LISA systems"
+  },
+  {
+   "type": "focus",
+   "target": "James Webb Space Telescope",
+   "box": [
+    12,
+    149,
+    928,
+    851
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+  "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:04:29Z",
+ "trimmed": true
+}
