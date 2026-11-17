@@ -1,0 +1,389 @@
+{
+ "id": "en-fee8a3b8",
+ "lang": "en",
+ "title": "A Trailblazing Dutch Lawyer",
+ "cat": "history",
+ "emoji": "⚖️",
+ "sentences": [
+  "She judged a 1933 Reichstag counter-trial.",
+  "Bertha Bakker-Nort began as a feminist activist in 1894.",
+  "Mentored by Aletta Jacobs, she realized legal knowledge was essential for rights.",
+  "So, she started law school at age 34.",
+  "In 1922, she became the first female representative for the VDB.",
+  "She spent years fighting for women's marriage and labor rights in parliament."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.12,
+    0.16
+   ],
+   [
+    "judged",
+    0.16,
+    0.48
+   ],
+   [
+    "a",
+    0.48,
+    0.72
+   ],
+   [
+    "1933",
+    0.72,
+    1.52
+   ],
+   [
+    "Reichstag",
+    1.52,
+    2.46
+   ],
+   [
+    "counter-trial.",
+    2.46,
+    3.34
+   ],
+   [
+    "Bertha",
+    4.02,
+    4.32
+   ],
+   [
+    "Bakker-Nort",
+    4.32,
+    4.92
+   ],
+   [
+    "began",
+    4.92,
+    5.26
+   ],
+   [
+    "as",
+    5.26,
+    5.58
+   ],
+   [
+    "a",
+    5.58,
+    5.68
+   ],
+   [
+    "feminist",
+    5.78,
+    5.96
+   ],
+   [
+    "activist",
+    5.96,
+    6.52
+   ],
+   [
+    "in",
+    6.56,
+    6.82
+   ],
+   [
+    "1894.",
+    6.82,
+    8.5
+   ],
+   [
+    "Mentored",
+    8.5,
+    8.84
+   ],
+   [
+    "by",
+    8.84,
+    9.02
+   ],
+   [
+    "Aletta",
+    9.02,
+    9.36
+   ],
+   [
+    "Jacobs,",
+    9.36,
+    9.62
+   ],
+   [
+    "she",
+    10.16,
+    10.16
+   ],
+   [
+    "realized",
+    10.16,
+    10.58
+   ],
+   [
+    "legal",
+    10.58,
+    11.06
+   ],
+   [
+    "knowledge",
+    11.06,
+    11.46
+   ],
+   [
+    "was",
+    11.46,
+    11.62
+   ],
+   [
+    "essential",
+    11.62,
+    12.06
+   ],
+   [
+    "for",
+    12.06,
+    12.32
+   ],
+   [
+    "rights.",
+    12.32,
+    12.52
+   ],
+   [
+    "So,",
+    13.2,
+    13.48
+   ],
+   [
+    "she",
+    13.56,
+    13.62
+   ],
+   [
+    "started",
+    13.62,
+    13.9
+   ],
+   [
+    "law",
+    13.9,
+    14.14
+   ],
+   [
+    "school",
+    14.14,
+    14.36
+   ],
+   [
+    "at",
+    14.36,
+    14.58
+   ],
+   [
+    "age",
+    14.64,
+    14.82
+   ],
+   [
+    "34.",
+    14.82,
+    15.48
+   ],
+   [
+    "In",
+    16.02,
+    16.14
+   ],
+   [
+    "1922,",
+    16.14,
+    16.69
+   ],
+   [
+    "she",
+    17.26,
+    17.32
+   ],
+   [
+    "became",
+    17.32,
+    17.6
+   ],
+   [
+    "the",
+    17.6,
+    17.8
+   ],
+   [
+    "first",
+    17.94,
+    18.08
+   ],
+   [
+    "female",
+    18.08,
+    18.42
+   ],
+   [
+    "representative",
+    18.42,
+    18.92
+   ],
+   [
+    "for",
+    18.92,
+    19.24
+   ],
+   [
+    "the",
+    19.24,
+    19.34
+   ],
+   [
+    "VDB.",
+    19.34,
+    19.86
+   ],
+   [
+    "She",
+    20.46,
+    20.56
+   ],
+   [
+    "spent",
+    20.56,
+    20.76
+   ],
+   [
+    "years",
+    20.76,
+    21.14
+   ],
+   [
+    "fighting",
+    21.14,
+    21.48
+   ],
+   [
+    "for",
+    21.48,
+    21.72
+   ],
+   [
+    "women's",
+    21.94,
+    22.04
+   ],
+   [
+    "marriage",
+    22.04,
+    22.32
+   ],
+   [
+    "and",
+    22.32,
+    22.56
+   ],
+   [
+    "labor",
+    22.56,
+    22.8
+   ],
+   [
+    "rights",
+    22.8,
+    23.1
+   ],
+   [
+    "in",
+    23.16,
+    23.26
+   ],
+   [
+    "parliament.",
+    23.26,
+    23.58
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   27,
+   35,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Group_photo_International_Woman_Suffrage_Alliance_June_1908_in_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 535,
+   "license": "Public domain",
+   "artist": "Schuitvlot, Nic. (The photographer died in 1947 according to [1])",
+   "page": "https://commons.wikimedia.org/wiki/File:Group_photo_International_Woman_Suffrage_Alliance_June_1908_in_Amsterdam.jpg",
+   "desc": "Group photo International Woman Suffrage Alliance June 1908 in Amsterdam — Group photo taken in 1908 in Amsterdam, possibly in the zoo, during the conference held by the International Woman Suffrage Alliance in June. Standing at the back from left to right: Wi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Tweede_Kamerleden_1922.jpg/960px-Tweede_Kamerleden_1922.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 957,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Tweede_Kamerleden_1922.jpg",
+   "desc": "Tweede Kamerleden 1922 — Tweede Kamerleden 1922"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1933
+  },
+  {
+   "type": "timeline",
+   "year": 1894
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 34,
+   "unit": "years",
+   "label": "age starting law"
+  },
+  {
+   "type": "timeline",
+   "year": 1922
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2083304",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Betsy Bakker-Nort",
+  "url": "https://en.wikipedia.org/wiki/Betsy_Bakker-Nort",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:08:31Z",
+ "trimmed": true
+}

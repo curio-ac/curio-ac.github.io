@@ -123,7 +123,8 @@
   "1995 Pacific hurricane season",
   "nasa:1277375",
   "The Disasters of War",
-  "Chinese characters"
+  "Chinese characters",
+  "nasa:1472511"
  ],
  "rejected": [
   "Chameleon",
@@ -553,6 +554,9 @@
   ],
   "Chinese characters": [
    "Ancient Writing Still Alive: This writing system has survived for 3,000 years."
+  ],
+  "nasa:1472511": [
+   "Space's Most Distant Mystery: The farthest fast radio burst is finally located."
   ]
  },
  "exhausted": []
