@@ -93,7 +93,8 @@
   "nasa:1463889",
   "AI Mark IV radar",
   "Cloud Gate",
-  "nasa:1284270"
+  "nasa:1284270",
+  "American paddlefish"
  ],
  "rejected": [
   "Chameleon",
@@ -417,6 +418,9 @@
   ],
   "nasa:1284270": [
    "Antarctica's Hidden Lava Lake: A hidden lava lake glows in Antarctica."
+  ],
+  "American paddlefish": [
+   "The Ancient Spoonbill Fish: This fish has a massive, paddle-shaped snout."
   ]
  },
  "exhausted": []

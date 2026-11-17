@@ -1,0 +1,444 @@
+{
+ "id": "en-d26ae61d",
+ "lang": "en",
+ "title": "The Failed WWII Counterattack",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "A massive Japanese offensive failed completely.",
+  "During World War II, Japan launched an attack on the Allied base at Cape Torokina.",
+  "They aimed to destroy three strategic airfields.",
+  "However, poor planning and inaccurate intelligence doomed the mission.",
+  "Allied forces were well-prepared and greatly outnumbered the Japanese troops.",
+  "The attack lasted until 25 March, resulting in light Allied losses but severe Japanese casualties."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.35,
+    0.35
+   ],
+   [
+    "massive",
+    0.35,
+    0.69
+   ],
+   [
+    "Japanese",
+    0.69,
+    1.19
+   ],
+   [
+    "offensive",
+    1.19,
+    1.67
+   ],
+   [
+    "failed",
+    1.67,
+    2.15
+   ],
+   [
+    "completely.",
+    2.15,
+    2.65
+   ],
+   [
+    "During",
+    3.33,
+    3.47
+   ],
+   [
+    "World",
+    3.47,
+    3.77
+   ],
+   [
+    "War",
+    3.77,
+    4.03
+   ],
+   [
+    "II,",
+    4.03,
+    4.51
+   ],
+   [
+    "Japan",
+    4.87,
+    5.07
+   ],
+   [
+    "launched",
+    5.07,
+    5.51
+   ],
+   [
+    "an",
+    5.51,
+    5.67
+   ],
+   [
+    "attack",
+    5.67,
+    5.91
+   ],
+   [
+    "on",
+    5.91,
+    6.13
+   ],
+   [
+    "the",
+    6.13,
+    6.25
+   ],
+   [
+    "Allied",
+    6.25,
+    6.51
+   ],
+   [
+    "base",
+    6.51,
+    6.91
+   ],
+   [
+    "at",
+    6.91,
+    7.07
+   ],
+   [
+    "Cape",
+    7.13,
+    7.23
+   ],
+   [
+    "Torokina.",
+    7.23,
+    7.78
+   ],
+   [
+    "They",
+    8.43,
+    8.53
+   ],
+   [
+    "aimed",
+    8.53,
+    8.81
+   ],
+   [
+    "to",
+    8.81,
+    8.97
+   ],
+   [
+    "destroy",
+    8.97,
+    9.31
+   ],
+   [
+    "three",
+    9.31,
+    9.65
+   ],
+   [
+    "strategic",
+    9.65,
+    10.11
+   ],
+   [
+    "airfields.",
+    10.11,
+    10.45
+   ],
+   [
+    "However,",
+    11.29,
+    11.69
+   ],
+   [
+    "poor",
+    12.05,
+    12.19
+   ],
+   [
+    "planning",
+    12.19,
+    12.57
+   ],
+   [
+    "and",
+    12.57,
+    12.81
+   ],
+   [
+    "inaccurate",
+    12.81,
+    13.17
+   ],
+   [
+    "intelligence",
+    13.19,
+    13.83
+   ],
+   [
+    "doomed",
+    13.83,
+    14.09
+   ],
+   [
+    "the",
+    14.09,
+    14.27
+   ],
+   [
+    "mission.",
+    14.27,
+    14.55
+   ],
+   [
+    "Allied",
+    15.17,
+    15.43
+   ],
+   [
+    "forces",
+    15.43,
+    15.89
+   ],
+   [
+    "were",
+    15.89,
+    16.19
+   ],
+   [
+    "well-prepared",
+    16.19,
+    16.89
+   ],
+   [
+    "and",
+    16.89,
+    17.11
+   ],
+   [
+    "greatly",
+    17.11,
+    17.45
+   ],
+   [
+    "outnumbered",
+    17.45,
+    18.15
+   ],
+   [
+    "the",
+    18.15,
+    18.19
+   ],
+   [
+    "Japanese",
+    18.19,
+    18.55
+   ],
+   [
+    "troops.",
+    18.55,
+    19.21
+   ],
+   [
+    "The",
+    19.63,
+    19.73
+   ],
+   [
+    "attack",
+    19.73,
+    20.03
+   ],
+   [
+    "lasted",
+    20.03,
+    20.53
+   ],
+   [
+    "until",
+    20.53,
+    20.79
+   ],
+   [
+    "25",
+    20.79,
+    21.31
+   ],
+   [
+    "March,",
+    21.31,
+    21.75
+   ],
+   [
+    "resulting",
+    22.31,
+    22.59
+   ],
+   [
+    "in",
+    22.59,
+    22.93
+   ],
+   [
+    "light",
+    22.93,
+    23.19
+   ],
+   [
+    "Allied",
+    23.19,
+    23.55
+   ],
+   [
+    "losses",
+    23.55,
+    24.03
+   ],
+   [
+    "but",
+    24.23,
+    24.33
+   ],
+   [
+    "severe",
+    24.33,
+    24.67
+   ],
+   [
+    "Japanese",
+    24.67,
+    25.23
+   ],
+   [
+    "casualties.",
+    25.23,
+    25.85
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   21,
+   28,
+   37,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/75mm_gun_firing_on_Bougainville_March_1944.jpg/960px-75mm_gun_firing_on_Bougainville_March_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 551,
+   "license": "Public domain",
+   "artist": "Not stated, but the source says the photo is from the US National Archives. Give",
+   "page": "https://commons.wikimedia.org/wiki/File:75mm_gun_firing_on_Bougainville_March_1944.jpg",
+   "desc": "75mm gun firing on Bougainville March 1944 — A US Army 75mm Howitzer firing on Hill 260 from Hill 309 during the Japanese offensive against Allied positions at Bougainville in March 1944"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Japanese_Counterattack_on_Bougainville_March_1944.jpg/960px-Japanese_Counterattack_on_Bougainville_March_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 529,
+   "license": "Public domain",
+   "artist": "US Army Center for Military History; Map is signed \"F. Temple\"",
+   "page": "https://commons.wikimedia.org/wiki/File:Japanese_Counterattack_on_Bougainville_March_1944.jpg",
+   "desc": "Japanese Counterattack on Bougainville March 1944 — A map depicting the Japanese Counterattack on Bougainville during World War II which took place between 9 and 17 March 1944 sourced from the US Army's official history of the campaign CARTWHEEL: The Reduction"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/SBD_and_F4Us_at_Bougainville_in_December_1943.jpg/960px-SBD_and_F4Us_at_Bougainville_in_December_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 439,
+   "license": "Public domain",
+   "artist": "USMC",
+   "page": "https://commons.wikimedia.org/wiki/File:SBD_and_F4Us_at_Bougainville_in_December_1943.jpg",
+   "desc": "SBD and F4Us at Bougainville in December 1943 — The fighter strip at Torokina was hacked out of the Bougainville jungle. This December 1943 view shows a lineup of U.S. Marine Corps Vought F4U-1 Corsairs and a Douglas SBD Dauntless, which is completing its land"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Soldiers_from_the_24th_Infantry_Regiment_plotting_defensive_positions_on_Bougainville_in_March_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 532,
+   "license": "Public domain",
+   "artist": "Unidentified US Army photographer.",
+   "page": "https://commons.wikimedia.org/wiki/File:Soldiers_from_the_24th_Infantry_Regiment_plotting_defensive_positions_on_Bougainville_in_March_1944.jpg",
+   "desc": "Soldiers from the 24th Infantry Regiment plotting defensive positions on Bougainville in March 1944 — 24TH INFANTRYMEN PLOTTING DEFENSIVE POSITIONS, BOUGAINVILLE, March 1944."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Torokina_perimeter_devastation_March_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 491,
+   "license": "Public domain",
+   "artist": "Not stated at source",
+   "page": "https://commons.wikimedia.org/wiki/File:Torokina_perimeter_devastation_March_1944.jpg",
+   "desc": "Torokina perimeter devastation March 1944 — The scene on the North Knob (the northern part of Hill 206), within the US perimeter around Torokina following the Japanese counterattack of March 1944"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "focus",
+   "target": "airfields",
+   "box": [
+    650,
+    10,
+    782,
+    810
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1944,
+   "unit": "year",
+   "label": "Allied preparations"
+  },
+  {
+   "type": "timeline",
+   "year": 1944
+  }
+ ],
+ "geo": [
+  -6.19,
+  155.08
+ ],
+ "qid": "Q4949391",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Bougainville counterattack",
+  "url": "https://en.wikipedia.org/wiki/Bougainville_counterattack",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:56:30Z",
+ "trimmed": true
+}
