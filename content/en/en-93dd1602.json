@@ -1,0 +1,462 @@
+{
+ "id": "en-93dd1602",
+ "lang": "en",
+ "title": "Bill Denny's Political Rollercoaster",
+ "cat": "history",
+ "emoji": "⚖️",
+ "sentences": [
+  "One politician was elected, defeated, then re-elected again.",
+  "William Denny served as a soldier, journalist, and lawyer.",
+  "He held South Australian seats for over 30 years.",
+  "As Attorney-General, he helped workers buy their own homes.",
+  "He also wrote a law allowing women to practice law.",
+  "Eventually, he was kicked out of his own political party.",
+  "He lost his final election in 1933."
+ ],
+ "tim": {
+  "w": [
+   [
+    "One",
+    0.35,
+    0.35
+   ],
+   [
+    "politician",
+    0.35,
+    0.81
+   ],
+   [
+    "was",
+    0.81,
+    1.25
+   ],
+   [
+    "elected,",
+    1.25,
+    1.49
+   ],
+   [
+    "defeated,",
+    2.19,
+    3.15
+   ],
+   [
+    "then",
+    3.21,
+    3.31
+   ],
+   [
+    "re-elected",
+    3.31,
+    4.05
+   ],
+   [
+    "again.",
+    4.05,
+    4.33
+   ],
+   [
+    "William",
+    5.33,
+    5.59
+   ],
+   [
+    "Denny",
+    5.59,
+    6.05
+   ],
+   [
+    "served",
+    6.05,
+    6.33
+   ],
+   [
+    "as",
+    6.33,
+    6.55
+   ],
+   [
+    "a",
+    6.55,
+    6.65
+   ],
+   [
+    "soldier,",
+    6.65,
+    7.31
+   ],
+   [
+    "journalist,",
+    7.57,
+    8.07
+   ],
+   [
+    "and",
+    8.17,
+    8.23
+   ],
+   [
+    "lawyer.",
+    8.23,
+    8.61
+   ],
+   [
+    "He",
+    9.19,
+    9.29
+   ],
+   [
+    "held",
+    9.29,
+    9.47
+   ],
+   [
+    "South",
+    9.47,
+    9.77
+   ],
+   [
+    "Australian",
+    9.77,
+    10.25
+   ],
+   [
+    "seats",
+    10.25,
+    10.69
+   ],
+   [
+    "for",
+    10.69,
+    10.97
+   ],
+   [
+    "over",
+    10.97,
+    11.15
+   ],
+   [
+    "30",
+    11.15,
+    11.45
+   ],
+   [
+    "years.",
+    11.45,
+    11.75
+   ],
+   [
+    "As",
+    12.61,
+    12.71
+   ],
+   [
+    "Attorney-General,",
+    12.71,
+    13.51
+   ],
+   [
+    "he",
+    13.83,
+    13.91
+   ],
+   [
+    "helped",
+    13.91,
+    14.11
+   ],
+   [
+    "workers",
+    14.17,
+    14.55
+   ],
+   [
+    "buy",
+    14.55,
+    14.85
+   ],
+   [
+    "their",
+    14.85,
+    15.03
+   ],
+   [
+    "own",
+    15.03,
+    15.19
+   ],
+   [
+    "homes.",
+    15.19,
+    15.67
+   ],
+   [
+    "He",
+    16.17,
+    16.27
+   ],
+   [
+    "also",
+    16.27,
+    16.51
+   ],
+   [
+    "wrote",
+    16.51,
+    16.75
+   ],
+   [
+    "a",
+    16.75,
+    16.85
+   ],
+   [
+    "law",
+    16.85,
+    17.11
+   ],
+   [
+    "allowing",
+    17.11,
+    17.45
+   ],
+   [
+    "women",
+    17.45,
+    17.85
+   ],
+   [
+    "to",
+    17.85,
+    18.07
+   ],
+   [
+    "practice",
+    18.07,
+    18.33
+   ],
+   [
+    "law.",
+    18.33,
+    18.69
+   ],
+   [
+    "Eventually,",
+    19.37,
+    19.85
+   ],
+   [
+    "he",
+    20.07,
+    20.13
+   ],
+   [
+    "was",
+    20.13,
+    20.25
+   ],
+   [
+    "kicked",
+    20.25,
+    20.43
+   ],
+   [
+    "out",
+    20.43,
+    20.69
+   ],
+   [
+    "of",
+    20.69,
+    20.83
+   ],
+   [
+    "his",
+    20.83,
+    20.93
+   ],
+   [
+    "own",
+    20.93,
+    21.21
+   ],
+   [
+    "political",
+    21.21,
+    21.63
+   ],
+   [
+    "party.",
+    21.63,
+    21.77
+   ],
+   [
+    "He",
+    22.69,
+    22.79
+   ],
+   [
+    "lost",
+    22.79,
+    22.99
+   ],
+   [
+    "his",
+    22.99,
+    23.17
+   ],
+   [
+    "final",
+    23.25,
+    23.41
+   ],
+   [
+    "election",
+    23.41,
+    23.81
+   ],
+   [
+    "in",
+    23.81,
+    24.07
+   ],
+   [
+    "1933.",
+    24.07,
+    24.57
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   35,
+   45,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ballot_dropped_into_ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad_2.jpg/960px-Ballot_dropped_into_ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 4.0",
+   "artist": "W.carter",
+   "page": "https://commons.wikimedia.org/wiki/File:Ballot_dropped_into_ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan,_Brastad_2.jpg",
+   "desc": "Ballot dropped into ballot box 2024 Swedish EU election at Stångenässkolan, Brastad 2 — A ballot enclosed in an envelope being dropped into a sealed ballot box by a voting official. The 2024 Swedish EU election at Stångenässkolan, used as a polling station in "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/William_Joseph_Denny_in_uniform.jpg/960px-William_Joseph_Denny_in_uniform.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 952,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:William_Joseph_Denny_in_uniform.jpg",
+   "desc": "William Joseph Denny in uniform — A sepia portrait of Captain William Joseph Denny MC MP in uniform"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/B6233_William_Joseph_Denny.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1008,
+   "license": "Public domain",
+   "artist": "Unknown - taken ca. 1910",
+   "page": "https://commons.wikimedia.org/wiki/File:B6233_William_Joseph_Denny.jpg",
+   "desc": "B6233 William Joseph Denny — Portrait of William Joseph Denny circa 1910 - from the State Library of South Australia collection (image B6233)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Glass_plate_negative_image_of_an_unidentified_two_storey_house%2C_Australia_%2826154049561%29.jpg/960px-Glass_plate_negative_image_of_an_unidentified_two_storey_house%2C_Australia_%2826154049561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 559,
+   "license": "No restrictions",
+   "artist": "Australian National Maritime Museum on The Commons",
+   "page": "https://commons.wikimedia.org/wiki/File:Glass_plate_negative_image_of_an_unidentified_two_storey_house,_Australia_(26154049561).jpg",
+   "desc": "Glass plate negative image of an unidentified two storey house, Australia (26154049561) — This photo is part of the Australian National Maritime Museum’s William Hall collection. The Hall collection combines photographs from both William J Hall and his father "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Portrait_of_Ata_Ryss_by_Vladimir_Grinberg_%281921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 925,
+   "license": "Public domain",
+   "artist": "Vladimir Grinberg",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ata_Ryss_by_Vladimir_Grinberg_(1921).jpg",
+   "desc": "Portrait of Ata Ryss by Vladimir Grinberg (1921) — The portrait of Beata Mikhaylovna (Ata) Ryss, a lawyer from Rostov, Russia."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/The_Shinui_Political_Party_holding_a_meeting_in_Tel_Aviv_%28FL62802155%29.jpg/960px-The_Shinui_Political_Party_holding_a_meeting_in_Tel_Aviv_%28FL62802155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 436,
+   "license": "CC BY 4.0",
+   "artist": "IPPA photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Shinui_Political_Party_holding_a_meeting_in_Tel_Aviv_(FL62802155).jpg",
+   "desc": "The Shinui Political Party holding a meeting in Tel Aviv (FL62802155) — The Shinui Political Party holding a meeting in Tel Aviv."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ballot_dropped_into_ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad_3.jpg/960px-Ballot_dropped_into_ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 494,
+   "license": "CC BY-SA 4.0",
+   "artist": "W.carter",
+   "page": "https://commons.wikimedia.org/wiki/File:Ballot_dropped_into_ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan,_Brastad_3.jpg",
+   "desc": "Ballot dropped into ballot box 2024 Swedish EU election at Stångenässkolan, Brastad 3 — A ballot enclosed in an envelope being dropped into a sealed ballot box by a voting official. The 2024 Swedish EU election at Stångenässkolan, used as a polling station in "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1900,
+   "unit": "year",
+   "label": "election year"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1933
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1931,
+   "unit": "year",
+   "label": "party ejection"
+  },
+  {
+   "type": "timeline",
+   "year": 1933
+  }
+ ],
+ "geo": null,
+ "qid": "Q19840044",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Bill Denny",
+  "url": "https://en.wikipedia.org/wiki/Bill_Denny",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T10:50:48Z",
+ "trimmed": true
+}
