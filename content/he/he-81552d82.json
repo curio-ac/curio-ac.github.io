@@ -1,0 +1,324 @@
+{
+ "id": "he-81552d82",
+ "lang": "he",
+ "title": "הפרפר שנודד אלפי קילומטרים",
+ "cat": "biology",
+ "emoji": "🦋",
+ "sentences": [
+  "הפרפר הזה נודד מעל 4,500 קילומטרים.",
+  "הדנאית המלכותית חיה בעיקר בצפון אמריקה.",
+  "הצבעים הכתומים והשחורים שלה הם צבעי אזהרה.",
+  "היא אוכלת צמחים רעילים שפוגעים בטורפים שינסו לאכול אותה.",
+  "מוטת הכנפיים שלה מגיעה עד 12.5 סנטימטרים.",
+  "כל פרפר משתתף בנדידה הארוכה הזו רק פעם אחת בחיים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הפרפר",
+    0.35,
+    0.47
+   ],
+   [
+    "הזה",
+    0.47,
+    0.69
+   ],
+   [
+    "נודד",
+    0.69,
+    1.09
+   ],
+   [
+    "מעל",
+    1.09,
+    1.45
+   ],
+   [
+    "4,500",
+    1.45,
+    2.93
+   ],
+   [
+    "קילומטרים.",
+    2.93,
+    3.75
+   ],
+   [
+    "הדנאית",
+    4.87,
+    5.23
+   ],
+   [
+    "המלכותית",
+    5.23,
+    5.75
+   ],
+   [
+    "חיה",
+    5.75,
+    6.05
+   ],
+   [
+    "בעיקר",
+    6.05,
+    6.43
+   ],
+   [
+    "בצפון",
+    6.43,
+    6.79
+   ],
+   [
+    "אמריקה.",
+    6.79,
+    7.13
+   ],
+   [
+    "הצבעים",
+    7.87,
+    8.13
+   ],
+   [
+    "הכתומים",
+    8.13,
+    8.61
+   ],
+   [
+    "והשחורים",
+    8.61,
+    9.17
+   ],
+   [
+    "שלה",
+    9.17,
+    9.49
+   ],
+   [
+    "הם",
+    9.49,
+    9.57
+   ],
+   [
+    "צבעי",
+    9.57,
+    9.95
+   ],
+   [
+    "אזהרה.",
+    9.95,
+    10.43
+   ],
+   [
+    "היא",
+    11.07,
+    11.13
+   ],
+   [
+    "אוכלת",
+    11.13,
+    11.43
+   ],
+   [
+    "צמחים",
+    11.43,
+    11.87
+   ],
+   [
+    "רעילים",
+    11.87,
+    12.27
+   ],
+   [
+    "שפוגעים",
+    12.61,
+    12.97
+   ],
+   [
+    "בטורפים",
+    12.97,
+    13.51
+   ],
+   [
+    "שינסו",
+    13.51,
+    13.95
+   ],
+   [
+    "לאכול",
+    13.95,
+    14.25
+   ],
+   [
+    "אותה.",
+    14.25,
+    14.35
+   ],
+   [
+    "מוטת",
+    15.13,
+    15.43
+   ],
+   [
+    "הכנפיים",
+    15.77,
+    15.91
+   ],
+   [
+    "שלה",
+    15.91,
+    16.21
+   ],
+   [
+    "מגיעה",
+    16.21,
+    16.69
+   ],
+   [
+    "עד",
+    16.69,
+    16.87
+   ],
+   [
+    "12.5",
+    16.89,
+    17.77
+   ],
+   [
+    "סנטימטרים.",
+    17.77,
+    18.11
+   ],
+   [
+    "כל",
+    19.15,
+    19.35
+   ],
+   [
+    "פרפר",
+    19.43,
+    19.67
+   ],
+   [
+    "משתתף",
+    19.67,
+    20.09
+   ],
+   [
+    "בנדידה",
+    20.09,
+    20.59
+   ],
+   [
+    "הארוכה",
+    20.59,
+    21.03
+   ],
+   [
+    "הזו",
+    21.03,
+    21.23
+   ],
+   [
+    "רק",
+    21.23,
+    21.37
+   ],
+   [
+    "פעם",
+    21.65,
+    21.81
+   ],
+   [
+    "אחת",
+    21.81,
+    22.09
+   ],
+   [
+    "בחיים.",
+    22.09,
+    22.19
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   12,
+   19,
+   28,
+   35
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Monarch_migration_map_%2836238499890%29.jpg/960px-Monarch_migration_map_%2836238499890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 509,
+   "license": "Public domain",
+   "artist": "USFWSmidwest",
+   "page": "https://commons.wikimedia.org/wiki/File:Monarch_migration_map_(36238499890).jpg",
+   "desc": "Monarch migration map (36238499890) — The monarch butterfly migrates up to 3,000 miles from southern Canada to overwinter in central Mexico. Image by USFWS"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Monarch_Migration_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 514,
+   "license": "Public domain",
+   "artist": "National Park Service",
+   "page": "https://commons.wikimedia.org/wiki/File:Monarch_Migration_map.jpg",
+   "desc": "Monarch Migration map — Monarch Butterfly Migration map"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 4500,
+   "unit": "ק\"מ",
+   "label": "מרחק נדידה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.125,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q212398",
+ "pron_wer": 0.0,
+ "angle": 2,
+ "source": {
+  "title": "דנאית מלכותית",
+  "url": "https://he.wikipedia.org/wiki/%D7%93%D7%A0%D7%90%D7%99%D7%AA_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA%D7%99%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:12:26Z",
+ "trimmed": true
+}
