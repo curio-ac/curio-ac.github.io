@@ -1,7 +1,18 @@
 {
  "lang": "en",
- "exhausted_day": null,
+ "exhausted_day": "2026-11-17",
  "runs": [
+  {
+   "at": "2026-11-17T16:43:20Z",
+   "made": 3,
+   "rejected": 1,
+   "repaired": 0,
+   "calls": 34,
+   "notes": [
+    "William Barley: fact-check",
+    "quota: all text models exhausted"
+   ]
+  },
   {
    "at": "2026-11-17T16:10:45Z",
    "made": 6,

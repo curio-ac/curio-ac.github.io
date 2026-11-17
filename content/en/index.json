@@ -139,7 +139,8 @@
   "Ann Arbor, Michigan",
   "After the Deluge (painting)",
   "Asimov's Science Fiction",
-  "nasa:1441687"
+  "nasa:1441687",
+  "Carrow Road"
  ],
  "rejected": [
   "Chameleon",
@@ -634,6 +635,9 @@
   ],
   "nasa:1441687": [
    "Cosmic Flashlights Reveal Space Dust: When galaxies overlap, cosmic secrets are revealed."
+  ],
+  "Carrow Road": [
+   "Built in just 82 days!: This English stadium was built in just 82 days!"
   ]
  },
  "exhausted": []
