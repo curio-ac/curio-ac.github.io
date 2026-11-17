@@ -1,0 +1,303 @@
+{
+ "id": "en-1ed9139d",
+ "lang": "en",
+ "title": "NASA Data Feeds River Forecasts",
+ "cat": "technology",
+ "emoji": "🛰️",
+ "sentences": [
+  "Space data tracks water extremes.",
+  "A 2026 snow drought hit Washington state hard.",
+  "Rain fell instead of mountain snow.",
+  "Tacoma Power used AI river forecasts.",
+  "The tool combined weather and NASA satellite data.",
+  "Reservoir levels stayed near average for summer."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Space",
+    0.3,
+    0.3
+   ],
+   [
+    "data",
+    0.3,
+    0.7
+   ],
+   [
+    "tracks",
+    0.7,
+    1.1
+   ],
+   [
+    "water",
+    1.1,
+    1.52
+   ],
+   [
+    "extremes.",
+    1.52,
+    1.82
+   ],
+   [
+    "A",
+    2.74,
+    2.74
+   ],
+   [
+    "2026",
+    2.74,
+    3.44
+   ],
+   [
+    "snow",
+    3.44,
+    3.86
+   ],
+   [
+    "drought",
+    3.86,
+    4.22
+   ],
+   [
+    "hit",
+    4.22,
+    4.52
+   ],
+   [
+    "Washington",
+    4.52,
+    4.96
+   ],
+   [
+    "state",
+    4.96,
+    5.36
+   ],
+   [
+    "hard.",
+    5.36,
+    5.88
+   ],
+   [
+    "Rain",
+    6.52,
+    6.7
+   ],
+   [
+    "fell",
+    6.7,
+    7.08
+   ],
+   [
+    "instead",
+    7.08,
+    7.5
+   ],
+   [
+    "of",
+    7.5,
+    7.64
+   ],
+   [
+    "mountain",
+    7.64,
+    7.84
+   ],
+   [
+    "snow.",
+    7.84,
+    8.32
+   ],
+   [
+    "Tacoma",
+    9.1,
+    9.3
+   ],
+   [
+    "Power",
+    9.3,
+    9.64
+   ],
+   [
+    "used",
+    9.64,
+    9.98
+   ],
+   [
+    "AI",
+    9.98,
+    10.32
+   ],
+   [
+    "river",
+    10.32,
+    10.72
+   ],
+   [
+    "forecasts.",
+    10.72,
+    10.86
+   ],
+   [
+    "The",
+    12.0,
+    12.0
+   ],
+   [
+    "tool",
+    12.0,
+    12.2
+   ],
+   [
+    "combined",
+    12.2,
+    12.6
+   ],
+   [
+    "weather",
+    12.6,
+    12.94
+   ],
+   [
+    "and",
+    12.94,
+    13.26
+   ],
+   [
+    "NASA",
+    13.26,
+    13.58
+   ],
+   [
+    "satellite",
+    13.58,
+    13.96
+   ],
+   [
+    "data.",
+    13.96,
+    14.81
+   ],
+   [
+    "Reservoir",
+    15.0,
+    15.38
+   ],
+   [
+    "levels",
+    15.38,
+    15.62
+   ],
+   [
+    "stayed",
+    15.62,
+    16.04
+   ],
+   [
+    "near",
+    16.04,
+    16.34
+   ],
+   [
+    "average",
+    16.34,
+    16.74
+   ],
+   [
+    "for",
+    16.74,
+    17.0
+   ],
+   [
+    "summer.",
+    17.0,
+    17.24
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   13,
+   19,
+   25,
+   33
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Committee_on_Earth_Observation_Satellites_%28CEOS%29_-_Fleet_-_2026_%28SVS5621%29.jpg/960px-Committee_on_Earth_Observation_Satellites_%28CEOS%29_-_Fleet_-_2026_%28SVS5621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA's Scientific Visualization Studio - Science and Technology Corporation/Kel ",
+   "page": "https://commons.wikimedia.org/wiki/File:Committee_on_Earth_Observation_Satellites_(CEOS)_-_Fleet_-_2026_(SVS5621).jpg",
+   "desc": "Committee on Earth Observation Satellites (CEOS) - Fleet - 2026 (SVS5621) — A view of the Earth from space, with a few hundred satellites orbiting the Earth (represented by curves, location markers, and labels, all with randomized colors)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Landsat_Data_Continuity_Mission_Observatory_testing.jpg/960px-Landsat_Data_Continuity_Mission_Observatory_testing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1084,
+   "license": "Public domain",
+   "artist": "Orbital Sciences Corporation",
+   "page": "https://commons.wikimedia.org/wiki/File:Landsat_Data_Continuity_Mission_Observatory_testing.jpg",
+   "desc": "Landsat Data Continuity Mission Observatory testing — Landsat Data Continuity Mission (LDCM) Observatory Electromagnetic Interference/Electromagnetic Compatibility (EMI/EMC) undergoing testing at Orbital Science Corporation's Gilbert, Arizona, location. EMI/EM"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Markleeville_%28CA%2C_USA%29%2C_Kinney_Reservoir_--_2022_--_105254.jpg/960px-Markleeville_%28CA%2C_USA%29%2C_Kinney_Reservoir_--_2022_--_105254.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Dietmar Rabich",
+   "page": "https://commons.wikimedia.org/wiki/File:Markleeville_(CA,_USA),_Kinney_Reservoir_--_2022_--_105254.jpg",
+   "desc": "Markleeville (CA, USA), Kinney Reservoir -- 2022 -- 105254 — Kinney Reservoir at Alpine State Highway near Markleeville, California, USA"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
+  "url": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:02:44Z",
+ "trimmed": true
+}
