@@ -96,7 +96,8 @@
   "nasa:1284270",
   "American paddlefish",
   "Bougainville counterattack",
-  "nasa:1504374"
+  "nasa:1504374",
+  "Bill Brown (cricketer)"
  ],
  "rejected": [
   "Chameleon",
@@ -429,6 +430,9 @@
   ],
   "nasa:1504374": [
    "Iceberg A-81's Long Journey: A massive iceberg is currently running aground."
+  ],
+  "Bill Brown (cricketer)": [
+   "The First Mankad Victim: Bill Brown was history's first Mankad victim."
   ]
  },
  "exhausted": []
