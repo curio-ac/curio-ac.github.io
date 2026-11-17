@@ -112,7 +112,8 @@
   "nasa:1276870",
   "Apollo 11",
   "1927 New Jersey Amendment 4",
-  "nasa:1480607"
+  "nasa:1480607",
+  "James Wood Bush"
  ],
  "rejected": [
   "Chameleon",
@@ -504,6 +505,9 @@
   ],
   "nasa:1480607": [
    "Hubble Spies Alien Galaxy: Hubble just captured a stunning, edge-on galaxy."
+  ],
+  "James Wood Bush": [
+   "Hawaiian Sailor in Civil War: A Hawaiian sailor fought for the Union."
   ]
  },
  "exhausted": []

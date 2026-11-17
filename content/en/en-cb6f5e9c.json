@@ -1,0 +1,437 @@
+{
+ "id": "en-cb6f5e9c",
+ "lang": "en",
+ "title": "Seattle Sounders 2020 Season",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "The Sounders played in a pandemic.",
+  "This was their 12th season in Major League Soccer.",
+  "They entered the year as reigning MLS Cup champions.",
+  "The league suspended play on March 12, 2020.",
+  "Teams later returned for a special tournament in Orlando.",
+  "Because of the shortened schedule, they only played 22 regular season matches.",
+  "Their home stadium even changed its name during the season."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.35,
+    0.35
+   ],
+   [
+    "Sounders",
+    0.35,
+    0.77
+   ],
+   [
+    "played",
+    0.77,
+    1.09
+   ],
+   [
+    "in",
+    1.09,
+    1.31
+   ],
+   [
+    "a",
+    1.31,
+    1.41
+   ],
+   [
+    "pandemic.",
+    1.41,
+    1.85
+   ],
+   [
+    "This",
+    2.57,
+    2.57
+   ],
+   [
+    "was",
+    2.57,
+    2.73
+   ],
+   [
+    "their",
+    2.73,
+    2.89
+   ],
+   [
+    "12th",
+    2.89,
+    3.35
+   ],
+   [
+    "season",
+    3.35,
+    3.59
+   ],
+   [
+    "in",
+    3.59,
+    3.83
+   ],
+   [
+    "Major",
+    3.83,
+    4.13
+   ],
+   [
+    "League",
+    4.13,
+    4.37
+   ],
+   [
+    "Soccer.",
+    4.37,
+    4.71
+   ],
+   [
+    "They",
+    5.25,
+    5.35
+   ],
+   [
+    "entered",
+    5.35,
+    5.57
+   ],
+   [
+    "the",
+    5.57,
+    5.71
+   ],
+   [
+    "year",
+    5.71,
+    5.99
+   ],
+   [
+    "as",
+    5.99,
+    6.17
+   ],
+   [
+    "reigning",
+    6.17,
+    6.53
+   ],
+   [
+    "MLS",
+    6.69,
+    7.01
+   ],
+   [
+    "Cup",
+    7.01,
+    7.33
+   ],
+   [
+    "champions.",
+    7.33,
+    7.67
+   ],
+   [
+    "The",
+    8.47,
+    8.53
+   ],
+   [
+    "league",
+    8.53,
+    8.71
+   ],
+   [
+    "suspended",
+    8.71,
+    9.03
+   ],
+   [
+    "play",
+    9.05,
+    9.63
+   ],
+   [
+    "on",
+    9.63,
+    9.87
+   ],
+   [
+    "March",
+    9.87,
+    10.07
+   ],
+   [
+    "12,",
+    10.07,
+    10.61
+   ],
+   [
+    "2020.",
+    11.11,
+    11.45
+   ],
+   [
+    "Teams",
+    12.07,
+    12.23
+   ],
+   [
+    "later",
+    12.23,
+    12.61
+   ],
+   [
+    "returned",
+    12.61,
+    13.11
+   ],
+   [
+    "for",
+    13.11,
+    13.39
+   ],
+   [
+    "a",
+    13.39,
+    13.49
+   ],
+   [
+    "special",
+    13.49,
+    13.77
+   ],
+   [
+    "tournament",
+    13.77,
+    14.25
+   ],
+   [
+    "in",
+    14.25,
+    14.49
+   ],
+   [
+    "Orlando.",
+    14.49,
+    14.99
+   ],
+   [
+    "Because",
+    15.65,
+    15.75
+   ],
+   [
+    "of",
+    15.75,
+    15.95
+   ],
+   [
+    "the",
+    15.95,
+    16.05
+   ],
+   [
+    "shortened",
+    16.05,
+    16.33
+   ],
+   [
+    "schedule,",
+    16.33,
+    16.83
+   ],
+   [
+    "they",
+    17.23,
+    17.25
+   ],
+   [
+    "only",
+    17.25,
+    17.51
+   ],
+   [
+    "played",
+    17.51,
+    17.81
+   ],
+   [
+    "22",
+    17.81,
+    18.37
+   ],
+   [
+    "regular",
+    18.39,
+    18.85
+   ],
+   [
+    "season",
+    18.85,
+    19.29
+   ],
+   [
+    "matches.",
+    19.29,
+    19.69
+   ],
+   [
+    "Their",
+    20.41,
+    20.51
+   ],
+   [
+    "home",
+    20.51,
+    20.77
+   ],
+   [
+    "stadium",
+    20.77,
+    21.13
+   ],
+   [
+    "even",
+    21.13,
+    21.55
+   ],
+   [
+    "changed",
+    21.55,
+    22.05
+   ],
+   [
+    "its",
+    22.05,
+    22.23
+   ],
+   [
+    "name",
+    22.29,
+    22.51
+   ],
+   [
+    "during",
+    22.51,
+    22.79
+   ],
+   [
+    "the",
+    22.79,
+    22.93
+   ],
+   [
+    "season.",
+    22.93,
+    23.29
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   24,
+   32,
+   41,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/CenturyLink_Field_in_soccer_configuration_from_Stadium_Place.jpg/960px-CenturyLink_Field_in_soccer_configuration_from_Stadium_Place.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 475,
+   "license": "CC BY-SA 4.0",
+   "artist": "SounderBruce",
+   "page": "https://commons.wikimedia.org/wiki/File:CenturyLink_Field_in_soccer_configuration_from_Stadium_Place.jpg",
+   "desc": "CenturyLink Field in soccer configuration from Stadium Place — CenturyLink Field with tarped sections for Seattle Sounders FC matches, as seen from the rooftop deck of The Wave at Stadium Place."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Osvaldo_Alonso_lifting_the_MLS_Cup_at_Sounders_Rally.jpg/960px-Osvaldo_Alonso_lifting_the_MLS_Cup_at_Sounders_Rally.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "SounderBruce from Seattle, United States",
+   "page": "https://commons.wikimedia.org/wiki/File:Osvaldo_Alonso_lifting_the_MLS_Cup_at_Sounders_Rally.jpg",
+   "desc": "Osvaldo Alonso lifting the MLS Cup at Sounders Rally — Osvaldo Alonso lifting the MLS Cup at Sounders Rally"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Disney%27s_Wide_World_of_Sports_%287426504780%29.jpg/960px-Disney%27s_Wide_World_of_Sports_%287426504780%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 619,
+   "license": "CC BY-SA 2.0",
+   "artist": "Greg Goebel from Loveland CO, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Disney%27s_Wide_World_of_Sports_(7426504780).jpg",
+   "desc": "Disney's Wide World of Sports (7426504780) — Disney Wide World Of Sports complex, Disney World, Florida / 2008"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "season",
+   "label": "MLS season"
+  },
+  {
+   "type": "focus",
+   "target": "MLS Cup trophy",
+   "box": [
+    139,
+    303,
+    538,
+    501
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 2020
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 22,
+   "unit": "match",
+   "label": "regular season"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q85736902",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "2020 Seattle Sounders FC season",
+  "url": "https://en.wikipedia.org/wiki/2020_Seattle_Sounders_FC_season",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:00:30Z",
+ "trimmed": true
+}
