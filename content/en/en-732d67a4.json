@@ -1,0 +1,291 @@
+{
+ "id": "en-732d67a4",
+ "lang": "en",
+ "title": "Chicago's Mirror Bean",
+ "cat": "art",
+ "emoji": "🫘",
+ "sentences": [
+  "Meet Chicago's giant liquid mercury-inspired bean.",
+  "Artist Anish Kapoor designed the famous public sculpture.",
+  "168 stainless steel plates form the seamless exterior.",
+  "Visitors can walk right under its 12-foot high arch.",
+  "A concave chamber underneath multiplies and warps reflections."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.14,
+    0.22
+   ],
+   [
+    "Chicago's",
+    0.22,
+    1.06
+   ],
+   [
+    "giant",
+    1.06,
+    1.46
+   ],
+   [
+    "liquid",
+    1.46,
+    1.92
+   ],
+   [
+    "mercury-inspired",
+    1.92,
+    3.1
+   ],
+   [
+    "bean.",
+    3.1,
+    3.5
+   ],
+   [
+    "Artist",
+    4.18,
+    4.54
+   ],
+   [
+    "Anish",
+    4.54,
+    4.98
+   ],
+   [
+    "Kapoor",
+    4.98,
+    5.48
+   ],
+   [
+    "designed",
+    5.48,
+    5.92
+   ],
+   [
+    "the",
+    5.92,
+    6.28
+   ],
+   [
+    "famous",
+    6.44,
+    6.68
+   ],
+   [
+    "public",
+    6.68,
+    7.08
+   ],
+   [
+    "sculpture.",
+    7.08,
+    7.48
+   ],
+   [
+    "168",
+    8.51,
+    9.66
+   ],
+   [
+    "stainless",
+    9.66,
+    9.98
+   ],
+   [
+    "steel",
+    9.98,
+    10.38
+   ],
+   [
+    "plates",
+    10.38,
+    10.88
+   ],
+   [
+    "form",
+    10.88,
+    11.34
+   ],
+   [
+    "the",
+    11.34,
+    11.58
+   ],
+   [
+    "seamless",
+    11.58,
+    12.02
+   ],
+   [
+    "exterior.",
+    12.02,
+    12.76
+   ],
+   [
+    "Visitors",
+    13.68,
+    13.92
+   ],
+   [
+    "can",
+    13.92,
+    14.16
+   ],
+   [
+    "walk",
+    14.16,
+    14.4
+   ],
+   [
+    "right",
+    14.4,
+    14.78
+   ],
+   [
+    "under",
+    14.78,
+    15.2
+   ],
+   [
+    "its",
+    15.2,
+    15.44
+   ],
+   [
+    "12-foot",
+    15.64,
+    15.98
+   ],
+   [
+    "high",
+    15.98,
+    16.28
+   ],
+   [
+    "arch.",
+    16.28,
+    16.84
+   ],
+   [
+    "A",
+    17.38,
+    17.46
+   ],
+   [
+    "concave",
+    17.5,
+    18.02
+   ],
+   [
+    "chamber",
+    18.02,
+    18.38
+   ],
+   [
+    "underneath",
+    18.38,
+    18.92
+   ],
+   [
+    "multiplies",
+    18.92,
+    19.96
+   ],
+   [
+    "and",
+    19.96,
+    20.16
+   ],
+   [
+    "warps",
+    20.16,
+    20.62
+   ],
+   [
+    "reflections.",
+    20.62,
+    21.42
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   22,
+   31
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Anish_Kapoor_2017.jpg/960px-Anish_Kapoor_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 935,
+   "license": "CC BY-SA 4.0",
+   "artist": "Vogler",
+   "page": "https://commons.wikimedia.org/wiki/File:Anish_Kapoor_2017.jpg",
+   "desc": "Anish Kapoor 2017 — Anish Kapoor, interviewed about his new virtual reality artwork at the Nobel Week Dialogue in 2017."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cloud_gate_construction.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 737,
+   "license": "CC BY 3.0",
+   "artist": "Cmgiulini",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloud_gate_construction.jpg",
+   "desc": "Cloud gate construction — Construction crews begin work on the Cloud Gate"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 168,
+   "unit": "plates",
+   "label": "stainless steel plates"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "feet",
+   "label": "high arch"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  41.883,
+  -87.623
+ ],
+ "qid": "Q589099",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Cloud Gate",
+  "url": "https://en.wikipedia.org/wiki/Cloud_Gate",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:13:06Z",
+ "trimmed": true
+}
