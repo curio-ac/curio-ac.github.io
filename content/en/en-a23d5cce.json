@@ -1,0 +1,417 @@
+{
+ "id": "en-a23d5cce",
+ "lang": "en",
+ "title": "The Ancient Spoonbill Fish",
+ "cat": "biology",
+ "emoji": "🐟",
+ "sentences": [
+  "This fish has a massive, paddle-shaped snout.",
+  "The American paddlefish is the last living species of its kind.",
+  "Its skeleton is made almost entirely of cartilage.",
+  "People call it a freshwater shark because of its shark-like tail.",
+  "Thousands of sensory receptors on its snout help it find zooplankton.",
+  "Fossil records show this creature dates back 65 million years."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.26,
+    0.26
+   ],
+   [
+    "fish",
+    0.26,
+    0.54
+   ],
+   [
+    "has",
+    0.54,
+    0.92
+   ],
+   [
+    "a",
+    0.92,
+    1.06
+   ],
+   [
+    "massive,",
+    1.06,
+    1.54
+   ],
+   [
+    "paddle-shaped",
+    1.54,
+    2.4
+   ],
+   [
+    "snout.",
+    2.4,
+    3.35
+   ],
+   [
+    "The",
+    3.54,
+    3.66
+   ],
+   [
+    "American",
+    3.66,
+    4.02
+   ],
+   [
+    "paddlefish",
+    4.02,
+    4.72
+   ],
+   [
+    "is",
+    4.72,
+    5.04
+   ],
+   [
+    "the",
+    5.1,
+    5.2
+   ],
+   [
+    "last",
+    5.2,
+    5.58
+   ],
+   [
+    "living",
+    5.58,
+    5.82
+   ],
+   [
+    "species",
+    5.82,
+    6.28
+   ],
+   [
+    "of",
+    6.28,
+    6.62
+   ],
+   [
+    "its",
+    6.62,
+    6.72
+   ],
+   [
+    "kind.",
+    6.72,
+    7.08
+   ],
+   [
+    "Its",
+    7.78,
+    7.9
+   ],
+   [
+    "skeleton",
+    7.9,
+    8.18
+   ],
+   [
+    "is",
+    8.18,
+    8.68
+   ],
+   [
+    "made",
+    8.68,
+    8.88
+   ],
+   [
+    "almost",
+    8.88,
+    9.18
+   ],
+   [
+    "entirely",
+    9.18,
+    9.74
+   ],
+   [
+    "of",
+    9.74,
+    10.04
+   ],
+   [
+    "cartilage.",
+    10.04,
+    10.7
+   ],
+   [
+    "People",
+    11.32,
+    11.46
+   ],
+   [
+    "call",
+    11.46,
+    11.78
+   ],
+   [
+    "it",
+    11.78,
+    11.98
+   ],
+   [
+    "a",
+    12.0,
+    12.1
+   ],
+   [
+    "freshwater",
+    12.1,
+    12.56
+   ],
+   [
+    "shark",
+    12.56,
+    13.1
+   ],
+   [
+    "because",
+    13.1,
+    13.58
+   ],
+   [
+    "of",
+    13.6,
+    13.78
+   ],
+   [
+    "its",
+    13.78,
+    13.88
+   ],
+   [
+    "shark-like",
+    13.88,
+    14.44
+   ],
+   [
+    "tail.",
+    14.44,
+    14.86
+   ],
+   [
+    "Thousands",
+    15.7,
+    16.04
+   ],
+   [
+    "of",
+    16.04,
+    16.32
+   ],
+   [
+    "sensory",
+    16.32,
+    16.64
+   ],
+   [
+    "receptors",
+    16.64,
+    17.18
+   ],
+   [
+    "on",
+    17.18,
+    17.46
+   ],
+   [
+    "its",
+    17.46,
+    17.6
+   ],
+   [
+    "snout",
+    17.6,
+    17.98
+   ],
+   [
+    "help",
+    18.32,
+    18.42
+   ],
+   [
+    "it",
+    18.42,
+    18.58
+   ],
+   [
+    "find",
+    18.58,
+    18.88
+   ],
+   [
+    "zooplankton.",
+    18.88,
+    19.62
+   ],
+   [
+    "Fossil",
+    20.34,
+    20.64
+   ],
+   [
+    "records",
+    20.78,
+    20.88
+   ],
+   [
+    "show",
+    20.88,
+    21.24
+   ],
+   [
+    "this",
+    21.24,
+    21.48
+   ],
+   [
+    "creature",
+    21.48,
+    21.84
+   ],
+   [
+    "dates",
+    21.84,
+    22.2
+   ],
+   [
+    "back",
+    22.2,
+    22.5
+   ],
+   [
+    "65",
+    22.5,
+    23.18
+   ],
+   [
+    "million",
+    23.18,
+    23.68
+   ],
+   [
+    "years.",
+    23.68,
+    24.32
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   26,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg/960px-Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "U.S. Fish and Wildlife Service",
+   "page": "https://commons.wikimedia.org/wiki/File:Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg",
+   "desc": "Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440 — American Paddlefish"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Polyodon_spathula_1908.jpg/960px-Polyodon_spathula_1908.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 192,
+   "license": "Public domain",
+   "artist": "AnonymousUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Polyodon_spathula_1908.jpg",
+   "desc": "Polyodon spathula 1908 — Polyodon spathula"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Image_from_page_76_of_%22On_the_anatomy_of_vertebrates_%28electronic_resource%29%22_%281866%29_%2814755165432%29.jpg/960px-Image_from_page_76_of_%22On_the_anatomy_of_vertebrates_%28electronic_resource%29%22_%281866%29_%2814755165432%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 224,
+   "license": "No restrictions",
+   "artist": "Internet Archive Book Images",
+   "page": "https://commons.wikimedia.org/wiki/File:Image_from_page_76_of_%22On_the_anatomy_of_vertebrates_(electronic_resource)%22_(1866)_(14755165432).jpg",
+   "desc": "Image from page 76 of \"On the anatomy of vertebrates (electronic resource)\" (1866) (14755165432) — Identifier: b20416039_001 Title: On the anatomy of vertebrates [electronic resource] Year: 1866 (1860s) Authors: Owen, Richard, 1804-1892 Subjects: Anatomy, Comp"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/General_Morphology_of_Paddlefish.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 379,
+   "license": "CC0",
+   "artist": "Atsme",
+   "page": "https://commons.wikimedia.org/wiki/File:General_Morphology_of_Paddlefish.png",
+   "desc": "General Morphology of Paddlefish — General morphology of the American paddlefish"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Protopsephurus.png/960px-Protopsephurus.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "PaleoEquii",
+   "page": "https://commons.wikimedia.org/wiki/File:Protopsephurus.png",
+   "desc": "Protopsephurus — A reconstruction of Protopsephurus and Lycoptera."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "paddle-shaped snout",
+   "box": [
+    353,
+    17,
+    523,
+    477
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q827142",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "American paddlefish",
+  "url": "https://en.wikipedia.org/wiki/American_paddlefish",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:55:37Z",
+ "trimmed": true
+}

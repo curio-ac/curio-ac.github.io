@@ -92,7 +92,8 @@
   "Cædwalla",
   "nasa:1463889",
   "AI Mark IV radar",
-  "Cloud Gate"
+  "Cloud Gate",
+  "nasa:1284270"
  ],
  "rejected": [
   "Chameleon",
@@ -413,6 +414,9 @@
   ],
   "Cloud Gate": [
    "The Secrets of The Bean: Chicago’s famous Bean weighs 110 tons."
+  ],
+  "nasa:1284270": [
+   "Antarctica's Hidden Lava Lake: A hidden lava lake glows in Antarctica."
   ]
  },
  "exhausted": []
