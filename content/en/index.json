@@ -133,7 +133,8 @@
   "Benjamin Disraeli",
   "nasa:1350129",
   "Kim Clijsters",
-  "2017 Africa Cup of Nations final"
+  "2017 Africa Cup of Nations final",
+  "nasa:1479874"
  ],
  "rejected": [
   "Chameleon",
@@ -155,7 +156,8 @@
   "Black Moshannon State Park",
   "Murder of William de Cantilupe",
   "California State Route 57",
-  "Black hole"
+  "Black hole",
+  "Bale Out"
  ],
  "angles": {
   "Blue whale": [
@@ -602,6 +604,9 @@
   ],
   "2017 Africa Cup of Nations final": [
    "A Tournament Relocated by War: Libya lost hosting rights due to war."
+  ],
+  "nasa:1479874": [
+   "Antarctic Sea Ice Declines: Antarctic sea ice hit a low maximum."
   ]
  },
  "exhausted": []

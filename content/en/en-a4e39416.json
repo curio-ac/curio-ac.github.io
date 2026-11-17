@@ -1,0 +1,316 @@
+{
+ "id": "en-a4e39416",
+ "lang": "en",
+ "title": "Congaree's Giant Forest",
+ "cat": "geography",
+ "emoji": "🌲",
+ "sentences": [
+  "80 percent of Congaree National Park is a floodplain.",
+  "Muddy conditions and floods saved its old-growth trees from loggers.",
+  "The winding river carves out oxbow lakes over time.",
+  "Frequent floods distribute rich silt that nourishes the ecosystem.",
+  "This helps giant champion trees break size records."
+ ],
+ "tim": {
+  "w": [
+   [
+    "80",
+    0.18,
+    0.18
+   ],
+   [
+    "percent",
+    0.18,
+    0.62
+   ],
+   [
+    "of",
+    0.62,
+    0.84
+   ],
+   [
+    "Congaree",
+    0.84,
+    1.34
+   ],
+   [
+    "National",
+    1.34,
+    1.52
+   ],
+   [
+    "Park",
+    1.52,
+    1.98
+   ],
+   [
+    "is",
+    1.98,
+    2.26
+   ],
+   [
+    "a",
+    2.26,
+    2.36
+   ],
+   [
+    "floodplain.",
+    2.36,
+    3.06
+   ],
+   [
+    "Muddy",
+    3.42,
+    3.64
+   ],
+   [
+    "conditions",
+    3.64,
+    4.06
+   ],
+   [
+    "and",
+    4.06,
+    4.34
+   ],
+   [
+    "floods",
+    4.34,
+    4.6
+   ],
+   [
+    "saved",
+    4.6,
+    5.2
+   ],
+   [
+    "its",
+    5.2,
+    5.42
+   ],
+   [
+    "old-growth",
+    5.42,
+    5.84
+   ],
+   [
+    "trees",
+    5.84,
+    6.14
+   ],
+   [
+    "from",
+    6.14,
+    6.36
+   ],
+   [
+    "loggers.",
+    6.36,
+    6.96
+   ],
+   [
+    "The",
+    7.42,
+    7.5
+   ],
+   [
+    "winding",
+    7.5,
+    7.8
+   ],
+   [
+    "river",
+    7.8,
+    8.14
+   ],
+   [
+    "carves",
+    8.14,
+    8.66
+   ],
+   [
+    "out",
+    8.66,
+    8.8
+   ],
+   [
+    "oxbow",
+    8.8,
+    9.32
+   ],
+   [
+    "lakes",
+    9.32,
+    9.56
+   ],
+   [
+    "over",
+    9.56,
+    9.82
+   ],
+   [
+    "time.",
+    9.82,
+    10.2
+   ],
+   [
+    "Frequent",
+    10.86,
+    11.1
+   ],
+   [
+    "floods",
+    11.1,
+    11.42
+   ],
+   [
+    "distribute",
+    11.42,
+    11.86
+   ],
+   [
+    "rich",
+    11.86,
+    12.3
+   ],
+   [
+    "silt",
+    12.3,
+    12.68
+   ],
+   [
+    "that",
+    12.68,
+    12.86
+   ],
+   [
+    "nourishes",
+    12.88,
+    13.38
+   ],
+   [
+    "the",
+    13.38,
+    13.58
+   ],
+   [
+    "ecosystem.",
+    13.58,
+    14.24
+   ],
+   [
+    "This",
+    14.84,
+    14.94
+   ],
+   [
+    "helps",
+    14.94,
+    15.16
+   ],
+   [
+    "giant",
+    15.16,
+    15.64
+   ],
+   [
+    "champion",
+    15.64,
+    15.98
+   ],
+   [
+    "trees",
+    15.98,
+    16.38
+   ],
+   [
+    "break",
+    16.38,
+    16.68
+   ],
+   [
+    "size",
+    16.68,
+    16.96
+   ],
+   [
+    "records.",
+    16.96,
+    17.62
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   19,
+   28,
+   37
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/The_Forested_Floodplains_of_Congaree_National_Park_%281281254_-_congareenp_oli2_20250818%29.jpg/960px-The_Forested_Floodplains_of_Congaree_National_Park_%281281254_-_congareenp_oli2_20250818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 399,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Forested_Floodplains_of_Congaree_National_Park_(1281254_-_congareenp_oli2_20250818).jpg",
+   "desc": "The Forested Floodplains of Congaree National Park (1281254 - congareenp oli2 20250818) — The OLI on Landsat 9 captured this image of the Congaree River winding through floodplain forests in Congaree National Park on August 18, 2025."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Bald_Cypress_Tress_in_Congaree_National_Park_%2852880948464%29.jpg/960px-Bald_Cypress_Tress_in_Congaree_National_Park_%2852880948464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY 2.0",
+   "artist": "Andrew Parlette from Elkridge,MD, US",
+   "page": "https://commons.wikimedia.org/wiki/File:Bald_Cypress_Tress_in_Congaree_National_Park_(52880948464).jpg",
+   "desc": "Bald Cypress Tress in Congaree National Park (52880948464) — A forest of Bald Cypress trees stand in a \"swamp\" in Congaree National Park, South Carolina. While this area is similar to a swamp, and was even called one for a period of time, Congaree is considere"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 80,
+   "unit": "percent",
+   "label": "National Park floodplain"
+  },
+  {
+   "type": "timeline",
+   "year": 1880
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "The Forested Floodplains of Congaree National Park",
+  "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T15:27:57Z",
+ "trimmed": true
+}
