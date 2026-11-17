@@ -1,0 +1,419 @@
+{
+ "id": "en-05e4500f",
+ "lang": "en",
+ "title": "What Makes a Castle?",
+ "cat": "history",
+ "emoji": "🏰",
+ "sentences": [
+  "Not every fortress is a castle.",
+  "Scholars define a castle specifically as a private fortified residence for a lord or noble.",
+  "Unlike palaces or villas, castles were built primarily for defense.",
+  "They appeared in Europe after the Carolingian Empire fell in the 9th and 10th centuries.",
+  "Lords used these bases to launch raids and protect their local territory.",
+  "Common features included curtain walls, arrowslits, and sturdy portcullises."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Not",
+    0.35,
+    0.45
+   ],
+   [
+    "every",
+    0.45,
+    0.71
+   ],
+   [
+    "fortress",
+    0.71,
+    1.09
+   ],
+   [
+    "is",
+    1.09,
+    1.37
+   ],
+   [
+    "a",
+    1.37,
+    1.49
+   ],
+   [
+    "castle.",
+    1.49,
+    2.19
+   ],
+   [
+    "Scholars",
+    2.43,
+    2.69
+   ],
+   [
+    "define",
+    2.69,
+    3.13
+   ],
+   [
+    "a",
+    3.13,
+    3.27
+   ],
+   [
+    "castle",
+    3.33,
+    3.57
+   ],
+   [
+    "specifically",
+    3.57,
+    4.03
+   ],
+   [
+    "as",
+    4.17,
+    4.45
+   ],
+   [
+    "a",
+    4.45,
+    4.55
+   ],
+   [
+    "private",
+    4.55,
+    4.89
+   ],
+   [
+    "fortified",
+    4.89,
+    5.49
+   ],
+   [
+    "residence",
+    5.49,
+    5.91
+   ],
+   [
+    "for",
+    5.91,
+    6.19
+   ],
+   [
+    "a",
+    6.19,
+    6.31
+   ],
+   [
+    "lord",
+    6.31,
+    6.61
+   ],
+   [
+    "or",
+    6.61,
+    6.85
+   ],
+   [
+    "noble.",
+    6.85,
+    7.27
+   ],
+   [
+    "Unlike",
+    7.81,
+    8.05
+   ],
+   [
+    "palaces",
+    8.05,
+    8.61
+   ],
+   [
+    "or",
+    8.61,
+    8.85
+   ],
+   [
+    "villas,",
+    8.85,
+    9.21
+   ],
+   [
+    "castles",
+    9.71,
+    10.05
+   ],
+   [
+    "were",
+    10.05,
+    10.21
+   ],
+   [
+    "built",
+    10.21,
+    10.41
+   ],
+   [
+    "primarily",
+    10.41,
+    10.89
+   ],
+   [
+    "for",
+    10.89,
+    11.25
+   ],
+   [
+    "defense.",
+    11.25,
+    11.61
+   ],
+   [
+    "They",
+    12.29,
+    12.37
+   ],
+   [
+    "appeared",
+    12.37,
+    12.69
+   ],
+   [
+    "in",
+    12.69,
+    12.89
+   ],
+   [
+    "Europe",
+    12.89,
+    13.17
+   ],
+   [
+    "after",
+    13.17,
+    13.53
+   ],
+   [
+    "the",
+    13.53,
+    13.69
+   ],
+   [
+    "Carolingian",
+    13.69,
+    14.31
+   ],
+   [
+    "Empire",
+    14.57,
+    14.67
+   ],
+   [
+    "fell",
+    14.67,
+    15.11
+   ],
+   [
+    "in",
+    15.11,
+    15.29
+   ],
+   [
+    "the",
+    15.29,
+    15.37
+   ],
+   [
+    "9th",
+    15.63,
+    15.73
+   ],
+   [
+    "and",
+    15.73,
+    15.81
+   ],
+   [
+    "10th",
+    15.81,
+    16.55
+   ],
+   [
+    "centuries.",
+    16.55,
+    17.0
+   ],
+   [
+    "Lords",
+    17.25,
+    17.39
+   ],
+   [
+    "used",
+    17.39,
+    17.67
+   ],
+   [
+    "these",
+    17.67,
+    17.91
+   ],
+   [
+    "bases",
+    17.91,
+    18.27
+   ],
+   [
+    "to",
+    18.27,
+    18.51
+   ],
+   [
+    "launch",
+    18.51,
+    18.83
+   ],
+   [
+    "raids",
+    18.93,
+    19.19
+   ],
+   [
+    "and",
+    19.19,
+    19.49
+   ],
+   [
+    "protect",
+    19.49,
+    19.83
+   ],
+   [
+    "their",
+    19.99,
+    20.09
+   ],
+   [
+    "local",
+    20.27,
+    20.37
+   ],
+   [
+    "territory.",
+    20.37,
+    20.99
+   ],
+   [
+    "Common",
+    21.67,
+    21.89
+   ],
+   [
+    "features",
+    21.89,
+    22.25
+   ],
+   [
+    "included",
+    22.25,
+    22.85
+   ],
+   [
+    "curtain",
+    22.85,
+    23.17
+   ],
+   [
+    "walls,",
+    23.17,
+    23.61
+   ],
+   [
+    "arrowslits,",
+    24.09,
+    24.71
+   ],
+   [
+    "and",
+    24.77,
+    24.77
+   ],
+   [
+    "sturdy",
+    24.77,
+    25.03
+   ],
+   [
+    "portcullises.",
+    25.03,
+    25.68
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   21,
+   31,
+   46,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Carolingian_Empire_map_1895.jpg/960px-Carolingian_Empire_map_1895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 512,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Carolingian_Empire_map_1895.jpg",
+   "desc": "Carolingian Empire map 1895 — Map of the Carolingian Empire."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q23413",
+ "pron_wer": 0.03,
+ "angle": 1,
+ "source": {
+  "title": "Castle",
+  "url": "https://en.wikipedia.org/wiki/Castle",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:59:58Z",
+ "trimmed": true
+}

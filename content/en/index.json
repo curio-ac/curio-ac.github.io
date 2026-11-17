@@ -97,7 +97,8 @@
   "American paddlefish",
   "Bougainville counterattack",
   "nasa:1504374",
-  "Bill Brown (cricketer)"
+  "Bill Brown (cricketer)",
+  "French battleship Courbet"
  ],
  "rejected": [
   "Chameleon",
@@ -113,7 +114,8 @@
   "nasa:1282505",
   "Battle of Preston (1648)",
   "Banksia aculeata",
-  "Tardigrade"
+  "Tardigrade",
+  "nasa:1278428"
  ],
  "angles": {
   "Blue whale": [
@@ -433,6 +435,9 @@
   ],
   "Bill Brown (cricketer)": [
    "The First Mankad Victim: Bill Brown was history's first Mankad victim."
+  ],
+  "French battleship Courbet": [
+   "Battleship Turned Breakwater: This battleship finished as a harbor breakwater."
   ]
  },
  "exhausted": []
