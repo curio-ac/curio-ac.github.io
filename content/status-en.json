@@ -3,6 +3,24 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-17T16:10:45Z",
+   "made": 6,
+   "rejected": 6,
+   "repaired": 0,
+   "calls": 75,
+   "notes": [
+    "Bale Out: pronunciation 9.8% of words misheard",
+    "Asimov's Science Fiction: 'list' object has no attribute 'get'",
+    "William Barley: 'list' object has no attribute 'get'",
+    "nasa:1447308: pronunciation 12.5% of words misheard",
+    "2002 Football League First Division play-off final: pronunciation 16.0% of words misheard",
+    "nasa:1480607: pronunciation 12.8% of words misheard",
+    "nasa:1285516: pronunciation 10.4% of words misheard",
+    "Emperor penguin: 'list' object has no attribute 'get'",
+    "nasa:1378211: pronunciation 14.9% of words misheard"
+   ]
+  },
+  {
    "at": "2026-11-17T15:12:06Z",
    "made": 10,
    "rejected": 3,
