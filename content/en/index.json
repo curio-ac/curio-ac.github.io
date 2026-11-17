@@ -111,7 +111,8 @@
   "Black American Sign Language",
   "nasa:1276870",
   "Apollo 11",
-  "1927 New Jersey Amendment 4"
+  "1927 New Jersey Amendment 4",
+  "nasa:1480607"
  ],
  "rejected": [
   "Chameleon",
@@ -500,6 +501,9 @@
   ],
   "1927 New Jersey Amendment 4": [
    "A Costly Constitutional Typo: One word mistake almost changed state elections."
+  ],
+  "nasa:1480607": [
+   "Hubble Spies Alien Galaxy: Hubble just captured a stunning, edge-on galaxy."
   ]
  },
  "exhausted": []

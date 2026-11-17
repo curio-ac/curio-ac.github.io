@@ -1,0 +1,449 @@
+{
+ "id": "en-cba76683",
+ "lang": "en",
+ "title": "Hawaiian Sailor in Civil War",
+ "cat": "history",
+ "emoji": "⚓",
+ "sentences": [
+  "A Hawaiian sailor fought for the Union.",
+  "James Wood Bush joined the Navy in 1864.",
+  "He served on the USS Vandalia during the blockade.",
+  "After an injury, he traveled through New England and the Pacific.",
+  "He later settled on Kauai, working as a tax collector.",
+  "Bush eventually converted to Mormonism.",
+  "In 1905, he finally received a government pension for his service."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.35,
+    0.35
+   ],
+   [
+    "Hawaiian",
+    0.35,
+    0.71
+   ],
+   [
+    "sailor",
+    0.71,
+    1.29
+   ],
+   [
+    "fought",
+    1.29,
+    1.51
+   ],
+   [
+    "for",
+    1.51,
+    1.73
+   ],
+   [
+    "the",
+    1.73,
+    1.83
+   ],
+   [
+    "Union.",
+    1.83,
+    2.15
+   ],
+   [
+    "James",
+    2.73,
+    2.93
+   ],
+   [
+    "Wood",
+    2.93,
+    3.23
+   ],
+   [
+    "Bush",
+    3.23,
+    3.47
+   ],
+   [
+    "joined",
+    3.47,
+    3.81
+   ],
+   [
+    "the",
+    3.81,
+    4.01
+   ],
+   [
+    "Navy",
+    4.01,
+    4.27
+   ],
+   [
+    "in",
+    4.27,
+    4.45
+   ],
+   [
+    "1864.",
+    4.45,
+    5.53
+   ],
+   [
+    "He",
+    6.01,
+    6.09
+   ],
+   [
+    "served",
+    6.09,
+    6.41
+   ],
+   [
+    "on",
+    6.41,
+    6.63
+   ],
+   [
+    "the",
+    6.63,
+    6.73
+   ],
+   [
+    "USS",
+    6.73,
+    7.17
+   ],
+   [
+    "Vandalia",
+    7.17,
+    7.89
+   ],
+   [
+    "during",
+    7.89,
+    8.19
+   ],
+   [
+    "the",
+    8.19,
+    8.35
+   ],
+   [
+    "blockade.",
+    8.35,
+    8.81
+   ],
+   [
+    "After",
+    9.45,
+    9.65
+   ],
+   [
+    "an",
+    9.65,
+    9.77
+   ],
+   [
+    "injury,",
+    9.77,
+    10.27
+   ],
+   [
+    "he",
+    10.39,
+    10.41
+   ],
+   [
+    "traveled",
+    10.41,
+    10.75
+   ],
+   [
+    "through",
+    10.97,
+    11.07
+   ],
+   [
+    "New",
+    11.07,
+    11.27
+   ],
+   [
+    "England",
+    11.27,
+    11.67
+   ],
+   [
+    "and",
+    11.67,
+    11.85
+   ],
+   [
+    "the",
+    11.85,
+    11.97
+   ],
+   [
+    "Pacific.",
+    11.97,
+    12.33
+   ],
+   [
+    "He",
+    12.93,
+    13.01
+   ],
+   [
+    "later",
+    13.01,
+    13.27
+   ],
+   [
+    "settled",
+    13.27,
+    13.69
+   ],
+   [
+    "on",
+    13.69,
+    13.97
+   ],
+   [
+    "Kauai,",
+    13.97,
+    14.53
+   ],
+   [
+    "working",
+    14.93,
+    15.11
+   ],
+   [
+    "as",
+    15.15,
+    15.37
+   ],
+   [
+    "a",
+    15.37,
+    15.49
+   ],
+   [
+    "tax",
+    15.51,
+    15.73
+   ],
+   [
+    "collector.",
+    15.73,
+    15.83
+   ],
+   [
+    "Bush",
+    16.87,
+    17.07
+   ],
+   [
+    "eventually",
+    17.07,
+    17.67
+   ],
+   [
+    "converted",
+    17.67,
+    18.21
+   ],
+   [
+    "to",
+    18.21,
+    18.47
+   ],
+   [
+    "Mormonism.",
+    18.47,
+    19.03
+   ],
+   [
+    "In",
+    19.61,
+    19.71
+   ],
+   [
+    "1905,",
+    19.71,
+    20.65
+   ],
+   [
+    "he",
+    20.91,
+    20.97
+   ],
+   [
+    "finally",
+    20.97,
+    21.33
+   ],
+   [
+    "received",
+    21.33,
+    21.85
+   ],
+   [
+    "a",
+    21.85,
+    21.99
+   ],
+   [
+    "government",
+    22.05,
+    22.33
+   ],
+   [
+    "pension",
+    22.33,
+    22.77
+   ],
+   [
+    "for",
+    22.77,
+    23.03
+   ],
+   [
+    "his",
+    23.03,
+    23.15
+   ],
+   [
+    "service.",
+    23.15,
+    23.47
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   35,
+   45,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hawaiian_Veteran_of_Civil_War_Dies%2C_1906.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 320,
+   "license": "Public domain",
+   "artist": "The Pacific Commercial Advertiser",
+   "page": "https://commons.wikimedia.org/wiki/File:Hawaiian_Veteran_of_Civil_War_Dies,_1906.jpg",
+   "desc": "Hawaiian Veteran of Civil War Dies, 1906 — Hawaiian Veteran of Civil War Dies"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/USS_Vandalia_%281828%29_sketch.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 806,
+   "license": "Public domain",
+   "artist": "Harper's Weekly",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Vandalia_(1828)_sketch.jpg",
+   "desc": "USS Vandalia (1828) sketch — A sketch of the United States Navy sloop-of-war USS Vandalia. Cropped from the engraving of \"The Navy-Yard at Brooklyn, New York, June 1861\", published July 20, 1861, in Harper's Weekly. Later part of Commodore Matthew C"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Admiralty_Chart_No_2683_Pacific_Ocean%2C_Published_1887.jpg/960px-Admiralty_Chart_No_2683_Pacific_Ocean%2C_Published_1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 705,
+   "license": "Public domain",
+   "artist": "United Kingdom Hydrographic Office",
+   "page": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2683_Pacific_Ocean,_Published_1887.jpg",
+   "desc": "Admiralty Chart No 2683 Pacific Ocean, Published 1887 — Nautical chart of the Pacific Ocean. Not current - not to be used for navigation!"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/%27Waterfall_at_Hanapepe%2C_Kauai%27_by_Edward_Bailey%2C_c._1886%2C_oil_on_board.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 952,
+   "license": "Public domain",
+   "artist": "Edward Bailey",
+   "page": "https://commons.wikimedia.org/wiki/File:%27Waterfall_at_Hanapepe,_Kauai%27_by_Edward_Bailey,_c._1886,_oil_on_board.JPG",
+   "desc": "'Waterfall at Hanapepe, Kauai' by Edward Bailey, c. 1886, oil on board — Waterfall at Hanapepe, Kauai by Edward Bailey, c. 1886, oil on board, 9 1/8 x 12 inches"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/6May1877JohnWhitmerBookofMormonTestimonyLetter-OrigOwnerRWLipack.jpg/960px-6May1877JohnWhitmerBookofMormonTestimonyLetter-OrigOwnerRWLipack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1049,
+   "license": "CC BY-SA 4.0",
+   "artist": "Richard Warren Lipack",
+   "page": "https://commons.wikimedia.org/wiki/File:6May1877JohnWhitmerBookofMormonTestimonyLetter-OrigOwnerRWLipack.jpg",
+   "desc": "6May1877JohnWhitmerBookofMormonTestimonyLetter-OrigOwnerRWLipack — JOHN WHITMER 6 MAY 1877 TESTIMONY TO THE BOOK OF MORMON JOHN WHITMER HISTORICAL ASSOCIATION 2019 ANNUAL CONFERENCE - ROCHESTER, NY PRESENTATION http://www.sndup.net/bkcb Shown is a manuscript l"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/George_Lattin_%281835-1909%29_Veterans_Administration_Pension_Payment_Card.jpg/960px-George_Lattin_%281835-1909%29_Veterans_Administration_Pension_Payment_Card.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 933,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:George_Lattin_(1835-1909)_Veterans_Administration_Pension_Payment_Card.jpg",
+   "desc": "George Lattin (1835-1909) Veterans Administration Pension Payment Card — George Lattin (1835-1909) Veterans Administration Pension Payment Card"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1864
+  },
+  {
+   "type": "focus",
+   "target": "USS Vandalia",
+   "box": [
+    37,
+    136,
+    943,
+    872
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1905
+  }
+ ],
+ "geo": null,
+ "qid": "Q18646027",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "James Wood Bush",
+  "url": "https://en.wikipedia.org/wiki/James_Wood_Bush",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:58:25Z",
+ "trimmed": true
+}
