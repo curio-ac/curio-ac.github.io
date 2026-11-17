@@ -1,0 +1,413 @@
+{
+ "id": "en-8e547cc3",
+ "lang": "en",
+ "title": "A Tournament Relocated by War",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Libya lost hosting rights due to war.",
+  "The 2017 Africa Cup of Nations faced a major location change.",
+  "Gabon stepped in to host the 31st edition of this tournament.",
+  "It marked the 60th anniversary of the championship.",
+  "Cameroon defeated Egypt 2-1 to claim their fifth title.",
+  "This victory sent Cameroon straight to the 2017 FIFA Confederations Cup in Russia."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Libya",
+    0.35,
+    0.43
+   ],
+   [
+    "lost",
+    0.43,
+    0.77
+   ],
+   [
+    "hosting",
+    0.77,
+    1.17
+   ],
+   [
+    "rights",
+    1.17,
+    1.51
+   ],
+   [
+    "due",
+    1.63,
+    1.73
+   ],
+   [
+    "to",
+    1.73,
+    1.83
+   ],
+   [
+    "war.",
+    1.83,
+    2.17
+   ],
+   [
+    "The",
+    2.57,
+    2.59
+   ],
+   [
+    "2017",
+    2.67,
+    3.11
+   ],
+   [
+    "Africa",
+    3.11,
+    3.63
+   ],
+   [
+    "Cup",
+    3.63,
+    3.93
+   ],
+   [
+    "of",
+    3.93,
+    4.03
+   ],
+   [
+    "Nations",
+    4.03,
+    4.31
+   ],
+   [
+    "faced",
+    4.31,
+    4.71
+   ],
+   [
+    "a",
+    4.71,
+    4.91
+   ],
+   [
+    "major",
+    4.91,
+    5.21
+   ],
+   [
+    "location",
+    5.21,
+    5.63
+   ],
+   [
+    "change.",
+    5.63,
+    5.75
+   ],
+   [
+    "Gabon",
+    6.63,
+    6.97
+   ],
+   [
+    "stepped",
+    6.97,
+    7.17
+   ],
+   [
+    "in",
+    7.17,
+    7.39
+   ],
+   [
+    "to",
+    7.39,
+    7.47
+   ],
+   [
+    "host",
+    7.47,
+    7.67
+   ],
+   [
+    "the",
+    7.67,
+    7.85
+   ],
+   [
+    "31st",
+    7.91,
+    8.41
+   ],
+   [
+    "edition",
+    8.41,
+    8.67
+   ],
+   [
+    "of",
+    8.67,
+    8.83
+   ],
+   [
+    "this",
+    8.83,
+    8.95
+   ],
+   [
+    "tournament.",
+    8.95,
+    9.25
+   ],
+   [
+    "It",
+    9.83,
+    9.89
+   ],
+   [
+    "marked",
+    9.89,
+    10.09
+   ],
+   [
+    "the",
+    10.09,
+    10.27
+   ],
+   [
+    "60th",
+    10.27,
+    10.83
+   ],
+   [
+    "anniversary",
+    10.87,
+    11.13
+   ],
+   [
+    "of",
+    11.13,
+    11.49
+   ],
+   [
+    "the",
+    11.49,
+    11.55
+   ],
+   [
+    "championship.",
+    11.55,
+    12.07
+   ],
+   [
+    "Cameroon",
+    12.61,
+    12.99
+   ],
+   [
+    "defeated",
+    12.99,
+    13.17
+   ],
+   [
+    "Egypt",
+    13.17,
+    13.63
+   ],
+   [
+    "2-1",
+    13.63,
+    14.35
+   ],
+   [
+    "to",
+    14.35,
+    14.55
+   ],
+   [
+    "claim",
+    14.65,
+    14.75
+   ],
+   [
+    "their",
+    14.75,
+    14.91
+   ],
+   [
+    "fifth",
+    14.91,
+    15.13
+   ],
+   [
+    "title.",
+    15.13,
+    15.53
+   ],
+   [
+    "This",
+    16.11,
+    16.21
+   ],
+   [
+    "victory",
+    16.21,
+    16.43
+   ],
+   [
+    "sent",
+    16.43,
+    16.77
+   ],
+   [
+    "Cameroon",
+    16.77,
+    17.35
+   ],
+   [
+    "straight",
+    17.35,
+    17.61
+   ],
+   [
+    "to",
+    17.61,
+    17.83
+   ],
+   [
+    "the",
+    17.83,
+    17.91
+   ],
+   [
+    "2017",
+    17.91,
+    18.57
+   ],
+   [
+    "FIFA",
+    18.57,
+    19.03
+   ],
+   [
+    "Confederations",
+    19.03,
+    19.73
+   ],
+   [
+    "Cup",
+    19.73,
+    19.93
+   ],
+   [
+    "in",
+    19.93,
+    20.17
+   ],
+   [
+    "Russia.",
+    20.17,
+    20.59
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   29,
+   37,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Destruction_near_Tripoli_bridge%2C_Benghazi.JPG/960px-Destruction_near_Tripoli_bridge%2C_Benghazi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Maher27777",
+   "page": "https://commons.wikimedia.org/wiki/File:Destruction_near_Tripoli_bridge,_Benghazi.JPG",
+   "desc": "Destruction near Tripoli bridge, Benghazi — Destruction near Tripoli bridge, Benghazi, as a result of the battle between anti- and pro-Qadafi forces on March 19, 2011."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Guinea_Ecuatorial_y_Gab%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 932,
+   "license": "CC BY-SA 3.0",
+   "artist": "Darwinek, Andriyko_UA",
+   "page": "https://commons.wikimedia.org/wiki/File:Guinea_Ecuatorial_y_Gab%C3%B3n.jpg",
+   "desc": "Guinea Ecuatorial y Gabón — Mapa de Guinea Ecuatorial y Gabón con sus respectivas banderas dentro"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cameroon_celebrating_winning_2017_Africa_Cup_of_Nations.jpg/960px-Cameroon_celebrating_winning_2017_Africa_Cup_of_Nations.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 477,
+   "license": "CC BY 2.0",
+   "artist": "Ben Sutherland from Crystal Palace, London, UK",
+   "page": "https://commons.wikimedia.org/wiki/File:Cameroon_celebrating_winning_2017_Africa_Cup_of_Nations.jpg",
+   "desc": "Cameroon celebrating winning 2017 Africa Cup of Nations — Cameroon celebrating winning 2017 Africa Cup of Nations喀麦隆庆祝2017年非洲杯胜利"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Cameroon_celebrating_winning_2017_Africa_Cup_of_Nations_%28cropped%29.jpg/960px-Cameroon_celebrating_winning_2017_Africa_Cup_of_Nations_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 517,
+   "license": "CC BY 2.0",
+   "artist": "Ben Sutherland from Crystal Palace, London, UK",
+   "page": "https://commons.wikimedia.org/wiki/File:Cameroon_celebrating_winning_2017_Africa_Cup_of_Nations_(cropped).jpg",
+   "desc": "Cameroon celebrating winning 2017 Africa Cup of Nations (cropped) — Cameroon celebrating winning 2017 Africa Cup of Nations喀麦隆庆祝2017年非洲杯胜利"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2017
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 60,
+   "unit": "years",
+   "label": "anniversary of championship"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "titles",
+   "label": "Cameroon titles"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1316347",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "2017 Africa Cup of Nations",
+  "url": "https://en.wikipedia.org/wiki/2017_Africa_Cup_of_Nations",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T15:17:08Z",
+ "trimmed": true
+}
