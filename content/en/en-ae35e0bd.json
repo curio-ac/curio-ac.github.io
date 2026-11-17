@@ -1,0 +1,425 @@
+{
+ "id": "en-ae35e0bd",
+ "lang": "en",
+ "title": "The Empty Island Invasion",
+ "cat": "history",
+ "emoji": "🏝️",
+ "sentences": [
+  "They invaded because they thought the islands were empty!",
+  "General MacArthur rushed the plan on 29 February 1944.",
+  "Troops landed on a tiny beach where Japan expected nothing.",
+  "But the islands were definitely not unoccupied.",
+  "A furious battle quickly erupted.",
+  "Allied air and sea power brought heavy reinforcements.",
+  "This final victory completely isolated a major enemy base at Rabaul."
+ ],
+ "tim": {
+  "w": [
+   [
+    "They",
+    0.22,
+    0.32
+   ],
+   [
+    "invaded",
+    0.32,
+    0.74
+   ],
+   [
+    "because",
+    0.74,
+    1.1
+   ],
+   [
+    "they",
+    1.1,
+    1.34
+   ],
+   [
+    "thought",
+    1.34,
+    1.7
+   ],
+   [
+    "the",
+    1.7,
+    1.96
+   ],
+   [
+    "islands",
+    1.96,
+    2.28
+   ],
+   [
+    "were",
+    2.28,
+    2.52
+   ],
+   [
+    "empty!",
+    2.52,
+    2.8
+   ],
+   [
+    "General",
+    3.78,
+    3.98
+   ],
+   [
+    "MacArthur",
+    3.98,
+    4.48
+   ],
+   [
+    "rushed",
+    4.48,
+    4.84
+   ],
+   [
+    "the",
+    4.84,
+    5.08
+   ],
+   [
+    "plan",
+    5.16,
+    5.4
+   ],
+   [
+    "on",
+    5.4,
+    5.6
+   ],
+   [
+    "29",
+    5.64,
+    6.06
+   ],
+   [
+    "February",
+    6.06,
+    6.6
+   ],
+   [
+    "1944.",
+    6.6,
+    7.42
+   ],
+   [
+    "Troops",
+    8.6,
+    8.78
+   ],
+   [
+    "landed",
+    8.8,
+    9.0
+   ],
+   [
+    "on",
+    9.0,
+    9.24
+   ],
+   [
+    "a",
+    9.3,
+    9.4
+   ],
+   [
+    "tiny",
+    9.4,
+    9.7
+   ],
+   [
+    "beach",
+    9.7,
+    10.06
+   ],
+   [
+    "where",
+    10.06,
+    10.28
+   ],
+   [
+    "Japan",
+    10.28,
+    10.62
+   ],
+   [
+    "expected",
+    10.62,
+    11.18
+   ],
+   [
+    "nothing.",
+    11.18,
+    11.76
+   ],
+   [
+    "But",
+    12.98,
+    13.06
+   ],
+   [
+    "the",
+    13.06,
+    13.18
+   ],
+   [
+    "islands",
+    13.2,
+    13.44
+   ],
+   [
+    "were",
+    13.44,
+    13.7
+   ],
+   [
+    "definitely",
+    13.7,
+    14.42
+   ],
+   [
+    "not",
+    14.42,
+    14.8
+   ],
+   [
+    "unoccupied.",
+    14.8,
+    15.45
+   ],
+   [
+    "A",
+    16.36,
+    16.46
+   ],
+   [
+    "furious",
+    16.46,
+    16.92
+   ],
+   [
+    "battle",
+    16.92,
+    17.42
+   ],
+   [
+    "quickly",
+    17.66,
+    17.84
+   ],
+   [
+    "erupted.",
+    17.84,
+    18.44
+   ],
+   [
+    "Allied",
+    19.34,
+    19.54
+   ],
+   [
+    "air",
+    19.54,
+    19.78
+   ],
+   [
+    "and",
+    19.78,
+    19.94
+   ],
+   [
+    "sea",
+    19.94,
+    20.1
+   ],
+   [
+    "power",
+    20.1,
+    20.34
+   ],
+   [
+    "brought",
+    20.34,
+    20.62
+   ],
+   [
+    "heavy",
+    20.62,
+    21.14
+   ],
+   [
+    "reinforcements.",
+    21.14,
+    21.74
+   ],
+   [
+    "This",
+    23.02,
+    23.14
+   ],
+   [
+    "final",
+    23.14,
+    23.48
+   ],
+   [
+    "victory",
+    23.48,
+    23.88
+   ],
+   [
+    "completely",
+    23.88,
+    24.46
+   ],
+   [
+    "isolated",
+    24.46,
+    25.18
+   ],
+   [
+    "a",
+    25.18,
+    25.46
+   ],
+   [
+    "major",
+    25.46,
+    25.84
+   ],
+   [
+    "enemy",
+    25.84,
+    26.14
+   ],
+   [
+    "base",
+    26.14,
+    26.56
+   ],
+   [
+    "at",
+    26.56,
+    26.84
+   ],
+   [
+    "Rabaul.",
+    26.84,
+    27.24
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   28,
+   35,
+   40,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Elkton_Plan.jpg/960px-Elkton_Plan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 939,
+   "license": "Public domain",
+   "artist": "US Army Center for Military History",
+   "page": "https://commons.wikimedia.org/wiki/File:Elkton_Plan.jpg",
+   "desc": "Elkton Plan — General MacArthur's Elkton III Plan, March 1943"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/First_Wave_at_Admiralty_Islands.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 439,
+   "license": "Public domain",
+   "artist": "U.S. Army Center of Military History",
+   "page": "https://commons.wikimedia.org/wiki/File:First_Wave_at_Admiralty_Islands.jpg",
+   "desc": "First Wave at Admiralty Islands — First Wave at Los Negros, Admiralty Islands. (DA photograph)"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kittyhawk_on_Momote.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 562,
+   "license": "Public domain",
+   "artist": "Harrison, John Thomas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kittyhawk_on_Momote.jpg",
+   "desc": "Kittyhawk on Momote — LOS NEGROS ISLAND, ADMIRALTY ISLANDS. 1944-03-08. RAAF KITTYHAWK AIRCRAFT IN A DISPERSAL BAY BUILT BY THE JAPANESE AT MOMOTE. IN THE BACKGROUND ARE COCONUT PALMS BLASTED BY THE INTENSIVE BOMBING WHICH PRECEEDED THE LANDI"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/SC_196081-S_-_The_loading_of_rations%2C_small_arms%2C_ammunition%2C_trucks_and_miscellaneous_equipment_aboard_LSMs%2C_LCMs_and_LCVPs_at_Sesalder_Harbor%2C_Los_Negros%2C_in_the_Admiralty_Group._SWPA%2C_7_October%2C_1944._%2851999371783%29.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 582,
+   "license": "Public domain",
+   "artist": "Signal Corps Archive from United States",
+   "page": "https://commons.wikimedia.org/wiki/File:SC_196081-S_-_The_loading_of_rations,_small_arms,_ammunition,_trucks_and_miscellaneous_equipment_aboard_LSMs,_LCMs_and_LCVPs_at_Sesalder_Harbor,_Los_Negros,_in_the_Admiralty_Group._SWPA,_7_October,_1944._(51999371783).jpg",
+   "desc": "SC 196081-S - The loading of rations, small arms, ammunition, trucks and miscellaneous equipment aboard LSMs, LCMs and LCVPs at Sesalder Harbor, Los Negros, in the Admiralty Group. SWPA, 7 October, 1944. (51999371783) — Photographer not credited. Photo Source:"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Admiralties-map11.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 602,
+   "license": "Public domain",
+   "artist": "US Army",
+   "page": "https://commons.wikimedia.org/wiki/File:Admiralties-map11.JPG",
+   "desc": "Admiralties-map11 — Attack on Manus Island, 11 March 1944"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1944
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  -2.033,
+  147.275
+ ],
+ "qid": "Q2579907",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Admiralty Islands campaign",
+  "url": "https://en.wikipedia.org/wiki/Admiralty_Islands_campaign",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:01:10Z",
+ "trimmed": true
+}
