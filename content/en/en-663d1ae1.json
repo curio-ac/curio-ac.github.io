@@ -1,0 +1,378 @@
+{
+ "id": "en-663d1ae1",
+ "lang": "en",
+ "title": "Seeing The First Stars",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "It views objects too faint for Hubble.",
+  "It investigates the formation of the first galaxies.",
+  "It characterizes atmospheres of potentially habitable exoplanets.",
+  "It launched on 25 December 2021 on an Ariane 5 rocket.",
+  "It lifted off from Kourou, French Guiana.",
+  "By January 2022, it reached a solar orbit near the Sun-Earth L2 Lagrange."
+ ],
+ "tim": {
+  "w": [
+   [
+    "It",
+    0.35,
+    0.35
+   ],
+   [
+    "views",
+    0.35,
+    0.55
+   ],
+   [
+    "objects",
+    0.55,
+    0.97
+   ],
+   [
+    "too",
+    0.97,
+    1.23
+   ],
+   [
+    "faint",
+    1.23,
+    1.43
+   ],
+   [
+    "for",
+    1.43,
+    1.65
+   ],
+   [
+    "Hubble.",
+    1.65,
+    1.99
+   ],
+   [
+    "It",
+    2.45,
+    2.45
+   ],
+   [
+    "investigates",
+    2.45,
+    3.05
+   ],
+   [
+    "the",
+    3.07,
+    3.17
+   ],
+   [
+    "formation",
+    3.17,
+    3.47
+   ],
+   [
+    "of",
+    3.47,
+    3.71
+   ],
+   [
+    "the",
+    3.71,
+    3.83
+   ],
+   [
+    "first",
+    3.83,
+    3.97
+   ],
+   [
+    "galaxies.",
+    3.97,
+    4.57
+   ],
+   [
+    "It",
+    4.97,
+    5.05
+   ],
+   [
+    "characterizes",
+    5.05,
+    5.73
+   ],
+   [
+    "atmospheres",
+    5.73,
+    6.39
+   ],
+   [
+    "of",
+    6.39,
+    6.55
+   ],
+   [
+    "potentially",
+    6.55,
+    6.89
+   ],
+   [
+    "habitable",
+    6.89,
+    7.55
+   ],
+   [
+    "exoplanets.",
+    7.55,
+    8.23
+   ],
+   [
+    "It",
+    8.73,
+    8.81
+   ],
+   [
+    "launched",
+    8.81,
+    9.07
+   ],
+   [
+    "on",
+    9.07,
+    9.25
+   ],
+   [
+    "25",
+    9.25,
+    9.65
+   ],
+   [
+    "December",
+    9.65,
+    10.01
+   ],
+   [
+    "2021",
+    10.01,
+    10.79
+   ],
+   [
+    "on",
+    10.79,
+    11.11
+   ],
+   [
+    "an",
+    11.11,
+    11.23
+   ],
+   [
+    "Ariane",
+    11.23,
+    11.65
+   ],
+   [
+    "5",
+    11.65,
+    11.85
+   ],
+   [
+    "rocket.",
+    11.85,
+    12.33
+   ],
+   [
+    "It",
+    12.71,
+    12.79
+   ],
+   [
+    "lifted",
+    12.79,
+    12.99
+   ],
+   [
+    "off",
+    12.99,
+    13.21
+   ],
+   [
+    "from",
+    13.21,
+    13.41
+   ],
+   [
+    "Kourou,",
+    13.41,
+    13.95
+   ],
+   [
+    "French",
+    14.09,
+    14.13
+   ],
+   [
+    "Guiana.",
+    14.13,
+    14.61
+   ],
+   [
+    "By",
+    15.15,
+    15.25
+   ],
+   [
+    "January",
+    15.25,
+    15.61
+   ],
+   [
+    "2022,",
+    15.61,
+    16.25
+   ],
+   [
+    "it",
+    16.77,
+    16.81
+   ],
+   [
+    "reached",
+    16.81,
+    17.03
+   ],
+   [
+    "a",
+    17.03,
+    17.21
+   ],
+   [
+    "solar",
+    17.21,
+    17.43
+   ],
+   [
+    "orbit",
+    17.43,
+    17.81
+   ],
+   [
+    "near",
+    17.81,
+    18.01
+   ],
+   [
+    "the",
+    18.01,
+    18.17
+   ],
+   [
+    "Sun-Earth",
+    18.17,
+    18.69
+   ],
+   [
+    "L2",
+    18.69,
+    19.09
+   ],
+   [
+    "Lagrange.",
+    19.09,
+    19.64
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   22,
+   33,
+   40
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fine_Guidance_Sensor_Test_Image.jpg/960px-Fine_Guidance_Sensor_Test_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 687,
+   "license": "Public domain",
+   "artist": "NASA, CSA, ESA",
+   "page": "https://commons.wikimedia.org/wiki/File:Fine_Guidance_Sensor_Test_Image.jpg",
+   "desc": "Fine Guidance Sensor Test Image — Webb’s Fine Guidance Sensor (FGS) – developed by the Canadian Space Agency – has captured a special view of stars and galaxies that provides a tantalising glimpse at what the telescope’s science instruments will reveal i"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Early_Universe_Crackled_With_Bursts_of_Star_Formation%2C_Webb_Shows.png/960px-Early_Universe_Crackled_With_Bursts_of_Star_Formation%2C_Webb_Shows.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 505,
+   "license": "CC BY 2.0",
+   "artist": "NASA's James Webb Space Telescope",
+   "page": "https://commons.wikimedia.org/wiki/File:Early_Universe_Crackled_With_Bursts_of_Star_Formation,_Webb_Shows.png",
+   "desc": "Early Universe Crackled With Bursts of Star Formation, Webb Shows — You're looking at more than 45,000 galaxies. This image was taken as part of the JWST Advanced Deep Extragalactic Survey (JADES) — one of Webb’s largest first year science programs. Though dat"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Exoplanet_WASP-96_b_%28NIRISS_Transmission_Spectrum%29_%28weic2206a%29.jpeg/960px-Exoplanet_WASP-96_b_%28NIRISS_Transmission_Spectrum%29_%28weic2206a%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 484,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, CSA, STScI, and the Webb ERO Production Team",
+   "page": "https://commons.wikimedia.org/wiki/File:Exoplanet_WASP-96_b_(NIRISS_Transmission_Spectrum)_(weic2206a).jpeg",
+   "desc": "Exoplanet WASP-96 b (NIRISS Transmission Spectrum) (weic2206a) — A transmission spectrum made from a single observation using Webb’s Near-Infrared Imager and Slitless Spectrograph (NIRISS) reveals atmospheric characteristics of the hot gas giant exoplanet WASP"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%28NHQ202112230012%29.jpg/960px-Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%28NHQ202112230012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 994,
+   "license": "Public domain",
+   "artist": "Bill Ingalls",
+   "page": "https://commons.wikimedia.org/wiki/File:Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_(NHQ202112230012).jpg",
+   "desc": "Ariane 5 with James Webb Space Telescope Prelaunch (NHQ202112230012) — Arianespace's Ariane 5 rocket with NASA’s James Webb Space Telescope onboard, is seen at the launch pad, Thursday, Dec. 23, 2021, at Europe’s Spaceport, the Guiana Space Center in Kourou, F"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2021
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2022
+  }
+ ],
+ "geo": null,
+ "qid": "Q186447",
+ "pron_wer": 0.0,
+ "angle": 2,
+ "source": {
+  "title": "James Webb Space Telescope",
+  "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T15:05:20Z",
+ "trimmed": true
+}
