@@ -1,0 +1,351 @@
+{
+ "id": "en-277fdfdf",
+ "lang": "en",
+ "title": "The Devil's Cigar Fungus",
+ "cat": "biology",
+ "emoji": "🍄",
+ "sentences": [
+  "Meet the rare mushroom that hisses.",
+  "Chorioactis geaster is known as the devil's cigar.",
+  "It grows on dead roots in Texas, Oklahoma, Japan, and Taiwan.",
+  "The dark cigar shape splits into a starlike arrangement.",
+  "Its interior releases a smoky cloud of spores.",
+  "This unique fungus was first collected in 1893."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.34,
+    0.38
+   ],
+   [
+    "the",
+    0.38,
+    0.58
+   ],
+   [
+    "rare",
+    0.58,
+    0.86
+   ],
+   [
+    "mushroom",
+    0.86,
+    1.38
+   ],
+   [
+    "that",
+    1.38,
+    1.76
+   ],
+   [
+    "hisses.",
+    1.76,
+    2.18
+   ],
+   [
+    "Chorioactis",
+    2.82,
+    3.56
+   ],
+   [
+    "geaster",
+    3.56,
+    4.06
+   ],
+   [
+    "is",
+    4.06,
+    4.38
+   ],
+   [
+    "known",
+    4.38,
+    4.58
+   ],
+   [
+    "as",
+    4.58,
+    4.8
+   ],
+   [
+    "the",
+    4.8,
+    4.94
+   ],
+   [
+    "devil's",
+    5.0,
+    5.4
+   ],
+   [
+    "cigar.",
+    5.4,
+    5.68
+   ],
+   [
+    "It",
+    6.28,
+    6.3
+   ],
+   [
+    "grows",
+    6.3,
+    6.48
+   ],
+   [
+    "on",
+    6.48,
+    6.66
+   ],
+   [
+    "dead",
+    6.66,
+    6.82
+   ],
+   [
+    "roots",
+    6.82,
+    7.08
+   ],
+   [
+    "in",
+    7.08,
+    7.3
+   ],
+   [
+    "Texas,",
+    7.3,
+    7.75
+   ],
+   [
+    "Oklahoma,",
+    7.92,
+    8.64
+   ],
+   [
+    "Japan,",
+    8.68,
+    9.22
+   ],
+   [
+    "and",
+    9.24,
+    9.34
+   ],
+   [
+    "Taiwan.",
+    9.34,
+    9.78
+   ],
+   [
+    "The",
+    10.3,
+    10.36
+   ],
+   [
+    "dark",
+    10.36,
+    10.56
+   ],
+   [
+    "cigar",
+    10.56,
+    10.86
+   ],
+   [
+    "shape",
+    10.86,
+    11.16
+   ],
+   [
+    "splits",
+    11.16,
+    11.46
+   ],
+   [
+    "into",
+    11.46,
+    11.76
+   ],
+   [
+    "a",
+    11.8,
+    11.94
+   ],
+   [
+    "starlike",
+    11.94,
+    12.38
+   ],
+   [
+    "arrangement.",
+    12.38,
+    12.78
+   ],
+   [
+    "Its",
+    13.4,
+    13.5
+   ],
+   [
+    "interior",
+    13.5,
+    13.88
+   ],
+   [
+    "releases",
+    13.88,
+    14.46
+   ],
+   [
+    "a",
+    14.46,
+    14.68
+   ],
+   [
+    "smoky",
+    14.7,
+    15.18
+   ],
+   [
+    "cloud",
+    15.18,
+    15.4
+   ],
+   [
+    "of",
+    15.4,
+    15.56
+   ],
+   [
+    "spores.",
+    15.56,
+    15.9
+   ],
+   [
+    "This",
+    16.56,
+    16.68
+   ],
+   [
+    "unique",
+    16.68,
+    16.9
+   ],
+   [
+    "fungus",
+    16.9,
+    17.26
+   ],
+   [
+    "was",
+    17.26,
+    17.54
+   ],
+   [
+    "first",
+    17.54,
+    17.78
+   ],
+   [
+    "collected",
+    17.78,
+    18.12
+   ],
+   [
+    "in",
+    18.12,
+    18.36
+   ],
+   [
+    "1893.",
+    18.36,
+    19.06
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   25,
+   34,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Devil%27s_cigar_Chorioactis_geaster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 613,
+   "license": "CC BY 3.0",
+   "artist": "Tim Jones",
+   "page": "https://commons.wikimedia.org/wiki/File:Devil%27s_cigar_Chorioactis_geaster.jpg",
+   "desc": "Devil's cigar Chorioactis geaster — Chorioactis geaster"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Chorioactis_geaster_-_Immature_Fruiting_Body_Cut_In_Half.jpg/960px-Chorioactis_geaster_-_Immature_Fruiting_Body_Cut_In_Half.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "TXPhilistine",
+   "page": "https://commons.wikimedia.org/wiki/File:Chorioactis_geaster_-_Immature_Fruiting_Body_Cut_In_Half.jpg",
+   "desc": "Chorioactis geaster - Immature Fruiting Body Cut In Half — An intact immature fruiting body of Chorioactis geaster measuring 3.75in (9.5cm) in length, and a second immature fruiting body cut open to reveal the spore-bearing surface (hymenium)."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  null,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "devil's cigar",
+   "box": [
+    35,
+    96,
+    946,
+    903
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1893
+  }
+ ],
+ "geo": null,
+ "qid": "Q18338273",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "Chorioactis",
+  "url": "https://en.wikipedia.org/wiki/Chorioactis",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:58:29Z",
+ "trimmed": true
+}

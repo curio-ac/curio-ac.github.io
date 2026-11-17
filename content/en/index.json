@@ -117,7 +117,8 @@
   "2020 Seattle Sounders FC season",
   "nasa:1504201",
   "Caroline of Ansbach",
-  "David Berman (musician)"
+  "David Berman (musician)",
+  "nasa:1285516"
  ],
  "rejected": [
   "Chameleon",
@@ -529,6 +530,9 @@
   ],
   "David Berman (musician)": [
    "The Tragic Return of Berman: A musician released one final album before dying."
+  ],
+  "nasa:1285516": [
+   "Space Objects Remember Their Past: Tiny space rocks are remembering their history."
   ]
  },
  "exhausted": []
