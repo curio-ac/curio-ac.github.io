@@ -1,0 +1,320 @@
+{
+ "id": "en-049732a9",
+ "lang": "en",
+ "title": "Curiosity's 49th Martian Drill Hole",
+ "cat": "space",
+ "emoji": "🤖",
+ "sentences": [
+  "Disc-shaped inclusions found on Mars!",
+  "Curiosity returned to investigate these potential crystals.",
+  "The rover passed stability and preload tests on a rock block.",
+  "Then it successfully drilled its 49th hole, named Nazca.",
+  "Scientists analyzed the sample to uncover ancient environmental conditions."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Disc-shaped",
+    0.2,
+    0.4
+   ],
+   [
+    "inclusions",
+    0.4,
+    0.96
+   ],
+   [
+    "found",
+    0.96,
+    1.14
+   ],
+   [
+    "on",
+    1.14,
+    1.34
+   ],
+   [
+    "Mars!",
+    1.34,
+    1.7
+   ],
+   [
+    "Curiosity",
+    2.12,
+    2.34
+   ],
+   [
+    "returned",
+    2.34,
+    2.94
+   ],
+   [
+    "to",
+    2.94,
+    3.26
+   ],
+   [
+    "investigate",
+    3.26,
+    3.66
+   ],
+   [
+    "these",
+    3.66,
+    3.98
+   ],
+   [
+    "potential",
+    3.98,
+    4.32
+   ],
+   [
+    "crystals.",
+    4.32,
+    5.0
+   ],
+   [
+    "The",
+    5.2,
+    5.22
+   ],
+   [
+    "rover",
+    5.22,
+    5.4
+   ],
+   [
+    "passed",
+    5.4,
+    5.76
+   ],
+   [
+    "stability",
+    5.76,
+    6.18
+   ],
+   [
+    "and",
+    6.18,
+    6.56
+   ],
+   [
+    "preload",
+    6.56,
+    6.9
+   ],
+   [
+    "tests",
+    6.9,
+    7.22
+   ],
+   [
+    "on",
+    7.22,
+    7.48
+   ],
+   [
+    "a",
+    7.48,
+    7.56
+   ],
+   [
+    "rock",
+    7.56,
+    7.76
+   ],
+   [
+    "block.",
+    7.76,
+    7.86
+   ],
+   [
+    "Then",
+    8.26,
+    8.38
+   ],
+   [
+    "it",
+    8.38,
+    8.56
+   ],
+   [
+    "successfully",
+    8.56,
+    8.92
+   ],
+   [
+    "drilled",
+    8.92,
+    9.32
+   ],
+   [
+    "its",
+    9.32,
+    9.46
+   ],
+   [
+    "49th",
+    9.46,
+    10.04
+   ],
+   [
+    "hole,",
+    10.04,
+    10.32
+   ],
+   [
+    "named",
+    10.32,
+    10.5
+   ],
+   [
+    "Nazca.",
+    10.5,
+    10.9
+   ],
+   [
+    "Scientists",
+    11.28,
+    11.5
+   ],
+   [
+    "analyzed",
+    11.5,
+    11.96
+   ],
+   [
+    "the",
+    11.96,
+    12.22
+   ],
+   [
+    "sample",
+    12.22,
+    12.48
+   ],
+   [
+    "to",
+    12.5,
+    12.66
+   ],
+   [
+    "uncover",
+    12.66,
+    12.98
+   ],
+   [
+    "ancient",
+    12.98,
+    13.36
+   ],
+   [
+    "environmental",
+    13.36,
+    13.9
+   ],
+   [
+    "conditions.",
+    13.9,
+    14.58
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   12,
+   23,
+   32
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/PIA21134_Curiosity_Rover_Finds_and_Examines_a_Meteorite_on_Mars%2C_Figure_1.jpg/960px-PIA21134_Curiosity_Rover_Finds_and_Examines_a_Meteorite_on_Mars%2C_Figure_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 643,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA21134_Curiosity_Rover_Finds_and_Examines_a_Meteorite_on_Mars,_Figure_1.jpg",
+   "desc": "PIA21134 Curiosity Rover Finds and Examines a Meteorite on Mars, Figure 1 — The dark, smooth-surfaced object at the center of this Oct. 30, 2016, image from the Mast Camera (Mastcam) on NASA's Curiosity Mars rover was examined with laser pulses and confirmed t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/PIA16160-Mars_Curiosity_Rover-APXS.jpg/960px-PIA16160-Mars_Curiosity_Rover-APXS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 541,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA16160-Mars_Curiosity_Rover-APXS.jpg",
+   "desc": "PIA16160-Mars Curiosity Rover-APXS — 09.12.2012 Portrait of APXS on Mars This image shows the Alpha Particle X-Ray Spectrometer (APXS) on NASA's Curiosity rover, with the Martian landscape in the background. The image was taken by Curiosity's Mast Camera on"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/A_Collage_Showing_49_Drill_Holes_Made_by_NASA%E2%80%99s_Curiosity_Mars_Rover_%28PIA26804%29.jpg/960px-A_Collage_Showing_49_Drill_Holes_Made_by_NASA%E2%80%99s_Curiosity_Mars_Rover_%28PIA26804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Collage_Showing_49_Drill_Holes_Made_by_NASA%E2%80%99s_Curiosity_Mars_Rover_(PIA26804).jpg",
+   "desc": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover (PIA26804) — This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosit"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Curiosity_Mars_Rover_Finds_Mineral_Match.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 643,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Curiosity_Mars_Rover_Finds_Mineral_Match.jpg",
+   "desc": "Curiosity Mars Rover Finds Mineral Match — NASA's Curiosity Mars Rover Finds Mineral Match Reddish rock powder from the first hole drilled into a Martian mountain by NASA's Curiosity rover has yielded the mission's first confirmation of a mineral mapped from o"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "potential crystals",
+   "box": [
+    363,
+    388,
+    584,
+    555
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 49,
+   "unit": "drill hole",
+   "label": "49th drill hole"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+ "pron_wer": 0.024,
+ "angle": 1,
+ "source": {
+  "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:54:13Z",
+ "trimmed": true
+}

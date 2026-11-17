@@ -131,7 +131,8 @@
   "nasa:1386999",
   "The Chattri",
   "Benjamin Disraeli",
-  "nasa:1350129"
+  "nasa:1350129",
+  "Kim Clijsters"
  ],
  "rejected": [
   "Chameleon",
@@ -152,7 +153,8 @@
   "Cholangiocarcinoma",
   "Black Moshannon State Park",
   "Murder of William de Cantilupe",
-  "California State Route 57"
+  "California State Route 57",
+  "Black hole"
  ],
  "angles": {
   "Blue whale": [
@@ -590,6 +592,9 @@
   ],
   "nasa:1350129": [
    "Hubble's Out-of-Sync Galaxy: An out-of-sync galaxy hides a chaotic secret."
+  ],
+  "Kim Clijsters": [
+   "Tennis Star Retired at 23: Kim Clijsters retired from tennis at just 23 years old."
   ]
  },
  "exhausted": []
