@@ -84,7 +84,8 @@
   "Anna Blackburne",
   "Neal Dow",
   "Capri-Sun",
-  "nasa:1307649"
+  "nasa:1307649",
+  "Alicia (album)"
  ],
  "rejected": [
   "Chameleon",
@@ -376,6 +377,9 @@
   ],
   "nasa:1307649": [
    "NASA's New Lunar AI: NASA and IBM just launched a lunar AI."
+  ],
+  "Alicia (album)": [
+   "The Secrets of Alicia: Alicia Keys collaborated more than ever before."
   ]
  },
  "exhausted": []

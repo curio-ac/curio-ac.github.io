@@ -1,0 +1,432 @@
+{
+ "id": "en-dbfd4a4d",
+ "lang": "en",
+ "title": "The Confederate President's Hidden Past",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "Jefferson Davis owned 113 slaves.",
+  "He was the only president of the Confederate States.",
+  "Before the Civil War, he served as the 23rd United States secretary of war.",
+  "He was born in Kentucky but grew up in Mississippi.",
+  "After graduating from the United States Military Academy, he served six years as an army lieutenant.",
+  "Tragically, his first wife died of malaria just three months after their wedding."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Jefferson",
+    0.28,
+    0.28
+   ],
+   [
+    "Davis",
+    0.28,
+    0.66
+   ],
+   [
+    "owned",
+    0.66,
+    1.04
+   ],
+   [
+    "113",
+    1.04,
+    2.08
+   ],
+   [
+    "slaves.",
+    2.08,
+    3.0
+   ],
+   [
+    "He",
+    3.36,
+    3.42
+   ],
+   [
+    "was",
+    3.42,
+    3.54
+   ],
+   [
+    "the",
+    3.54,
+    3.68
+   ],
+   [
+    "only",
+    3.68,
+    3.96
+   ],
+   [
+    "president",
+    3.96,
+    4.38
+   ],
+   [
+    "of",
+    4.56,
+    4.66
+   ],
+   [
+    "the",
+    4.66,
+    4.76
+   ],
+   [
+    "Confederate",
+    4.76,
+    5.22
+   ],
+   [
+    "States.",
+    5.22,
+    5.57
+   ],
+   [
+    "Before",
+    6.44,
+    6.64
+   ],
+   [
+    "the",
+    6.64,
+    6.84
+   ],
+   [
+    "Civil",
+    6.84,
+    7.06
+   ],
+   [
+    "War,",
+    7.06,
+    7.48
+   ],
+   [
+    "he",
+    7.68,
+    7.7
+   ],
+   [
+    "served",
+    7.7,
+    7.96
+   ],
+   [
+    "as",
+    7.96,
+    8.18
+   ],
+   [
+    "the",
+    8.18,
+    8.32
+   ],
+   [
+    "23rd",
+    8.36,
+    9.1
+   ],
+   [
+    "United",
+    9.1,
+    9.4
+   ],
+   [
+    "States",
+    9.4,
+    9.96
+   ],
+   [
+    "secretary",
+    10.02,
+    10.34
+   ],
+   [
+    "of",
+    10.36,
+    10.74
+   ],
+   [
+    "war.",
+    10.74,
+    11.08
+   ],
+   [
+    "He",
+    11.62,
+    11.72
+   ],
+   [
+    "was",
+    11.72,
+    11.84
+   ],
+   [
+    "born",
+    11.84,
+    12.08
+   ],
+   [
+    "in",
+    12.08,
+    12.24
+   ],
+   [
+    "Kentucky",
+    12.24,
+    12.64
+   ],
+   [
+    "but",
+    12.64,
+    13.02
+   ],
+   [
+    "grew",
+    13.02,
+    13.24
+   ],
+   [
+    "up",
+    13.24,
+    13.44
+   ],
+   [
+    "in",
+    13.52,
+    13.62
+   ],
+   [
+    "Mississippi.",
+    13.62,
+    14.14
+   ],
+   [
+    "After",
+    15.04,
+    15.14
+   ],
+   [
+    "graduating",
+    15.14,
+    15.58
+   ],
+   [
+    "from",
+    15.58,
+    15.9
+   ],
+   [
+    "the",
+    15.9,
+    16.0
+   ],
+   [
+    "United",
+    16.0,
+    16.22
+   ],
+   [
+    "States",
+    16.22,
+    16.6
+   ],
+   [
+    "Military",
+    16.6,
+    16.88
+   ],
+   [
+    "Academy,",
+    16.88,
+    17.66
+   ],
+   [
+    "he",
+    17.96,
+    18.02
+   ],
+   [
+    "served",
+    18.02,
+    18.32
+   ],
+   [
+    "six",
+    18.32,
+    18.68
+   ],
+   [
+    "years",
+    18.68,
+    19.06
+   ],
+   [
+    "as",
+    19.06,
+    19.34
+   ],
+   [
+    "an",
+    19.34,
+    19.46
+   ],
+   [
+    "army",
+    19.46,
+    19.64
+   ],
+   [
+    "lieutenant.",
+    19.64,
+    20.14
+   ],
+   [
+    "Tragically,",
+    20.88,
+    21.5
+   ],
+   [
+    "his",
+    21.68,
+    21.76
+   ],
+   [
+    "first",
+    21.76,
+    22.0
+   ],
+   [
+    "wife",
+    22.0,
+    22.26
+   ],
+   [
+    "died",
+    22.26,
+    22.48
+   ],
+   [
+    "of",
+    22.48,
+    22.62
+   ],
+   [
+    "malaria",
+    22.62,
+    22.92
+   ],
+   [
+    "just",
+    22.92,
+    23.48
+   ],
+   [
+    "three",
+    23.48,
+    23.86
+   ],
+   [
+    "months",
+    23.86,
+    24.14
+   ],
+   [
+    "after",
+    24.14,
+    24.52
+   ],
+   [
+    "their",
+    24.52,
+    24.7
+   ],
+   [
+    "wedding.",
+    24.7,
+    25.0
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   14,
+   28,
+   38,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Rosemont_Plantation%2C_home_of_Jefferson_Davis.JPG/960px-Rosemont_Plantation%2C_home_of_Jefferson_Davis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 477,
+   "license": "CC BY-SA 3.0",
+   "artist": "Bruceb28",
+   "page": "https://commons.wikimedia.org/wiki/File:Rosemont_Plantation,_home_of_Jefferson_Davis.JPG",
+   "desc": "Rosemont Plantation, home of Jefferson Davis — Rosemont, East of Woodville on Mississippi Highway 24 Woodville"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sarah_Knox_Taylor_Davis.jpg/960px-Sarah_Knox_Taylor_Davis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 838,
+   "license": "Public domain",
+   "artist": "Dsdugan",
+   "page": "https://commons.wikimedia.org/wiki/File:Sarah_Knox_Taylor_Davis.jpg",
+   "desc": "Sarah Knox Taylor Davis — Sarah Knox Taylor Davis"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 113,
+   "unit": "slaves",
+   "label": "owned slaves"
+  },
+  {
+   "type": "timeline",
+   "year": 1861
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q162269",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Jefferson Davis",
+  "url": "https://en.wikipedia.org/wiki/Jefferson_Davis",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:58:09Z",
+ "trimmed": true
+}
