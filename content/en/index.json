@@ -126,7 +126,8 @@
   "Chinese characters",
   "nasa:1472511",
   "Betsy Bakker-Nort",
-  "nasa:1277717"
+  "nasa:1277717",
+  "Guy Burgess"
  ],
  "rejected": [
   "Chameleon",
@@ -146,7 +147,8 @@
   "nasa:1278428",
   "Cholangiocarcinoma",
   "Black Moshannon State Park",
-  "Murder of William de Cantilupe"
+  "Murder of William de Cantilupe",
+  "California State Route 57"
  ],
  "angles": {
   "Blue whale": [
@@ -569,6 +571,9 @@
   ],
   "nasa:1277717": [
    "NASA Data Feeds River Forecasts: Space data tracks water extremes."
+  ],
+  "Guy Burgess": [
+   "The Ultimate Double Agent: A British diplomat was a Soviet spy."
   ]
  },
  "exhausted": []

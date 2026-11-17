@@ -1,0 +1,371 @@
+{
+ "id": "en-49d0d9a1",
+ "lang": "en",
+ "title": "Hubble Hits 200,000 Orbits!",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Hubble just hit 200,000 orbits!",
+  "Over 36 years, it traveled 5 billion miles in space.",
+  "It completed 1.7 million total observations so far.",
+  "Now, Hubble is hunting for a lensed supernova named Athena.",
+  "Massive galaxy cluster MACS J0417 bends and magnifies the light.",
+  "Tracking Athena helps measure how fast the universe expands."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Hubble",
+    0.12,
+    0.18
+   ],
+   [
+    "just",
+    0.18,
+    0.5
+   ],
+   [
+    "hit",
+    0.5,
+    0.74
+   ],
+   [
+    "200,000",
+    0.74,
+    1.56
+   ],
+   [
+    "orbits!",
+    1.56,
+    1.94
+   ],
+   [
+    "Over",
+    2.54,
+    2.74
+   ],
+   [
+    "36",
+    2.74,
+    3.1
+   ],
+   [
+    "years,",
+    3.1,
+    3.76
+   ],
+   [
+    "it",
+    3.78,
+    3.82
+   ],
+   [
+    "traveled",
+    3.82,
+    4.06
+   ],
+   [
+    "5",
+    4.06,
+    4.4
+   ],
+   [
+    "billion",
+    4.4,
+    4.68
+   ],
+   [
+    "miles",
+    4.68,
+    5.0
+   ],
+   [
+    "in",
+    5.0,
+    5.24
+   ],
+   [
+    "space.",
+    5.24,
+    5.76
+   ],
+   [
+    "It",
+    6.12,
+    6.2
+   ],
+   [
+    "completed",
+    6.26,
+    6.52
+   ],
+   [
+    "1.7",
+    6.52,
+    7.3
+   ],
+   [
+    "million",
+    7.3,
+    7.68
+   ],
+   [
+    "total",
+    7.68,
+    7.96
+   ],
+   [
+    "observations",
+    7.96,
+    8.58
+   ],
+   [
+    "so",
+    8.58,
+    8.92
+   ],
+   [
+    "far.",
+    8.92,
+    9.38
+   ],
+   [
+    "Now,",
+    9.86,
+    10.3
+   ],
+   [
+    "Hubble",
+    10.38,
+    10.5
+   ],
+   [
+    "is",
+    10.5,
+    10.7
+   ],
+   [
+    "hunting",
+    10.7,
+    10.9
+   ],
+   [
+    "for",
+    10.9,
+    11.22
+   ],
+   [
+    "a",
+    11.22,
+    11.34
+   ],
+   [
+    "lensed",
+    11.34,
+    11.76
+   ],
+   [
+    "supernova",
+    11.76,
+    12.18
+   ],
+   [
+    "named",
+    12.18,
+    12.6
+   ],
+   [
+    "Athena.",
+    12.6,
+    13.12
+   ],
+   [
+    "Massive",
+    13.66,
+    14.02
+   ],
+   [
+    "galaxy",
+    14.02,
+    14.28
+   ],
+   [
+    "cluster",
+    14.28,
+    14.78
+   ],
+   [
+    "MACS",
+    14.78,
+    15.68
+   ],
+   [
+    "J0417",
+    15.68,
+    16.74
+   ],
+   [
+    "bends",
+    16.74,
+    17.24
+   ],
+   [
+    "and",
+    17.24,
+    17.5
+   ],
+   [
+    "magnifies",
+    17.5,
+    18.02
+   ],
+   [
+    "the",
+    18.02,
+    18.2
+   ],
+   [
+    "light.",
+    18.2,
+    18.44
+   ],
+   [
+    "Tracking",
+    19.08,
+    19.36
+   ],
+   [
+    "Athena",
+    19.36,
+    19.78
+   ],
+   [
+    "helps",
+    19.78,
+    20.04
+   ],
+   [
+    "measure",
+    20.04,
+    20.38
+   ],
+   [
+    "how",
+    20.38,
+    20.56
+   ],
+   [
+    "fast",
+    20.56,
+    20.9
+   ],
+   [
+    "the",
+    20.9,
+    21.12
+   ],
+   [
+    "universe",
+    21.12,
+    21.38
+   ],
+   [
+    "expands.",
+    21.38,
+    21.96
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   15,
+   23,
+   33,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/NASA%E2%80%99s_Hubble_Seeks_Lensed_Supernova%2C_Marks_200%2C000_Orbits_%2855547261927%29.jpg/960px-NASA%E2%80%99s_Hubble_Seeks_Lensed_Supernova%2C_Marks_200%2C000_Orbits_%2855547261927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 435,
+   "license": "Public domain",
+   "artist": "NASA Hubble",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Hubble_Seeks_Lensed_Supernova,_Marks_200,000_Orbits_(55547261927).jpg",
+   "desc": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits (55547261927) — NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hubble_seeks_lensed_supernova%2C_marks_200%2C000_orbits_%28opo2623%29.jpg/960px-Hubble_seeks_lensed_supernova%2C_marks_200%2C000_orbits_%28opo2623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 434,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, STScI, M. Pascale (UCLA) Image Processing: J. DePasquale (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Hubble_seeks_lensed_supernova,_marks_200,000_orbits_(opo2623).jpg",
+   "desc": "Hubble seeks lensed supernova, marks 200,000 orbits (opo2623) — A dense galaxy cluster fills the image, with bright galaxies concentrated near the centre and numerous more distant galaxies visible throughout the dark background, including several faint, elonga"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Infographic_on_Hubble_Constant_%282020-04-4600%29.png/960px-Infographic_on_Hubble_Constant_%282020-04-4600%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA, ESA, and A. James (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Infographic_on_Hubble_Constant_(2020-04-4600).png",
+   "desc": "Infographic on Hubble Constant (2020-04-4600) — The Wide Divide in the Expansion Rate Measurements This graphic lists the variety of techniques astronomers have used to measure the expansion rate of the universe, known as the Hubble constant. Knowing the preci"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 200000,
+   "unit": "orbits",
+   "label": "Hubble orbits"
+  },
+  {
+   "type": "stat",
+   "value": 36,
+   "unit": "years",
+   "label": "in space"
+  },
+  {
+   "type": "stat",
+   "value": 1.7,
+   "unit": "million",
+   "label": "total observations"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:17:18Z",
+ "trimmed": true
+}
