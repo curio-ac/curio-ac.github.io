@@ -137,7 +137,8 @@
   "nasa:1479874",
   "nasa:1281254",
   "Ann Arbor, Michigan",
-  "After the Deluge (painting)"
+  "After the Deluge (painting)",
+  "Asimov's Science Fiction"
  ],
  "rejected": [
   "Chameleon",
@@ -165,7 +166,8 @@
   "2002 Football League First Division play-off final",
   "nasa:1480607",
   "nasa:1285516",
-  "nasa:1378211"
+  "nasa:1378211",
+  "William Barley"
  ],
  "angles": {
   "Blue whale": [
@@ -625,6 +627,9 @@
   ],
   "After the Deluge (painting)": [
    "Painting God Without Showing Him: This glowing painting shows the end of Noah's Flood."
+  ],
+  "Asimov's Science Fiction": [
+   "Asimov's Secret Magazine: Isaac Asimov lent his name to a 1977 magazine."
   ]
  },
  "exhausted": []

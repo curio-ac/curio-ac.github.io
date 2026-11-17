@@ -1,0 +1,378 @@
+{
+ "id": "en-c3a12c3c",
+ "lang": "en",
+ "title": "Cosmic Flashlights Reveal Space Dust",
+ "cat": "space",
+ "emoji": "✨",
+ "sentences": [
+  "When galaxies overlap, cosmic secrets are revealed.",
+  "A background galaxy acts like a flashlight shining through a nearer one.",
+  "This creates dark silhouettes from the backlit dust.",
+  "NASA's Overlap Zoo project needs your help to find them.",
+  "Volunteers verify galaxy pairs and map their outlines.",
+  "Your observations build the first large-scale catalog of these rare alignments."
+ ],
+ "tim": {
+  "w": [
+   [
+    "When",
+    0.26,
+    0.4
+   ],
+   [
+    "galaxies",
+    0.4,
+    0.88
+   ],
+   [
+    "overlap,",
+    0.88,
+    1.56
+   ],
+   [
+    "cosmic",
+    2.04,
+    2.3
+   ],
+   [
+    "secrets",
+    2.3,
+    2.78
+   ],
+   [
+    "are",
+    2.78,
+    3.08
+   ],
+   [
+    "revealed.",
+    3.08,
+    3.44
+   ],
+   [
+    "A",
+    4.1,
+    4.1
+   ],
+   [
+    "background",
+    4.1,
+    4.4
+   ],
+   [
+    "galaxy",
+    4.4,
+    4.92
+   ],
+   [
+    "acts",
+    4.92,
+    5.26
+   ],
+   [
+    "like",
+    5.26,
+    5.48
+   ],
+   [
+    "a",
+    5.48,
+    5.56
+   ],
+   [
+    "flashlight",
+    5.56,
+    6.08
+   ],
+   [
+    "shining",
+    6.08,
+    6.6
+   ],
+   [
+    "through",
+    6.6,
+    6.84
+   ],
+   [
+    "a",
+    6.84,
+    6.96
+   ],
+   [
+    "nearer",
+    6.96,
+    7.22
+   ],
+   [
+    "one.",
+    7.22,
+    7.32
+   ],
+   [
+    "This",
+    7.96,
+    7.98
+   ],
+   [
+    "creates",
+    8.14,
+    8.24
+   ],
+   [
+    "dark",
+    8.24,
+    8.58
+   ],
+   [
+    "silhouettes",
+    8.58,
+    9.1
+   ],
+   [
+    "from",
+    9.16,
+    9.26
+   ],
+   [
+    "the",
+    9.26,
+    9.36
+   ],
+   [
+    "backlit",
+    9.36,
+    9.68
+   ],
+   [
+    "dust.",
+    9.68,
+    9.9
+   ],
+   [
+    "NASA's",
+    10.82,
+    11.22
+   ],
+   [
+    "Overlap",
+    11.22,
+    11.8
+   ],
+   [
+    "Zoo",
+    11.8,
+    11.96
+   ],
+   [
+    "project",
+    11.96,
+    12.36
+   ],
+   [
+    "needs",
+    12.36,
+    12.68
+   ],
+   [
+    "your",
+    12.68,
+    12.84
+   ],
+   [
+    "help",
+    12.84,
+    13.0
+   ],
+   [
+    "to",
+    13.0,
+    13.14
+   ],
+   [
+    "find",
+    13.2,
+    13.3
+   ],
+   [
+    "them.",
+    13.3,
+    13.42
+   ],
+   [
+    "Volunteers",
+    14.22,
+    14.68
+   ],
+   [
+    "verify",
+    14.68,
+    14.9
+   ],
+   [
+    "galaxy",
+    14.9,
+    15.42
+   ],
+   [
+    "pairs",
+    15.42,
+    15.72
+   ],
+   [
+    "and",
+    15.72,
+    16.08
+   ],
+   [
+    "map",
+    16.08,
+    16.32
+   ],
+   [
+    "their",
+    16.38,
+    16.48
+   ],
+   [
+    "outlines.",
+    16.48,
+    16.76
+   ],
+   [
+    "Your",
+    17.32,
+    17.42
+   ],
+   [
+    "observations",
+    17.42,
+    17.92
+   ],
+   [
+    "build",
+    17.92,
+    18.38
+   ],
+   [
+    "the",
+    18.38,
+    18.52
+   ],
+   [
+    "first",
+    18.52,
+    18.8
+   ],
+   [
+    "large-scale",
+    19.08,
+    19.46
+   ],
+   [
+    "catalog",
+    19.46,
+    19.84
+   ],
+   [
+    "of",
+    19.84,
+    20.14
+   ],
+   [
+    "these",
+    20.2,
+    20.32
+   ],
+   [
+    "rare",
+    20.32,
+    20.58
+   ],
+   [
+    "alignments.",
+    20.58,
+    21.02
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   27,
+   37,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Galactic_Silhouettes.jpg/960px-Galactic_Silhouettes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 663,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Galactic_Silhouettes.jpg",
+   "desc": "Galactic Silhouettes — This new image from NASA's Hubble Space Telescope and its Wide Field and Planetary Camera 2 (WFPC2) shows the unique galaxy pair called NGC 3314. Through an extraordinary chance alignment, a face-on spiral galaxy lies pr"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "background galaxy",
+   "box": [
+    161,
+    63,
+    892,
+    987
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "dark silhouettes",
+   "box": [
+    314,
+    147,
+    763,
+    790
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Help Overlap Zoo Reveal Cosmic Dust",
+  "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T16:36:40Z",
+ "trimmed": true
+}
