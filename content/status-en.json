@@ -3,6 +3,17 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-17T13:35:18Z",
+   "made": 13,
+   "rejected": 0,
+   "repaired": 2,
+   "calls": 117,
+   "notes": [
+    "Bulgaria: 'list' object has no attribute 'get'",
+    "AI Mark IV radar: 'list' object has no attribute 'get'"
+   ]
+  },
+  {
    "at": "2026-11-17T12:10:15Z",
    "made": 15,
    "rejected": 0,
