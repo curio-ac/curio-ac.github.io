@@ -1,0 +1,390 @@
+{
+ "id": "en-f9fa1590",
+ "lang": "en",
+ "title": "The Chattri WWI Memorial",
+ "cat": "history",
+ "emoji": "🇮🇳",
+ "sentences": [
+  "A WWI memorial sits in southern England.",
+  "It honors 74 Indian soldiers who died in Brighton hospitals.",
+  "Over a million Indians fought in the British Indian Army.",
+  "More than 4300 were treated in Brighton.",
+  "53 Hindus and Sikhs were cremated on this exact hilltop.",
+  "The white marble dome was unveiled in 1921."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.32,
+    0.32
+   ],
+   [
+    "WWI",
+    0.32,
+    1.1
+   ],
+   [
+    "memorial",
+    1.1,
+    1.44
+   ],
+   [
+    "sits",
+    1.44,
+    1.84
+   ],
+   [
+    "in",
+    1.84,
+    2.06
+   ],
+   [
+    "southern",
+    2.06,
+    2.24
+   ],
+   [
+    "England.",
+    2.24,
+    2.9
+   ],
+   [
+    "It",
+    3.24,
+    3.32
+   ],
+   [
+    "honors",
+    3.4,
+    3.56
+   ],
+   [
+    "74",
+    3.56,
+    4.14
+   ],
+   [
+    "Indian",
+    4.14,
+    4.56
+   ],
+   [
+    "soldiers",
+    4.56,
+    4.98
+   ],
+   [
+    "who",
+    4.98,
+    5.34
+   ],
+   [
+    "died",
+    5.34,
+    5.54
+   ],
+   [
+    "in",
+    5.54,
+    5.7
+   ],
+   [
+    "Brighton",
+    5.7,
+    6.02
+   ],
+   [
+    "hospitals.",
+    6.02,
+    6.66
+   ],
+   [
+    "Over",
+    7.04,
+    7.22
+   ],
+   [
+    "a",
+    7.22,
+    7.38
+   ],
+   [
+    "million",
+    7.38,
+    7.64
+   ],
+   [
+    "Indians",
+    7.64,
+    8.0
+   ],
+   [
+    "fought",
+    8.0,
+    8.36
+   ],
+   [
+    "in",
+    8.36,
+    8.58
+   ],
+   [
+    "the",
+    8.58,
+    8.66
+   ],
+   [
+    "British",
+    8.66,
+    8.88
+   ],
+   [
+    "Indian",
+    8.88,
+    9.24
+   ],
+   [
+    "Army.",
+    9.24,
+    9.8
+   ],
+   [
+    "More",
+    10.28,
+    10.38
+   ],
+   [
+    "than",
+    10.38,
+    10.52
+   ],
+   [
+    "4300",
+    10.52,
+    11.12
+   ],
+   [
+    "were",
+    11.12,
+    11.54
+   ],
+   [
+    "treated",
+    11.54,
+    11.82
+   ],
+   [
+    "in",
+    11.82,
+    12.04
+   ],
+   [
+    "Brighton.",
+    12.04,
+    12.62
+   ],
+   [
+    "53",
+    13.02,
+    13.32
+   ],
+   [
+    "Hindus",
+    13.32,
+    13.72
+   ],
+   [
+    "and",
+    13.72,
+    13.96
+   ],
+   [
+    "Sikhs",
+    13.96,
+    14.34
+   ],
+   [
+    "were",
+    14.34,
+    14.44
+   ],
+   [
+    "cremated",
+    14.44,
+    14.88
+   ],
+   [
+    "on",
+    14.88,
+    15.12
+   ],
+   [
+    "this",
+    15.12,
+    15.28
+   ],
+   [
+    "exact",
+    15.28,
+    15.56
+   ],
+   [
+    "hilltop.",
+    15.56,
+    16.16
+   ],
+   [
+    "The",
+    16.7,
+    16.78
+   ],
+   [
+    "white",
+    16.78,
+    17.0
+   ],
+   [
+    "marble",
+    17.0,
+    17.28
+   ],
+   [
+    "dome",
+    17.28,
+    17.6
+   ],
+   [
+    "was",
+    17.6,
+    17.82
+   ],
+   [
+    "unveiled",
+    17.82,
+    18.2
+   ],
+   [
+    "in",
+    18.2,
+    18.5
+   ],
+   [
+    "1921.",
+    18.5,
+    19.25
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   27,
+   34,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/The_Chattri%2C_Brighton_06_%28cropped%29.jpg/960px-The_Chattri%2C_Brighton_06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 744,
+   "license": "CC BY 4.0",
+   "artist": "HJ Mitchell",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chattri,_Brighton_06_(cropped).jpg",
+   "desc": "The Chattri, Brighton 06 (cropped) — The Chattri war memorial in the hills above Brighton, East Sussex, England. Commemorates Indian soldiers who died in nearby hospitals in WWI."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Names_at_the_Chattri%2C_Brighton.jpg/960px-Names_at_the_Chattri%2C_Brighton.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "HJ Mitchell",
+   "page": "https://commons.wikimedia.org/wiki/File:Names_at_the_Chattri,_Brighton.jpg",
+   "desc": "Names at the Chattri, Brighton — Wall bearing names of the dead at the Chattri memorial, Brighton, England"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Indian_cavalry%2C_Western_Front%2C_during_World_War_I._This_is_one_of_a_number_of_photographs_showing_the_Indian_cavalry_who_fought_with_the_Allies._In_the_autumn_of_1914%2C_the_urgent_need_for_trained_%284687922433%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 554,
+   "license": "No restrictions",
+   "artist": "National Library of Scotland",
+   "page": "https://commons.wikimedia.org/wiki/File:Indian_cavalry,_Western_Front,_during_World_War_I._This_is_one_of_a_number_of_photographs_showing_the_Indian_cavalry_who_fought_with_the_Allies._In_the_autumn_of_1914,_the_urgent_need_for_trained_(4687922433).jpg",
+   "desc": "Indian cavalry, Western Front, during World War I. This is one of a number of photographs showing the Indian cavalry who fought with the Allies. In the autumn of 1914, the urgent need for trained (4687922433) — Indian cavalry, Western Front, during World War I"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Chattri%2C_Brighton_12.jpg/960px-The_Chattri%2C_Brighton_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "HJ Mitchell",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chattri,_Brighton_12.jpg",
+   "desc": "The Chattri, Brighton 12 — The Chattri war memorial in the hills above Brighton, East Sussex, England. Commemorates Indian soldiers who died in nearby hospitals in WWI."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Chattri_front_view_2024-07-19.jpg/960px-Chattri_front_view_2024-07-19.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Chattri_front_view_2024-07-19.jpg",
+   "desc": "Chattri front view 2024-07-19 — Chattri front view"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "map"
+  },
+  {
+   "type": "stat",
+   "value": 74,
+   "unit": "soldiers",
+   "label": "Indian soldiers"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4300,
+   "unit": "treated",
+   "label": "treated in Brighton"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1921
+  }
+ ],
+ "geo": [
+  50.884,
+  -0.147
+ ],
+ "qid": "Q5087967",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "The Chattri",
+  "url": "https://en.wikipedia.org/wiki/The_Chattri",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:24:39Z",
+ "trimmed": true
+}

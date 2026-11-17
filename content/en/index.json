@@ -127,7 +127,8 @@
   "nasa:1472511",
   "Betsy Bakker-Nort",
   "nasa:1277717",
-  "Guy Burgess"
+  "Guy Burgess",
+  "nasa:1386999"
  ],
  "rejected": [
   "Chameleon",
@@ -574,6 +575,9 @@
   ],
   "Guy Burgess": [
    "The Ultimate Double Agent: A British diplomat was a Soviet spy."
+  ],
+  "nasa:1386999": [
+   "Hubble Hits 200,000 Orbits!: Hubble just hit 200,000 orbits!"
   ]
  },
  "exhausted": []
