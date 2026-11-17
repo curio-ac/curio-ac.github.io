@@ -1,0 +1,434 @@
+{
+ "id": "en-c543c92b",
+ "lang": "en",
+ "title": "New York's Skyscraper Secret",
+ "cat": "history",
+ "emoji": "🏙️",
+ "sentences": [
+  "It was once the world's third-tallest building!",
+  "Constructed between 1930 and 1932, 70 Pine Street stands 952 feet.",
+  "This 67-story skyscraper originally housed the Cities Service Company.",
+  "Its brick, limestone, and gneiss facade features solar motifs.",
+  "The interior contains an Art Deco lobby and double-deck elevators.",
+  "A 3-story penthouse was intended for the founder, Henry Latham Doherty."
+ ],
+ "tim": {
+  "w": [
+   [
+    "It",
+    0.2,
+    0.32
+   ],
+   [
+    "was",
+    0.32,
+    0.44
+   ],
+   [
+    "once",
+    0.44,
+    0.68
+   ],
+   [
+    "the",
+    0.68,
+    0.88
+   ],
+   [
+    "world's",
+    0.88,
+    1.22
+   ],
+   [
+    "third-tallest",
+    1.36,
+    2.1
+   ],
+   [
+    "building!",
+    2.1,
+    2.2
+   ],
+   [
+    "Constructed",
+    3.26,
+    3.66
+   ],
+   [
+    "between",
+    3.66,
+    3.88
+   ],
+   [
+    "1930",
+    3.88,
+    4.56
+   ],
+   [
+    "and",
+    4.56,
+    4.8
+   ],
+   [
+    "1932,",
+    4.8,
+    5.8
+   ],
+   [
+    "70",
+    6.18,
+    6.3
+   ],
+   [
+    "Pine",
+    6.3,
+    6.58
+   ],
+   [
+    "Street",
+    6.58,
+    6.84
+   ],
+   [
+    "stands",
+    6.84,
+    7.14
+   ],
+   [
+    "952",
+    7.14,
+    8.46
+   ],
+   [
+    "feet.",
+    8.46,
+    8.56
+   ],
+   [
+    "This",
+    9.3,
+    9.46
+   ],
+   [
+    "67-story",
+    9.46,
+    10.42
+   ],
+   [
+    "skyscraper",
+    10.96,
+    11.06
+   ],
+   [
+    "originally",
+    11.06,
+    11.6
+   ],
+   [
+    "housed",
+    11.6,
+    12.02
+   ],
+   [
+    "the",
+    12.02,
+    12.26
+   ],
+   [
+    "Cities",
+    12.26,
+    12.48
+   ],
+   [
+    "Service",
+    12.48,
+    12.88
+   ],
+   [
+    "Company.",
+    12.88,
+    13.06
+   ],
+   [
+    "Its",
+    13.96,
+    14.12
+   ],
+   [
+    "brick,",
+    14.12,
+    14.46
+   ],
+   [
+    "limestone,",
+    14.64,
+    15.16
+   ],
+   [
+    "and",
+    15.26,
+    15.3
+   ],
+   [
+    "gneiss",
+    15.3,
+    15.58
+   ],
+   [
+    "facade",
+    15.58,
+    15.92
+   ],
+   [
+    "features",
+    15.92,
+    16.3
+   ],
+   [
+    "solar",
+    16.3,
+    16.78
+   ],
+   [
+    "motifs.",
+    16.78,
+    17.34
+   ],
+   [
+    "The",
+    18.02,
+    18.1
+   ],
+   [
+    "interior",
+    18.1,
+    18.44
+   ],
+   [
+    "contains",
+    18.44,
+    18.88
+   ],
+   [
+    "an",
+    18.88,
+    19.1
+   ],
+   [
+    "Art",
+    19.1,
+    19.3
+   ],
+   [
+    "Deco",
+    19.3,
+    19.52
+   ],
+   [
+    "lobby",
+    19.64,
+    19.86
+   ],
+   [
+    "and",
+    19.9,
+    20.22
+   ],
+   [
+    "double-deck",
+    20.22,
+    20.74
+   ],
+   [
+    "elevators.",
+    20.74,
+    21.02
+   ],
+   [
+    "A",
+    21.86,
+    21.96
+   ],
+   [
+    "3-story",
+    22.02,
+    22.28
+   ],
+   [
+    "penthouse",
+    22.28,
+    22.76
+   ],
+   [
+    "was",
+    22.76,
+    22.94
+   ],
+   [
+    "intended",
+    22.94,
+    23.3
+   ],
+   [
+    "for",
+    23.3,
+    23.6
+   ],
+   [
+    "the",
+    23.6,
+    23.68
+   ],
+   [
+    "founder,",
+    23.68,
+    24.1
+   ],
+   [
+    "Henry",
+    24.38,
+    24.5
+   ],
+   [
+    "Latham",
+    24.5,
+    24.94
+   ],
+   [
+    "Doherty.",
+    24.94,
+    25.22
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   27,
+   36,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/American_International_Building3_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1296,
+   "license": "CC BY-SA 3.0",
+   "artist": "Clément Bardot",
+   "page": "https://commons.wikimedia.org/wiki/File:American_International_Building3_(cropped).JPG",
+   "desc": "American International Building3 (cropped) — L'American International Building (gratte-ciel de Manhattan, sis au n°70 Pine Street, à New York)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/American_International_Building_%28feb_2013%29_straighten.jpg/960px-American_International_Building_%28feb_2013%29_straighten.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1200,
+   "license": "CC BY-SA 4.0",
+   "artist": "Eden, Janine and Jim",
+   "page": "https://commons.wikimedia.org/wiki/File:American_International_Building_(feb_2013)_straighten.jpg",
+   "desc": "American International Building (feb 2013) straighten — 70 Pine Street"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Citiesservicemodel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1238,
+   "license": "Public domain",
+   "artist": "Junkyard kahrs at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Citiesservicemodel.jpg",
+   "desc": "Citiesservicemodel — Author: John Kahrs"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/70_PINE_exteriors2.jpg/960px-70_PINE_exteriors2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 731,
+   "license": "CC BY-SA 4.0",
+   "artist": "Floral4",
+   "page": "https://commons.wikimedia.org/wiki/File:70_PINE_exteriors2.jpg",
+   "desc": "70 PINE exteriors2 — Exterior facade of 70 Pine St (Financial District in NYC)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/OHNY_70_Pine_Street_3.jpg/960px-OHNY_70_Pine_Street_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 525,
+   "license": "CC BY-SA 4.0",
+   "artist": "Steven Bornholtz",
+   "page": "https://commons.wikimedia.org/wiki/File:OHNY_70_Pine_Street_3.jpg",
+   "desc": "OHNY 70 Pine Street 3 — 70 Pine Street - Open Access: The security watches the residential entrance near the front of the building."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/DOHERTY%2C_HENRY_LCCN2016862404.jpg/960px-DOHERTY%2C_HENRY_LCCN2016862404.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 899,
+   "license": "Public domain",
+   "artist": "Harris &amp; Ewing, photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:DOHERTY,_HENRY_LCCN2016862404.jpg",
+   "desc": "DOHERTY, HENRY LCCN2016862404 — Title: DOHERTY, HENRY Abstract/medium: 1 negative : glass ; 8 x 10 in. or smaller"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "rd",
+   "label": "tallest building"
+  },
+  {
+   "type": "timeline",
+   "year": 1930
+  },
+  {
+   "type": "stat",
+   "value": 67,
+   "unit": "stories",
+   "label": "skyscraper"
+  },
+  {
+   "type": "focus",
+   "target": "brick, limestone, and gneiss facade",
+   "box": [
+    128,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "story",
+   "label": "penthouse"
+  }
+ ],
+ "geo": [
+  40.706,
+  -74.007
+ ],
+ "qid": "Q262041",
+ "pron_wer": 0.065,
+ "angle": 1,
+ "source": {
+  "title": "70 Pine Street",
+  "url": "https://en.wikipedia.org/wiki/70_Pine_Street",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:10:48Z",
+ "trimmed": true
+}

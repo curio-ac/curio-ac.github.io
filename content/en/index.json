@@ -80,7 +80,8 @@
   "Astronomica (Manilius)",
   "nasa:1506766",
   "Cholangiocarcinoma",
-  "Castle"
+  "Castle",
+  "Anna Blackburne"
  ],
  "rejected": [
   "Chameleon",
@@ -357,6 +358,9 @@
   ],
   "Castle": [
    "Castles Were Never Just Homes: Castles were offensive bases, not just homes."
+  ],
+  "Anna Blackburne": [
+   "Anna Blackburne's Natural History Museum: Anna Blackburne built her own natural history museum."
   ]
  },
  "exhausted": []
