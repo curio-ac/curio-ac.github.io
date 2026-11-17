@@ -109,7 +109,8 @@
   "nasa:1378514",
   "nasa:1489375",
   "Black American Sign Language",
-  "nasa:1276870"
+  "nasa:1276870",
+  "Apollo 11"
  ],
  "rejected": [
   "Chameleon",
@@ -492,6 +493,9 @@
   ],
   "nasa:1276870": [
    "Moon Germs Are Real: Human germs might survive on the Moon."
+  ],
+  "Apollo 11": [
+   "The First Moon Landing: Humans first landed on the Moon in 1969."
   ]
  },
  "exhausted": []
