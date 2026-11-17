@@ -86,7 +86,8 @@
   "Capri-Sun",
   "nasa:1307649",
   "Alicia (album)",
-  "Jefferson Davis"
+  "Jefferson Davis",
+  "nasa:1490468"
  ],
  "rejected": [
   "Chameleon",
@@ -384,6 +385,9 @@
   ],
   "Jefferson Davis": [
    "The Confederate President's Hidden Past: Jefferson Davis owned 113 slaves."
+  ],
+  "nasa:1490468": [
+   "Autumn in Bieszczady Mountains: Poland’s forests are turning red and gold."
   ]
  },
  "exhausted": []

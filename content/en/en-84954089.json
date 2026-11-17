@@ -1,0 +1,464 @@
+{
+ "id": "en-84954089",
+ "lang": "en",
+ "title": "A Coin's Political Delay",
+ "cat": "history",
+ "emoji": "🪙",
+ "sentences": [
+  "A coin changed because of an election.",
+  "The 1921 Alabama Centennial half dollar was a belated anniversary celebration.",
+  "Laura Gardin Fraser designed it, becoming the first woman to design a coin.",
+  "Congress originally planned for commemorative quarters, but changed them to halves.",
+  "Production stalled because sponsors waited to see if President Wilson would lose.",
+  "They ultimately replaced his portrait with Alabama's first and current governors."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.44
+   ],
+   [
+    "coin",
+    0.5,
+    0.7
+   ],
+   [
+    "changed",
+    0.7,
+    1.08
+   ],
+   [
+    "because",
+    1.08,
+    1.44
+   ],
+   [
+    "of",
+    1.44,
+    1.68
+   ],
+   [
+    "an",
+    1.68,
+    1.78
+   ],
+   [
+    "election.",
+    1.78,
+    2.2
+   ],
+   [
+    "The",
+    2.76,
+    2.82
+   ],
+   [
+    "1921",
+    2.82,
+    3.66
+   ],
+   [
+    "Alabama",
+    3.66,
+    4.24
+   ],
+   [
+    "Centennial",
+    4.24,
+    4.98
+   ],
+   [
+    "half",
+    4.98,
+    5.24
+   ],
+   [
+    "dollar",
+    5.24,
+    5.58
+   ],
+   [
+    "was",
+    5.58,
+    6.02
+   ],
+   [
+    "a",
+    6.02,
+    6.12
+   ],
+   [
+    "belated",
+    6.12,
+    6.46
+   ],
+   [
+    "anniversary",
+    6.46,
+    7.08
+   ],
+   [
+    "celebration.",
+    7.08,
+    7.98
+   ],
+   [
+    "Laura",
+    8.6,
+    8.76
+   ],
+   [
+    "Gardin",
+    8.76,
+    9.18
+   ],
+   [
+    "Fraser",
+    9.18,
+    9.44
+   ],
+   [
+    "designed",
+    9.44,
+    10.0
+   ],
+   [
+    "it,",
+    10.0,
+    10.12
+   ],
+   [
+    "becoming",
+    10.54,
+    10.74
+   ],
+   [
+    "the",
+    10.74,
+    11.02
+   ],
+   [
+    "first",
+    11.06,
+    11.22
+   ],
+   [
+    "woman",
+    11.22,
+    11.54
+   ],
+   [
+    "to",
+    11.54,
+    11.74
+   ],
+   [
+    "design",
+    11.82,
+    12.06
+   ],
+   [
+    "a",
+    12.06,
+    12.2
+   ],
+   [
+    "coin.",
+    12.2,
+    12.3
+   ],
+   [
+    "Congress",
+    13.1,
+    13.38
+   ],
+   [
+    "originally",
+    13.38,
+    13.84
+   ],
+   [
+    "planned",
+    13.84,
+    14.32
+   ],
+   [
+    "for",
+    14.32,
+    14.5
+   ],
+   [
+    "commemorative",
+    14.6,
+    15.06
+   ],
+   [
+    "quarters,",
+    15.06,
+    15.4
+   ],
+   [
+    "but",
+    15.92,
+    16.02
+   ],
+   [
+    "changed",
+    16.02,
+    16.34
+   ],
+   [
+    "them",
+    16.34,
+    16.6
+   ],
+   [
+    "to",
+    16.6,
+    16.76
+   ],
+   [
+    "halves.",
+    16.76,
+    17.06
+   ],
+   [
+    "Production",
+    17.78,
+    17.94
+   ],
+   [
+    "stalled",
+    17.94,
+    18.58
+   ],
+   [
+    "because",
+    18.58,
+    18.84
+   ],
+   [
+    "sponsors",
+    18.84,
+    19.32
+   ],
+   [
+    "waited",
+    19.46,
+    19.76
+   ],
+   [
+    "to",
+    19.76,
+    19.98
+   ],
+   [
+    "see",
+    19.98,
+    20.24
+   ],
+   [
+    "if",
+    20.24,
+    20.66
+   ],
+   [
+    "President",
+    20.82,
+    21.06
+   ],
+   [
+    "Wilson",
+    21.06,
+    21.52
+   ],
+   [
+    "would",
+    21.52,
+    21.74
+   ],
+   [
+    "lose.",
+    21.74,
+    22.08
+   ],
+   [
+    "They",
+    22.72,
+    22.82
+   ],
+   [
+    "ultimately",
+    22.82,
+    23.28
+   ],
+   [
+    "replaced",
+    23.28,
+    23.82
+   ],
+   [
+    "his",
+    23.82,
+    24.02
+   ],
+   [
+    "portrait",
+    24.2,
+    24.46
+   ],
+   [
+    "with",
+    24.46,
+    24.66
+   ],
+   [
+    "Alabama's",
+    24.66,
+    25.44
+   ],
+   [
+    "first",
+    25.44,
+    25.68
+   ],
+   [
+    "and",
+    25.68,
+    25.9
+   ],
+   [
+    "current",
+    25.9,
+    26.22
+   ],
+   [
+    "governors.",
+    26.22,
+    26.6
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   31,
+   42,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/1921_Alabama_Centennial_half_dollar_%28without_2X2%29_obverse.jpg/960px-1921_Alabama_Centennial_half_dollar_%28without_2X2%29_obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Numismatic Guaranty Corporation",
+   "page": "https://commons.wikimedia.org/wiki/File:1921_Alabama_Centennial_half_dollar_(without_2X2)_obverse.jpg",
+   "desc": "1921 Alabama Centennial half dollar (without 2X2) obverse — 1921 Alabama Centennial half dollar (without 2X2) obverse"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Alabama_centennial_half_dollar_commemorative.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 341,
+   "license": "Public domain",
+   "artist": "Bobby131313 (photography)",
+   "page": "https://commons.wikimedia.org/wiki/File:Alabama_centennial_half_dollar_commemorative.png",
+   "desc": "Alabama centennial half dollar commemorative — Alabama Centennial half dollar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Flickr_-_USCapitol_-_Laura_Gardin_Fraser_%281889-1966%29_-_Women_Artists.jpg/960px-Flickr_-_USCapitol_-_Laura_Gardin_Fraser_%281889-1966%29_-_Women_Artists.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 978,
+   "license": "Public domain",
+   "artist": "USCapitol",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_USCapitol_-_Laura_Gardin_Fraser_(1889-1966)_-_Women_Artists.jpg",
+   "desc": "Flickr - USCapitol - Laura Gardin Fraser (1889-1966) - Women Artists — Sculptor of three relief portrait plaques of lawgivers in the House Chamber: Colbert, Edward I, Papinian."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Harding_at_Birmingham.jpg/960px-Harding_at_Birmingham.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 670,
+   "license": "Public domain",
+   "artist": "Keystone View Company",
+   "page": "https://commons.wikimedia.org/wiki/File:Harding_at_Birmingham.jpg",
+   "desc": "Harding at Birmingham — Warren G. Harding addresses a crowd in Birmingham, AL on race relations"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Alabama_centennial_half_dollar_commemorative.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 332,
+   "license": "Public domain",
+   "artist": "Bobby131313 (photography)",
+   "page": "https://commons.wikimedia.org/wiki/File:Alabama_centennial_half_dollar_commemorative.jpg",
+   "desc": "Alabama centennial half dollar commemorative — Alabama Centennial half dollar"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1921
+  },
+  {
+   "type": "focus",
+   "target": "Laura Gardin Fraser",
+   "box": [
+    366,
+    375,
+    991,
+    735
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 1920,
+   "unit": "year",
+   "label": "Act of May"
+  },
+  {
+   "type": "timeline",
+   "year": 1920
+  },
+  {
+   "type": "focus",
+   "target": "William Bibb portrait",
+   "box": [
+    178,
+    126,
+    825,
+    395
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q4705364",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Alabama Centennial half dollar",
+  "url": "https://en.wikipedia.org/wiki/Alabama_Centennial_half_dollar",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:59:54Z",
+ "trimmed": true
+}
