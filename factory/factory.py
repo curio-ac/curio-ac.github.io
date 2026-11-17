@@ -384,16 +384,31 @@ def trim(mp3, tim):
 
 
 def local_tts(text, lang, mp3):
-    """Open-source fallback voice (no quota): Phonikud+Piper for Hebrew, Kokoro for English."""
+    """Open-source fallback voice (no quota): Phonikud+Piper for Hebrew, Chatterbox (lively, MIT) for English."""
     import numpy as np
     if lang == "he":
         from phonikud_tts import Phonikud as PK, phonemize, Piper
         samples, rate = Piper("tts-model.onnx", "tts-model.config.json").create(phonemize(PK("phonikud-1.0.int8.onnx").add_diacritics(text)), is_phonemes=True)
     else:
-        from kokoro import KPipeline
-        samples = np.concatenate([a for _, _, a in KPipeline(lang_code="a")(text, voice="am_michael", speed=1.15)]); rate = 24000
+        global _CB
+        if "_CB" not in globals():
+            from chatterbox.tts import ChatterboxTTS
+            _CB = ChatterboxTTS.from_pretrained(device="cpu")
+        samples = _CB.generate(text, exaggeration=0.6, cfg_weight=0.35).squeeze().numpy(); rate = _CB.sr
     pcm = (np.clip(np.asarray(samples).flatten(), -1, 1) * 32767).astype("<i2").tobytes()
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "s16le", "-ar", str(rate), "-ac", "1", "-i", "-", "-b:a", "64k", mp3], input=pcm, check=True)
+    if lang != "he":
+        tempo(mp3, EN_TEMPO["local"])
+
+
+# owner's pacing call: Gemini English a bit faster, Chatterbox a bit slower
+EN_TEMPO = {"gemini": 1.08, "local": 0.92}
+
+
+def tempo(mp3, f):
+    tmp = mp3 + ".t.mp3"
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-filter:a", f"atempo={f}", "-b:a", "64k", tmp], check=True)
+    os.replace(tmp, mp3)
 
 
 def rebuild_feed(lang=None):
@@ -456,6 +471,8 @@ def record(lang, sentences, mp3, stats):
     for m in list(models):
         try:
             tts(m, spoken, lang, mp3); stats["calls"] += 1
+            if lang != "he":
+                tempo(mp3, EN_TEMPO["gemini"])
         except (Quota, RuntimeError) as e:
             if isinstance(e, RuntimeError) and not re.match(r"(timeout|503|429|404)", str(e)):
                 raise
@@ -474,7 +491,7 @@ def record(lang, sentences, mp3, stats):
         local_tts(spoken, lang, mp3); tim = align(mp3, sentences, lang); trim(mp3, tim)
         w, _ = check(mp3, shown, lang)
         if w <= MAX_WER:
-            return "open-source (kokoro)", tim, w
+            return "open-source (chatterbox)", tim, w
         worst = w
     raise BadVoice(f"{round((worst or 1)*100,1)}% of words misheard")
 

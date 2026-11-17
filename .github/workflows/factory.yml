@@ -41,7 +41,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
-          key: asr-v1
+          key: asr-v2-chatterbox
       - if: steps.chk.outputs.run == '1'
         name: install
         run: |

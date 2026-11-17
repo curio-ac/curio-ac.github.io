@@ -5,3 +5,4 @@ phonikud-tts
 kokoro
 soundfile
 faster-whisper
+chatterbox-tts
