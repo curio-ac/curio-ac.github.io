@@ -91,7 +91,8 @@
   "Alabama Centennial half dollar",
   "Cædwalla",
   "nasa:1463889",
-  "AI Mark IV radar"
+  "AI Mark IV radar",
+  "Cloud Gate"
  ],
  "rejected": [
   "Chameleon",
@@ -409,6 +410,9 @@
   ],
   "AI Mark IV radar": [
    "The World's First Air Radar: This was the world's first operational air-to-air radar."
+  ],
+  "Cloud Gate": [
+   "The Secrets of The Bean: Chicago’s famous Bean weighs 110 tons."
   ]
  },
  "exhausted": []
