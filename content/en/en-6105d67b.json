@@ -1,0 +1,395 @@
+{
+ "id": "en-6105d67b",
+ "lang": "en",
+ "title": "Webb: Hubble’s Massive Successor",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "The James Webb Telescope is the largest in space.",
+  "It views objects too old or faint for Hubble.",
+  "Webb observes in infrared, while Hubble uses visible light.",
+  "Its mirror is 2.7 times wider than Hubble’s mirror.",
+  "It launched on an Ariane 5 rocket in 2021.",
+  "Now it orbits the Sun near the Sun-Earth L2 Lagrange point."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.35,
+    0.35
+   ],
+   [
+    "James",
+    0.35,
+    0.65
+   ],
+   [
+    "Webb",
+    0.65,
+    0.91
+   ],
+   [
+    "Telescope",
+    0.91,
+    1.55
+   ],
+   [
+    "is",
+    1.55,
+    1.69
+   ],
+   [
+    "the",
+    1.69,
+    1.83
+   ],
+   [
+    "largest",
+    1.97,
+    2.25
+   ],
+   [
+    "in",
+    2.25,
+    2.49
+   ],
+   [
+    "space.",
+    2.49,
+    3.14
+   ],
+   [
+    "It",
+    3.47,
+    3.49
+   ],
+   [
+    "views",
+    3.49,
+    3.75
+   ],
+   [
+    "objects",
+    3.75,
+    4.17
+   ],
+   [
+    "too",
+    4.17,
+    4.47
+   ],
+   [
+    "old",
+    4.47,
+    4.87
+   ],
+   [
+    "or",
+    4.87,
+    5.05
+   ],
+   [
+    "faint",
+    5.05,
+    5.33
+   ],
+   [
+    "for",
+    5.33,
+    5.55
+   ],
+   [
+    "Hubble.",
+    5.55,
+    5.75
+   ],
+   [
+    "Webb",
+    6.33,
+    6.45
+   ],
+   [
+    "observes",
+    6.45,
+    6.97
+   ],
+   [
+    "in",
+    6.97,
+    7.19
+   ],
+   [
+    "infrared,",
+    7.19,
+    7.79
+   ],
+   [
+    "while",
+    8.19,
+    8.33
+   ],
+   [
+    "Hubble",
+    8.33,
+    8.59
+   ],
+   [
+    "uses",
+    8.59,
+    8.93
+   ],
+   [
+    "visible",
+    8.93,
+    9.33
+   ],
+   [
+    "light.",
+    9.33,
+    9.69
+   ],
+   [
+    "Its",
+    10.31,
+    10.45
+   ],
+   [
+    "mirror",
+    10.45,
+    10.77
+   ],
+   [
+    "is",
+    10.77,
+    11.05
+   ],
+   [
+    "2.7",
+    11.05,
+    11.89
+   ],
+   [
+    "times",
+    11.89,
+    12.21
+   ],
+   [
+    "wider",
+    12.21,
+    12.65
+   ],
+   [
+    "than",
+    12.65,
+    12.87
+   ],
+   [
+    "Hubble’s",
+    12.87,
+    13.29
+   ],
+   [
+    "mirror.",
+    13.29,
+    13.61
+   ],
+   [
+    "It",
+    14.15,
+    14.25
+   ],
+   [
+    "launched",
+    14.27,
+    14.55
+   ],
+   [
+    "on",
+    14.55,
+    14.79
+   ],
+   [
+    "an",
+    14.79,
+    14.91
+   ],
+   [
+    "Ariane",
+    14.91,
+    15.31
+   ],
+   [
+    "5",
+    15.31,
+    15.57
+   ],
+   [
+    "rocket",
+    15.57,
+    16.05
+   ],
+   [
+    "in",
+    16.15,
+    16.25
+   ],
+   [
+    "2021.",
+    16.25,
+    17.15
+   ],
+   [
+    "Now",
+    17.79,
+    17.95
+   ],
+   [
+    "it",
+    17.95,
+    18.13
+   ],
+   [
+    "orbits",
+    18.21,
+    18.43
+   ],
+   [
+    "the",
+    18.43,
+    18.71
+   ],
+   [
+    "Sun",
+    18.71,
+    18.99
+   ],
+   [
+    "near",
+    18.99,
+    19.23
+   ],
+   [
+    "the",
+    19.23,
+    19.39
+   ],
+   [
+    "Sun-Earth",
+    19.39,
+    19.85
+   ],
+   [
+    "L2",
+    19.99,
+    20.39
+   ],
+   [
+    "Lagrange",
+    20.39,
+    20.93
+   ],
+   [
+    "point.",
+    20.93,
+    21.03
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   27,
+   36,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 617,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png",
+   "desc": "JWST spacecraft model 3 — The James Webb Space Telescope (sometimes called JWST or Webb) is an orbiting infrared observatory that complements and extends the discoveries of the Hubble Space Telescope, with longer wavelength coverage and greatly i"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HST_SWEEPS_Detail_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA, ESA, K. Sahu (STScI) and the SWEEPS Science Team",
+   "page": "https://commons.wikimedia.org/wiki/File:HST_SWEEPS_Detail_2006.jpg",
+   "desc": "HST SWEEPS Detail 2006 — NASA's Hubble Space Telescope has discovered 16 extrasolar planet candidates orbiting a variety of distant stars in the central region of our Milky Way galaxy. The planet bonanza was uncovered during a Hubble survey, cal"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Carina_Nebula_in_Visible_and_Infrared.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA.",
+   "page": "https://commons.wikimedia.org/wiki/File:Carina_Nebula_in_Visible_and_Infrared.jpg",
+   "desc": "Carina Nebula in Visible and Infrared — Two alternate Hubble Space Telescope views, comparing visible and infrared photography: Carina Nebula."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%28NHQ202112230012%29.jpg/960px-Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%28NHQ202112230012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 994,
+   "license": "Public domain",
+   "artist": "Bill Ingalls",
+   "page": "https://commons.wikimedia.org/wiki/File:Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_(NHQ202112230012).jpg",
+   "desc": "Ariane 5 with James Webb Space Telescope Prelaunch (NHQ202112230012) — Arianespace's Ariane 5 rocket with NASA’s James Webb Space Telescope onboard, is seen at the launch pad, Thursday, Dec. 23, 2021, at Europe’s Spaceport, the Guiana Space Center in Kourou, F"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 6.5,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "timeline",
+   "year": 2021
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q186447",
+ "pron_wer": 0.051,
+ "angle": 1,
+ "source": {
+  "title": "James Webb Space Telescope",
+  "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:01:41Z",
+ "trimmed": true
+}
