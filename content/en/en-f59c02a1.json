@@ -1,0 +1,454 @@
+{
+ "id": "en-f59c02a1",
+ "lang": "en",
+ "title": "The Father of Prohibition",
+ "cat": "history",
+ "emoji": "🥃",
+ "sentences": [
+  "He ordered soldiers to fire on a crowd.",
+  "Neal Dow was known as the Father of Prohibition.",
+  "Born in 1804, he believed alcohol caused society's problems.",
+  "He became Portland's mayor and banned alcohol sales statewide.",
+  "But in 1855, his opponents rioted against his strict rules.",
+  "Dow ordered the state militia to fire, killing one man.",
+  "Public anger forced him out of office shortly after."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.04,
+    0.14
+   ],
+   [
+    "ordered",
+    0.14,
+    0.48
+   ],
+   [
+    "soldiers",
+    0.48,
+    0.98
+   ],
+   [
+    "to",
+    0.98,
+    1.34
+   ],
+   [
+    "fire",
+    1.34,
+    1.72
+   ],
+   [
+    "on",
+    1.72,
+    1.96
+   ],
+   [
+    "a",
+    1.96,
+    2.1
+   ],
+   [
+    "crowd.",
+    2.1,
+    2.4
+   ],
+   [
+    "Neal",
+    3.2,
+    3.44
+   ],
+   [
+    "Dow",
+    3.44,
+    3.64
+   ],
+   [
+    "was",
+    3.64,
+    3.94
+   ],
+   [
+    "known",
+    3.94,
+    4.16
+   ],
+   [
+    "as",
+    4.16,
+    4.38
+   ],
+   [
+    "the",
+    4.38,
+    4.52
+   ],
+   [
+    "Father",
+    4.62,
+    4.82
+   ],
+   [
+    "of",
+    4.82,
+    5.1
+   ],
+   [
+    "Prohibition.",
+    5.1,
+    5.65
+   ],
+   [
+    "Born",
+    6.62,
+    6.74
+   ],
+   [
+    "in",
+    6.74,
+    6.94
+   ],
+   [
+    "1804,",
+    6.94,
+    7.44
+   ],
+   [
+    "he",
+    8.24,
+    8.24
+   ],
+   [
+    "believed",
+    8.24,
+    8.5
+   ],
+   [
+    "alcohol",
+    8.5,
+    8.98
+   ],
+   [
+    "caused",
+    8.98,
+    9.54
+   ],
+   [
+    "society's",
+    9.54,
+    10.14
+   ],
+   [
+    "problems.",
+    10.14,
+    10.44
+   ],
+   [
+    "He",
+    11.44,
+    11.54
+   ],
+   [
+    "became",
+    11.54,
+    11.86
+   ],
+   [
+    "Portland's",
+    11.86,
+    12.5
+   ],
+   [
+    "mayor",
+    12.5,
+    12.68
+   ],
+   [
+    "and",
+    12.7,
+    13.08
+   ],
+   [
+    "banned",
+    13.18,
+    13.38
+   ],
+   [
+    "alcohol",
+    13.38,
+    13.82
+   ],
+   [
+    "sales",
+    13.82,
+    14.28
+   ],
+   [
+    "statewide.",
+    14.28,
+    14.88
+   ],
+   [
+    "But",
+    15.72,
+    15.82
+   ],
+   [
+    "in",
+    15.82,
+    15.94
+   ],
+   [
+    "1855,",
+    15.94,
+    16.24
+   ],
+   [
+    "his",
+    17.4,
+    17.46
+   ],
+   [
+    "opponents",
+    17.46,
+    17.82
+   ],
+   [
+    "rioted",
+    17.82,
+    18.54
+   ],
+   [
+    "against",
+    18.74,
+    18.84
+   ],
+   [
+    "his",
+    18.84,
+    19.14
+   ],
+   [
+    "strict",
+    19.14,
+    19.38
+   ],
+   [
+    "rules.",
+    19.38,
+    19.92
+   ],
+   [
+    "Dow",
+    20.6,
+    20.78
+   ],
+   [
+    "ordered",
+    20.78,
+    21.12
+   ],
+   [
+    "the",
+    21.12,
+    21.32
+   ],
+   [
+    "state",
+    21.32,
+    21.56
+   ],
+   [
+    "militia",
+    21.56,
+    22.04
+   ],
+   [
+    "to",
+    22.04,
+    22.2
+   ],
+   [
+    "fire,",
+    22.2,
+    22.58
+   ],
+   [
+    "killing",
+    23.06,
+    23.22
+   ],
+   [
+    "one",
+    23.22,
+    23.52
+   ],
+   [
+    "man.",
+    23.52,
+    23.74
+   ],
+   [
+    "Public",
+    24.64,
+    24.86
+   ],
+   [
+    "anger",
+    24.86,
+    25.22
+   ],
+   [
+    "forced",
+    25.22,
+    25.68
+   ],
+   [
+    "him",
+    25.68,
+    25.86
+   ],
+   [
+    "out",
+    25.86,
+    26.02
+   ],
+   [
+    "of",
+    26.02,
+    26.1
+   ],
+   [
+    "office",
+    26.1,
+    26.44
+   ],
+   [
+    "shortly",
+    26.44,
+    26.78
+   ],
+   [
+    "after.",
+    26.78,
+    27.08
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   35,
+   45,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Neal_Dow_daguerreotype.jpg/960px-Neal_Dow_daguerreotype.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "unattributed",
+   "page": "https://commons.wikimedia.org/wiki/File:Neal_Dow_daguerreotype.jpg",
+   "desc": "Neal Dow daguerreotype — Neal Dow"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Drunkard%27s_Progress_-_Color.jpg/960px-The_Drunkard%27s_Progress_-_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 510,
+   "license": "Public domain",
+   "artist": "Nathaniel Currier",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Drunkard%27s_Progress_-_Color.jpg",
+   "desc": "The Drunkard's Progress - Color — A lithograph by Nathaniel Currier supporting the temperance movement. The Drunkard's Progress: from the first glass to the grave"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Old_Portland_City_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 422,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Portland_City_Hall.jpg",
+   "desc": "Old Portland City Hall — Old City Hall, Portland, 1886"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/NewYorkPoliceRiot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 511,
+   "license": "Public domain",
+   "artist": "Valerian Gribayedoff",
+   "page": "https://commons.wikimedia.org/wiki/File:NewYorkPoliceRiot.jpg",
+   "desc": "NewYorkPoliceRiot — An illustration of fighting at City Hall between Municipal and Metropolitan police officers during the Police Riot of 1857 from \"Recollections of a New York Chief of Police\" (1887) by George W. Walling. Uploaded per requ"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Neal_Dow_grave_marker.jpg/960px-Neal_Dow_grave_marker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 500,
+   "license": "CC BY 4.0",
+   "artist": "Seasider53",
+   "page": "https://commons.wikimedia.org/wiki/File:Neal_Dow_grave_marker.jpg",
+   "desc": "Neal Dow grave marker — Neal Dow grave marker"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1804
+  },
+  {
+   "type": "stat",
+   "value": 1850,
+   "unit": "year",
+   "label": "Maine Temperance Union"
+  },
+  {
+   "type": "timeline",
+   "year": 1855
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "man",
+   "label": "killed in riot"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q6984183",
+ "pron_wer": 0.045,
+ "angle": 0,
+ "source": {
+  "title": "Neal Dow",
+  "url": "https://en.wikipedia.org/wiki/Neal_Dow",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:52:17Z",
+ "trimmed": true
+}
