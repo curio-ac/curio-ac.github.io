@@ -1,0 +1,324 @@
+{
+ "id": "he-52d4a112",
+ "lang": "he",
+ "title": "האיש שמאחורי אבו עמאר",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "יאסר ערפאת נולד בקהיר בשנת 1929.",
+  "שמו המלא היה מוחמד יאסר עבד א-רחמן.",
+  "בגיל 4 אימו נפטרה והוא נשלח לירושלים.",
+  "הוא הנהיג מאבק בישראל באמצעות טרור וגרילה.",
+  "בשנת 1993 חתם על הסכמי אוסלו עם ישראל.",
+  "על הסכמים אלו זכה בפרס נובל לשלום."
+ ],
+ "tim": {
+  "w": [
+   [
+    "יאסר",
+    0.08,
+    0.36
+   ],
+   [
+    "ערפאת",
+    0.36,
+    0.92
+   ],
+   [
+    "נולד",
+    1.0,
+    1.4
+   ],
+   [
+    "בקהיר",
+    1.4,
+    1.98
+   ],
+   [
+    "בשנת",
+    1.98,
+    2.48
+   ],
+   [
+    "1929.",
+    2.48,
+    3.88
+   ],
+   [
+    "שמו",
+    4.58,
+    4.82
+   ],
+   [
+    "המלא",
+    4.82,
+    5.24
+   ],
+   [
+    "היה",
+    5.24,
+    5.58
+   ],
+   [
+    "מוחמד",
+    5.58,
+    6.32
+   ],
+   [
+    "יאסר",
+    6.32,
+    6.92
+   ],
+   [
+    "עבד",
+    7.02,
+    7.3
+   ],
+   [
+    "א-רחמן.",
+    7.3,
+    7.4
+   ],
+   [
+    "בגיל",
+    8.94,
+    9.08
+   ],
+   [
+    "4",
+    9.08,
+    9.44
+   ],
+   [
+    "אימו",
+    9.44,
+    9.96
+   ],
+   [
+    "נפטרה",
+    9.96,
+    10.48
+   ],
+   [
+    "והוא",
+    10.76,
+    10.92
+   ],
+   [
+    "נשלח",
+    10.92,
+    11.32
+   ],
+   [
+    "לירושלים.",
+    11.32,
+    11.88
+   ],
+   [
+    "הוא",
+    12.76,
+    12.84
+   ],
+   [
+    "הנהיג",
+    12.84,
+    13.22
+   ],
+   [
+    "מאבק",
+    13.22,
+    13.68
+   ],
+   [
+    "בישראל",
+    13.78,
+    14.3
+   ],
+   [
+    "באמצעות",
+    14.3,
+    15.02
+   ],
+   [
+    "טרור",
+    15.36,
+    15.52
+   ],
+   [
+    "וגרילה.",
+    15.52,
+    15.98
+   ],
+   [
+    "בשנת",
+    17.16,
+    17.44
+   ],
+   [
+    "1993",
+    17.52,
+    18.38
+   ],
+   [
+    "חתם",
+    18.38,
+    19.6
+   ],
+   [
+    "על",
+    19.6,
+    19.74
+   ],
+   [
+    "הסכמי",
+    19.74,
+    20.18
+   ],
+   [
+    "אוסלו",
+    20.18,
+    20.64
+   ],
+   [
+    "עם",
+    20.64,
+    20.74
+   ],
+   [
+    "ישראל.",
+    20.74,
+    20.94
+   ],
+   [
+    "על",
+    21.9,
+    21.98
+   ],
+   [
+    "הסכמים",
+    22.0,
+    22.36
+   ],
+   [
+    "אלו",
+    22.36,
+    22.76
+   ],
+   [
+    "זכה",
+    22.76,
+    23.34
+   ],
+   [
+    "בפרס",
+    23.34,
+    23.86
+   ],
+   [
+    "נובל",
+    23.86,
+    24.26
+   ],
+   [
+    "לשלום.",
+    24.26,
+    24.62
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   20,
+   27,
+   35
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bundesarchiv_Bild_183-1982-0310-027%2C_Berlin%2C_Yasser_Arafat%2C_Erich_Honecker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 457,
+   "license": "CC BY-SA 3.0 de",
+   "artist": "Rainer Mittelstädt",
+   "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1982-0310-027,_Berlin,_Yasser_Arafat,_Erich_Honecker.jpg",
+   "desc": "Bundesarchiv Bild 183-1982-0310-027, Berlin, Yasser Arafat, Erich Honecker — For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Berlin, Yasser Arafat,"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bundesarchiv_Bild_183-K1102-032%2C_Berlin%2C_Brandenburger_Tor%2C_Yasser_Arafat.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 556,
+   "license": "CC BY-SA 3.0 de",
+   "artist": "Klaus Franke",
+   "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-K1102-032,_Berlin,_Brandenburger_Tor,_Yasser_Arafat.jpg",
+   "desc": "Bundesarchiv Bild 183-K1102-032, Berlin, Brandenburger Tor, Yasser Arafat — For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN-ZB / Franke / 2.11."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg/960px-Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Vince Musi / The White House",
+   "page": "https://commons.wikimedia.org/wiki/File:Bill_Clinton,_Yitzhak_Rabin,_Yasser_Arafat_at_the_White_House_1993-09-13.jpg",
+   "desc": "Bill Clinton, Yitzhak Rabin, Yasser Arafat at the White House 1993-09-13 — Israeli Prime Minister Yitzhak Rabin, U.S. president Bill Clinton, and PLO chairman Yasser Arafat."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flickr_-_Government_Press_Office_%28GPO%29_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg/960px-Flickr_-_Government_Press_Office_%28GPO%29_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Saar Yaacov, GPO",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg",
+   "desc": "Flickr - Government Press Office (GPO) - THE NOBEL PEACE PRIZE LAUREATES FOR 1994 IN OSLO. — The Nobel Peace Prize laureates for 1994 in Oslo. From left to right: PLO Chairman Yasser Arafat, Israeli Foreign Minister Shimon Peres, Israeli Prime Minister Yitzhak"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1929
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 4
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1993
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q34211",
+ "pron_wer": 0.047,
+ "angle": 0,
+ "source": {
+  "title": "יאסר ערפאת",
+  "url": "https://he.wikipedia.org/wiki/%D7%99%D7%90%D7%A1%D7%A8_%D7%A2%D7%A8%D7%A4%D7%90%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:50:29Z",
+ "trimmed": true
+}
