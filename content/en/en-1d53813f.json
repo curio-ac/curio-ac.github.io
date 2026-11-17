@@ -1,0 +1,369 @@
+{
+ "id": "en-1d53813f",
+ "lang": "en",
+ "title": "Built in just 82 days!",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "This English stadium was built in just 82 days!",
+  "Carrow Road opened in August 1935 as the home of Norwich City.",
+  "A 1984 fire destroyed the old City Stand, leading to major upgrades.",
+  "It was strictly all-seater until safe standing returned for the 2024/25 season.",
+  "Its record attendance once reached an incredible 43,984 fans."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.24,
+    0.24
+   ],
+   [
+    "English",
+    0.24,
+    0.6
+   ],
+   [
+    "stadium",
+    0.6,
+    1.0
+   ],
+   [
+    "was",
+    1.0,
+    1.38
+   ],
+   [
+    "built",
+    1.38,
+    1.66
+   ],
+   [
+    "in",
+    1.66,
+    1.88
+   ],
+   [
+    "just",
+    1.88,
+    2.08
+   ],
+   [
+    "82",
+    2.08,
+    2.58
+   ],
+   [
+    "days!",
+    2.58,
+    3.44
+   ],
+   [
+    "Carrow",
+    3.9,
+    4.16
+   ],
+   [
+    "Road",
+    4.16,
+    4.42
+   ],
+   [
+    "opened",
+    4.42,
+    4.72
+   ],
+   [
+    "in",
+    4.72,
+    4.94
+   ],
+   [
+    "August",
+    4.94,
+    5.26
+   ],
+   [
+    "1935",
+    5.26,
+    6.26
+   ],
+   [
+    "as",
+    6.26,
+    6.64
+   ],
+   [
+    "the",
+    6.64,
+    6.78
+   ],
+   [
+    "home",
+    6.78,
+    7.04
+   ],
+   [
+    "of",
+    7.14,
+    7.24
+   ],
+   [
+    "Norwich",
+    7.24,
+    7.64
+   ],
+   [
+    "City.",
+    7.64,
+    7.92
+   ],
+   [
+    "A",
+    8.54,
+    8.64
+   ],
+   [
+    "1984",
+    8.64,
+    9.12
+   ],
+   [
+    "fire",
+    9.12,
+    9.78
+   ],
+   [
+    "destroyed",
+    9.78,
+    10.22
+   ],
+   [
+    "the",
+    10.22,
+    10.56
+   ],
+   [
+    "old",
+    10.56,
+    10.78
+   ],
+   [
+    "City",
+    10.78,
+    11.08
+   ],
+   [
+    "Stand,",
+    11.08,
+    11.4
+   ],
+   [
+    "leading",
+    11.8,
+    11.96
+   ],
+   [
+    "to",
+    11.96,
+    12.18
+   ],
+   [
+    "major",
+    12.18,
+    12.52
+   ],
+   [
+    "upgrades.",
+    12.52,
+    12.82
+   ],
+   [
+    "It",
+    13.62,
+    13.7
+   ],
+   [
+    "was",
+    13.7,
+    13.86
+   ],
+   [
+    "strictly",
+    13.86,
+    14.26
+   ],
+   [
+    "all-seater",
+    14.26,
+    15.0
+   ],
+   [
+    "until",
+    15.0,
+    15.36
+   ],
+   [
+    "safe",
+    15.36,
+    15.74
+   ],
+   [
+    "standing",
+    15.74,
+    16.06
+   ],
+   [
+    "returned",
+    16.06,
+    16.4
+   ],
+   [
+    "for",
+    16.4,
+    16.68
+   ],
+   [
+    "the",
+    16.68,
+    16.76
+   ],
+   [
+    "2024/25",
+    16.76,
+    18.0
+   ],
+   [
+    "season.",
+    18.0,
+    18.38
+   ],
+   [
+    "Its",
+    18.96,
+    19.06
+   ],
+   [
+    "record",
+    19.06,
+    19.42
+   ],
+   [
+    "attendance",
+    19.42,
+    19.78
+   ],
+   [
+    "once",
+    19.78,
+    20.22
+   ],
+   [
+    "reached",
+    20.22,
+    20.58
+   ],
+   [
+    "an",
+    20.58,
+    20.76
+   ],
+   [
+    "incredible",
+    20.76,
+    21.24
+   ],
+   [
+    "43,984",
+    21.24,
+    23.82
+   ],
+   [
+    "fans.",
+    23.82,
+    24.2
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   21,
+   33,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2015-05-16_-11_-_Carrow_Road%2C_Norwich.JPG/960px-2015-05-16_-11_-_Carrow_Road%2C_Norwich.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 287,
+   "license": "CC BY-SA 4.0",
+   "artist": "ZakNelson1995",
+   "page": "https://commons.wikimedia.org/wiki/File:2015-05-16_-11_-_Carrow_Road,_Norwich.JPG",
+   "desc": "2015-05-16 -11 - Carrow Road, Norwich — a panorama of Carrow Road"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/NCFC_Carrow_Road_vs_Ipswich_Apr07.JPG/960px-NCFC_Carrow_Road_vs_Ipswich_Apr07.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Mls11 at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:NCFC_Carrow_Road_vs_Ipswich_Apr07.JPG",
+   "desc": "NCFC Carrow Road vs Ipswich Apr07 — Photograph taken by MLS11 on 22 April 2007 Mls11 23:03, 23 April 2007 (UTC)"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 82,
+   "unit": "days",
+   "label": "built in"
+  },
+  {
+   "type": "timeline",
+   "year": 1935
+  },
+  {
+   "type": "timeline",
+   "year": 1984
+  },
+  {
+   "type": "timeline",
+   "year": 2024
+  },
+  {
+   "type": "stat",
+   "value": 43984,
+   "unit": "fans",
+   "label": "record attendance"
+  }
+ ],
+ "geo": [
+  52.622,
+  1.309
+ ],
+ "qid": "Q123017",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "Carrow Road",
+  "url": "https://en.wikipedia.org/wiki/Carrow_Road",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T16:39:22Z",
+ "trimmed": true
+}

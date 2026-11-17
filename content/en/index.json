@@ -138,7 +138,8 @@
   "nasa:1281254",
   "Ann Arbor, Michigan",
   "After the Deluge (painting)",
-  "Asimov's Science Fiction"
+  "Asimov's Science Fiction",
+  "nasa:1441687"
  ],
  "rejected": [
   "Chameleon",
@@ -630,6 +631,9 @@
   ],
   "Asimov's Science Fiction": [
    "Asimov's Secret Magazine: Isaac Asimov lent his name to a 1977 magazine."
+  ],
+  "nasa:1441687": [
+   "Cosmic Flashlights Reveal Space Dust: When galaxies overlap, cosmic secrets are revealed."
   ]
  },
  "exhausted": []
