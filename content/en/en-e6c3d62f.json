@@ -1,0 +1,471 @@
+{
+ "id": "en-e6c3d62f",
+ "lang": "en",
+ "title": "Tennis Star Retired at 23",
+ "cat": "history",
+ "emoji": "🎾",
+ "sentences": [
+  "Kim Clijsters retired from tennis at just 23 years old.",
+  "She was a world No. 1 in both singles and doubles.",
+  "She won 41 singles titles, including four majors.",
+  "She and Justine Henin led Belgium to their first Fed Cup in 2001.",
+  "After losing her first four major finals, she finally won the 2005 US Open.",
+  "Injuries and a lost desire to compete ultimately led to her early 2007 retirement."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Kim",
+    0.35,
+    0.35
+   ],
+   [
+    "Clijsters",
+    0.35,
+    0.83
+   ],
+   [
+    "retired",
+    0.83,
+    1.13
+   ],
+   [
+    "from",
+    1.13,
+    1.43
+   ],
+   [
+    "tennis",
+    1.43,
+    1.73
+   ],
+   [
+    "at",
+    1.73,
+    1.97
+   ],
+   [
+    "just",
+    1.97,
+    2.15
+   ],
+   [
+    "23",
+    2.15,
+    2.67
+   ],
+   [
+    "years",
+    2.67,
+    2.91
+   ],
+   [
+    "old.",
+    2.91,
+    3.35
+   ],
+   [
+    "She",
+    3.63,
+    3.65
+   ],
+   [
+    "was",
+    3.65,
+    3.75
+   ],
+   [
+    "a",
+    3.75,
+    3.87
+   ],
+   [
+    "world",
+    3.87,
+    4.07
+   ],
+   [
+    "No.",
+    4.07,
+    4.41
+   ],
+   [
+    "1",
+    4.59,
+    4.67
+   ],
+   [
+    "in",
+    4.67,
+    4.81
+   ],
+   [
+    "both",
+    4.81,
+    4.97
+   ],
+   [
+    "singles",
+    4.97,
+    5.29
+   ],
+   [
+    "and",
+    5.29,
+    5.63
+   ],
+   [
+    "doubles.",
+    5.63,
+    6.03
+   ],
+   [
+    "She",
+    6.35,
+    6.43
+   ],
+   [
+    "won",
+    6.43,
+    6.59
+   ],
+   [
+    "41",
+    6.59,
+    6.89
+   ],
+   [
+    "singles",
+    6.89,
+    7.33
+   ],
+   [
+    "titles,",
+    7.33,
+    7.89
+   ],
+   [
+    "including",
+    7.89,
+    8.17
+   ],
+   [
+    "four",
+    8.17,
+    8.45
+   ],
+   [
+    "majors.",
+    8.45,
+    9.13
+   ],
+   [
+    "She",
+    9.29,
+    9.39
+   ],
+   [
+    "and",
+    9.39,
+    9.51
+   ],
+   [
+    "Justine",
+    9.51,
+    9.87
+   ],
+   [
+    "Henin",
+    9.87,
+    10.23
+   ],
+   [
+    "led",
+    10.23,
+    10.39
+   ],
+   [
+    "Belgium",
+    10.39,
+    10.75
+   ],
+   [
+    "to",
+    10.75,
+    10.93
+   ],
+   [
+    "their",
+    10.93,
+    11.07
+   ],
+   [
+    "first",
+    11.07,
+    11.29
+   ],
+   [
+    "Fed",
+    11.29,
+    11.51
+   ],
+   [
+    "Cup",
+    11.51,
+    11.73
+   ],
+   [
+    "in",
+    11.73,
+    11.95
+   ],
+   [
+    "2001.",
+    11.95,
+    12.87
+   ],
+   [
+    "After",
+    12.99,
+    13.21
+   ],
+   [
+    "losing",
+    13.21,
+    13.49
+   ],
+   [
+    "her",
+    13.49,
+    13.69
+   ],
+   [
+    "first",
+    13.69,
+    13.93
+   ],
+   [
+    "four",
+    13.93,
+    14.17
+   ],
+   [
+    "major",
+    14.17,
+    14.43
+   ],
+   [
+    "finals,",
+    14.43,
+    15.03
+   ],
+   [
+    "she",
+    15.15,
+    15.23
+   ],
+   [
+    "finally",
+    15.23,
+    15.51
+   ],
+   [
+    "won",
+    15.51,
+    15.71
+   ],
+   [
+    "the",
+    15.71,
+    15.81
+   ],
+   [
+    "2005",
+    15.81,
+    16.51
+   ],
+   [
+    "US",
+    16.51,
+    16.85
+   ],
+   [
+    "Open.",
+    16.85,
+    17.33
+   ],
+   [
+    "Injuries",
+    17.55,
+    17.91
+   ],
+   [
+    "and",
+    17.91,
+    18.15
+   ],
+   [
+    "a",
+    18.15,
+    18.25
+   ],
+   [
+    "lost",
+    18.25,
+    18.45
+   ],
+   [
+    "desire",
+    18.45,
+    18.79
+   ],
+   [
+    "to",
+    18.79,
+    18.97
+   ],
+   [
+    "compete",
+    18.97,
+    19.29
+   ],
+   [
+    "ultimately",
+    19.29,
+    19.73
+   ],
+   [
+    "led",
+    19.73,
+    20.09
+   ],
+   [
+    "to",
+    20.09,
+    20.23
+   ],
+   [
+    "her",
+    20.23,
+    20.35
+   ],
+   [
+    "early",
+    20.35,
+    20.59
+   ],
+   [
+    "2007",
+    20.59,
+    21.31
+   ],
+   [
+    "retirement.",
+    21.31,
+    21.91
+   ]
+  ],
+  "b": [
+   0,
+   10,
+   21,
+   29,
+   42,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kim_Clijsters.jpg/960px-Kim_Clijsters.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC0",
+   "artist": "Vegafi",
+   "page": "https://commons.wikimedia.org/wiki/File:Kim_Clijsters.jpg",
+   "desc": "Kim Clijsters — Kim Clijsters à l'Open Gdf Suez"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kim_Clijsters_2011_crop2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1081,
+   "license": "CC0",
+   "artist": "User:Vegafi",
+   "page": "https://commons.wikimedia.org/wiki/File:Kim_Clijsters_2011_crop2.jpg",
+   "desc": "Kim Clijsters 2011 crop2 — Kim Clijsters portrait (photo made in Open Gdf Suez 2011) cropped from original image: File:Kim Clijsters.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kim_Clijsters_2011.jpg/960px-Kim_Clijsters_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 2.0",
+   "artist": "Paddynapper",
+   "page": "https://commons.wikimedia.org/wiki/File:Kim_Clijsters_2011.jpg",
+   "desc": "Kim Clijsters 2011 — Kim Clijsters in Sydney 2011"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Kim_Clijsters_at_the_2010_US_Open_09.jpg/960px-Kim_Clijsters_at_the_2010_US_Open_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "The Cosmopolitan of Las Vegas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kim_Clijsters_at_the_2010_US_Open_09.jpg",
+   "desc": "Kim Clijsters at the 2010 US Open 09 — Clijsters vs. Stosur match on Tuesday night, 9/7 at the US Open. The Cosmopolitan is in New York for the 2010 US Open, inviting attendees and guests to experience signature views from our Overlook and in our custom desig"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2007
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "No. 1",
+   "label": "world No. 1"
+  },
+  {
+   "type": "stat",
+   "value": 41,
+   "unit": "titles",
+   "label": "singles titles"
+  },
+  {
+   "type": "timeline",
+   "year": 2001
+  },
+  {
+   "type": "timeline",
+   "year": 2005
+  },
+  {
+   "type": "timeline",
+   "year": 2007
+  }
+ ],
+ "geo": null,
+ "qid": "Q11685",
+ "pron_wer": 0.057,
+ "angle": 0,
+ "source": {
+  "title": "Kim Clijsters",
+  "url": "https://en.wikipedia.org/wiki/Kim_Clijsters",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:41:48Z",
+ "trimmed": true
+}

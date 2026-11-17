@@ -130,7 +130,8 @@
   "Guy Burgess",
   "nasa:1386999",
   "The Chattri",
-  "Benjamin Disraeli"
+  "Benjamin Disraeli",
+  "nasa:1350129"
  ],
  "rejected": [
   "Chameleon",
@@ -586,6 +587,9 @@
   ],
   "Benjamin Disraeli": [
    "Disraeli's Surprising Legacy: Britain's only prime minister born Jewish."
+  ],
+  "nasa:1350129": [
+   "Hubble's Out-of-Sync Galaxy: An out-of-sync galaxy hides a chaotic secret."
   ]
  },
  "exhausted": []
