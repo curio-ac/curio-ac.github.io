@@ -98,7 +98,8 @@
   "Bougainville counterattack",
   "nasa:1504374",
   "Bill Brown (cricketer)",
-  "French battleship Courbet"
+  "French battleship Courbet",
+  "Bill Denny"
  ],
  "rejected": [
   "Chameleon",
@@ -444,6 +445,9 @@
   ],
   "French battleship Courbet": [
    "Battleship Turned Breakwater: This battleship finished as a harbor breakwater."
+  ],
+  "Bill Denny": [
+   "Bill Denny's Political Rollercoaster: One politician was elected, defeated, then re-elected again."
   ]
  },
  "exhausted": []

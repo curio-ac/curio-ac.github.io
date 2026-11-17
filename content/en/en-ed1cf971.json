@@ -1,0 +1,427 @@
+{
+ "id": "en-ed1cf971",
+ "lang": "en",
+ "title": "Dark Side of the Moon",
+ "cat": "art",
+ "emoji": "🌙",
+ "sentences": [
+  "Pink Floyd's album born from heavy pressures.",
+  "It also deals with former member Syd Barrett's mental health problems.",
+  "New material was recorded in 1972 and 1973 at London's EMI Studios.",
+  "Engineer Alan Parsons recruited session singer Clare Torry.",
+  "The band limited extended instrumentals using analogue synthesisers and tape loops.",
+  "This 1973 concept record dives deep into conflict, greed, time, and death."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Pink",
+    0.14,
+    0.14
+   ],
+   [
+    "Floyd's",
+    0.14,
+    0.62
+   ],
+   [
+    "album",
+    0.62,
+    0.96
+   ],
+   [
+    "born",
+    0.96,
+    1.44
+   ],
+   [
+    "from",
+    1.44,
+    1.76
+   ],
+   [
+    "heavy",
+    1.76,
+    2.16
+   ],
+   [
+    "pressures.",
+    2.16,
+    3.16
+   ],
+   [
+    "It",
+    3.32,
+    3.32
+   ],
+   [
+    "also",
+    3.32,
+    3.54
+   ],
+   [
+    "deals",
+    3.54,
+    3.8
+   ],
+   [
+    "with",
+    3.8,
+    4.06
+   ],
+   [
+    "former",
+    4.06,
+    4.48
+   ],
+   [
+    "member",
+    4.48,
+    4.76
+   ],
+   [
+    "Syd",
+    4.76,
+    5.18
+   ],
+   [
+    "Barrett's",
+    5.18,
+    5.66
+   ],
+   [
+    "mental",
+    5.68,
+    5.96
+   ],
+   [
+    "health",
+    6.12,
+    6.24
+   ],
+   [
+    "problems.",
+    6.24,
+    7.4
+   ],
+   [
+    "New",
+    7.42,
+    7.5
+   ],
+   [
+    "material",
+    7.5,
+    7.84
+   ],
+   [
+    "was",
+    7.84,
+    8.16
+   ],
+   [
+    "recorded",
+    8.16,
+    8.52
+   ],
+   [
+    "in",
+    8.52,
+    8.86
+   ],
+   [
+    "1972",
+    8.86,
+    9.62
+   ],
+   [
+    "and",
+    9.62,
+    10.2
+   ],
+   [
+    "1973",
+    10.2,
+    10.92
+   ],
+   [
+    "at",
+    10.92,
+    11.62
+   ],
+   [
+    "London's",
+    11.72,
+    12.2
+   ],
+   [
+    "EMI",
+    12.28,
+    12.66
+   ],
+   [
+    "Studios.",
+    12.66,
+    13.16
+   ],
+   [
+    "Engineer",
+    13.88,
+    14.18
+   ],
+   [
+    "Alan",
+    14.18,
+    14.62
+   ],
+   [
+    "Parsons",
+    14.62,
+    15.12
+   ],
+   [
+    "recruited",
+    15.24,
+    15.5
+   ],
+   [
+    "session",
+    15.5,
+    15.98
+   ],
+   [
+    "singer",
+    15.98,
+    16.36
+   ],
+   [
+    "Clare",
+    16.36,
+    16.8
+   ],
+   [
+    "Torry.",
+    16.8,
+    17.24
+   ],
+   [
+    "The",
+    17.88,
+    17.94
+   ],
+   [
+    "band",
+    17.94,
+    18.14
+   ],
+   [
+    "limited",
+    18.14,
+    18.66
+   ],
+   [
+    "extended",
+    18.66,
+    19.22
+   ],
+   [
+    "instrumentals",
+    19.22,
+    20.08
+   ],
+   [
+    "using",
+    20.24,
+    20.34
+   ],
+   [
+    "analogue",
+    20.34,
+    20.9
+   ],
+   [
+    "synthesisers",
+    20.9,
+    21.64
+   ],
+   [
+    "and",
+    21.64,
+    21.86
+   ],
+   [
+    "tape",
+    22.04,
+    22.14
+   ],
+   [
+    "loops.",
+    22.14,
+    22.24
+   ],
+   [
+    "This",
+    23.14,
+    23.32
+   ],
+   [
+    "1973",
+    23.32,
+    24.14
+   ],
+   [
+    "concept",
+    24.14,
+    24.9
+   ],
+   [
+    "record",
+    24.9,
+    25.34
+   ],
+   [
+    "dives",
+    25.54,
+    25.72
+   ],
+   [
+    "deep",
+    25.72,
+    26.12
+   ],
+   [
+    "into",
+    26.28,
+    26.42
+   ],
+   [
+    "conflict,",
+    26.42,
+    27.08
+   ],
+   [
+    "greed,",
+    27.44,
+    27.88
+   ],
+   [
+    "time,",
+    28.18,
+    28.58
+   ],
+   [
+    "and",
+    28.88,
+    28.88
+   ],
+   [
+    "death.",
+    28.88,
+    28.98
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   30,
+   38,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Dark_Side_of_the_Moon_%28301216847%29.jpg/960px-The_Dark_Side_of_the_Moon_%28301216847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 150,
+   "license": "CC BY 2.0",
+   "artist": "fdecomite",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Dark_Side_of_the_Moon_(301216847).jpg",
+   "desc": "The Dark Side of the Moon (301216847) — The Dark Side of the Moon"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Abbey_Road_Studios_2012-03-03.jpg/960px-Abbey_Road_Studios_2012-03-03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 451,
+   "license": "CC BY 2.0",
+   "artist": "Andres Rueda",
+   "page": "https://commons.wikimedia.org/wiki/File:Abbey_Road_Studios_2012-03-03.jpg",
+   "desc": "Abbey Road Studios 2012-03-03 — Abbey Road Studios, 2012-03-03"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Alan_Parsons_2017-05-19_ap0033cwo.jpg/960px-Alan_Parsons_2017-05-19_ap0033cwo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Andemaya",
+   "page": "https://commons.wikimedia.org/wiki/File:Alan_Parsons_2017-05-19_ap0033cwo.jpg",
+   "desc": "Alan Parsons 2017-05-19 ap0033cwo — Alan Parsons, 2017-05-19, Konzert \"Alan Parsons Live Project - The Greatest Hit Tour 2017, Harmonie Heilbronn"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/EMS_VCS_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 809,
+   "license": "CC BY-SA 2.0",
+   "artist": "The Standard Deviant",
+   "page": "https://commons.wikimedia.org/wiki/File:EMS_VCS_3.jpg",
+   "desc": "EMS VCS 3 — EMS VCS 3 synthesizer"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Dark_Side_of_the_Moon.png/960px-Dark_Side_of_the_Moon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "w:George Hardie (artist)",
+   "page": "https://commons.wikimedia.org/wiki/File:Dark_Side_of_the_Moon.png",
+   "desc": "Dark Side of the Moon — Pink Floyd's The Dark Side of the Moon album cover. It features a prism refracting white light into a rainbow on a black background"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1972
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1973
+  }
+ ],
+ "geo": null,
+ "qid": "Q150901",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "The Dark Side of the Moon",
+  "url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T10:59:05Z",
+ "trimmed": true
+}
