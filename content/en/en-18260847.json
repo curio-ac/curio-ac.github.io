@@ -1,0 +1,377 @@
+{
+ "id": "en-18260847",
+ "lang": "en",
+ "title": "Hubble Spies Alien Galaxy",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "Hubble just captured a stunning, edge-on galaxy.",
+  "Known as NGC 1827, it sits 37 million light-years away.",
+  "Rusty-brown dust lanes cut right through its center.",
+  "Bright-blue regions show where new stars are forming.",
+  "That bright star nearby is actually much closer, sitting between us and the galaxy.",
+  "Its distinct spikes are just light bending around Hubble's mirror supports."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Hubble",
+    0.35,
+    0.49
+   ],
+   [
+    "just",
+    0.49,
+    0.73
+   ],
+   [
+    "captured",
+    0.73,
+    1.13
+   ],
+   [
+    "a",
+    1.13,
+    1.29
+   ],
+   [
+    "stunning,",
+    1.29,
+    1.81
+   ],
+   [
+    "edge-on",
+    1.93,
+    2.23
+   ],
+   [
+    "galaxy.",
+    2.23,
+    2.98
+   ],
+   [
+    "Known",
+    3.33,
+    3.51
+   ],
+   [
+    "as",
+    3.51,
+    3.63
+   ],
+   [
+    "NGC",
+    3.63,
+    4.27
+   ],
+   [
+    "1827,",
+    4.27,
+    5.49
+   ],
+   [
+    "it",
+    5.85,
+    5.89
+   ],
+   [
+    "sits",
+    5.89,
+    6.05
+   ],
+   [
+    "37",
+    6.05,
+    6.79
+   ],
+   [
+    "million",
+    6.79,
+    7.17
+   ],
+   [
+    "light-years",
+    7.17,
+    7.65
+   ],
+   [
+    "away.",
+    7.65,
+    8.01
+   ],
+   [
+    "Rusty-brown",
+    8.57,
+    9.21
+   ],
+   [
+    "dust",
+    9.21,
+    9.43
+   ],
+   [
+    "lanes",
+    9.43,
+    9.83
+   ],
+   [
+    "cut",
+    9.83,
+    10.15
+   ],
+   [
+    "right",
+    10.15,
+    10.37
+   ],
+   [
+    "through",
+    10.37,
+    10.63
+   ],
+   [
+    "its",
+    10.69,
+    10.79
+   ],
+   [
+    "center.",
+    10.79,
+    11.09
+   ],
+   [
+    "Bright-blue",
+    11.69,
+    12.01
+   ],
+   [
+    "regions",
+    12.09,
+    12.41
+   ],
+   [
+    "show",
+    12.41,
+    12.73
+   ],
+   [
+    "where",
+    12.73,
+    12.97
+   ],
+   [
+    "new",
+    12.97,
+    13.17
+   ],
+   [
+    "stars",
+    13.17,
+    13.43
+   ],
+   [
+    "are",
+    13.43,
+    13.69
+   ],
+   [
+    "forming.",
+    13.69,
+    14.03
+   ],
+   [
+    "That",
+    14.65,
+    14.75
+   ],
+   [
+    "bright",
+    14.75,
+    15.03
+   ],
+   [
+    "star",
+    15.03,
+    15.35
+   ],
+   [
+    "nearby",
+    15.35,
+    15.75
+   ],
+   [
+    "is",
+    15.75,
+    16.05
+   ],
+   [
+    "actually",
+    16.05,
+    16.47
+   ],
+   [
+    "much",
+    16.47,
+    16.69
+   ],
+   [
+    "closer,",
+    16.69,
+    17.25
+   ],
+   [
+    "sitting",
+    17.65,
+    17.79
+   ],
+   [
+    "between",
+    17.79,
+    18.11
+   ],
+   [
+    "us",
+    18.11,
+    18.43
+   ],
+   [
+    "and",
+    18.49,
+    18.59
+   ],
+   [
+    "the",
+    18.59,
+    18.69
+   ],
+   [
+    "galaxy.",
+    18.69,
+    19.01
+   ],
+   [
+    "Its",
+    19.73,
+    19.85
+   ],
+   [
+    "distinct",
+    19.85,
+    20.25
+   ],
+   [
+    "spikes",
+    20.25,
+    20.67
+   ],
+   [
+    "are",
+    20.67,
+    20.93
+   ],
+   [
+    "just",
+    20.95,
+    21.11
+   ],
+   [
+    "light",
+    21.11,
+    21.41
+   ],
+   [
+    "bending",
+    21.41,
+    21.83
+   ],
+   [
+    "around",
+    21.83,
+    22.13
+   ],
+   [
+    "Hubble's",
+    22.13,
+    22.67
+   ],
+   [
+    "mirror",
+    22.67,
+    22.91
+   ],
+   [
+    "supports.",
+    22.91,
+    23.41
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   25,
+   33,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/NGC_1827_imaged_by_the_Hubble_Space_Telescope.jpg/960px-NGC_1827_imaged_by_the_Hubble_Space_Telescope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 698,
+   "license": "Public domain",
+   "artist": "NASA, ESA, Michael Jones (California Institute of Technology); Image Processing:",
+   "page": "https://commons.wikimedia.org/wiki/File:NGC_1827_imaged_by_the_Hubble_Space_Telescope.jpg",
+   "desc": "NGC 1827 imaged by the Hubble Space Telescope — NGC 1827 imaged by the Hubble Space Telescope"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 37,
+   "unit": "million light-years",
+   "label": "NGC 1827 distance"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Hubble Spies Spiral’s Edge",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:57:17Z",
+ "trimmed": true
+}

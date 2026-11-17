@@ -110,7 +110,8 @@
   "nasa:1489375",
   "Black American Sign Language",
   "nasa:1276870",
-  "Apollo 11"
+  "Apollo 11",
+  "1927 New Jersey Amendment 4"
  ],
  "rejected": [
   "Chameleon",
@@ -496,6 +497,9 @@
   ],
   "Apollo 11": [
    "The First Moon Landing: Humans first landed on the Moon in 1969."
+  ],
+  "1927 New Jersey Amendment 4": [
+   "A Costly Constitutional Typo: One word mistake almost changed state elections."
   ]
  },
  "exhausted": []
