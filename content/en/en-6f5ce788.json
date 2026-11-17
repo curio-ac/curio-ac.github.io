@@ -1,0 +1,396 @@
+{
+ "id": "en-6f5ce788",
+ "lang": "en",
+ "title": "Autumn in Bieszczady Mountains",
+ "cat": "geography",
+ "emoji": "🍂",
+ "sentences": [
+  "Poland’s forests are turning red and gold.",
+  "This seasonal change happens as beech trees stop producing chlorophyll.",
+  "NASA’s Landsat 9 satellite captured this transformation on October 8, 2026.",
+  "Below the mountain meadows, European beech forests dominate the landscape.",
+  "Brown bears are currently prowling these hills to fatten up for winter hibernation.",
+  "European bison also roam here after being reintroduced in the 1960s."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Poland’s",
+    0.35,
+    0.59
+   ],
+   [
+    "forests",
+    0.61,
+    0.87
+   ],
+   [
+    "are",
+    0.99,
+    1.09
+   ],
+   [
+    "turning",
+    1.09,
+    1.37
+   ],
+   [
+    "red",
+    1.37,
+    1.75
+   ],
+   [
+    "and",
+    1.75,
+    1.95
+   ],
+   [
+    "gold.",
+    1.95,
+    2.6
+   ],
+   [
+    "This",
+    2.89,
+    2.99
+   ],
+   [
+    "seasonal",
+    2.99,
+    3.41
+   ],
+   [
+    "change",
+    3.41,
+    3.79
+   ],
+   [
+    "happens",
+    3.79,
+    4.23
+   ],
+   [
+    "as",
+    4.23,
+    4.47
+   ],
+   [
+    "beech",
+    4.47,
+    4.77
+   ],
+   [
+    "trees",
+    4.77,
+    5.01
+   ],
+   [
+    "stop",
+    5.01,
+    5.31
+   ],
+   [
+    "producing",
+    5.31,
+    5.75
+   ],
+   [
+    "chlorophyll.",
+    5.75,
+    6.19
+   ],
+   [
+    "NASA’s",
+    6.87,
+    7.31
+   ],
+   [
+    "Landsat",
+    7.31,
+    7.79
+   ],
+   [
+    "9",
+    7.79,
+    8.01
+   ],
+   [
+    "satellite",
+    8.01,
+    8.49
+   ],
+   [
+    "captured",
+    8.49,
+    8.97
+   ],
+   [
+    "this",
+    8.97,
+    9.23
+   ],
+   [
+    "transformation",
+    9.23,
+    9.75
+   ],
+   [
+    "on",
+    9.75,
+    10.11
+   ],
+   [
+    "October",
+    10.11,
+    10.37
+   ],
+   [
+    "8,",
+    10.37,
+    10.81
+   ],
+   [
+    "2026.",
+    11.35,
+    11.95
+   ],
+   [
+    "Below",
+    12.61,
+    12.75
+   ],
+   [
+    "the",
+    12.75,
+    12.99
+   ],
+   [
+    "mountain",
+    12.99,
+    13.19
+   ],
+   [
+    "meadows,",
+    13.19,
+    13.65
+   ],
+   [
+    "European",
+    14.25,
+    14.41
+   ],
+   [
+    "beech",
+    14.45,
+    14.93
+   ],
+   [
+    "forests",
+    14.93,
+    15.29
+   ],
+   [
+    "dominate",
+    15.29,
+    15.75
+   ],
+   [
+    "the",
+    15.75,
+    16.05
+   ],
+   [
+    "landscape.",
+    16.05,
+    16.41
+   ],
+   [
+    "Brown",
+    17.15,
+    17.33
+   ],
+   [
+    "bears",
+    17.33,
+    17.69
+   ],
+   [
+    "are",
+    17.69,
+    17.97
+   ],
+   [
+    "currently",
+    17.97,
+    18.25
+   ],
+   [
+    "prowling",
+    18.45,
+    18.75
+   ],
+   [
+    "these",
+    18.75,
+    18.91
+   ],
+   [
+    "hills",
+    18.91,
+    19.23
+   ],
+   [
+    "to",
+    19.23,
+    19.43
+   ],
+   [
+    "fatten",
+    19.55,
+    19.81
+   ],
+   [
+    "up",
+    19.81,
+    19.89
+   ],
+   [
+    "for",
+    19.89,
+    20.09
+   ],
+   [
+    "winter",
+    20.09,
+    20.37
+   ],
+   [
+    "hibernation.",
+    20.37,
+    21.02
+   ],
+   [
+    "European",
+    21.73,
+    22.03
+   ],
+   [
+    "bison",
+    22.03,
+    22.59
+   ],
+   [
+    "also",
+    22.59,
+    22.95
+   ],
+   [
+    "roam",
+    22.95,
+    23.29
+   ],
+   [
+    "here",
+    23.29,
+    23.55
+   ],
+   [
+    "after",
+    23.55,
+    23.85
+   ],
+   [
+    "being",
+    23.87,
+    24.11
+   ],
+   [
+    "reintroduced",
+    24.11,
+    24.87
+   ],
+   [
+    "in",
+    24.87,
+    24.97
+   ],
+   [
+    "the",
+    24.97,
+    25.03
+   ],
+   [
+    "1960s.",
+    25.03,
+    25.71
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   28,
+   38,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Autumn_Paints_Poland%E2%80%99s_Bieszczady_Mountains_%281490468%29.jpg/960px-Autumn_Paints_Poland%E2%80%99s_Bieszczady_Mountains_%281490468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Autumn_Paints_Poland%E2%80%99s_Bieszczady_Mountains_(1490468).jpg",
+   "desc": "Autumn Paints Poland’s Bieszczady Mountains (1490468) — NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1960
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+ "pron_wer": 0.031,
+ "angle": 0,
+ "source": {
+  "title": "Autumn Paints Poland’s Bieszczady Mountains",
+  "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:59:05Z",
+ "trimmed": true
+}

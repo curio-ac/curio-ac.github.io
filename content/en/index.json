@@ -85,7 +85,8 @@
   "Neal Dow",
   "Capri-Sun",
   "nasa:1307649",
-  "Alicia (album)"
+  "Alicia (album)",
+  "Jefferson Davis"
  ],
  "rejected": [
   "Chameleon",
@@ -380,6 +381,9 @@
   ],
   "Alicia (album)": [
    "The Secrets of Alicia: Alicia Keys collaborated more than ever before."
+  ],
+  "Jefferson Davis": [
+   "The Confederate President's Hidden Past: Jefferson Davis owned 113 slaves."
   ]
  },
  "exhausted": []
