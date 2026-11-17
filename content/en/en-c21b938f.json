@@ -1,0 +1,372 @@
+{
+ "id": "en-c21b938f",
+ "lang": "en",
+ "title": "The King Who Abidicated",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "This king conquered kingdoms then just quit.",
+  "Cædwalla ruled Wessex starting around 685.",
+  "He was exiled as a youth before gaining power.",
+  "He conquered the Isle of Wight and Surrey.",
+  "His brother Mul was burned in a revolt.",
+  "Wounded, he abdicated in 688 to travel to Rome.",
+  "He died shortly after his baptism by the Pope."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "king",
+    0.35,
+    0.65
+   ],
+   [
+    "conquered",
+    0.65,
+    1.13
+   ],
+   [
+    "kingdoms",
+    1.13,
+    1.53
+   ],
+   [
+    "then",
+    1.53,
+    1.85
+   ],
+   [
+    "just",
+    1.85,
+    2.09
+   ],
+   [
+    "quit.",
+    2.09,
+    2.43
+   ],
+   [
+    "Cædwalla",
+    3.01,
+    3.43
+   ],
+   [
+    "ruled",
+    3.43,
+    3.71
+   ],
+   [
+    "Wessex",
+    3.71,
+    4.23
+   ],
+   [
+    "starting",
+    4.23,
+    4.57
+   ],
+   [
+    "around",
+    4.57,
+    4.89
+   ],
+   [
+    "685.",
+    4.89,
+    6.01
+   ],
+   [
+    "He",
+    6.61,
+    6.69
+   ],
+   [
+    "was",
+    6.69,
+    6.79
+   ],
+   [
+    "exiled",
+    6.79,
+    7.37
+   ],
+   [
+    "as",
+    7.37,
+    7.53
+   ],
+   [
+    "a",
+    7.53,
+    7.63
+   ],
+   [
+    "youth",
+    7.63,
+    7.89
+   ],
+   [
+    "before",
+    7.89,
+    8.19
+   ],
+   [
+    "gaining",
+    8.21,
+    8.53
+   ],
+   [
+    "power.",
+    8.53,
+    9.03
+   ],
+   [
+    "He",
+    9.51,
+    9.59
+   ],
+   [
+    "conquered",
+    9.65,
+    9.97
+   ],
+   [
+    "the",
+    9.97,
+    10.19
+   ],
+   [
+    "Isle",
+    10.19,
+    10.49
+   ],
+   [
+    "of",
+    10.49,
+    10.57
+   ],
+   [
+    "Wight",
+    10.57,
+    10.89
+   ],
+   [
+    "and",
+    10.89,
+    11.01
+   ],
+   [
+    "Surrey.",
+    11.01,
+    11.41
+   ],
+   [
+    "His",
+    11.93,
+    12.03
+   ],
+   [
+    "brother",
+    12.03,
+    12.31
+   ],
+   [
+    "Mul",
+    12.31,
+    12.65
+   ],
+   [
+    "was",
+    12.65,
+    12.95
+   ],
+   [
+    "burned",
+    12.95,
+    13.33
+   ],
+   [
+    "in",
+    13.33,
+    13.55
+   ],
+   [
+    "a",
+    13.55,
+    13.65
+   ],
+   [
+    "revolt.",
+    13.65,
+    14.03
+   ],
+   [
+    "Wounded,",
+    14.61,
+    15.09
+   ],
+   [
+    "he",
+    15.39,
+    15.39
+   ],
+   [
+    "abdicated",
+    15.39,
+    15.97
+   ],
+   [
+    "in",
+    15.97,
+    16.21
+   ],
+   [
+    "688",
+    16.21,
+    17.15
+   ],
+   [
+    "to",
+    17.15,
+    17.51
+   ],
+   [
+    "travel",
+    17.57,
+    17.83
+   ],
+   [
+    "to",
+    17.83,
+    18.05
+   ],
+   [
+    "Rome.",
+    18.05,
+    18.39
+   ],
+   [
+    "He",
+    18.93,
+    19.03
+   ],
+   [
+    "died",
+    19.03,
+    19.27
+   ],
+   [
+    "shortly",
+    19.27,
+    19.73
+   ],
+   [
+    "after",
+    19.99,
+    20.09
+   ],
+   [
+    "his",
+    20.09,
+    20.25
+   ],
+   [
+    "baptism",
+    20.25,
+    20.69
+   ],
+   [
+    "by",
+    20.69,
+    21.05
+   ],
+   [
+    "the",
+    21.05,
+    21.17
+   ],
+   [
+    "Pope.",
+    21.17,
+    21.45
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   22,
+   30,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Barnard_Chichester_mural.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 455,
+   "license": "Public domain",
+   "artist": "Lambert Barnard",
+   "page": "https://commons.wikimedia.org/wiki/File:Barnard_Chichester_mural.png",
+   "desc": "Barnard Chichester mural — Original source describes this painting as follows: \"In 686 king Caedwalla issued a charter confirming the rights and territories previously given to Wilfrid by king Aethelwealh and the estate of the Hundred of Pagham in"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 685
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 688
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q545062",
+ "pron_wer": 0.071,
+ "angle": 0,
+ "source": {
+  "title": "Cædwalla",
+  "url": "https://en.wikipedia.org/wiki/C%C3%A6dwalla",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:00:56Z",
+ "trimmed": true
+}
