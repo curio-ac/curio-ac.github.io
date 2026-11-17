@@ -1,0 +1,282 @@
+{
+ "id": "en-ebf1e5b6",
+ "lang": "en",
+ "title": "September Heat Record Broken",
+ "cat": "geography",
+ "emoji": "☀️",
+ "sentences": [
+  "Nashville smashed a record from 1927.",
+  "Over 41 million people faced extreme heat advisories.",
+  "Temperatures in Dallas reached 101 degrees.",
+  "High pressure trapped hot air near the ground.",
+  "Nashville also set a record-high minimum of 75 degrees."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Nashville",
+    0.3,
+    0.34
+   ],
+   [
+    "smashed",
+    0.34,
+    0.68
+   ],
+   [
+    "a",
+    0.68,
+    0.98
+   ],
+   [
+    "record",
+    1.02,
+    1.26
+   ],
+   [
+    "from",
+    1.26,
+    1.5
+   ],
+   [
+    "1927.",
+    1.5,
+    3.18
+   ],
+   [
+    "Over",
+    3.18,
+    3.28
+   ],
+   [
+    "41",
+    3.28,
+    3.84
+   ],
+   [
+    "million",
+    3.84,
+    4.3
+   ],
+   [
+    "people",
+    4.3,
+    4.74
+   ],
+   [
+    "faced",
+    4.74,
+    5.12
+   ],
+   [
+    "extreme",
+    5.12,
+    5.76
+   ],
+   [
+    "heat",
+    5.76,
+    6.06
+   ],
+   [
+    "advisories.",
+    6.06,
+    6.8
+   ],
+   [
+    "Temperatures",
+    7.32,
+    7.74
+   ],
+   [
+    "in",
+    7.74,
+    7.84
+   ],
+   [
+    "Dallas",
+    7.84,
+    8.16
+   ],
+   [
+    "reached",
+    8.16,
+    8.5
+   ],
+   [
+    "101",
+    8.92,
+    9.32
+   ],
+   [
+    "degrees.",
+    9.32,
+    10.22
+   ],
+   [
+    "High",
+    10.7,
+    10.82
+   ],
+   [
+    "pressure",
+    10.82,
+    11.14
+   ],
+   [
+    "trapped",
+    11.14,
+    11.48
+   ],
+   [
+    "hot",
+    11.6,
+    11.8
+   ],
+   [
+    "air",
+    11.8,
+    12.04
+   ],
+   [
+    "near",
+    12.04,
+    12.28
+   ],
+   [
+    "the",
+    12.28,
+    12.42
+   ],
+   [
+    "ground.",
+    12.42,
+    12.7
+   ],
+   [
+    "Nashville",
+    13.36,
+    13.68
+   ],
+   [
+    "also",
+    13.68,
+    14.06
+   ],
+   [
+    "set",
+    14.06,
+    14.32
+   ],
+   [
+    "a",
+    14.32,
+    14.44
+   ],
+   [
+    "record-high",
+    14.44,
+    14.82
+   ],
+   [
+    "minimum",
+    14.84,
+    15.12
+   ],
+   [
+    "of",
+    15.12,
+    15.46
+   ],
+   [
+    "75",
+    15.46,
+    16.0
+   ],
+   [
+    "degrees.",
+    16.0,
+    16.36
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   20,
+   28
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Summer_Goes_Out_With_a_Heat_Dome_%281346682%29.jpg/960px-Summer_Goes_Out_With_a_Heat_Dome_%281346682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 566,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Summer_Goes_Out_With_a_Heat_Dome_(1346682).jpg",
+   "desc": "Summer Goes Out With a Heat Dome (1346682) — An area of high pressure over the south-central U.S. produced unseasonable and, in some places, record-breaking warmth on September 15, 2026, as shown in this map of modeled air temperatures from GEOS (Goddard Earth"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Summer_Goes_Out_With_a_Heat_Dome_%281346682_-_lrg%29.jpg/960px-Summer_Goes_Out_With_a_Heat_Dome_%281346682_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 532,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Summer_Goes_Out_With_a_Heat_Dome_(1346682_-_lrg).jpg",
+   "desc": "Summer Goes Out With a Heat Dome (1346682 - lrg) — An area of high pressure over the south-central U.S. produced unseasonable and, in some places, record-breaking warmth on September 15, 2026, as shown in this map of modeled air temperatures from GEOS (Goddard"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1927
+  },
+  {
+   "type": "stat",
+   "value": 41,
+   "unit": "million",
+   "label": "people"
+  },
+  {
+   "type": "stat",
+   "value": 101,
+   "unit": "ºF",
+   "label": "Dallas temperature"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 75,
+   "unit": "ºF",
+   "label": "minimum temperature"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Summer Goes Out With a Heat Dome",
+  "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:10:35Z",
+ "trimmed": true
+}

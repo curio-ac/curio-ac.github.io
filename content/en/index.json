@@ -104,7 +104,8 @@
   "Admiralty Islands campaign",
   "L'Ange de Nisida",
   "Conte di Cavour-class battleship",
-  "nasa:1508914"
+  "nasa:1508914",
+  "World War II"
  ],
  "rejected": [
   "Chameleon",
@@ -468,6 +469,9 @@
   ],
   "nasa:1508914": [
    "Earth's Shifting Ozone Hole: Earth's ozone layer is thinning."
+  ],
+  "World War II": [
+   "The Deadliest War in History: History's deadliest conflict killed up to 75 million people."
   ]
  },
  "exhausted": []
