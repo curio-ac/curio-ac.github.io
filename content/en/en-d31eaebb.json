@@ -1,0 +1,444 @@
+{
+ "id": "en-d31eaebb",
+ "lang": "en",
+ "title": "Rome's Massive Flavian Amphitheatre",
+ "cat": "history",
+ "emoji": "🏟️",
+ "sentences": [
+  "Rome's Colosseum isn't its actual name.",
+  "It was originally called the Flavian Amphitheatre.",
+  "Three emperors of the Flavian dynasty built it.",
+  "Construction started under Vespasian in 72 AD.",
+  "Titus finished the massive structure in 80 AD.",
+  "Workers used travertine, tuff, and Roman concrete.",
+  "It served as a stage for gladiatorial contests, animal hunts, and even battle re-enactments."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Rome's",
+    0.35,
+    0.49
+   ],
+   [
+    "Colosseum",
+    0.59,
+    1.13
+   ],
+   [
+    "isn't",
+    1.13,
+    1.41
+   ],
+   [
+    "its",
+    1.41,
+    1.51
+   ],
+   [
+    "actual",
+    1.81,
+    1.91
+   ],
+   [
+    "name.",
+    1.91,
+    2.21
+   ],
+   [
+    "It",
+    2.79,
+    2.79
+   ],
+   [
+    "was",
+    2.79,
+    2.91
+   ],
+   [
+    "originally",
+    2.91,
+    3.23
+   ],
+   [
+    "called",
+    3.23,
+    3.61
+   ],
+   [
+    "the",
+    3.61,
+    3.77
+   ],
+   [
+    "Flavian",
+    3.83,
+    4.19
+   ],
+   [
+    "Amphitheatre.",
+    4.19,
+    4.85
+   ],
+   [
+    "Three",
+    5.45,
+    5.57
+   ],
+   [
+    "emperors",
+    5.57,
+    6.15
+   ],
+   [
+    "of",
+    6.15,
+    6.23
+   ],
+   [
+    "the",
+    6.23,
+    6.33
+   ],
+   [
+    "Flavian",
+    6.39,
+    6.75
+   ],
+   [
+    "dynasty",
+    6.75,
+    7.15
+   ],
+   [
+    "built",
+    7.19,
+    7.53
+   ],
+   [
+    "it.",
+    7.53,
+    7.67
+   ],
+   [
+    "Construction",
+    8.17,
+    8.51
+   ],
+   [
+    "started",
+    8.51,
+    8.99
+   ],
+   [
+    "under",
+    8.99,
+    9.25
+   ],
+   [
+    "Vespasian",
+    9.25,
+    9.89
+   ],
+   [
+    "in",
+    9.89,
+    10.05
+   ],
+   [
+    "72",
+    10.05,
+    10.51
+   ],
+   [
+    "AD.",
+    10.51,
+    11.15
+   ],
+   [
+    "Titus",
+    11.73,
+    12.07
+   ],
+   [
+    "finished",
+    12.07,
+    12.29
+   ],
+   [
+    "the",
+    12.29,
+    12.51
+   ],
+   [
+    "massive",
+    12.51,
+    12.81
+   ],
+   [
+    "structure",
+    12.81,
+    13.31
+   ],
+   [
+    "in",
+    13.31,
+    13.55
+   ],
+   [
+    "80",
+    13.55,
+    13.85
+   ],
+   [
+    "AD.",
+    13.85,
+    14.35
+   ],
+   [
+    "Workers",
+    14.95,
+    15.21
+   ],
+   [
+    "used",
+    15.21,
+    15.59
+   ],
+   [
+    "travertine,",
+    15.59,
+    16.31
+   ],
+   [
+    "tuff,",
+    16.57,
+    16.85
+   ],
+   [
+    "and",
+    16.85,
+    16.89
+   ],
+   [
+    "Roman",
+    16.89,
+    17.15
+   ],
+   [
+    "concrete.",
+    17.15,
+    17.59
+   ],
+   [
+    "It",
+    18.31,
+    18.37
+   ],
+   [
+    "served",
+    18.37,
+    18.65
+   ],
+   [
+    "as",
+    18.65,
+    18.85
+   ],
+   [
+    "a",
+    18.85,
+    18.93
+   ],
+   [
+    "stage",
+    18.93,
+    19.27
+   ],
+   [
+    "for",
+    19.27,
+    19.47
+   ],
+   [
+    "gladiatorial",
+    19.59,
+    20.31
+   ],
+   [
+    "contests,",
+    20.31,
+    21.01
+   ],
+   [
+    "animal",
+    21.37,
+    21.61
+   ],
+   [
+    "hunts,",
+    21.61,
+    22.21
+   ],
+   [
+    "and",
+    22.21,
+    22.27
+   ],
+   [
+    "even",
+    22.27,
+    22.51
+   ],
+   [
+    "battle",
+    22.51,
+    22.89
+   ],
+   [
+    "re-enactments.",
+    22.89,
+    23.41
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   21,
+   28,
+   36,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Colosseum%2C_Rome.jpg/960px-Colosseum%2C_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Julian Lupyan",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome.jpg",
+   "desc": "Colosseum, Rome — The Colosseum viewed from Via Nicola Salvi, Rome, 2023"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/0_Colosseum_-_Rome_111001_%282%29.JPG/960px-0_Colosseum_-_Rome_111001_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Jean-Pol GRANDMONT",
+   "page": "https://commons.wikimedia.org/wiki/File:0_Colosseum_-_Rome_111001_(2).JPG",
+   "desc": "0 Colosseum - Rome 111001 (2) — Inside of the Colosseum or Flavian amphitheatre, 70/72 - 80 DC in Rome."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/%22Colossal_head_of_emperor_Titus%22_%28about_95_AD%29_from_Rome%2C_Quirinale%2C_area_identified_as_the_no_longer_existing_%22Templum_gentis_Flaviae%22_%28Temple_of_the_Flavian_dynasty%29_-_Naples%2C_Archaeological_Museum_%2835638892392%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "Carlo Raso from Naples, Italy",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Colossal_head_of_emperor_Titus%22_(about_95_AD)_from_Rome,_Quirinale,_area_identified_as_the_no_longer_existing_%22Templum_gentis_Flaviae%22_(Temple_of_the_Flavian_dynasty)_-_Naples,_Archaeological_Museum_(35638892392).jpg",
+   "desc": "\"Colossal head of emperor Titus\" (about 95 AD) from Rome, Quirinale, area identified as the no longer existing \"Templum gentis Flaviae\" (Temple of the Flavian dynasty) - Naples, Archaeological Museum (35638892392) — \"Colossal head of emperor Titus\" (about 95 A"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Colossal_bust_of_the_emperor_Vespasian%2C_69-79_AD%2C_from_Rome%2C_Neues_Museum%2C_Berlin.jpg/960px-Colossal_bust_of_the_emperor_Vespasian%2C_69-79_AD%2C_from_Rome%2C_Neues_Museum%2C_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1087,
+   "license": "CC BY-SA 2.0",
+   "artist": "Carole Raddato",
+   "page": "https://commons.wikimedia.org/wiki/File:Colossal_bust_of_the_emperor_Vespasian,_69-79_AD,_from_Rome,_Neues_Museum,_Berlin.jpg",
+   "desc": "Colossal bust of the emperor Vespasian, 69-79 AD, from Rome, Neues Museum, Berlin — Colossal bust of the emperor Vespasian, 69-79 AD, from Rome, Neues Museum, Berlin"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Colosseum_Ses_Titus_80AD.JPG/960px-Colosseum_Ses_Titus_80AD.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 719,
+   "license": "CC BY-SA 3.0",
+   "artist": "Rc 13",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseum_Ses_Titus_80AD.JPG",
+   "desc": "Colosseum Ses Titus 80AD — Sestertius of Titus celebrating the inauguration of the Colosseum, minted in 80 AD[1] (Altes Museum, Berlin)."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/EB1911_Rome_-_Example_of_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1018,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:EB1911_Rome_-_Example_of_Construction.jpg",
+   "desc": "EB1911 Rome - Example of Construction — An example of ancient Roman use of materials in construction. Some details of the Colosseum (upper part of one of the inner radiating walls under the cunei) are examined. A, A. Marble seats on brick and concrete core, su"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ave_Caesar_Morituri_te_Salutant_%28G%C3%A9r%C3%B4me%29_01.jpg/960px-Ave_Caesar_Morituri_te_Salutant_%28G%C3%A9r%C3%B4me%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 451,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Ave_Caesar_Morituri_te_Salutant_(G%C3%A9r%C3%B4me)_01.jpg",
+   "desc": "Ave Caesar Morituri te Salutant (Gérôme) 01 — "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 72
+  },
+  {
+   "type": "timeline",
+   "year": 80
+  },
+  {
+   "type": "focus",
+   "target": "travertine and concrete",
+   "box": [
+    645,
+    526,
+    755,
+    663
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 65000,
+   "unit": "spectators",
+   "label": "average audience"
+  }
+ ],
+ "geo": [
+  41.89,
+  12.492
+ ],
+ "qid": "Q10285",
+ "pron_wer": 0.067,
+ "angle": 1,
+ "source": {
+  "title": "Colosseum",
+  "url": "https://en.wikipedia.org/wiki/Colosseum",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:02:28Z",
+ "trimmed": true
+}
