@@ -1,0 +1,429 @@
+{
+ "id": "en-664dbc42",
+ "lang": "en",
+ "title": "How Chocolate Is Actually Made",
+ "cat": "biology",
+ "emoji": "🍫",
+ "sentences": [
+  "Cocoa beans are fermented to develop rich flavor.",
+  "Then they are dried, cleaned, and roasted.",
+  "The shell is removed to reveal inner nibs.",
+  "Those nibs are ground into rough chocolate liquor.",
+  "Sugar turns this base into sweetened dark chocolate.",
+  "Adding milk creates popular milk chocolate treats.",
+  "Making chocolate with only cocoa butter and milk produces white chocolate."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cocoa",
+    0.18,
+    0.46
+   ],
+   [
+    "beans",
+    0.46,
+    0.62
+   ],
+   [
+    "are",
+    0.62,
+    0.84
+   ],
+   [
+    "fermented",
+    0.84,
+    1.12
+   ],
+   [
+    "to",
+    1.12,
+    1.34
+   ],
+   [
+    "develop",
+    1.34,
+    1.62
+   ],
+   [
+    "rich",
+    1.62,
+    1.86
+   ],
+   [
+    "flavor.",
+    1.86,
+    2.56
+   ],
+   [
+    "Then",
+    2.66,
+    2.86
+   ],
+   [
+    "they",
+    2.86,
+    3.14
+   ],
+   [
+    "are",
+    3.14,
+    3.26
+   ],
+   [
+    "dried,",
+    3.26,
+    3.8
+   ],
+   [
+    "cleaned,",
+    3.82,
+    4.32
+   ],
+   [
+    "and",
+    4.32,
+    4.38
+   ],
+   [
+    "roasted.",
+    4.38,
+    4.8
+   ],
+   [
+    "The",
+    5.2,
+    5.22
+   ],
+   [
+    "shell",
+    5.22,
+    5.38
+   ],
+   [
+    "is",
+    5.38,
+    5.56
+   ],
+   [
+    "removed",
+    5.56,
+    5.84
+   ],
+   [
+    "to",
+    5.84,
+    6.1
+   ],
+   [
+    "reveal",
+    6.1,
+    6.34
+   ],
+   [
+    "inner",
+    6.34,
+    6.64
+   ],
+   [
+    "nibs.",
+    6.64,
+    6.92
+   ],
+   [
+    "Those",
+    7.3,
+    7.4
+   ],
+   [
+    "nibs",
+    7.4,
+    7.78
+   ],
+   [
+    "are",
+    7.8,
+    7.9
+   ],
+   [
+    "ground",
+    7.9,
+    8.16
+   ],
+   [
+    "into",
+    8.16,
+    8.4
+   ],
+   [
+    "rough",
+    8.4,
+    8.66
+   ],
+   [
+    "chocolate",
+    8.66,
+    9.02
+   ],
+   [
+    "liquor.",
+    9.02,
+    9.64
+   ],
+   [
+    "Sugar",
+    9.7,
+    9.84
+   ],
+   [
+    "turns",
+    9.84,
+    10.18
+   ],
+   [
+    "this",
+    10.18,
+    10.38
+   ],
+   [
+    "base",
+    10.38,
+    10.62
+   ],
+   [
+    "into",
+    10.62,
+    10.94
+   ],
+   [
+    "sweetened",
+    10.94,
+    11.38
+   ],
+   [
+    "dark",
+    11.38,
+    11.64
+   ],
+   [
+    "chocolate.",
+    11.64,
+    11.96
+   ],
+   [
+    "Adding",
+    12.36,
+    12.54
+   ],
+   [
+    "milk",
+    12.54,
+    12.82
+   ],
+   [
+    "creates",
+    12.82,
+    13.14
+   ],
+   [
+    "popular",
+    13.14,
+    13.6
+   ],
+   [
+    "milk",
+    13.6,
+    13.86
+   ],
+   [
+    "chocolate",
+    13.86,
+    14.22
+   ],
+   [
+    "treats.",
+    14.22,
+    14.52
+   ],
+   [
+    "Making",
+    14.88,
+    15.04
+   ],
+   [
+    "chocolate",
+    15.04,
+    15.46
+   ],
+   [
+    "with",
+    15.46,
+    15.64
+   ],
+   [
+    "only",
+    15.72,
+    15.88
+   ],
+   [
+    "cocoa",
+    15.88,
+    16.14
+   ],
+   [
+    "butter",
+    16.14,
+    16.4
+   ],
+   [
+    "and",
+    16.4,
+    16.6
+   ],
+   [
+    "milk",
+    16.6,
+    16.88
+   ],
+   [
+    "produces",
+    16.88,
+    17.3
+   ],
+   [
+    "white",
+    17.3,
+    17.58
+   ],
+   [
+    "chocolate.",
+    17.58,
+    17.82
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   23,
+   31,
+   39,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._%2810687048615%29.jpg/960px-Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._%2810687048615%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "CC BY 2.0",
+   "artist": "Irene Scott/AusAID",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocoa_farmer_David_Kebu_Jnr_holding_fermenting_cocoa_beans._(10687048615).jpg",
+   "desc": "Cocoa farmer David Kebu Jnr holding fermenting cocoa beans. (10687048615) — Cocoa farmer David Kebu Jnr holding fermenting cocoa beans. Photo taken by Irene Scott for AusAID. (13/2529)"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chuao_003.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Electrolito",
+   "page": "https://commons.wikimedia.org/wiki/File:Chuao_003.JPG",
+   "desc": "Chuao 003 — Boy collecting cacao from drying in Chuao, Venezuela."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Cocoa_Nibs_in_Bowl.jpg/960px-Cocoa_Nibs_in_Bowl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 679,
+   "license": "CC0",
+   "artist": "Ll1324",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocoa_Nibs_in_Bowl.jpg",
+   "desc": "Cocoa Nibs in Bowl — Cocoa nibs (cracked cocoa beans) in a bowl."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Conche.jpg/960px-Conche.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY 2.0",
+   "artist": "Lisa Davis",
+   "page": "https://commons.wikimedia.org/wiki/File:Conche.jpg",
+   "desc": "Conche — A longitudinal conche, used to refine and conch the chocolate"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Green_and_Black%27s_dark_chocolate_bar_2.jpg/960px-Green_and_Black%27s_dark_chocolate_bar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC0",
+   "artist": "Mx. Granger",
+   "page": "https://commons.wikimedia.org/wiki/File:Green_and_Black%27s_dark_chocolate_bar_2.jpg",
+   "desc": "Green and Black's dark chocolate bar 2 — Green &amp; Black's organic dark chocolate bar (35 grams, 70% cocoa). Sold in the United Kingdom."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Cadbury-Dairy-Milk-Caramel-Bar.jpg/960px-Cadbury-Dairy-Milk-Caramel-Bar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 398,
+   "license": "Public domain",
+   "artist": "Evan-Amos",
+   "page": "https://commons.wikimedia.org/wiki/File:Cadbury-Dairy-Milk-Caramel-Bar.jpg",
+   "desc": "Cadbury-Dairy-Milk-Caramel-Bar — A Cadbury Dairy Milk chocolate bar, filled with caramel (not visible on the illustration)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Twix_white_split_%286902053171%29.jpg/960px-Twix_white_split_%286902053171%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 618,
+   "license": "CC BY 2.0",
+   "artist": "Bodo",
+   "page": "https://commons.wikimedia.org/wiki/File:Twix_white_split_(6902053171).jpg",
+   "desc": "Twix white split (6902053171) — &lt;a href=\"http://schoko-riegel.com/index.php/77-schokor/136-twixwhite\" rel=\"noreferrer nofollow\"&gt;schoko-riegel.com/index.php/77-schokor/136-twixwhite&lt;/a&gt;"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q195",
+ "pron_wer": 0.0,
+ "angle": 2,
+ "source": {
+  "title": "Chocolate",
+  "url": "https://en.wikipedia.org/wiki/Chocolate",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:58:48Z",
+ "trimmed": true
+}
