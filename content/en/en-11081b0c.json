@@ -1,0 +1,385 @@
+{
+ "id": "en-11081b0c",
+ "lang": "en",
+ "title": "Castles Were Never Just Homes",
+ "cat": "history",
+ "emoji": "🏰",
+ "sentences": [
+  "Castles were offensive bases, not just homes.",
+  "Scholars define them as private fortified residences for nobility.",
+  "Unlike palaces, their primary purpose was defense and control.",
+  "These structures appeared after the Carolingian Empire fell.",
+  "Lords used them to control surrounding territory during raids.",
+  "Common features included curtain walls, arrowslits, and portcullises.",
+  "Sometimes, even modern homes are built to mimic these ancient fortresses."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Castles",
+    0.16,
+    0.68
+   ],
+   [
+    "were",
+    0.68,
+    0.98
+   ],
+   [
+    "offensive",
+    0.98,
+    1.5
+   ],
+   [
+    "bases,",
+    1.5,
+    2.42
+   ],
+   [
+    "not",
+    2.76,
+    2.8
+   ],
+   [
+    "just",
+    2.8,
+    3.04
+   ],
+   [
+    "homes.",
+    3.04,
+    3.5
+   ],
+   [
+    "Scholars",
+    4.34,
+    4.44
+   ],
+   [
+    "define",
+    4.44,
+    4.82
+   ],
+   [
+    "them",
+    4.82,
+    5.06
+   ],
+   [
+    "as",
+    5.06,
+    5.26
+   ],
+   [
+    "private",
+    5.26,
+    5.74
+   ],
+   [
+    "fortified",
+    5.74,
+    6.54
+   ],
+   [
+    "residences",
+    6.54,
+    7.2
+   ],
+   [
+    "for",
+    7.2,
+    7.54
+   ],
+   [
+    "nobility.",
+    7.54,
+    8.02
+   ],
+   [
+    "Unlike",
+    8.72,
+    8.98
+   ],
+   [
+    "palaces,",
+    8.98,
+    9.84
+   ],
+   [
+    "their",
+    9.98,
+    10.06
+   ],
+   [
+    "primary",
+    10.3,
+    10.46
+   ],
+   [
+    "purpose",
+    10.46,
+    10.96
+   ],
+   [
+    "was",
+    10.96,
+    11.28
+   ],
+   [
+    "defense",
+    11.58,
+    11.68
+   ],
+   [
+    "and",
+    11.68,
+    12.06
+   ],
+   [
+    "control.",
+    12.06,
+    12.52
+   ],
+   [
+    "These",
+    13.38,
+    13.48
+   ],
+   [
+    "structures",
+    13.48,
+    13.74
+   ],
+   [
+    "appeared",
+    13.74,
+    14.14
+   ],
+   [
+    "after",
+    14.14,
+    14.52
+   ],
+   [
+    "the",
+    14.52,
+    14.66
+   ],
+   [
+    "Carolingian",
+    14.66,
+    15.24
+   ],
+   [
+    "Empire",
+    15.24,
+    15.64
+   ],
+   [
+    "fell.",
+    15.64,
+    16.22
+   ],
+   [
+    "Lords",
+    16.84,
+    16.98
+   ],
+   [
+    "used",
+    16.98,
+    17.22
+   ],
+   [
+    "them",
+    17.22,
+    17.38
+   ],
+   [
+    "to",
+    17.38,
+    17.5
+   ],
+   [
+    "control",
+    17.5,
+    17.84
+   ],
+   [
+    "surrounding",
+    17.84,
+    18.3
+   ],
+   [
+    "territory",
+    18.3,
+    18.82
+   ],
+   [
+    "during",
+    18.88,
+    19.24
+   ],
+   [
+    "raids.",
+    19.24,
+    19.8
+   ],
+   [
+    "Common",
+    20.4,
+    20.58
+   ],
+   [
+    "features",
+    20.58,
+    20.9
+   ],
+   [
+    "included",
+    20.9,
+    21.5
+   ],
+   [
+    "curtain",
+    21.5,
+    21.86
+   ],
+   [
+    "walls,",
+    21.86,
+    22.58
+   ],
+   [
+    "arrowslits,",
+    22.68,
+    23.6
+   ],
+   [
+    "and",
+    23.62,
+    23.82
+   ],
+   [
+    "portcullises.",
+    23.82,
+    24.52
+   ],
+   [
+    "Sometimes,",
+    25.4,
+    25.9
+   ],
+   [
+    "even",
+    26.2,
+    26.36
+   ],
+   [
+    "modern",
+    26.36,
+    26.72
+   ],
+   [
+    "homes",
+    26.72,
+    27.1
+   ],
+   [
+    "are",
+    27.1,
+    27.3
+   ],
+   [
+    "built",
+    27.3,
+    27.48
+   ],
+   [
+    "to",
+    27.48,
+    27.7
+   ],
+   [
+    "mimic",
+    27.7,
+    27.98
+   ],
+   [
+    "these",
+    27.98,
+    28.28
+   ],
+   [
+    "ancient",
+    28.28,
+    28.82
+   ],
+   [
+    "fortresses.",
+    28.82,
+    29.26
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   33,
+   42,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q23413",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Castle",
+  "url": "https://en.wikipedia.org/wiki/Castle",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:07:12Z",
+ "trimmed": true
+}
