@@ -1,0 +1,429 @@
+{
+ "id": "en-48d94c83",
+ "lang": "en",
+ "title": "Strange Light Rocks on Mars",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Mars is hiding strange, light-colored rocks.",
+  "Perseverance found these boulders beyond Jezero crater.",
+  "Most Martian rocks are dark basalt, making these stand out.",
+  "Data shows they are igneous gabbro, formed by cooling magma deep underground.",
+  "The rover is now investigating nearby breccia to see if these rocks eroded from it.",
+  "Asteroid impacts might be responsible for digging them up."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Mars",
+    0.35,
+    0.35
+   ],
+   [
+    "is",
+    0.35,
+    0.61
+   ],
+   [
+    "hiding",
+    0.61,
+    0.85
+   ],
+   [
+    "strange,",
+    0.85,
+    1.71
+   ],
+   [
+    "light-colored",
+    1.77,
+    2.19
+   ],
+   [
+    "rocks.",
+    2.19,
+    2.55
+   ],
+   [
+    "Perseverance",
+    3.25,
+    3.81
+   ],
+   [
+    "found",
+    3.81,
+    4.07
+   ],
+   [
+    "these",
+    4.07,
+    4.29
+   ],
+   [
+    "boulders",
+    4.29,
+    4.77
+   ],
+   [
+    "beyond",
+    4.77,
+    5.11
+   ],
+   [
+    "Jezero",
+    5.11,
+    5.63
+   ],
+   [
+    "crater.",
+    5.63,
+    5.73
+   ],
+   [
+    "Most",
+    6.55,
+    6.69
+   ],
+   [
+    "Martian",
+    6.69,
+    7.17
+   ],
+   [
+    "rocks",
+    7.17,
+    7.45
+   ],
+   [
+    "are",
+    7.45,
+    7.65
+   ],
+   [
+    "dark",
+    7.65,
+    7.97
+   ],
+   [
+    "basalt,",
+    7.97,
+    8.45
+   ],
+   [
+    "making",
+    8.89,
+    9.03
+   ],
+   [
+    "these",
+    9.03,
+    9.27
+   ],
+   [
+    "stand",
+    9.27,
+    9.59
+   ],
+   [
+    "out.",
+    9.59,
+    9.83
+   ],
+   [
+    "Data",
+    10.41,
+    10.59
+   ],
+   [
+    "shows",
+    10.59,
+    11.03
+   ],
+   [
+    "they",
+    11.03,
+    11.31
+   ],
+   [
+    "are",
+    11.31,
+    11.45
+   ],
+   [
+    "igneous",
+    11.51,
+    11.97
+   ],
+   [
+    "gabbro,",
+    11.97,
+    12.43
+   ],
+   [
+    "formed",
+    12.83,
+    13.01
+   ],
+   [
+    "by",
+    13.01,
+    13.27
+   ],
+   [
+    "cooling",
+    13.27,
+    13.57
+   ],
+   [
+    "magma",
+    13.57,
+    14.15
+   ],
+   [
+    "deep",
+    14.15,
+    14.35
+   ],
+   [
+    "underground.",
+    14.35,
+    14.97
+   ],
+   [
+    "The",
+    15.59,
+    15.67
+   ],
+   [
+    "rover",
+    15.67,
+    15.95
+   ],
+   [
+    "is",
+    15.95,
+    16.25
+   ],
+   [
+    "now",
+    16.25,
+    16.49
+   ],
+   [
+    "investigating",
+    16.49,
+    17.23
+   ],
+   [
+    "nearby",
+    17.23,
+    17.73
+   ],
+   [
+    "breccia",
+    17.73,
+    18.33
+   ],
+   [
+    "to",
+    18.33,
+    18.49
+   ],
+   [
+    "see",
+    18.49,
+    18.73
+   ],
+   [
+    "if",
+    18.73,
+    18.89
+   ],
+   [
+    "these",
+    18.89,
+    19.09
+   ],
+   [
+    "rocks",
+    19.09,
+    19.45
+   ],
+   [
+    "eroded",
+    19.47,
+    19.91
+   ],
+   [
+    "from",
+    19.91,
+    20.15
+   ],
+   [
+    "it.",
+    20.15,
+    20.75
+   ],
+   [
+    "Asteroid",
+    20.83,
+    21.39
+   ],
+   [
+    "impacts",
+    21.39,
+    21.71
+   ],
+   [
+    "might",
+    21.71,
+    22.11
+   ],
+   [
+    "be",
+    22.11,
+    22.29
+   ],
+   [
+    "responsible",
+    22.29,
+    22.81
+   ],
+   [
+    "for",
+    22.81,
+    23.17
+   ],
+   [
+    "digging",
+    23.17,
+    23.43
+   ],
+   [
+    "them",
+    23.43,
+    23.65
+   ],
+   [
+    "up.",
+    23.65,
+    24.01
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   23,
+   35,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/PIA24924-Mars-PerseveranceRover-DeltaSamplingLocations-20220915.jpg/960px-PIA24924-Mars-PerseveranceRover-DeltaSamplingLocations-20220915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/ASU/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA24924-Mars-PerseveranceRover-DeltaSamplingLocations-20220915.jpg",
+   "desc": "PIA24924-Mars-PerseveranceRover-DeltaSamplingLocations-20220915 — PIA24924: 2 Perseverance Sampling Locations in Jezero's Delta https://photojournal.jpl.nasa.gov/catalog/PIA24924 This image shows two locations in Mars's Jezero Crater where NASA's Perseverance "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/PIA24745-MarsPerseveranceRover-PaverRocksArea-20210715.jpg/960px-PIA24745-MarsPerseveranceRover-PaverRocksArea-20210715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 136,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/ASU/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA24745-MarsPerseveranceRover-PaverRocksArea-20210715.jpg",
+   "desc": "PIA24745-MarsPerseveranceRover-PaverRocksArea-20210715 — PIA24745: An Expanse for Perseverance to Explore https://photojournal.jpl.nasa.gov/catalog/PIA24745 3-D Version This wide view of Mars' Jezero Crater was taken by NASA's Perseverance rover on July 15, 20"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Thin_Section_of_Hillhouse_Gabbro_-_geograph_5888115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Jonathan Wilkins (https://www.geograph.org.uk/profile/7090)",
+   "page": "https://commons.wikimedia.org/wiki/File:Thin_Section_of_Hillhouse_Gabbro_-_geograph_5888115.jpg",
+   "desc": "Thin Section of Hillhouse Gabbro - geograph 5888115 — Thin section of Hillhouse Gabbro from near Dundonald in Scotland. A photomicrograph of a petrographic section of the local rock, an analcime gabbro of Carboniferous age. The rock slice has been cut and lapp"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Breccia_-_geograph.org.uk_-_831778.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Anne Burgess",
+   "page": "https://commons.wikimedia.org/wiki/File:Breccia_-_geograph.org.uk_-_831778.jpg",
+   "desc": "Breccia - geograph.org.uk - 831778 — Breccia Scraping away the shingle revealed angular blocks of gneiss contained in a matrix of fine sandstone, cut and smoothed by the action of ice. Near Achnahaird in Scotland."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Impacts_and_floods_ESA199666.jpg/960px-Impacts_and_floods_ESA199666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 327,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:Impacts_and_floods_ESA199666.jpg",
+   "desc": "Impacts and floods ESA199666 — Large and small, hundreds of thousands of craters scar the surface of Mars, hollowed out by a multitude of asteroids and comets that impacted the Red Planet throughout its history. This image shows a region of the planet"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "gabbro igneous rock",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "breccia rock",
+   "box": [
+    499,
+    214,
+    963,
+    487
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/",
+ "pron_wer": 0.017,
+ "angle": 1,
+ "source": {
+  "title": "A Journey to the Depths of Ancient Mars?",
+  "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:02:47Z",
+ "trimmed": true
+}

@@ -114,7 +114,8 @@
   "1927 New Jersey Amendment 4",
   "nasa:1480607",
   "James Wood Bush",
-  "2020 Seattle Sounders FC season"
+  "2020 Seattle Sounders FC season",
+  "nasa:1504201"
  ],
  "rejected": [
   "Chameleon",
@@ -512,6 +513,9 @@
   ],
   "2020 Seattle Sounders FC season": [
    "Seattle Sounders 2020 Season: The Sounders played in a pandemic."
+  ],
+  "nasa:1504201": [
+   "Ancient River on Mars: Mars once held a rushing river."
   ]
  },
  "exhausted": []
