@@ -134,7 +134,8 @@
   "nasa:1350129",
   "Kim Clijsters",
   "2017 Africa Cup of Nations final",
-  "nasa:1479874"
+  "nasa:1479874",
+  "nasa:1281254"
  ],
  "rejected": [
   "Chameleon",
@@ -607,6 +608,9 @@
   ],
   "nasa:1479874": [
    "Antarctic Sea Ice Declines: Antarctic sea ice hit a low maximum."
+  ],
+  "nasa:1281254": [
+   "Congaree's Giant Forest: 80 percent of Congaree National Park is a floodplain."
   ]
  },
  "exhausted": []

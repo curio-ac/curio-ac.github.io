@@ -1,0 +1,406 @@
+{
+ "id": "en-8e7231f2",
+ "lang": "en",
+ "title": "The Secrets Of Ann Arbor",
+ "cat": "history",
+ "emoji": "🌲",
+ "sentences": [
+  "Native villages stood here back in 1774!",
+  "The Anishinaabe people originally inhabited this Michigan region.",
+  "American settlers officially founded Ann Arbor in 1824.",
+  "The city sits right along the Huron River.",
+  "It is home to the oldest university in the state.",
+  "High technology drives its economy with numerous startup companies.",
+  "By 2020, its population grew to 123,851 people."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Native",
+    0.24,
+    0.24
+   ],
+   [
+    "villages",
+    0.24,
+    0.64
+   ],
+   [
+    "stood",
+    0.64,
+    0.96
+   ],
+   [
+    "here",
+    0.96,
+    1.2
+   ],
+   [
+    "back",
+    1.2,
+    1.46
+   ],
+   [
+    "in",
+    1.46,
+    1.7
+   ],
+   [
+    "1774!",
+    1.7,
+    3.6
+   ],
+   [
+    "The",
+    3.6,
+    3.66
+   ],
+   [
+    "Anishinaabe",
+    3.66,
+    4.26
+   ],
+   [
+    "people",
+    4.26,
+    4.64
+   ],
+   [
+    "originally",
+    4.98,
+    5.18
+   ],
+   [
+    "inhabited",
+    5.18,
+    5.78
+   ],
+   [
+    "this",
+    5.78,
+    6.08
+   ],
+   [
+    "Michigan",
+    6.18,
+    6.38
+   ],
+   [
+    "region.",
+    6.38,
+    6.64
+   ],
+   [
+    "American",
+    7.6,
+    7.86
+   ],
+   [
+    "settlers",
+    7.88,
+    8.28
+   ],
+   [
+    "officially",
+    8.28,
+    8.86
+   ],
+   [
+    "founded",
+    8.86,
+    9.26
+   ],
+   [
+    "Ann",
+    9.26,
+    9.52
+   ],
+   [
+    "Arbor",
+    9.52,
+    9.8
+   ],
+   [
+    "in",
+    9.8,
+    10.04
+   ],
+   [
+    "1824.",
+    10.39,
+    11.14
+   ],
+   [
+    "The",
+    11.88,
+    11.98
+   ],
+   [
+    "city",
+    11.98,
+    12.2
+   ],
+   [
+    "sits",
+    12.2,
+    12.5
+   ],
+   [
+    "right",
+    12.5,
+    12.86
+   ],
+   [
+    "along",
+    12.86,
+    13.2
+   ],
+   [
+    "the",
+    13.2,
+    13.38
+   ],
+   [
+    "Huron",
+    13.38,
+    13.7
+   ],
+   [
+    "River.",
+    13.7,
+    14.0
+   ],
+   [
+    "It",
+    14.68,
+    14.78
+   ],
+   [
+    "is",
+    14.78,
+    14.9
+   ],
+   [
+    "home",
+    14.9,
+    15.06
+   ],
+   [
+    "to",
+    15.06,
+    15.22
+   ],
+   [
+    "the",
+    15.22,
+    15.34
+   ],
+   [
+    "oldest",
+    15.34,
+    15.68
+   ],
+   [
+    "university",
+    15.68,
+    16.26
+   ],
+   [
+    "in",
+    16.26,
+    16.52
+   ],
+   [
+    "the",
+    16.52,
+    16.62
+   ],
+   [
+    "state.",
+    16.62,
+    16.9
+   ],
+   [
+    "High",
+    17.74,
+    17.86
+   ],
+   [
+    "technology",
+    17.86,
+    18.36
+   ],
+   [
+    "drives",
+    18.36,
+    18.68
+   ],
+   [
+    "its",
+    18.68,
+    18.88
+   ],
+   [
+    "economy",
+    18.88,
+    19.22
+   ],
+   [
+    "with",
+    19.22,
+    19.6
+   ],
+   [
+    "numerous",
+    19.68,
+    20.0
+   ],
+   [
+    "startup",
+    20.0,
+    20.32
+   ],
+   [
+    "companies.",
+    20.32,
+    20.94
+   ],
+   [
+    "By",
+    21.62,
+    21.72
+   ],
+   [
+    "2020,",
+    21.72,
+    22.4
+   ],
+   [
+    "its",
+    22.54,
+    22.58
+   ],
+   [
+    "population",
+    22.58,
+    23.0
+   ],
+   [
+    "grew",
+    23.0,
+    23.42
+   ],
+   [
+    "to",
+    23.42,
+    23.58
+   ],
+   [
+    "123,851",
+    23.58,
+    26.34
+   ],
+   [
+    "people.",
+    26.34,
+    26.72
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   41,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Chippewa_Indian_%281904_World%27s_Fair%29.jpg/960px-Chippewa_Indian_%281904_World%27s_Fair%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 996,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Chippewa_Indian_(1904_World%27s_Fair).jpg",
+   "desc": "Chippewa Indian (1904 World's Fair) — Title: Chippewa Indian (1904 World's Fair)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/HuronRiverAnnArbor.JPG/960px-HuronRiverAnnArbor.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY 3.0",
+   "artist": "AndrewHorne",
+   "page": "https://commons.wikimedia.org/wiki/File:HuronRiverAnnArbor.JPG",
+   "desc": "HuronRiverAnnArbor — The Huron River within the Ann Arbor area. 2010"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ann_Arbor_Skyline_2021.jpg/960px-Ann_Arbor_Skyline_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 340,
+   "license": "CC BY-SA 4.0",
+   "artist": "WeaponizingArchitecture",
+   "page": "https://commons.wikimedia.org/wiki/File:Ann_Arbor_Skyline_2021.jpg",
+   "desc": "Ann Arbor Skyline 2021 — Skyline of Ann Arbor Michigan as of October 2021"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1774
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1824
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 123851,
+   "unit": "people",
+   "label": "population in 2020"
+  }
+ ],
+ "geo": [
+  42.281,
+  -83.748
+ ],
+ "qid": "Q485172",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Ann Arbor, Michigan",
+  "url": "https://en.wikipedia.org/wiki/Ann_Arbor%2C_Michigan",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T15:31:30Z",
+ "trimmed": true
+}
