@@ -1,0 +1,376 @@
+{
+ "id": "he-449b0dd6",
+ "lang": "he",
+ "title": "האיש שהמציא את עולם המדע",
+ "cat": "history",
+ "emoji": "🗺️",
+ "sentences": [
+  "סבסטיאן מינסטר עמל כמעט 30 שנה על ספר אחד.",
+  "הספר קוסמוגרפיה יצא לאור בשנת 1544.",
+  "הוא הפך לאחד מהספרים המצליחים ביותר במאות ה-16 וה-17.",
+  "הוא גם תרגם את התנ\"ך וספרים מעברית ללטינית.",
+  "מינסטר ספג ביקורת קשה מהממסד הנוצרי בשל קשריו עם יהודים.",
+  "לבסוף הוא הפך את לימודי העברית בגרמניה לדיסציפלינה אקדמית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "סבסטיאן",
+    0.04,
+    0.66
+   ],
+   [
+    "מינסטר",
+    0.66,
+    1.24
+   ],
+   [
+    "עמל",
+    1.24,
+    1.64
+   ],
+   [
+    "כמעט",
+    1.64,
+    2.04
+   ],
+   [
+    "30",
+    2.06,
+    2.3
+   ],
+   [
+    "שנה",
+    2.3,
+    3.0
+   ],
+   [
+    "על",
+    3.0,
+    3.16
+   ],
+   [
+    "ספר",
+    3.16,
+    3.44
+   ],
+   [
+    "אחד.",
+    3.44,
+    3.66
+   ],
+   [
+    "הספר",
+    4.52,
+    4.8
+   ],
+   [
+    "קוסמוגרפיה",
+    4.8,
+    6.0
+   ],
+   [
+    "יצא",
+    6.42,
+    6.54
+   ],
+   [
+    "לאור",
+    6.54,
+    6.8
+   ],
+   [
+    "בשנת",
+    6.8,
+    7.2
+   ],
+   [
+    "1544.",
+    7.2,
+    8.86
+   ],
+   [
+    "הוא",
+    9.62,
+    9.64
+   ],
+   [
+    "הפך",
+    9.64,
+    9.88
+   ],
+   [
+    "לאחד",
+    9.88,
+    10.24
+   ],
+   [
+    "מהספרים",
+    10.24,
+    10.68
+   ],
+   [
+    "המצליחים",
+    10.68,
+    11.48
+   ],
+   [
+    "ביותר",
+    11.48,
+    11.9
+   ],
+   [
+    "במאות",
+    11.9,
+    12.32
+   ],
+   [
+    "ה-16",
+    12.32,
+    12.76
+   ],
+   [
+    "וה-17.",
+    12.76,
+    13.66
+   ],
+   [
+    "הוא",
+    14.5,
+    14.52
+   ],
+   [
+    "גם",
+    14.52,
+    14.62
+   ],
+   [
+    "תרגם",
+    14.62,
+    14.98
+   ],
+   [
+    "את",
+    14.98,
+    15.06
+   ],
+   [
+    "התנ\"ך",
+    15.06,
+    15.62
+   ],
+   [
+    "וספרים",
+    15.62,
+    16.2
+   ],
+   [
+    "מעברית",
+    16.24,
+    16.82
+   ],
+   [
+    "ללטינית.",
+    16.82,
+    17.4
+   ],
+   [
+    "מינסטר",
+    18.44,
+    18.8
+   ],
+   [
+    "ספג",
+    18.8,
+    19.24
+   ],
+   [
+    "ביקורת",
+    19.54,
+    19.74
+   ],
+   [
+    "קשה",
+    19.86,
+    20.2
+   ],
+   [
+    "מהממסד",
+    20.2,
+    20.86
+   ],
+   [
+    "הנוצרי",
+    20.86,
+    21.3
+   ],
+   [
+    "בשל",
+    21.3,
+    21.68
+   ],
+   [
+    "קשריו",
+    21.68,
+    22.18
+   ],
+   [
+    "עם",
+    22.18,
+    22.36
+   ],
+   [
+    "יהודים.",
+    22.36,
+    22.56
+   ],
+   [
+    "לבסוף",
+    23.74,
+    24.14
+   ],
+   [
+    "הוא",
+    24.26,
+    24.36
+   ],
+   [
+    "הפך",
+    24.36,
+    24.66
+   ],
+   [
+    "את",
+    24.66,
+    24.76
+   ],
+   [
+    "לימודי",
+    24.78,
+    25.24
+   ],
+   [
+    "העברית",
+    25.24,
+    25.72
+   ],
+   [
+    "בגרמניה",
+    25.78,
+    26.4
+   ],
+   [
+    "לדיסציפלינה",
+    26.62,
+    27.3
+   ],
+   [
+    "אקדמית.",
+    27.3,
+    27.7
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   15,
+   24,
+   32,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Portrait_of_the_Cosmographer_Sebastien_Munster_WGA.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 924,
+   "license": "Public domain",
+   "artist": "כריסטוף אמברגר",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_the_Cosmographer_Sebastien_Munster_WGA.jpg",
+   "desc": "Portrait of the Cosmographer Sebastien Munster WGA — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Cosmographia_%28Sebastian_M%C3%BCnster%29_706.jpg/960px-Cosmographia_%28Sebastian_M%C3%BCnster%29_706.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1054,
+   "license": "Public domain",
+   "artist": "Sebastian Münster",
+   "page": "https://commons.wikimedia.org/wiki/File:Cosmographia_(Sebastian_M%C3%BCnster)_706.jpg",
+   "desc": "Cosmographia (Sebastian Münster) 706 — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1130,
+   "license": "Public domain",
+   "artist": "Sebastian Münster",
+   "page": "https://commons.wikimedia.org/wiki/File:Europe_As_A_Queen_Sebastian_Munster_1570.jpg",
+   "desc": "Europe As A Queen Sebastian Munster 1570 — Map of Europe as a queen. In Sebastian Münster: Cosmographia, Das ist Beschreibung der ganzen Welt. Henricus Petri, Basel 1628, p. 54. See the edition from 1628: https://archive.org/details/muenster_cosmographia_1628/"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sebastian_M%C3%BCnster%2C_Biblia_Hebraica.jpg/960px-Sebastian_M%C3%BCnster%2C_Biblia_Hebraica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "LGLou",
+   "page": "https://commons.wikimedia.org/wiki/File:Sebastian_M%C3%BCnster,_Biblia_Hebraica.jpg",
+   "desc": "Sebastian Münster, Biblia Hebraica — Sebastian Münster, Biblia Hebraica: Latin translation of the Hebrew Bible printed by Heinrich Petri and Michael Isengrin, 1546, Basel, in the collection of the Jewish Museum of Switzerland. Photographer: Dieter Hofer Obj"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Remigius-Muenster.jpg/960px-Remigius-Muenster.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "לא סופק יוצר ששמו ניתן לקריאה במכונה. בהתבסס על תביעות זכויות יוצרים, ההנחה היא ",
+   "page": "https://commons.wikimedia.org/wiki/File:Remigius-Muenster.jpg",
+   "desc": "Remigius-Muenster — Statue of Sebastian Münster in front of St. Remigius Church, Ingelheim, Germany."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1544
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q61073",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "סבסטיאן מינסטר",
+  "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%91%D7%A1%D7%98%D7%99%D7%90%D7%9F_%D7%9E%D7%99%D7%A0%D7%A1%D7%98%D7%A8",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:53:02Z",
+ "trimmed": true
+}
