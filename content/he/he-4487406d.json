@@ -411,7 +411,7 @@
  "qid": "Q37686",
  "pron_wer": 0.081,
  "hidden": true,
- "needs_voice": true,
+ "needs_voice": false,
  "hidden_reason": [
   "pronunciation 8.1%"
  ]
