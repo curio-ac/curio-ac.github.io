@@ -1,0 +1,432 @@
+{
+ "id": "en-a6b6ff45",
+ "lang": "en",
+ "title": "Hubble's Out-of-Sync Galaxy",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "An out-of-sync galaxy hides a chaotic secret.",
+  "NGC 4698 lies 55 million light-years away in the constellation Virgo.",
+  "Its spiral arms hover in a ring-like structure around the perimeter.",
+  "A supermassive black hole sits at its center.",
+  "Its starry bulge extends out from the disk at a right angle.",
+  "The stars and gas nearest the center rotate perpendicular to the rest of the disk."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.2,
+    0.2
+   ],
+   [
+    "out-of-sync",
+    0.2,
+    0.74
+   ],
+   [
+    "galaxy",
+    0.74,
+    1.22
+   ],
+   [
+    "hides",
+    1.22,
+    1.58
+   ],
+   [
+    "a",
+    1.58,
+    1.76
+   ],
+   [
+    "chaotic",
+    1.78,
+    2.08
+   ],
+   [
+    "secret.",
+    2.08,
+    2.34
+   ],
+   [
+    "NGC",
+    2.98,
+    3.36
+   ],
+   [
+    "4698",
+    3.36,
+    4.14
+   ],
+   [
+    "lies",
+    4.14,
+    4.58
+   ],
+   [
+    "55",
+    4.58,
+    4.98
+   ],
+   [
+    "million",
+    4.98,
+    5.48
+   ],
+   [
+    "light-years",
+    5.48,
+    5.94
+   ],
+   [
+    "away",
+    5.94,
+    6.24
+   ],
+   [
+    "in",
+    6.24,
+    6.46
+   ],
+   [
+    "the",
+    6.46,
+    6.54
+   ],
+   [
+    "constellation",
+    6.54,
+    7.06
+   ],
+   [
+    "Virgo.",
+    7.06,
+    7.68
+   ],
+   [
+    "Its",
+    8.06,
+    8.16
+   ],
+   [
+    "spiral",
+    8.16,
+    8.46
+   ],
+   [
+    "arms",
+    8.46,
+    8.84
+   ],
+   [
+    "hover",
+    8.84,
+    9.06
+   ],
+   [
+    "in",
+    9.06,
+    9.28
+   ],
+   [
+    "a",
+    9.28,
+    9.36
+   ],
+   [
+    "ring-like",
+    9.36,
+    9.68
+   ],
+   [
+    "structure",
+    9.68,
+    10.1
+   ],
+   [
+    "around",
+    10.1,
+    10.42
+   ],
+   [
+    "the",
+    10.42,
+    10.62
+   ],
+   [
+    "perimeter.",
+    10.62,
+    11.24
+   ],
+   [
+    "A",
+    11.52,
+    11.62
+   ],
+   [
+    "supermassive",
+    11.62,
+    12.2
+   ],
+   [
+    "black",
+    12.2,
+    12.4
+   ],
+   [
+    "hole",
+    12.4,
+    12.66
+   ],
+   [
+    "sits",
+    12.66,
+    12.9
+   ],
+   [
+    "at",
+    12.98,
+    13.1
+   ],
+   [
+    "its",
+    13.1,
+    13.24
+   ],
+   [
+    "center.",
+    13.24,
+    13.34
+   ],
+   [
+    "Its",
+    14.0,
+    14.12
+   ],
+   [
+    "starry",
+    14.12,
+    14.5
+   ],
+   [
+    "bulge",
+    14.5,
+    14.86
+   ],
+   [
+    "extends",
+    14.86,
+    15.16
+   ],
+   [
+    "out",
+    15.16,
+    15.44
+   ],
+   [
+    "from",
+    15.44,
+    15.62
+   ],
+   [
+    "the",
+    15.62,
+    15.74
+   ],
+   [
+    "disk",
+    15.74,
+    15.96
+   ],
+   [
+    "at",
+    15.96,
+    16.16
+   ],
+   [
+    "a",
+    16.16,
+    16.26
+   ],
+   [
+    "right",
+    16.26,
+    16.42
+   ],
+   [
+    "angle.",
+    16.42,
+    16.8
+   ],
+   [
+    "The",
+    17.22,
+    17.3
+   ],
+   [
+    "stars",
+    17.3,
+    17.56
+   ],
+   [
+    "and",
+    17.56,
+    17.76
+   ],
+   [
+    "gas",
+    17.76,
+    18.02
+   ],
+   [
+    "nearest",
+    18.02,
+    18.28
+   ],
+   [
+    "the",
+    18.28,
+    18.52
+   ],
+   [
+    "center",
+    18.52,
+    18.78
+   ],
+   [
+    "rotate",
+    18.78,
+    19.18
+   ],
+   [
+    "perpendicular",
+    19.19,
+    19.64
+   ],
+   [
+    "to",
+    19.64,
+    20.1
+   ],
+   [
+    "the",
+    20.1,
+    20.22
+   ],
+   [
+    "rest",
+    20.22,
+    20.4
+   ],
+   [
+    "of",
+    20.4,
+    20.54
+   ],
+   [
+    "the",
+    20.54,
+    20.62
+   ],
+   [
+    "disk.",
+    20.62,
+    20.88
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   29,
+   37,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_galaxy_spinning_out_of_sync_ESA528760.jpg/960px-A_galaxy_spinning_out_of_sync_ESA528760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 731,
+   "license": "CC BY 4.0",
+   "artist": "ESA/Hubble &amp; NASA, D. Thilker, the MAUVE-HST Team",
+   "page": "https://commons.wikimedia.org/wiki/File:A_galaxy_spinning_out_of_sync_ESA528760.jpg",
+   "desc": "A galaxy spinning out of sync ESA528760 — Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Vir"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_galaxy_spinning_out_of_sync_ESA528760.jpg/960px-A_galaxy_spinning_out_of_sync_ESA528760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 731,
+   "license": "CC BY 4.0",
+   "artist": "ESA/Hubble &amp; NASA, D. Thilker, the MAUVE-HST Team",
+   "page": "https://commons.wikimedia.org/wiki/File:A_galaxy_spinning_out_of_sync_ESA528760.jpg",
+   "desc": "A galaxy spinning out of sync ESA528760 — Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Vir"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/M87%27s_supermassive_black_hole.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 688,
+   "license": "CC BY 4.0",
+   "artist": "The Event Horizon Telescope Collaboration, Kazunori Akiyama, Ezequiel Albentosa-",
+   "page": "https://commons.wikimedia.org/wiki/File:M87%27s_supermassive_black_hole.png",
+   "desc": "M87's supermassive black hole — The supermassive black hole at the center of galaxy Messier 87."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 55,
+   "unit": "million light-years",
+   "label": "away in Virgo"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "supermassive black hole",
+   "box": [
+    237,
+    270,
+    712,
+    755
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-spots-an-out-of-sync-galaxy/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-an-out-of-sync-galaxy/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T14:35:54Z",
+ "trimmed": true
+}
