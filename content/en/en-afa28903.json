@@ -1,0 +1,414 @@
+{
+ "id": "en-afa28903",
+ "lang": "en",
+ "title": "The Capri-Sun Story",
+ "cat": "history",
+ "emoji": "🧃",
+ "sentences": [
+  "6 billion Capri-Sun pouches sell every year.",
+  "Rudolf Wild invented this juice back in 1969.",
+  "It launched in West Germany as Capri-Sonne.",
+  "The brand later retired that name in 2017.",
+  "These iconic foil pouches actually predated Tetra Brik.",
+  "Today, you can find them in over 100 countries.",
+  "It remains one of the world's most popular juice brands."
+ ],
+ "tim": {
+  "w": [
+   [
+    "6",
+    0.35,
+    0.35
+   ],
+   [
+    "billion",
+    0.35,
+    0.89
+   ],
+   [
+    "Capri-Sun",
+    0.89,
+    1.61
+   ],
+   [
+    "pouches",
+    1.61,
+    2.17
+   ],
+   [
+    "sell",
+    2.17,
+    2.41
+   ],
+   [
+    "every",
+    2.41,
+    2.87
+   ],
+   [
+    "year.",
+    2.87,
+    3.31
+   ],
+   [
+    "Rudolf",
+    3.75,
+    4.11
+   ],
+   [
+    "Wild",
+    4.17,
+    4.39
+   ],
+   [
+    "invented",
+    4.39,
+    4.93
+   ],
+   [
+    "this",
+    4.93,
+    5.15
+   ],
+   [
+    "juice",
+    5.15,
+    5.35
+   ],
+   [
+    "back",
+    5.35,
+    5.61
+   ],
+   [
+    "in",
+    5.61,
+    5.83
+   ],
+   [
+    "1969.",
+    5.83,
+    7.47
+   ],
+   [
+    "It",
+    7.47,
+    7.53
+   ],
+   [
+    "launched",
+    7.53,
+    7.85
+   ],
+   [
+    "in",
+    7.85,
+    8.01
+   ],
+   [
+    "West",
+    8.01,
+    8.25
+   ],
+   [
+    "Germany",
+    8.25,
+    8.59
+   ],
+   [
+    "as",
+    8.59,
+    8.91
+   ],
+   [
+    "Capri-Sonne.",
+    8.91,
+    9.56
+   ],
+   [
+    "The",
+    10.21,
+    10.31
+   ],
+   [
+    "brand",
+    10.31,
+    10.51
+   ],
+   [
+    "later",
+    10.51,
+    10.75
+   ],
+   [
+    "retired",
+    10.75,
+    11.15
+   ],
+   [
+    "that",
+    11.15,
+    11.45
+   ],
+   [
+    "name",
+    11.47,
+    11.67
+   ],
+   [
+    "in",
+    11.67,
+    11.85
+   ],
+   [
+    "2017.",
+    11.85,
+    12.55
+   ],
+   [
+    "These",
+    13.27,
+    13.39
+   ],
+   [
+    "iconic",
+    13.39,
+    13.91
+   ],
+   [
+    "foil",
+    13.91,
+    14.23
+   ],
+   [
+    "pouches",
+    14.23,
+    14.79
+   ],
+   [
+    "actually",
+    14.79,
+    15.19
+   ],
+   [
+    "predated",
+    15.19,
+    15.85
+   ],
+   [
+    "Tetra",
+    15.85,
+    16.23
+   ],
+   [
+    "Brik.",
+    16.23,
+    16.33
+   ],
+   [
+    "Today,",
+    17.13,
+    17.51
+   ],
+   [
+    "you",
+    17.59,
+    17.61
+   ],
+   [
+    "can",
+    17.61,
+    17.75
+   ],
+   [
+    "find",
+    17.75,
+    17.95
+   ],
+   [
+    "them",
+    17.95,
+    18.09
+   ],
+   [
+    "in",
+    18.09,
+    18.21
+   ],
+   [
+    "over",
+    18.21,
+    18.41
+   ],
+   [
+    "100",
+    18.41,
+    18.91
+   ],
+   [
+    "countries.",
+    18.91,
+    19.41
+   ],
+   [
+    "It",
+    19.95,
+    20.03
+   ],
+   [
+    "remains",
+    20.03,
+    20.31
+   ],
+   [
+    "one",
+    20.31,
+    20.53
+   ],
+   [
+    "of",
+    20.53,
+    20.65
+   ],
+   [
+    "the",
+    20.67,
+    20.77
+   ],
+   [
+    "world's",
+    20.77,
+    21.15
+   ],
+   [
+    "most",
+    21.15,
+    21.33
+   ],
+   [
+    "popular",
+    21.33,
+    21.85
+   ],
+   [
+    "juice",
+    21.85,
+    22.15
+   ],
+   [
+    "brands.",
+    22.15,
+    22.53
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   22,
+   30,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Capri_Sun_pouch_standing.jpg/960px-Capri_Sun_pouch_standing.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Tamzin Hadasa Kelly",
+   "page": "https://commons.wikimedia.org/wiki/File:Capri_Sun_pouch_standing.jpg",
+   "desc": "Capri Sun pouch standing — A Capri Sun pouch standing up"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Rudolf_Wild_Werke_Eppelheim_Januar_2015.JPG/960px-Rudolf_Wild_Werke_Eppelheim_Januar_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "4028mdk09",
+   "page": "https://commons.wikimedia.org/wiki/File:Rudolf_Wild_Werke_Eppelheim_Januar_2015.JPG",
+   "desc": "Rudolf Wild Werke Eppelheim Januar 2015 — Rudolf-Wild-Werke in Eppelheim (Rhein-Neckar-Kreis, Deutschland)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Capri-Sonne-Werk_Eppelheim.jpg/960px-Capri-Sonne-Werk_Eppelheim.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Luftschiffhafen",
+   "page": "https://commons.wikimedia.org/wiki/File:Capri-Sonne-Werk_Eppelheim.jpg",
+   "desc": "Capri-Sonne-Werk Eppelheim — Capri-Sonne-Werk (Firma Wild) in Eppelheim"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Capri-Sun_China_headquarters_%2820220418131317%29.jpg/960px-Capri-Sun_China_headquarters_%2820220418131317%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "N509FZ",
+   "page": "https://commons.wikimedia.org/wiki/File:Capri-Sun_China_headquarters_(20220418131317).jpg",
+   "desc": "Capri-Sun China headquarters (20220418131317) — Bestshin Beverage (Beijing) Co., Ltd."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  0,
+  3,
+  0
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 6,
+   "unit": "billion",
+   "label": "pouches sold"
+  },
+  {
+   "type": "timeline",
+   "year": 1969
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2017
+  },
+  {
+   "type": "focus",
+   "target": "foil pouch",
+   "box": [
+    40,
+    301,
+    935,
+    788
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q969761",
+ "pron_wer": 0.067,
+ "angle": 0,
+ "source": {
+  "title": "Capri-Sun",
+  "url": "https://en.wikipedia.org/wiki/Capri-Sun",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:54:59Z",
+ "trimmed": true
+}

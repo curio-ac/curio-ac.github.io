@@ -81,7 +81,8 @@
   "nasa:1506766",
   "Cholangiocarcinoma",
   "Castle",
-  "Anna Blackburne"
+  "Anna Blackburne",
+  "Neal Dow"
  ],
  "rejected": [
   "Chameleon",
@@ -93,7 +94,9 @@
   "Tardigrade",
   "Monarch butterfly",
   "Hurricane Connie",
-  "nasa:1463164"
+  "nasa:1463164",
+  "nasa:1282505",
+  "Battle of Preston (1648)"
  ],
  "angles": {
   "Blue whale": [
@@ -362,6 +365,9 @@
   ],
   "Anna Blackburne": [
    "Anna Blackburne's Natural History Museum: Anna Blackburne built her own natural history museum."
+  ],
+  "Neal Dow": [
+   "The Father of Prohibition: He ordered soldiers to fire on a crowd."
   ]
  },
  "exhausted": []
