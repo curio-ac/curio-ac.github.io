@@ -102,7 +102,8 @@
   "Bill Denny",
   "The Dark Side of the Moon",
   "Admiralty Islands campaign",
-  "L'Ange de Nisida"
+  "L'Ange de Nisida",
+  "Conte di Cavour-class battleship"
  ],
  "rejected": [
   "Chameleon",
@@ -460,6 +461,9 @@
   ],
   "L'Ange de Nisida": [
    "Lost Opera Played 2018: An opera waited nearly 180 years for its premiere."
+  ],
+  "Conte di Cavour-class battleship": [
+   "Italian Dreadnoughts in WWI: Three Italian dreadnoughts formed the Conte di Cavour class in the 1910s."
   ]
  },
  "exhausted": []

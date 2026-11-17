@@ -1,0 +1,314 @@
+{
+ "id": "en-c6188822",
+ "lang": "en",
+ "title": "Earth's Shifting Ozone Hole",
+ "cat": "chemistry",
+ "emoji": "🌍",
+ "sentences": [
+  "Earth's ozone layer is thinning.",
+  "The ozone hole isn't actually empty space.",
+  "It is a metaphor for low concentrations.",
+  "Chemicals like CFCs destroy stratospheric ozone.",
+  "Human activities drive this destruction.",
+  "The Montreal Protocol phases out these chemicals."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Earth's",
+    0.2,
+    0.42
+   ],
+   [
+    "ozone",
+    0.42,
+    0.76
+   ],
+   [
+    "layer",
+    1.04,
+    1.14
+   ],
+   [
+    "is",
+    1.14,
+    1.48
+   ],
+   [
+    "thinning.",
+    1.48,
+    1.88
+   ],
+   [
+    "The",
+    2.68,
+    2.68
+   ],
+   [
+    "ozone",
+    2.68,
+    3.04
+   ],
+   [
+    "hole",
+    3.04,
+    3.38
+   ],
+   [
+    "isn't",
+    3.38,
+    3.88
+   ],
+   [
+    "actually",
+    3.88,
+    4.26
+   ],
+   [
+    "empty",
+    4.26,
+    4.7
+   ],
+   [
+    "space.",
+    4.7,
+    5.2
+   ],
+   [
+    "It",
+    5.84,
+    5.86
+   ],
+   [
+    "is",
+    5.86,
+    5.98
+   ],
+   [
+    "a",
+    5.98,
+    6.08
+   ],
+   [
+    "metaphor",
+    6.38,
+    6.48
+   ],
+   [
+    "for",
+    6.48,
+    6.86
+   ],
+   [
+    "low",
+    6.86,
+    7.18
+   ],
+   [
+    "concentrations.",
+    7.18,
+    7.48
+   ],
+   [
+    "Chemicals",
+    8.84,
+    9.34
+   ],
+   [
+    "like",
+    9.34,
+    9.5
+   ],
+   [
+    "CFCs",
+    9.5,
+    10.4
+   ],
+   [
+    "destroy",
+    10.4,
+    10.96
+   ],
+   [
+    "stratospheric",
+    10.96,
+    11.72
+   ],
+   [
+    "ozone.",
+    11.72,
+    12.12
+   ],
+   [
+    "Human",
+    13.06,
+    13.24
+   ],
+   [
+    "activities",
+    13.24,
+    13.78
+   ],
+   [
+    "drive",
+    14.1,
+    14.28
+   ],
+   [
+    "this",
+    14.28,
+    14.56
+   ],
+   [
+    "destruction.",
+    14.56,
+    14.96
+   ],
+   [
+    "The",
+    15.98,
+    16.0
+   ],
+   [
+    "Montreal",
+    16.0,
+    16.4
+   ],
+   [
+    "Protocol",
+    16.4,
+    17.0
+   ],
+   [
+    "phases",
+    17.0,
+    17.56
+   ],
+   [
+    "out",
+    17.56,
+    17.86
+   ],
+   [
+    "these",
+    17.86,
+    18.06
+   ],
+   [
+    "chemicals.",
+    18.06,
+    18.38
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   12,
+   19,
+   25,
+   30
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ozone_Hole_Reaches_Its_2026_Maximum_%281508914_-_ozone_geos5_20260918_hires%29.jpg/960px-Ozone_Hole_Reaches_Its_2026_Maximum_%281508914_-_ozone_geos5_20260918_hires%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 740,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Ozone_Hole_Reaches_Its_2026_Maximum_(1508914_-_ozone_geos5_20260918_hires).jpg",
+   "desc": "Ozone Hole Reaches Its 2026 Maximum (1508914 - ozone geos5 20260918 hires) — This data visualization shows the area and shape of the ozone hole on September 18, 2026, the day of its annual maximum extent. Scientists define the ozone hole as the area in which o"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ozone_depletion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Saranit gade",
+   "page": "https://commons.wikimedia.org/wiki/File:Ozone_depletion.png",
+   "desc": "Ozone depletion — A steady decline of about four percent in the total amount of ozone in Earth's stratosphere (the ozone layer), and a much larger springtime decrease in stratospheric ozone around Earth's polar regions."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/First_image_of_ozone_from_Sentinel-4_ESA513729.jpg/960px-First_image_of_ozone_from_Sentinel-4_ESA513729.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Attribution",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:First_image_of_ozone_from_Sentinel-4_ESA513729.jpg",
+   "desc": "First image of ozone from Sentinel-4 ESA513729 — The new Copernicus Sentinel-4 mission has delivered its first images, highlighting concentrations of atmospheric nitrogen dioxide, sulphur dioxide and ozone. Despite being preliminary, these images mark a major "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/CFCs_%26_Ozone.jpg/960px-CFCs_%26_Ozone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 552,
+   "license": "CC BY-SA 4.0",
+   "artist": "Nicole Leihe",
+   "page": "https://commons.wikimedia.org/wiki/File:CFCs_%26_Ozone.jpg",
+   "desc": "CFCs & Ozone — CFCs are released into the atmosphere via aerosols and refrigerants. Sunlight breaks the CFC molecules up so that there are lone chlorine atoms in the atmosphere. The Cl atoms bond to lone oxygen atoms that come from the"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Evidence_of_human-induced_global_warming_-_patterns_of_temperature_change_produced_by_various_atmospheric_factors%2C_1958-1999_%28USGCRP%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 791,
+   "license": "Public domain",
+   "artist": "USGCRP",
+   "page": "https://commons.wikimedia.org/wiki/File:Evidence_of_human-induced_global_warming_-_patterns_of_temperature_change_produced_by_various_atmospheric_factors,_1958-1999_(USGCRP).png",
+   "desc": "Evidence of human-induced global warming - patterns of temperature change produced by various atmospheric factors, 1958-1999 (USGCRP) — From the cited public-domain source - US Global Change Research Program (USGCRP, 2009): \"Climate simulations of the vertical"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ozone_Hole_Continues_Healing_in_2024_%28153523%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 740,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory image by Lauren Dauphin, using data courtesy of NASA Ozon",
+   "page": "https://commons.wikimedia.org/wiki/File:Ozone_Hole_Continues_Healing_in_2024_(153523).jpg",
+   "desc": "Ozone Hole Continues Healing in 2024 (153523) — A hole that opens annually in the ozone layer over Earth’s southern pole was relatively small in 2024 compared to other years. Scientists with NASA and the National Oceanic and Atmospheric Administration (NOAA) p"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Ozone Hole Reaches Its 2026 Maximum",
+  "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:07:24Z",
+ "trimmed": true
+}
