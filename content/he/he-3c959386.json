@@ -1,0 +1,381 @@
+{
+ "id": "he-3c959386",
+ "lang": "he",
+ "title": "הדיוקן העצמי של אוגוסטוס",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "המנהיג הראשון של רומא כתב לעצמו כתובת תעמולתית מרתקת בגוף ראשון.",
+  "היא נקראת תיאור מפעלותיו של אוגוסטוס האלוהי.",
+  "הטקסט מחולק להקדמה, 35 פסקאות ונספח.",
+  "הוא מתאר קריירה פוליטית, תרומה לציבור והישגים צבאיים.",
+  "אוקטביאנוס החל את דרכו הפוליטית בגיל 19 בלבד על חשבונו.",
+  "הסנאט הרומי נתן את ברכתו למהלך בכפייה ולא מרצון."
+ ],
+ "tim": {
+  "w": [
+   [
+    "המנהיג",
+    0.14,
+    0.46
+   ],
+   [
+    "הראשון",
+    0.46,
+    0.88
+   ],
+   [
+    "של",
+    0.88,
+    1.08
+   ],
+   [
+    "רומא",
+    1.08,
+    1.44
+   ],
+   [
+    "כתב",
+    1.9,
+    2.04
+   ],
+   [
+    "לעצמו",
+    2.04,
+    2.46
+   ],
+   [
+    "כתובת",
+    2.46,
+    2.98
+   ],
+   [
+    "תעמולתית",
+    2.98,
+    3.66
+   ],
+   [
+    "מרתקת",
+    3.66,
+    4.42
+   ],
+   [
+    "בגוף",
+    4.56,
+    4.86
+   ],
+   [
+    "ראשון.",
+    4.86,
+    4.96
+   ],
+   [
+    "היא",
+    5.96,
+    5.98
+   ],
+   [
+    "נקראת",
+    5.98,
+    6.4
+   ],
+   [
+    "תיאור",
+    6.66,
+    6.96
+   ],
+   [
+    "מפעלותיו",
+    6.96,
+    7.7
+   ],
+   [
+    "של",
+    7.7,
+    7.96
+   ],
+   [
+    "אוגוסטוס",
+    7.96,
+    8.6
+   ],
+   [
+    "האלוהי.",
+    8.6,
+    8.88
+   ],
+   [
+    "הטקסט",
+    10.16,
+    10.26
+   ],
+   [
+    "מחולק",
+    10.26,
+    10.66
+   ],
+   [
+    "להקדמה,",
+    10.66,
+    11.38
+   ],
+   [
+    "35",
+    11.68,
+    12.16
+   ],
+   [
+    "פסקאות",
+    12.16,
+    13.12
+   ],
+   [
+    "ונספח.",
+    13.12,
+    13.72
+   ],
+   [
+    "הוא",
+    14.72,
+    14.8
+   ],
+   [
+    "מתאר",
+    14.8,
+    15.14
+   ],
+   [
+    "קריירה",
+    15.14,
+    15.68
+   ],
+   [
+    "פוליטית,",
+    15.68,
+    15.78
+   ],
+   [
+    "תרומה",
+    16.66,
+    16.92
+   ],
+   [
+    "לציבור",
+    16.92,
+    17.5
+   ],
+   [
+    "והישגים",
+    17.5,
+    18.3
+   ],
+   [
+    "צבאיים.",
+    18.3,
+    18.64
+   ],
+   [
+    "אוקטביאנוס",
+    19.9,
+    20.4
+   ],
+   [
+    "החל",
+    20.4,
+    20.8
+   ],
+   [
+    "את",
+    20.8,
+    20.88
+   ],
+   [
+    "דרכו",
+    20.88,
+    21.24
+   ],
+   [
+    "הפוליטית",
+    21.24,
+    21.8
+   ],
+   [
+    "בגיל",
+    21.86,
+    22.14
+   ],
+   [
+    "19",
+    22.24,
+    22.48
+   ],
+   [
+    "בלבד",
+    22.56,
+    23.72
+   ],
+   [
+    "על",
+    23.72,
+    24.04
+   ],
+   [
+    "חשבונו.",
+    24.04,
+    24.52
+   ],
+   [
+    "הסנאט",
+    25.58,
+    25.82
+   ],
+   [
+    "הרומי",
+    25.82,
+    26.18
+   ],
+   [
+    "נתן",
+    26.18,
+    26.52
+   ],
+   [
+    "את",
+    26.52,
+    26.58
+   ],
+   [
+    "ברכתו",
+    26.58,
+    27.12
+   ],
+   [
+    "למהלך",
+    27.6,
+    27.7
+   ],
+   [
+    "בכפייה",
+    27.7,
+    28.34
+   ],
+   [
+    "ולא",
+    28.76,
+    29.02
+   ],
+   [
+    "מרצון.",
+    29.02,
+    29.18
+   ]
+  ],
+  "b": [
+   0,
+   11,
+   18,
+   24,
+   32,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/8162_-_Roma_-_Testo_Monumentum_Ancyranum_presso_Ara_Pacis_-_Foto_Giovanni_Dall%27Orto%2C_29-Mar-2008.jpg/960px-8162_-_Roma_-_Testo_Monumentum_Ancyranum_presso_Ara_Pacis_-_Foto_Giovanni_Dall%27Orto%2C_29-Mar-2008.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "Attribution",
+   "artist": "G.dallorto",
+   "page": "https://commons.wikimedia.org/wiki/File:8162_-_Roma_-_Testo_Monumentum_Ancyranum_presso_Ara_Pacis_-_Foto_Giovanni_Dall%27Orto,_29-Mar-2008.jpg",
+   "desc": "8162 - Roma - Testo Monumentum Ancyranum presso Ara Pacis - Foto Giovanni Dall'Orto, 29-Mar-2008 — The replica, created during the fascist period, of the text of the Res gestae Divi Augusti (the self-celebratory authobiography written by emperor Augustus), eng"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Res_Gestae.jpg/960px-Res_Gestae.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1083,
+   "license": "Public domain",
+   "artist": "Berolini, Weidmann, Mommsen",
+   "page": "https://commons.wikimedia.org/wiki/File:Res_Gestae.jpg",
+   "desc": "Res Gestae — Part of the Res gestae Divi Augusti from the Monumentum Ancyranum."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Monumentum_Ancyranum_Res_Gestae_Divi_Augusti_Part_1.jpg/960px-Monumentum_Ancyranum_Res_Gestae_Divi_Augusti_Part_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 550,
+   "license": "CC0",
+   "artist": "Perrot, Georges; Guillaume, Edmond; Delbet, Jules",
+   "page": "https://commons.wikimedia.org/wiki/File:Monumentum_Ancyranum_Res_Gestae_Divi_Augusti_Part_1.jpg",
+   "desc": "Monumentum Ancyranum Res Gestae Divi Augusti Part 1 — Illustration of the first part of the Res Gestae Divi Augusti in the Monumentum Ancyranum on the north wall of the Augusteum."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Monumentum_Ancyranum_Res_Gestae_Divi_Augusti_Part_2.jpg/960px-Monumentum_Ancyranum_Res_Gestae_Divi_Augusti_Part_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 555,
+   "license": "CC0",
+   "artist": "Perrot, Georges; Guillaume, Edmond; Delbet, Jules",
+   "page": "https://commons.wikimedia.org/wiki/File:Monumentum_Ancyranum_Res_Gestae_Divi_Augusti_Part_2.jpg",
+   "desc": "Monumentum Ancyranum Res Gestae Divi Augusti Part 2 — Illustration of the second part of the Res Gestae Divi Augusti in the Monumentum Ancyranum on the south wall of the Augusteum"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/960px-Statue-Augustus.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "Public domain",
+   "artist": "Till Niermann",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue-Augustus.jpg",
+   "desc": "Statue-Augustus — front view"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 35,
+   "unit": "פסקאות",
+   "label": "35 פסקאות"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 19,
+   "unit": "גיל",
+   "label": "בגיל 19"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q734095",
+ "pron_wer": 0.039,
+ "angle": 0,
+ "source": {
+  "title": "תיאור מפעלותיו של אוגוסטוס האלוהי",
+  "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%99%D7%90%D7%95%D7%A8_%D7%9E%D7%A4%D7%A2%D7%9C%D7%95%D7%AA%D7%99%D7%95_%D7%A9%D7%9C_%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98%D7%95%D7%A1_%D7%94%D7%90%D7%9C%D7%95%D7%94%D7%99",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:51:29Z",
+ "trimmed": true
+}
