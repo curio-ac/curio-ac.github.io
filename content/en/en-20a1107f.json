@@ -1,0 +1,356 @@
+{
+ "id": "en-20a1107f",
+ "lang": "en",
+ "title": "Black American Sign Language",
+ "cat": "language",
+ "emoji": "🤟",
+ "sentences": [
+  "BASL is a unique dialect of ASL.",
+  "Segregated schools created two distinct sign language communities.",
+  "Black deaf students and White deaf students learned separately.",
+  "This dialect persists in the South today.",
+  "BASL speakers often use a larger signing space.",
+  "They also prefer two-handed signs over one-handed ones.",
+  "Some signs even borrow from African American English."
+ ],
+ "tim": {
+  "w": [
+   [
+    "BASL",
+    0.26,
+    1.0
+   ],
+   [
+    "is",
+    1.0,
+    1.22
+   ],
+   [
+    "a",
+    1.22,
+    1.34
+   ],
+   [
+    "unique",
+    1.34,
+    1.74
+   ],
+   [
+    "dialect",
+    1.74,
+    2.28
+   ],
+   [
+    "of",
+    2.28,
+    2.66
+   ],
+   [
+    "ASL.",
+    2.66,
+    3.82
+   ],
+   [
+    "Segregated",
+    3.82,
+    4.36
+   ],
+   [
+    "schools",
+    4.36,
+    4.66
+   ],
+   [
+    "created",
+    4.66,
+    5.22
+   ],
+   [
+    "two",
+    5.22,
+    5.64
+   ],
+   [
+    "distinct",
+    5.64,
+    6.22
+   ],
+   [
+    "sign",
+    6.22,
+    6.6
+   ],
+   [
+    "language",
+    6.6,
+    6.94
+   ],
+   [
+    "communities.",
+    6.94,
+    8.3
+   ],
+   [
+    "Black",
+    8.3,
+    8.54
+   ],
+   [
+    "deaf",
+    8.54,
+    8.8
+   ],
+   [
+    "students",
+    8.8,
+    9.18
+   ],
+   [
+    "and",
+    9.18,
+    9.5
+   ],
+   [
+    "White",
+    9.5,
+    9.82
+   ],
+   [
+    "deaf",
+    9.82,
+    10.04
+   ],
+   [
+    "students",
+    10.04,
+    10.46
+   ],
+   [
+    "learned",
+    10.46,
+    10.84
+   ],
+   [
+    "separately.",
+    10.84,
+    11.24
+   ],
+   [
+    "This",
+    12.18,
+    12.3
+   ],
+   [
+    "dialect",
+    12.3,
+    12.72
+   ],
+   [
+    "persists",
+    12.72,
+    13.44
+   ],
+   [
+    "in",
+    13.56,
+    13.66
+   ],
+   [
+    "the",
+    13.66,
+    13.76
+   ],
+   [
+    "South",
+    13.78,
+    14.02
+   ],
+   [
+    "today.",
+    14.02,
+    14.12
+   ],
+   [
+    "BASL",
+    15.5,
+    16.14
+   ],
+   [
+    "speakers",
+    16.14,
+    16.34
+   ],
+   [
+    "often",
+    16.34,
+    16.84
+   ],
+   [
+    "use",
+    16.84,
+    17.08
+   ],
+   [
+    "a",
+    17.08,
+    17.26
+   ],
+   [
+    "larger",
+    17.26,
+    17.66
+   ],
+   [
+    "signing",
+    17.66,
+    18.1
+   ],
+   [
+    "space.",
+    18.1,
+    18.2
+   ],
+   [
+    "They",
+    19.08,
+    19.16
+   ],
+   [
+    "also",
+    19.16,
+    19.38
+   ],
+   [
+    "prefer",
+    19.38,
+    19.68
+   ],
+   [
+    "two-handed",
+    19.68,
+    20.46
+   ],
+   [
+    "signs",
+    20.46,
+    20.84
+   ],
+   [
+    "over",
+    20.84,
+    21.12
+   ],
+   [
+    "one-handed",
+    21.12,
+    21.72
+   ],
+   [
+    "ones.",
+    21.72,
+    22.67
+   ],
+   [
+    "Some",
+    22.92,
+    23.02
+   ],
+   [
+    "signs",
+    23.02,
+    23.32
+   ],
+   [
+    "even",
+    23.32,
+    23.66
+   ],
+   [
+    "borrow",
+    23.66,
+    24.0
+   ],
+   [
+    "from",
+    24.0,
+    24.24
+   ],
+   [
+    "African",
+    24.24,
+    24.62
+   ],
+   [
+    "American",
+    24.66,
+    24.9
+   ],
+   [
+    "English.",
+    24.9,
+    25.68
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   31,
+   39,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1954
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q19864441",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Black American Sign Language",
+  "url": "https://en.wikipedia.org/wiki/Black_American_Sign_Language",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:52:45Z",
+ "trimmed": true
+}

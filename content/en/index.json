@@ -106,7 +106,8 @@
   "Conte di Cavour-class battleship",
   "nasa:1508914",
   "World War II",
-  "nasa:1378514"
+  "nasa:1378514",
+  "nasa:1489375"
  ],
  "rejected": [
   "Chameleon",
@@ -480,6 +481,9 @@
   ],
   "nasa:1378514": [
    "Earth's Seasons From Space: Earth’s tilt creates our changing seasons."
+  ],
+  "nasa:1489375": [
+   "Amazon Rainforest on Fire: The Amazon is currently burning uncontrollably."
   ]
  },
  "exhausted": []
