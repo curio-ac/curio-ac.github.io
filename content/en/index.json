@@ -103,7 +103,8 @@
   "The Dark Side of the Moon",
   "Admiralty Islands campaign",
   "L'Ange de Nisida",
-  "Conte di Cavour-class battleship"
+  "Conte di Cavour-class battleship",
+  "nasa:1508914"
  ],
  "rejected": [
   "Chameleon",
@@ -464,6 +465,9 @@
   ],
   "Conte di Cavour-class battleship": [
    "Italian Dreadnoughts in WWI: Three Italian dreadnoughts formed the Conte di Cavour class in the 1910s."
+  ],
+  "nasa:1508914": [
+   "Earth's Shifting Ozone Hole: Earth's ozone layer is thinning."
   ]
  },
  "exhausted": []

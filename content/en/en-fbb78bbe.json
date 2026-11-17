@@ -1,0 +1,391 @@
+{
+ "id": "en-fbb78bbe",
+ "lang": "en",
+ "title": "The Deadliest War in History",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "History's deadliest conflict killed up to 75 million people.",
+  "Nearly every country joined this massive global war between two coalitions.",
+  "It officially began when Germany invaded Poland in 1939.",
+  "Millions died from starvation, disease, massacres, and brutal genocides.",
+  "The Soviet Union also invaded Poland later that month.",
+  "After the Allied victory, leaders were tried for war crimes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "History's",
+    0.28,
+    0.6
+   ],
+   [
+    "deadliest",
+    0.6,
+    1.24
+   ],
+   [
+    "conflict",
+    1.24,
+    1.82
+   ],
+   [
+    "killed",
+    2.14,
+    2.28
+   ],
+   [
+    "up",
+    2.28,
+    2.48
+   ],
+   [
+    "to",
+    2.52,
+    2.64
+   ],
+   [
+    "75",
+    3.18,
+    3.28
+   ],
+   [
+    "million",
+    3.28,
+    3.9
+   ],
+   [
+    "people.",
+    3.9,
+    4.96
+   ],
+   [
+    "Nearly",
+    4.96,
+    5.18
+   ],
+   [
+    "every",
+    5.18,
+    5.68
+   ],
+   [
+    "country",
+    5.68,
+    6.12
+   ],
+   [
+    "joined",
+    6.12,
+    6.48
+   ],
+   [
+    "this",
+    6.48,
+    6.76
+   ],
+   [
+    "massive",
+    6.76,
+    7.32
+   ],
+   [
+    "global",
+    7.32,
+    7.7
+   ],
+   [
+    "war",
+    7.7,
+    8.16
+   ],
+   [
+    "between",
+    8.4,
+    8.5
+   ],
+   [
+    "two",
+    8.5,
+    8.86
+   ],
+   [
+    "coalitions.",
+    8.86,
+    9.44
+   ],
+   [
+    "It",
+    10.16,
+    10.24
+   ],
+   [
+    "officially",
+    10.24,
+    10.58
+   ],
+   [
+    "began",
+    10.58,
+    11.08
+   ],
+   [
+    "when",
+    11.08,
+    11.34
+   ],
+   [
+    "Germany",
+    11.34,
+    11.78
+   ],
+   [
+    "invaded",
+    11.78,
+    12.36
+   ],
+   [
+    "Poland",
+    12.36,
+    12.84
+   ],
+   [
+    "in",
+    12.84,
+    13.22
+   ],
+   [
+    "1939.",
+    13.22,
+    14.12
+   ],
+   [
+    "Millions",
+    15.0,
+    15.46
+   ],
+   [
+    "died",
+    15.46,
+    15.76
+   ],
+   [
+    "from",
+    15.76,
+    16.02
+   ],
+   [
+    "starvation,",
+    16.02,
+    16.92
+   ],
+   [
+    "disease,",
+    17.08,
+    17.76
+   ],
+   [
+    "massacres,",
+    18.0,
+    18.7
+   ],
+   [
+    "and",
+    18.86,
+    18.88
+   ],
+   [
+    "brutal",
+    19.14,
+    19.28
+   ],
+   [
+    "genocides.",
+    19.28,
+    19.63
+   ],
+   [
+    "The",
+    20.8,
+    20.9
+   ],
+   [
+    "Soviet",
+    20.9,
+    21.16
+   ],
+   [
+    "Union",
+    21.16,
+    21.62
+   ],
+   [
+    "also",
+    21.62,
+    22.1
+   ],
+   [
+    "invaded",
+    22.1,
+    22.5
+   ],
+   [
+    "Poland",
+    22.5,
+    22.88
+   ],
+   [
+    "later",
+    22.88,
+    23.24
+   ],
+   [
+    "that",
+    23.24,
+    23.54
+   ],
+   [
+    "month.",
+    23.54,
+    23.8
+   ],
+   [
+    "After",
+    24.56,
+    24.82
+   ],
+   [
+    "the",
+    24.82,
+    25.0
+   ],
+   [
+    "Allied",
+    25.0,
+    25.34
+   ],
+   [
+    "victory,",
+    25.34,
+    26.19
+   ],
+   [
+    "leaders",
+    26.36,
+    26.42
+   ],
+   [
+    "were",
+    26.42,
+    26.74
+   ],
+   [
+    "tried",
+    26.74,
+    27.06
+   ],
+   [
+    "for",
+    27.06,
+    27.3
+   ],
+   [
+    "war",
+    27.48,
+    27.6
+   ],
+   [
+    "crimes.",
+    27.6,
+    27.7
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   20,
+   29,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Danzig_Police_at_Polish_Border_%281939-09-01%29.jpg/960px-Danzig_Police_at_Polish_Border_%281939-09-01%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 496,
+   "license": "Public domain",
+   "artist": "Hans Sönnke",
+   "page": "https://commons.wikimedia.org/wiki/File:Danzig_Police_at_Polish_Border_(1939-09-01).jpg",
+   "desc": "Danzig Police at Polish Border (1939-09-01) — Attention, the photo does not show the real situation of September 1, 1939. It is a staging of September 14, 1939 for the purposes of German propaganda ([3], [4], [5]). Free City of Danzig police and custom officia"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Czeslawa_Kwoka_-_Brasse.jpg/960px-Czeslawa_Kwoka_-_Brasse.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 319,
+   "license": "Public domain",
+   "artist": "Wilhelm Brasse",
+   "page": "https://commons.wikimedia.org/wiki/File:Czeslawa_Kwoka_-_Brasse.jpg",
+   "desc": "Czeslawa Kwoka - Brasse — Czesława Kwoka, child victim of Auschwitz, as shown in her prisoner identification photo taken in 1942 or 1943. Photograph attributed to Wilhelm Brasse, taken in 1942 or 1943, exhibited at Auschwitz-Birkenau State Museum"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Nazi-soviet_Invasion_of_Poland%2C_1939_HU106367.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 526,
+   "license": "Public domain",
+   "artist": "Planet News photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Nazi-soviet_Invasion_of_Poland,_1939_HU106367.jpg",
+   "desc": "The Nazi-soviet Invasion of Poland, 1939 HU106367 — The Nazi-soviet Invasion of Poland, 1939 Red Army troops standing beside a BA-I (actually BA-20) armoured car in the Polish town of Brest-Litovsk (Brześć Litewski) where two invading, German and Russian, armi"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 75,
+   "unit": "million",
+   "label": "deadliest conflict"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1939
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q362",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "World War II",
+  "url": "https://en.wikipedia.org/wiki/World_War_II",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:09:56Z",
+ "trimmed": true
+}
