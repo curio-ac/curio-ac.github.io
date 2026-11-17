@@ -100,7 +100,8 @@
   "Bill Brown (cricketer)",
   "French battleship Courbet",
   "Bill Denny",
-  "The Dark Side of the Moon"
+  "The Dark Side of the Moon",
+  "Admiralty Islands campaign"
  ],
  "rejected": [
   "Chameleon",
@@ -452,6 +453,9 @@
   ],
   "The Dark Side of the Moon": [
    "Dark Side of the Moon: Pink Floyd's album born from heavy pressures."
+  ],
+  "Admiralty Islands campaign": [
+   "The Empty Island Invasion: They invaded because they thought the islands were empty!"
   ]
  },
  "exhausted": []

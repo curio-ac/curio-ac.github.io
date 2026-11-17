@@ -1,0 +1,415 @@
+{
+ "id": "en-9dc26c11",
+ "lang": "en",
+ "title": "Lost Opera Played 2018",
+ "cat": "art",
+ "emoji": "🎭",
+ "sentences": [
+  "An opera waited nearly 180 years for its premiere.",
+  "Gaetano Donizetti finished composing L'Ange de Nisida in 1839.",
+  "The plot involved the mistress of a Neapolitan king.",
+  "Because of censors, he planned to show it in France.",
+  "That theater company went bankrupt.",
+  "The score was reworked into La favorite.",
+  "It finally debuted at London's Royal Opera House in 2018."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.18,
+    0.3
+   ],
+   [
+    "opera",
+    0.48,
+    0.58
+   ],
+   [
+    "waited",
+    0.58,
+    0.98
+   ],
+   [
+    "nearly",
+    0.98,
+    1.28
+   ],
+   [
+    "180",
+    1.28,
+    2.04
+   ],
+   [
+    "years",
+    2.04,
+    2.9
+   ],
+   [
+    "for",
+    3.04,
+    3.14
+   ],
+   [
+    "its",
+    3.14,
+    3.26
+   ],
+   [
+    "premiere.",
+    3.26,
+    3.6
+   ],
+   [
+    "Gaetano",
+    4.3,
+    4.66
+   ],
+   [
+    "Donizetti",
+    4.66,
+    5.14
+   ],
+   [
+    "finished",
+    5.14,
+    5.4
+   ],
+   [
+    "composing",
+    5.4,
+    6.0
+   ],
+   [
+    "L'Ange",
+    6.0,
+    6.44
+   ],
+   [
+    "de",
+    6.46,
+    6.56
+   ],
+   [
+    "Nisida",
+    6.56,
+    6.94
+   ],
+   [
+    "in",
+    6.94,
+    7.32
+   ],
+   [
+    "1839.",
+    7.65,
+    8.4
+   ],
+   [
+    "The",
+    9.08,
+    9.14
+   ],
+   [
+    "plot",
+    9.22,
+    9.36
+   ],
+   [
+    "involved",
+    9.36,
+    9.66
+   ],
+   [
+    "the",
+    9.66,
+    9.9
+   ],
+   [
+    "mistress",
+    10.08,
+    10.18
+   ],
+   [
+    "of",
+    10.18,
+    10.5
+   ],
+   [
+    "a",
+    10.5,
+    10.58
+   ],
+   [
+    "Neapolitan",
+    10.58,
+    11.1
+   ],
+   [
+    "king.",
+    11.1,
+    11.85
+   ],
+   [
+    "Because",
+    12.1,
+    12.2
+   ],
+   [
+    "of",
+    12.22,
+    12.32
+   ],
+   [
+    "censors,",
+    12.32,
+    12.57
+   ],
+   [
+    "he",
+    13.08,
+    13.14
+   ],
+   [
+    "planned",
+    13.14,
+    13.34
+   ],
+   [
+    "to",
+    13.34,
+    13.48
+   ],
+   [
+    "show",
+    13.48,
+    13.64
+   ],
+   [
+    "it",
+    13.64,
+    13.72
+   ],
+   [
+    "in",
+    13.72,
+    13.8
+   ],
+   [
+    "France.",
+    13.8,
+    14.08
+   ],
+   [
+    "That",
+    14.92,
+    15.02
+   ],
+   [
+    "theater",
+    15.02,
+    15.26
+   ],
+   [
+    "company",
+    15.26,
+    15.54
+   ],
+   [
+    "went",
+    15.54,
+    15.76
+   ],
+   [
+    "bankrupt.",
+    15.76,
+    16.06
+   ],
+   [
+    "The",
+    16.8,
+    16.9
+   ],
+   [
+    "score",
+    16.9,
+    17.1
+   ],
+   [
+    "was",
+    17.1,
+    17.28
+   ],
+   [
+    "reworked",
+    17.28,
+    17.84
+   ],
+   [
+    "into",
+    17.92,
+    18.08
+   ],
+   [
+    "La",
+    18.08,
+    18.38
+   ],
+   [
+    "favorite.",
+    18.38,
+    18.84
+   ],
+   [
+    "It",
+    19.52,
+    19.68
+   ],
+   [
+    "finally",
+    19.88,
+    20.12
+   ],
+   [
+    "debuted",
+    20.12,
+    20.52
+   ],
+   [
+    "at",
+    20.52,
+    20.78
+   ],
+   [
+    "London's",
+    20.78,
+    21.28
+   ],
+   [
+    "Royal",
+    21.28,
+    21.46
+   ],
+   [
+    "Opera",
+    21.46,
+    21.74
+   ],
+   [
+    "House",
+    21.76,
+    22.08
+   ],
+   [
+    "in",
+    22.08,
+    22.28
+   ],
+   [
+    "2018.",
+    22.28,
+    22.72
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   27,
+   37,
+   42,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gaetano_Donizetti_%28portrait_by_Joseph_Kriehuber%2C_1842%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "Josef Kriehuber",
+   "page": "https://commons.wikimedia.org/wiki/File:Gaetano_Donizetti_(portrait_by_Joseph_Kriehuber,_1842).jpg",
+   "desc": "Gaetano Donizetti (portrait by Joseph Kriehuber, 1842) — *Description: Lithograph portrait of Gaetano Donizetti"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/NisidaSeenFromPosillipo.jpg/960px-NisidaSeenFromPosillipo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Original uploader was Nimh at it.wikipedia. Io sono l'autore dell'immagine.",
+   "page": "https://commons.wikimedia.org/wiki/File:NisidaSeenFromPosillipo.jpg",
+   "desc": "NisidaSeenFromPosillipo — Nisida (island), seen from the Posillipo"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gaetano_Donizetti_-_La_favorita_-_Edizioni_Ricordi_-_title_page.jpg/960px-Gaetano_Donizetti_-_La_favorita_-_Edizioni_Ricordi_-_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "Teatro Municipal in Santiago, Chile",
+   "page": "https://commons.wikimedia.org/wiki/File:Gaetano_Donizetti_-_La_favorita_-_Edizioni_Ricordi_-_title_page.jpg",
+   "desc": "Gaetano Donizetti - La favorita - Edizioni Ricordi - title page — 2-D representation of 19th century souvenir libretto for the 19th century opera La Favorita."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Royal_Opera_House_exterior.jpg/960px-Royal_Opera_House_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 712,
+   "license": "CC BY 4.0",
+   "artist": "APK",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Opera_House_exterior.jpg",
+   "desc": "Royal Opera House exterior — Royal Opera House, London"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1839
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1840
+  },
+  {
+   "type": "timeline",
+   "year": 2018
+  }
+ ],
+ "geo": null,
+ "qid": "Q3818584",
+ "pron_wer": 0.049,
+ "angle": 0,
+ "source": {
+  "title": "L'Ange de Nisida",
+  "url": "https://en.wikipedia.org/wiki/L%27Ange_de_Nisida",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:03:01Z",
+ "trimmed": true
+}
