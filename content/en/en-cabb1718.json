@@ -1,0 +1,413 @@
+{
+ "id": "en-cabb1718",
+ "lang": "en",
+ "title": "Ancient Writing Still Alive",
+ "cat": "language",
+ "emoji": "✍️",
+ "sentences": [
+  "This writing system has survived for 3,000 years.",
+  "It is one of four independently invented systems, but the only one still in continuous use.",
+  "Unlike alphabets, these characters represent meanings, not just sounds.",
+  "You need roughly 2,000 to 3,000 characters to write frequently used vocabulary.",
+  "Yet, over 100,000 unique characters are officially identified in Unicode.",
+  "It all started with 13th-century BCE oracle bone inscriptions."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.22
+   ],
+   [
+    "writing",
+    0.22,
+    0.52
+   ],
+   [
+    "system",
+    0.8,
+    0.9
+   ],
+   [
+    "has",
+    0.9,
+    1.14
+   ],
+   [
+    "survived",
+    1.14,
+    1.56
+   ],
+   [
+    "for",
+    1.56,
+    1.86
+   ],
+   [
+    "3,000",
+    2.16,
+    2.84
+   ],
+   [
+    "years.",
+    2.84,
+    3.44
+   ],
+   [
+    "It",
+    3.86,
+    3.96
+   ],
+   [
+    "is",
+    3.96,
+    4.06
+   ],
+   [
+    "one",
+    4.06,
+    4.22
+   ],
+   [
+    "of",
+    4.22,
+    4.34
+   ],
+   [
+    "four",
+    4.48,
+    4.68
+   ],
+   [
+    "independently",
+    4.68,
+    5.36
+   ],
+   [
+    "invented",
+    5.36,
+    5.88
+   ],
+   [
+    "systems,",
+    5.88,
+    6.28
+   ],
+   [
+    "but",
+    6.78,
+    6.88
+   ],
+   [
+    "the",
+    6.88,
+    7.02
+   ],
+   [
+    "only",
+    7.14,
+    7.4
+   ],
+   [
+    "one",
+    7.4,
+    7.76
+   ],
+   [
+    "still",
+    7.76,
+    8.02
+   ],
+   [
+    "in",
+    8.02,
+    8.22
+   ],
+   [
+    "continuous",
+    8.62,
+    8.72
+   ],
+   [
+    "use.",
+    8.72,
+    9.26
+   ],
+   [
+    "Unlike",
+    9.9,
+    10.14
+   ],
+   [
+    "alphabets,",
+    10.14,
+    11.16
+   ],
+   [
+    "these",
+    11.16,
+    11.28
+   ],
+   [
+    "characters",
+    11.28,
+    11.68
+   ],
+   [
+    "represent",
+    11.68,
+    12.24
+   ],
+   [
+    "meanings,",
+    12.24,
+    12.98
+   ],
+   [
+    "not",
+    13.1,
+    13.22
+   ],
+   [
+    "just",
+    13.22,
+    13.42
+   ],
+   [
+    "sounds.",
+    13.42,
+    13.72
+   ],
+   [
+    "You",
+    14.48,
+    14.6
+   ],
+   [
+    "need",
+    14.6,
+    14.8
+   ],
+   [
+    "roughly",
+    14.8,
+    15.1
+   ],
+   [
+    "2,000",
+    15.1,
+    15.96
+   ],
+   [
+    "to",
+    15.96,
+    16.12
+   ],
+   [
+    "3,000",
+    16.12,
+    16.84
+   ],
+   [
+    "characters",
+    16.84,
+    17.28
+   ],
+   [
+    "to",
+    17.28,
+    17.56
+   ],
+   [
+    "write",
+    17.56,
+    17.72
+   ],
+   [
+    "frequently",
+    17.72,
+    18.1
+   ],
+   [
+    "used",
+    18.1,
+    18.54
+   ],
+   [
+    "vocabulary.",
+    18.54,
+    18.64
+   ],
+   [
+    "Yet,",
+    19.88,
+    20.08
+   ],
+   [
+    "over",
+    20.22,
+    20.4
+   ],
+   [
+    "100,000",
+    20.4,
+    21.72
+   ],
+   [
+    "unique",
+    21.72,
+    22.1
+   ],
+   [
+    "characters",
+    22.1,
+    22.7
+   ],
+   [
+    "are",
+    22.92,
+    23.02
+   ],
+   [
+    "officially",
+    23.02,
+    23.42
+   ],
+   [
+    "identified",
+    23.42,
+    23.98
+   ],
+   [
+    "in",
+    24.08,
+    24.18
+   ],
+   [
+    "Unicode.",
+    24.18,
+    24.46
+   ],
+   [
+    "It",
+    25.32,
+    25.46
+   ],
+   [
+    "all",
+    25.62,
+    25.74
+   ],
+   [
+    "started",
+    25.74,
+    26.08
+   ],
+   [
+    "with",
+    26.08,
+    26.4
+   ],
+   [
+    "13th-century",
+    26.56,
+    27.3
+   ],
+   [
+    "BCE",
+    27.3,
+    27.94
+   ],
+   [
+    "oracle",
+    27.98,
+    28.64
+   ],
+   [
+    "bone",
+    28.64,
+    28.82
+   ],
+   [
+    "inscriptions.",
+    28.82,
+    28.92
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   24,
+   33,
+   45,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/A_draft_of_a_calligraphy_copybook_written_by_Rosanjin_in_three_styles_of_calligraphy_for_commonly_used_chinese_characters.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 609,
+   "license": "Public domain",
+   "artist": "Rosanjin",
+   "page": "https://commons.wikimedia.org/wiki/File:A_draft_of_a_calligraphy_copybook_written_by_Rosanjin_in_three_styles_of_calligraphy_for_commonly_used_chinese_characters.png",
+   "desc": "A draft of a calligraphy copybook written by Rosanjin in three styles of calligraphy for commonly used chinese characters — 魯山人の揮毫による常用漢字三體習字帖の草稿"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 3000,
+   "unit": "years",
+   "label": "system survival"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3000,
+   "unit": "chars",
+   "label": "frequent vocabulary"
+  },
+  {
+   "type": "stat",
+   "value": 100000,
+   "unit": "chars",
+   "label": "total identified"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q8201",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Chinese characters",
+  "url": "https://en.wikipedia.org/wiki/Chinese_characters",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T13:04:27Z",
+ "trimmed": true
+}

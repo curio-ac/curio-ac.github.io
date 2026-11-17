@@ -121,7 +121,8 @@
   "nasa:1285516",
   "Chorioactis",
   "1995 Pacific hurricane season",
-  "nasa:1277375"
+  "nasa:1277375",
+  "The Disasters of War"
  ],
  "rejected": [
   "Chameleon",
@@ -545,6 +546,9 @@
   ],
   "nasa:1277375": [
    "Falcon 9 Moon Crater: A Falcon 9 rocket just hit the Moon."
+  ],
+  "The Disasters of War": [
+   "Goya's Secret War Art: These 82 prints were hidden for decades."
   ]
  },
  "exhausted": []
