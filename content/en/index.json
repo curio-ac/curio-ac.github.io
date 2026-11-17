@@ -94,7 +94,8 @@
   "AI Mark IV radar",
   "Cloud Gate",
   "nasa:1284270",
-  "American paddlefish"
+  "American paddlefish",
+  "Bougainville counterattack"
  ],
  "rejected": [
   "Chameleon",
@@ -421,6 +422,9 @@
   ],
   "American paddlefish": [
    "The Ancient Spoonbill Fish: This fish has a massive, paddle-shaped snout."
+  ],
+  "Bougainville counterattack": [
+   "The Failed WWII Counterattack: A massive Japanese offensive failed completely."
   ]
  },
  "exhausted": []

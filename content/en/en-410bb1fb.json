@@ -1,0 +1,398 @@
+{
+ "id": "en-410bb1fb",
+ "lang": "en",
+ "title": "Iceberg A-81's Long Journey",
+ "cat": "geography",
+ "emoji": "🧊",
+ "sentences": [
+  "A massive iceberg is currently running aground.",
+  "Iceberg A-81 broke from the Brunt Ice Shelf in January 2023.",
+  "This 1,550-square-kilometer block spent years drifting through the Weddell Sea.",
+  "By October 2026, it reached South Georgia, 2,300 kilometers from its home.",
+  "It is now bumping along the island’s shallow underwater shelf.",
+  "South Georgia often slows or stops these giant icy travelers."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.35,
+    0.45
+   ],
+   [
+    "massive",
+    0.45,
+    0.79
+   ],
+   [
+    "iceberg",
+    0.79,
+    1.23
+   ],
+   [
+    "is",
+    1.27,
+    1.55
+   ],
+   [
+    "currently",
+    1.55,
+    1.89
+   ],
+   [
+    "running",
+    1.89,
+    2.19
+   ],
+   [
+    "aground.",
+    2.19,
+    2.63
+   ],
+   [
+    "Iceberg",
+    3.25,
+    3.67
+   ],
+   [
+    "A-81",
+    3.73,
+    4.15
+   ],
+   [
+    "broke",
+    4.17,
+    4.31
+   ],
+   [
+    "from",
+    4.31,
+    4.55
+   ],
+   [
+    "the",
+    4.55,
+    4.65
+   ],
+   [
+    "Brunt",
+    4.65,
+    4.85
+   ],
+   [
+    "Ice",
+    4.85,
+    5.11
+   ],
+   [
+    "Shelf",
+    5.11,
+    5.43
+   ],
+   [
+    "in",
+    5.43,
+    5.63
+   ],
+   [
+    "January",
+    5.63,
+    6.03
+   ],
+   [
+    "2023.",
+    6.72,
+    7.67
+   ],
+   [
+    "This",
+    7.67,
+    7.77
+   ],
+   [
+    "1,550-square-kilometer",
+    7.77,
+    9.87
+   ],
+   [
+    "block",
+    9.87,
+    10.15
+   ],
+   [
+    "spent",
+    10.15,
+    10.41
+   ],
+   [
+    "years",
+    10.41,
+    10.79
+   ],
+   [
+    "drifting",
+    10.79,
+    11.19
+   ],
+   [
+    "through",
+    11.23,
+    11.51
+   ],
+   [
+    "the",
+    11.51,
+    11.65
+   ],
+   [
+    "Weddell",
+    11.65,
+    11.93
+   ],
+   [
+    "Sea.",
+    11.93,
+    12.13
+   ],
+   [
+    "By",
+    12.73,
+    12.83
+   ],
+   [
+    "October",
+    12.83,
+    13.09
+   ],
+   [
+    "2026,",
+    13.09,
+    13.79
+   ],
+   [
+    "it",
+    14.51,
+    14.59
+   ],
+   [
+    "reached",
+    14.59,
+    14.81
+   ],
+   [
+    "South",
+    14.81,
+    15.11
+   ],
+   [
+    "Georgia,",
+    15.11,
+    15.55
+   ],
+   [
+    "2,300",
+    16.13,
+    16.79
+   ],
+   [
+    "kilometers",
+    16.79,
+    17.31
+   ],
+   [
+    "from",
+    17.31,
+    17.83
+   ],
+   [
+    "its",
+    17.83,
+    17.97
+   ],
+   [
+    "home.",
+    17.97,
+    18.07
+   ],
+   [
+    "It",
+    18.75,
+    18.83
+   ],
+   [
+    "is",
+    18.83,
+    18.93
+   ],
+   [
+    "now",
+    18.93,
+    19.09
+   ],
+   [
+    "bumping",
+    19.09,
+    19.53
+   ],
+   [
+    "along",
+    19.53,
+    19.69
+   ],
+   [
+    "the",
+    19.69,
+    19.93
+   ],
+   [
+    "island’s",
+    19.93,
+    20.47
+   ],
+   [
+    "shallow",
+    20.47,
+    20.75
+   ],
+   [
+    "underwater",
+    20.75,
+    21.25
+   ],
+   [
+    "shelf.",
+    21.25,
+    21.73
+   ],
+   [
+    "South",
+    22.37,
+    22.53
+   ],
+   [
+    "Georgia",
+    22.53,
+    22.95
+   ],
+   [
+    "often",
+    22.95,
+    23.37
+   ],
+   [
+    "slows",
+    23.37,
+    23.77
+   ],
+   [
+    "or",
+    23.77,
+    24.17
+   ],
+   [
+    "stops",
+    24.17,
+    24.53
+   ],
+   [
+    "these",
+    24.53,
+    24.79
+   ],
+   [
+    "giant",
+    24.79,
+    25.19
+   ],
+   [
+    "icy",
+    25.19,
+    25.51
+   ],
+   [
+    "travelers.",
+    25.51,
+    25.97
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   28,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/A-81_Reaches_South_Georgia_%281504374%29.jpg/960px-A-81_Reaches_South_Georgia_%281504374%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:A-81_Reaches_South_Georgia_(1504374).jpg",
+   "desc": "A-81 Reaches South Georgia (1504374) — Iceberg A-81 slows its drift near the edge of South Georgia’s shallow underwater shelf in this image, acquired on October 20, 2026, by the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  null,
+  0,
+  0,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2023
+  },
+  {
+   "type": "compare",
+   "value": 1550000000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "underwater shelf",
+   "box": [
+    418,
+    552,
+    532,
+    755
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 2025,
+   "unit": "year",
+   "label": "Iceberg A-23A"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "A-81 Reaches South Georgia",
+  "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (kokoro)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T09:57:13Z",
+ "trimmed": true
+}
