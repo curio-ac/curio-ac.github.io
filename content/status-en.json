@@ -3,6 +3,19 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-17T11:21:26Z",
+   "made": 11,
+   "rejected": 1,
+   "repaired": 2,
+   "calls": 97,
+   "notes": [
+    "Black Moshannon State Park: fact-check",
+    "nasa:1378514: 'list' object has no attribute 'get'",
+    "nasa:1489375: 'list' object has no attribute 'get'",
+    "Alicia (album): 'list' object has no attribute 'get'"
+   ]
+  },
+  {
    "at": "2026-11-17T10:05:01Z",
    "made": 13,
    "rejected": 1,
