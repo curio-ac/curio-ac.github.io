@@ -108,7 +108,8 @@
   "World War II",
   "nasa:1378514",
   "nasa:1489375",
-  "Black American Sign Language"
+  "Black American Sign Language",
+  "nasa:1276870"
  ],
  "rejected": [
   "Chameleon",
@@ -488,6 +489,9 @@
   ],
   "Black American Sign Language": [
    "Black American Sign Language: BASL is a unique dialect of ASL."
+  ],
+  "nasa:1276870": [
+   "Moon Germs Are Real: Human germs might survive on the Moon."
   ]
  },
  "exhausted": []

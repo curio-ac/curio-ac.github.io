@@ -1,0 +1,475 @@
+{
+ "id": "en-7f935440",
+ "lang": "en",
+ "title": "The First Moon Landing",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Humans first landed on the Moon in 1969.",
+  "This historic mission was called Apollo 11.",
+  "A massive Saturn V rocket launched the crew from Florida.",
+  "The spacecraft had three parts, but only the command module returned to Earth.",
+  "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle.",
+  "Meanwhile, Michael Collins stayed alone in orbit.",
+  "They safely touched down in the Sea of Tranquility."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Humans",
+    0.26,
+    0.26
+   ],
+   [
+    "first",
+    0.26,
+    0.62
+   ],
+   [
+    "landed",
+    0.62,
+    0.96
+   ],
+   [
+    "on",
+    0.96,
+    1.18
+   ],
+   [
+    "the",
+    1.18,
+    1.26
+   ],
+   [
+    "Moon",
+    1.26,
+    1.5
+   ],
+   [
+    "in",
+    1.5,
+    1.78
+   ],
+   [
+    "1969.",
+    1.78,
+    3.56
+   ],
+   [
+    "This",
+    3.56,
+    3.68
+   ],
+   [
+    "historic",
+    3.68,
+    4.08
+   ],
+   [
+    "mission",
+    4.08,
+    4.52
+   ],
+   [
+    "was",
+    4.52,
+    4.72
+   ],
+   [
+    "called",
+    4.72,
+    4.94
+   ],
+   [
+    "Apollo",
+    4.94,
+    5.4
+   ],
+   [
+    "11.",
+    5.4,
+    5.88
+   ],
+   [
+    "A",
+    6.54,
+    6.64
+   ],
+   [
+    "massive",
+    6.64,
+    7.08
+   ],
+   [
+    "Saturn",
+    7.08,
+    7.5
+   ],
+   [
+    "V",
+    7.5,
+    7.76
+   ],
+   [
+    "rocket",
+    7.76,
+    8.16
+   ],
+   [
+    "launched",
+    8.16,
+    8.56
+   ],
+   [
+    "the",
+    8.56,
+    8.84
+   ],
+   [
+    "crew",
+    8.88,
+    9.02
+   ],
+   [
+    "from",
+    9.02,
+    9.22
+   ],
+   [
+    "Florida.",
+    9.22,
+    9.66
+   ],
+   [
+    "The",
+    10.24,
+    10.32
+   ],
+   [
+    "spacecraft",
+    10.32,
+    10.62
+   ],
+   [
+    "had",
+    10.62,
+    10.98
+   ],
+   [
+    "three",
+    10.98,
+    11.3
+   ],
+   [
+    "parts,",
+    11.3,
+    11.68
+   ],
+   [
+    "but",
+    12.04,
+    12.1
+   ],
+   [
+    "only",
+    12.18,
+    12.38
+   ],
+   [
+    "the",
+    12.38,
+    12.54
+   ],
+   [
+    "command",
+    12.54,
+    12.8
+   ],
+   [
+    "module",
+    12.8,
+    13.34
+   ],
+   [
+    "returned",
+    13.34,
+    13.74
+   ],
+   [
+    "to",
+    13.74,
+    13.98
+   ],
+   [
+    "Earth.",
+    13.98,
+    14.08
+   ],
+   [
+    "Neil",
+    14.96,
+    15.24
+   ],
+   [
+    "Armstrong",
+    15.24,
+    15.68
+   ],
+   [
+    "and",
+    15.68,
+    16.04
+   ],
+   [
+    "Buzz",
+    16.04,
+    16.3
+   ],
+   [
+    "Aldrin",
+    16.3,
+    16.74
+   ],
+   [
+    "landed",
+    16.74,
+    17.2
+   ],
+   [
+    "the",
+    17.2,
+    17.42
+   ],
+   [
+    "lunar",
+    17.42,
+    17.56
+   ],
+   [
+    "module",
+    17.56,
+    17.98
+   ],
+   [
+    "Eagle.",
+    17.98,
+    18.4
+   ],
+   [
+    "Meanwhile,",
+    18.92,
+    19.38
+   ],
+   [
+    "Michael",
+    19.62,
+    19.76
+   ],
+   [
+    "Collins",
+    19.76,
+    20.14
+   ],
+   [
+    "stayed",
+    20.14,
+    20.46
+   ],
+   [
+    "alone",
+    20.46,
+    20.92
+   ],
+   [
+    "in",
+    20.92,
+    21.14
+   ],
+   [
+    "orbit.",
+    21.14,
+    21.52
+   ],
+   [
+    "They",
+    22.04,
+    22.14
+   ],
+   [
+    "safely",
+    22.14,
+    22.54
+   ],
+   [
+    "touched",
+    22.54,
+    22.84
+   ],
+   [
+    "down",
+    22.84,
+    23.14
+   ],
+   [
+    "in",
+    23.14,
+    23.36
+   ],
+   [
+    "the",
+    23.36,
+    23.48
+   ],
+   [
+    "Sea",
+    23.48,
+    23.78
+   ],
+   [
+    "of",
+    23.78,
+    23.94
+   ],
+   [
+    "Tranquility.",
+    23.94,
+    24.52
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   25,
+   38,
+   48,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Aldrin_Apollo_11.jpg/960px-Aldrin_Apollo_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Neil A. Armstrong",
+   "page": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11.jpg",
+   "desc": "Aldrin Apollo 11 — Short description: Astronaut Buzz Aldrin on the Moon Full description: Astronaut Buzz Aldrin, Lunar Module pilot, walks on the surface of the Moon near the leg of the Lunar Module (LM) \"Eagle\" during the Apollo 11 extrav"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Apollo_11_Crew.jpg/960px-Apollo_11_Crew.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 566,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Crew.jpg",
+   "desc": "Apollo 11 — The Apollo 11 lunar landing mission crew, pictured from left to right, Neil A. Armstrong, commander; Michael Collins, command module pilot; and Edwin E. Aldrin Jr., lunar module pilot."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg/960px-Apollo_11_Launch_-_GPN-2000-000630.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg",
+   "desc": "Apollo 11 Launch - GPN-2000-000630 — The Apollo 11 Saturn V rocket launch vehicle lifts-off with astronauts Neil A. Armstrong, Michael Collins and Edwin E. Aldrin, Jr., at 9:32 a.m. EDT July 16, 1969, from Kennedy Space Center's Launch Complex Pad 39A."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Apollo_11_Kommandomodul_%22Columbia%22.jpg/960px-Apollo_11_Kommandomodul_%22Columbia%22.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Smithsonian Institution/Eric Long",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Kommandomodul_%22Columbia%22.jpg",
+   "desc": "Apollo 11 Kommandomodul \"Columbia\" — Apollo 11 Command Module \"Columbia\" (A19700102000). Photograph made after artifact cleaning. [3T8A3782]"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg/960px-Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA Neil A. Armstrong",
+   "page": "https://commons.wikimedia.org/wiki/File:Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg",
+   "desc": "Aldrin Looks Back at Tranquility Base - GPN-2000-001102 — Astronaut Edwin E.\"Buzz\" Aldrin Jr., Lunar Module pilot, is photographed during the Apollo 11 extravehicular activity on the Moon. He has just deployed the Early Apollo Scientific Experiments Package (E"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Apollo_11_CSM_photographed_from_Lunar_Module_%28AS11-37-5445%29.jpg/960px-Apollo_11_CSM_photographed_from_Lunar_Module_%28AS11-37-5445%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_CSM_photographed_from_Lunar_Module_(AS11-37-5445).jpg",
+   "desc": "Apollo 11 CSM photographed from Lunar Module (AS11-37-5445) — The Apollo 11 Command and Service Modules (CSM) are photographed from the Lunar Module (LM) in lunar orbit during the Apollo 11 lunar landing mission. The lunar surface below is in the north central"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Apollo_11_Landing_Site_%26_West_Crater.png/960px-Apollo_11_Landing_Site_%26_West_Crater.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Landing_Site_%26_West_Crater.png",
+   "desc": "Apollo 11 Landing Site & West Crater — West Crater with boulders which Neil Armstrong had to overfly before the first manned lunar landing. LROC took this picture from orbit in autumn of 2009. The descent stage of the Eagle is to the upper left."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1969
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "command module",
+   "box": [
+    35,
+    62,
+    893,
+    936
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 20,
+   "unit": "July",
+   "label": "Landing date"
+  }
+ ],
+ "geo": null,
+ "qid": "Q43653",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Apollo 11",
+  "url": "https://en.wikipedia.org/wiki/Apollo_11",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T11:54:54Z",
+ "trimmed": true
+}
