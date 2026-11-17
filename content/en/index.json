@@ -118,7 +118,8 @@
   "nasa:1504201",
   "Caroline of Ansbach",
   "David Berman (musician)",
-  "nasa:1285516"
+  "nasa:1285516",
+  "Chorioactis"
  ],
  "rejected": [
   "Chameleon",
@@ -533,6 +534,9 @@
   ],
   "nasa:1285516": [
    "Space Objects Remember Their Past: Tiny space rocks are remembering their history."
+  ],
+  "Chorioactis": [
+   "The Devil's Cigar Fungus: Meet the rare mushroom that hisses."
   ]
  },
  "exhausted": []

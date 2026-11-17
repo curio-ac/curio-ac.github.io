@@ -1,0 +1,415 @@
+{
+ "id": "en-168d577d",
+ "lang": "en",
+ "title": "The 1995 Hurricane Season",
+ "cat": "geography",
+ "emoji": "🌀",
+ "sentences": [
+  "1995 saw unusually quiet hurricane activity.",
+  "It was the first season with below average activity since 1979.",
+  "Only 11 tropical cyclones formed during the season.",
+  "Of those, 7 became hurricanes and 3 were major hurricanes.",
+  "Hurricane Ismael was the most notable storm, killing at least 116 people in Mexico.",
+  "Hurricane Juliette was the strongest, hitting 150 mph winds but staying away from land."
+ ],
+ "tim": {
+  "w": [
+   [
+    "1995",
+    0.28,
+    0.6
+   ],
+   [
+    "saw",
+    0.6,
+    1.32
+   ],
+   [
+    "unusually",
+    1.32,
+    2.08
+   ],
+   [
+    "quiet",
+    2.08,
+    2.48
+   ],
+   [
+    "hurricane",
+    2.48,
+    2.88
+   ],
+   [
+    "activity.",
+    2.88,
+    3.48
+   ],
+   [
+    "It",
+    4.18,
+    4.2
+   ],
+   [
+    "was",
+    4.2,
+    4.32
+   ],
+   [
+    "the",
+    4.32,
+    4.48
+   ],
+   [
+    "first",
+    4.48,
+    4.78
+   ],
+   [
+    "season",
+    4.78,
+    5.12
+   ],
+   [
+    "with",
+    5.12,
+    5.3
+   ],
+   [
+    "below",
+    5.42,
+    5.64
+   ],
+   [
+    "average",
+    5.64,
+    6.04
+   ],
+   [
+    "activity",
+    6.04,
+    6.64
+   ],
+   [
+    "since",
+    6.64,
+    6.94
+   ],
+   [
+    "1979.",
+    7.12,
+    8.12
+   ],
+   [
+    "Only",
+    8.84,
+    9.08
+   ],
+   [
+    "11",
+    9.08,
+    9.48
+   ],
+   [
+    "tropical",
+    9.48,
+    9.94
+   ],
+   [
+    "cyclones",
+    9.94,
+    10.58
+   ],
+   [
+    "formed",
+    10.58,
+    10.9
+   ],
+   [
+    "during",
+    10.9,
+    11.2
+   ],
+   [
+    "the",
+    11.2,
+    11.36
+   ],
+   [
+    "season.",
+    11.36,
+    11.76
+   ],
+   [
+    "Of",
+    12.42,
+    12.58
+   ],
+   [
+    "those,",
+    12.58,
+    13.0
+   ],
+   [
+    "7",
+    13.3,
+    13.36
+   ],
+   [
+    "became",
+    13.36,
+    13.7
+   ],
+   [
+    "hurricanes",
+    13.7,
+    14.06
+   ],
+   [
+    "and",
+    14.06,
+    14.68
+   ],
+   [
+    "3",
+    14.68,
+    15.02
+   ],
+   [
+    "were",
+    15.02,
+    15.26
+   ],
+   [
+    "major",
+    15.26,
+    15.56
+   ],
+   [
+    "hurricanes.",
+    15.56,
+    15.88
+   ],
+   [
+    "Hurricane",
+    16.98,
+    17.28
+   ],
+   [
+    "Ismael",
+    17.28,
+    17.92
+   ],
+   [
+    "was",
+    17.92,
+    18.16
+   ],
+   [
+    "the",
+    18.16,
+    18.32
+   ],
+   [
+    "most",
+    18.32,
+    18.56
+   ],
+   [
+    "notable",
+    18.56,
+    18.9
+   ],
+   [
+    "storm,",
+    18.9,
+    19.48
+   ],
+   [
+    "killing",
+    19.94,
+    20.0
+   ],
+   [
+    "at",
+    20.0,
+    20.24
+   ],
+   [
+    "least",
+    20.24,
+    20.44
+   ],
+   [
+    "116",
+    20.44,
+    21.48
+   ],
+   [
+    "people",
+    21.48,
+    22.02
+   ],
+   [
+    "in",
+    22.02,
+    22.28
+   ],
+   [
+    "Mexico.",
+    22.28,
+    22.64
+   ],
+   [
+    "Hurricane",
+    23.56,
+    23.82
+   ],
+   [
+    "Juliette",
+    23.82,
+    24.48
+   ],
+   [
+    "was",
+    24.5,
+    24.6
+   ],
+   [
+    "the",
+    24.6,
+    24.78
+   ],
+   [
+    "strongest,",
+    24.78,
+    25.36
+   ],
+   [
+    "hitting",
+    25.66,
+    25.76
+   ],
+   [
+    "150",
+    25.76,
+    26.76
+   ],
+   [
+    "mph",
+    26.76,
+    27.18
+   ],
+   [
+    "winds",
+    27.18,
+    27.8
+   ],
+   [
+    "but",
+    28.06,
+    28.16
+   ],
+   [
+    "staying",
+    28.16,
+    28.42
+   ],
+   [
+    "away",
+    28.42,
+    28.68
+   ],
+   [
+    "from",
+    28.68,
+    28.86
+   ],
+   [
+    "land.",
+    28.86,
+    29.12
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   25,
+   35,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/1995_Pacific_hurricane_season_summary.png/960px-1995_Pacific_hurricane_season_summary.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 439,
+   "license": "Public domain",
+   "artist": "Sria-72",
+   "page": "https://commons.wikimedia.org/wiki/File:1995_Pacific_hurricane_season_summary.png",
+   "desc": "1995 Pacific hurricane season summary — This map shows the tracks of all tropical cyclones in the 1995 Pacific hurricane season. The points show the location of each storm at 6-hour intervals. The colour represents the storm's maximum sustained wind speeds as "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/1995_Pacific_hurricane_season_summary_map.png/960px-1995_Pacific_hurricane_season_summary_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 445,
+   "license": "Public domain",
+   "artist": "Modokai",
+   "page": "https://commons.wikimedia.org/wiki/File:1995_Pacific_hurricane_season_summary_map.png",
+   "desc": "1995 Pacific hurricane season summary map — This map shows the tracks of all tropical cyclones in the 1995 Pacific hurricane season. The points show the location of each storm at 6-hour intervals. The colour represents the storm's maximum sustained wind speeds"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  0,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1995
+  },
+  {
+   "type": "stat",
+   "value": 1979,
+   "unit": "year",
+   "label": "last quiet season"
+  },
+  {
+   "type": "stat",
+   "value": 11,
+   "unit": "storms",
+   "label": "tropical cyclones"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3246370",
+ "pron_wer": 0.048,
+ "angle": 0,
+ "source": {
+  "title": "1995 Pacific hurricane season",
+  "url": "https://en.wikipedia.org/wiki/1995_Pacific_hurricane_season",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T12:59:59Z",
+ "trimmed": true
+}
