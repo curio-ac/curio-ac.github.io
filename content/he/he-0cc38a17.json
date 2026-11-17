@@ -1,0 +1,431 @@
+{
+ "id": "he-0cc38a17",
+ "lang": "he",
+ "title": "קפריסין: אי הנחשים והחתולים",
+ "cat": "geography",
+ "emoji": "🐱",
+ "sentences": [
+  "בקפריסין חיים יותר ממיליון חתולים.",
+  "האי נוצר לפני 90 מיליון שנה מסלעי אופיוליט ירוקים.",
+  "בעת העתיקה הוא נקרא \"ארץ הנחשים\" בגלל ריבוי הצפעונים.",
+  "לפי האגדה, הקיסרית הלנה שלחה ספינות חתולים ממצרים כדי להדביר אותם.",
+  "החתולים שוחררו בכף גאטה, שם עדיין פועל מנזר המטפל בהם.",
+  "האי גם אירח בעבר אלפי פלמינגו שצבעם ורוד מאכילת סרטנים.",
+  "היום חצי האי אקרוטירי הוא שילוב מרתק של גיאולוגיה והיסטוריה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "בקפריסין",
+    0.16,
+    0.74
+   ],
+   [
+    "חיים",
+    0.74,
+    0.98
+   ],
+   [
+    "יותר",
+    1.12,
+    1.22
+   ],
+   [
+    "ממיליון",
+    1.22,
+    1.9
+   ],
+   [
+    "חתולים.",
+    1.9,
+    2.28
+   ],
+   [
+    "האי",
+    2.92,
+    3.02
+   ],
+   [
+    "נוצר",
+    3.02,
+    3.34
+   ],
+   [
+    "לפני",
+    3.34,
+    3.6
+   ],
+   [
+    "90",
+    3.6,
+    3.96
+   ],
+   [
+    "מיליון",
+    3.96,
+    4.4
+   ],
+   [
+    "שנה",
+    4.4,
+    4.72
+   ],
+   [
+    "מסלעי",
+    4.72,
+    5.28
+   ],
+   [
+    "אופיוליט",
+    5.28,
+    5.78
+   ],
+   [
+    "ירוקים.",
+    5.78,
+    6.0
+   ],
+   [
+    "בעת",
+    6.68,
+    6.86
+   ],
+   [
+    "העתיקה",
+    6.86,
+    7.28
+   ],
+   [
+    "הוא",
+    7.28,
+    7.38
+   ],
+   [
+    "נקרא",
+    7.38,
+    7.64
+   ],
+   [
+    "\"ארץ",
+    7.64,
+    8.04
+   ],
+   [
+    "הנחשים\"",
+    8.04,
+    8.74
+   ],
+   [
+    "בגלל",
+    8.8,
+    9.0
+   ],
+   [
+    "ריבוי",
+    9.0,
+    9.36
+   ],
+   [
+    "הצפעונים.",
+    9.36,
+    9.86
+   ],
+   [
+    "לפי",
+    10.56,
+    10.76
+   ],
+   [
+    "האגדה,",
+    10.76,
+    11.26
+   ],
+   [
+    "הקיסרית",
+    11.54,
+    11.82
+   ],
+   [
+    "הלנה",
+    11.9,
+    12.26
+   ],
+   [
+    "שלחה",
+    12.26,
+    12.64
+   ],
+   [
+    "ספינות",
+    12.64,
+    13.12
+   ],
+   [
+    "חתולים",
+    13.36,
+    13.62
+   ],
+   [
+    "ממצרים",
+    13.62,
+    14.12
+   ],
+   [
+    "כדי",
+    14.12,
+    14.42
+   ],
+   [
+    "להדביר",
+    14.42,
+    14.78
+   ],
+   [
+    "אותם.",
+    14.78,
+    14.88
+   ],
+   [
+    "החתולים",
+    15.62,
+    15.94
+   ],
+   [
+    "שוחררו",
+    15.94,
+    16.34
+   ],
+   [
+    "בכף",
+    16.34,
+    16.66
+   ],
+   [
+    "גאטה,",
+    16.66,
+    17.08
+   ],
+   [
+    "שם",
+    17.26,
+    17.46
+   ],
+   [
+    "עדיין",
+    17.46,
+    18.02
+   ],
+   [
+    "פועל",
+    18.02,
+    18.3
+   ],
+   [
+    "מנזר",
+    18.3,
+    18.72
+   ],
+   [
+    "המטפל",
+    18.72,
+    19.18
+   ],
+   [
+    "בהם.",
+    19.18,
+    19.28
+   ],
+   [
+    "האי",
+    20.1,
+    20.26
+   ],
+   [
+    "גם",
+    20.26,
+    20.4
+   ],
+   [
+    "אירח",
+    20.4,
+    20.68
+   ],
+   [
+    "בעבר",
+    20.68,
+    21.02
+   ],
+   [
+    "אלפי",
+    21.02,
+    21.42
+   ],
+   [
+    "פלמינגו",
+    21.42,
+    21.98
+   ],
+   [
+    "שצבעם",
+    22.48,
+    22.68
+   ],
+   [
+    "ורוד",
+    22.68,
+    23.02
+   ],
+   [
+    "מאכילת",
+    23.02,
+    23.42
+   ],
+   [
+    "סרטנים.",
+    23.42,
+    23.86
+   ],
+   [
+    "היום",
+    24.5,
+    24.7
+   ],
+   [
+    "חצי",
+    24.7,
+    25.06
+   ],
+   [
+    "האי",
+    25.06,
+    25.24
+   ],
+   [
+    "אקרוטירי",
+    25.24,
+    25.9
+   ],
+   [
+    "הוא",
+    25.9,
+    26.04
+   ],
+   [
+    "שילוב",
+    26.08,
+    26.5
+   ],
+   [
+    "מרתק",
+    26.5,
+    27.14
+   ],
+   [
+    "של",
+    27.14,
+    27.38
+   ],
+   [
+    "גיאולוגיה",
+    27.7,
+    28.04
+   ],
+   [
+    "והיסטוריה.",
+    28.04,
+    28.5
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   14,
+   23,
+   34,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Cyprus-_Island_of_Snakes%2C_Cats%2C_and_Ophiolites_%281508114_-_cyprus_oli_20261010%29.jpg/960px-Cyprus-_Island_of_Snakes%2C_Cats%2C_and_Ophiolites_%281508114_-_cyprus_oli_20261010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Cyprus-_Island_of_Snakes,_Cats,_and_Ophiolites_(1508114_-_cyprus_oli_20261010).jpg",
+   "desc": "Cyprus- Island of Snakes, Cats, and Ophiolites (1508114 - cyprus oli 20261010) — A broader image of Cyprus captured by the OLI (Operational Land Imager) on Landsat 8 shows the western half of the island on October 10, 2026."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Malcolm_Cat_Sanctuary%2C_Asomatos%2C_Cyprus_-_panoramio_%281%29.jpg/960px-Malcolm_Cat_Sanctuary%2C_Asomatos%2C_Cyprus_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 3.0",
+   "artist": "Dmitry Panov",
+   "page": "https://commons.wikimedia.org/wiki/File:Malcolm_Cat_Sanctuary,_Asomatos,_Cyprus_-_panoramio_(1).jpg",
+   "desc": "Malcolm Cat Sanctuary, Asomatos, Cyprus - panoramio (1) — Malcolm Cat Sanctuary, Asomatos, Cyprus"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cyprus-_Island_of_Snakes%2C_Cats%2C_and_Ophiolites_%281508114_-_akrotirisaltlake_oli_20261010%29.jpg/960px-Cyprus-_Island_of_Snakes%2C_Cats%2C_and_Ophiolites_%281508114_-_akrotirisaltlake_oli_20261010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Cyprus-_Island_of_Snakes,_Cats,_and_Ophiolites_(1508114_-_akrotirisaltlake_oli_20261010).jpg",
+   "desc": "Cyprus- Island of Snakes, Cats, and Ophiolites (1508114 - akrotirisaltlake oli 20261010) — Seasonal rains had started to fill Akrotiri Salt Lake when the OLI (Operational Land Imager) on Landsat 8 captured this image of Cyprus’s Akrotiri Peninsula on October 1"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4000,
+   "unit": "ציפורים",
+   "label": "אוכלוסיית פלמינגו"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+ "pron_wer": 0.062,
+ "angle": 0,
+ "source": {
+  "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+  "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-17T08:05:58Z",
+ "trimmed": true
+}
