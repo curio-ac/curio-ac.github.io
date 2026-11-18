@@ -3,6 +3,17 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-18T11:45:43Z",
+   "made": 13,
+   "rejected": 2,
+   "repaired": 0,
+   "calls": 118,
+   "notes": [
+    "nasa:1283607: fact-check",
+    "AI Mark IV radar: fact-check"
+   ]
+  },
+  {
    "at": "2026-11-18T10:48:19Z",
    "made": 11,
    "rejected": 4,
