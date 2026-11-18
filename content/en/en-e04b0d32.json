@@ -1,0 +1,390 @@
+{
+ "id": "en-e04b0d32",
+ "lang": "en",
+ "title": "Puerto Rico Drought Emergency",
+ "cat": "geography",
+ "emoji": "☀️",
+ "sentences": [
+  "Puerto Rico is facing a severe drought!",
+  "By August 2026, rain had largely failed to arrive after a surprisingly wet early spring.",
+  "Three-quarters of the island experienced at least moderate drought conditions.",
+  "Extreme dry zones quickly expanded to cover 44 percent of the territory.",
+  "The extreme heat and lack of rain triggered water rationing and heavy crop losses."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Puerto",
+    0.14,
+    0.14
+   ],
+   [
+    "Rico",
+    0.14,
+    0.5
+   ],
+   [
+    "is",
+    0.5,
+    0.82
+   ],
+   [
+    "facing",
+    0.82,
+    1.12
+   ],
+   [
+    "a",
+    1.12,
+    1.36
+   ],
+   [
+    "severe",
+    1.36,
+    1.78
+   ],
+   [
+    "drought!",
+    1.78,
+    2.88
+   ],
+   [
+    "By",
+    2.88,
+    2.94
+   ],
+   [
+    "August",
+    2.94,
+    3.22
+   ],
+   [
+    "2026,",
+    3.22,
+    4.02
+   ],
+   [
+    "rain",
+    4.48,
+    4.64
+   ],
+   [
+    "had",
+    4.64,
+    4.84
+   ],
+   [
+    "largely",
+    4.84,
+    5.28
+   ],
+   [
+    "failed",
+    5.28,
+    5.62
+   ],
+   [
+    "to",
+    5.62,
+    5.8
+   ],
+   [
+    "arrive",
+    5.8,
+    6.14
+   ],
+   [
+    "after",
+    6.14,
+    6.48
+   ],
+   [
+    "a",
+    6.48,
+    6.66
+   ],
+   [
+    "surprisingly",
+    6.66,
+    7.12
+   ],
+   [
+    "wet",
+    7.12,
+    7.52
+   ],
+   [
+    "early",
+    7.52,
+    7.84
+   ],
+   [
+    "spring.",
+    7.84,
+    8.32
+   ],
+   [
+    "Three-quarters",
+    8.96,
+    9.34
+   ],
+   [
+    "of",
+    9.34,
+    9.62
+   ],
+   [
+    "the",
+    9.62,
+    9.7
+   ],
+   [
+    "island",
+    9.7,
+    10.0
+   ],
+   [
+    "experienced",
+    10.0,
+    10.54
+   ],
+   [
+    "at",
+    10.54,
+    10.86
+   ],
+   [
+    "least",
+    10.86,
+    11.1
+   ],
+   [
+    "moderate",
+    11.1,
+    11.54
+   ],
+   [
+    "drought",
+    11.54,
+    11.86
+   ],
+   [
+    "conditions.",
+    11.86,
+    12.36
+   ],
+   [
+    "Extreme",
+    13.14,
+    13.5
+   ],
+   [
+    "dry",
+    13.5,
+    13.78
+   ],
+   [
+    "zones",
+    13.78,
+    14.1
+   ],
+   [
+    "quickly",
+    14.1,
+    14.5
+   ],
+   [
+    "expanded",
+    14.52,
+    15.06
+   ],
+   [
+    "to",
+    15.06,
+    15.3
+   ],
+   [
+    "cover",
+    15.3,
+    15.52
+   ],
+   [
+    "44",
+    15.52,
+    16.06
+   ],
+   [
+    "percent",
+    16.06,
+    16.54
+   ],
+   [
+    "of",
+    16.54,
+    16.74
+   ],
+   [
+    "the",
+    16.74,
+    16.84
+   ],
+   [
+    "territory.",
+    16.84,
+    17.14
+   ],
+   [
+    "The",
+    18.06,
+    18.16
+   ],
+   [
+    "extreme",
+    18.16,
+    18.54
+   ],
+   [
+    "heat",
+    18.54,
+    18.9
+   ],
+   [
+    "and",
+    18.9,
+    19.1
+   ],
+   [
+    "lack",
+    19.1,
+    19.32
+   ],
+   [
+    "of",
+    19.32,
+    19.48
+   ],
+   [
+    "rain",
+    19.48,
+    19.7
+   ],
+   [
+    "triggered",
+    19.7,
+    20.06
+   ],
+   [
+    "water",
+    20.06,
+    20.4
+   ],
+   [
+    "rationing",
+    20.4,
+    20.98
+   ],
+   [
+    "and",
+    20.98,
+    21.12
+   ],
+   [
+    "heavy",
+    21.12,
+    21.46
+   ],
+   [
+    "crop",
+    21.46,
+    21.72
+   ],
+   [
+    "losses.",
+    21.72,
+    22.36
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   22,
+   32,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Drought_Intensifies_Across_Puerto_Rico_%281282787%29.jpg/960px-Drought_Intensifies_Across_Puerto_Rico_%281282787%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Drought_Intensifies_Across_Puerto_Rico_(1282787).jpg",
+   "desc": "Drought Intensifies Across Puerto Rico (1282787) — NASA Earth Observatory image by Michala Garrison, using data from the U.S. Drought Monitor at the University of Nebraska-Lincoln. Story by Lindsey Doermann."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dry_mother_earth.jpg/960px-Dry_mother_earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Rk4446558",
+   "page": "https://commons.wikimedia.org/wiki/File:Dry_mother_earth.jpg",
+   "desc": "Dry mother earth — This pic shows our thirsty mother earth waiting for rain drops."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Drought_Intensifies_Across_Puerto_Rico_%281282787_-_lrg%29.jpg/960px-Drought_Intensifies_Across_Puerto_Rico_%281282787_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Drought_Intensifies_Across_Puerto_Rico_(1282787_-_lrg).jpg",
+   "desc": "Drought Intensifies Across Puerto Rico (1282787 - lrg) — NASA Earth Observatory image by Michala Garrison, using data from the U.S. Drought Monitor at the University of Nebraska-Lincoln. Story by Lindsey Doermann."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 44,
+   "unit": "%",
+   "label": "extreme dry zones"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/drought-intensifies-across-puerto-rico/",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Drought Intensifies Across Puerto Rico",
+  "url": "https://science.nasa.gov/earth/earth-observatory/drought-intensifies-across-puerto-rico/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:27:42Z",
+ "trimmed": true
+}

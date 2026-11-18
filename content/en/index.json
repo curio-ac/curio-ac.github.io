@@ -175,7 +175,8 @@
   "James B. Conant",
   "Cardinal-nephew",
   "Buangkok MRT station",
-  "Canis Minor"
+  "Canis Minor",
+  "nasa:1342033"
  ],
  "rejected": [
   "Chameleon",
@@ -218,7 +219,8 @@
   "nasa:1508114",
   "William Henry Bury",
   "nasa:1283607",
-  "AI Mark IV radar"
+  "AI Mark IV radar",
+  "Banksia prionotes"
  ],
  "angles": {
   "Blue whale": [
@@ -810,6 +812,9 @@
   ],
   "Canis Minor": [
    "Meet the Lesser Dog: Meet the lesser dog of the night sky."
+  ],
+  "nasa:1342033": [
+   "Complex Life Defies Record Heat: Complex life can survive record heat."
   ]
  },
  "exhausted": []
