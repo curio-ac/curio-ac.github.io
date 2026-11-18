@@ -1,0 +1,419 @@
+{
+ "id": "en-8ac5a6bd",
+ "lang": "en",
+ "title": "Galactic Time Capsules",
+ "cat": "space",
+ "emoji": "✨",
+ "sentences": [
+  "Our galaxy might be a thief.",
+  "Meet Messier 30, a massive globular cluster orbiting 27,500 light-years away.",
+  "These clusters contain millions of stars and are nearly as old as the universe.",
+  "Astronomers think the Milky Way captured these swarms long ago.",
+  "They orbit in the opposite direction of our galaxy’s spin.",
+  "These ancient star groups act as time capsules, revealing our galaxy’s hidden history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Our",
+    0.26,
+    0.38
+   ],
+   [
+    "galaxy",
+    0.38,
+    0.82
+   ],
+   [
+    "might",
+    0.82,
+    1.2
+   ],
+   [
+    "be",
+    1.2,
+    1.44
+   ],
+   [
+    "a",
+    1.44,
+    1.6
+   ],
+   [
+    "thief.",
+    1.6,
+    2.4
+   ],
+   [
+    "Meet",
+    2.4,
+    2.52
+   ],
+   [
+    "Messier",
+    2.52,
+    2.94
+   ],
+   [
+    "30,",
+    2.94,
+    3.58
+   ],
+   [
+    "a",
+    3.58,
+    3.66
+   ],
+   [
+    "massive",
+    3.66,
+    3.98
+   ],
+   [
+    "globular",
+    3.98,
+    4.52
+   ],
+   [
+    "cluster",
+    4.52,
+    4.88
+   ],
+   [
+    "orbiting",
+    4.88,
+    5.28
+   ],
+   [
+    "27,500",
+    5.28,
+    6.98
+   ],
+   [
+    "light-years",
+    7.1,
+    7.4
+   ],
+   [
+    "away.",
+    7.4,
+    7.74
+   ],
+   [
+    "These",
+    8.34,
+    8.44
+   ],
+   [
+    "clusters",
+    8.44,
+    8.74
+   ],
+   [
+    "contain",
+    8.74,
+    9.2
+   ],
+   [
+    "millions",
+    9.2,
+    9.56
+   ],
+   [
+    "of",
+    9.56,
+    9.84
+   ],
+   [
+    "stars",
+    9.84,
+    10.12
+   ],
+   [
+    "and",
+    10.12,
+    10.52
+   ],
+   [
+    "are",
+    10.52,
+    10.64
+   ],
+   [
+    "nearly",
+    10.64,
+    10.86
+   ],
+   [
+    "as",
+    10.86,
+    11.14
+   ],
+   [
+    "old",
+    11.14,
+    11.36
+   ],
+   [
+    "as",
+    11.36,
+    11.5
+   ],
+   [
+    "the",
+    11.52,
+    11.62
+   ],
+   [
+    "universe.",
+    11.62,
+    11.84
+   ],
+   [
+    "Astronomers",
+    12.78,
+    13.08
+   ],
+   [
+    "think",
+    13.08,
+    13.2
+   ],
+   [
+    "the",
+    13.2,
+    13.36
+   ],
+   [
+    "Milky",
+    13.36,
+    13.54
+   ],
+   [
+    "Way",
+    13.54,
+    13.76
+   ],
+   [
+    "captured",
+    13.76,
+    14.08
+   ],
+   [
+    "these",
+    14.08,
+    14.32
+   ],
+   [
+    "swarms",
+    14.32,
+    14.72
+   ],
+   [
+    "long",
+    14.72,
+    15.06
+   ],
+   [
+    "ago.",
+    15.06,
+    15.38
+   ],
+   [
+    "They",
+    15.86,
+    15.92
+   ],
+   [
+    "orbit",
+    15.92,
+    16.14
+   ],
+   [
+    "in",
+    16.14,
+    16.3
+   ],
+   [
+    "the",
+    16.3,
+    16.38
+   ],
+   [
+    "opposite",
+    16.58,
+    16.68
+   ],
+   [
+    "direction",
+    16.68,
+    17.18
+   ],
+   [
+    "of",
+    17.2,
+    17.38
+   ],
+   [
+    "our",
+    17.38,
+    17.48
+   ],
+   [
+    "galaxy’s",
+    17.48,
+    18.0
+   ],
+   [
+    "spin.",
+    18.0,
+    18.22
+   ],
+   [
+    "These",
+    18.84,
+    18.96
+   ],
+   [
+    "ancient",
+    18.96,
+    19.26
+   ],
+   [
+    "star",
+    19.26,
+    19.52
+   ],
+   [
+    "groups",
+    19.52,
+    19.76
+   ],
+   [
+    "act",
+    19.76,
+    20.02
+   ],
+   [
+    "as",
+    20.02,
+    20.26
+   ],
+   [
+    "time",
+    20.26,
+    20.56
+   ],
+   [
+    "capsules,",
+    20.56,
+    20.7
+   ],
+   [
+    "revealing",
+    21.4,
+    21.52
+   ],
+   [
+    "our",
+    21.52,
+    21.72
+   ],
+   [
+    "galaxy’s",
+    21.72,
+    22.26
+   ],
+   [
+    "hidden",
+    22.4,
+    22.5
+   ],
+   [
+    "history.",
+    22.5,
+    22.92
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   31,
+   41,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Messier_30_%28captured_by_the_Hubble_Space_Telescope%29.jpg/960px-Messier_30_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 738,
+   "license": "CC BY 4.0",
+   "artist": "NASA/ESA",
+   "page": "https://commons.wikimedia.org/wiki/File:Messier_30_(captured_by_the_Hubble_Space_Telescope).jpg",
+   "desc": "Messier 30 (captured by the Hubble Space Telescope) — This brilliant image of Messier 30 (M 30) was taken by Hubble's Advanced Camera for Surveys (ACS). Messier 30 formed 13 billion years ago and was discovered in 1764 by Charles Messier. Located about 28000 l"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg/960px-A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 755,
+   "license": "Public domain",
+   "artist": "NASA, The Hubble Heritage Team, STScI, AURA",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg",
+   "desc": "A Swarm of Ancient Stars - GPN-2000-000930 — This stellar swarm is M80 (NGC 6093), one of the densest of the 147 known globular star clusters in the Milky Way galaxy. Located about 28,000 light-years from Earth, M80 contains hundreds of thousands of stars, all"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 13.5,
+   "unit": "billion years",
+   "label": "ancient clusters"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 260000000000000000000000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Hubble Learns Galactic History From Stars",
+  "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:21:10Z",
+ "trimmed": true
+}
