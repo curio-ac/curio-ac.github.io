@@ -1,0 +1,401 @@
+{
+ "id": "en-9f2c6bd8",
+ "lang": "en",
+ "title": "Falcon 9 Moon Impact Captured",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "A Falcon 9 rocket slammed into the Moon.",
+  "NASA’s Lunar Reconnaissance Orbiter finally caught the crater on camera.",
+  "Engineers had to tilt the spacecraft perfectly while traveling 1 mile per second.",
+  "Timing was critical, as being 10 seconds off meant missing the target by 10 miles.",
+  "The impact revealed fresh material from 1.5 feet below the surface.",
+  "It is a 60-foot wide hole."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.3,
+    0.3
+   ],
+   [
+    "Falcon",
+    0.3,
+    0.56
+   ],
+   [
+    "9",
+    0.56,
+    0.84
+   ],
+   [
+    "rocket",
+    0.84,
+    1.2
+   ],
+   [
+    "slammed",
+    1.2,
+    1.5
+   ],
+   [
+    "into",
+    1.5,
+    1.88
+   ],
+   [
+    "the",
+    1.88,
+    2.02
+   ],
+   [
+    "Moon.",
+    2.02,
+    2.38
+   ],
+   [
+    "NASA’s",
+    2.82,
+    3.28
+   ],
+   [
+    "Lunar",
+    3.28,
+    3.6
+   ],
+   [
+    "Reconnaissance",
+    3.6,
+    4.14
+   ],
+   [
+    "Orbiter",
+    4.14,
+    4.5
+   ],
+   [
+    "finally",
+    4.5,
+    4.84
+   ],
+   [
+    "caught",
+    4.84,
+    5.14
+   ],
+   [
+    "the",
+    5.14,
+    5.28
+   ],
+   [
+    "crater",
+    5.28,
+    5.5
+   ],
+   [
+    "on",
+    5.5,
+    5.68
+   ],
+   [
+    "camera.",
+    5.68,
+    6.1
+   ],
+   [
+    "Engineers",
+    6.64,
+    6.9
+   ],
+   [
+    "had",
+    6.9,
+    7.28
+   ],
+   [
+    "to",
+    7.28,
+    7.42
+   ],
+   [
+    "tilt",
+    7.42,
+    7.58
+   ],
+   [
+    "the",
+    7.58,
+    7.74
+   ],
+   [
+    "spacecraft",
+    7.86,
+    8.1
+   ],
+   [
+    "perfectly",
+    8.1,
+    8.74
+   ],
+   [
+    "while",
+    8.76,
+    9.04
+   ],
+   [
+    "traveling",
+    9.04,
+    9.36
+   ],
+   [
+    "1",
+    9.36,
+    9.72
+   ],
+   [
+    "mile",
+    9.72,
+    9.9
+   ],
+   [
+    "per",
+    9.9,
+    10.12
+   ],
+   [
+    "second.",
+    10.12,
+    10.34
+   ],
+   [
+    "Timing",
+    11.06,
+    11.32
+   ],
+   [
+    "was",
+    11.32,
+    11.44
+   ],
+   [
+    "critical,",
+    11.44,
+    11.72
+   ],
+   [
+    "as",
+    12.24,
+    12.34
+   ],
+   [
+    "being",
+    12.34,
+    12.52
+   ],
+   [
+    "10",
+    12.52,
+    12.82
+   ],
+   [
+    "seconds",
+    12.82,
+    13.12
+   ],
+   [
+    "off",
+    13.12,
+    13.44
+   ],
+   [
+    "meant",
+    13.44,
+    13.72
+   ],
+   [
+    "missing",
+    13.72,
+    13.98
+   ],
+   [
+    "the",
+    13.98,
+    14.14
+   ],
+   [
+    "target",
+    14.14,
+    14.44
+   ],
+   [
+    "by",
+    14.44,
+    14.64
+   ],
+   [
+    "10",
+    14.64,
+    14.88
+   ],
+   [
+    "miles.",
+    14.88,
+    15.24
+   ],
+   [
+    "The",
+    15.94,
+    16.02
+   ],
+   [
+    "impact",
+    16.02,
+    16.34
+   ],
+   [
+    "revealed",
+    16.34,
+    16.76
+   ],
+   [
+    "fresh",
+    16.76,
+    17.04
+   ],
+   [
+    "material",
+    17.04,
+    17.56
+   ],
+   [
+    "from",
+    17.56,
+    17.76
+   ],
+   [
+    "1.5",
+    17.76,
+    18.54
+   ],
+   [
+    "feet",
+    18.54,
+    18.72
+   ],
+   [
+    "below",
+    18.72,
+    18.96
+   ],
+   [
+    "the",
+    19.02,
+    19.12
+   ],
+   [
+    "surface.",
+    19.12,
+    19.66
+   ],
+   [
+    "It",
+    20.0,
+    20.1
+   ],
+   [
+    "is",
+    20.1,
+    20.22
+   ],
+   [
+    "a",
+    20.22,
+    20.3
+   ],
+   [
+    "60-foot",
+    20.3,
+    20.86
+   ],
+   [
+    "wide",
+    20.86,
+    21.14
+   ],
+   [
+    "hole.",
+    21.14,
+    21.5
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   31,
+   46,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "mile/sec",
+   "label": "spacecraft speed"
+  },
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "seconds",
+   "label": "timing error"
+  },
+  {
+   "type": "compare",
+   "value": 0.4572,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 60,
+   "unit": "feet",
+   "label": "crater width"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+ "pron_wer": 0.015,
+ "angle": 1,
+ "source": {
+  "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+  "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:42:09Z",
+ "trimmed": true
+}
