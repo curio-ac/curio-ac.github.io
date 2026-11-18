@@ -1,0 +1,414 @@
+{
+ "id": "en-199aa002",
+ "lang": "en",
+ "title": "Invisible Radio-Disrupting Clouds",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Invisible metal clouds are jamming our radio signals.",
+  "These \"sporadic E\" layers form from vaporized meteor dust.",
+  "They act like giant mirrors, bouncing radio signals unpredictably.",
+  "This messes with GPS accuracy and creates ghost radar targets.",
+  "NASA’s SpEED Demon rocket finally flew five sensors through one.",
+  "They discovered these clouds aren't flat, but shaped like swirling cinnamon rolls."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Invisible",
+    0.2,
+    0.64
+   ],
+   [
+    "metal",
+    0.64,
+    1.06
+   ],
+   [
+    "clouds",
+    1.06,
+    1.62
+   ],
+   [
+    "are",
+    1.62,
+    1.74
+   ],
+   [
+    "jamming",
+    1.74,
+    2.18
+   ],
+   [
+    "our",
+    2.18,
+    2.32
+   ],
+   [
+    "radio",
+    2.32,
+    2.56
+   ],
+   [
+    "signals.",
+    2.56,
+    2.82
+   ],
+   [
+    "These",
+    3.38,
+    3.48
+   ],
+   [
+    "\"sporadic",
+    3.48,
+    3.98
+   ],
+   [
+    "E\"",
+    3.98,
+    4.4
+   ],
+   [
+    "layers",
+    4.6,
+    4.7
+   ],
+   [
+    "form",
+    4.7,
+    4.98
+   ],
+   [
+    "from",
+    4.98,
+    5.2
+   ],
+   [
+    "vaporized",
+    5.2,
+    5.82
+   ],
+   [
+    "meteor",
+    5.9,
+    6.1
+   ],
+   [
+    "dust.",
+    6.1,
+    6.24
+   ],
+   [
+    "They",
+    6.78,
+    6.82
+   ],
+   [
+    "act",
+    6.82,
+    6.96
+   ],
+   [
+    "like",
+    6.98,
+    7.08
+   ],
+   [
+    "giant",
+    7.08,
+    7.38
+   ],
+   [
+    "mirrors,",
+    7.38,
+    7.73
+   ],
+   [
+    "bouncing",
+    8.06,
+    8.28
+   ],
+   [
+    "radio",
+    8.28,
+    8.66
+   ],
+   [
+    "signals",
+    8.66,
+    9.1
+   ],
+   [
+    "unpredictably.",
+    9.1,
+    9.86
+   ],
+   [
+    "This",
+    10.4,
+    10.5
+   ],
+   [
+    "messes",
+    10.58,
+    10.84
+   ],
+   [
+    "with",
+    10.84,
+    10.96
+   ],
+   [
+    "GPS",
+    11.04,
+    11.3
+   ],
+   [
+    "accuracy",
+    11.3,
+    11.78
+   ],
+   [
+    "and",
+    11.78,
+    12.24
+   ],
+   [
+    "creates",
+    12.24,
+    12.54
+   ],
+   [
+    "ghost",
+    12.54,
+    12.9
+   ],
+   [
+    "radar",
+    12.9,
+    13.26
+   ],
+   [
+    "targets.",
+    13.26,
+    13.58
+   ],
+   [
+    "NASA’s",
+    14.26,
+    14.62
+   ],
+   [
+    "SpEED",
+    14.62,
+    14.96
+   ],
+   [
+    "Demon",
+    14.96,
+    15.22
+   ],
+   [
+    "rocket",
+    15.22,
+    15.54
+   ],
+   [
+    "finally",
+    15.76,
+    15.94
+   ],
+   [
+    "flew",
+    15.94,
+    16.24
+   ],
+   [
+    "five",
+    16.24,
+    16.6
+   ],
+   [
+    "sensors",
+    16.6,
+    17.02
+   ],
+   [
+    "through",
+    17.02,
+    17.28
+   ],
+   [
+    "one.",
+    17.28,
+    17.48
+   ],
+   [
+    "They",
+    17.94,
+    17.98
+   ],
+   [
+    "discovered",
+    17.98,
+    18.22
+   ],
+   [
+    "these",
+    18.22,
+    18.42
+   ],
+   [
+    "clouds",
+    18.42,
+    18.68
+   ],
+   [
+    "aren't",
+    18.68,
+    19.08
+   ],
+   [
+    "flat,",
+    19.08,
+    19.44
+   ],
+   [
+    "but",
+    19.58,
+    19.7
+   ],
+   [
+    "shaped",
+    19.78,
+    20.0
+   ],
+   [
+    "like",
+    20.0,
+    20.22
+   ],
+   [
+    "swirling",
+    20.22,
+    20.9
+   ],
+   [
+    "cinnamon",
+    20.9,
+    21.18
+   ],
+   [
+    "rolls.",
+    21.18,
+    21.4
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   36,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Meteor_burst.jpg/960px-Meteor_burst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA Ames Research Center/S. Molau and P. Jenniskens",
+   "page": "https://commons.wikimedia.org/wiki/File:Meteor_burst.jpg",
+   "desc": "Meteor burst — This picture is of the Alpha-Monocerotid meteor outburst in 1995. The Perseid meteor shower, usually the richest meteor shower of the year, peaks in August. Over the course of an hour, a person watching a clear sky from "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Radio_Signal_Reflection_%26_Refraction_on_a_Simple_Ionosphere_Model_%28SVS5240_-_polar_propagation_basic_sample_1920x1080%29.png/960px-Radio_Signal_Reflection_%26_Refraction_on_a_Simple_Ionosphere_Model_%28SVS5240_-_polar_propagation_basic_sample_1920x1080%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA's Scientific Visualization Studio - null",
+   "page": "https://commons.wikimedia.org/wiki/File:Radio_Signal_Reflection_%26_Refraction_on_a_Simple_Ionosphere_Model_(SVS5240_-_polar_propagation_basic_sample_1920x1080).png",
+   "desc": "Radio Signal Reflection & Refraction on a Simple Ionosphere Model (SVS5240 - polar propagation basic sample 1920x1080) — A simple animated plotting of radio wave refraction and reflection on a simplified ionosphere model, landscape format."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gps-multipath-efect.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 463,
+   "license": "CC BY-SA 3.0",
+   "artist": "derivative work: Javiersanp",
+   "page": "https://commons.wikimedia.org/wiki/File:Gps-multipath-efect.png",
+   "desc": "Gps-multipath-efect — Multipath efect in GPS signal. Green color indicates the direct path of the waves, the red color indicates reflected waves."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/First_NASA_ISINGLASS_rocket_launch.jpg/960px-First_NASA_ISINGLASS_rocket_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:First_NASA_ISINGLASS_rocket_launch.jpg",
+   "desc": "First NASA ISINGLASS rocket launch — A Black Brant IX sounding rocket launches from the Poker Flat Research Range in Alaska at 5:14 a.m. EST, Feb. 22, 2017. This is the first of two launches planned in NASA's In Situ and Groundbased Low Altitude StudieS (IS"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "vaporized meteor dust",
+   "box": [
+    131,
+    64,
+    892,
+    938
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 60,
+   "unit": "km",
+   "label": "layer altitude"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "sensors",
+   "label": "SpEED Demon probes"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
+  "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:40:48Z",
+ "trimmed": true
+}
