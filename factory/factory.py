@@ -75,6 +75,8 @@ def gen_json(model, prompt, role="aux"):
         for m in list(order):
             try:
                 r = _gen_json(m, prompt)
+                if r is None or r == [] or r == {}:
+                    print(f"   ↪ {m} gave an empty answer, trying next", flush=True); continue
                 return r[0] if isinstance(r, list) and len(r) == 1 and isinstance(r[0], dict) else r
             except Quota as e:
                 print(f"   ↪ {m} out of daily quota, dropping it", flush=True); drop(m)
@@ -617,9 +619,9 @@ def main():
             print(f"⛔ daily quota reached: {e}"); stats["exhausted"] = True; stats["log"].append(f"quota: {str(e)[:120]}"); break
         except RuntimeError as e:
             if "push failed" in str(e): raise
-            print(f"⚠️ {topic}: {e}"); stats["log"].append(f"{topic}: {str(e)[:120]}")
+            print(f"⚠️ {topic}: {e} @ " + " < ".join(f"{f.name}:{f.lineno}" for f in __import__("traceback").extract_tb(e.__traceback__)[::-1][:4])); stats["log"].append(f"{topic}: {str(e)[:120]}")
         except Exception as e:
-            print(f"⚠️ {topic}: {e}"); stats["log"].append(f"{topic}: {str(e)[:120]}")
+            print(f"⚠️ {topic}: {e} @ " + " < ".join(f"{f.name}:{f.lineno}" for f in __import__("traceback").extract_tb(e.__traceback__)[::-1][:4])); stats["log"].append(f"{topic}: {str(e)[:120]}")
         finally:
             json.dump(index, open(idx_path, "w", encoding="utf8"), ensure_ascii=False, indent=1)
     if not stats["exhausted"]:  # leftover quota: bring back videos pulled for quality, then (max 2) cosmetic re-records

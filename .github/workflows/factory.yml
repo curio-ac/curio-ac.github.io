@@ -24,6 +24,7 @@ jobs:
         lang: [he, en]
     steps:
       - uses: actions/checkout@v4
+        with: {ref: main}
       - id: chk
         run: python3 factory/should_run.py ${{ matrix.lang }}
       - if: steps.chk.outputs.run == '1'
