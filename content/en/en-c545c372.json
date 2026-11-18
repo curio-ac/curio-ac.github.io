@@ -1,0 +1,432 @@
+{
+ "id": "en-c545c372",
+ "lang": "en",
+ "title": "Painting God Without God",
+ "cat": "art",
+ "emoji": "🎨",
+ "sentences": [
+  "This glowing painting hides a biblical flood.",
+  "English artist George Frederic Watts worked on it for 5 years.",
+  "It first appeared in 1886 under the simple title The Sun.",
+  "Watts believed modern society suffered from a lack of moral values.",
+  "He painted works about the Flood cleansing the unworthy.",
+  "This stylized seascape aimed to evoke God in the act of creation without showing Him."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "glowing",
+    0.35,
+    0.63
+   ],
+   [
+    "painting",
+    0.63,
+    0.97
+   ],
+   [
+    "hides",
+    0.97,
+    1.33
+   ],
+   [
+    "a",
+    1.33,
+    1.51
+   ],
+   [
+    "biblical",
+    1.51,
+    1.71
+   ],
+   [
+    "flood.",
+    1.71,
+    2.15
+   ],
+   [
+    "English",
+    2.71,
+    2.93
+   ],
+   [
+    "artist",
+    2.93,
+    3.29
+   ],
+   [
+    "George",
+    3.29,
+    3.59
+   ],
+   [
+    "Frederic",
+    3.59,
+    4.09
+   ],
+   [
+    "Watts",
+    4.09,
+    4.33
+   ],
+   [
+    "worked",
+    4.33,
+    4.61
+   ],
+   [
+    "on",
+    4.61,
+    4.83
+   ],
+   [
+    "it",
+    4.83,
+    4.95
+   ],
+   [
+    "for",
+    4.95,
+    5.07
+   ],
+   [
+    "5",
+    5.15,
+    5.37
+   ],
+   [
+    "years.",
+    5.37,
+    5.71
+   ],
+   [
+    "It",
+    6.25,
+    6.27
+   ],
+   [
+    "first",
+    6.35,
+    6.49
+   ],
+   [
+    "appeared",
+    6.49,
+    6.81
+   ],
+   [
+    "in",
+    6.81,
+    6.99
+   ],
+   [
+    "1886",
+    6.99,
+    7.87
+   ],
+   [
+    "under",
+    7.87,
+    8.25
+   ],
+   [
+    "the",
+    8.25,
+    8.41
+   ],
+   [
+    "simple",
+    8.41,
+    8.63
+   ],
+   [
+    "title",
+    8.63,
+    9.01
+   ],
+   [
+    "The",
+    9.01,
+    9.35
+   ],
+   [
+    "Sun.",
+    9.35,
+    9.73
+   ],
+   [
+    "Watts",
+    10.33,
+    10.51
+   ],
+   [
+    "believed",
+    10.51,
+    10.87
+   ],
+   [
+    "modern",
+    10.87,
+    11.21
+   ],
+   [
+    "society",
+    11.21,
+    11.71
+   ],
+   [
+    "suffered",
+    11.71,
+    12.07
+   ],
+   [
+    "from",
+    12.07,
+    12.31
+   ],
+   [
+    "a",
+    12.31,
+    12.41
+   ],
+   [
+    "lack",
+    12.41,
+    12.57
+   ],
+   [
+    "of",
+    12.57,
+    12.69
+   ],
+   [
+    "moral",
+    12.69,
+    12.93
+   ],
+   [
+    "values.",
+    12.93,
+    13.41
+   ],
+   [
+    "He",
+    13.93,
+    14.03
+   ],
+   [
+    "painted",
+    14.03,
+    14.29
+   ],
+   [
+    "works",
+    14.29,
+    14.53
+   ],
+   [
+    "about",
+    14.53,
+    14.81
+   ],
+   [
+    "the",
+    14.81,
+    14.99
+   ],
+   [
+    "Flood",
+    15.07,
+    15.35
+   ],
+   [
+    "cleansing",
+    15.35,
+    15.69
+   ],
+   [
+    "the",
+    15.69,
+    15.89
+   ],
+   [
+    "unworthy.",
+    15.89,
+    16.41
+   ],
+   [
+    "This",
+    16.93,
+    17.09
+   ],
+   [
+    "stylized",
+    17.09,
+    17.61
+   ],
+   [
+    "seascape",
+    17.61,
+    18.09
+   ],
+   [
+    "aimed",
+    18.09,
+    18.39
+   ],
+   [
+    "to",
+    18.39,
+    18.59
+   ],
+   [
+    "evoke",
+    18.59,
+    18.85
+   ],
+   [
+    "God",
+    18.85,
+    19.11
+   ],
+   [
+    "in",
+    19.11,
+    19.29
+   ],
+   [
+    "the",
+    19.29,
+    19.37
+   ],
+   [
+    "act",
+    19.37,
+    19.61
+   ],
+   [
+    "of",
+    19.61,
+    19.69
+   ],
+   [
+    "creation",
+    19.81,
+    20.09
+   ],
+   [
+    "without",
+    20.09,
+    20.41
+   ],
+   [
+    "showing",
+    20.41,
+    20.77
+   ],
+   [
+    "Him.",
+    20.77,
+    21.05
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   29,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Watts_%E2%80%93_After_the_Deluge.jpg/960px-Watts_%E2%80%93_After_the_Deluge.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 416,
+   "license": "Public domain",
+   "artist": "George Frederic Watts",
+   "page": "https://commons.wikimedia.org/wiki/File:Watts_%E2%80%93_After_the_Deluge.jpg",
+   "desc": "Watts – After the Deluge — Genesis flood narrative"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/George_Frederic_Watts_by_George_Frederic_Watts.jpg/960px-George_Frederic_Watts_by_George_Frederic_Watts.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 925,
+   "license": "Public domain",
+   "artist": "George Frederic Watts",
+   "page": "https://commons.wikimedia.org/wiki/File:George_Frederic_Watts_by_George_Frederic_Watts.jpg",
+   "desc": "George Frederic Watts by George Frederic Watts — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Edvard_Munch_-_The_Sun_%281911%29.jpg/960px-Edvard_Munch_-_The_Sun_%281911%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 411,
+   "license": "Public domain",
+   "artist": "Edvard Munch",
+   "page": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Sun_(1911).jpg",
+   "desc": "Edvard Munch - The Sun (1911) — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Joseph_Mallord_William_Turner_-_The_Morning_after_the_Deluge_-_WGA23180.jpg/960px-Joseph_Mallord_William_Turner_-_The_Morning_after_the_Deluge_-_WGA23180.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 717,
+   "license": "Public domain",
+   "artist": "J. M. W. Turner",
+   "page": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_The_Morning_after_the_Deluge_-_WGA23180.jpg",
+   "desc": "Joseph Mallord William Turner - The Morning after the Deluge - WGA23180 — "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1886
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q27157216",
+ "pron_wer": 0.031,
+ "angle": 1,
+ "source": {
+  "title": "After the Deluge (painting)",
+  "url": "https://en.wikipedia.org/wiki/After_the_Deluge_%28painting%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:43:52Z",
+ "trimmed": true
+}
