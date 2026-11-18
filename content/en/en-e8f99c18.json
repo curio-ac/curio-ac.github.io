@@ -1,0 +1,454 @@
+{
+ "id": "en-e8f99c18",
+ "lang": "en",
+ "title": "Handling Early Nuclear Weapons",
+ "cat": "history",
+ "emoji": "☢️",
+ "sentences": [
+  "Early nuclear weapons couldn't be stored fully assembled.",
+  "The Armed Forces Special Weapons Project managed these complex devices after the Manhattan Project ended.",
+  "This joint military organization included the Army, Navy, and Air Force.",
+  "Major General Leslie R. Groves served as its first chief.",
+  "Short-lived batteries and heat from fissile cores forced these experts to keep components separate.",
+  "Groves hand-picked officers to master the dangerous assembly process."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Early",
+    0.24,
+    0.24
+   ],
+   [
+    "nuclear",
+    0.42,
+    0.52
+   ],
+   [
+    "weapons",
+    0.52,
+    1.14
+   ],
+   [
+    "couldn't",
+    1.14,
+    1.5
+   ],
+   [
+    "be",
+    1.5,
+    1.62
+   ],
+   [
+    "stored",
+    1.62,
+    1.98
+   ],
+   [
+    "fully",
+    1.98,
+    2.4
+   ],
+   [
+    "assembled.",
+    2.4,
+    2.96
+   ],
+   [
+    "The",
+    3.5,
+    3.58
+   ],
+   [
+    "Armed",
+    3.58,
+    3.84
+   ],
+   [
+    "Forces",
+    3.84,
+    4.24
+   ],
+   [
+    "Special",
+    4.24,
+    4.72
+   ],
+   [
+    "Weapons",
+    4.72,
+    5.14
+   ],
+   [
+    "Project",
+    5.14,
+    5.56
+   ],
+   [
+    "managed",
+    5.56,
+    6.1
+   ],
+   [
+    "these",
+    6.1,
+    6.44
+   ],
+   [
+    "complex",
+    6.44,
+    6.9
+   ],
+   [
+    "devices",
+    6.9,
+    7.5
+   ],
+   [
+    "after",
+    7.5,
+    7.96
+   ],
+   [
+    "the",
+    7.96,
+    8.14
+   ],
+   [
+    "Manhattan",
+    8.14,
+    8.36
+   ],
+   [
+    "Project",
+    8.36,
+    8.84
+   ],
+   [
+    "ended.",
+    8.84,
+    9.26
+   ],
+   [
+    "This",
+    9.98,
+    10.12
+   ],
+   [
+    "joint",
+    10.12,
+    10.4
+   ],
+   [
+    "military",
+    10.4,
+    10.86
+   ],
+   [
+    "organization",
+    10.86,
+    11.56
+   ],
+   [
+    "included",
+    11.56,
+    12.04
+   ],
+   [
+    "the",
+    12.04,
+    12.24
+   ],
+   [
+    "Army,",
+    12.24,
+    12.84
+   ],
+   [
+    "Navy,",
+    12.84,
+    13.22
+   ],
+   [
+    "and",
+    13.46,
+    13.5
+   ],
+   [
+    "Air",
+    13.5,
+    13.68
+   ],
+   [
+    "Force.",
+    13.68,
+    13.78
+   ],
+   [
+    "Major",
+    14.66,
+    14.9
+   ],
+   [
+    "General",
+    14.9,
+    15.32
+   ],
+   [
+    "Leslie",
+    15.32,
+    15.66
+   ],
+   [
+    "R.",
+    15.66,
+    16.12
+   ],
+   [
+    "Groves",
+    16.12,
+    16.38
+   ],
+   [
+    "served",
+    16.38,
+    16.76
+   ],
+   [
+    "as",
+    16.76,
+    17.0
+   ],
+   [
+    "its",
+    17.0,
+    17.14
+   ],
+   [
+    "first",
+    17.14,
+    17.36
+   ],
+   [
+    "chief.",
+    17.36,
+    17.72
+   ],
+   [
+    "Short-lived",
+    18.72,
+    19.06
+   ],
+   [
+    "batteries",
+    19.06,
+    19.48
+   ],
+   [
+    "and",
+    19.48,
+    19.82
+   ],
+   [
+    "heat",
+    19.82,
+    20.08
+   ],
+   [
+    "from",
+    20.08,
+    20.32
+   ],
+   [
+    "fissile",
+    20.32,
+    20.78
+   ],
+   [
+    "cores",
+    20.78,
+    21.1
+   ],
+   [
+    "forced",
+    21.1,
+    21.76
+   ],
+   [
+    "these",
+    21.76,
+    22.02
+   ],
+   [
+    "experts",
+    22.02,
+    22.42
+   ],
+   [
+    "to",
+    22.42,
+    22.66
+   ],
+   [
+    "keep",
+    22.66,
+    22.86
+   ],
+   [
+    "components",
+    22.98,
+    23.3
+   ],
+   [
+    "separate.",
+    23.3,
+    23.78
+   ],
+   [
+    "Groves",
+    24.48,
+    24.76
+   ],
+   [
+    "hand-picked",
+    24.76,
+    25.28
+   ],
+   [
+    "officers",
+    25.28,
+    25.74
+   ],
+   [
+    "to",
+    25.74,
+    26.0
+   ],
+   [
+    "master",
+    26.0,
+    26.36
+   ],
+   [
+    "the",
+    26.36,
+    26.6
+   ],
+   [
+    "dangerous",
+    26.6,
+    27.0
+   ],
+   [
+    "assembly",
+    27.0,
+    27.48
+   ],
+   [
+    "process.",
+    27.48,
+    28.12
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   23,
+   34,
+   44,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/AFSWP_badge.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 733,
+   "license": "Public domain",
+   "artist": "U.S. federal government",
+   "page": "https://commons.wikimedia.org/wiki/File:AFSWP_badge.jpeg",
+   "desc": "AFSWP badge — Emblem of the Armed Forces Special Weapons Project"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Leslie_Groves.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 919,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Leslie_Groves.jpg",
+   "desc": "Leslie Groves — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fat_Man_Internal_Components.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 773,
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Fat_Man_Internal_Components.png",
+   "desc": "Fat Man Internal Components — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/AFSWP_certificate.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 528,
+   "license": "Public domain",
+   "artist": "Armed Forces Special Weapons Project",
+   "page": "https://commons.wikimedia.org/wiki/File:AFSWP_certificate.jpg",
+   "desc": "AFSWP certificate — Armed Forces Special Weapons Project certificate for attending Weapons Orientation Advanced Class No. 132, April 1958"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1947
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Leslie R. Groves",
+   "box": [
+    23,
+    273,
+    997,
+    747
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4793016",
+ "pron_wer": 0.029,
+ "angle": 0,
+ "source": {
+  "title": "Armed Forces Special Weapons Project",
+  "url": "https://en.wikipedia.org/wiki/Armed_Forces_Special_Weapons_Project",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:21:55Z",
+ "trimmed": true
+}

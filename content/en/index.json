@@ -158,7 +158,8 @@
   "nasa:1505938",
   "Crush (video game)",
   "British military intervention in the Sierra Leone Civil War",
-  "nasa:1473102"
+  "nasa:1473102",
+  "nasa:1386258"
  ],
  "rejected": [
   "Chameleon",
@@ -728,6 +729,9 @@
   ],
   "nasa:1473102": [
    "Texas Cotton Fields Dying: Cotton crops in Texas are dying."
+  ],
+  "nasa:1386258": [
+   "Australia's Desert Flower Explosion: The Australian outback just exploded with flowers."
   ]
  },
  "exhausted": []
