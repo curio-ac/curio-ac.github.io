@@ -1,0 +1,391 @@
+{
+ "id": "en-5e13c03e",
+ "lang": "en",
+ "title": "Mars Has a Turquoise Bay",
+ "cat": "space",
+ "emoji": "🪐",
+ "sentences": [
+  "Mars hides a place called Turquoise Bay.",
+  "The rover captured this panorama over 12 Martian days.",
+  "It stitched together 818 individual images for the view.",
+  "This location is part of the mission's Margin Unit.",
+  "Scientists processed color bands to highlight subtle surface differences.",
+  "Experts from Arizona State University helped operate the camera.",
+  "The final file size is a massive 5.14 gigabytes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Mars",
+    0.26,
+    0.44
+   ],
+   [
+    "hides",
+    0.44,
+    0.66
+   ],
+   [
+    "a",
+    0.66,
+    0.8
+   ],
+   [
+    "place",
+    0.8,
+    0.98
+   ],
+   [
+    "called",
+    0.98,
+    1.2
+   ],
+   [
+    "Turquoise",
+    1.2,
+    1.66
+   ],
+   [
+    "Bay.",
+    1.66,
+    2.04
+   ],
+   [
+    "The",
+    2.6,
+    2.7
+   ],
+   [
+    "rover",
+    2.7,
+    2.9
+   ],
+   [
+    "captured",
+    2.9,
+    3.3
+   ],
+   [
+    "this",
+    3.3,
+    3.5
+   ],
+   [
+    "panorama",
+    3.5,
+    3.96
+   ],
+   [
+    "over",
+    3.96,
+    4.24
+   ],
+   [
+    "12",
+    4.24,
+    4.62
+   ],
+   [
+    "Martian",
+    4.62,
+    5.04
+   ],
+   [
+    "days.",
+    5.04,
+    5.26
+   ],
+   [
+    "It",
+    5.82,
+    5.88
+   ],
+   [
+    "stitched",
+    5.88,
+    6.08
+   ],
+   [
+    "together",
+    6.08,
+    6.52
+   ],
+   [
+    "818",
+    6.52,
+    7.38
+   ],
+   [
+    "individual",
+    7.44,
+    7.94
+   ],
+   [
+    "images",
+    7.94,
+    8.48
+   ],
+   [
+    "for",
+    8.48,
+    8.72
+   ],
+   [
+    "the",
+    8.72,
+    8.84
+   ],
+   [
+    "view.",
+    8.84,
+    9.14
+   ],
+   [
+    "This",
+    9.7,
+    9.82
+   ],
+   [
+    "location",
+    9.82,
+    10.14
+   ],
+   [
+    "is",
+    10.14,
+    10.5
+   ],
+   [
+    "part",
+    10.5,
+    10.7
+   ],
+   [
+    "of",
+    10.7,
+    10.84
+   ],
+   [
+    "the",
+    10.84,
+    10.94
+   ],
+   [
+    "mission's",
+    10.94,
+    11.3
+   ],
+   [
+    "Margin",
+    11.3,
+    11.58
+   ],
+   [
+    "Unit.",
+    11.58,
+    11.84
+   ],
+   [
+    "Scientists",
+    12.24,
+    12.5
+   ],
+   [
+    "processed",
+    12.5,
+    12.94
+   ],
+   [
+    "color",
+    12.94,
+    13.26
+   ],
+   [
+    "bands",
+    13.26,
+    13.54
+   ],
+   [
+    "to",
+    13.54,
+    13.7
+   ],
+   [
+    "highlight",
+    13.7,
+    13.92
+   ],
+   [
+    "subtle",
+    13.92,
+    14.3
+   ],
+   [
+    "surface",
+    14.3,
+    14.56
+   ],
+   [
+    "differences.",
+    14.56,
+    15.08
+   ],
+   [
+    "Experts",
+    15.74,
+    16.1
+   ],
+   [
+    "from",
+    16.1,
+    16.24
+   ],
+   [
+    "Arizona",
+    16.24,
+    16.52
+   ],
+   [
+    "State",
+    16.52,
+    16.86
+   ],
+   [
+    "University",
+    16.86,
+    17.28
+   ],
+   [
+    "helped",
+    17.28,
+    17.66
+   ],
+   [
+    "operate",
+    17.66,
+    17.98
+   ],
+   [
+    "the",
+    17.98,
+    18.16
+   ],
+   [
+    "camera.",
+    18.16,
+    18.58
+   ],
+   [
+    "The",
+    19.04,
+    19.12
+   ],
+   [
+    "final",
+    19.12,
+    19.36
+   ],
+   [
+    "file",
+    19.36,
+    19.62
+   ],
+   [
+    "size",
+    19.62,
+    19.94
+   ],
+   [
+    "is",
+    19.94,
+    20.16
+   ],
+   [
+    "a",
+    20.16,
+    20.26
+   ],
+   [
+    "massive",
+    20.26,
+    20.58
+   ],
+   [
+    "5.14",
+    20.58,
+    21.5
+   ],
+   [
+    "gigabytes.",
+    21.5,
+    21.92
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   34,
+   43,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 818,
+   "unit": "images",
+   "label": "stitched together"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5.14,
+   "unit": "GB",
+   "label": "file size"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+ "pron_wer": 0.016,
+ "angle": 1,
+ "source": {
+  "title": "Perseverance’s View of ‘Turquoise Bay’",
+  "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:42:37Z",
+ "trimmed": true
+}
