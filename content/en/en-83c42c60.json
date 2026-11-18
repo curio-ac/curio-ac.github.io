@@ -1,0 +1,338 @@
+{
+ "id": "en-83c42c60",
+ "lang": "en",
+ "title": "Complex Life Defies Record Heat",
+ "cat": "biology",
+ "emoji": "🔥",
+ "sentences": [
+  "Complex life can survive record heat.",
+  "Scientists found an amoeba in Lassen Volcanic National Park.",
+  "Incendiamoeba cascadensis reproduces at 145 degrees Fahrenheit.",
+  "It stays active up to 147 degrees Fahrenheit.",
+  "This shatters the previous eukaryote limit of 140 degrees Fahrenheit.",
+  "Similar DNA exists in geothermal samples around the globe."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Complex",
+    0.28,
+    0.28
+   ],
+   [
+    "life",
+    0.28,
+    0.74
+   ],
+   [
+    "can",
+    0.74,
+    1.0
+   ],
+   [
+    "survive",
+    1.0,
+    1.4
+   ],
+   [
+    "record",
+    1.4,
+    1.84
+   ],
+   [
+    "heat.",
+    1.84,
+    2.2
+   ],
+   [
+    "Scientists",
+    2.92,
+    3.14
+   ],
+   [
+    "found",
+    3.14,
+    3.56
+   ],
+   [
+    "an",
+    3.56,
+    3.72
+   ],
+   [
+    "amoeba",
+    3.72,
+    4.16
+   ],
+   [
+    "in",
+    4.16,
+    4.38
+   ],
+   [
+    "Lassen",
+    4.4,
+    4.76
+   ],
+   [
+    "Volcanic",
+    4.76,
+    5.36
+   ],
+   [
+    "National",
+    5.4,
+    5.68
+   ],
+   [
+    "Park.",
+    5.68,
+    5.78
+   ],
+   [
+    "Incendiamoeba",
+    6.76,
+    7.66
+   ],
+   [
+    "cascadensis",
+    7.7,
+    8.54
+   ],
+   [
+    "reproduces",
+    8.54,
+    9.54
+   ],
+   [
+    "at",
+    9.54,
+    9.7
+   ],
+   [
+    "145",
+    9.7,
+    11.04
+   ],
+   [
+    "degrees",
+    11.12,
+    11.22
+   ],
+   [
+    "Fahrenheit.",
+    11.22,
+    11.94
+   ],
+   [
+    "It",
+    12.54,
+    12.64
+   ],
+   [
+    "stays",
+    12.64,
+    12.84
+   ],
+   [
+    "active",
+    12.84,
+    13.28
+   ],
+   [
+    "up",
+    13.28,
+    13.52
+   ],
+   [
+    "to",
+    13.52,
+    13.68
+   ],
+   [
+    "147",
+    13.68,
+    14.86
+   ],
+   [
+    "degrees",
+    14.86,
+    15.08
+   ],
+   [
+    "Fahrenheit.",
+    15.08,
+    15.42
+   ],
+   [
+    "This",
+    16.34,
+    16.5
+   ],
+   [
+    "shatters",
+    16.5,
+    16.9
+   ],
+   [
+    "the",
+    16.9,
+    17.14
+   ],
+   [
+    "previous",
+    17.22,
+    17.42
+   ],
+   [
+    "eukaryote",
+    17.42,
+    18.06
+   ],
+   [
+    "limit",
+    18.06,
+    18.32
+   ],
+   [
+    "of",
+    18.32,
+    18.58
+   ],
+   [
+    "140",
+    18.64,
+    19.12
+   ],
+   [
+    "degrees",
+    19.12,
+    19.84
+   ],
+   [
+    "Fahrenheit.",
+    19.84,
+    20.52
+   ],
+   [
+    "Similar",
+    21.32,
+    21.5
+   ],
+   [
+    "DNA",
+    21.5,
+    21.88
+   ],
+   [
+    "exists",
+    21.88,
+    22.38
+   ],
+   [
+    "in",
+    22.38,
+    22.66
+   ],
+   [
+    "geothermal",
+    22.66,
+    23.12
+   ],
+   [
+    "samples",
+    23.12,
+    23.68
+   ],
+   [
+    "around",
+    23.68,
+    23.98
+   ],
+   [
+    "the",
+    23.98,
+    24.18
+   ],
+   [
+    "globe.",
+    24.18,
+    24.28
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   22,
+   30,
+   40
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Lassen_Volcanic_%2832110365674%29.jpg/960px-Lassen_Volcanic_%2832110365674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Theo Crazzolara",
+   "page": "https://commons.wikimedia.org/wiki/File:Lassen_Volcanic_(32110365674).jpg",
+   "desc": "Lassen Volcanic (32110365674) — Lassen Volcanic"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 145,
+   "unit": "ºF",
+   "label": "reproduces at"
+  },
+  {
+   "type": "stat",
+   "value": 147,
+   "unit": "ºF",
+   "label": "stays active"
+  },
+  {
+   "type": "stat",
+   "value": 140,
+   "unit": "ºF",
+   "label": "previous limit"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-funded-research-finds-complex-life-defying-record-heat/",
+ "pron_wer": 0.041,
+ "angle": 0,
+ "source": {
+  "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+  "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-funded-research-finds-complex-life-defying-record-heat/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:24:04Z",
+ "trimmed": true
+}

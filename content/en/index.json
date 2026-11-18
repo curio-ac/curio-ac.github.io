@@ -174,7 +174,8 @@
   "nasa:1339368",
   "James B. Conant",
   "Cardinal-nephew",
-  "Buangkok MRT station"
+  "Buangkok MRT station",
+  "Canis Minor"
  ],
  "rejected": [
   "Chameleon",
@@ -806,6 +807,9 @@
   ],
   "Buangkok MRT station": [
    "The Ghost Station Protest: Protesters once used cardboard elephants here."
+  ],
+  "Canis Minor": [
+   "Meet the Lesser Dog: Meet the lesser dog of the night sky."
   ]
  },
  "exhausted": []
