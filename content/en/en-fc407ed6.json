@@ -1,0 +1,366 @@
+{
+ "id": "en-fc407ed6",
+ "lang": "en",
+ "title": "PSP's Dimension-Shifting Puzzle Game",
+ "cat": "technology",
+ "emoji": "🧩",
+ "sentences": [
+  "Switching dimensions solves this puzzle game.",
+  "Crush is a 2007 game for PlayStation Portable.",
+  "Players control Danny, a man suffering from insomnia.",
+  "He uses an experimental device to explore his mind.",
+  "The gameplay swaps between 2D and 3D views.",
+  "Critics compared this mechanic to Super Paper Mario.",
+  "Despite winning awards, the game failed sales expectations."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Switching",
+    0.08,
+    0.3
+   ],
+   [
+    "dimensions",
+    0.3,
+    0.64
+   ],
+   [
+    "solves",
+    0.64,
+    1.12
+   ],
+   [
+    "this",
+    1.12,
+    1.42
+   ],
+   [
+    "puzzle",
+    1.42,
+    1.68
+   ],
+   [
+    "game.",
+    1.68,
+    1.96
+   ],
+   [
+    "Crush",
+    2.56,
+    2.56
+   ],
+   [
+    "is",
+    2.56,
+    2.86
+   ],
+   [
+    "a",
+    2.86,
+    2.96
+   ],
+   [
+    "2007",
+    2.96,
+    3.62
+   ],
+   [
+    "game",
+    3.62,
+    3.96
+   ],
+   [
+    "for",
+    3.96,
+    4.18
+   ],
+   [
+    "PlayStation",
+    4.24,
+    4.5
+   ],
+   [
+    "Portable.",
+    4.5,
+    5.04
+   ],
+   [
+    "Players",
+    5.54,
+    5.64
+   ],
+   [
+    "control",
+    5.64,
+    6.06
+   ],
+   [
+    "Danny,",
+    6.06,
+    6.56
+   ],
+   [
+    "a",
+    6.64,
+    6.7
+   ],
+   [
+    "man",
+    6.7,
+    6.9
+   ],
+   [
+    "suffering",
+    6.9,
+    7.26
+   ],
+   [
+    "from",
+    7.26,
+    7.56
+   ],
+   [
+    "insomnia.",
+    7.56,
+    8.3
+   ],
+   [
+    "He",
+    8.44,
+    8.5
+   ],
+   [
+    "uses",
+    8.5,
+    8.78
+   ],
+   [
+    "an",
+    8.78,
+    8.98
+   ],
+   [
+    "experimental",
+    8.98,
+    9.42
+   ],
+   [
+    "device",
+    9.42,
+    9.88
+   ],
+   [
+    "to",
+    9.88,
+    10.12
+   ],
+   [
+    "explore",
+    10.12,
+    10.44
+   ],
+   [
+    "his",
+    10.44,
+    10.64
+   ],
+   [
+    "mind.",
+    10.64,
+    10.94
+   ],
+   [
+    "The",
+    11.3,
+    11.36
+   ],
+   [
+    "gameplay",
+    11.36,
+    11.6
+   ],
+   [
+    "swaps",
+    11.6,
+    12.12
+   ],
+   [
+    "between",
+    12.12,
+    12.42
+   ],
+   [
+    "2D",
+    12.42,
+    12.9
+   ],
+   [
+    "and",
+    12.9,
+    13.12
+   ],
+   [
+    "3D",
+    13.12,
+    13.46
+   ],
+   [
+    "views.",
+    13.46,
+    13.98
+   ],
+   [
+    "Critics",
+    14.12,
+    14.38
+   ],
+   [
+    "compared",
+    14.38,
+    14.7
+   ],
+   [
+    "this",
+    14.7,
+    14.94
+   ],
+   [
+    "mechanic",
+    14.94,
+    15.32
+   ],
+   [
+    "to",
+    15.32,
+    15.52
+   ],
+   [
+    "Super",
+    15.52,
+    15.78
+   ],
+   [
+    "Paper",
+    15.78,
+    16.02
+   ],
+   [
+    "Mario.",
+    16.02,
+    16.67
+   ],
+   [
+    "Despite",
+    16.8,
+    16.94
+   ],
+   [
+    "winning",
+    16.94,
+    17.24
+   ],
+   [
+    "awards,",
+    17.24,
+    17.99
+   ],
+   [
+    "the",
+    18.04,
+    18.08
+   ],
+   [
+    "game",
+    18.08,
+    18.32
+   ],
+   [
+    "failed",
+    18.32,
+    18.62
+   ],
+   [
+    "sales",
+    18.62,
+    18.84
+   ],
+   [
+    "expectations.",
+    18.84,
+    19.44
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   22,
+   31,
+   39,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Psp-1000.jpg/960px-Psp-1000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 409,
+   "license": "Public domain",
+   "artist": "Evan-Amos",
+   "page": "https://commons.wikimedia.org/wiki/File:Psp-1000.jpg",
+   "desc": "Psp-1000 — An original model PlayStation Portable (PSP-1000) handheld games console."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2007
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1048989",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Crush (video game)",
+  "url": "https://en.wikipedia.org/wiki/Crush_%28video_game%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:45:04Z",
+ "trimmed": true
+}

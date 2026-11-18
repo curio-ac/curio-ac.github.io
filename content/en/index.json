@@ -154,7 +154,8 @@
   "nasa:1280714",
   "2015 Trophée Éric Bompard",
   "22nd Massachusetts Infantry Regiment",
-  "1999 Football League Second Division play-off final"
+  "1999 Football League Second Division play-off final",
+  "nasa:1505938"
  ],
  "rejected": [
   "Chameleon",
@@ -705,6 +706,9 @@
   ],
   "1999 Football League Second Division play-off final": [
    "Wembley's Historic 1999 Showdown: Nearly 77,000 fans packed into Wembley Stadium."
+  ],
+  "nasa:1505938": [
+   "Cyclone Arnab's Rare Arrival: A rare cyclone hit India in late October."
   ]
  },
  "exhausted": []
