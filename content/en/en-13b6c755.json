@@ -1,0 +1,428 @@
+{
+ "id": "en-13b6c755",
+ "lang": "en",
+ "title": "Texas Cotton Fields Dying",
+ "cat": "geography",
+ "emoji": "🌵",
+ "sentences": [
+  "Cotton crops in Texas are dying.",
+  "Satellite images from 2026 show parched, brown farmland compared to 2025.",
+  "Farmers report 90 percent of their dryland cotton is dead.",
+  "Many local playa lakes, which usually recharge groundwater, are completely dry.",
+  "Groundwater levels have dropped up to 100 feet since 1950.",
+  "Wells are running dry, forcing some farmers to realize their water is already gone."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cotton",
+    0.35,
+    0.37
+   ],
+   [
+    "crops",
+    0.37,
+    0.57
+   ],
+   [
+    "in",
+    0.57,
+    0.79
+   ],
+   [
+    "Texas",
+    0.79,
+    1.07
+   ],
+   [
+    "are",
+    1.07,
+    1.35
+   ],
+   [
+    "dying.",
+    1.35,
+    1.81
+   ],
+   [
+    "Satellite",
+    2.21,
+    2.55
+   ],
+   [
+    "images",
+    2.55,
+    2.81
+   ],
+   [
+    "from",
+    2.81,
+    3.03
+   ],
+   [
+    "2026",
+    3.03,
+    3.75
+   ],
+   [
+    "show",
+    3.75,
+    4.11
+   ],
+   [
+    "parched,",
+    4.11,
+    4.53
+   ],
+   [
+    "brown",
+    4.63,
+    4.83
+   ],
+   [
+    "farmland",
+    4.83,
+    5.31
+   ],
+   [
+    "compared",
+    5.31,
+    5.57
+   ],
+   [
+    "to",
+    5.57,
+    5.79
+   ],
+   [
+    "2025.",
+    5.79,
+    6.61
+   ],
+   [
+    "Farmers",
+    7.09,
+    7.37
+   ],
+   [
+    "report",
+    7.37,
+    7.57
+   ],
+   [
+    "90",
+    7.69,
+    7.95
+   ],
+   [
+    "percent",
+    7.95,
+    8.33
+   ],
+   [
+    "of",
+    8.33,
+    8.51
+   ],
+   [
+    "their",
+    8.51,
+    8.61
+   ],
+   [
+    "dryland",
+    8.61,
+    9.01
+   ],
+   [
+    "cotton",
+    9.01,
+    9.31
+   ],
+   [
+    "is",
+    9.31,
+    9.55
+   ],
+   [
+    "dead.",
+    9.55,
+    9.81
+   ],
+   [
+    "Many",
+    10.37,
+    10.49
+   ],
+   [
+    "local",
+    10.49,
+    10.75
+   ],
+   [
+    "playa",
+    10.75,
+    11.11
+   ],
+   [
+    "lakes,",
+    11.11,
+    11.33
+   ],
+   [
+    "which",
+    11.49,
+    11.59
+   ],
+   [
+    "usually",
+    11.59,
+    11.95
+   ],
+   [
+    "recharge",
+    11.95,
+    12.29
+   ],
+   [
+    "groundwater,",
+    12.29,
+    13.03
+   ],
+   [
+    "are",
+    13.05,
+    13.13
+   ],
+   [
+    "completely",
+    13.13,
+    13.47
+   ],
+   [
+    "dry.",
+    13.47,
+    14.01
+   ],
+   [
+    "Groundwater",
+    14.37,
+    14.75
+   ],
+   [
+    "levels",
+    14.75,
+    15.05
+   ],
+   [
+    "have",
+    15.05,
+    15.19
+   ],
+   [
+    "dropped",
+    15.19,
+    15.39
+   ],
+   [
+    "up",
+    15.39,
+    15.55
+   ],
+   [
+    "to",
+    15.55,
+    15.69
+   ],
+   [
+    "100",
+    15.69,
+    15.97
+   ],
+   [
+    "feet",
+    15.97,
+    16.29
+   ],
+   [
+    "since",
+    16.29,
+    16.51
+   ],
+   [
+    "1950.",
+    16.51,
+    17.19
+   ],
+   [
+    "Wells",
+    17.77,
+    17.89
+   ],
+   [
+    "are",
+    17.89,
+    18.09
+   ],
+   [
+    "running",
+    18.09,
+    18.25
+   ],
+   [
+    "dry,",
+    18.25,
+    18.69
+   ],
+   [
+    "forcing",
+    18.69,
+    18.95
+   ],
+   [
+    "some",
+    18.95,
+    19.19
+   ],
+   [
+    "farmers",
+    19.19,
+    19.53
+   ],
+   [
+    "to",
+    19.53,
+    19.69
+   ],
+   [
+    "realize",
+    19.69,
+    19.97
+   ],
+   [
+    "their",
+    19.97,
+    20.21
+   ],
+   [
+    "water",
+    20.21,
+    20.41
+   ],
+   [
+    "is",
+    20.41,
+    20.59
+   ],
+   [
+    "already",
+    20.59,
+    20.89
+   ],
+   [
+    "gone.",
+    20.89,
+    21.21
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   27,
+   38,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Fighting_Drought_in_Texas_Cotton_Country_%281473102_-_NASAAcresphoto2%29.jpg/960px-Fighting_Drought_in_Texas_Cotton_Country_%281473102_-_NASAAcresphoto2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Fighting_Drought_in_Texas_Cotton_Country_(1473102_-_NASAAcresphoto2).jpg",
+   "desc": "Fighting Drought in Texas Cotton Country (1473102 - NASAAcresphoto2) — Farmers and NASA scientists inspect wilted cotton in Kress, Texas, during a NASA Acres listening tour on August 25, 2026."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Fighting_Drought_in_Texas_Cotton_Country_%281473102_-_texasdrought_oli_20260909%29.jpg/960px-Fighting_Drought_in_Texas_Cotton_Country_%281473102_-_texasdrought_oli_20260909%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 700,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Fighting_Drought_in_Texas_Cotton_Country_(1473102_-_texasdrought_oli_20260909).jpg",
+   "desc": "Fighting Drought in Texas Cotton Country (1473102 - texasdrought oli 20260909) — Fields were parched and brown, and playa lakes mostly dry, in Lubbock County in September 2026 (right) compared to September 2025 (left) in imagery captured by the OLI (Operationa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Fighting_Drought_in_Texas_Cotton_Country_%281473102_-_nasaacresphoto%29.jpg/960px-Fighting_Drought_in_Texas_Cotton_Country_%281473102_-_nasaacresphoto%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Fighting_Drought_in_Texas_Cotton_Country_(1473102_-_nasaacresphoto).jpg",
+   "desc": "Fighting Drought in Texas Cotton Country (1473102 - nasaacresphoto) — Rows of spindly, wilted cotton photographed in one of Cotter-Vardeman's fields in Slaton, Texas, appear stressed and near death on August 14, 2026."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Pumped_water_from_well_%2815518257138%29.jpg/960px-Pumped_water_from_well_%2815518257138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "SuSanA Secretariat",
+   "page": "https://commons.wikimedia.org/wiki/File:Pumped_water_from_well_(15518257138).jpg",
+   "desc": "Pumped water from well (15518257138) — Well in the Mezquital valley, this well extracts water from the ground with pumps, and uses it to irrigate the croplands, mixing it with wastewater."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "stat",
+   "value": 90,
+   "unit": "%",
+   "label": "dryland cotton dead"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 100,
+   "unit": "feet",
+   "label": "water table drop"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Fighting Drought in Texas Cotton Country",
+  "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:49:32Z",
+ "trimmed": true
+}
