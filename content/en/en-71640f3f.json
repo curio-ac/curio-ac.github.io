@@ -1,0 +1,438 @@
+{
+ "id": "en-71640f3f",
+ "lang": "en",
+ "title": "The Black-and-Yellow Broadbill",
+ "cat": "biology",
+ "emoji": "🐦",
+ "sentences": [
+  "This bird has a bright blue beak.",
+  "The black-and-yellow broadbill is a small, distinctive species.",
+  "Males and females look slightly different, with females having an incomplete black breastband.",
+  "They live across Southeast Asia in forests and plantations.",
+  "These birds mostly eat insects, but they also snack on molluscs and fruit.",
+  "Both parents work together to build a messy, pear-shaped nest from moss and leaves."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.2,
+    0.2
+   ],
+   [
+    "bird",
+    0.2,
+    0.44
+   ],
+   [
+    "has",
+    0.44,
+    0.64
+   ],
+   [
+    "a",
+    0.64,
+    0.78
+   ],
+   [
+    "bright",
+    0.78,
+    1.1
+   ],
+   [
+    "blue",
+    1.1,
+    1.4
+   ],
+   [
+    "beak.",
+    1.4,
+    1.72
+   ],
+   [
+    "The",
+    2.36,
+    2.4
+   ],
+   [
+    "black-and-yellow",
+    2.46,
+    3.0
+   ],
+   [
+    "broadbill",
+    3.0,
+    3.56
+   ],
+   [
+    "is",
+    3.56,
+    3.8
+   ],
+   [
+    "a",
+    3.8,
+    3.92
+   ],
+   [
+    "small,",
+    3.92,
+    4.32
+   ],
+   [
+    "distinctive",
+    4.74,
+    4.84
+   ],
+   [
+    "species.",
+    4.84,
+    6.06
+   ],
+   [
+    "Males",
+    6.06,
+    6.26
+   ],
+   [
+    "and",
+    6.26,
+    6.46
+   ],
+   [
+    "females",
+    6.46,
+    6.74
+   ],
+   [
+    "look",
+    6.74,
+    7.04
+   ],
+   [
+    "slightly",
+    7.04,
+    7.36
+   ],
+   [
+    "different,",
+    7.36,
+    7.74
+   ],
+   [
+    "with",
+    8.16,
+    8.26
+   ],
+   [
+    "females",
+    8.26,
+    8.6
+   ],
+   [
+    "having",
+    8.6,
+    8.88
+   ],
+   [
+    "an",
+    8.88,
+    9.04
+   ],
+   [
+    "incomplete",
+    9.1,
+    9.54
+   ],
+   [
+    "black",
+    9.54,
+    9.94
+   ],
+   [
+    "breastband.",
+    9.94,
+    10.46
+   ],
+   [
+    "They",
+    11.18,
+    11.26
+   ],
+   [
+    "live",
+    11.26,
+    11.46
+   ],
+   [
+    "across",
+    11.46,
+    11.76
+   ],
+   [
+    "Southeast",
+    11.76,
+    12.22
+   ],
+   [
+    "Asia",
+    12.22,
+    12.68
+   ],
+   [
+    "in",
+    12.68,
+    12.96
+   ],
+   [
+    "forests",
+    12.96,
+    13.36
+   ],
+   [
+    "and",
+    13.36,
+    13.64
+   ],
+   [
+    "plantations.",
+    13.64,
+    14.39
+   ],
+   [
+    "These",
+    14.98,
+    15.12
+   ],
+   [
+    "birds",
+    15.12,
+    15.4
+   ],
+   [
+    "mostly",
+    15.4,
+    15.78
+   ],
+   [
+    "eat",
+    15.78,
+    16.04
+   ],
+   [
+    "insects,",
+    16.04,
+    16.5
+   ],
+   [
+    "but",
+    16.88,
+    16.98
+   ],
+   [
+    "they",
+    16.98,
+    17.08
+   ],
+   [
+    "also",
+    17.08,
+    17.32
+   ],
+   [
+    "snack",
+    17.32,
+    17.6
+   ],
+   [
+    "on",
+    17.6,
+    17.82
+   ],
+   [
+    "molluscs",
+    17.82,
+    18.32
+   ],
+   [
+    "and",
+    18.32,
+    18.52
+   ],
+   [
+    "fruit.",
+    18.52,
+    18.8
+   ],
+   [
+    "Both",
+    19.66,
+    19.78
+   ],
+   [
+    "parents",
+    19.78,
+    20.12
+   ],
+   [
+    "work",
+    20.12,
+    20.34
+   ],
+   [
+    "together",
+    20.42,
+    20.68
+   ],
+   [
+    "to",
+    20.68,
+    20.92
+   ],
+   [
+    "build",
+    20.92,
+    21.06
+   ],
+   [
+    "a",
+    21.06,
+    21.16
+   ],
+   [
+    "messy,",
+    21.16,
+    21.64
+   ],
+   [
+    "pear-shaped",
+    21.8,
+    22.18
+   ],
+   [
+    "nest",
+    22.18,
+    22.6
+   ],
+   [
+    "from",
+    22.6,
+    22.82
+   ],
+   [
+    "moss",
+    22.82,
+    23.08
+   ],
+   [
+    "and",
+    23.08,
+    23.36
+   ],
+   [
+    "leaves.",
+    23.36,
+    23.82
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   28,
+   37,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Black-and-yellow_broadbill_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 969,
+   "license": "CC BY-SA 2.0",
+   "artist": "Christopher Adler",
+   "page": "https://commons.wikimedia.org/wiki/File:Black-and-yellow_broadbill_(cropped).jpg",
+   "desc": "Black-and-yellow broadbill (cropped) — Male Eurylaimus ochromalus at Myne Resort, Kinabatangan River Sabah, Malaysia"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Black-and-yellow_Broadbill_-_Krung_Ching_-_Thailand_S4E3736_%2814071771530%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1079,
+   "license": "CC BY-SA 2.0",
+   "artist": "Francesco Veronesi from Italy",
+   "page": "https://commons.wikimedia.org/wiki/File:Black-and-yellow_Broadbill_-_Krung_Ching_-_Thailand_S4E3736_(14071771530).jpg",
+   "desc": "Black-and-yellow Broadbill - Krung Ching - Thailand S4E3736 (14071771530) — Black-and-yellow Broadbill - Krung Ching - Thailand_S4E3736"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Adult_female_Black-and-yellow_broadbill_and_juvenile.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1077,
+   "license": "CC BY-SA 2.0",
+   "artist": "Emorhun @ Matjo",
+   "page": "https://commons.wikimedia.org/wiki/File:Adult_female_Black-and-yellow_broadbill_and_juvenile.jpg",
+   "desc": "Adult female Black-and-yellow broadbill and juvenile — Adult female Black-and-yellow broadbill and juvenile"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Black-and-yellow_Broadbill_at_Nest_%2813970628227%29.jpg/960px-Black-and-yellow_Broadbill_at_Nest_%2813970628227%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 2.0",
+   "artist": "Mike Prince from Bangalore, India",
+   "page": "https://commons.wikimedia.org/wiki/File:Black-and-yellow_Broadbill_at_Nest_(13970628227).jpg",
+   "desc": "Black-and-yellow Broadbill at Nest (13970628227) — Black-and-yellow Broadbill at Nest"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "bright blue beak",
+   "box": [
+    147,
+    72,
+    219,
+    298
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1060483",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Black-and-yellow broadbill",
+  "url": "https://en.wikipedia.org/wiki/Black-and-yellow_broadbill",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:45:16Z",
+ "trimmed": true
+}

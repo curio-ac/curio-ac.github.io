@@ -148,7 +148,8 @@
   "nasa:1453069",
   "nasa:66581",
   "1920–21 Burnley F.C. season",
-  "nasa:1283120"
+  "nasa:1283120",
+  "Battle of Bergerac"
  ],
  "rejected": [
   "Chameleon",
@@ -678,6 +679,9 @@
   ],
   "nasa:1283120": [
    "Invisible Radio-Disrupting Clouds: Invisible metal clouds are jamming our radio signals."
+  ],
+  "Battle of Bergerac": [
+   "The Surprise Battle of Bergerac: A surprise attack shifted the regional power."
   ]
  },
  "exhausted": []
