@@ -192,7 +192,8 @@
   "Banksia brownii",
   "2008 World Science Festival",
   "nasa:1505726",
-  "Hurricane Diane"
+  "Hurricane Diane",
+  "nasa:1506784"
  ],
  "rejected": [
   "Chameleon",
@@ -891,6 +892,9 @@
   ],
   "Hurricane Diane": [
    "The Billion Dollar Hurricane: Hurricane Diane caused over $1 billion in damage."
+  ],
+  "nasa:1506784": [
+   "The 2026 Ozone Hole: The ozone hole grew huge in 2026."
   ]
  },
  "exhausted": []

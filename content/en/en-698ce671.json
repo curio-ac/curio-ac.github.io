@@ -1,0 +1,423 @@
+{
+ "id": "en-698ce671",
+ "lang": "en",
+ "title": "The 2009 International Bowl",
+ "cat": "history",
+ "emoji": "🏈",
+ "sentences": [
+  "Buffalo once refused a bowl over segregation.",
+  "The team later played in the 2009 International Bowl in Toronto, Canada.",
+  "Buffalo entered as the MAC champion with an 8-5 record.",
+  "This followed an upset win over No. 12 undefeated Ball State.",
+  "Their opponents were the Connecticut Huskies, who finished 7-5.",
+  "Connecticut won the final game with a 38-20 score."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Buffalo",
+    0.24,
+    0.26
+   ],
+   [
+    "once",
+    0.26,
+    0.64
+   ],
+   [
+    "refused",
+    0.76,
+    1.22
+   ],
+   [
+    "a",
+    1.22,
+    1.58
+   ],
+   [
+    "bowl",
+    1.58,
+    1.78
+   ],
+   [
+    "over",
+    1.78,
+    2.08
+   ],
+   [
+    "segregation.",
+    2.08,
+    2.78
+   ],
+   [
+    "The",
+    3.42,
+    3.48
+   ],
+   [
+    "team",
+    3.48,
+    3.78
+   ],
+   [
+    "later",
+    3.78,
+    3.96
+   ],
+   [
+    "played",
+    3.96,
+    4.28
+   ],
+   [
+    "in",
+    4.28,
+    4.5
+   ],
+   [
+    "the",
+    4.5,
+    4.58
+   ],
+   [
+    "2009",
+    4.58,
+    5.28
+   ],
+   [
+    "International",
+    5.28,
+    5.78
+   ],
+   [
+    "Bowl",
+    5.78,
+    6.3
+   ],
+   [
+    "in",
+    6.3,
+    6.6
+   ],
+   [
+    "Toronto,",
+    6.6,
+    7.35
+   ],
+   [
+    "Canada.",
+    7.38,
+    7.6
+   ],
+   [
+    "Buffalo",
+    8.4,
+    8.64
+   ],
+   [
+    "entered",
+    8.64,
+    9.02
+   ],
+   [
+    "as",
+    9.02,
+    9.28
+   ],
+   [
+    "the",
+    9.28,
+    9.42
+   ],
+   [
+    "MAC",
+    9.42,
+    9.64
+   ],
+   [
+    "champion",
+    9.64,
+    10.14
+   ],
+   [
+    "with",
+    10.14,
+    10.44
+   ],
+   [
+    "an",
+    10.44,
+    10.54
+   ],
+   [
+    "8-5",
+    10.54,
+    11.06
+   ],
+   [
+    "record.",
+    11.06,
+    11.56
+   ],
+   [
+    "This",
+    12.16,
+    12.28
+   ],
+   [
+    "followed",
+    12.28,
+    12.58
+   ],
+   [
+    "an",
+    12.58,
+    12.76
+   ],
+   [
+    "upset",
+    12.76,
+    13.12
+   ],
+   [
+    "win",
+    13.12,
+    13.46
+   ],
+   [
+    "over",
+    13.46,
+    13.72
+   ],
+   [
+    "No.",
+    13.72,
+    14.1
+   ],
+   [
+    "12",
+    14.28,
+    14.46
+   ],
+   [
+    "undefeated",
+    14.6,
+    15.12
+   ],
+   [
+    "Ball",
+    15.12,
+    15.36
+   ],
+   [
+    "State.",
+    15.36,
+    15.78
+   ],
+   [
+    "Their",
+    16.46,
+    16.54
+   ],
+   [
+    "opponents",
+    16.54,
+    16.92
+   ],
+   [
+    "were",
+    16.92,
+    17.24
+   ],
+   [
+    "the",
+    17.24,
+    17.34
+   ],
+   [
+    "Connecticut",
+    17.34,
+    17.66
+   ],
+   [
+    "Huskies,",
+    17.66,
+    18.28
+   ],
+   [
+    "who",
+    18.72,
+    18.76
+   ],
+   [
+    "finished",
+    18.76,
+    19.04
+   ],
+   [
+    "7-5.",
+    19.04,
+    19.78
+   ],
+   [
+    "Connecticut",
+    20.54,
+    20.78
+   ],
+   [
+    "won",
+    20.78,
+    21.08
+   ],
+   [
+    "the",
+    21.08,
+    21.22
+   ],
+   [
+    "final",
+    21.22,
+    21.46
+   ],
+   [
+    "game",
+    21.46,
+    21.76
+   ],
+   [
+    "with",
+    21.76,
+    21.96
+   ],
+   [
+    "a",
+    21.96,
+    22.06
+   ],
+   [
+    "38-20",
+    22.16,
+    22.84
+   ],
+   [
+    "score.",
+    22.84,
+    23.28
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   29,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2009_International_Bowl_Rogers_Centre_exterior.jpg/960px-2009_International_Bowl_Rogers_Centre_exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 484,
+   "license": "CC BY-SA 3.0",
+   "artist": "–Grondemar",
+   "page": "https://commons.wikimedia.org/wiki/File:2009_International_Bowl_Rogers_Centre_exterior.jpg",
+   "desc": "2009 International Bowl Rogers Centre exterior — en:Rogers Centre, home of the en:2009 International Bowl."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Drew_Willy.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1081,
+   "license": "CC BY-SA 3.0",
+   "artist": "Goingstuckey",
+   "page": "https://commons.wikimedia.org/wiki/File:Drew_Willy.jpg",
+   "desc": "Drew Willy — Drew Willy scrambles during the UB vs. Bowling Green game on October 15th 2005 at UB Stadium."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Scheumann_Stadium%2C_Ball_State_University%2C_Muncie%2C_Indiana_%287235246030%29.jpg/960px-Scheumann_Stadium%2C_Ball_State_University%2C_Muncie%2C_Indiana_%287235246030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Ken Lund from Reno, Nevada, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Scheumann_Stadium,_Ball_State_University,_Muncie,_Indiana_(7235246030).jpg",
+   "desc": "Scheumann Stadium, Ball State University, Muncie, Indiana (7235246030) — Scheumann Stadium (officially, the \"John B. and June M. Scheumann Stadium\"), formerly known as Ball State Stadium, is in Muncie, Indiana. It is primarily used for football, and is the hom"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Donald_Brown_at_2010_UConn_Spring_Game.JPG/960px-Donald_Brown_at_2010_UConn_Spring_Game.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 842,
+   "license": "CC BY-SA 3.0",
+   "artist": "–Grondemar",
+   "page": "https://commons.wikimedia.org/wiki/File:Donald_Brown_at_2010_UConn_Spring_Game.JPG",
+   "desc": "Donald Brown at 2010 UConn Spring Game — Donald Brown signing autographs at the 2010 UConn Spring Game at Rentschler Field."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/UConn_UBuffalo_01.jpg/960px-UConn_UBuffalo_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "CC BY-SA 3.0",
+   "artist": "DoubleBlue (talk) (Transferred by Grondemar/Originally uploaded by DoubleBlue)",
+   "page": "https://commons.wikimedia.org/wiki/File:UConn_UBuffalo_01.jpg",
+   "desc": "UConn UBuffalo 01 — en:2008 Connecticut Huskies football team in blue versus en:2008 Buffalo Bulls football team in white at the en:2009 International Bowl"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1958
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "wins",
+   "label": "Buffalo record"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "rank",
+   "label": "Ball State rank"
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "wins",
+   "label": "Huskies record"
+  },
+  {
+   "type": "stat",
+   "value": 38,
+   "unit": "points",
+   "label": "Connecticut score"
+  }
+ ],
+ "geo": null,
+ "qid": "Q25348284",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "2009 International Bowl",
+  "url": "https://en.wikipedia.org/wiki/2009_International_Bowl",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T15:03:35Z",
+ "trimmed": true
+}
