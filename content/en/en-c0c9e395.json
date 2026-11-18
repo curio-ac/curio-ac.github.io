@@ -1,0 +1,366 @@
+{
+ "id": "en-c0c9e395",
+ "lang": "en",
+ "title": "A Missing Word Killed 21",
+ "cat": "history",
+ "emoji": "🚂",
+ "sentences": [
+  "A missing word caused a deadly train crash.",
+  "On November 21, 1950, two trains collided near Valemount, Canada.",
+  "The head-on crash killed 17 soldiers and 4 crew members.",
+  "Investigators found a telegraph operator sent an incomplete order.",
+  "He faced manslaughter charges but was acquitted by his lawyer, John Diefenbaker.",
+  "Afterward, the railway finally installed better safety signals."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.08,
+    0.08
+   ],
+   [
+    "missing",
+    0.08,
+    0.38
+   ],
+   [
+    "word",
+    0.38,
+    0.8
+   ],
+   [
+    "caused",
+    0.8,
+    1.28
+   ],
+   [
+    "a",
+    1.28,
+    1.48
+   ],
+   [
+    "deadly",
+    1.64,
+    1.94
+   ],
+   [
+    "train",
+    1.94,
+    2.32
+   ],
+   [
+    "crash.",
+    2.32,
+    3.27
+   ],
+   [
+    "On",
+    3.38,
+    3.48
+   ],
+   [
+    "November",
+    3.48,
+    3.7
+   ],
+   [
+    "21,",
+    3.7,
+    4.42
+   ],
+   [
+    "1950,",
+    4.78,
+    5.06
+   ],
+   [
+    "two",
+    5.82,
+    5.94
+   ],
+   [
+    "trains",
+    5.94,
+    6.26
+   ],
+   [
+    "collided",
+    6.26,
+    6.76
+   ],
+   [
+    "near",
+    6.92,
+    7.02
+   ],
+   [
+    "Valemount,",
+    7.02,
+    7.58
+   ],
+   [
+    "Canada.",
+    7.84,
+    7.94
+   ],
+   [
+    "The",
+    8.68,
+    8.76
+   ],
+   [
+    "head-on",
+    8.76,
+    9.14
+   ],
+   [
+    "crash",
+    9.14,
+    9.5
+   ],
+   [
+    "killed",
+    9.5,
+    9.84
+   ],
+   [
+    "17",
+    10.3,
+    10.4
+   ],
+   [
+    "soldiers",
+    10.4,
+    10.88
+   ],
+   [
+    "and",
+    10.88,
+    11.26
+   ],
+   [
+    "4",
+    11.5,
+    11.62
+   ],
+   [
+    "crew",
+    11.62,
+    11.84
+   ],
+   [
+    "members.",
+    11.84,
+    12.02
+   ],
+   [
+    "Investigators",
+    12.92,
+    13.48
+   ],
+   [
+    "found",
+    13.48,
+    13.72
+   ],
+   [
+    "a",
+    13.72,
+    13.94
+   ],
+   [
+    "telegraph",
+    14.08,
+    14.44
+   ],
+   [
+    "operator",
+    14.44,
+    14.84
+   ],
+   [
+    "sent",
+    14.92,
+    15.1
+   ],
+   [
+    "an",
+    15.1,
+    15.34
+   ],
+   [
+    "incomplete",
+    15.44,
+    15.9
+   ],
+   [
+    "order.",
+    15.9,
+    16.28
+   ],
+   [
+    "He",
+    16.96,
+    17.02
+   ],
+   [
+    "faced",
+    17.12,
+    17.24
+   ],
+   [
+    "manslaughter",
+    17.24,
+    17.78
+   ],
+   [
+    "charges",
+    17.88,
+    18.1
+   ],
+   [
+    "but",
+    18.1,
+    18.5
+   ],
+   [
+    "was",
+    18.5,
+    18.66
+   ],
+   [
+    "acquitted",
+    18.66,
+    19.04
+   ],
+   [
+    "by",
+    19.04,
+    19.26
+   ],
+   [
+    "his",
+    19.26,
+    19.42
+   ],
+   [
+    "lawyer,",
+    19.42,
+    19.97
+   ],
+   [
+    "John",
+    20.04,
+    20.16
+   ],
+   [
+    "Diefenbaker.",
+    20.16,
+    20.4
+   ],
+   [
+    "Afterward,",
+    21.5,
+    21.84
+   ],
+   [
+    "the",
+    22.22,
+    22.22
+   ],
+   [
+    "railway",
+    22.28,
+    22.5
+   ],
+   [
+    "finally",
+    22.5,
+    23.0
+   ],
+   [
+    "installed",
+    23.0,
+    23.56
+   ],
+   [
+    "better",
+    23.56,
+    23.9
+   ],
+   [
+    "safety",
+    23.9,
+    24.26
+   ],
+   [
+    "signals.",
+    24.26,
+    24.92
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   28,
+   37,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1950
+  },
+  {
+   "type": "stat",
+   "value": 21,
+   "unit": "people",
+   "label": "deadly collision"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  52.763,
+  -119.265
+ ],
+ "qid": "Q5032915",
+ "pron_wer": 0.052,
+ "angle": 0,
+ "source": {
+  "title": "Canoe River train crash",
+  "url": "https://en.wikipedia.org/wiki/Canoe_River_train_crash",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:25:36Z",
+ "trimmed": true
+}

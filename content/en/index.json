@@ -167,7 +167,8 @@
   "1921–22 Cardiff City F.C. season",
   "nasa:1508015",
   "Neville Chamberlain",
-  "Confusion (album)"
+  "Confusion (album)",
+  "nasa:1499334"
  ],
  "rejected": [
   "Chameleon",
@@ -772,6 +773,9 @@
   ],
   "Confusion (album)": [
    "Fela Kuti's Chaotic Masterpiece: This entire album is just one song."
+  ],
+  "nasa:1499334": [
+   "NASA Is Speeding Up Science: NASA missions are about to launch faster."
   ]
  },
  "exhausted": []
