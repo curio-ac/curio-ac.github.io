@@ -1,0 +1,398 @@
+{
+ "id": "en-b2543c42",
+ "lang": "en",
+ "title": "NASA's New Space Telescope",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "NASA is building an all-glass space telescope.",
+  "It helps the LISA mission detect gravitational waves.",
+  "Three satellites will form a triangle in space.",
+  "They measure distances smaller than a helium atom.",
+  "The telescopes are made from amber-colored ceramic-glass.",
+  "This glass resists shape changes across temperature extremes.",
+  "LISA will reveal invisible monster black hole mergers."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.08,
+    0.42
+   ],
+   [
+    "is",
+    0.42,
+    0.76
+   ],
+   [
+    "building",
+    0.76,
+    1.06
+   ],
+   [
+    "an",
+    1.06,
+    1.24
+   ],
+   [
+    "all-glass",
+    1.24,
+    2.04
+   ],
+   [
+    "space",
+    2.04,
+    2.5
+   ],
+   [
+    "telescope.",
+    2.5,
+    3.16
+   ],
+   [
+    "It",
+    3.62,
+    3.62
+   ],
+   [
+    "helps",
+    3.62,
+    3.84
+   ],
+   [
+    "the",
+    3.96,
+    4.06
+   ],
+   [
+    "LISA",
+    4.06,
+    4.36
+   ],
+   [
+    "mission",
+    4.36,
+    4.68
+   ],
+   [
+    "detect",
+    4.68,
+    5.02
+   ],
+   [
+    "gravitational",
+    5.28,
+    5.68
+   ],
+   [
+    "waves.",
+    5.68,
+    6.48
+   ],
+   [
+    "Three",
+    7.06,
+    7.22
+   ],
+   [
+    "satellites",
+    7.22,
+    7.66
+   ],
+   [
+    "will",
+    7.66,
+    7.96
+   ],
+   [
+    "form",
+    7.96,
+    8.2
+   ],
+   [
+    "a",
+    8.26,
+    8.36
+   ],
+   [
+    "triangle",
+    8.36,
+    8.88
+   ],
+   [
+    "in",
+    8.88,
+    9.22
+   ],
+   [
+    "space.",
+    9.22,
+    9.5
+   ],
+   [
+    "They",
+    10.1,
+    10.18
+   ],
+   [
+    "measure",
+    10.18,
+    10.44
+   ],
+   [
+    "distances",
+    10.44,
+    10.86
+   ],
+   [
+    "smaller",
+    10.86,
+    11.56
+   ],
+   [
+    "than",
+    11.56,
+    11.88
+   ],
+   [
+    "a",
+    11.88,
+    11.98
+   ],
+   [
+    "helium",
+    12.2,
+    12.44
+   ],
+   [
+    "atom.",
+    12.44,
+    12.78
+   ],
+   [
+    "The",
+    13.54,
+    13.64
+   ],
+   [
+    "telescopes",
+    13.64,
+    13.96
+   ],
+   [
+    "are",
+    14.12,
+    14.26
+   ],
+   [
+    "made",
+    14.26,
+    14.44
+   ],
+   [
+    "from",
+    14.44,
+    14.64
+   ],
+   [
+    "amber-colored",
+    14.64,
+    15.46
+   ],
+   [
+    "ceramic-glass.",
+    15.46,
+    15.96
+   ],
+   [
+    "This",
+    17.22,
+    17.36
+   ],
+   [
+    "glass",
+    17.36,
+    17.62
+   ],
+   [
+    "resists",
+    17.62,
+    18.28
+   ],
+   [
+    "shape",
+    18.28,
+    18.54
+   ],
+   [
+    "changes",
+    18.54,
+    18.88
+   ],
+   [
+    "across",
+    18.88,
+    19.18
+   ],
+   [
+    "temperature",
+    19.18,
+    19.7
+   ],
+   [
+    "extremes.",
+    19.7,
+    20.32
+   ],
+   [
+    "LISA",
+    20.84,
+    21.1
+   ],
+   [
+    "will",
+    21.1,
+    21.34
+   ],
+   [
+    "reveal",
+    21.34,
+    21.62
+   ],
+   [
+    "invisible",
+    21.62,
+    22.3
+   ],
+   [
+    "monster",
+    22.3,
+    23.02
+   ],
+   [
+    "black",
+    23.02,
+    23.42
+   ],
+   [
+    "hole",
+    23.42,
+    23.68
+   ],
+   [
+    "mergers.",
+    23.68,
+    24.34
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   38,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/ELT_secondary_mirror_blank_successfully_cast.jpg/960px-ELT_secondary_mirror_blank_successfully_cast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 4.0",
+   "artist": "SCHOTT/ESO",
+   "page": "https://commons.wikimedia.org/wiki/File:ELT_secondary_mirror_blank_successfully_cast.jpg",
+   "desc": "ELT secondary mirror blank successfully cast — Opening of the ELT M2 ZERODUR® blank mould containing the still very hot ZERODUR® glass at first annealing at the SCHOTT 4-metre blank annealing facility in Mainz, Germany in May 2017. The completed mirror will be"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/LISA-inspired_artwork_ESA25446000.png/960px-LISA-inspired_artwork_ESA25446000.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:LISA-inspired_artwork_ESA25446000.png",
+   "desc": "LISA-inspired artwork ESA25446000 — ESA’s Laser Interferometer Space Antenna (LISA) mission will be the first space-based observatory dedicated to detecting ripples in the fabric of spacetime. These ripples, which we call gravitational waves, are emitted d"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/LISA_poster_ESA528753.jpg/960px-LISA_poster_ESA528753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 509,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:LISA_poster_ESA528753.jpg",
+   "desc": "LISA poster ESA528753 — Artist's impression of ESA’s Laser Interferometer Space Antenna, LISA. The triple-spacecraft mission will be the first space-based observatory to study gravitational waves: ripples in spacetime caused by the most powerfu"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  0,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "all-glass telescope",
+   "box": [
+    435,
+    155,
+    903,
+    854
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 2500000000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "atom",
+   "label": "width of helium"
+  },
+  {
+   "type": "focus",
+   "target": "amber-colored ceramic-glass",
+   "box": [
+    435,
+    155,
+    903,
+    854
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+  "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:23:58Z",
+ "trimmed": true
+}
