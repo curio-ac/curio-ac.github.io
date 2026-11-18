@@ -1,0 +1,462 @@
+{
+ "id": "en-7c65eb7d",
+ "lang": "en",
+ "title": "Fungus Nests And Runt Eggs",
+ "cat": "biology",
+ "emoji": "🪺",
+ "sentences": [
+  "Pear-shaped nests built out of fungus!",
+  "Both parents team up to construct these messy homes during the dry season.",
+  "These colorful birds snack mainly on insects, molluscs, and accidental fruit.",
+  "Females show off a broken black band across their chest.",
+  "They lay up to 4 eggs, sometimes including a tiny runt.",
+  "You can find them living up to 1,220 m high in the trees."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Pear-shaped",
+    0.14,
+    0.34
+   ],
+   [
+    "nests",
+    0.34,
+    0.8
+   ],
+   [
+    "built",
+    1.0,
+    1.14
+   ],
+   [
+    "out",
+    1.14,
+    1.38
+   ],
+   [
+    "of",
+    1.38,
+    1.48
+   ],
+   [
+    "fungus!",
+    1.48,
+    2.26
+   ],
+   [
+    "Both",
+    2.32,
+    2.32
+   ],
+   [
+    "parents",
+    2.32,
+    2.68
+   ],
+   [
+    "team",
+    2.68,
+    2.96
+   ],
+   [
+    "up",
+    2.96,
+    3.12
+   ],
+   [
+    "to",
+    3.12,
+    3.24
+   ],
+   [
+    "construct",
+    3.24,
+    3.6
+   ],
+   [
+    "these",
+    3.6,
+    3.82
+   ],
+   [
+    "messy",
+    3.86,
+    4.1
+   ],
+   [
+    "homes",
+    4.1,
+    4.4
+   ],
+   [
+    "during",
+    4.4,
+    4.66
+   ],
+   [
+    "the",
+    4.66,
+    4.8
+   ],
+   [
+    "dry",
+    4.8,
+    4.96
+   ],
+   [
+    "season.",
+    4.96,
+    5.46
+   ],
+   [
+    "These",
+    5.78,
+    5.88
+   ],
+   [
+    "colorful",
+    5.88,
+    6.2
+   ],
+   [
+    "birds",
+    6.2,
+    6.7
+   ],
+   [
+    "snack",
+    6.76,
+    6.88
+   ],
+   [
+    "mainly",
+    6.88,
+    7.2
+   ],
+   [
+    "on",
+    7.2,
+    7.42
+   ],
+   [
+    "insects,",
+    7.42,
+    8.08
+   ],
+   [
+    "molluscs,",
+    8.08,
+    8.46
+   ],
+   [
+    "and",
+    8.68,
+    8.78
+   ],
+   [
+    "accidental",
+    8.78,
+    9.14
+   ],
+   [
+    "fruit.",
+    9.14,
+    9.62
+   ],
+   [
+    "Females",
+    9.94,
+    10.3
+   ],
+   [
+    "show",
+    10.3,
+    10.5
+   ],
+   [
+    "off",
+    10.5,
+    10.68
+   ],
+   [
+    "a",
+    10.68,
+    10.78
+   ],
+   [
+    "broken",
+    10.78,
+    10.98
+   ],
+   [
+    "black",
+    10.98,
+    11.24
+   ],
+   [
+    "band",
+    11.24,
+    11.56
+   ],
+   [
+    "across",
+    11.56,
+    11.74
+   ],
+   [
+    "their",
+    11.74,
+    12.02
+   ],
+   [
+    "chest.",
+    12.02,
+    12.24
+   ],
+   [
+    "They",
+    12.72,
+    12.78
+   ],
+   [
+    "lay",
+    12.78,
+    12.96
+   ],
+   [
+    "up",
+    12.96,
+    13.08
+   ],
+   [
+    "to",
+    13.08,
+    13.2
+   ],
+   [
+    "4",
+    13.2,
+    13.42
+   ],
+   [
+    "eggs,",
+    13.42,
+    13.86
+   ],
+   [
+    "sometimes",
+    14.02,
+    14.26
+   ],
+   [
+    "including",
+    14.26,
+    14.6
+   ],
+   [
+    "a",
+    14.6,
+    14.82
+   ],
+   [
+    "tiny",
+    14.82,
+    14.96
+   ],
+   [
+    "runt.",
+    14.96,
+    15.32
+   ],
+   [
+    "You",
+    15.72,
+    15.8
+   ],
+   [
+    "can",
+    15.8,
+    15.94
+   ],
+   [
+    "find",
+    15.94,
+    16.12
+   ],
+   [
+    "them",
+    16.12,
+    16.3
+   ],
+   [
+    "living",
+    16.3,
+    16.48
+   ],
+   [
+    "up",
+    16.48,
+    16.7
+   ],
+   [
+    "to",
+    16.7,
+    16.84
+   ],
+   [
+    "1,220",
+    16.84,
+    18.24
+   ],
+   [
+    "m",
+    18.24,
+    18.38
+   ],
+   [
+    "high",
+    18.38,
+    18.76
+   ],
+   [
+    "in",
+    18.76,
+    19.0
+   ],
+   [
+    "the",
+    19.0,
+    19.08
+   ],
+   [
+    "trees.",
+    19.08,
+    19.42
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   19,
+   30,
+   40,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Black-headed_weaver_%28Ploceus_cucullatus_bohndorffi%29_male_nest_building.jpg/960px-Black-headed_weaver_%28Ploceus_cucullatus_bohndorffi%29_male_nest_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Charles J. Sharp",
+   "page": "https://commons.wikimedia.org/wiki/File:Black-headed_weaver_(Ploceus_cucullatus_bohndorffi)_male_nest_building.jpg",
+   "desc": "Black-headed weaver (Ploceus cucullatus bohndorffi) male nest building — Black-headed weaver (Ploceus cucullatus bohndorffi) male nest building, Queen Elizabeth National Park, Uganda"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Black-and-yellow_Broadbill_at_Nest_%2813970628227%29.jpg/960px-Black-and-yellow_Broadbill_at_Nest_%2813970628227%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 2.0",
+   "artist": "Mike Prince from Bangalore, India",
+   "page": "https://commons.wikimedia.org/wiki/File:Black-and-yellow_Broadbill_at_Nest_(13970628227).jpg",
+   "desc": "Black-and-yellow Broadbill at Nest (13970628227) — Black-and-yellow Broadbill at Nest"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Black-and-yellow_Broadbill_0A2A8552.jpg/960px-Black-and-yellow_Broadbill_0A2A8552.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "JJ Harrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Black-and-yellow_Broadbill_0A2A8552.jpg",
+   "desc": "Black-and-yellow Broadbill 0A2A8552 — Male Black-and-yellow Broadbill (Eurylaimus ochromalus). Trusmadi Forest Reserve, Crocker Range National Park, Borneo island, Sabah, Malaysia."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Adult_female_Black-and-yellow_broadbill_and_juvenile.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1077,
+   "license": "CC BY-SA 2.0",
+   "artist": "Emorhun @ Matjo",
+   "page": "https://commons.wikimedia.org/wiki/File:Adult_female_Black-and-yellow_broadbill_and_juvenile.jpg",
+   "desc": "Adult female Black-and-yellow broadbill and juvenile — Adult female Black-and-yellow broadbill and juvenile"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bird-nest-with-eggs-Sitia-Crete.jpg/960px-Bird-nest-with-eggs-Sitia-Crete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Petro Stelte",
+   "page": "https://commons.wikimedia.org/wiki/File:Bird-nest-with-eggs-Sitia-Crete.jpg",
+   "desc": "Bird-nest-with-eggs-Sitia-Crete — Bird nest with eggs. Sitia, Crete, Greece."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/StateLibQld_2_394249_Rainforest_trees%2C_Bunya_Mountains%2C_1913.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1032,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:StateLibQld_2_394249_Rainforest_trees,_Bunya_Mountains,_1913.jpg",
+   "desc": "StateLibQld 2 394249 Rainforest trees, Bunya Mountains, 1913 — Rainforest trees, Bunya Mountains, 1913 Bunya pines Araucaria bidwillii tower over tall, moist rainforest along the range crest. On steep, lower slopes, hoop pines Araucaria cunninghamii emerge abo"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "black breastband",
+   "box": [
+    347,
+    95,
+    452,
+    359
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "eggs",
+   "label": "clutch size"
+  },
+  {
+   "type": "compare",
+   "value": 1220,
+   "dim": "length",
+   "unit_value_in": "m"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1060483",
+ "pron_wer": 0.077,
+ "angle": 1,
+ "source": {
+  "title": "Black-and-yellow broadbill",
+  "url": "https://en.wikipedia.org/wiki/Black-and-yellow_broadbill",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:20:43Z",
+ "trimmed": true
+}
