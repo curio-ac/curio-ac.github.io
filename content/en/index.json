@@ -168,7 +168,8 @@
   "nasa:1508015",
   "Neville Chamberlain",
   "Confusion (album)",
-  "nasa:1499334"
+  "nasa:1499334",
+  "Canoe River train crash"
  ],
  "rejected": [
   "Chameleon",
@@ -776,6 +777,9 @@
   ],
   "nasa:1499334": [
    "NASA Is Speeding Up Science: NASA missions are about to launch faster."
+  ],
+  "Canoe River train crash": [
+   "A Missing Word Killed 21: A missing word caused a deadly train crash."
   ]
  },
  "exhausted": []

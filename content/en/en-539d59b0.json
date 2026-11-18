@@ -1,0 +1,444 @@
+{
+ "id": "en-539d59b0",
+ "lang": "en",
+ "title": "The Forgotten Composer",
+ "cat": "art",
+ "emoji": "🎻",
+ "sentences": [
+  "Rebecca Clarke was a world-class viola virtuoso.",
+  "She became one of London’s first female professional orchestral players.",
+  "Born in England, she eventually settled permanently in the United States.",
+  "She married composer James Friskin in 1944.",
+  "Although her output was not large, her work showed real artistic power.",
+  "Her compositions were largely forgotten until interest revived in 1976.",
+  "The Rebecca Clarke Society now promotes the study and performance of her music."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Rebecca",
+    0.24,
+    0.24
+   ],
+   [
+    "Clarke",
+    0.24,
+    0.76
+   ],
+   [
+    "was",
+    0.78,
+    0.9
+   ],
+   [
+    "a",
+    0.9,
+    1.04
+   ],
+   [
+    "world-class",
+    1.04,
+    1.66
+   ],
+   [
+    "viola",
+    1.66,
+    2.22
+   ],
+   [
+    "virtuoso.",
+    2.22,
+    3.4
+   ],
+   [
+    "She",
+    3.48,
+    3.48
+   ],
+   [
+    "became",
+    3.48,
+    3.76
+   ],
+   [
+    "one",
+    3.76,
+    3.96
+   ],
+   [
+    "of",
+    3.96,
+    4.06
+   ],
+   [
+    "London’s",
+    4.06,
+    4.5
+   ],
+   [
+    "first",
+    4.5,
+    4.72
+   ],
+   [
+    "female",
+    4.72,
+    5.18
+   ],
+   [
+    "professional",
+    5.18,
+    5.7
+   ],
+   [
+    "orchestral",
+    5.7,
+    6.12
+   ],
+   [
+    "players.",
+    6.12,
+    6.84
+   ],
+   [
+    "Born",
+    7.24,
+    7.38
+   ],
+   [
+    "in",
+    7.38,
+    7.52
+   ],
+   [
+    "England,",
+    7.52,
+    7.87
+   ],
+   [
+    "she",
+    8.32,
+    8.34
+   ],
+   [
+    "eventually",
+    8.34,
+    8.66
+   ],
+   [
+    "settled",
+    8.66,
+    9.02
+   ],
+   [
+    "permanently",
+    9.02,
+    9.48
+   ],
+   [
+    "in",
+    9.48,
+    9.84
+   ],
+   [
+    "the",
+    9.84,
+    9.92
+   ],
+   [
+    "United",
+    9.92,
+    10.1
+   ],
+   [
+    "States.",
+    10.1,
+    10.78
+   ],
+   [
+    "She",
+    11.28,
+    11.38
+   ],
+   [
+    "married",
+    11.38,
+    11.62
+   ],
+   [
+    "composer",
+    11.62,
+    12.0
+   ],
+   [
+    "James",
+    12.0,
+    12.4
+   ],
+   [
+    "Friskin",
+    12.4,
+    12.94
+   ],
+   [
+    "in",
+    12.94,
+    13.16
+   ],
+   [
+    "1944.",
+    13.68,
+    14.18
+   ],
+   [
+    "Although",
+    14.82,
+    15.0
+   ],
+   [
+    "her",
+    15.0,
+    15.2
+   ],
+   [
+    "output",
+    15.2,
+    15.52
+   ],
+   [
+    "was",
+    15.6,
+    15.7
+   ],
+   [
+    "not",
+    15.7,
+    15.88
+   ],
+   [
+    "large,",
+    15.88,
+    16.36
+   ],
+   [
+    "her",
+    16.64,
+    16.72
+   ],
+   [
+    "work",
+    16.72,
+    16.96
+   ],
+   [
+    "showed",
+    16.96,
+    17.2
+   ],
+   [
+    "real",
+    17.2,
+    17.52
+   ],
+   [
+    "artistic",
+    17.52,
+    17.98
+   ],
+   [
+    "power.",
+    17.98,
+    18.46
+   ],
+   [
+    "Her",
+    19.12,
+    19.22
+   ],
+   [
+    "compositions",
+    19.22,
+    19.56
+   ],
+   [
+    "were",
+    19.56,
+    19.96
+   ],
+   [
+    "largely",
+    19.96,
+    20.3
+   ],
+   [
+    "forgotten",
+    20.3,
+    20.74
+   ],
+   [
+    "until",
+    20.74,
+    21.1
+   ],
+   [
+    "interest",
+    21.1,
+    21.48
+   ],
+   [
+    "revived",
+    21.48,
+    21.82
+   ],
+   [
+    "in",
+    21.82,
+    22.08
+   ],
+   [
+    "1976.",
+    22.08,
+    23.28
+   ],
+   [
+    "The",
+    23.84,
+    23.94
+   ],
+   [
+    "Rebecca",
+    23.94,
+    24.18
+   ],
+   [
+    "Clarke",
+    24.24,
+    24.58
+   ],
+   [
+    "Society",
+    24.58,
+    24.86
+   ],
+   [
+    "now",
+    24.94,
+    25.2
+   ],
+   [
+    "promotes",
+    25.2,
+    25.52
+   ],
+   [
+    "the",
+    25.52,
+    25.72
+   ],
+   [
+    "study",
+    25.72,
+    25.98
+   ],
+   [
+    "and",
+    25.98,
+    26.2
+   ],
+   [
+    "performance",
+    26.2,
+    26.54
+   ],
+   [
+    "of",
+    26.54,
+    26.84
+   ],
+   [
+    "her",
+    26.84,
+    26.94
+   ],
+   [
+    "music.",
+    26.94,
+    27.26
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   28,
+   35,
+   47,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/England_United_States_Locator.png/960px-England_United_States_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 318,
+   "license": "Public domain",
+   "artist": "Hispania",
+   "page": "https://commons.wikimedia.org/wiki/File:England_United_States_Locator.png",
+   "desc": "England United States Locator — England and the United States"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1944
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1976,
+   "unit": "year",
+   "label": "interest revived"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q259670",
+ "pron_wer": 0.028,
+ "angle": 0,
+ "source": {
+  "title": "Rebecca Clarke (composer)",
+  "url": "https://en.wikipedia.org/wiki/Rebecca_Clarke_%28composer%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:26:34Z",
+ "trimmed": true
+}
