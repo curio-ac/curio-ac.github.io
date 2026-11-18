@@ -1,0 +1,464 @@
+{
+ "id": "en-176a6853",
+ "lang": "en",
+ "title": "The Man Who Found Neutrons",
+ "cat": "physics",
+ "emoji": "⚛️",
+ "sentences": [
+  "He discovered the neutron!",
+  "James Chadwick won a 1935 Nobel Prize in Physics.",
+  "He studied under Ernest Rutherford at the Victoria University of Manchester.",
+  "In Berlin, he used a Geiger counter to study beta radiation.",
+  "When World War I broke out, he spent 4 years in an internment camp.",
+  "He later wrote the MAUD Report, inspiring U.S. atomic bomb research.",
+  "Britain knighted him in 1945 for his nuclear physics achievements."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.16,
+    0.7
+   ],
+   [
+    "discovered",
+    0.7,
+    0.7
+   ],
+   [
+    "the",
+    0.7,
+    1.14
+   ],
+   [
+    "neutron!",
+    1.14,
+    1.98
+   ],
+   [
+    "James",
+    2.12,
+    2.12
+   ],
+   [
+    "Chadwick",
+    2.12,
+    2.6
+   ],
+   [
+    "won",
+    2.6,
+    2.78
+   ],
+   [
+    "a",
+    2.78,
+    2.9
+   ],
+   [
+    "1935",
+    2.9,
+    3.52
+   ],
+   [
+    "Nobel",
+    3.52,
+    3.84
+   ],
+   [
+    "Prize",
+    3.84,
+    4.24
+   ],
+   [
+    "in",
+    4.24,
+    4.36
+   ],
+   [
+    "Physics.",
+    4.36,
+    4.88
+   ],
+   [
+    "He",
+    5.0,
+    5.08
+   ],
+   [
+    "studied",
+    5.08,
+    5.38
+   ],
+   [
+    "under",
+    5.38,
+    5.6
+   ],
+   [
+    "Ernest",
+    5.6,
+    5.98
+   ],
+   [
+    "Rutherford",
+    5.98,
+    6.42
+   ],
+   [
+    "at",
+    6.5,
+    6.6
+   ],
+   [
+    "the",
+    6.6,
+    6.68
+   ],
+   [
+    "Victoria",
+    6.68,
+    6.98
+   ],
+   [
+    "University",
+    6.98,
+    7.68
+   ],
+   [
+    "of",
+    7.68,
+    7.84
+   ],
+   [
+    "Manchester.",
+    7.84,
+    8.52
+   ],
+   [
+    "In",
+    8.6,
+    8.7
+   ],
+   [
+    "Berlin,",
+    8.7,
+    9.26
+   ],
+   [
+    "he",
+    9.3,
+    9.32
+   ],
+   [
+    "used",
+    9.32,
+    9.5
+   ],
+   [
+    "a",
+    9.5,
+    9.62
+   ],
+   [
+    "Geiger",
+    9.62,
+    9.88
+   ],
+   [
+    "counter",
+    9.88,
+    10.16
+   ],
+   [
+    "to",
+    10.18,
+    10.42
+   ],
+   [
+    "study",
+    10.42,
+    10.66
+   ],
+   [
+    "beta",
+    10.66,
+    10.88
+   ],
+   [
+    "radiation.",
+    10.88,
+    11.48
+   ],
+   [
+    "When",
+    11.82,
+    11.92
+   ],
+   [
+    "World",
+    11.92,
+    12.14
+   ],
+   [
+    "War",
+    12.14,
+    12.34
+   ],
+   [
+    "I",
+    12.34,
+    12.56
+   ],
+   [
+    "broke",
+    12.56,
+    12.74
+   ],
+   [
+    "out,",
+    12.74,
+    13.12
+   ],
+   [
+    "he",
+    13.16,
+    13.26
+   ],
+   [
+    "spent",
+    13.26,
+    13.46
+   ],
+   [
+    "4",
+    13.46,
+    13.72
+   ],
+   [
+    "years",
+    13.72,
+    14.0
+   ],
+   [
+    "in",
+    14.0,
+    14.22
+   ],
+   [
+    "an",
+    14.22,
+    14.32
+   ],
+   [
+    "internment",
+    14.32,
+    14.74
+   ],
+   [
+    "camp.",
+    14.74,
+    15.06
+   ],
+   [
+    "He",
+    15.22,
+    15.32
+   ],
+   [
+    "later",
+    15.32,
+    15.54
+   ],
+   [
+    "wrote",
+    15.54,
+    15.78
+   ],
+   [
+    "the",
+    15.78,
+    15.94
+   ],
+   [
+    "MAUD",
+    15.94,
+    16.16
+   ],
+   [
+    "Report,",
+    16.16,
+    16.5
+   ],
+   [
+    "inspiring",
+    16.7,
+    17.1
+   ],
+   [
+    "U.S.",
+    17.1,
+    17.6
+   ],
+   [
+    "atomic",
+    17.62,
+    17.92
+   ],
+   [
+    "bomb",
+    17.92,
+    18.12
+   ],
+   [
+    "research.",
+    18.12,
+    18.78
+   ],
+   [
+    "Britain",
+    18.96,
+    19.1
+   ],
+   [
+    "knighted",
+    19.1,
+    19.52
+   ],
+   [
+    "him",
+    19.52,
+    19.64
+   ],
+   [
+    "in",
+    19.64,
+    19.84
+   ],
+   [
+    "1945",
+    19.84,
+    20.38
+   ],
+   [
+    "for",
+    20.38,
+    20.84
+   ],
+   [
+    "his",
+    20.84,
+    20.98
+   ],
+   [
+    "nuclear",
+    20.98,
+    21.24
+   ],
+   [
+    "physics",
+    21.24,
+    21.66
+   ],
+   [
+    "achievements.",
+    21.66,
+    22.26
+   ]
+  ],
+  "b": [
+   0,
+   4,
+   13,
+   24,
+   35,
+   49,
+   60
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/James_Chadwick.jpg/960px-James_Chadwick.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Attribution",
+   "artist": "Los Alamos National Laboratory",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Chadwick.jpg",
+   "desc": "James Chadwick — James Chadwick"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Bunsentagung_1932_M%C3%BCnster.jpg/960px-Bunsentagung_1932_M%C3%BCnster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 509,
+   "license": "Public domain",
+   "artist": "Friedrich Paneth",
+   "page": "https://commons.wikimedia.org/wiki/File:Bunsentagung_1932_M%C3%BCnster.jpg",
+   "desc": "Bunsentagung 1932 Münster — International Bunsentagung on Radioactivity in Münster (16-19 May 1932). From left to right: James Chadwick, Georg de Hevesy, Frau Geiger, Hans Geiger, Lise Meitner, Ernest Rutherford, Otto Hahn, Stefan Meyer, Karl Przib"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Early_Geiger_counter%2C_made_by_Hans_Geiger%2C_1932._%289663806938%29.jpg/960px-Early_Geiger_counter%2C_made_by_Hans_Geiger%2C_1932._%289663806938%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 539,
+   "license": "CC BY-SA 2.0",
+   "artist": "Science Museum London / Science and Society Picture Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Early_Geiger_counter,_made_by_Hans_Geiger,_1932._(9663806938).jpg",
+   "desc": "Early Geiger counter, made by Hans Geiger, 1932. (9663806938) — Hans Geiger (1882-1945) worked closely with Ernest Rutherford (1871-1935) to develop radiation measuring devices, particularly in 1908 when the Townsend avalanche effect was used in a laboratory r"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  2,
+  null,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1935
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "years",
+   "label": "internment camp"
+  },
+  {
+   "type": "timeline",
+   "year": 1941
+  },
+  {
+   "type": "timeline",
+   "year": 1945
+  }
+ ],
+ "geo": null,
+ "qid": "Q80884",
+ "pron_wer": 0.07,
+ "angle": 2,
+ "source": {
+  "title": "James Chadwick",
+  "url": "https://en.wikipedia.org/wiki/James_Chadwick",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T15:35:30Z",
+ "trimmed": true
+}
