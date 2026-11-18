@@ -1,0 +1,353 @@
+{
+ "id": "he-d964c82d",
+ "lang": "he",
+ "title": "הסופרת שלא הסתירה דבר",
+ "cat": "history",
+ "emoji": "✨",
+ "sentences": [
+  "נטלי קליפורד בארני הייתה סופרת ומשוררת אמריקאית.",
+  "כבר בגיל 12 היא יცעה על נטיותיה המיניות.",
+  "היא בחרה במודעות מלאה לא להסתיר את נטיותיה.",
+  "היא עברה להתגורר בפריז וכתבה כמעט רק בצרפתית.",
+  "ב-1899 היא הפכה למאהבת של השחקנית ליאן דה פוגי.",
+  "היא אף תרמה פרק לספר שנכתב על יחסיהן."
+ ],
+ "tim": {
+  "w": [
+   [
+    "נטלי",
+    0.02,
+    0.4
+   ],
+   [
+    "קליפורד",
+    0.4,
+    0.94
+   ],
+   [
+    "בארני",
+    0.94,
+    1.4
+   ],
+   [
+    "הייתה",
+    1.42,
+    1.88
+   ],
+   [
+    "סופרת",
+    1.88,
+    2.36
+   ],
+   [
+    "ומשוררת",
+    2.36,
+    3.08
+   ],
+   [
+    "אמריקאית.",
+    3.08,
+    3.66
+   ],
+   [
+    "כבר",
+    4.3,
+    4.46
+   ],
+   [
+    "בגיל",
+    4.46,
+    4.76
+   ],
+   [
+    "12",
+    4.76,
+    5.02
+   ],
+   [
+    "היא",
+    5.02,
+    5.68
+   ],
+   [
+    "יცעה",
+    5.68,
+    6.08
+   ],
+   [
+    "על",
+    6.08,
+    6.12
+   ],
+   [
+    "נטיותיה",
+    6.12,
+    6.64
+   ],
+   [
+    "המיניות.",
+    6.64,
+    7.08
+   ],
+   [
+    "היא",
+    7.76,
+    7.84
+   ],
+   [
+    "בחרה",
+    7.84,
+    8.2
+   ],
+   [
+    "במודעות",
+    8.2,
+    8.76
+   ],
+   [
+    "מלאה",
+    8.78,
+    9.24
+   ],
+   [
+    "לא",
+    9.24,
+    9.62
+   ],
+   [
+    "להסתיר",
+    9.62,
+    10.14
+   ],
+   [
+    "את",
+    10.14,
+    10.24
+   ],
+   [
+    "נטיותיה.",
+    10.24,
+    10.9
+   ],
+   [
+    "היא",
+    11.48,
+    11.56
+   ],
+   [
+    "עברה",
+    11.56,
+    11.86
+   ],
+   [
+    "להתגורר",
+    11.86,
+    12.32
+   ],
+   [
+    "בפריז",
+    12.32,
+    12.84
+   ],
+   [
+    "וכתבה",
+    12.84,
+    13.34
+   ],
+   [
+    "כמעט",
+    13.34,
+    13.88
+   ],
+   [
+    "רק",
+    13.88,
+    14.04
+   ],
+   [
+    "בצרפתית.",
+    14.04,
+    14.14
+   ],
+   [
+    "ב-1899",
+    16.0,
+    17.0
+   ],
+   [
+    "היא",
+    17.0,
+    17.94
+   ],
+   [
+    "הפכה",
+    17.94,
+    18.24
+   ],
+   [
+    "למאהבת",
+    18.24,
+    18.78
+   ],
+   [
+    "של",
+    18.78,
+    19.0
+   ],
+   [
+    "השחקנית",
+    19.0,
+    19.62
+   ],
+   [
+    "ליאן",
+    19.62,
+    20.02
+   ],
+   [
+    "דה",
+    20.02,
+    20.14
+   ],
+   [
+    "פוגי.",
+    20.14,
+    20.48
+   ],
+   [
+    "היא",
+    21.08,
+    21.18
+   ],
+   [
+    "אף",
+    21.18,
+    21.36
+   ],
+   [
+    "תרמה",
+    21.4,
+    21.66
+   ],
+   [
+    "פרק",
+    21.66,
+    22.06
+   ],
+   [
+    "לספר",
+    22.08,
+    22.5
+   ],
+   [
+    "שנכתב",
+    22.5,
+    23.16
+   ],
+   [
+    "על",
+    23.16,
+    23.26
+   ],
+   [
+    "יחסיהן.",
+    23.26,
+    23.78
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   40
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Barney%2C_Natalie_Clifford_%281876-1972%29_in_1892.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1020,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Barney,_Natalie_Clifford_(1876-1972)_in_1892.jpg",
+   "desc": "Barney, Natalie Clifford (1876-1972) in 1892 — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Signature_de_Natalie_Barney.png/960px-Signature_de_Natalie_Barney.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 139,
+   "license": "Public domain",
+   "artist": "Natalie Clifford Barney",
+   "page": "https://commons.wikimedia.org/wiki/File:Signature_de_Natalie_Barney.png",
+   "desc": "Signature de Natalie Barney — Signature de Natalie Clifford Barney sur une lettre adressée à Denis Saurat"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Paris-Quai_et_Viaduc_d%27Austerlitz-JLC_396.jpg/960px-Paris-Quai_et_Viaduc_d%27Austerlitz-JLC_396.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 456,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Paris-Quai_et_Viaduc_d%27Austerlitz-JLC_396.jpg",
+   "desc": "Paris-Quai et Viaduc d'Austerlitz-JLC 396 — Paris - Pier and metro of Austerlitz."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Liane-de-pougy-2-f.jpg/960px-Liane-de-pougy-2-f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1037,
+   "license": "Public domain",
+   "artist": "Paul Nadar",
+   "page": "https://commons.wikimedia.org/wiki/File:Liane-de-pougy-2-f.jpg",
+   "desc": "Liane-de-pougy-2-f — Liane de Pougy"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1876
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1899
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q34782",
+ "pron_wer": 0.041,
+ "angle": 0,
+ "source": {
+  "title": "נטלי קליפורד בארני",
+  "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%98%D7%9C%D7%99_%D7%A7%D7%9C%D7%99%D7%A4%D7%95%D7%A8%D7%93_%D7%91%D7%90%D7%A8%D7%A0%D7%99",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:28:59Z",
+ "trimmed": true
+}
