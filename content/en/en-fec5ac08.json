@@ -1,0 +1,375 @@
+{
+ "id": "en-fec5ac08",
+ "lang": "en",
+ "title": "Free NASA Movies",
+ "cat": "technology",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA has its own free streaming service.",
+  "It is called NASA+ and requires no subscription.",
+  "You can stream original documentaries and live launch coverage on demand.",
+  "The library features titles like Planetary Defenders and Cosmic Dawn.",
+  "They even include content from the Jet Propulsion Laboratory.",
+  "Grab some popcorn for your next space-themed movie night."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.35,
+    0.35
+   ],
+   [
+    "has",
+    0.35,
+    0.67
+   ],
+   [
+    "its",
+    0.67,
+    0.79
+   ],
+   [
+    "own",
+    0.79,
+    1.07
+   ],
+   [
+    "free",
+    1.07,
+    1.41
+   ],
+   [
+    "streaming",
+    1.41,
+    1.79
+   ],
+   [
+    "service.",
+    1.79,
+    2.09
+   ],
+   [
+    "It",
+    2.53,
+    2.53
+   ],
+   [
+    "is",
+    2.53,
+    2.65
+   ],
+   [
+    "called",
+    2.65,
+    2.85
+   ],
+   [
+    "NASA+",
+    2.85,
+    3.71
+   ],
+   [
+    "and",
+    3.71,
+    4.01
+   ],
+   [
+    "requires",
+    4.01,
+    4.35
+   ],
+   [
+    "no",
+    4.35,
+    4.71
+   ],
+   [
+    "subscription.",
+    4.71,
+    5.55
+   ],
+   [
+    "You",
+    5.57,
+    5.57
+   ],
+   [
+    "can",
+    5.57,
+    5.71
+   ],
+   [
+    "stream",
+    5.71,
+    5.89
+   ],
+   [
+    "original",
+    5.89,
+    6.21
+   ],
+   [
+    "documentaries",
+    6.21,
+    6.66
+   ],
+   [
+    "and",
+    6.77,
+    7.31
+   ],
+   [
+    "live",
+    7.31,
+    7.65
+   ],
+   [
+    "launch",
+    7.65,
+    7.99
+   ],
+   [
+    "coverage",
+    7.99,
+    8.33
+   ],
+   [
+    "on",
+    8.33,
+    8.67
+   ],
+   [
+    "demand.",
+    8.67,
+    9.01
+   ],
+   [
+    "The",
+    9.63,
+    9.63
+   ],
+   [
+    "library",
+    9.63,
+    9.83
+   ],
+   [
+    "features",
+    9.83,
+    10.13
+   ],
+   [
+    "titles",
+    10.13,
+    10.47
+   ],
+   [
+    "like",
+    10.47,
+    10.75
+   ],
+   [
+    "Planetary",
+    10.75,
+    11.23
+   ],
+   [
+    "Defenders",
+    11.23,
+    11.67
+   ],
+   [
+    "and",
+    11.67,
+    12.07
+   ],
+   [
+    "Cosmic",
+    12.29,
+    12.65
+   ],
+   [
+    "Dawn.",
+    12.65,
+    12.75
+   ],
+   [
+    "They",
+    13.43,
+    13.51
+   ],
+   [
+    "even",
+    13.51,
+    13.65
+   ],
+   [
+    "include",
+    13.65,
+    13.89
+   ],
+   [
+    "content",
+    13.89,
+    14.23
+   ],
+   [
+    "from",
+    14.23,
+    14.41
+   ],
+   [
+    "the",
+    14.41,
+    14.53
+   ],
+   [
+    "Jet",
+    14.53,
+    14.71
+   ],
+   [
+    "Propulsion",
+    14.71,
+    15.19
+   ],
+   [
+    "Laboratory.",
+    15.19,
+    15.64
+   ],
+   [
+    "Grab",
+    16.29,
+    16.39
+   ],
+   [
+    "some",
+    16.39,
+    16.55
+   ],
+   [
+    "popcorn",
+    16.55,
+    16.83
+   ],
+   [
+    "for",
+    16.83,
+    17.19
+   ],
+   [
+    "your",
+    17.19,
+    17.29
+   ],
+   [
+    "next",
+    17.29,
+    17.51
+   ],
+   [
+    "space-themed",
+    17.51,
+    18.23
+   ],
+   [
+    "movie",
+    18.23,
+    18.49
+   ],
+   [
+    "night.",
+    18.49,
+    18.61
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   26,
+   36,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/NASA%E2%80%99s_SpaceX_Crew-7_Live_Launch_Coverage_%28KSC-20230826-PH-KLS03_0096%29.jpg/960px-NASA%E2%80%99s_SpaceX_Crew-7_Live_Launch_Coverage_%28KSC-20230826-PH-KLS03_0096%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Kennedy Space Center / NASA/Kim Shiflett",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_SpaceX_Crew-7_Live_Launch_Coverage_(KSC-20230826-PH-KLS03_0096).jpg",
+   "desc": "NASA’s SpaceX Crew-7 Live Launch Coverage (KSC-20230826-PH-KLS03 0096) — A SpaceX Falcon 9 rocket lifts off at 3:27 a.m. EDT on Saturday, Aug. 26, from Kennedy Space Center’s Launch Complex 39A in Florida, carrying NASA’s SpaceX Crew-7 crew members to the Inte"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Jet_Propulsion_Laboratory_spin_test.jpg/960px-Jet_Propulsion_Laboratory_spin_test.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 565,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Jet_Propulsion_Laboratory_spin_test.jpg",
+   "desc": "Jet Propulsion Laboratory spin test — Ranger block 3 spin test 8/11/1964 In August 1964, this test fixture was used by the Spacecraft Design Section at NASA's Jet Propulsion Laboratory in Pasadena, Calif., to study spin stabilization of spacecraft - in this "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Popcorn_in_a_bowl.jpg/960px-Popcorn_in_a_bowl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC0",
+   "artist": "Ziongarage",
+   "page": "https://commons.wikimedia.org/wiki/File:Popcorn_in_a_bowl.jpg",
+   "desc": "Popcorn in a bowl — Some popcorn poured out of a bag in a bowl."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 0,
+   "unit": "subscription",
+   "label": "requires no subscription"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/10-things-movie-night/",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "10 Things: Movie Night",
+  "url": "https://science.nasa.gov/solar-system/10-things-movie-night/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:25:47Z",
+ "trimmed": true
+}

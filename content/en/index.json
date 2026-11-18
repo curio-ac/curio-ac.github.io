@@ -144,7 +144,8 @@
   "Steve Jobs",
   "nasa:1350486",
   "The Carpet from Bagdad",
-  "Basiliscus"
+  "Basiliscus",
+  "nasa:1453069"
  ],
  "rejected": [
   "Chameleon",
@@ -173,7 +174,9 @@
   "nasa:1480607",
   "nasa:1285516",
   "nasa:1378211",
-  "William Barley"
+  "William Barley",
+  "C. R. M. F. Cruttwell",
+  "Battle of Dupplin Moor"
  ],
  "angles": {
   "Blue whale": [
@@ -654,6 +657,9 @@
   ],
   "Basiliscus": [
    "Emperor Who Bankrupted Rome: One emperor nearly bankrupted the entire empire."
+  ],
+  "nasa:1453069": [
+   "NASA's New Space Telescope: NASA is building an all-glass space telescope."
   ]
  },
  "exhausted": []
