@@ -183,7 +183,8 @@
   "nasa:1276268",
   "Georg Cantor",
   "Carousel (musical)",
-  "Destiny's Child"
+  "Destiny's Child",
+  "nasa:1509805"
  ],
  "rejected": [
   "Chameleon",
@@ -227,7 +228,9 @@
   "William Henry Bury",
   "nasa:1283607",
   "AI Mark IV radar",
-  "Banksia prionotes"
+  "Banksia prionotes",
+  "1987–88 Gillingham F.C. season",
+  "Cyclone Berguitta"
  ],
  "angles": {
   "Blue whale": [
@@ -847,6 +850,9 @@
   ],
   "Destiny's Child": [
    "Destiny's Child Origins: Destiny's Child actually started as Girl's Tyme."
+  ],
+  "nasa:1509805": [
+   "Fog Fills Branching Valleys: White fog fills valleys like a branching river."
   ]
  },
  "exhausted": []
