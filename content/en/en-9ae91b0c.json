@@ -1,0 +1,394 @@
+{
+ "id": "en-9ae91b0c",
+ "lang": "en",
+ "title": "The Silent President",
+ "cat": "history",
+ "emoji": "🤫",
+ "sentences": [
+  "Meet the president nicknamed Silent Cal.",
+  "Calvin Coolidge was the 30th US president.",
+  "He served from 1923 until 1929.",
+  "Before that, he was governor of Massachusetts.",
+  "He gained national attention during the 1919 Boston police strike.",
+  "Coolidge was known for his dry humor and small-government views.",
+  "He rose to the presidency after Warren G. Harding died."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.3,
+    0.3
+   ],
+   [
+    "the",
+    0.3,
+    0.44
+   ],
+   [
+    "president",
+    0.46,
+    0.78
+   ],
+   [
+    "nicknamed",
+    0.78,
+    1.36
+   ],
+   [
+    "Silent",
+    1.36,
+    1.86
+   ],
+   [
+    "Cal.",
+    1.86,
+    2.4
+   ],
+   [
+    "Calvin",
+    2.82,
+    3.04
+   ],
+   [
+    "Coolidge",
+    3.04,
+    3.46
+   ],
+   [
+    "was",
+    3.46,
+    3.62
+   ],
+   [
+    "the",
+    3.62,
+    3.76
+   ],
+   [
+    "30th",
+    3.76,
+    4.24
+   ],
+   [
+    "US",
+    4.24,
+    4.46
+   ],
+   [
+    "president.",
+    4.46,
+    5.02
+   ],
+   [
+    "He",
+    5.34,
+    5.4
+   ],
+   [
+    "served",
+    5.4,
+    5.66
+   ],
+   [
+    "from",
+    5.66,
+    5.92
+   ],
+   [
+    "1923",
+    5.92,
+    6.76
+   ],
+   [
+    "until",
+    6.76,
+    7.08
+   ],
+   [
+    "1929.",
+    7.08,
+    8.2
+   ],
+   [
+    "Before",
+    8.54,
+    8.64
+   ],
+   [
+    "that,",
+    8.64,
+    9.0
+   ],
+   [
+    "he",
+    9.14,
+    9.16
+   ],
+   [
+    "was",
+    9.16,
+    9.3
+   ],
+   [
+    "governor",
+    9.3,
+    9.56
+   ],
+   [
+    "of",
+    9.56,
+    9.8
+   ],
+   [
+    "Massachusetts.",
+    9.8,
+    10.4
+   ],
+   [
+    "He",
+    10.82,
+    10.9
+   ],
+   [
+    "gained",
+    10.9,
+    11.2
+   ],
+   [
+    "national",
+    11.2,
+    11.66
+   ],
+   [
+    "attention",
+    11.66,
+    12.08
+   ],
+   [
+    "during",
+    12.08,
+    12.44
+   ],
+   [
+    "the",
+    12.44,
+    12.6
+   ],
+   [
+    "1919",
+    12.6,
+    13.16
+   ],
+   [
+    "Boston",
+    13.16,
+    13.68
+   ],
+   [
+    "police",
+    13.68,
+    14.06
+   ],
+   [
+    "strike.",
+    14.06,
+    14.52
+   ],
+   [
+    "Coolidge",
+    14.8,
+    15.14
+   ],
+   [
+    "was",
+    15.14,
+    15.26
+   ],
+   [
+    "known",
+    15.26,
+    15.48
+   ],
+   [
+    "for",
+    15.48,
+    15.68
+   ],
+   [
+    "his",
+    15.68,
+    15.82
+   ],
+   [
+    "dry",
+    15.82,
+    16.1
+   ],
+   [
+    "humor",
+    16.1,
+    16.42
+   ],
+   [
+    "and",
+    16.42,
+    16.68
+   ],
+   [
+    "small-government",
+    16.68,
+    17.42
+   ],
+   [
+    "views.",
+    17.42,
+    17.8
+   ],
+   [
+    "He",
+    18.16,
+    18.26
+   ],
+   [
+    "rose",
+    18.26,
+    18.46
+   ],
+   [
+    "to",
+    18.46,
+    18.64
+   ],
+   [
+    "the",
+    18.64,
+    18.76
+   ],
+   [
+    "presidency",
+    18.76,
+    19.14
+   ],
+   [
+    "after",
+    19.14,
+    19.52
+   ],
+   [
+    "Warren",
+    19.52,
+    19.84
+   ],
+   [
+    "G.",
+    19.84,
+    20.14
+   ],
+   [
+    "Harding",
+    20.22,
+    20.38
+   ],
+   [
+    "died.",
+    20.38,
+    20.74
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   19,
+   26,
+   36,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Calvin_Coolidge_by_Doris_Ulmann%2C_c._1924%2C_platinum_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_85_90Coolidge-000001_%28cropped%29.jpg/960px-Calvin_Coolidge_by_Doris_Ulmann%2C_c._1924%2C_platinum_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_85_90Coolidge-000001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 953,
+   "license": "CC0",
+   "artist": "Doris Ulmann",
+   "page": "https://commons.wikimedia.org/wiki/File:Calvin_Coolidge_by_Doris_Ulmann,_c._1924,_platinum_print,_from_the_National_Portrait_Gallery_-_NPG-NPG_85_90Coolidge-000001_(cropped).jpg",
+   "desc": "Calvin Coolidge by Doris Ulmann, c. 1924, platinum print, from the National Portrait Gallery - NPG-NPG 85 90Coolidge-000001 (cropped) — Calvin Coolidge by Doris Ulmann, c. 1924, platinum print, from the National Portrait Gallery which has explicitly released t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Calvin_Coolidge.jpg/960px-Calvin_Coolidge.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 798,
+   "license": "Public domain",
+   "artist": "Charles Hopkinson",
+   "page": "https://commons.wikimedia.org/wiki/File:Calvin_Coolidge.jpg",
+   "desc": "Calvin Coolidge — Calvin Coolidge. 30th President of the United States (1923-1929)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/1924_Indian_Citizenship_Act.jpg/960px-1924_Indian_Citizenship_Act.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 549,
+   "license": "Public domain",
+   "artist": "National Photo Company Collection",
+   "page": "https://commons.wikimedia.org/wiki/File:1924_Indian_Citizenship_Act.jpg",
+   "desc": "1924 Indian Citizenship Act — U.S. President Calvin Coolidge with four Osage Indians after Coolidge signed the bill granting Indians full citizenship."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 30,
+   "unit": "th",
+   "label": "US president"
+  },
+  {
+   "type": "timeline",
+   "year": 1923
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1919
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1923
+  }
+ ],
+ "geo": null,
+ "qid": "Q36023",
+ "pron_wer": 0.035,
+ "angle": 0,
+ "source": {
+  "title": "Calvin Coolidge",
+  "url": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:34:45Z",
+ "trimmed": true
+}

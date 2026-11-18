@@ -161,7 +161,8 @@
   "nasa:1473102",
   "nasa:1386258",
   "Armed Forces Special Weapons Project",
-  "Paul Collingwood"
+  "Paul Collingwood",
+  "nasa:1441215"
  ],
  "rejected": [
   "Chameleon",
@@ -743,6 +744,9 @@
   ],
   "Paul Collingwood": [
    "England's First T20 Captain: He scored the winning run for England."
+  ],
+  "nasa:1441215": [
+   "Farming in a Delta: A giant agricultural island sits in a delta."
   ]
  },
  "exhausted": []
