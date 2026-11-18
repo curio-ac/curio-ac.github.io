@@ -1,0 +1,411 @@
+{
+ "id": "en-afca0fa9",
+ "lang": "en",
+ "title": "The First Woman Coin Designer",
+ "cat": "history",
+ "emoji": "🪙",
+ "sentences": [
+  "Laura Gardin Fraser designed this historic coin.",
+  "She was the first woman ever credited with designing a US coin.",
+  "Congress approved the Alabama Centennial half dollar in 1920.",
+  "Originally, the bill proposed commemorative quarters instead of halves.",
+  "The coins were delayed until 1921 because of the presidential election.",
+  "They ultimately featured Alabama's first governor and its governor at the time."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Laura",
+    0.35,
+    0.35
+   ],
+   [
+    "Gardin",
+    0.35,
+    0.73
+   ],
+   [
+    "Fraser",
+    0.73,
+    0.93
+   ],
+   [
+    "designed",
+    0.93,
+    1.47
+   ],
+   [
+    "this",
+    1.47,
+    1.71
+   ],
+   [
+    "historic",
+    1.71,
+    2.03
+   ],
+   [
+    "coin.",
+    2.03,
+    2.83
+   ],
+   [
+    "She",
+    3.01,
+    3.01
+   ],
+   [
+    "was",
+    3.01,
+    3.15
+   ],
+   [
+    "the",
+    3.15,
+    3.27
+   ],
+   [
+    "first",
+    3.27,
+    3.47
+   ],
+   [
+    "woman",
+    3.47,
+    3.77
+   ],
+   [
+    "ever",
+    3.77,
+    4.09
+   ],
+   [
+    "credited",
+    4.09,
+    4.51
+   ],
+   [
+    "with",
+    4.51,
+    4.79
+   ],
+   [
+    "designing",
+    4.79,
+    5.19
+   ],
+   [
+    "a",
+    5.19,
+    5.39
+   ],
+   [
+    "US",
+    5.39,
+    5.63
+   ],
+   [
+    "coin.",
+    5.63,
+    6.03
+   ],
+   [
+    "Congress",
+    6.45,
+    6.71
+   ],
+   [
+    "approved",
+    6.71,
+    7.11
+   ],
+   [
+    "the",
+    7.11,
+    7.35
+   ],
+   [
+    "Alabama",
+    7.35,
+    7.75
+   ],
+   [
+    "Centennial",
+    7.75,
+    8.39
+   ],
+   [
+    "half",
+    8.39,
+    8.67
+   ],
+   [
+    "dollar",
+    8.67,
+    9.01
+   ],
+   [
+    "in",
+    9.01,
+    9.25
+   ],
+   [
+    "1920.",
+    9.25,
+    9.95
+   ],
+   [
+    "Originally,",
+    10.49,
+    11.13
+   ],
+   [
+    "the",
+    11.35,
+    11.35
+   ],
+   [
+    "bill",
+    11.35,
+    11.53
+   ],
+   [
+    "proposed",
+    11.53,
+    11.97
+   ],
+   [
+    "commemorative",
+    11.97,
+    12.53
+   ],
+   [
+    "quarters",
+    12.53,
+    12.87
+   ],
+   [
+    "instead",
+    12.87,
+    13.27
+   ],
+   [
+    "of",
+    13.27,
+    13.47
+   ],
+   [
+    "halves.",
+    13.47,
+    13.83
+   ],
+   [
+    "The",
+    14.33,
+    14.37
+   ],
+   [
+    "coins",
+    14.37,
+    14.57
+   ],
+   [
+    "were",
+    14.57,
+    14.75
+   ],
+   [
+    "delayed",
+    14.75,
+    15.05
+   ],
+   [
+    "until",
+    15.05,
+    15.31
+   ],
+   [
+    "1921",
+    15.31,
+    15.96
+   ],
+   [
+    "because",
+    16.19,
+    16.55
+   ],
+   [
+    "of",
+    16.55,
+    16.75
+   ],
+   [
+    "the",
+    16.75,
+    16.83
+   ],
+   [
+    "presidential",
+    16.83,
+    17.21
+   ],
+   [
+    "election.",
+    17.21,
+    17.89
+   ],
+   [
+    "They",
+    18.27,
+    18.37
+   ],
+   [
+    "ultimately",
+    18.37,
+    18.73
+   ],
+   [
+    "featured",
+    18.73,
+    19.15
+   ],
+   [
+    "Alabama's",
+    19.15,
+    19.79
+   ],
+   [
+    "first",
+    19.79,
+    19.95
+   ],
+   [
+    "governor",
+    19.95,
+    20.31
+   ],
+   [
+    "and",
+    20.31,
+    20.71
+   ],
+   [
+    "its",
+    20.71,
+    20.85
+   ],
+   [
+    "governor",
+    20.85,
+    21.11
+   ],
+   [
+    "at",
+    21.11,
+    21.29
+   ],
+   [
+    "the",
+    21.29,
+    21.35
+   ],
+   [
+    "time.",
+    21.35,
+    21.79
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   28,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Flickr_-_USCapitol_-_Laura_Gardin_Fraser_%281889-1966%29_-_Women_Artists.jpg/960px-Flickr_-_USCapitol_-_Laura_Gardin_Fraser_%281889-1966%29_-_Women_Artists.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 978,
+   "license": "Public domain",
+   "artist": "USCapitol",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_USCapitol_-_Laura_Gardin_Fraser_(1889-1966)_-_Women_Artists.jpg",
+   "desc": "Flickr - USCapitol - Laura Gardin Fraser (1889-1966) - Women Artists — Sculptor of three relief portrait plaques of lawgivers in the House Chamber: Colbert, Edward I, Papinian."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/1921_Alabama_Centennial_half_dollar_%28without_2X2%29_obverse.jpg/960px-1921_Alabama_Centennial_half_dollar_%28without_2X2%29_obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Numismatic Guaranty Corporation",
+   "page": "https://commons.wikimedia.org/wiki/File:1921_Alabama_Centennial_half_dollar_(without_2X2)_obverse.jpg",
+   "desc": "1921 Alabama Centennial half dollar (without 2X2) obverse — 1921 Alabama Centennial half dollar (without 2X2) obverse"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Thomas_Kilby.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1048,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Thomas_Kilby.jpg",
+   "desc": "Thomas Kilby — Thomas Kilby"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1920
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1921
+  },
+  {
+   "type": "focus",
+   "target": "governor portraits",
+   "box": [
+    0,
+    126,
+    998,
+    864
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q4705364",
+ "pron_wer": 0.066,
+ "angle": 2,
+ "source": {
+  "title": "Alabama Centennial half dollar",
+  "url": "https://en.wikipedia.org/wiki/Alabama_Centennial_half_dollar",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:48:18Z",
+ "trimmed": true
+}
