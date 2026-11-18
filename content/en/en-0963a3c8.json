@@ -1,0 +1,411 @@
+{
+ "id": "en-0963a3c8",
+ "lang": "en",
+ "title": "Chariot Races And Football",
+ "cat": "history",
+ "emoji": "🏈",
+ "sentences": [
+  "Football was once replaced by chariot races!",
+  "The 1924 game was edition 10 of the tournament.",
+  "The Washington Huskies asked for the Navy Midshipmen as opponents.",
+  "Washington picked Navy over eastern teams with better records.",
+  "About 40,000 people watched at the new Pasadena stadium.",
+  "It was the first post-season bowl game for both.",
+  "The hard-fought battle ended in a 14-14 tie."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Football",
+    0.35,
+    0.43
+   ],
+   [
+    "was",
+    0.43,
+    0.67
+   ],
+   [
+    "once",
+    0.67,
+    0.83
+   ],
+   [
+    "replaced",
+    0.83,
+    1.17
+   ],
+   [
+    "by",
+    1.17,
+    1.43
+   ],
+   [
+    "chariot",
+    1.43,
+    1.85
+   ],
+   [
+    "races!",
+    1.85,
+    2.41
+   ],
+   [
+    "The",
+    2.69,
+    2.77
+   ],
+   [
+    "1924",
+    2.77,
+    3.33
+   ],
+   [
+    "game",
+    3.33,
+    3.73
+   ],
+   [
+    "was",
+    3.73,
+    3.93
+   ],
+   [
+    "edition",
+    3.93,
+    4.21
+   ],
+   [
+    "10",
+    4.21,
+    4.53
+   ],
+   [
+    "of",
+    4.53,
+    4.71
+   ],
+   [
+    "the",
+    4.71,
+    4.81
+   ],
+   [
+    "tournament.",
+    4.81,
+    5.25
+   ],
+   [
+    "The",
+    5.69,
+    5.71
+   ],
+   [
+    "Washington",
+    5.71,
+    6.01
+   ],
+   [
+    "Huskies",
+    6.01,
+    6.55
+   ],
+   [
+    "asked",
+    6.55,
+    6.79
+   ],
+   [
+    "for",
+    6.79,
+    6.97
+   ],
+   [
+    "the",
+    6.97,
+    7.07
+   ],
+   [
+    "Navy",
+    7.07,
+    7.27
+   ],
+   [
+    "Midshipmen",
+    7.27,
+    7.87
+   ],
+   [
+    "as",
+    7.87,
+    8.01
+   ],
+   [
+    "opponents.",
+    8.01,
+    8.37
+   ],
+   [
+    "Washington",
+    8.89,
+    9.25
+   ],
+   [
+    "picked",
+    9.25,
+    9.49
+   ],
+   [
+    "Navy",
+    9.49,
+    9.85
+   ],
+   [
+    "over",
+    9.85,
+    10.07
+   ],
+   [
+    "eastern",
+    10.07,
+    10.37
+   ],
+   [
+    "teams",
+    10.37,
+    10.75
+   ],
+   [
+    "with",
+    10.75,
+    10.93
+   ],
+   [
+    "better",
+    10.93,
+    11.13
+   ],
+   [
+    "records.",
+    11.13,
+    11.47
+   ],
+   [
+    "About",
+    11.97,
+    12.07
+   ],
+   [
+    "40,000",
+    12.07,
+    12.79
+   ],
+   [
+    "people",
+    12.79,
+    13.07
+   ],
+   [
+    "watched",
+    13.07,
+    13.45
+   ],
+   [
+    "at",
+    13.45,
+    13.63
+   ],
+   [
+    "the",
+    13.63,
+    13.71
+   ],
+   [
+    "new",
+    13.71,
+    13.83
+   ],
+   [
+    "Pasadena",
+    13.83,
+    14.35
+   ],
+   [
+    "stadium.",
+    14.35,
+    14.79
+   ],
+   [
+    "It",
+    15.15,
+    15.23
+   ],
+   [
+    "was",
+    15.23,
+    15.35
+   ],
+   [
+    "the",
+    15.35,
+    15.47
+   ],
+   [
+    "first",
+    15.47,
+    15.65
+   ],
+   [
+    "post-season",
+    15.65,
+    16.19
+   ],
+   [
+    "bowl",
+    16.19,
+    16.49
+   ],
+   [
+    "game",
+    16.49,
+    16.71
+   ],
+   [
+    "for",
+    16.71,
+    16.87
+   ],
+   [
+    "both.",
+    16.87,
+    17.17
+   ],
+   [
+    "The",
+    17.59,
+    17.67
+   ],
+   [
+    "hard-fought",
+    17.75,
+    18.07
+   ],
+   [
+    "battle",
+    18.07,
+    18.41
+   ],
+   [
+    "ended",
+    18.41,
+    18.67
+   ],
+   [
+    "in",
+    18.67,
+    18.87
+   ],
+   [
+    "a",
+    18.87,
+    18.97
+   ],
+   [
+    "14-14",
+    18.97,
+    19.63
+   ],
+   [
+    "tie.",
+    19.63,
+    20.15
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   26,
+   35,
+   44,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/1924_Rose_Bowl_Program_cover.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1023,
+   "license": "Public domain",
+   "artist": "Pasadena Tournament of Roses",
+   "page": "https://commons.wikimedia.org/wiki/File:1924_Rose_Bowl_Program_cover.jpeg",
+   "desc": "1924 Rose Bowl Program cover — The cover of the program for the 1924 Rose Bowl, between the Navy Midshipmen and the Washington Huskies"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/RoseBowl-construction1921.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 574,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:RoseBowl-construction1921.jpg",
+   "desc": "RoseBowl-construction1921 — Rose Bowl under construction After crowds out-grew Pasadena's Tournament Park, architect Myron Hunt drew up plans for the construction of the Rose Bowl stadium in 1920. On January 1, 1923, USC beat Penn State, 14-3, in t"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1924
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 40000,
+   "unit": "people",
+   "label": "people watched"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 14,
+   "unit": "score",
+   "label": "14-14 tie"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4561571",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "1924 Rose Bowl",
+  "url": "https://en.wikipedia.org/wiki/1924_Rose_Bowl",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:32:09Z",
+ "trimmed": true
+}

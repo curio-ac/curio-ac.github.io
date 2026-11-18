@@ -176,7 +176,8 @@
   "Cardinal-nephew",
   "Buangkok MRT station",
   "Canis Minor",
-  "nasa:1342033"
+  "nasa:1342033",
+  "nasa:1282787"
  ],
  "rejected": [
   "Chameleon",
@@ -815,6 +816,9 @@
   ],
   "nasa:1342033": [
    "Complex Life Defies Record Heat: Complex life can survive record heat."
+  ],
+  "nasa:1282787": [
+   "Puerto Rico Drought Emergency: Puerto Rico is facing a severe drought!"
   ]
  },
  "exhausted": []
