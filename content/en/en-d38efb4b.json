@@ -1,0 +1,367 @@
+{
+ "id": "en-d38efb4b",
+ "lang": "en",
+ "title": "Hurricane Lala Batters Hawaii",
+ "cat": "geography",
+ "emoji": "🌀",
+ "sentences": [
+  "Hurricane Lala narrowly missed Hawaii.",
+  "It still dumped over 43 inches of rain in some spots.",
+  "The intense storm knocked homes off their foundations.",
+  "Over 220,000 customers lost power across the islands.",
+  "Even the summit of Mauna Kea experienced blizzard conditions.",
+  "El Nino fueled this destructive Pacific season."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Hurricane",
+    0.32,
+    0.44
+   ],
+   [
+    "Lala",
+    0.44,
+    0.9
+   ],
+   [
+    "narrowly",
+    0.9,
+    1.42
+   ],
+   [
+    "missed",
+    1.42,
+    1.62
+   ],
+   [
+    "Hawaii.",
+    1.62,
+    2.28
+   ],
+   [
+    "It",
+    2.34,
+    2.34
+   ],
+   [
+    "still",
+    2.34,
+    2.58
+   ],
+   [
+    "dumped",
+    2.58,
+    2.78
+   ],
+   [
+    "over",
+    2.78,
+    3.0
+   ],
+   [
+    "43",
+    3.0,
+    3.4
+   ],
+   [
+    "inches",
+    3.4,
+    3.66
+   ],
+   [
+    "of",
+    3.66,
+    3.84
+   ],
+   [
+    "rain",
+    3.84,
+    4.06
+   ],
+   [
+    "in",
+    4.06,
+    4.16
+   ],
+   [
+    "some",
+    4.16,
+    4.34
+   ],
+   [
+    "spots.",
+    4.34,
+    4.89
+   ],
+   [
+    "The",
+    5.12,
+    5.2
+   ],
+   [
+    "intense",
+    5.2,
+    5.46
+   ],
+   [
+    "storm",
+    5.46,
+    5.92
+   ],
+   [
+    "knocked",
+    5.92,
+    6.18
+   ],
+   [
+    "homes",
+    6.18,
+    6.52
+   ],
+   [
+    "off",
+    6.52,
+    6.76
+   ],
+   [
+    "their",
+    6.76,
+    6.9
+   ],
+   [
+    "foundations.",
+    6.9,
+    7.42
+   ],
+   [
+    "Over",
+    7.86,
+    8.02
+   ],
+   [
+    "220,000",
+    8.02,
+    9.26
+   ],
+   [
+    "customers",
+    9.26,
+    9.6
+   ],
+   [
+    "lost",
+    9.6,
+    9.94
+   ],
+   [
+    "power",
+    9.94,
+    10.28
+   ],
+   [
+    "across",
+    10.28,
+    10.54
+   ],
+   [
+    "the",
+    10.54,
+    10.78
+   ],
+   [
+    "islands.",
+    10.78,
+    10.98
+   ],
+   [
+    "Even",
+    11.44,
+    11.6
+   ],
+   [
+    "the",
+    11.6,
+    11.76
+   ],
+   [
+    "summit",
+    11.76,
+    11.98
+   ],
+   [
+    "of",
+    11.98,
+    12.14
+   ],
+   [
+    "Mauna",
+    12.14,
+    12.36
+   ],
+   [
+    "Kea",
+    12.36,
+    12.7
+   ],
+   [
+    "experienced",
+    12.7,
+    13.18
+   ],
+   [
+    "blizzard",
+    13.18,
+    13.56
+   ],
+   [
+    "conditions.",
+    13.56,
+    14.11
+   ],
+   [
+    "El",
+    14.34,
+    14.42
+   ],
+   [
+    "Nino",
+    14.42,
+    14.76
+   ],
+   [
+    "fueled",
+    14.76,
+    15.06
+   ],
+   [
+    "this",
+    15.06,
+    15.26
+   ],
+   [
+    "destructive",
+    15.26,
+    15.68
+   ],
+   [
+    "Pacific",
+    15.84,
+    15.98
+   ],
+   [
+    "season.",
+    15.98,
+    16.56
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   16,
+   24,
+   32,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Lala_Batters_Hawaii_%281277030_-_20260815%29.jpg/960px-Lala_Batters_Hawaii_%281277030_-_20260815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Lala_Batters_Hawaii_(1277030_-_20260815).jpg",
+   "desc": "Lala Batters Hawaii (1277030 - 20260815) — Lala skirts south of the Island of Hawaiʻi as a category 1 hurricane in the right image, acquired by the VIIRS (Visible Infrared Imaging Radiometer Suite) on the Suomi NPP satellite on August 15, 2026, at about 1:45 p"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kona_Low_Continues_to_Drench_Hawaii_%28CIRA_2024-05-18%29.png/960px-Kona_Low_Continues_to_Drench_Hawaii_%28CIRA_2024-05-18%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "GOES imagery: CSU/CIRA &amp; NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Kona_Low_Continues_to_Drench_Hawaii_(CIRA_2024-05-18).png",
+   "desc": "Kona Low Continues to Drench Hawaii (CIRA 2024-05-18) — The majestic kona low continued to drench Hawaii today in heavy rain and isolated flooding. Conditions are expected to improve for the aloha state by the start of next week as the kona low meanders westwa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Damage_to_House_near_Higgins_Beach_in_Scarboro%2C_Maine_after_November_1945_Storm_-_DPLA_-_1b1788860e01b17f36121d451b037d4c.jpg/960px-Damage_to_House_near_Higgins_Beach_in_Scarboro%2C_Maine_after_November_1945_Storm_-_DPLA_-_1b1788860e01b17f36121d451b037d4c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 491,
+   "license": "Public domain",
+   "artist": "Department of Defense. Department of the Army. Office of the Chief of Engineers.",
+   "page": "https://commons.wikimedia.org/wiki/File:Damage_to_House_near_Higgins_Beach_in_Scarboro,_Maine_after_November_1945_Storm_-_DPLA_-_1b1788860e01b17f36121d451b037d4c.jpg",
+   "desc": "Damage to House near Higgins Beach in Scarboro, Maine after November 1945 Storm - DPLA - 1b1788860e01b17f36121d451b037d4c — Original caption: House at foot of Champion St. broke in two when foundation washed out."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Iced_power_lines.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 2.5",
+   "artist": "Robert Lawton",
+   "page": "https://commons.wikimedia.org/wiki/File:Iced_power_lines.JPG",
+   "desc": "Iced power lines — Ice threatened power lines – Iced power lines threaten power outage to many after a powerful ice storm."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Typical_North_American_winter_impacts_of_El_Ni%C3%B1o%2C_globe.png/960px-Typical_North_American_winter_impacts_of_El_Ni%C3%B1o%2C_globe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NOAAClimategov",
+   "page": "https://commons.wikimedia.org/wiki/File:Typical_North_American_winter_impacts_of_El_Ni%C3%B1o,_globe.png",
+   "desc": "Typical North American winter impacts of El Niño, globe — The arrival of El Niño in the tropical Pacific Ocean triggers a cascade of changes in tropical rainfall and wind patterns that echo around the globe. For the United States, the most significant impact i"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 43,
+   "unit": "inches",
+   "label": "rain total"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 220000,
+   "unit": "customers",
+   "label": "lost power"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/",
+ "pron_wer": 0.021,
+ "angle": 0,
+ "source": {
+  "title": "Lala Batters Hawaii",
+  "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T15:13:40Z",
+ "trimmed": true
+}

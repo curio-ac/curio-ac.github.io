@@ -193,7 +193,8 @@
   "2008 World Science Festival",
   "nasa:1505726",
   "Hurricane Diane",
-  "nasa:1506784"
+  "nasa:1506784",
+  "2009 International Bowl"
  ],
  "rejected": [
   "Chameleon",
@@ -240,7 +241,8 @@
   "Banksia prionotes",
   "1987–88 Gillingham F.C. season",
   "Cyclone Berguitta",
-  "Cher"
+  "Cher",
+  "1998 Football League First Division play-off final"
  ],
  "angles": {
   "Blue whale": [
@@ -895,6 +897,9 @@
   ],
   "nasa:1506784": [
    "The 2026 Ozone Hole: The ozone hole grew huge in 2026."
+  ],
+  "2009 International Bowl": [
+   "The 2009 International Bowl: Buffalo once refused a bowl over segregation."
   ]
  },
  "exhausted": []
