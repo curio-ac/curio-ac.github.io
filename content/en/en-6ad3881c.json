@@ -1,0 +1,365 @@
+{
+ "id": "en-6ad3881c",
+ "lang": "en",
+ "title": "Ancient Astrology's Lost Secrets",
+ "cat": "history",
+ "emoji": "✨",
+ "sentences": [
+  "A 5-book poem explains our universe.",
+  "Written around AD 30 to 40, this Roman text covers celestial phenomena and the zodiac.",
+  "It promotes a Stoic, deterministic view of a world governed by reason.",
+  "The fifth book contains a gap, sparking debate about missing sections.",
+  "Rediscovered in 1416, a copy from that time creates the modern text we read today."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.1,
+    0.1
+   ],
+   [
+    "5-book",
+    0.2,
+    0.64
+   ],
+   [
+    "poem",
+    0.64,
+    1.08
+   ],
+   [
+    "explains",
+    1.08,
+    1.66
+   ],
+   [
+    "our",
+    1.66,
+    1.98
+   ],
+   [
+    "universe.",
+    1.98,
+    2.6
+   ],
+   [
+    "Written",
+    3.02,
+    3.24
+   ],
+   [
+    "around",
+    3.24,
+    3.52
+   ],
+   [
+    "AD",
+    3.52,
+    3.88
+   ],
+   [
+    "30",
+    3.88,
+    4.4
+   ],
+   [
+    "to",
+    4.4,
+    4.62
+   ],
+   [
+    "40,",
+    4.62,
+    5.42
+   ],
+   [
+    "this",
+    5.48,
+    5.56
+   ],
+   [
+    "Roman",
+    5.56,
+    5.8
+   ],
+   [
+    "text",
+    5.8,
+    6.18
+   ],
+   [
+    "covers",
+    6.34,
+    6.58
+   ],
+   [
+    "celestial",
+    6.58,
+    7.08
+   ],
+   [
+    "phenomena",
+    7.08,
+    7.64
+   ],
+   [
+    "and",
+    7.64,
+    8.1
+   ],
+   [
+    "the",
+    8.1,
+    8.2
+   ],
+   [
+    "zodiac.",
+    8.2,
+    8.62
+   ],
+   [
+    "It",
+    9.24,
+    9.3
+   ],
+   [
+    "promotes",
+    9.3,
+    9.6
+   ],
+   [
+    "a",
+    9.6,
+    9.92
+   ],
+   [
+    "Stoic,",
+    9.92,
+    10.4
+   ],
+   [
+    "deterministic",
+    10.82,
+    11.28
+   ],
+   [
+    "view",
+    11.5,
+    11.6
+   ],
+   [
+    "of",
+    11.6,
+    11.8
+   ],
+   [
+    "a",
+    11.8,
+    11.88
+   ],
+   [
+    "world",
+    11.88,
+    12.12
+   ],
+   [
+    "governed",
+    12.12,
+    12.52
+   ],
+   [
+    "by",
+    12.52,
+    12.8
+   ],
+   [
+    "reason.",
+    12.8,
+    13.24
+   ],
+   [
+    "The",
+    13.9,
+    13.98
+   ],
+   [
+    "fifth",
+    13.98,
+    14.22
+   ],
+   [
+    "book",
+    14.22,
+    14.5
+   ],
+   [
+    "contains",
+    14.66,
+    14.88
+   ],
+   [
+    "a",
+    14.88,
+    15.08
+   ],
+   [
+    "gap,",
+    15.08,
+    15.36
+   ],
+   [
+    "sparking",
+    15.74,
+    16.06
+   ],
+   [
+    "debate",
+    16.06,
+    16.36
+   ],
+   [
+    "about",
+    16.36,
+    16.6
+   ],
+   [
+    "missing",
+    16.6,
+    17.02
+   ],
+   [
+    "sections.",
+    17.02,
+    17.82
+   ],
+   [
+    "Rediscovered",
+    18.18,
+    18.86
+   ],
+   [
+    "in",
+    18.86,
+    18.98
+   ],
+   [
+    "1416,",
+    18.98,
+    20.1
+   ],
+   [
+    "a",
+    20.4,
+    20.44
+   ],
+   [
+    "copy",
+    20.44,
+    20.72
+   ],
+   [
+    "from",
+    20.72,
+    20.94
+   ],
+   [
+    "that",
+    20.94,
+    21.1
+   ],
+   [
+    "time",
+    21.1,
+    21.36
+   ],
+   [
+    "creates",
+    21.54,
+    21.74
+   ],
+   [
+    "the",
+    21.74,
+    21.96
+   ],
+   [
+    "modern",
+    21.96,
+    22.3
+   ],
+   [
+    "text",
+    22.3,
+    22.68
+   ],
+   [
+    "we",
+    22.78,
+    22.88
+   ],
+   [
+    "read",
+    22.88,
+    23.1
+   ],
+   [
+    "today.",
+    23.1,
+    23.42
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   21,
+   33,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 30
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1416
+  }
+ ],
+ "geo": null,
+ "qid": "Q25302864",
+ "pron_wer": 0.033,
+ "angle": 1,
+ "source": {
+  "title": "Astronomica (Manilius)",
+  "url": "https://en.wikipedia.org/wiki/Astronomica_%28Manilius%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:30:16Z",
+ "trimmed": true
+}
