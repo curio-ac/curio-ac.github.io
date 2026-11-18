@@ -1,0 +1,434 @@
+{
+ "id": "en-7b056315",
+ "lang": "en",
+ "title": "The Poison Gas Harvard President",
+ "cat": "history",
+ "emoji": "🧪",
+ "sentences": [
+  "He developed poison gas for the Army.",
+  "James B. Conant was an American chemist before leading Harvard University.",
+  "In 1933, he became Harvard's president with a reformist agenda.",
+  "He abolished athletic scholarships and dropped Latin requirements.",
+  "Earlier, he studied the biochemistry of oxyhemoglobin and chlorophyll structure.",
+  "He also helped define modern theories of acid-base chemistry.",
+  "Later, he became the first U.S. ambassador to West Germany."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.14,
+    0.14
+   ],
+   [
+    "developed",
+    0.14,
+    0.48
+   ],
+   [
+    "poison",
+    0.48,
+    0.9
+   ],
+   [
+    "gas",
+    0.9,
+    1.24
+   ],
+   [
+    "for",
+    1.24,
+    1.5
+   ],
+   [
+    "the",
+    1.5,
+    1.6
+   ],
+   [
+    "Army.",
+    1.6,
+    1.8
+   ],
+   [
+    "James",
+    2.42,
+    2.58
+   ],
+   [
+    "B.",
+    2.58,
+    3.0
+   ],
+   [
+    "Conant",
+    3.0,
+    3.24
+   ],
+   [
+    "was",
+    3.24,
+    3.54
+   ],
+   [
+    "an",
+    3.54,
+    3.72
+   ],
+   [
+    "American",
+    3.72,
+    4.02
+   ],
+   [
+    "chemist",
+    4.06,
+    4.58
+   ],
+   [
+    "before",
+    4.78,
+    4.88
+   ],
+   [
+    "leading",
+    4.88,
+    5.24
+   ],
+   [
+    "Harvard",
+    5.24,
+    5.54
+   ],
+   [
+    "University.",
+    5.54,
+    6.12
+   ],
+   [
+    "In",
+    6.92,
+    6.92
+   ],
+   [
+    "1933,",
+    6.92,
+    7.9
+   ],
+   [
+    "he",
+    8.24,
+    8.24
+   ],
+   [
+    "became",
+    8.24,
+    8.5
+   ],
+   [
+    "Harvard's",
+    8.5,
+    8.98
+   ],
+   [
+    "president",
+    9.08,
+    9.28
+   ],
+   [
+    "with",
+    9.28,
+    9.6
+   ],
+   [
+    "a",
+    9.66,
+    9.78
+   ],
+   [
+    "reformist",
+    9.78,
+    10.3
+   ],
+   [
+    "agenda.",
+    10.3,
+    10.7
+   ],
+   [
+    "He",
+    11.32,
+    11.42
+   ],
+   [
+    "abolished",
+    11.42,
+    11.84
+   ],
+   [
+    "athletic",
+    11.84,
+    12.18
+   ],
+   [
+    "scholarships",
+    12.36,
+    12.64
+   ],
+   [
+    "and",
+    12.64,
+    13.08
+   ],
+   [
+    "dropped",
+    13.08,
+    13.32
+   ],
+   [
+    "Latin",
+    13.32,
+    13.66
+   ],
+   [
+    "requirements.",
+    13.66,
+    13.84
+   ],
+   [
+    "Earlier,",
+    15.06,
+    15.48
+   ],
+   [
+    "he",
+    15.62,
+    15.64
+   ],
+   [
+    "studied",
+    15.64,
+    15.88
+   ],
+   [
+    "the",
+    15.88,
+    16.06
+   ],
+   [
+    "biochemistry",
+    16.08,
+    16.66
+   ],
+   [
+    "of",
+    16.66,
+    17.0
+   ],
+   [
+    "oxyhemoglobin",
+    17.02,
+    18.0
+   ],
+   [
+    "and",
+    18.0,
+    18.22
+   ],
+   [
+    "chlorophyll",
+    18.22,
+    18.76
+   ],
+   [
+    "structure.",
+    18.76,
+    19.22
+   ],
+   [
+    "He",
+    19.78,
+    19.88
+   ],
+   [
+    "also",
+    19.88,
+    20.16
+   ],
+   [
+    "helped",
+    20.16,
+    20.44
+   ],
+   [
+    "define",
+    20.48,
+    20.74
+   ],
+   [
+    "modern",
+    20.74,
+    21.08
+   ],
+   [
+    "theories",
+    21.08,
+    21.44
+   ],
+   [
+    "of",
+    21.44,
+    21.68
+   ],
+   [
+    "acid-base",
+    21.68,
+    22.2
+   ],
+   [
+    "chemistry.",
+    22.2,
+    22.68
+   ],
+   [
+    "Later,",
+    23.48,
+    23.8
+   ],
+   [
+    "he",
+    23.88,
+    23.92
+   ],
+   [
+    "became",
+    23.94,
+    24.14
+   ],
+   [
+    "the",
+    24.14,
+    24.32
+   ],
+   [
+    "first",
+    24.42,
+    24.54
+   ],
+   [
+    "U.S.",
+    24.54,
+    24.94
+   ],
+   [
+    "ambassador",
+    24.98,
+    25.36
+   ],
+   [
+    "to",
+    25.52,
+    25.62
+   ],
+   [
+    "West",
+    25.62,
+    25.86
+   ],
+   [
+    "Germany.",
+    25.86,
+    26.22
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   28,
+   36,
+   46,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/James_Conant_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "ACME",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Conant_1932.jpg",
+   "desc": "James Conant 1932 — 1932 Press Photo Professor James Bryant Conant, Winner William Nichols Medal"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Oppenheimer_Marshall_Conant_Bradley_and_others_at_Harvard.jpg/960px-Oppenheimer_Marshall_Conant_Bradley_and_others_at_Harvard.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 499,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Oppenheimer_Marshall_Conant_Bradley_and_others_at_Harvard.jpg",
+   "desc": "Oppenheimer Marshall Conant Bradley and others at Harvard — Award of honorary degrees at Harvard. Front row from left: J. Robert Oppenheimer, Ernest Cadman Colwell, George C. Marshall, Harvard President James B. Conant, Omar N. Bradley, T. S. Eliot, James W. W"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Titration_Curve.png/960px-Titration_Curve.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 649,
+   "license": "CC BY-SA 4.0",
+   "artist": "Sshoore",
+   "page": "https://commons.wikimedia.org/wiki/File:Titration_Curve.png",
+   "desc": "Titration Curve — A titration curve depicting a titration of a weak acid of a strong base"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1933
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q49355",
+ "pron_wer": 0.044,
+ "angle": 0,
+ "source": {
+  "title": "James B. Conant",
+  "url": "https://en.wikipedia.org/wiki/James_B._Conant",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:28:30Z",
+ "trimmed": true
+}

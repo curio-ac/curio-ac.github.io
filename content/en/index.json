@@ -170,7 +170,8 @@
   "Confusion (album)",
   "nasa:1499334",
   "Canoe River train crash",
-  "Rebecca Clarke (composer)"
+  "Rebecca Clarke (composer)",
+  "nasa:1339368"
  ],
  "rejected": [
   "Chameleon",
@@ -784,6 +785,9 @@
   ],
   "Rebecca Clarke (composer)": [
    "The Forgotten Composer: Rebecca Clarke was a world-class viola virtuoso."
+  ],
+  "nasa:1339368": [
+   "Camping Trip Reveals Crater: A camper spotted a massive crater by accident."
   ]
  },
  "exhausted": []
