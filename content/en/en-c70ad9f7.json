@@ -1,0 +1,276 @@
+{
+ "id": "en-c70ad9f7",
+ "lang": "en",
+ "title": "NASA Cuts Mission Wait Times",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA is speeding up space science.",
+  "Proposals now compete on science first.",
+  "Engineers skip detailed plans initially.",
+  "Step 1 drops half the usual requirements.",
+  "Selection timelines shrink by 45 percent.",
+  "Scientists spend less time proposing ideas."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.35,
+    0.35
+   ],
+   [
+    "is",
+    0.35,
+    0.59
+   ],
+   [
+    "speeding",
+    0.59,
+    0.81
+   ],
+   [
+    "up",
+    0.81,
+    1.01
+   ],
+   [
+    "space",
+    1.09,
+    1.19
+   ],
+   [
+    "science.",
+    1.19,
+    1.55
+   ],
+   [
+    "Proposals",
+    1.95,
+    2.39
+   ],
+   [
+    "now",
+    2.39,
+    2.57
+   ],
+   [
+    "compete",
+    2.57,
+    2.89
+   ],
+   [
+    "on",
+    2.89,
+    3.15
+   ],
+   [
+    "science",
+    3.15,
+    3.43
+   ],
+   [
+    "first.",
+    3.43,
+    3.97
+   ],
+   [
+    "Engineers",
+    4.37,
+    4.67
+   ],
+   [
+    "skip",
+    4.67,
+    4.97
+   ],
+   [
+    "detailed",
+    4.97,
+    5.29
+   ],
+   [
+    "plans",
+    5.29,
+    5.67
+   ],
+   [
+    "initially.",
+    5.67,
+    6.13
+   ],
+   [
+    "Step",
+    6.69,
+    6.73
+   ],
+   [
+    "1",
+    6.73,
+    7.05
+   ],
+   [
+    "drops",
+    7.05,
+    7.23
+   ],
+   [
+    "half",
+    7.23,
+    7.55
+   ],
+   [
+    "the",
+    7.55,
+    7.73
+   ],
+   [
+    "usual",
+    7.73,
+    7.91
+   ],
+   [
+    "requirements.",
+    7.91,
+    8.36
+   ],
+   [
+    "Selection",
+    9.05,
+    9.31
+   ],
+   [
+    "timelines",
+    9.31,
+    9.79
+   ],
+   [
+    "shrink",
+    9.79,
+    10.15
+   ],
+   [
+    "by",
+    10.15,
+    10.39
+   ],
+   [
+    "45",
+    10.39,
+    10.81
+   ],
+   [
+    "percent.",
+    10.81,
+    11.23
+   ],
+   [
+    "Scientists",
+    11.81,
+    12.05
+   ],
+   [
+    "spend",
+    12.05,
+    12.45
+   ],
+   [
+    "less",
+    12.45,
+    12.65
+   ],
+   [
+    "time",
+    12.65,
+    12.97
+   ],
+   [
+    "proposing",
+    12.97,
+    13.25
+   ],
+   [
+    "ideas.",
+    13.25,
+    13.89
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   12,
+   17,
+   24,
+   30
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/First_NASA_ISINGLASS_rocket_launch.jpg/960px-First_NASA_ISINGLASS_rocket_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:First_NASA_ISINGLASS_rocket_launch.jpg",
+   "desc": "First NASA ISINGLASS rocket launch — A Black Brant IX sounding rocket launches from the Poker Flat Research Range in Alaska at 5:14 a.m. EST, Feb. 22, 2017. This is the first of two launches planned in NASA's In Situ and Groundbased Low Altitude StudieS (IS"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/A_group_of_scientists_working_in_a_laboratory_Esculab.jpg/960px-A_group_of_scientists_working_in_a_laboratory_Esculab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Esculab",
+   "page": "https://commons.wikimedia.org/wiki/File:A_group_of_scientists_working_in_a_laboratory_Esculab.jpg",
+   "desc": "A group of scientists working in a laboratory Esculab — The image shows a group of scientists working in a laboratory. The scientists are wearing lab coats and gloves. They are working on a variety of different tasks, including looking at samples under microsc"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 45,
+   "unit": "percent",
+   "label": "timelines shrink"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+ "pron_wer": 0.028,
+ "angle": 1,
+ "source": {
+  "title": "Faster to Science: A Letter to the Science Community",
+  "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T15:43:05Z",
+ "trimmed": true
+}
