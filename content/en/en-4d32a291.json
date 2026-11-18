@@ -1,0 +1,416 @@
+{
+ "id": "en-4d32a291",
+ "lang": "en",
+ "title": "The Iron Lady's Secret",
+ "cat": "history",
+ "emoji": "🗼",
+ "sentences": [
+  "Paris's icon was once criticized by intellectuals.",
+  "Gustave Eiffel’s company built the tower between 1887 and 1889.",
+  "Locals call it the Iron Lady for its wrought iron design.",
+  "It was the centerpiece for the 1889 World's Fair.",
+  "Standing 330 meters tall, it remains the tallest structure in Paris.",
+  "In 2022, 5,889,000 people visited this global cultural icon."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Paris's",
+    0.26,
+    0.58
+   ],
+   [
+    "icon",
+    0.58,
+    0.86
+   ],
+   [
+    "was",
+    0.86,
+    1.1
+   ],
+   [
+    "once",
+    1.1,
+    1.26
+   ],
+   [
+    "criticized",
+    1.26,
+    1.62
+   ],
+   [
+    "by",
+    1.62,
+    2.0
+   ],
+   [
+    "intellectuals.",
+    2.0,
+    2.62
+   ],
+   [
+    "Gustave",
+    3.26,
+    3.6
+   ],
+   [
+    "Eiffel’s",
+    3.6,
+    4.0
+   ],
+   [
+    "company",
+    4.0,
+    4.24
+   ],
+   [
+    "built",
+    4.24,
+    4.58
+   ],
+   [
+    "the",
+    4.58,
+    4.72
+   ],
+   [
+    "tower",
+    4.72,
+    4.98
+   ],
+   [
+    "between",
+    4.98,
+    5.3
+   ],
+   [
+    "1887",
+    5.3,
+    6.16
+   ],
+   [
+    "and",
+    6.16,
+    6.5
+   ],
+   [
+    "1889.",
+    6.76,
+    7.36
+   ],
+   [
+    "Locals",
+    8.02,
+    8.26
+   ],
+   [
+    "call",
+    8.26,
+    8.46
+   ],
+   [
+    "it",
+    8.46,
+    8.58
+   ],
+   [
+    "the",
+    8.58,
+    8.7
+   ],
+   [
+    "Iron",
+    8.7,
+    9.02
+   ],
+   [
+    "Lady",
+    9.02,
+    9.26
+   ],
+   [
+    "for",
+    9.26,
+    9.52
+   ],
+   [
+    "its",
+    9.52,
+    9.66
+   ],
+   [
+    "wrought",
+    9.66,
+    9.96
+   ],
+   [
+    "iron",
+    9.96,
+    10.18
+   ],
+   [
+    "design.",
+    10.18,
+    10.68
+   ],
+   [
+    "It",
+    11.18,
+    11.24
+   ],
+   [
+    "was",
+    11.24,
+    11.36
+   ],
+   [
+    "the",
+    11.36,
+    11.48
+   ],
+   [
+    "centerpiece",
+    11.48,
+    11.9
+   ],
+   [
+    "for",
+    11.9,
+    12.12
+   ],
+   [
+    "the",
+    12.12,
+    12.22
+   ],
+   [
+    "1889",
+    12.22,
+    12.94
+   ],
+   [
+    "World's",
+    12.94,
+    13.4
+   ],
+   [
+    "Fair.",
+    13.4,
+    13.74
+   ],
+   [
+    "Standing",
+    14.34,
+    14.56
+   ],
+   [
+    "330",
+    14.56,
+    15.02
+   ],
+   [
+    "meters",
+    15.02,
+    15.52
+   ],
+   [
+    "tall,",
+    15.52,
+    16.02
+   ],
+   [
+    "it",
+    16.1,
+    16.16
+   ],
+   [
+    "remains",
+    16.16,
+    16.36
+   ],
+   [
+    "the",
+    16.36,
+    16.58
+   ],
+   [
+    "tallest",
+    16.58,
+    16.78
+   ],
+   [
+    "structure",
+    16.78,
+    17.18
+   ],
+   [
+    "in",
+    17.18,
+    17.38
+   ],
+   [
+    "Paris.",
+    17.38,
+    17.7
+   ],
+   [
+    "In",
+    18.36,
+    18.46
+   ],
+   [
+    "2022,",
+    18.46,
+    19.42
+   ],
+   [
+    "5,889,000",
+    20.45,
+    21.4
+   ],
+   [
+    "people",
+    21.4,
+    21.72
+   ],
+   [
+    "visited",
+    21.72,
+    22.1
+   ],
+   [
+    "this",
+    22.1,
+    22.32
+   ],
+   [
+    "global",
+    22.32,
+    22.58
+   ],
+   [
+    "cultural",
+    22.58,
+    23.0
+   ],
+   [
+    "icon.",
+    23.0,
+    23.46
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   28,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Delaunay_-_Tour_Eiffel.jpeg/960px-Delaunay_-_Tour_Eiffel.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 904,
+   "license": "Public domain",
+   "artist": "Robert Delaunay",
+   "page": "https://commons.wikimedia.org/wiki/File:Delaunay_-_Tour_Eiffel.jpeg",
+   "desc": "Delaunay - Tour Eiffel — Graphic Champs de Mars: La Tour Rouge. 1911-1923, Robert Delaunay. Oil on canvas. The Art Institute of Chicago."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Construction_tour_eiffel7.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 953,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Construction_tour_eiffel7.JPG",
+   "desc": "Construction tour eiffel7 — Tour Eiffel : Montage du campanile (15 mars 1889)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Eiffel_tower_by_Loki.jpg/960px-Eiffel_tower_by_Loki.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Lokeswaran Kaliyappan",
+   "page": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_by_Loki.jpg",
+   "desc": "Eiffel tower by Loki — The Eiffel Tower is a world-famous open-lattice wrought-iron monument located in Paris, France."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg/960px-Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 507,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg",
+   "desc": "Exposition Universelle de Paris 1889 - Universitäts- und Landesbibliothek Darmstadt — Exposition Universelle de Paris 1889"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1000_Eiffel_tower_night_illumination_by_Pierre_Bideau_in_Paris_Photo_by_Giles_Laurent.jpg/960px-1000_Eiffel_tower_night_illumination_by_Pierre_Bideau_in_Paris_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Photo: © Giles Laurent / Illumination: © Pierre Bideau, concepteur Lumière, pour",
+   "page": "https://commons.wikimedia.org/wiki/File:1000_Eiffel_tower_night_illumination_by_Pierre_Bideau_in_Paris_Photo_by_Giles_Laurent.jpg",
+   "desc": "1000 Eiffel tower night illumination by Pierre Bideau in Paris Photo by Giles Laurent — Eiffel tower night illumination in Paris"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1887
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1889
+  },
+  {
+   "type": "compare",
+   "value": 330,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 5889000,
+   "unit": "visitors",
+   "label": "2022 annual visitors"
+  }
+ ],
+ "geo": [
+  48.858,
+  2.294
+ ],
+ "qid": "Q243",
+ "pron_wer": 0.017,
+ "angle": 2,
+ "source": {
+  "title": "Eiffel Tower",
+  "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:02:06Z",
+ "trimmed": true
+}
