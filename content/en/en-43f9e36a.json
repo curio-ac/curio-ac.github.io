@@ -1,0 +1,392 @@
+{
+ "id": "en-43f9e36a",
+ "lang": "en",
+ "title": "The Galaxy Out of Sync",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "This galaxy hides a chaotic secret.",
+  "NGC 4698 sits 55 million light-years away in the Virgo Cluster.",
+  "Unlike typical spirals, its arms hover in a ring-like structure around the perimeter.",
+  "The center contains a supermassive black hole that is actively growing.",
+  "Even weirder, its central bulge extends at a right angle to the disk.",
+  "Internal stars rotate perpendicular to everything else."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.4
+   ],
+   [
+    "galaxy",
+    0.4,
+    0.78
+   ],
+   [
+    "hides",
+    0.78,
+    1.02
+   ],
+   [
+    "a",
+    1.02,
+    1.14
+   ],
+   [
+    "chaotic",
+    1.16,
+    1.48
+   ],
+   [
+    "secret.",
+    1.48,
+    1.82
+   ],
+   [
+    "NGC",
+    2.58,
+    3.02
+   ],
+   [
+    "4698",
+    3.02,
+    3.8
+   ],
+   [
+    "sits",
+    3.8,
+    4.12
+   ],
+   [
+    "55",
+    4.12,
+    4.72
+   ],
+   [
+    "million",
+    4.72,
+    5.1
+   ],
+   [
+    "light-years",
+    5.1,
+    5.58
+   ],
+   [
+    "away",
+    5.58,
+    5.84
+   ],
+   [
+    "in",
+    5.84,
+    6.04
+   ],
+   [
+    "the",
+    6.04,
+    6.12
+   ],
+   [
+    "Virgo",
+    6.12,
+    6.38
+   ],
+   [
+    "Cluster.",
+    6.38,
+    6.88
+   ],
+   [
+    "Unlike",
+    7.44,
+    7.68
+   ],
+   [
+    "typical",
+    7.68,
+    8.0
+   ],
+   [
+    "spirals,",
+    8.0,
+    8.76
+   ],
+   [
+    "its",
+    8.82,
+    8.84
+   ],
+   [
+    "arms",
+    8.84,
+    9.14
+   ],
+   [
+    "hover",
+    9.14,
+    9.44
+   ],
+   [
+    "in",
+    9.44,
+    9.64
+   ],
+   [
+    "a",
+    9.64,
+    9.74
+   ],
+   [
+    "ring-like",
+    9.74,
+    10.16
+   ],
+   [
+    "structure",
+    10.16,
+    10.6
+   ],
+   [
+    "around",
+    10.6,
+    10.9
+   ],
+   [
+    "the",
+    10.9,
+    11.08
+   ],
+   [
+    "perimeter.",
+    11.08,
+    11.48
+   ],
+   [
+    "The",
+    12.16,
+    12.24
+   ],
+   [
+    "center",
+    12.32,
+    12.48
+   ],
+   [
+    "contains",
+    12.48,
+    12.9
+   ],
+   [
+    "a",
+    12.9,
+    13.12
+   ],
+   [
+    "supermassive",
+    13.12,
+    13.67
+   ],
+   [
+    "black",
+    13.82,
+    14.04
+   ],
+   [
+    "hole",
+    14.04,
+    14.38
+   ],
+   [
+    "that",
+    14.38,
+    14.54
+   ],
+   [
+    "is",
+    14.54,
+    14.66
+   ],
+   [
+    "actively",
+    14.66,
+    15.06
+   ],
+   [
+    "growing.",
+    15.06,
+    15.56
+   ],
+   [
+    "Even",
+    16.1,
+    16.26
+   ],
+   [
+    "weirder,",
+    16.26,
+    16.86
+   ],
+   [
+    "its",
+    16.92,
+    17.0
+   ],
+   [
+    "central",
+    17.0,
+    17.3
+   ],
+   [
+    "bulge",
+    17.3,
+    17.68
+   ],
+   [
+    "extends",
+    17.68,
+    18.04
+   ],
+   [
+    "at",
+    18.04,
+    18.28
+   ],
+   [
+    "a",
+    18.28,
+    18.34
+   ],
+   [
+    "right",
+    18.34,
+    18.52
+   ],
+   [
+    "angle",
+    18.52,
+    18.82
+   ],
+   [
+    "to",
+    18.82,
+    18.98
+   ],
+   [
+    "the",
+    18.98,
+    19.1
+   ],
+   [
+    "disk.",
+    19.1,
+    19.48
+   ],
+   [
+    "Internal",
+    19.98,
+    20.22
+   ],
+   [
+    "stars",
+    20.22,
+    20.58
+   ],
+   [
+    "rotate",
+    20.58,
+    20.96
+   ],
+   [
+    "perpendicular",
+    20.96,
+    21.42
+   ],
+   [
+    "to",
+    21.42,
+    21.92
+   ],
+   [
+    "everything",
+    21.94,
+    22.22
+   ],
+   [
+    "else.",
+    22.22,
+    22.52
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   30,
+   41,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_galaxy_spinning_out_of_sync_ESA528760.jpg/960px-A_galaxy_spinning_out_of_sync_ESA528760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 731,
+   "license": "CC BY 4.0",
+   "artist": "ESA/Hubble &amp; NASA, D. Thilker, the MAUVE-HST Team",
+   "page": "https://commons.wikimedia.org/wiki/File:A_galaxy_spinning_out_of_sync_ESA528760.jpg",
+   "desc": "A galaxy spinning out of sync ESA528760 — Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Vir"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 90,
+   "unit": "degrees",
+   "label": "right angle"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-spots-an-out-of-sync-galaxy/",
+ "pron_wer": 0.016,
+ "angle": 1,
+ "source": {
+  "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-an-out-of-sync-galaxy/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:52:32Z",
+ "trimmed": true
+}

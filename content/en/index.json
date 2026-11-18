@@ -157,7 +157,8 @@
   "1999 Football League Second Division play-off final",
   "nasa:1505938",
   "Crush (video game)",
-  "British military intervention in the Sierra Leone Civil War"
+  "British military intervention in the Sierra Leone Civil War",
+  "nasa:1473102"
  ],
  "rejected": [
   "Chameleon",
@@ -193,7 +194,8 @@
   "nasa:1350129",
   "nasa:1277717",
   "1950 United States Senate election in California",
-  "nasa:1505698"
+  "nasa:1505698",
+  "Arnold Bennett"
  ],
  "angles": {
   "Blue whale": [
@@ -717,6 +719,9 @@
   ],
   "British military intervention in the Sierra Leone Civil War": [
    "Operation Palliser: Sierra Leone: Britain launched Operation Palliser on 7 May 2000."
+  ],
+  "nasa:1473102": [
+   "Texas Cotton Fields Dying: Cotton crops in Texas are dying."
   ]
  },
  "exhausted": []
