@@ -1,0 +1,327 @@
+{
+ "id": "he-5d1aee61",
+ "lang": "he",
+ "title": "היצירה הגותית של שארטר",
+ "cat": "art",
+ "emoji": "⛪",
+ "sentences": [
+  "קתדרלת שארטר היא יצירת מופת אדריכלית.",
+  "היא נמצאת כ-80 ק\"מ דרומית-מערבית לפריז.",
+  "בניית המבנה החדש החלה ב-1145.",
+  "שרפה שפרצה ב-1194 כילתה את רוב הקתדרלה.",
+  "שאר הקתדרלה נבנתה מחדש בין 1194 ל-1220.",
+  "מאז 876 שמורה בה טוניקה של מרים אם ישו."
+ ],
+ "tim": {
+  "w": [
+   [
+    "קתדרלת",
+    0.12,
+    0.54
+   ],
+   [
+    "שארטר",
+    0.54,
+    1.14
+   ],
+   [
+    "היא",
+    1.14,
+    1.48
+   ],
+   [
+    "יצירת",
+    1.48,
+    1.94
+   ],
+   [
+    "מופת",
+    1.94,
+    2.4
+   ],
+   [
+    "אדריכלית.",
+    2.4,
+    2.7
+   ],
+   [
+    "היא",
+    3.66,
+    3.76
+   ],
+   [
+    "נמצאת",
+    3.76,
+    4.16
+   ],
+   [
+    "כ-80",
+    4.24,
+    4.86
+   ],
+   [
+    "ק\"מ",
+    4.86,
+    5.58
+   ],
+   [
+    "דרומית-מערבית",
+    5.58,
+    6.54
+   ],
+   [
+    "לפריז.",
+    6.54,
+    6.64
+   ],
+   [
+    "בניית",
+    7.82,
+    8.12
+   ],
+   [
+    "המבנה",
+    8.12,
+    8.48
+   ],
+   [
+    "החדש",
+    8.48,
+    9.02
+   ],
+   [
+    "החלה",
+    9.02,
+    9.48
+   ],
+   [
+    "ב-1145.",
+    9.48,
+    10.63
+   ],
+   [
+    "שרפה",
+    12.34,
+    12.44
+   ],
+   [
+    "שפרצה",
+    12.44,
+    12.92
+   ],
+   [
+    "ב-1194",
+    12.92,
+    14.3
+   ],
+   [
+    "כילתה",
+    14.3,
+    15.26
+   ],
+   [
+    "את",
+    15.26,
+    15.38
+   ],
+   [
+    "רוב",
+    15.42,
+    15.66
+   ],
+   [
+    "הקתדרלה.",
+    15.66,
+    15.86
+   ],
+   [
+    "שאר",
+    17.04,
+    17.32
+   ],
+   [
+    "הקתדרלה",
+    17.32,
+    17.88
+   ],
+   [
+    "נבנתה",
+    17.88,
+    18.36
+   ],
+   [
+    "מחדש",
+    18.36,
+    18.9
+   ],
+   [
+    "בין",
+    18.9,
+    19.18
+   ],
+   [
+    "1194",
+    19.24,
+    20.42
+   ],
+   [
+    "ל-1220.",
+    20.42,
+    21.77
+   ],
+   [
+    "מאז",
+    23.04,
+    23.36
+   ],
+   [
+    "876",
+    23.36,
+    24.66
+   ],
+   [
+    "שמורה",
+    24.66,
+    25.48
+   ],
+   [
+    "בה",
+    25.48,
+    25.66
+   ],
+   [
+    "טוניקה",
+    25.66,
+    26.3
+   ],
+   [
+    "של",
+    26.3,
+    26.44
+   ],
+   [
+    "מרים",
+    26.44,
+    26.82
+   ],
+   [
+    "אם",
+    27.3,
+    27.4
+   ],
+   [
+    "ישו.",
+    27.4,
+    27.58
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   12,
+   17,
+   24,
+   31
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Cath%C3%A9drale_Notre-Dame_%28Chartres%29_%282%29.jpg/960px-Cath%C3%A9drale_Notre-Dame_%28Chartres%29_%282%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 470,
+   "license": "CC BY-SA 4.0",
+   "artist": "Gzen92",
+   "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_(Chartres)_(2).jpg",
+   "desc": "Cathédrale Notre-Dame (Chartres) (2) — Chartres Cathedral (Eure-et-Loir, France)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Atlas_topographique_des_environs_de_Paris_-_No._13._Chartres_-_David_Rumsey.png/960px-Atlas_topographique_des_environs_de_Paris_-_No._13._Chartres_-_David_Rumsey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 466,
+   "license": "Public domain",
+   "artist": "Guillaume Coutans &amp; Charles Picquet",
+   "page": "https://commons.wikimedia.org/wiki/File:Atlas_topographique_des_environs_de_Paris_-_No._13._Chartres_-_David_Rumsey.png",
+   "desc": "Atlas topographique des environs de Paris - No. 13. Chartres - David Rumsey — Topographical Atlas Paris and surroundings, here in 16 separate dissected colored sheets (see our other copy in bound atlas form, uncolored 13299.000). Dedicated and presented to the"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/ChartresCathedral-Cross-Section-high-res.jpg/960px-ChartresCathedral-Cross-Section-high-res.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 619,
+   "license": "Public domain",
+   "artist": "Jean-Baptiste-Antoine Lassus - Monographie de la Cathédrale de Chartres - Atlas",
+   "page": "https://commons.wikimedia.org/wiki/File:ChartresCathedral-Cross-Section-high-res.jpg",
+   "desc": "ChartresCathedral-Cross-Section-high-res — Chartres Cathedral, High Gothic style, 1134-1260, Chartres, France"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Chartres%2C_Cath%C3%A9drale_Notre-Dame-F_149.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 499,
+   "license": "CC BY-SA 3.0",
+   "artist": "PMRMaeyaert",
+   "page": "https://commons.wikimedia.org/wiki/File:Chartres,_Cath%C3%A9drale_Notre-Dame-F_149.jpg",
+   "desc": "Chartres, Cathédrale Notre-Dame-F 149 — This building is indexed in the base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the reference PA00096993 . brezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperan"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Cathedral-chartres-2006_stained-glass-window_detail_01.jpeg/960px-Cathedral-chartres-2006_stained-glass-window_detail_01.jpeg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "CC BY-SA 2.5",
+   "artist": "Jjrodriguezp (Juan J. Rodriguez)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cathedral-chartres-2006_stained-glass-window_detail_01.jpeg",
+   "desc": "Cathedral-chartres-2006 stained-glass-window detail 01 — Cathedral of Chartres / Stained glass window detail (13thC): the history of Carolus Magnus / 35mm color film."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 1145
+  },
+  {
+   "type": "timeline",
+   "year": 1194
+  },
+  {
+   "type": "timeline",
+   "year": 1220
+  },
+  {
+   "type": "timeline",
+   "year": 876
+  }
+ ],
+ "geo": [
+  48.448,
+  1.488
+ ],
+ "qid": "Q180274",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "קתדרלת שארטר",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%AA%D7%93%D7%A8%D7%9C%D7%AA_%D7%A9%D7%90%D7%A8%D7%98%D7%A8",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:22:45Z",
+ "trimmed": true
+}
