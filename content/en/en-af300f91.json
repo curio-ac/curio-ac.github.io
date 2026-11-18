@@ -1,0 +1,395 @@
+{
+ "id": "en-af300f91",
+ "lang": "en",
+ "title": "The Sci-Fi Purple Haze",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "A sci-fi novel inspired \"Purple Haze.\"",
+  "The story featured a distant planet bathed in bizarre purple radiance.",
+  "Real auroras also glow because of charged particles meeting Earth's atmosphere.",
+  "Oxygen produces green and red lights at different altitudes.",
+  "Excited nitrogen gas adds vibrant blue or pink hues.",
+  "These glowing gases mix, making the auroras look truly purple."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.12,
+    0.12
+   ],
+   [
+    "sci-fi",
+    0.12,
+    0.38
+   ],
+   [
+    "novel",
+    0.38,
+    0.68
+   ],
+   [
+    "inspired",
+    0.68,
+    1.18
+   ],
+   [
+    "\"Purple",
+    1.18,
+    1.66
+   ],
+   [
+    "Haze.\"",
+    1.66,
+    1.9
+   ],
+   [
+    "The",
+    2.56,
+    2.56
+   ],
+   [
+    "story",
+    2.56,
+    2.86
+   ],
+   [
+    "featured",
+    2.86,
+    3.22
+   ],
+   [
+    "a",
+    3.22,
+    3.4
+   ],
+   [
+    "distant",
+    3.4,
+    3.66
+   ],
+   [
+    "planet",
+    3.66,
+    4.08
+   ],
+   [
+    "bathed",
+    4.08,
+    4.7
+   ],
+   [
+    "in",
+    4.7,
+    4.82
+   ],
+   [
+    "bizarre",
+    4.82,
+    5.16
+   ],
+   [
+    "purple",
+    5.16,
+    5.48
+   ],
+   [
+    "radiance.",
+    5.48,
+    5.98
+   ],
+   [
+    "Real",
+    6.8,
+    6.8
+   ],
+   [
+    "auroras",
+    6.8,
+    7.26
+   ],
+   [
+    "also",
+    7.26,
+    7.6
+   ],
+   [
+    "glow",
+    7.6,
+    7.88
+   ],
+   [
+    "because",
+    7.88,
+    8.22
+   ],
+   [
+    "of",
+    8.22,
+    8.38
+   ],
+   [
+    "charged",
+    8.38,
+    8.64
+   ],
+   [
+    "particles",
+    8.64,
+    9.22
+   ],
+   [
+    "meeting",
+    9.22,
+    9.5
+   ],
+   [
+    "Earth's",
+    9.5,
+    9.96
+   ],
+   [
+    "atmosphere.",
+    9.96,
+    10.54
+   ],
+   [
+    "Oxygen",
+    10.86,
+    11.26
+   ],
+   [
+    "produces",
+    11.26,
+    11.68
+   ],
+   [
+    "green",
+    11.68,
+    12.0
+   ],
+   [
+    "and",
+    12.0,
+    12.16
+   ],
+   [
+    "red",
+    12.16,
+    12.32
+   ],
+   [
+    "lights",
+    12.32,
+    12.62
+   ],
+   [
+    "at",
+    12.62,
+    12.78
+   ],
+   [
+    "different",
+    12.78,
+    13.02
+   ],
+   [
+    "altitudes.",
+    13.02,
+    13.62
+   ],
+   [
+    "Excited",
+    14.2,
+    14.58
+   ],
+   [
+    "nitrogen",
+    14.58,
+    14.92
+   ],
+   [
+    "gas",
+    14.92,
+    15.34
+   ],
+   [
+    "adds",
+    15.34,
+    15.68
+   ],
+   [
+    "vibrant",
+    15.68,
+    16.02
+   ],
+   [
+    "blue",
+    16.02,
+    16.38
+   ],
+   [
+    "or",
+    16.38,
+    16.56
+   ],
+   [
+    "pink",
+    16.56,
+    16.78
+   ],
+   [
+    "hues.",
+    16.78,
+    17.32
+   ],
+   [
+    "These",
+    17.64,
+    17.76
+   ],
+   [
+    "glowing",
+    17.76,
+    18.06
+   ],
+   [
+    "gases",
+    18.06,
+    18.52
+   ],
+   [
+    "mix,",
+    18.52,
+    19.02
+   ],
+   [
+    "making",
+    19.32,
+    19.52
+   ],
+   [
+    "the",
+    19.52,
+    19.72
+   ],
+   [
+    "auroras",
+    19.72,
+    20.14
+   ],
+   [
+    "look",
+    20.14,
+    20.3
+   ],
+   [
+    "truly",
+    20.3,
+    20.6
+   ],
+   [
+    "purple.",
+    20.6,
+    21.1
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   28,
+   37,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Purple_Haze_Aurora_%281342478%29.jpg/960px-Purple_Haze_Aurora_%281342478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Purple_Haze_Aurora_(1342478).jpg",
+   "desc": "Purple Haze Aurora (1342478) — Astronaut photograph ISS075-E-88592 was acquired on September 7, 2026, with a Nikon Z9 digital camera using a focal length of 15 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Scien"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Iss072e469441-cropped-aurora-borealis.jpg/960px-Iss072e469441-cropped-aurora-borealis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 438,
+   "license": "Public domain",
+   "artist": "NASA JSC // DONALD PETTIT",
+   "page": "https://commons.wikimedia.org/wiki/File:Iss072e469441-cropped-aurora-borealis.jpg",
+   "desc": "Iss072e469441-cropped-aurora-borealis — A still image of red-green aurora borealis taken as part of a timelapse. Image has been heavily processed to remove noise."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Lights_in_the_Desert.jpg/960px-Northern_Lights_in_the_Desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "TheRockGraduate",
+   "page": "https://commons.wikimedia.org/wiki/File:Northern_Lights_in_the_Desert.jpg",
+   "desc": "Northern Lights in the Desert — The photograph of this aurora borealis was captured during a field trip conducted by Portland State University’s geology department on May 11th of 2024. A range of colors can be seen including shades of green, blue, and "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Purple_Haze_Aurora_%281342478_-_lrg%29.jpg/960px-Purple_Haze_Aurora_%281342478_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Purple_Haze_Aurora_(1342478_-_lrg).jpg",
+   "desc": "Purple Haze Aurora (1342478 - lrg) — Astronaut photograph ISS075-E-88592 was acquired on September 7, 2026, with a Nikon Z9 digital camera using a focal length of 15 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Scien"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1967
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 120,
+   "unit": "miles",
+   "label": "altitude range"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/purple-haze-aurora/",
+ "pron_wer": 0.017,
+ "angle": 2,
+ "source": {
+  "title": "Purple Haze Aurora",
+  "url": "https://science.nasa.gov/earth/earth-observatory/purple-haze-aurora/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:25:37Z",
+ "trimmed": true
+}
