@@ -1,0 +1,410 @@
+{
+ "id": "en-2882289f",
+ "lang": "en",
+ "title": "Farming in a Delta",
+ "cat": "geography",
+ "emoji": "🌾",
+ "sentences": [
+  "A giant agricultural island sits in a delta.",
+  "The Saskatchewan River Delta is usually too wet to farm.",
+  "But west of The Pas, 40,000 hectares of fields defy the surrounding marshes.",
+  "Farmers here grow canola and spring wheat.",
+  "The land is so soggy that farming depends on diking and pumping water.",
+  "It is a complex agricultural outpost surrounded by wild wetlands."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.34,
+    0.34
+   ],
+   [
+    "giant",
+    0.34,
+    0.68
+   ],
+   [
+    "agricultural",
+    0.68,
+    1.2
+   ],
+   [
+    "island",
+    1.2,
+    1.72
+   ],
+   [
+    "sits",
+    1.72,
+    1.98
+   ],
+   [
+    "in",
+    1.98,
+    2.18
+   ],
+   [
+    "a",
+    2.18,
+    2.24
+   ],
+   [
+    "delta.",
+    2.24,
+    2.42
+   ],
+   [
+    "The",
+    3.1,
+    3.1
+   ],
+   [
+    "Saskatchewan",
+    3.1,
+    3.74
+   ],
+   [
+    "River",
+    3.74,
+    3.92
+   ],
+   [
+    "Delta",
+    3.92,
+    4.22
+   ],
+   [
+    "is",
+    4.22,
+    4.5
+   ],
+   [
+    "usually",
+    4.5,
+    4.86
+   ],
+   [
+    "too",
+    4.86,
+    5.1
+   ],
+   [
+    "wet",
+    5.1,
+    5.3
+   ],
+   [
+    "to",
+    5.3,
+    5.46
+   ],
+   [
+    "farm.",
+    5.46,
+    5.78
+   ],
+   [
+    "But",
+    6.2,
+    6.28
+   ],
+   [
+    "west",
+    6.28,
+    6.48
+   ],
+   [
+    "of",
+    6.48,
+    6.64
+   ],
+   [
+    "The",
+    6.64,
+    6.72
+   ],
+   [
+    "Pas,",
+    6.72,
+    7.12
+   ],
+   [
+    "40,000",
+    7.36,
+    7.86
+   ],
+   [
+    "hectares",
+    7.86,
+    8.24
+   ],
+   [
+    "of",
+    8.24,
+    8.34
+   ],
+   [
+    "fields",
+    8.34,
+    8.58
+   ],
+   [
+    "defy",
+    8.58,
+    9.04
+   ],
+   [
+    "the",
+    9.04,
+    9.14
+   ],
+   [
+    "surrounding",
+    9.14,
+    9.46
+   ],
+   [
+    "marshes.",
+    9.46,
+    9.92
+   ],
+   [
+    "Farmers",
+    10.48,
+    10.78
+   ],
+   [
+    "here",
+    10.78,
+    10.92
+   ],
+   [
+    "grow",
+    10.92,
+    11.16
+   ],
+   [
+    "canola",
+    11.16,
+    11.56
+   ],
+   [
+    "and",
+    11.56,
+    11.7
+   ],
+   [
+    "spring",
+    11.7,
+    11.88
+   ],
+   [
+    "wheat.",
+    11.88,
+    12.22
+   ],
+   [
+    "The",
+    12.68,
+    12.7
+   ],
+   [
+    "land",
+    12.7,
+    12.9
+   ],
+   [
+    "is",
+    12.9,
+    13.08
+   ],
+   [
+    "so",
+    13.08,
+    13.24
+   ],
+   [
+    "soggy",
+    13.24,
+    13.66
+   ],
+   [
+    "that",
+    13.66,
+    13.76
+   ],
+   [
+    "farming",
+    13.76,
+    14.04
+   ],
+   [
+    "depends",
+    14.2,
+    14.3
+   ],
+   [
+    "on",
+    14.3,
+    14.6
+   ],
+   [
+    "diking",
+    14.6,
+    14.94
+   ],
+   [
+    "and",
+    14.94,
+    15.06
+   ],
+   [
+    "pumping",
+    15.06,
+    15.28
+   ],
+   [
+    "water.",
+    15.28,
+    15.74
+   ],
+   [
+    "It",
+    16.08,
+    16.16
+   ],
+   [
+    "is",
+    16.16,
+    16.26
+   ],
+   [
+    "a",
+    16.26,
+    16.36
+   ],
+   [
+    "complex",
+    16.36,
+    16.72
+   ],
+   [
+    "agricultural",
+    16.72,
+    17.38
+   ],
+   [
+    "outpost",
+    17.38,
+    17.96
+   ],
+   [
+    "surrounded",
+    17.96,
+    18.42
+   ],
+   [
+    "by",
+    18.42,
+    18.7
+   ],
+   [
+    "wild",
+    18.7,
+    18.98
+   ],
+   [
+    "wetlands.",
+    18.98,
+    19.42
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   31,
+   38,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_%281441215_-_20260921%29.jpg/960px-An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_%281441215_-_20260921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 647,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_(1441215_-_20260921).jpg",
+   "desc": "An Agricultural “Island” in the Saskatchewan River Delta (1441215 - 20260921) — Farmland across the Carrot River Valley, Manitoba’s northernmost agricultural area, moves from summer growth into harvest season in images captured on July 2, 2026 (left), and Sept"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_%281441215_-_20260921_lrg%29.jpg/960px-An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_%281441215_-_20260921_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 601,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_(1441215_-_20260921_lrg).jpg",
+   "desc": "An Agricultural “Island” in the Saskatchewan River Delta (1441215 - 20260921 lrg) — Farmland across the Carrot River Valley, Manitoba’s northernmost agricultural area, moves from summer growth into harvest season in images captured on July 2, 2026 (left), and "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_%281441215_-_2_20260702%29.jpg/960px-An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_%281441215_-_2_20260702%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 647,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Agricultural_%E2%80%9CIsland%E2%80%9D_in_the_Saskatchewan_River_Delta_(1441215_-_2_20260702).jpg",
+   "desc": "An Agricultural “Island” in the Saskatchewan River Delta (1441215 - 2 20260702) — Farmland across the Carrot River Valley, Manitoba’s northernmost agricultural area, moves from summer growth into harvest season in images captured on July 2, 2026 (left), and Se"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 40000,
+   "unit": "hectares",
+   "label": "agricultural fields"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+  "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:31:09Z",
+ "trimmed": true
+}

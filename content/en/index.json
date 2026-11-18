@@ -160,7 +160,8 @@
   "British military intervention in the Sierra Leone Civil War",
   "nasa:1473102",
   "nasa:1386258",
-  "Armed Forces Special Weapons Project"
+  "Armed Forces Special Weapons Project",
+  "Paul Collingwood"
  ],
  "rejected": [
   "Chameleon",
@@ -200,7 +201,8 @@
   "Arnold Bennett",
   "Damageplan",
   "Space Shuttle Columbia disaster",
-  "nasa:1508114"
+  "nasa:1508114",
+  "William Henry Bury"
  ],
  "angles": {
   "Blue whale": [
@@ -738,6 +740,9 @@
   ],
   "Armed Forces Special Weapons Project": [
    "Handling Early Nuclear Weapons: Early nuclear weapons couldn't be stored fully assembled."
+  ],
+  "Paul Collingwood": [
+   "England's First T20 Captain: He scored the winning run for England."
   ]
  },
  "exhausted": []
