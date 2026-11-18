@@ -140,7 +140,8 @@
   "After the Deluge (painting)",
   "Asimov's Science Fiction",
   "nasa:1441687",
-  "Carrow Road"
+  "Carrow Road",
+  "Steve Jobs"
  ],
  "rejected": [
   "Chameleon",
@@ -638,6 +639,9 @@
   ],
   "Carrow Road": [
    "Built in just 82 days!: This English stadium was built in just 82 days!"
+  ],
+  "Steve Jobs": [
+   "The Wild Life of Steve Jobs: Steve Jobs was fired by his board."
   ]
  },
  "exhausted": []

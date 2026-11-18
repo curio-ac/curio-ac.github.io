@@ -1,0 +1,393 @@
+{
+ "id": "en-9684cfd3",
+ "lang": "en",
+ "title": "Lake Powell's Shrinking Waters",
+ "cat": "geography",
+ "emoji": "🏜️",
+ "sentences": [
+  "Lake Powell has hit record-low water levels.",
+  "By September 2026, the reservoir dropped to 3,517.24 feet.",
+  "A meager winter snowpack across the Upper Colorado Basin fueled this decline.",
+  "The lake barely stays above the elevation needed for hydroelectric power.",
+  "Authorities are now releasing water from other reservoirs to stabilize the dam.",
+  "This megadrought continues to strain water resources for 40 million people."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Lake",
+    0.35,
+    0.35
+   ],
+   [
+    "Powell",
+    0.41,
+    0.71
+   ],
+   [
+    "has",
+    0.71,
+    0.97
+   ],
+   [
+    "hit",
+    0.97,
+    1.17
+   ],
+   [
+    "record-low",
+    1.23,
+    1.87
+   ],
+   [
+    "water",
+    1.87,
+    2.21
+   ],
+   [
+    "levels.",
+    2.21,
+    2.31
+   ],
+   [
+    "By",
+    3.09,
+    3.09
+   ],
+   [
+    "September",
+    3.09,
+    3.31
+   ],
+   [
+    "2026,",
+    3.31,
+    3.86
+   ],
+   [
+    "the",
+    4.47,
+    4.49
+   ],
+   [
+    "reservoir",
+    4.49,
+    4.77
+   ],
+   [
+    "dropped",
+    4.79,
+    5.11
+   ],
+   [
+    "to",
+    5.11,
+    5.33
+   ],
+   [
+    "3,517.24",
+    5.53,
+    7.77
+   ],
+   [
+    "feet.",
+    7.77,
+    8.57
+   ],
+   [
+    "A",
+    9.05,
+    9.15
+   ],
+   [
+    "meager",
+    9.15,
+    9.43
+   ],
+   [
+    "winter",
+    9.43,
+    9.73
+   ],
+   [
+    "snowpack",
+    9.73,
+    10.21
+   ],
+   [
+    "across",
+    10.39,
+    10.49
+   ],
+   [
+    "the",
+    10.49,
+    10.69
+   ],
+   [
+    "Upper",
+    10.75,
+    10.85
+   ],
+   [
+    "Colorado",
+    10.85,
+    11.21
+   ],
+   [
+    "Basin",
+    11.21,
+    11.73
+   ],
+   [
+    "fueled",
+    11.73,
+    12.05
+   ],
+   [
+    "this",
+    12.05,
+    12.37
+   ],
+   [
+    "decline.",
+    12.37,
+    12.77
+   ],
+   [
+    "The",
+    13.43,
+    13.47
+   ],
+   [
+    "lake",
+    13.47,
+    13.67
+   ],
+   [
+    "barely",
+    13.67,
+    13.89
+   ],
+   [
+    "stays",
+    13.89,
+    14.15
+   ],
+   [
+    "above",
+    14.15,
+    14.37
+   ],
+   [
+    "the",
+    14.37,
+    14.51
+   ],
+   [
+    "elevation",
+    14.51,
+    14.87
+   ],
+   [
+    "needed",
+    14.87,
+    15.17
+   ],
+   [
+    "for",
+    15.17,
+    15.39
+   ],
+   [
+    "hydroelectric",
+    15.39,
+    15.97
+   ],
+   [
+    "power.",
+    15.97,
+    16.87
+   ],
+   [
+    "Authorities",
+    17.17,
+    17.49
+   ],
+   [
+    "are",
+    17.49,
+    17.59
+   ],
+   [
+    "now",
+    17.59,
+    17.69
+   ],
+   [
+    "releasing",
+    17.69,
+    18.05
+   ],
+   [
+    "water",
+    18.05,
+    18.37
+   ],
+   [
+    "from",
+    18.37,
+    18.61
+   ],
+   [
+    "other",
+    18.61,
+    18.95
+   ],
+   [
+    "reservoirs",
+    18.95,
+    19.59
+   ],
+   [
+    "to",
+    19.59,
+    19.71
+   ],
+   [
+    "stabilize",
+    19.71,
+    20.03
+   ],
+   [
+    "the",
+    20.03,
+    20.25
+   ],
+   [
+    "dam.",
+    20.25,
+    20.49
+   ],
+   [
+    "This",
+    21.09,
+    21.21
+   ],
+   [
+    "megadrought",
+    21.21,
+    21.67
+   ],
+   [
+    "continues",
+    21.67,
+    22.25
+   ],
+   [
+    "to",
+    22.25,
+    22.49
+   ],
+   [
+    "strain",
+    22.49,
+    22.69
+   ],
+   [
+    "water",
+    22.69,
+    22.91
+   ],
+   [
+    "resources",
+    22.91,
+    23.35
+   ],
+   [
+    "for",
+    23.35,
+    23.69
+   ],
+   [
+    "40",
+    23.87,
+    24.05
+   ],
+   [
+    "million",
+    24.05,
+    24.41
+   ],
+   [
+    "people.",
+    24.41,
+    24.57
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   28,
+   39,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3517.24,
+   "unit": "feet",
+   "label": "Record-low level"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3490,
+   "unit": "feet",
+   "label": "Power pool elevation"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 40,
+   "unit": "million",
+   "label": "People affected"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
+ "pron_wer": 0.062,
+ "angle": 0,
+ "source": {
+  "title": "Lake Powell Drops to Record-Low Levels",
+  "url": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:21:06Z",
+ "trimmed": true
+}
