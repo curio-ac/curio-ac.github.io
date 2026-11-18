@@ -1,0 +1,367 @@
+{
+ "id": "en-7b904b01",
+ "lang": "en",
+ "title": "The Origin of Nepotism",
+ "cat": "history",
+ "emoji": "⛪",
+ "sentences": [
+  "The word nepotism comes from cardinal-nephews.",
+  "A cardinal-nephew was a relative elevated by a pope.",
+  "This practice began in the Middle Ages.",
+  "It reached its peak in the 16th and 17th centuries.",
+  "Renaissance popes who created cardinals appointed relatives.",
+  "The practice ended in 1692 with a papal bull.",
+  "It was abolished after seven centuries of history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.32,
+    0.32
+   ],
+   [
+    "word",
+    0.32,
+    0.5
+   ],
+   [
+    "nepotism",
+    0.5,
+    1.04
+   ],
+   [
+    "comes",
+    1.04,
+    1.28
+   ],
+   [
+    "from",
+    1.28,
+    1.56
+   ],
+   [
+    "cardinal-nephews.",
+    1.56,
+    2.14
+   ],
+   [
+    "A",
+    3.0,
+    3.0
+   ],
+   [
+    "cardinal-nephew",
+    3.0,
+    3.58
+   ],
+   [
+    "was",
+    3.58,
+    3.72
+   ],
+   [
+    "a",
+    3.72,
+    3.84
+   ],
+   [
+    "relative",
+    3.84,
+    4.04
+   ],
+   [
+    "elevated",
+    4.04,
+    4.4
+   ],
+   [
+    "by",
+    4.4,
+    4.74
+   ],
+   [
+    "a",
+    4.74,
+    4.84
+   ],
+   [
+    "pope.",
+    4.84,
+    4.94
+   ],
+   [
+    "This",
+    5.52,
+    5.6
+   ],
+   [
+    "practice",
+    5.6,
+    5.94
+   ],
+   [
+    "began",
+    5.94,
+    6.26
+   ],
+   [
+    "in",
+    6.26,
+    6.46
+   ],
+   [
+    "the",
+    6.46,
+    6.52
+   ],
+   [
+    "Middle",
+    6.52,
+    6.66
+   ],
+   [
+    "Ages.",
+    6.66,
+    7.0
+   ],
+   [
+    "It",
+    7.34,
+    7.4
+   ],
+   [
+    "reached",
+    7.4,
+    7.62
+   ],
+   [
+    "its",
+    7.62,
+    7.78
+   ],
+   [
+    "peak",
+    7.9,
+    8.02
+   ],
+   [
+    "in",
+    8.02,
+    8.18
+   ],
+   [
+    "the",
+    8.18,
+    8.26
+   ],
+   [
+    "16th",
+    8.26,
+    8.74
+   ],
+   [
+    "and",
+    8.74,
+    8.82
+   ],
+   [
+    "17th",
+    8.82,
+    9.58
+   ],
+   [
+    "centuries.",
+    9.58,
+    9.68
+   ],
+   [
+    "Renaissance",
+    10.2,
+    10.4
+   ],
+   [
+    "popes",
+    10.4,
+    10.96
+   ],
+   [
+    "who",
+    10.96,
+    11.04
+   ],
+   [
+    "created",
+    11.04,
+    11.3
+   ],
+   [
+    "cardinals",
+    11.3,
+    11.76
+   ],
+   [
+    "appointed",
+    11.76,
+    12.08
+   ],
+   [
+    "relatives.",
+    12.08,
+    12.62
+   ],
+   [
+    "The",
+    13.12,
+    13.14
+   ],
+   [
+    "practice",
+    13.14,
+    13.4
+   ],
+   [
+    "ended",
+    13.4,
+    13.68
+   ],
+   [
+    "in",
+    13.68,
+    13.86
+   ],
+   [
+    "1692",
+    13.86,
+    14.56
+   ],
+   [
+    "with",
+    14.56,
+    14.88
+   ],
+   [
+    "a",
+    14.88,
+    15.0
+   ],
+   [
+    "papal",
+    15.02,
+    15.28
+   ],
+   [
+    "bull.",
+    15.28,
+    15.68
+   ],
+   [
+    "It",
+    15.92,
+    15.98
+   ],
+   [
+    "was",
+    15.98,
+    16.08
+   ],
+   [
+    "abolished",
+    16.08,
+    16.5
+   ],
+   [
+    "after",
+    16.5,
+    16.72
+   ],
+   [
+    "seven",
+    16.72,
+    17.02
+   ],
+   [
+    "centuries",
+    17.02,
+    17.36
+   ],
+   [
+    "of",
+    17.36,
+    17.62
+   ],
+   [
+    "history.",
+    17.62,
+    18.04
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   22,
+   32,
+   39,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 16,
+   "unit": "century",
+   "label": "peak of practice"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1692
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "centuries",
+   "label": "practice duration"
+  }
+ ],
+ "geo": null,
+ "qid": "Q890269",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Cardinal-nephew",
+  "url": "https://en.wikipedia.org/wiki/Cardinal-nephew",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:33:39Z",
+ "trimmed": true
+}

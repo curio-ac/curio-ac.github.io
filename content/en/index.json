@@ -171,7 +171,8 @@
   "nasa:1499334",
   "Canoe River train crash",
   "Rebecca Clarke (composer)",
-  "nasa:1339368"
+  "nasa:1339368",
+  "James B. Conant"
  ],
  "rejected": [
   "Chameleon",
@@ -788,6 +789,9 @@
   ],
   "nasa:1339368": [
    "Camping Trip Reveals Crater: A camper spotted a massive crater by accident."
+  ],
+  "James B. Conant": [
+   "The Poison Gas Harvard President: He developed poison gas for the Army."
   ]
  },
  "exhausted": []
