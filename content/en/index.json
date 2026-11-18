@@ -185,7 +185,8 @@
   "Carousel (musical)",
   "Destiny's Child",
   "nasa:1509805",
-  "nasa:1472636"
+  "nasa:1472636",
+  "American Cream Draft"
  ],
  "rejected": [
   "Chameleon",
@@ -857,6 +858,9 @@
   ],
   "nasa:1472636": [
    "Curiosity Captures Martian Dawn: NASA's Curiosity captured dawn breaking on Mars."
+  ],
+  "American Cream Draft": [
+   "The Golden Draft Horse: This rare horse has a gold coat!"
   ]
  },
  "exhausted": []

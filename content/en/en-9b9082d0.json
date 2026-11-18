@@ -1,0 +1,452 @@
+{
+ "id": "en-9b9082d0",
+ "lang": "en",
+ "title": "Fake Motorcade Breaches APEC Zone",
+ "cat": "history",
+ "emoji": "🚨",
+ "sentences": [
+  "A fake motorcade breached an APEC restricted zone.",
+  "The Australian satire group The Chaser coordinated the stunts for their television series.",
+  "Julian Morrow directed the fake Canadian motorcade on September 6.",
+  "Police allowed the vehicles through the restricted zone in Sydney.",
+  "The prank went undetected until Chas Licciardello stepped out dressed as Osama bin Laden.",
+  "Team members faced charges, but they were dropped because police allowed their entry."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.3,
+    0.3
+   ],
+   [
+    "fake",
+    0.3,
+    0.48
+   ],
+   [
+    "motorcade",
+    0.48,
+    1.04
+   ],
+   [
+    "breached",
+    1.04,
+    1.4
+   ],
+   [
+    "an",
+    1.4,
+    1.54
+   ],
+   [
+    "APEC",
+    1.54,
+    1.92
+   ],
+   [
+    "restricted",
+    1.94,
+    2.16
+   ],
+   [
+    "zone.",
+    2.16,
+    3.06
+   ],
+   [
+    "The",
+    3.14,
+    3.2
+   ],
+   [
+    "Australian",
+    3.2,
+    3.6
+   ],
+   [
+    "satire",
+    3.6,
+    4.22
+   ],
+   [
+    "group",
+    4.22,
+    4.48
+   ],
+   [
+    "The",
+    4.48,
+    4.76
+   ],
+   [
+    "Chaser",
+    4.76,
+    5.12
+   ],
+   [
+    "coordinated",
+    5.12,
+    5.62
+   ],
+   [
+    "the",
+    5.62,
+    5.94
+   ],
+   [
+    "stunts",
+    5.94,
+    6.24
+   ],
+   [
+    "for",
+    6.24,
+    6.34
+   ],
+   [
+    "their",
+    6.34,
+    6.44
+   ],
+   [
+    "television",
+    6.44,
+    6.7
+   ],
+   [
+    "series.",
+    6.7,
+    7.38
+   ],
+   [
+    "Julian",
+    8.02,
+    8.02
+   ],
+   [
+    "Morrow",
+    8.02,
+    8.4
+   ],
+   [
+    "directed",
+    8.4,
+    8.88
+   ],
+   [
+    "the",
+    8.9,
+    9.12
+   ],
+   [
+    "fake",
+    9.12,
+    9.32
+   ],
+   [
+    "Canadian",
+    9.32,
+    9.62
+   ],
+   [
+    "motorcade",
+    9.62,
+    10.24
+   ],
+   [
+    "on",
+    10.24,
+    10.4
+   ],
+   [
+    "September",
+    10.4,
+    10.64
+   ],
+   [
+    "6.",
+    10.64,
+    11.12
+   ],
+   [
+    "Police",
+    11.62,
+    11.78
+   ],
+   [
+    "allowed",
+    11.78,
+    12.04
+   ],
+   [
+    "the",
+    12.04,
+    12.22
+   ],
+   [
+    "vehicles",
+    12.22,
+    12.6
+   ],
+   [
+    "through",
+    12.6,
+    12.84
+   ],
+   [
+    "the",
+    12.84,
+    12.94
+   ],
+   [
+    "restricted",
+    13.18,
+    13.28
+   ],
+   [
+    "zone",
+    13.28,
+    13.6
+   ],
+   [
+    "in",
+    13.6,
+    13.76
+   ],
+   [
+    "Sydney.",
+    13.76,
+    14.22
+   ],
+   [
+    "The",
+    14.66,
+    14.72
+   ],
+   [
+    "prank",
+    14.8,
+    14.9
+   ],
+   [
+    "went",
+    14.9,
+    15.14
+   ],
+   [
+    "undetected",
+    15.14,
+    15.68
+   ],
+   [
+    "until",
+    15.7,
+    16.06
+   ],
+   [
+    "Chas",
+    16.06,
+    16.44
+   ],
+   [
+    "Licciardello",
+    16.44,
+    16.98
+   ],
+   [
+    "stepped",
+    16.98,
+    17.2
+   ],
+   [
+    "out",
+    17.2,
+    17.52
+   ],
+   [
+    "dressed",
+    17.52,
+    17.8
+   ],
+   [
+    "as",
+    17.8,
+    18.02
+   ],
+   [
+    "Osama",
+    18.02,
+    18.36
+   ],
+   [
+    "bin",
+    18.36,
+    18.54
+   ],
+   [
+    "Laden.",
+    18.54,
+    19.04
+   ],
+   [
+    "Team",
+    19.5,
+    19.62
+   ],
+   [
+    "members",
+    19.62,
+    19.88
+   ],
+   [
+    "faced",
+    19.88,
+    20.16
+   ],
+   [
+    "charges,",
+    20.16,
+    20.82
+   ],
+   [
+    "but",
+    20.88,
+    20.94
+   ],
+   [
+    "they",
+    20.94,
+    21.04
+   ],
+   [
+    "were",
+    21.04,
+    21.16
+   ],
+   [
+    "dropped",
+    21.16,
+    21.44
+   ],
+   [
+    "because",
+    21.44,
+    21.74
+   ],
+   [
+    "police",
+    21.74,
+    22.04
+   ],
+   [
+    "allowed",
+    22.04,
+    22.36
+   ],
+   [
+    "their",
+    22.36,
+    22.56
+   ],
+   [
+    "entry.",
+    22.56,
+    22.98
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   21,
+   31,
+   41,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Chaser_APEC_prank_map_fixed.png/960px-The_Chaser_APEC_prank_map_fixed.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1129,
+   "license": "CC BY 3.0",
+   "artist": "https://en.wikipedia.org/wiki/User_talk:SpecialWindler",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chaser_APEC_prank_map_fixed.png",
+   "desc": "The Chaser APEC prank map fixed — A map showing the secure APEC area in downtown Sydney and how the Chaser members moved through it"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Chaser_cardboard_motorcade_stunt_%287_September_2007%2C_Sydney%29.jpg/960px-The_Chaser_cardboard_motorcade_stunt_%287_September_2007%2C_Sydney%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY 2.0",
+   "artist": "damian 78",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chaser_cardboard_motorcade_stunt_(7_September_2007,_Sydney).jpg",
+   "desc": "The Chaser cardboard motorcade stunt (7 September 2007, Sydney) — Chris Taylor (second from right) and Dominic Knight (far right) from The Chaser, at the 2007 APEC Australia Summit, 2007."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/The_Chaser_cardboard_motorcade_stunt_%287_September_2007%2C_Sydney%29_2.jpg/960px-The_Chaser_cardboard_motorcade_stunt_%287_September_2007%2C_Sydney%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 430,
+   "license": "CC BY 2.0",
+   "artist": "damian 78 from Sydney, Australia",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chaser_cardboard_motorcade_stunt_(7_September_2007,_Sydney)_2.jpg",
+   "desc": "The Chaser cardboard motorcade stunt (7 September 2007, Sydney) 2 — Police investigating vechile used by The Chaser on cardboard motorcade stunt 7 September 2007."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Chaser_pantomime_horse_stunt_%285_September_2007%2C_Sydney%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "allan from Australia",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chaser_pantomime_horse_stunt_(5_September_2007,_Sydney)_2.jpg",
+   "desc": "The Chaser pantomime horse stunt (5 September 2007, Sydney) 2 — The Chaser pantomime horse stunt performed on 5 September 2007 in Sydney, Australia, performed at the APEC Australia summit. Chris Taylor is mounting a fake horse with Chas Licciardello and Julian"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2007
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q7722243",
+ "pron_wer": 0.059,
+ "angle": 0,
+ "source": {
+  "title": "The Chaser APEC pranks",
+  "url": "https://en.wikipedia.org/wiki/The_Chaser_APEC_pranks",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T13:53:14Z",
+ "trimmed": true
+}
