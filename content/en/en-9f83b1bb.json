@@ -1,0 +1,410 @@
+{
+ "id": "en-9f83b1bb",
+ "lang": "en",
+ "title": "History's First Female Coin Designer",
+ "cat": "history",
+ "emoji": "🪙",
+ "sentences": [
+  "A woman designed this historic coin.",
+  "The Alabama Centennial half dollar was minted in 1921.",
+  "Laura Gardin Fraser became the first woman credited with designing a US coin.",
+  "Alabama officials originally wanted a commemorative quarter instead.",
+  "They changed the plan to a half dollar through new legislation.",
+  "President Woodrow Wilson signed the act into law in May 1920."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.1
+   ],
+   [
+    "woman",
+    0.1,
+    0.42
+   ],
+   [
+    "designed",
+    0.42,
+    0.8
+   ],
+   [
+    "this",
+    0.8,
+    1.14
+   ],
+   [
+    "historic",
+    1.14,
+    1.64
+   ],
+   [
+    "coin.",
+    1.64,
+    2.16
+   ],
+   [
+    "The",
+    2.9,
+    3.0
+   ],
+   [
+    "Alabama",
+    3.0,
+    3.48
+   ],
+   [
+    "Centennial",
+    3.48,
+    4.18
+   ],
+   [
+    "half",
+    4.18,
+    4.48
+   ],
+   [
+    "dollar",
+    4.56,
+    4.76
+   ],
+   [
+    "was",
+    4.92,
+    5.02
+   ],
+   [
+    "minted",
+    5.02,
+    5.38
+   ],
+   [
+    "in",
+    5.38,
+    5.54
+   ],
+   [
+    "1921.",
+    5.54,
+    6.54
+   ],
+   [
+    "Laura",
+    7.3,
+    7.58
+   ],
+   [
+    "Gardin",
+    7.58,
+    8.06
+   ],
+   [
+    "Fraser",
+    8.06,
+    8.38
+   ],
+   [
+    "became",
+    8.38,
+    8.76
+   ],
+   [
+    "the",
+    8.76,
+    8.96
+   ],
+   [
+    "first",
+    8.96,
+    9.28
+   ],
+   [
+    "woman",
+    9.28,
+    9.56
+   ],
+   [
+    "credited",
+    9.56,
+    9.92
+   ],
+   [
+    "with",
+    9.92,
+    10.2
+   ],
+   [
+    "designing",
+    10.26,
+    10.64
+   ],
+   [
+    "a",
+    10.64,
+    10.84
+   ],
+   [
+    "US",
+    10.84,
+    11.14
+   ],
+   [
+    "coin.",
+    11.14,
+    11.44
+   ],
+   [
+    "Alabama",
+    12.32,
+    12.62
+   ],
+   [
+    "officials",
+    12.62,
+    13.06
+   ],
+   [
+    "originally",
+    13.06,
+    13.6
+   ],
+   [
+    "wanted",
+    13.6,
+    14.04
+   ],
+   [
+    "a",
+    14.04,
+    14.22
+   ],
+   [
+    "commemorative",
+    14.28,
+    14.72
+   ],
+   [
+    "quarter",
+    14.72,
+    15.08
+   ],
+   [
+    "instead.",
+    15.08,
+    15.62
+   ],
+   [
+    "They",
+    16.28,
+    16.36
+   ],
+   [
+    "changed",
+    16.54,
+    16.7
+   ],
+   [
+    "the",
+    16.7,
+    16.88
+   ],
+   [
+    "plan",
+    16.94,
+    17.1
+   ],
+   [
+    "to",
+    17.1,
+    17.28
+   ],
+   [
+    "a",
+    17.28,
+    17.42
+   ],
+   [
+    "half",
+    17.42,
+    17.68
+   ],
+   [
+    "dollar",
+    17.74,
+    17.98
+   ],
+   [
+    "through",
+    18.12,
+    18.22
+   ],
+   [
+    "new",
+    18.22,
+    18.44
+   ],
+   [
+    "legislation.",
+    18.44,
+    18.89
+   ],
+   [
+    "President",
+    19.76,
+    19.98
+   ],
+   [
+    "Woodrow",
+    19.98,
+    20.42
+   ],
+   [
+    "Wilson",
+    20.42,
+    20.74
+   ],
+   [
+    "signed",
+    20.74,
+    21.14
+   ],
+   [
+    "the",
+    21.14,
+    21.32
+   ],
+   [
+    "act",
+    21.32,
+    21.54
+   ],
+   [
+    "into",
+    21.66,
+    21.76
+   ],
+   [
+    "law",
+    21.76,
+    22.04
+   ],
+   [
+    "in",
+    22.04,
+    22.28
+   ],
+   [
+    "May",
+    22.28,
+    22.58
+   ],
+   [
+    "1920.",
+    22.58,
+    23.2
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   28,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/1921_Alabama_Centennial_half_dollar_%28without_2X2%29_obverse.jpg/960px-1921_Alabama_Centennial_half_dollar_%28without_2X2%29_obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Numismatic Guaranty Corporation",
+   "page": "https://commons.wikimedia.org/wiki/File:1921_Alabama_Centennial_half_dollar_(without_2X2)_obverse.jpg",
+   "desc": "1921 Alabama Centennial half dollar (without 2X2) obverse — 1921 Alabama Centennial half dollar (without 2X2) obverse"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Flickr_-_USCapitol_-_Laura_Gardin_Fraser_%281889-1966%29_-_Women_Artists.jpg/960px-Flickr_-_USCapitol_-_Laura_Gardin_Fraser_%281889-1966%29_-_Women_Artists.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 978,
+   "license": "Public domain",
+   "artist": "USCapitol",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_USCapitol_-_Laura_Gardin_Fraser_(1889-1966)_-_Women_Artists.jpg",
+   "desc": "Flickr - USCapitol - Laura Gardin Fraser (1889-1966) - Women Artists — Sculptor of three relief portrait plaques of lawgivers in the House Chamber: Colbert, Edward I, Papinian."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Alabama_centennial_half_dollar_commemorative.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 341,
+   "license": "Public domain",
+   "artist": "Bobby131313 (photography)",
+   "page": "https://commons.wikimedia.org/wiki/File:Alabama_centennial_half_dollar_commemorative.png",
+   "desc": "Alabama centennial half dollar commemorative — Alabama Centennial half dollar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/President_Woodrow_Wilson_%281913%29.jpg/960px-President_Woodrow_Wilson_%281913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 896,
+   "license": "Public domain",
+   "artist": "Frank Graham Cootes",
+   "page": "https://commons.wikimedia.org/wiki/File:President_Woodrow_Wilson_(1913).jpg",
+   "desc": "President Woodrow Wilson (1913) — Official Presidential portrait of Woodrow Wilson"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1921
+  },
+  {
+   "type": "focus",
+   "target": "Laura Gardin Fraser",
+   "box": [
+    368,
+    370,
+    994,
+    736
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1920
+  }
+ ],
+ "geo": null,
+ "qid": "Q4705364",
+ "pron_wer": 0.069,
+ "angle": 1,
+ "source": {
+  "title": "Alabama Centennial half dollar",
+  "url": "https://en.wikipedia.org/wiki/Alabama_Centennial_half_dollar",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:29:37Z",
+ "trimmed": true
+}
