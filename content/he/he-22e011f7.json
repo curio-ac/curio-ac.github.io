@@ -1,0 +1,281 @@
+{
+ "id": "he-22e011f7",
+ "lang": "he",
+ "title": "הספורט שטירוף הקהל בו הפך לפוליטיקה",
+ "cat": "history",
+ "emoji": "🏛️",
+ "sentences": [
+  "מרוץ מרכבות היה ענף ספורט פופולרי ביוון ורומא.",
+  "קבוצות התחרו על רוכבים וייצגו תומכים כלכליים.",
+  "אוהדים של קבוצות יריבות היו מעורבים בסכסוכים אלימים.",
+  "היריבויות האלו הפכו בסופו של דבר לפוליטיות.",
+  "חשיבות הענף דעכה בעקבות קריסת האימפריה הרומית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מרוץ",
+    0.02,
+    0.42
+   ],
+   [
+    "מרכבות",
+    0.42,
+    1.08
+   ],
+   [
+    "היה",
+    1.14,
+    1.34
+   ],
+   [
+    "ענף",
+    1.34,
+    1.8
+   ],
+   [
+    "ספורט",
+    2.0,
+    2.24
+   ],
+   [
+    "פופולרי",
+    2.28,
+    2.78
+   ],
+   [
+    "ביוון",
+    2.78,
+    3.46
+   ],
+   [
+    "ורומא.",
+    3.46,
+    3.9
+   ],
+   [
+    "קבוצות",
+    4.6,
+    5.02
+   ],
+   [
+    "התחרו",
+    5.02,
+    5.56
+   ],
+   [
+    "על",
+    5.56,
+    5.68
+   ],
+   [
+    "רוכבים",
+    5.68,
+    6.24
+   ],
+   [
+    "וייצגו",
+    6.24,
+    6.88
+   ],
+   [
+    "תומכים",
+    6.88,
+    7.34
+   ],
+   [
+    "כלכליים.",
+    7.34,
+    7.92
+   ],
+   [
+    "אוהדים",
+    8.72,
+    9.06
+   ],
+   [
+    "של",
+    9.06,
+    9.24
+   ],
+   [
+    "קבוצות",
+    9.24,
+    9.68
+   ],
+   [
+    "יריבות",
+    9.68,
+    10.26
+   ],
+   [
+    "היו",
+    10.32,
+    10.54
+   ],
+   [
+    "מעורבים",
+    10.54,
+    11.06
+   ],
+   [
+    "בסכסוכים",
+    11.06,
+    11.84
+   ],
+   [
+    "אלימים.",
+    11.84,
+    12.4
+   ],
+   [
+    "היריבויות",
+    13.06,
+    13.66
+   ],
+   [
+    "האלו",
+    13.66,
+    14.08
+   ],
+   [
+    "הפכו",
+    14.32,
+    14.46
+   ],
+   [
+    "בסופו",
+    14.46,
+    14.94
+   ],
+   [
+    "של",
+    14.94,
+    15.08
+   ],
+   [
+    "דבר",
+    15.08,
+    15.4
+   ],
+   [
+    "לפוליטיות.",
+    15.4,
+    15.96
+   ],
+   [
+    "חשיבות",
+    17.04,
+    17.4
+   ],
+   [
+    "הענף",
+    17.4,
+    17.9
+   ],
+   [
+    "דעכה",
+    18.02,
+    18.42
+   ],
+   [
+    "בעקבות",
+    18.42,
+    18.92
+   ],
+   [
+    "קריסת",
+    19.34,
+    19.48
+   ],
+   [
+    "האימפריה",
+    19.54,
+    20.06
+   ],
+   [
+    "הרומית.",
+    20.06,
+    20.18
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   23,
+   30
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Winner_of_a_Roman_chariot_race.jpg/960px-Winner_of_a_Roman_chariot_race.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 689,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Winner_of_a_Roman_chariot_race.jpg",
+   "desc": "Winner of a Roman chariot race — Winner of a Roman chariot race"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Delphi_charioteer_front_DSC06255.JPG/960px-Delphi_charioteer_front_DSC06255.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1416,
+   "license": "CC BY-SA 1.0",
+   "artist": "Copyright © 2004 David Monniaux",
+   "page": "https://commons.wikimedia.org/wiki/File:Delphi_charioteer_front_DSC06255.JPG",
+   "desc": "Delphi charioteer front DSC06255 — Statue of a charioteer found in Delphi, Greece (front) most probably a chariot driver in the Pythian Games The driver ran for the horses' owner, Polyzalos, tyrant in Sicily between 480-470BC."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roman_Empire_Apartment_%282751806330%29.jpg/960px-Roman_Empire_Apartment_%282751806330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 618,
+   "license": "Public domain",
+   "artist": "Rennett Stowe from USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Roman_Empire_Apartment_(2751806330).jpg",
+   "desc": "Roman Empire Apartment (2751806330) — This is one of the very few extant ruins of a Roman Empire apartment building. The steeple structure on the far left is not original. It was added later as part of a church that occupied the old aparmtent after the fall "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1164462",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "מרוץ מרכבות",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%95%D7%A5_%D7%9E%D7%A8%D7%9B%D7%91%D7%95%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:30:40Z",
+ "trimmed": true
+}
