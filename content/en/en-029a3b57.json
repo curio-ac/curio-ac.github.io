@@ -1,0 +1,440 @@
+{
+ "id": "en-029a3b57",
+ "lang": "en",
+ "title": "The 1999 Wembley Showdown",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Nearly 77,000 people watched this promotion battle.",
+  "Manchester City faced Gillingham at Wembley Stadium on 30 May 1999.",
+  "The match determined the final team moving up to the First Division.",
+  "Gillingham beat Preston North End and Manchester City defeated Wigan Athletic to reach the final.",
+  "This was Gillingham’s first trip to Wembley, while Manchester City had played there 11 times.",
+  "The game remained scoreless until the 81st minute."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Nearly",
+    0.26,
+    0.46
+   ],
+   [
+    "77,000",
+    0.46,
+    1.54
+   ],
+   [
+    "people",
+    1.54,
+    1.84
+   ],
+   [
+    "watched",
+    1.84,
+    2.24
+   ],
+   [
+    "this",
+    2.24,
+    2.48
+   ],
+   [
+    "promotion",
+    2.48,
+    2.84
+   ],
+   [
+    "battle.",
+    2.84,
+    3.32
+   ],
+   [
+    "Manchester",
+    3.8,
+    4.08
+   ],
+   [
+    "City",
+    4.08,
+    4.54
+   ],
+   [
+    "faced",
+    4.54,
+    4.9
+   ],
+   [
+    "Gillingham",
+    4.9,
+    5.42
+   ],
+   [
+    "at",
+    5.42,
+    5.64
+   ],
+   [
+    "Wembley",
+    5.64,
+    6.02
+   ],
+   [
+    "Stadium",
+    6.02,
+    6.3
+   ],
+   [
+    "on",
+    6.3,
+    6.64
+   ],
+   [
+    "30",
+    6.64,
+    6.92
+   ],
+   [
+    "May",
+    6.92,
+    7.18
+   ],
+   [
+    "1999.",
+    7.18,
+    8.3
+   ],
+   [
+    "The",
+    8.74,
+    8.8
+   ],
+   [
+    "match",
+    8.8,
+    9.04
+   ],
+   [
+    "determined",
+    9.04,
+    9.34
+   ],
+   [
+    "the",
+    9.34,
+    9.68
+   ],
+   [
+    "final",
+    9.68,
+    9.94
+   ],
+   [
+    "team",
+    9.94,
+    10.26
+   ],
+   [
+    "moving",
+    10.26,
+    10.6
+   ],
+   [
+    "up",
+    10.6,
+    10.84
+   ],
+   [
+    "to",
+    10.86,
+    10.96
+   ],
+   [
+    "the",
+    10.96,
+    11.06
+   ],
+   [
+    "First",
+    11.06,
+    11.26
+   ],
+   [
+    "Division.",
+    11.26,
+    11.96
+   ],
+   [
+    "Gillingham",
+    12.32,
+    12.8
+   ],
+   [
+    "beat",
+    12.8,
+    13.0
+   ],
+   [
+    "Preston",
+    13.0,
+    13.5
+   ],
+   [
+    "North",
+    13.5,
+    13.72
+   ],
+   [
+    "End",
+    13.72,
+    14.0
+   ],
+   [
+    "and",
+    14.0,
+    14.2
+   ],
+   [
+    "Manchester",
+    14.2,
+    14.56
+   ],
+   [
+    "City",
+    14.56,
+    14.98
+   ],
+   [
+    "defeated",
+    14.98,
+    15.3
+   ],
+   [
+    "Wigan",
+    15.3,
+    15.76
+   ],
+   [
+    "Athletic",
+    15.76,
+    16.28
+   ],
+   [
+    "to",
+    16.32,
+    16.42
+   ],
+   [
+    "reach",
+    16.42,
+    16.62
+   ],
+   [
+    "the",
+    16.62,
+    16.76
+   ],
+   [
+    "final.",
+    16.76,
+    17.24
+   ],
+   [
+    "This",
+    17.74,
+    17.84
+   ],
+   [
+    "was",
+    17.84,
+    18.0
+   ],
+   [
+    "Gillingham’s",
+    18.0,
+    18.66
+   ],
+   [
+    "first",
+    18.72,
+    18.82
+   ],
+   [
+    "trip",
+    18.82,
+    19.1
+   ],
+   [
+    "to",
+    19.1,
+    19.26
+   ],
+   [
+    "Wembley,",
+    19.26,
+    19.66
+   ],
+   [
+    "while",
+    20.02,
+    20.14
+   ],
+   [
+    "Manchester",
+    20.14,
+    20.48
+   ],
+   [
+    "City",
+    20.48,
+    20.9
+   ],
+   [
+    "had",
+    20.9,
+    21.1
+   ],
+   [
+    "played",
+    21.1,
+    21.34
+   ],
+   [
+    "there",
+    21.34,
+    21.56
+   ],
+   [
+    "11",
+    21.56,
+    21.88
+   ],
+   [
+    "times.",
+    21.88,
+    22.54
+   ],
+   [
+    "The",
+    23.0,
+    23.06
+   ],
+   [
+    "game",
+    23.06,
+    23.24
+   ],
+   [
+    "remained",
+    23.24,
+    23.54
+   ],
+   [
+    "scoreless",
+    23.54,
+    24.1
+   ],
+   [
+    "until",
+    24.1,
+    24.34
+   ],
+   [
+    "the",
+    24.34,
+    24.52
+   ],
+   [
+    "81st",
+    24.54,
+    25.1
+   ],
+   [
+    "minute.",
+    25.1,
+    25.42
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   30,
+   45,
+   60
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wembley_Stadium_Twin_Towers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Merv Payne",
+   "page": "https://commons.wikimedia.org/wiki/File:Wembley_Stadium_Twin_Towers.jpg",
+   "desc": "Wembley Stadium Twin Towers — Wembley Stadium Twin Towers, London, England"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hull_City_Promotion_Parade_-_geograph.org.uk_-_820702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 701,
+   "license": "CC BY-SA 2.0",
+   "artist": "Andy Beecroft",
+   "page": "https://commons.wikimedia.org/wiki/File:Hull_City_Promotion_Parade_-_geograph.org.uk_-_820702.jpg",
+   "desc": "Hull City Promotion Parade - geograph.org.uk - 820702 — Hull City Promotion Parade Hull City beat Bristol City 1-0 in the Championship Playoff final on Saturday 24th. May 2008. This put Hull in the top flight of football for the first time in their club's hist"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 77000,
+   "unit": "people",
+   "label": "promotion battle crowd"
+  },
+  {
+   "type": "timeline",
+   "year": 1999
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 81,
+   "unit": "minute",
+   "label": "scoreless duration"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4594716",
+ "pron_wer": 0.029,
+ "angle": 1,
+ "source": {
+  "title": "1999 Football League Second Division play-off final",
+  "url": "https://en.wikipedia.org/wiki/1999_Football_League_Second_Division_play-off_final",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:36:24Z",
+ "trimmed": true
+}

@@ -172,7 +172,8 @@
   "Canoe River train crash",
   "Rebecca Clarke (composer)",
   "nasa:1339368",
-  "James B. Conant"
+  "James B. Conant",
+  "Cardinal-nephew"
  ],
  "rejected": [
   "Chameleon",
@@ -213,7 +214,8 @@
   "Damageplan",
   "Space Shuttle Columbia disaster",
   "nasa:1508114",
-  "William Henry Bury"
+  "William Henry Bury",
+  "nasa:1283607"
  ],
  "angles": {
   "Blue whale": [
@@ -792,6 +794,9 @@
   ],
   "James B. Conant": [
    "The Poison Gas Harvard President: He developed poison gas for the Army."
+  ],
+  "Cardinal-nephew": [
+   "The Origin of Nepotism: The word nepotism comes from cardinal-nephews."
   ]
  },
  "exhausted": []
