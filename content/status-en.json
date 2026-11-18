@@ -3,6 +3,17 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-18T14:29:53Z",
+   "made": 13,
+   "rejected": 2,
+   "repaired": 0,
+   "calls": 108,
+   "notes": [
+    "1987–88 Gillingham F.C. season: pronunciation 10.3% of words misheard",
+    "Cyclone Berguitta: pronunciation 17.2% of words misheard"
+   ]
+  },
+  {
    "at": "2026-11-18T12:52:03Z",
    "made": 12,
    "rejected": 1,
