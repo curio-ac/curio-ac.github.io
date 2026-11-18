@@ -1,0 +1,426 @@
+{
+ "id": "en-74176bdb",
+ "lang": "en",
+ "title": "Cyclone Arnab's Rare Arrival",
+ "cat": "geography",
+ "emoji": "🌀",
+ "sentences": [
+  "A rare cyclone hit India in late October.",
+  "Storm Arnab emerged in the Bay of Bengal on October 25, which is surprisingly late for the season.",
+  "It struck the coast with 130 kilometer per hour winds.",
+  "The storm caused massive damage, forcing over 84,000 people into shelters.",
+  "Scientists say El Niño conditions usually make cyclones here less frequent and less intense."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.34,
+    0.34
+   ],
+   [
+    "rare",
+    0.34,
+    0.52
+   ],
+   [
+    "cyclone",
+    0.52,
+    1.06
+   ],
+   [
+    "hit",
+    1.06,
+    1.2
+   ],
+   [
+    "India",
+    1.2,
+    1.54
+   ],
+   [
+    "in",
+    1.54,
+    1.76
+   ],
+   [
+    "late",
+    1.76,
+    1.9
+   ],
+   [
+    "October.",
+    1.9,
+    2.44
+   ],
+   [
+    "Storm",
+    3.2,
+    3.2
+   ],
+   [
+    "Arnab",
+    3.2,
+    3.68
+   ],
+   [
+    "emerged",
+    3.68,
+    3.98
+   ],
+   [
+    "in",
+    3.98,
+    4.26
+   ],
+   [
+    "the",
+    4.26,
+    4.34
+   ],
+   [
+    "Bay",
+    4.34,
+    4.5
+   ],
+   [
+    "of",
+    4.5,
+    4.62
+   ],
+   [
+    "Bengal",
+    4.62,
+    4.86
+   ],
+   [
+    "on",
+    4.86,
+    5.16
+   ],
+   [
+    "October",
+    5.16,
+    5.38
+   ],
+   [
+    "25,",
+    5.38,
+    5.98
+   ],
+   [
+    "which",
+    6.48,
+    6.54
+   ],
+   [
+    "is",
+    6.54,
+    6.64
+   ],
+   [
+    "surprisingly",
+    6.64,
+    7.0
+   ],
+   [
+    "late",
+    7.0,
+    7.34
+   ],
+   [
+    "for",
+    7.34,
+    7.48
+   ],
+   [
+    "the",
+    7.48,
+    7.56
+   ],
+   [
+    "season.",
+    7.56,
+    7.91
+   ],
+   [
+    "It",
+    8.4,
+    8.48
+   ],
+   [
+    "struck",
+    8.48,
+    8.68
+   ],
+   [
+    "the",
+    8.68,
+    8.86
+   ],
+   [
+    "coast",
+    8.9,
+    9.08
+   ],
+   [
+    "with",
+    9.08,
+    9.26
+   ],
+   [
+    "130",
+    9.26,
+    9.64
+   ],
+   [
+    "kilometer",
+    9.64,
+    10.12
+   ],
+   [
+    "per",
+    10.12,
+    10.52
+   ],
+   [
+    "hour",
+    10.6,
+    10.74
+   ],
+   [
+    "winds.",
+    10.74,
+    11.22
+   ],
+   [
+    "The",
+    11.66,
+    11.72
+   ],
+   [
+    "storm",
+    11.72,
+    11.94
+   ],
+   [
+    "caused",
+    11.94,
+    12.24
+   ],
+   [
+    "massive",
+    12.24,
+    12.56
+   ],
+   [
+    "damage,",
+    12.56,
+    13.0
+   ],
+   [
+    "forcing",
+    13.2,
+    13.38
+   ],
+   [
+    "over",
+    13.38,
+    13.62
+   ],
+   [
+    "84,000",
+    13.62,
+    14.48
+   ],
+   [
+    "people",
+    14.48,
+    14.76
+   ],
+   [
+    "into",
+    14.76,
+    15.0
+   ],
+   [
+    "shelters.",
+    15.0,
+    15.28
+   ],
+   [
+    "Scientists",
+    16.18,
+    16.44
+   ],
+   [
+    "say",
+    16.44,
+    16.76
+   ],
+   [
+    "El",
+    16.76,
+    16.98
+   ],
+   [
+    "Niño",
+    16.98,
+    17.3
+   ],
+   [
+    "conditions",
+    17.3,
+    17.64
+   ],
+   [
+    "usually",
+    17.64,
+    18.06
+   ],
+   [
+    "make",
+    18.06,
+    18.32
+   ],
+   [
+    "cyclones",
+    18.32,
+    18.82
+   ],
+   [
+    "here",
+    18.82,
+    19.0
+   ],
+   [
+    "less",
+    19.0,
+    19.24
+   ],
+   [
+    "frequent",
+    19.24,
+    19.6
+   ],
+   [
+    "and",
+    19.6,
+    19.82
+   ],
+   [
+    "less",
+    19.82,
+    20.0
+   ],
+   [
+    "intense.",
+    20.0,
+    20.38
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   26,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Snow_Blankets_Nepal_after_Cyclone_Hudhud_%2815589255411%29.jpg/960px-Snow_Blankets_Nepal_after_Cyclone_Hudhud_%2815589255411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 2.0",
+   "artist": "NOAA Satellites",
+   "page": "https://commons.wikimedia.org/wiki/File:Snow_Blankets_Nepal_after_Cyclone_Hudhud_(15589255411).jpg",
+   "desc": "Snow Blankets Nepal after Cyclone Hudhud (15589255411) — The remnants of Cyclone Hudhud passed northwest from India into Nepal on October 13 and 14, 2014. The resulting severe blizzard trapped hikers and their guides on the popular Annapurna Circuit around the"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Arnab_Strikes_India_%281505938%29.jpg/960px-Arnab_Strikes_India_%281505938%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Arnab_Strikes_India_(1505938).jpg",
+   "desc": "Arnab Strikes India (1505938) — The first named storm of the 2026 North Indian Ocean cyclone season—Arnab (pronounced Or-nab)—emerged in the Bay of Bengal on October 25, a rather late start for a basin that typically produces named cyclones in April or"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tropical_Cyclone_Fani_%28MODIS_2019-05-04%29.jpg/960px-Tropical_Cyclone_Fani_%28MODIS_2019-05-04%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 690,
+   "license": "Public domain",
+   "artist": "MODIS Land Rapid Response Team, NASA GSFC",
+   "page": "https://commons.wikimedia.org/wiki/File:Tropical_Cyclone_Fani_(MODIS_2019-05-04).jpg",
+   "desc": "Tropical Cyclone Fani (MODIS 2019-05-04) — Tropical Cyclone Fani made landfall on the morning of May 3, 2019, striking between the city of Puri and the village of Brahmagiri in Odisha state, India. At landfall, Fani carried maximum sustained winds of up to 240"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Evacuees_at_a_cyclone_shelter_at_Basudevpur_Bhadrak.jpg/960px-Evacuees_at_a_cyclone_shelter_at_Basudevpur_Bhadrak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "Government of Odisha",
+   "page": "https://commons.wikimedia.org/wiki/File:Evacuees_at_a_cyclone_shelter_at_Basudevpur_Bhadrak.jpg",
+   "desc": "Evacuees at a cyclone shelter at Basudevpur Bhadrak — Tweet Text: RT @DM_Bhadrak: #OdishaPrepared4Fani CycloneFani Bhadrak Evacuation in #Basudevpur #CycloneShelter #OSDMA"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Ni%C3%B1o_Diagram.jpg/960px-El_Ni%C3%B1o_Diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 501,
+   "license": "CC0",
+   "artist": "Wesley.harwell",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Ni%C3%B1o_Diagram.jpg",
+   "desc": "El Niño Diagram — This shows current and wind conditions during an El Niño. Trade winds and currents are reversed, causing upwelling to occur in the East instead of the West as it usually occurs."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 130,
+   "unit": "km/h",
+   "label": "sustained winds"
+  },
+  {
+   "type": "stat",
+   "value": 84000,
+   "unit": "people",
+   "label": "evacuated residents"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+ "pron_wer": 0.049,
+ "angle": 0,
+ "source": {
+  "title": "Arnab Strikes India",
+  "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:41:10Z",
+ "trimmed": true
+}
