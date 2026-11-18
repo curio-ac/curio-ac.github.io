@@ -3,6 +3,18 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-18T10:04:38Z",
+   "made": 12,
+   "rejected": 3,
+   "repaired": 0,
+   "calls": 117,
+   "notes": [
+    "1950 United States Senate election in California: pronunciation 12.1% of words misheard",
+    "nasa:1505698: fact-check",
+    "Arnold Bennett: fact-check"
+   ]
+  },
+  {
    "at": "2026-11-18T08:52:41Z",
    "made": 5,
    "rejected": 0,
