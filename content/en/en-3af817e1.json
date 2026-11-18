@@ -1,0 +1,461 @@
+{
+ "id": "en-3af817e1",
+ "lang": "en",
+ "title": "Atacama Desert's Rare Snow",
+ "cat": "geography",
+ "emoji": "❄️",
+ "sentences": [
+  "Parts of the Atacama Desert just turned white.",
+  "Back-to-back winter storms in August 2026 brought rare snowfall to this usually arid region.",
+  "The snow stretched from the Andes all the way to the Pacific coast.",
+  "High winds even forced the ALMA radio telescope array to suspend operations.",
+  "One coastal town received 10 times its annual rainfall in just 3 days.",
+  "This wild weather shift was fueled by a strengthening El Niño."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Parts",
+    0.08,
+    0.2
+   ],
+   [
+    "of",
+    0.2,
+    0.26
+   ],
+   [
+    "the",
+    0.26,
+    0.36
+   ],
+   [
+    "Atacama",
+    0.36,
+    0.82
+   ],
+   [
+    "Desert",
+    0.82,
+    1.08
+   ],
+   [
+    "just",
+    1.08,
+    1.36
+   ],
+   [
+    "turned",
+    1.36,
+    1.6
+   ],
+   [
+    "white.",
+    1.6,
+    2.24
+   ],
+   [
+    "Back-to-back",
+    2.3,
+    2.76
+   ],
+   [
+    "winter",
+    2.76,
+    3.04
+   ],
+   [
+    "storms",
+    3.04,
+    3.46
+   ],
+   [
+    "in",
+    3.46,
+    3.62
+   ],
+   [
+    "August",
+    3.62,
+    3.88
+   ],
+   [
+    "2026",
+    3.88,
+    4.78
+   ],
+   [
+    "brought",
+    4.78,
+    5.16
+   ],
+   [
+    "rare",
+    5.16,
+    5.42
+   ],
+   [
+    "snowfall",
+    5.42,
+    5.94
+   ],
+   [
+    "to",
+    5.94,
+    6.1
+   ],
+   [
+    "this",
+    6.1,
+    6.24
+   ],
+   [
+    "usually",
+    6.24,
+    6.58
+   ],
+   [
+    "arid",
+    6.58,
+    6.98
+   ],
+   [
+    "region.",
+    6.98,
+    7.32
+   ],
+   [
+    "The",
+    7.66,
+    7.7
+   ],
+   [
+    "snow",
+    7.7,
+    7.86
+   ],
+   [
+    "stretched",
+    7.86,
+    8.2
+   ],
+   [
+    "from",
+    8.2,
+    8.48
+   ],
+   [
+    "the",
+    8.48,
+    8.58
+   ],
+   [
+    "Andes",
+    8.58,
+    8.96
+   ],
+   [
+    "all",
+    8.96,
+    9.16
+   ],
+   [
+    "the",
+    9.16,
+    9.3
+   ],
+   [
+    "way",
+    9.3,
+    9.46
+   ],
+   [
+    "to",
+    9.46,
+    9.62
+   ],
+   [
+    "the",
+    9.62,
+    9.72
+   ],
+   [
+    "Pacific",
+    9.72,
+    9.96
+   ],
+   [
+    "coast.",
+    9.96,
+    10.36
+   ],
+   [
+    "High",
+    10.86,
+    10.96
+   ],
+   [
+    "winds",
+    10.96,
+    11.28
+   ],
+   [
+    "even",
+    11.28,
+    11.54
+   ],
+   [
+    "forced",
+    11.54,
+    11.86
+   ],
+   [
+    "the",
+    11.86,
+    12.0
+   ],
+   [
+    "ALMA",
+    12.06,
+    12.32
+   ],
+   [
+    "radio",
+    12.32,
+    12.64
+   ],
+   [
+    "telescope",
+    12.64,
+    13.04
+   ],
+   [
+    "array",
+    13.04,
+    13.38
+   ],
+   [
+    "to",
+    13.38,
+    13.6
+   ],
+   [
+    "suspend",
+    13.78,
+    13.88
+   ],
+   [
+    "operations.",
+    13.88,
+    14.68
+   ],
+   [
+    "One",
+    15.0,
+    15.12
+   ],
+   [
+    "coastal",
+    15.12,
+    15.38
+   ],
+   [
+    "town",
+    15.38,
+    15.7
+   ],
+   [
+    "received",
+    15.7,
+    16.04
+   ],
+   [
+    "10",
+    16.04,
+    16.44
+   ],
+   [
+    "times",
+    16.44,
+    16.84
+   ],
+   [
+    "its",
+    16.84,
+    17.0
+   ],
+   [
+    "annual",
+    17.0,
+    17.3
+   ],
+   [
+    "rainfall",
+    17.3,
+    17.74
+   ],
+   [
+    "in",
+    17.74,
+    18.02
+   ],
+   [
+    "just",
+    18.02,
+    18.2
+   ],
+   [
+    "3",
+    18.2,
+    18.5
+   ],
+   [
+    "days.",
+    18.5,
+    18.8
+   ],
+   [
+    "This",
+    19.1,
+    19.22
+   ],
+   [
+    "wild",
+    19.22,
+    19.52
+   ],
+   [
+    "weather",
+    19.52,
+    19.78
+   ],
+   [
+    "shift",
+    19.78,
+    20.12
+   ],
+   [
+    "was",
+    20.12,
+    20.32
+   ],
+   [
+    "fueled",
+    20.44,
+    20.58
+   ],
+   [
+    "by",
+    20.58,
+    20.9
+   ],
+   [
+    "a",
+    20.9,
+    20.98
+   ],
+   [
+    "strengthening",
+    20.98,
+    21.36
+   ],
+   [
+    "El",
+    21.36,
+    21.74
+   ],
+   [
+    "Niño.",
+    21.74,
+    22.24
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   22,
+   35,
+   47,
+   60
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Rare%2C_Widespread_Snow_in_the_Atacama_Desert_%281280714_-_zm_oli2_20260814%29.jpg/960px-Rare%2C_Widespread_Snow_in_the_Atacama_Desert_%281280714_-_zm_oli2_20260814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Rare,_Widespread_Snow_in_the_Atacama_Desert_(1280714_-_zm_oli2_20260814).jpg",
+   "desc": "Rare, Widespread Snow in the Atacama Desert (1280714 - zm oli2 20260814) — Part of northern Chile transforms from bare to snow-covered in these images captured before and after winter storms in August 2026 by the NASA-USGS Landsat 8 and Landsat 9 satellites. N"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Rare%2C_Widespread_Snow_in_the_Atacama_Desert_%281280714_-_zm_oli_20260806%29.jpg/960px-Rare%2C_Widespread_Snow_in_the_Atacama_Desert_%281280714_-_zm_oli_20260806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Rare,_Widespread_Snow_in_the_Atacama_Desert_(1280714_-_zm_oli_20260806).jpg",
+   "desc": "Rare, Widespread Snow in the Atacama Desert (1280714 - zm oli 20260806) — Part of northern Chile transforms from bare to snow-covered in these images captured before and after winter storms in August 2026 by the NASA-USGS Landsat 8 and Landsat 9 satellites. NA"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Rare%2C_Widespread_Snow_in_the_Atacama_Desert_%281280714_-_wide_tmo_20260819%29.jpg/960px-Rare%2C_Widespread_Snow_in_the_Atacama_Desert_%281280714_-_wide_tmo_20260819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 600,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Rare,_Widespread_Snow_in_the_Atacama_Desert_(1280714_-_wide_tmo_20260819).jpg",
+   "desc": "Rare, Widespread Snow in the Atacama Desert (1280714 - wide tmo 20260819) — A blanket of snow spans a vast area of northern Chile, from the Andes to near the Pacific coast, captured in this image on August 19, 2026, by the MODIS (Moderate Resolution Imaging Sp"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "x",
+   "label": "annual rainfall"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/",
+ "pron_wer": 0.027,
+ "angle": 0,
+ "source": {
+  "title": "Rare, Widespread Snow in the Atacama Desert",
+  "url": "https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:49:14Z",
+ "trimmed": true
+}
