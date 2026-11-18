@@ -1,0 +1,387 @@
+{
+ "id": "en-6cd5a04f",
+ "lang": "en",
+ "title": "Destiny's Child Origins",
+ "cat": "history",
+ "emoji": "🎤",
+ "sentences": [
+  "Destiny's Child actually started as Girl's Tyme.",
+  "The group formed in Houston, Texas, in 1990.",
+  "They are considered one of the most influential girl groups ever.",
+  "They helped shape contemporary R&B and the 1990s girl group resurgence.",
+  "The group faced internal conflict and legal turmoil over their management.",
+  "Despite this, they released massive hits like Bills, Bills, Bills."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Destiny's",
+    0.22,
+    0.68
+   ],
+   [
+    "Child",
+    0.82,
+    0.98
+   ],
+   [
+    "actually",
+    0.98,
+    1.58
+   ],
+   [
+    "started",
+    1.58,
+    2.0
+   ],
+   [
+    "as",
+    2.0,
+    2.36
+   ],
+   [
+    "Girl's",
+    2.36,
+    2.94
+   ],
+   [
+    "Tyme.",
+    2.94,
+    3.22
+   ],
+   [
+    "The",
+    3.68,
+    3.78
+   ],
+   [
+    "group",
+    3.8,
+    3.94
+   ],
+   [
+    "formed",
+    3.94,
+    4.2
+   ],
+   [
+    "in",
+    4.2,
+    4.44
+   ],
+   [
+    "Houston,",
+    4.44,
+    4.88
+   ],
+   [
+    "Texas,",
+    5.0,
+    5.28
+   ],
+   [
+    "in",
+    5.38,
+    5.46
+   ],
+   [
+    "1990.",
+    5.46,
+    6.2
+   ],
+   [
+    "They",
+    6.92,
+    6.96
+   ],
+   [
+    "are",
+    6.96,
+    7.1
+   ],
+   [
+    "considered",
+    7.1,
+    7.42
+   ],
+   [
+    "one",
+    7.42,
+    7.66
+   ],
+   [
+    "of",
+    7.66,
+    7.74
+   ],
+   [
+    "the",
+    7.74,
+    7.8
+   ],
+   [
+    "most",
+    7.8,
+    7.94
+   ],
+   [
+    "influential",
+    7.94,
+    8.58
+   ],
+   [
+    "girl",
+    8.58,
+    8.96
+   ],
+   [
+    "groups",
+    8.96,
+    9.3
+   ],
+   [
+    "ever.",
+    9.3,
+    9.4
+   ],
+   [
+    "They",
+    10.34,
+    10.44
+   ],
+   [
+    "helped",
+    10.44,
+    10.6
+   ],
+   [
+    "shape",
+    10.62,
+    10.8
+   ],
+   [
+    "contemporary",
+    10.8,
+    11.18
+   ],
+   [
+    "R&B",
+    11.18,
+    11.63
+   ],
+   [
+    "and",
+    11.86,
+    12.42
+   ],
+   [
+    "the",
+    12.42,
+    12.52
+   ],
+   [
+    "1990s",
+    12.52,
+    13.12
+   ],
+   [
+    "girl",
+    13.12,
+    13.22
+   ],
+   [
+    "group",
+    13.22,
+    13.46
+   ],
+   [
+    "resurgence.",
+    13.46,
+    13.9
+   ],
+   [
+    "The",
+    14.8,
+    14.86
+   ],
+   [
+    "group",
+    14.94,
+    15.06
+   ],
+   [
+    "faced",
+    15.06,
+    15.28
+   ],
+   [
+    "internal",
+    15.28,
+    15.72
+   ],
+   [
+    "conflict",
+    15.72,
+    16.2
+   ],
+   [
+    "and",
+    16.2,
+    16.64
+   ],
+   [
+    "legal",
+    16.64,
+    16.86
+   ],
+   [
+    "turmoil",
+    16.86,
+    17.24
+   ],
+   [
+    "over",
+    17.24,
+    17.6
+   ],
+   [
+    "their",
+    17.6,
+    17.74
+   ],
+   [
+    "management.",
+    17.74,
+    18.06
+   ],
+   [
+    "Despite",
+    18.86,
+    18.98
+   ],
+   [
+    "this,",
+    18.98,
+    19.38
+   ],
+   [
+    "they",
+    19.66,
+    19.74
+   ],
+   [
+    "released",
+    19.74,
+    20.04
+   ],
+   [
+    "massive",
+    20.04,
+    20.58
+   ],
+   [
+    "hits",
+    20.58,
+    20.94
+   ],
+   [
+    "like",
+    20.94,
+    21.28
+   ],
+   [
+    "Bills,",
+    21.28,
+    21.62
+   ],
+   [
+    "Bills,",
+    21.66,
+    21.84
+   ],
+   [
+    "Bills.",
+    21.9,
+    22.08
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   26,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Star_of_Destiny%27s_Child.jpg/960px-Star_of_Destiny%27s_Child.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "melika",
+   "page": "https://commons.wikimedia.org/wiki/File:Star_of_Destiny%27s_Child.jpg",
+   "desc": "Star of Destiny's Child — Star of the group Destiny's Child on Hollywood Walk of Fame."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Destiny%27s_Child_Tour_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 326,
+   "license": "CC BY 3.0",
+   "artist": "User:Concert",
+   "page": "https://commons.wikimedia.org/wiki/File:Destiny%27s_Child_Tour_(cropped).jpg",
+   "desc": "Destiny's Child Tour (cropped) — Destiny's Child on tour Destiny Fulfilled ... And Lovin' It in 2005."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1990
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1990,
+   "unit": "s",
+   "label": "girl group resurgence"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q153056",
+ "pron_wer": 0.049,
+ "angle": 0,
+ "source": {
+  "title": "Destiny's Child",
+  "url": "https://en.wikipedia.org/wiki/Destiny%27s_Child",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T13:23:34Z",
+ "trimmed": true
+}
