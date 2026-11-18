@@ -1,0 +1,403 @@
+{
+ "id": "en-914f035e",
+ "lang": "en",
+ "title": "Wembley's Historic 1999 Final",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Gillingham's first ever match at Wembley Stadium!",
+  "Manchester City had played there on 11 previous occasions.",
+  "Both teams fought for promotion on 30 May 1999.",
+  "Gillingham reached the final by defeating Preston North End.",
+  "The tense match remained totally scoreless until the 81st minute.",
+  "Then Carl Asaba finally gave Gillingham the lead.",
+  "Manchester City beat Wigan Athletic in the semi-finals."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Gillingham's",
+    0.22,
+    0.7
+   ],
+   [
+    "first",
+    0.7,
+    0.86
+   ],
+   [
+    "ever",
+    0.86,
+    1.1
+   ],
+   [
+    "match",
+    1.1,
+    1.42
+   ],
+   [
+    "at",
+    1.42,
+    1.56
+   ],
+   [
+    "Wembley",
+    1.56,
+    1.92
+   ],
+   [
+    "Stadium!",
+    1.92,
+    2.32
+   ],
+   [
+    "Manchester",
+    2.8,
+    3.04
+   ],
+   [
+    "City",
+    3.04,
+    3.46
+   ],
+   [
+    "had",
+    3.46,
+    3.68
+   ],
+   [
+    "played",
+    3.68,
+    3.88
+   ],
+   [
+    "there",
+    3.88,
+    4.08
+   ],
+   [
+    "on",
+    4.08,
+    4.28
+   ],
+   [
+    "11",
+    4.28,
+    4.52
+   ],
+   [
+    "previous",
+    4.52,
+    4.84
+   ],
+   [
+    "occasions.",
+    4.84,
+    5.44
+   ],
+   [
+    "Both",
+    6.06,
+    6.2
+   ],
+   [
+    "teams",
+    6.2,
+    6.48
+   ],
+   [
+    "fought",
+    6.48,
+    6.76
+   ],
+   [
+    "for",
+    6.76,
+    6.94
+   ],
+   [
+    "promotion",
+    6.94,
+    7.32
+   ],
+   [
+    "on",
+    7.32,
+    7.54
+   ],
+   [
+    "30",
+    7.54,
+    7.82
+   ],
+   [
+    "May",
+    7.82,
+    8.06
+   ],
+   [
+    "1999.",
+    8.06,
+    9.02
+   ],
+   [
+    "Gillingham",
+    9.54,
+    9.88
+   ],
+   [
+    "reached",
+    9.88,
+    10.08
+   ],
+   [
+    "the",
+    10.08,
+    10.28
+   ],
+   [
+    "final",
+    10.28,
+    10.52
+   ],
+   [
+    "by",
+    10.52,
+    10.7
+   ],
+   [
+    "defeating",
+    10.7,
+    10.98
+   ],
+   [
+    "Preston",
+    10.98,
+    11.48
+   ],
+   [
+    "North",
+    11.48,
+    11.66
+   ],
+   [
+    "End.",
+    11.66,
+    12.02
+   ],
+   [
+    "The",
+    12.44,
+    12.52
+   ],
+   [
+    "tense",
+    12.52,
+    12.72
+   ],
+   [
+    "match",
+    12.72,
+    13.0
+   ],
+   [
+    "remained",
+    13.0,
+    13.24
+   ],
+   [
+    "totally",
+    13.24,
+    13.66
+   ],
+   [
+    "scoreless",
+    13.66,
+    14.18
+   ],
+   [
+    "until",
+    14.18,
+    14.4
+   ],
+   [
+    "the",
+    14.4,
+    14.58
+   ],
+   [
+    "81st",
+    14.6,
+    15.08
+   ],
+   [
+    "minute.",
+    15.08,
+    15.34
+   ],
+   [
+    "Then",
+    15.86,
+    16.0
+   ],
+   [
+    "Carl",
+    16.0,
+    16.32
+   ],
+   [
+    "Asaba",
+    16.32,
+    16.72
+   ],
+   [
+    "finally",
+    16.72,
+    17.1
+   ],
+   [
+    "gave",
+    17.1,
+    17.34
+   ],
+   [
+    "Gillingham",
+    17.34,
+    17.8
+   ],
+   [
+    "the",
+    17.8,
+    17.96
+   ],
+   [
+    "lead.",
+    17.96,
+    18.18
+   ],
+   [
+    "Manchester",
+    18.64,
+    18.9
+   ],
+   [
+    "City",
+    18.9,
+    19.32
+   ],
+   [
+    "beat",
+    19.32,
+    19.56
+   ],
+   [
+    "Wigan",
+    19.56,
+    19.86
+   ],
+   [
+    "Athletic",
+    19.86,
+    20.26
+   ],
+   [
+    "in",
+    20.26,
+    20.38
+   ],
+   [
+    "the",
+    20.38,
+    20.46
+   ],
+   [
+    "semi-finals.",
+    20.46,
+    21.06
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   34,
+   44,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wembley_Stadium_Twin_Towers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Merv Payne",
+   "page": "https://commons.wikimedia.org/wiki/File:Wembley_Stadium_Twin_Towers.jpg",
+   "desc": "Wembley Stadium Twin Towers — Wembley Stadium Twin Towers, London, England"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/City_team_08102022.jpg/960px-City_team_08102022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 4.0",
+   "artist": "Ratchet8865",
+   "page": "https://commons.wikimedia.org/wiki/File:City_team_08102022.jpg",
+   "desc": "City team 08102022 — The Manchester City team posing with mascots before their Premier League fixture against Southampton, 8th October 2022"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  0,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1999
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 81,
+   "unit": "min",
+   "label": "scoreless minute"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4594716",
+ "pron_wer": 0.065,
+ "angle": 2,
+ "source": {
+  "title": "1999 Football League Second Division play-off final",
+  "url": "https://en.wikipedia.org/wiki/1999_Football_League_Second_Division_play-off_final",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:41:24Z",
+ "trimmed": true
+}

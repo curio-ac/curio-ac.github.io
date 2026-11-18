@@ -180,7 +180,8 @@
   "nasa:1282787",
   "1924 Rose Bowl",
   "Yugoslav gunboat Beli Orao",
-  "nasa:1276268"
+  "nasa:1276268",
+  "Georg Cantor"
  ],
  "rejected": [
   "Chameleon",
@@ -831,6 +832,9 @@
   ],
   "nasa:1276268": [
    "Chasing Fire Clouds: Wildfires can launch smoke straight into the stratosphere."
+  ],
+  "Georg Cantor": [
+   "An Infinity of Infinities: Some infinities are bigger than others."
   ]
  },
  "exhausted": []
