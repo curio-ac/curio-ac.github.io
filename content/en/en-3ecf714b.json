@@ -1,0 +1,405 @@
+{
+ "id": "en-3ecf714b",
+ "lang": "en",
+ "title": "Rug From Baghdad",
+ "cat": "history",
+ "emoji": "🎬",
+ "sentences": [
+  "A stolen mosque rug sparked a 1915 silent film.",
+  "A criminal stole the prayer rug to fund a bank robbery.",
+  "He sold it to an antique dealer.",
+  "The theft put both men and an innocent woman in danger.",
+  "The film received mostly positive reviews.",
+  "Now the movie is mostly lost.",
+  "One damaged reel was salvaged from the sunken Lusitania."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.3,
+    0.3
+   ],
+   [
+    "stolen",
+    0.3,
+    0.54
+   ],
+   [
+    "mosque",
+    0.54,
+    0.84
+   ],
+   [
+    "rug",
+    0.84,
+    1.12
+   ],
+   [
+    "sparked",
+    1.12,
+    1.34
+   ],
+   [
+    "a",
+    1.34,
+    1.54
+   ],
+   [
+    "1915",
+    1.54,
+    2.16
+   ],
+   [
+    "silent",
+    2.16,
+    2.58
+   ],
+   [
+    "film.",
+    2.58,
+    3.02
+   ],
+   [
+    "A",
+    3.44,
+    3.44
+   ],
+   [
+    "criminal",
+    3.44,
+    3.7
+   ],
+   [
+    "stole",
+    3.7,
+    4.0
+   ],
+   [
+    "the",
+    4.0,
+    4.14
+   ],
+   [
+    "prayer",
+    4.18,
+    4.32
+   ],
+   [
+    "rug",
+    4.32,
+    4.56
+   ],
+   [
+    "to",
+    4.56,
+    4.72
+   ],
+   [
+    "fund",
+    4.74,
+    4.86
+   ],
+   [
+    "a",
+    4.86,
+    4.94
+   ],
+   [
+    "bank",
+    4.94,
+    5.12
+   ],
+   [
+    "robbery.",
+    5.12,
+    5.52
+   ],
+   [
+    "He",
+    5.9,
+    5.98
+   ],
+   [
+    "sold",
+    5.98,
+    6.16
+   ],
+   [
+    "it",
+    6.16,
+    6.26
+   ],
+   [
+    "to",
+    6.26,
+    6.34
+   ],
+   [
+    "an",
+    6.34,
+    6.48
+   ],
+   [
+    "antique",
+    6.48,
+    6.72
+   ],
+   [
+    "dealer.",
+    6.72,
+    7.07
+   ],
+   [
+    "The",
+    7.52,
+    7.58
+   ],
+   [
+    "theft",
+    7.58,
+    7.76
+   ],
+   [
+    "put",
+    7.76,
+    7.98
+   ],
+   [
+    "both",
+    7.98,
+    8.16
+   ],
+   [
+    "men",
+    8.16,
+    8.44
+   ],
+   [
+    "and",
+    8.44,
+    8.74
+   ],
+   [
+    "an",
+    8.74,
+    8.86
+   ],
+   [
+    "innocent",
+    8.86,
+    9.1
+   ],
+   [
+    "woman",
+    9.1,
+    9.4
+   ],
+   [
+    "in",
+    9.4,
+    9.56
+   ],
+   [
+    "danger.",
+    9.56,
+    9.98
+   ],
+   [
+    "The",
+    10.32,
+    10.38
+   ],
+   [
+    "film",
+    10.44,
+    10.54
+   ],
+   [
+    "received",
+    10.54,
+    10.88
+   ],
+   [
+    "mostly",
+    10.88,
+    11.16
+   ],
+   [
+    "positive",
+    11.16,
+    11.54
+   ],
+   [
+    "reviews.",
+    11.54,
+    12.2
+   ],
+   [
+    "Now",
+    12.5,
+    12.6
+   ],
+   [
+    "the",
+    12.6,
+    12.74
+   ],
+   [
+    "movie",
+    12.74,
+    12.9
+   ],
+   [
+    "is",
+    12.9,
+    13.04
+   ],
+   [
+    "mostly",
+    13.04,
+    13.26
+   ],
+   [
+    "lost.",
+    13.26,
+    13.36
+   ],
+   [
+    "One",
+    13.98,
+    14.12
+   ],
+   [
+    "damaged",
+    14.12,
+    14.42
+   ],
+   [
+    "reel",
+    14.42,
+    14.72
+   ],
+   [
+    "was",
+    14.72,
+    14.9
+   ],
+   [
+    "salvaged",
+    14.9,
+    15.28
+   ],
+   [
+    "from",
+    15.28,
+    15.44
+   ],
+   [
+    "the",
+    15.44,
+    15.56
+   ],
+   [
+    "sunken",
+    15.56,
+    15.82
+   ],
+   [
+    "Lusitania.",
+    15.82,
+    16.32
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   20,
+   27,
+   38,
+   44,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/CarpetfromBagdad.jpg/960px-CarpetfromBagdad.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 564,
+   "license": "Public domain",
+   "artist": "The image appeared in the journal Motography. The film was produced by Selig Pol",
+   "page": "https://commons.wikimedia.org/wiki/File:CarpetfromBagdad.jpg",
+   "desc": "CarpetfromBagdad — Wheeler Oakman, Kathlyn Williams, and Charles Clary in a still from the lost film The Carpet from Bagdad (1915), as reprinted in the journal Motography"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Carpet_from_Bagdad_newspaper_ad.png/960px-Carpet_from_Bagdad_newspaper_ad.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 170,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Carpet_from_Bagdad_newspaper_ad.png",
+   "desc": "Carpet from Bagdad newspaper ad — Seattle newspaper ad for the film \"The Carpet from Bagdad\"."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Lost_House_1915.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 665,
+   "license": "Public domain",
+   "artist": "Majestic Motion Picture Company",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Lost_House_1915.png",
+   "desc": "The Lost House 1915 — Still from 1915 silent film The Lost House which appears in March 13, 1915 issue of Reel Life. see also https://archive.org/stream/reellife05unse#page/n893/mode/2up - Caption says \"Ford and Dosia Leaped into the Waiting "
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1915
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1982
+  }
+ ],
+ "geo": null,
+ "qid": "Q3520209",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "The Carpet from Bagdad",
+  "url": "https://en.wikipedia.org/wiki/The_Carpet_from_Bagdad",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:46:37Z",
+ "trimmed": true
+}
