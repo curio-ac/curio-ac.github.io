@@ -1,0 +1,304 @@
+{
+ "id": "en-853f35df",
+ "lang": "en",
+ "title": "An Infinity of Infinities",
+ "cat": "math",
+ "emoji": "🔢",
+ "sentences": [
+  "Some infinities are bigger than others.",
+  "Georg Cantor created set theory in mathematics.",
+  "He proved real numbers outnumber natural numbers.",
+  "His bold method proved an infinity of infinities exists.",
+  "Other mathematicians strongly resisted his shocking ideas.",
+  "Cantor was a devout Lutheran Christian."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Some",
+    0.3,
+    0.3
+   ],
+   [
+    "infinities",
+    0.3,
+    0.84
+   ],
+   [
+    "are",
+    0.84,
+    1.08
+   ],
+   [
+    "bigger",
+    1.08,
+    1.26
+   ],
+   [
+    "than",
+    1.34,
+    1.44
+   ],
+   [
+    "others.",
+    1.44,
+    2.04
+   ],
+   [
+    "Georg",
+    2.28,
+    2.48
+   ],
+   [
+    "Cantor",
+    2.48,
+    3.08
+   ],
+   [
+    "created",
+    3.08,
+    3.36
+   ],
+   [
+    "set",
+    3.36,
+    3.66
+   ],
+   [
+    "theory",
+    3.66,
+    4.0
+   ],
+   [
+    "in",
+    4.0,
+    4.18
+   ],
+   [
+    "mathematics.",
+    4.18,
+    4.64
+   ],
+   [
+    "He",
+    5.22,
+    5.32
+   ],
+   [
+    "proved",
+    5.32,
+    5.64
+   ],
+   [
+    "real",
+    5.64,
+    5.98
+   ],
+   [
+    "numbers",
+    5.98,
+    6.38
+   ],
+   [
+    "outnumber",
+    6.38,
+    6.98
+   ],
+   [
+    "natural",
+    6.98,
+    7.3
+   ],
+   [
+    "numbers.",
+    7.3,
+    7.7
+   ],
+   [
+    "His",
+    8.2,
+    8.3
+   ],
+   [
+    "bold",
+    8.3,
+    8.52
+   ],
+   [
+    "method",
+    8.52,
+    8.82
+   ],
+   [
+    "proved",
+    8.82,
+    9.14
+   ],
+   [
+    "an",
+    9.14,
+    9.36
+   ],
+   [
+    "infinity",
+    9.36,
+    9.7
+   ],
+   [
+    "of",
+    9.7,
+    10.06
+   ],
+   [
+    "infinities",
+    10.06,
+    10.6
+   ],
+   [
+    "exists.",
+    10.6,
+    10.98
+   ],
+   [
+    "Other",
+    11.64,
+    11.8
+   ],
+   [
+    "mathematicians",
+    11.8,
+    12.52
+   ],
+   [
+    "strongly",
+    12.52,
+    12.86
+   ],
+   [
+    "resisted",
+    12.86,
+    13.5
+   ],
+   [
+    "his",
+    13.5,
+    13.62
+   ],
+   [
+    "shocking",
+    13.62,
+    13.9
+   ],
+   [
+    "ideas.",
+    13.9,
+    14.4
+   ],
+   [
+    "Cantor",
+    14.98,
+    15.38
+   ],
+   [
+    "was",
+    15.38,
+    15.54
+   ],
+   [
+    "a",
+    15.54,
+    15.68
+   ],
+   [
+    "devout",
+    15.68,
+    15.98
+   ],
+   [
+    "Lutheran",
+    15.98,
+    16.42
+   ],
+   [
+    "Christian.",
+    16.42,
+    16.8
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   20,
+   29,
+   36
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Passage_with_the_set_definition_of_Georg_Cantor.png/960px-Passage_with_the_set_definition_of_Georg_Cantor.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 305,
+   "license": "Public domain",
+   "artist": "Georg Cantor",
+   "page": "https://commons.wikimedia.org/wiki/File:Passage_with_the_set_definition_of_Georg_Cantor.png",
+   "desc": "Passage with the set definition of Georg Cantor — Passage with the set definition of Georg Cantor"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Georg_Cantor_%28Portr%C3%A4t%29.jpg/960px-Georg_Cantor_%28Portr%C3%A4t%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 973,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Georg_Cantor_(Portr%C3%A4t).jpg",
+   "desc": "Georg Cantor (Porträt) — Der deutsche Matematiker Georg Cantor (1845-1918)"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1845
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q76420",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Georg Cantor",
+  "url": "https://en.wikipedia.org/wiki/Georg_Cantor",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:38:55Z",
+ "trimmed": true
+}

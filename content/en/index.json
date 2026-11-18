@@ -179,7 +179,8 @@
   "nasa:1342033",
   "nasa:1282787",
   "1924 Rose Bowl",
-  "Yugoslav gunboat Beli Orao"
+  "Yugoslav gunboat Beli Orao",
+  "nasa:1276268"
  ],
  "rejected": [
   "Chameleon",
@@ -827,6 +828,9 @@
   ],
   "Yugoslav gunboat Beli Orao": [
    "The Royal Yacht Warship: This royal yacht was built in 1938."
+  ],
+  "nasa:1276268": [
+   "Chasing Fire Clouds: Wildfires can launch smoke straight into the stratosphere."
   ]
  },
  "exhausted": []
