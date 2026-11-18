@@ -1,0 +1,422 @@
+{
+ "id": "en-67a95d1d",
+ "lang": "en",
+ "title": "The Golden Draft Horse",
+ "cat": "biology",
+ "emoji": "🐴",
+ "sentences": [
+  "This rare horse has a gold coat!",
+  "The breed started in Iowa from a mare named Old Granny.",
+  "Their numbers dropped when farming became mechanized.",
+  "Their registry was reactivated in 1982.",
+  "They have calm temperaments and strong hooves.",
+  "Mares stand 15 to 16 hands and weigh 1,500 to 1,600 pounds.",
+  "Today, their survival status is still critical."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "rare",
+    0.35,
+    0.59
+   ],
+   [
+    "horse",
+    0.59,
+    0.87
+   ],
+   [
+    "has",
+    0.87,
+    1.09
+   ],
+   [
+    "a",
+    1.09,
+    1.23
+   ],
+   [
+    "gold",
+    1.23,
+    1.33
+   ],
+   [
+    "coat!",
+    1.33,
+    2.19
+   ],
+   [
+    "The",
+    2.23,
+    2.27
+   ],
+   [
+    "breed",
+    2.27,
+    2.43
+   ],
+   [
+    "started",
+    2.43,
+    2.73
+   ],
+   [
+    "in",
+    2.73,
+    2.97
+   ],
+   [
+    "Iowa",
+    2.97,
+    3.25
+   ],
+   [
+    "from",
+    3.25,
+    3.51
+   ],
+   [
+    "a",
+    3.51,
+    3.65
+   ],
+   [
+    "mare",
+    3.65,
+    3.81
+   ],
+   [
+    "named",
+    3.81,
+    4.13
+   ],
+   [
+    "Old",
+    4.13,
+    4.43
+   ],
+   [
+    "Granny.",
+    4.43,
+    4.97
+   ],
+   [
+    "Their",
+    5.35,
+    5.43
+   ],
+   [
+    "numbers",
+    5.43,
+    5.67
+   ],
+   [
+    "dropped",
+    5.67,
+    6.03
+   ],
+   [
+    "when",
+    6.03,
+    6.25
+   ],
+   [
+    "farming",
+    6.25,
+    6.51
+   ],
+   [
+    "became",
+    6.51,
+    6.81
+   ],
+   [
+    "mechanized.",
+    6.81,
+    7.33
+   ],
+   [
+    "Their",
+    7.83,
+    7.91
+   ],
+   [
+    "registry",
+    7.91,
+    8.25
+   ],
+   [
+    "was",
+    8.25,
+    8.47
+   ],
+   [
+    "reactivated",
+    8.47,
+    9.17
+   ],
+   [
+    "in",
+    9.17,
+    9.31
+   ],
+   [
+    "1982.",
+    9.31,
+    10.17
+   ],
+   [
+    "They",
+    10.71,
+    10.81
+   ],
+   [
+    "have",
+    10.81,
+    10.93
+   ],
+   [
+    "calm",
+    10.93,
+    11.21
+   ],
+   [
+    "temperaments",
+    11.21,
+    11.77
+   ],
+   [
+    "and",
+    11.77,
+    11.93
+   ],
+   [
+    "strong",
+    11.93,
+    12.23
+   ],
+   [
+    "hooves.",
+    12.23,
+    12.77
+   ],
+   [
+    "Mares",
+    13.23,
+    13.49
+   ],
+   [
+    "stand",
+    13.49,
+    13.71
+   ],
+   [
+    "15",
+    13.71,
+    14.09
+   ],
+   [
+    "to",
+    14.09,
+    14.23
+   ],
+   [
+    "16",
+    14.23,
+    14.55
+   ],
+   [
+    "hands",
+    14.55,
+    14.95
+   ],
+   [
+    "and",
+    14.95,
+    15.19
+   ],
+   [
+    "weigh",
+    15.19,
+    15.35
+   ],
+   [
+    "1,500",
+    15.35,
+    16.27
+   ],
+   [
+    "to",
+    16.27,
+    16.63
+   ],
+   [
+    "1,600",
+    16.63,
+    17.37
+   ],
+   [
+    "pounds.",
+    17.37,
+    17.85
+   ],
+   [
+    "Today,",
+    18.47,
+    18.87
+   ],
+   [
+    "their",
+    19.05,
+    19.13
+   ],
+   [
+    "survival",
+    19.13,
+    19.43
+   ],
+   [
+    "status",
+    19.43,
+    19.77
+   ],
+   [
+    "is",
+    19.77,
+    20.01
+   ],
+   [
+    "still",
+    20.01,
+    20.19
+   ],
+   [
+    "critical.",
+    20.19,
+    20.73
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   25,
+   31,
+   38,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/ACD_Horses_in_Parade_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 602,
+   "license": "CC BY-SA 2.5",
+   "artist": "No machine-readable author provided. Kaibelg~commonswiki assumed (based on copyr",
+   "page": "https://commons.wikimedia.org/wiki/File:ACD_Horses_in_Parade_(cropped).jpg",
+   "desc": "ACD Horses in Parade (cropped) — American Cream Draft Horses in Minnesota State Fair Parade"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/American_Cream_Draft_Horse1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Just chaos",
+   "page": "https://commons.wikimedia.org/wiki/File:American_Cream_Draft_Horse1.jpg",
+   "desc": "American Cream Draft Horse1 — American Cream Draft Horse. Endangered Domestic Breed"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Americanstudbookvolume2open.jpg/960px-Americanstudbookvolume2open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 3.0",
+   "artist": "Ealdgyth",
+   "page": "https://commons.wikimedia.org/wiki/File:Americanstudbookvolume2open.jpg",
+   "desc": "Americanstudbookvolume2open — Volume Two of the American Stud Book, 1873, the stud book for American Thoroughbred horses"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sleeping_American_Cream_Draft_Horse.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 494,
+   "license": "CC BY 2.0",
+   "artist": "Just chaos",
+   "page": "https://commons.wikimedia.org/wiki/File:Sleeping_American_Cream_Draft_Horse.jpg",
+   "desc": "Sleeping American Cream Draft Horse — American Cream Draft Horse"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/American_Cream_Draft_Horse.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 630,
+   "license": "CC BY 2.0",
+   "artist": "[https see djejeejeoemei://www.flickr.com/photos/7326810@N08 Just chaos]",
+   "page": "https://commons.wikimedia.org/wiki/File:American_Cream_Draft_Horse.jpg",
+   "desc": "American Cream Draft Horse — American Cream Draft Horse"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  4,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1982
+  },
+  {
+   "type": "focus",
+   "target": "hooves",
+   "box": [
+    648,
+    678,
+    808,
+    776
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 1.63,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q338051",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "American Cream Draft",
+  "url": "https://en.wikipedia.org/wiki/American_Cream_Draft",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T13:46:07Z",
+ "trimmed": true
+}
