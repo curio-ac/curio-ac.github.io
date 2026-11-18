@@ -1,0 +1,327 @@
+{
+ "id": "he-6c97e0da",
+ "lang": "he",
+ "title": "סתיו מוקדם בקנדה",
+ "cat": "geography",
+ "emoji": "🍁",
+ "sentences": [
+  "הסתיו מגיע מוקדם מאוד לטונדרה בצפון קנדה.",
+  "לוויין Landsat 9 תיעד שינוי צבע מדהים ב-6 בספטמבר.",
+  "אוכלוסיות של צמחים נמוכים הופכות לאדום, כתום וצהוב.",
+  "רמת הכלורופיל יורדת כשמזג האוויר מתקרר והימים מתקצרים.",
+  "שיא הצבע באזורים הצפוניים האלו נמשך שבוע אחד או פחות."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הסתיו",
+    0,
+    0.44
+   ],
+   [
+    "מגיע",
+    0.44,
+    0.8
+   ],
+   [
+    "מוקדם",
+    0.8,
+    1.32
+   ],
+   [
+    "מאוד",
+    1.32,
+    1.58
+   ],
+   [
+    "לטונדרה",
+    1.58,
+    2.22
+   ],
+   [
+    "בצפון",
+    2.22,
+    2.62
+   ],
+   [
+    "קנדה.",
+    2.62,
+    2.88
+   ],
+   [
+    "לוויין",
+    3.72,
+    4.1
+   ],
+   [
+    "Landsat",
+    4.1,
+    4.64
+   ],
+   [
+    "9",
+    4.68,
+    4.9
+   ],
+   [
+    "תיעד",
+    4.9,
+    5.68
+   ],
+   [
+    "שינוי",
+    5.68,
+    6.12
+   ],
+   [
+    "צבע",
+    6.22,
+    6.46
+   ],
+   [
+    "מדהים",
+    6.46,
+    7.02
+   ],
+   [
+    "ב-6",
+    7.02,
+    7.4
+   ],
+   [
+    "בספטמבר.",
+    7.4,
+    8.12
+   ],
+   [
+    "אוכלוסיות",
+    8.98,
+    9.46
+   ],
+   [
+    "של",
+    9.46,
+    9.64
+   ],
+   [
+    "צמחים",
+    9.64,
+    10.12
+   ],
+   [
+    "נמוכים",
+    10.12,
+    10.64
+   ],
+   [
+    "הופכות",
+    10.64,
+    11.12
+   ],
+   [
+    "לאדום,",
+    11.12,
+    11.82
+   ],
+   [
+    "כתום",
+    12.22,
+    12.48
+   ],
+   [
+    "וצהוב.",
+    12.48,
+    13.08
+   ],
+   [
+    "רמת",
+    14.0,
+    14.2
+   ],
+   [
+    "הכלורופיל",
+    14.2,
+    14.86
+   ],
+   [
+    "יורדת",
+    14.86,
+    15.42
+   ],
+   [
+    "כשמזג",
+    15.54,
+    15.96
+   ],
+   [
+    "האוויר",
+    15.96,
+    16.3
+   ],
+   [
+    "מתקרר",
+    16.3,
+    16.92
+   ],
+   [
+    "והימים",
+    16.92,
+    17.54
+   ],
+   [
+    "מתקצרים.",
+    17.54,
+    18.12
+   ],
+   [
+    "שיא",
+    19.12,
+    19.26
+   ],
+   [
+    "הצבע",
+    19.26,
+    19.72
+   ],
+   [
+    "באזורים",
+    19.72,
+    20.26
+   ],
+   [
+    "הצפוניים",
+    20.26,
+    20.84
+   ],
+   [
+    "האלו",
+    20.84,
+    21.2
+   ],
+   [
+    "נמשך",
+    21.3,
+    21.74
+   ],
+   [
+    "שבוע",
+    21.82,
+    22.28
+   ],
+   [
+    "אחד",
+    22.28,
+    22.6
+   ],
+   [
+    "או",
+    22.6,
+    23.06
+   ],
+   [
+    "פחות.",
+    23.06,
+    23.6
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   32
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_727%29.jpg/960px-An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 601,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Early_Look_at_Fall_Color_in_Canada_(1320015_-_727).jpg",
+   "desc": "An Early Look at Fall Color in Canada (1320015 - 727) — Autumn color sweeps across the low-growing shrubs and tundra vegetation of Nunavut, Canada, in this image pair captured by the OLI (Operational Land Imager) on Landsat 9. NASA Earth Observatory images by "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906%29.jpg/960px-An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 601,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Early_Look_at_Fall_Color_in_Canada_(1320015_-_906).jpg",
+   "desc": "An Early Look at Fall Color in Canada (1320015 - 906) — Autumn color sweeps across the low-growing shrubs and tundra vegetation of Nunavut, Canada, in this image pair captured by the OLI (Operational Land Imager) on Landsat 9. NASA Earth Observatory images by "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906_lrg%29.jpg/960px-An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 521,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Early_Look_at_Fall_Color_in_Canada_(1320015_-_906_lrg).jpg",
+   "desc": "An Early Look at Fall Color in Canada (1320015 - 906 lrg) — Autumn color sweeps across the low-growing shrubs and tundra vegetation of Nunavut, Canada, in this image pair captured by the OLI (Operational Land Imager) on Landsat 9. NASA Earth Observatory images"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Fall_Colors_in_Quebec%2C_New_York%2C_and_New_England_%28MODIS%29.jpg/960px-Fall_Colors_in_Quebec%2C_New_York%2C_and_New_England_%28MODIS%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 548,
+   "license": "Public domain",
+   "artist": "MODIS Land Rapid Response Team, NASA GSFC",
+   "page": "https://commons.wikimedia.org/wiki/File:Fall_Colors_in_Quebec,_New_York,_and_New_England_(MODIS).jpg",
+   "desc": "Fall Colors in Quebec, New York, and New England (MODIS) — With daylight hours shortening and temperatures cooling, the annual flush of autumn color was painting the deciduous forests of Canada and the Northeastern United States with a glorious glow in early O"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_727_lrg%29.jpg/960px-An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_727_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 521,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Early_Look_at_Fall_Color_in_Canada_(1320015_-_727_lrg).jpg",
+   "desc": "An Early Look at Fall Color in Canada (1320015 - 727 lrg) — Autumn color sweeps across the low-growing shrubs and tundra vegetation of Nunavut, Canada, in this image pair captured by the OLI (Operational Land Imager) on Landsat 9. NASA Earth Observatory images"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 9,
+   "unit": "Landsat",
+   "label": "Landsat 9"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+ "pron_wer": 0.023,
+ "angle": 1,
+ "source": {
+  "title": "An Early Look at Fall Color in Canada",
+  "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:29:53Z",
+ "trimmed": true
+}
