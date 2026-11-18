@@ -151,7 +151,8 @@
   "nasa:1283120",
   "Battle of Bergerac",
   "Black-and-yellow broadbill",
-  "nasa:1280714"
+  "nasa:1280714",
+  "2015 Trophée Éric Bompard"
  ],
  "rejected": [
   "Chameleon",
@@ -186,7 +187,8 @@
   "Bluebuck",
   "nasa:1350129",
   "nasa:1277717",
-  "1950 United States Senate election in California"
+  "1950 United States Senate election in California",
+  "nasa:1505698"
  ],
  "angles": {
   "Blue whale": [
@@ -692,6 +694,9 @@
   ],
   "nasa:1280714": [
    "Atacama Desert's Rare Snow: Parts of the Atacama Desert just turned white."
+  ],
+  "2015 Trophée Éric Bompard": [
+   "Figure Skating Event Cancelled: A major skating competition was suddenly cancelled."
   ]
  },
  "exhausted": []
