@@ -1,0 +1,390 @@
+{
+ "id": "en-51fb087b",
+ "lang": "en",
+ "title": "The Story of Steve Jobs",
+ "cat": "technology",
+ "emoji": "🍎",
+ "sentences": [
+  "Steve Jobs was fired from Apple.",
+  "He co-founded the Apple Computer Company in 1976 with Steve Wozniak.",
+  "After being fired in 1985, he founded a company called NeXT.",
+  "He also purchased Pixar in 1986, becoming its chairman.",
+  "He returned to Apple as CEO in 1997.",
+  "Jobs eventually resigned from the company in 2011."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Steve",
+    0.35,
+    0.35
+   ],
+   [
+    "Jobs",
+    0.35,
+    0.61
+   ],
+   [
+    "was",
+    0.61,
+    0.91
+   ],
+   [
+    "fired",
+    0.91,
+    1.15
+   ],
+   [
+    "from",
+    1.15,
+    1.35
+   ],
+   [
+    "Apple.",
+    1.35,
+    1.69
+   ],
+   [
+    "He",
+    2.11,
+    2.13
+   ],
+   [
+    "co-founded",
+    2.13,
+    2.59
+   ],
+   [
+    "the",
+    2.59,
+    2.75
+   ],
+   [
+    "Apple",
+    2.75,
+    2.97
+   ],
+   [
+    "Computer",
+    2.97,
+    3.35
+   ],
+   [
+    "Company",
+    3.35,
+    3.71
+   ],
+   [
+    "in",
+    3.71,
+    3.89
+   ],
+   [
+    "1976",
+    3.89,
+    4.61
+   ],
+   [
+    "with",
+    4.61,
+    5.09
+   ],
+   [
+    "Steve",
+    5.09,
+    5.31
+   ],
+   [
+    "Wozniak.",
+    5.31,
+    5.83
+   ],
+   [
+    "After",
+    6.19,
+    6.37
+   ],
+   [
+    "being",
+    6.37,
+    6.57
+   ],
+   [
+    "fired",
+    6.57,
+    6.89
+   ],
+   [
+    "in",
+    6.89,
+    7.11
+   ],
+   [
+    "1985,",
+    7.11,
+    7.66
+   ],
+   [
+    "he",
+    8.19,
+    8.21
+   ],
+   [
+    "founded",
+    8.21,
+    8.49
+   ],
+   [
+    "a",
+    8.49,
+    8.63
+   ],
+   [
+    "company",
+    8.63,
+    8.87
+   ],
+   [
+    "called",
+    8.87,
+    9.17
+   ],
+   [
+    "NeXT.",
+    9.17,
+    9.61
+   ],
+   [
+    "He",
+    10.05,
+    10.15
+   ],
+   [
+    "also",
+    10.15,
+    10.37
+   ],
+   [
+    "purchased",
+    10.37,
+    10.77
+   ],
+   [
+    "Pixar",
+    10.77,
+    11.15
+   ],
+   [
+    "in",
+    11.15,
+    11.37
+   ],
+   [
+    "1986,",
+    11.37,
+    12.07
+   ],
+   [
+    "becoming",
+    12.51,
+    12.61
+   ],
+   [
+    "its",
+    12.61,
+    12.83
+   ],
+   [
+    "chairman.",
+    12.83,
+    13.23
+   ],
+   [
+    "He",
+    13.51,
+    13.59
+   ],
+   [
+    "returned",
+    13.59,
+    13.83
+   ],
+   [
+    "to",
+    13.83,
+    14.01
+   ],
+   [
+    "Apple",
+    14.01,
+    14.23
+   ],
+   [
+    "as",
+    14.23,
+    14.47
+   ],
+   [
+    "CEO",
+    14.47,
+    14.75
+   ],
+   [
+    "in",
+    14.75,
+    15.13
+   ],
+   [
+    "1997.",
+    15.13,
+    16.01
+   ],
+   [
+    "Jobs",
+    16.39,
+    16.65
+   ],
+   [
+    "eventually",
+    16.65,
+    16.97
+   ],
+   [
+    "resigned",
+    16.97,
+    17.43
+   ],
+   [
+    "from",
+    17.43,
+    17.71
+   ],
+   [
+    "the",
+    17.71,
+    17.81
+   ],
+   [
+    "company",
+    17.81,
+    18.13
+   ],
+   [
+    "in",
+    18.13,
+    18.35
+   ],
+   [
+    "2011.",
+    18.35,
+    19.0
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   28,
+   37,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Apple_Garage.jpg/960px-Apple_Garage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mathieu Thouvenin",
+   "page": "https://commons.wikimedia.org/wiki/File:Apple_Garage.jpg",
+   "desc": "Apple Garage — Garage of Steve Jobs' parents on Crist Drive in Los Altos, California"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/900_Chesapeake_Drive.jpg/960px-900_Chesapeake_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 384,
+   "license": "CC BY-SA 4.0",
+   "artist": "Coolcaesar",
+   "page": "https://commons.wikimedia.org/wiki/File:900_Chesapeake_Drive.jpg",
+   "desc": "900 Chesapeake Drive — 900 Chesapeake Drive in Redwood City, California. This office building is the former home of now-defunct NeXT Computer. Photographed by user Coolcaesar on July 3, 2022."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_Bug%27s_Life_crew_in_Oval_Office_1998.jpg/960px-A_Bug%27s_Life_crew_in_Oval_Office_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "Public domain",
+   "artist": "Sharon Farmer",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Bug%27s_Life_crew_in_Oval_Office_1998.jpg",
+   "desc": "A Bug's Life crew in Oval Office 1998 — Steve Jobs inside the Oval Office with A Bug's Life crew, November 1998."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Steve_Jobs.jpg/960px-Steve_Jobs.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1049,
+   "license": "CC BY 3.0",
+   "artist": "Matthew Yohe",
+   "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs.jpg",
+   "desc": "Steve Jobs — A cropped version of en:Image:SteveJobsMacbookAir.JPG. Steve Jobs holding a en:MacBook Air (at en:MacWorld Conference &amp; Expo 2008 - Moscone Center - San Francisco, CA)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Steve_Jobs_%281%29.JPG/960px-Steve_Jobs_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 548,
+   "license": "CC BY-SA 3.0",
+   "artist": "Derzsi Elekes Andor",
+   "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_(1).JPG",
+   "desc": "Steve Jobs (1) — Steve Jobs : „The only way to do great work/ Is to love what you do …” Steve Jobs, co-founder of Apple Corp died on Oct. 5, 2011. at the age of 56. Gabor Bojar, founder of Graphisoft, first met Jobs in 1984 at the CEBIT "
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1976
+  },
+  {
+   "type": "timeline",
+   "year": 1985
+  },
+  {
+   "type": "timeline",
+   "year": 1986
+  },
+  {
+   "type": "timeline",
+   "year": 1997
+  },
+  {
+   "type": "timeline",
+   "year": 2011
+  }
+ ],
+ "geo": null,
+ "qid": "Q19837",
+ "pron_wer": 0.019,
+ "angle": 1,
+ "source": {
+  "title": "Steve Jobs",
+  "url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:58:28Z",
+ "trimmed": true
+}
