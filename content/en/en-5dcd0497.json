@@ -1,0 +1,402 @@
+{
+ "id": "en-5dcd0497",
+ "lang": "en",
+ "title": "Presidential In-Law and Secretary",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "He married a future president's daughter!",
+  "Tragically, she died from malaria just 3 months after the wedding.",
+  "He later served as the 23rd United States secretary of war.",
+  "His eldest brother secured his appointment to the United States Military Academy.",
+  "He graduated and served 6 years as an army lieutenant.",
+  "Davis was the youngest of 10 children born in Kentucky."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.28,
+    0.28
+   ],
+   [
+    "married",
+    0.28,
+    0.54
+   ],
+   [
+    "a",
+    0.54,
+    0.66
+   ],
+   [
+    "future",
+    0.66,
+    0.84
+   ],
+   [
+    "president's",
+    0.84,
+    1.42
+   ],
+   [
+    "daughter!",
+    1.42,
+    1.84
+   ],
+   [
+    "Tragically,",
+    2.22,
+    2.84
+   ],
+   [
+    "she",
+    2.9,
+    2.9
+   ],
+   [
+    "died",
+    2.9,
+    3.12
+   ],
+   [
+    "from",
+    3.12,
+    3.32
+   ],
+   [
+    "malaria",
+    3.32,
+    3.62
+   ],
+   [
+    "just",
+    3.62,
+    4.02
+   ],
+   [
+    "3",
+    4.02,
+    4.3
+   ],
+   [
+    "months",
+    4.3,
+    4.48
+   ],
+   [
+    "after",
+    4.48,
+    4.78
+   ],
+   [
+    "the",
+    4.78,
+    4.9
+   ],
+   [
+    "wedding.",
+    4.9,
+    5.18
+   ],
+   [
+    "He",
+    5.66,
+    5.74
+   ],
+   [
+    "later",
+    5.74,
+    5.94
+   ],
+   [
+    "served",
+    5.94,
+    6.26
+   ],
+   [
+    "as",
+    6.26,
+    6.44
+   ],
+   [
+    "the",
+    6.44,
+    6.54
+   ],
+   [
+    "23rd",
+    6.54,
+    7.08
+   ],
+   [
+    "United",
+    7.08,
+    7.24
+   ],
+   [
+    "States",
+    7.24,
+    7.64
+   ],
+   [
+    "secretary",
+    7.64,
+    7.96
+   ],
+   [
+    "of",
+    7.96,
+    8.36
+   ],
+   [
+    "war.",
+    8.36,
+    8.66
+   ],
+   [
+    "His",
+    9.12,
+    9.22
+   ],
+   [
+    "eldest",
+    9.22,
+    9.44
+   ],
+   [
+    "brother",
+    9.44,
+    9.82
+   ],
+   [
+    "secured",
+    9.82,
+    10.2
+   ],
+   [
+    "his",
+    10.2,
+    10.4
+   ],
+   [
+    "appointment",
+    10.4,
+    10.72
+   ],
+   [
+    "to",
+    10.72,
+    10.96
+   ],
+   [
+    "the",
+    10.96,
+    11.06
+   ],
+   [
+    "United",
+    11.06,
+    11.28
+   ],
+   [
+    "States",
+    11.28,
+    11.64
+   ],
+   [
+    "Military",
+    11.64,
+    11.96
+   ],
+   [
+    "Academy.",
+    11.96,
+    12.7
+   ],
+   [
+    "He",
+    13.08,
+    13.16
+   ],
+   [
+    "graduated",
+    13.16,
+    13.6
+   ],
+   [
+    "and",
+    13.6,
+    13.86
+   ],
+   [
+    "served",
+    13.86,
+    14.1
+   ],
+   [
+    "6",
+    14.1,
+    14.42
+   ],
+   [
+    "years",
+    14.42,
+    14.72
+   ],
+   [
+    "as",
+    14.72,
+    14.9
+   ],
+   [
+    "an",
+    14.9,
+    15.0
+   ],
+   [
+    "army",
+    15.0,
+    15.22
+   ],
+   [
+    "lieutenant.",
+    15.22,
+    15.68
+   ],
+   [
+    "Davis",
+    16.28,
+    16.46
+   ],
+   [
+    "was",
+    16.46,
+    16.7
+   ],
+   [
+    "the",
+    16.7,
+    16.82
+   ],
+   [
+    "youngest",
+    16.82,
+    17.04
+   ],
+   [
+    "of",
+    17.04,
+    17.28
+   ],
+   [
+    "10",
+    17.28,
+    17.48
+   ],
+   [
+    "children",
+    17.48,
+    17.74
+   ],
+   [
+    "born",
+    17.74,
+    18.04
+   ],
+   [
+    "in",
+    18.04,
+    18.18
+   ],
+   [
+    "Kentucky.",
+    18.18,
+    18.54
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   28,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Defeat_of_the_Mexican_Lancers_by_the_Mississippi_Rifles.jpg/960px-Defeat_of_the_Mexican_Lancers_by_the_Mississippi_Rifles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 380,
+   "license": "Public domain",
+   "artist": "Sam Chamberlain",
+   "page": "https://commons.wikimedia.org/wiki/File:Defeat_of_the_Mexican_Lancers_by_the_Mississippi_Rifles.jpg",
+   "desc": "Defeat of the Mexican Lancers by the Mississippi Rifles — Watercolor of Defeat of the Mexican Lancers by the Mississippi Rifles by Samuel Chamberlain (1829-1908) from his work My Confession: Recollections of a Rogue\""
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Horse-hollow-cabin-ky1.jpg/960px-Horse-hollow-cabin-ky1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "Brian Stansberry",
+   "page": "https://commons.wikimedia.org/wiki/File:Horse-hollow-cabin-ky1.jpg",
+   "desc": "Horse-hollow-cabin-ky1 — Log cabin in downtown Monticello, Kentucky, USA, built in the early 19th-century by early settler \"Racoon\" John Smith (1784-1868). The cabin was originally located in Horse Hollow on the Little South Fork River."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  0,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "months",
+   "label": "after the wedding"
+  },
+  {
+   "type": "stat",
+   "value": 23,
+   "unit": "secretary",
+   "label": "United States war"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 6,
+   "unit": "years",
+   "label": "as an army lieutenant"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q162269",
+ "pron_wer": 0.049,
+ "angle": 2,
+ "source": {
+  "title": "Jefferson Davis",
+  "url": "https://en.wikipedia.org/wiki/Jefferson_Davis",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:49:35Z",
+ "trimmed": true
+}
