@@ -1,0 +1,496 @@
+{
+ "id": "en-2b441b8e",
+ "lang": "en",
+ "title": "Meet the Lesser Dog",
+ "cat": "space",
+ "emoji": "🐕",
+ "sentences": [
+  "Meet the lesser dog of the night sky.",
+  "Canis Minor is a small constellation following Orion the hunter.",
+  "It has only two stars brighter than the 4th magnitude.",
+  "Procyon is the 8th brightest star and sits very close to us.",
+  "It even has a white dwarf companion.",
+  "Gomeisa is a blue white main sequence star nearby.",
+  "Procyon and Luyten's Star are just 1.12 light years apart from each other."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.16,
+    0.16
+   ],
+   [
+    "the",
+    0.16,
+    0.4
+   ],
+   [
+    "lesser",
+    0.4,
+    0.74
+   ],
+   [
+    "dog",
+    0.74,
+    1.08
+   ],
+   [
+    "of",
+    1.08,
+    1.24
+   ],
+   [
+    "the",
+    1.24,
+    1.34
+   ],
+   [
+    "night",
+    1.34,
+    1.5
+   ],
+   [
+    "sky.",
+    1.5,
+    1.9
+   ],
+   [
+    "Canis",
+    2.4,
+    2.68
+   ],
+   [
+    "Minor",
+    2.68,
+    2.96
+   ],
+   [
+    "is",
+    2.96,
+    3.24
+   ],
+   [
+    "a",
+    3.24,
+    3.34
+   ],
+   [
+    "small",
+    3.34,
+    3.62
+   ],
+   [
+    "constellation",
+    3.62,
+    4.22
+   ],
+   [
+    "following",
+    4.22,
+    4.64
+   ],
+   [
+    "Orion",
+    4.64,
+    5.14
+   ],
+   [
+    "the",
+    5.14,
+    5.42
+   ],
+   [
+    "hunter.",
+    5.42,
+    5.62
+   ],
+   [
+    "It",
+    6.32,
+    6.32
+   ],
+   [
+    "has",
+    6.32,
+    6.46
+   ],
+   [
+    "only",
+    6.46,
+    6.66
+   ],
+   [
+    "two",
+    6.66,
+    6.94
+   ],
+   [
+    "stars",
+    6.94,
+    7.32
+   ],
+   [
+    "brighter",
+    7.32,
+    7.58
+   ],
+   [
+    "than",
+    7.58,
+    7.82
+   ],
+   [
+    "the",
+    7.82,
+    7.92
+   ],
+   [
+    "4th",
+    8.02,
+    8.22
+   ],
+   [
+    "magnitude.",
+    8.22,
+    8.44
+   ],
+   [
+    "Procyon",
+    9.32,
+    9.82
+   ],
+   [
+    "is",
+    9.82,
+    10.02
+   ],
+   [
+    "the",
+    10.02,
+    10.16
+   ],
+   [
+    "8th",
+    10.26,
+    10.52
+   ],
+   [
+    "brightest",
+    10.56,
+    10.72
+   ],
+   [
+    "star",
+    10.72,
+    11.08
+   ],
+   [
+    "and",
+    11.08,
+    11.38
+   ],
+   [
+    "sits",
+    11.38,
+    11.52
+   ],
+   [
+    "very",
+    11.52,
+    11.86
+   ],
+   [
+    "close",
+    11.86,
+    12.12
+   ],
+   [
+    "to",
+    12.12,
+    12.3
+   ],
+   [
+    "us.",
+    12.3,
+    12.4
+   ],
+   [
+    "It",
+    12.94,
+    13.0
+   ],
+   [
+    "even",
+    13.0,
+    13.14
+   ],
+   [
+    "has",
+    13.14,
+    13.36
+   ],
+   [
+    "a",
+    13.36,
+    13.46
+   ],
+   [
+    "white",
+    13.46,
+    13.68
+   ],
+   [
+    "dwarf",
+    13.68,
+    13.96
+   ],
+   [
+    "companion.",
+    13.96,
+    14.51
+   ],
+   [
+    "Gomeisa",
+    15.24,
+    15.74
+   ],
+   [
+    "is",
+    15.74,
+    15.96
+   ],
+   [
+    "a",
+    15.96,
+    16.1
+   ],
+   [
+    "blue",
+    16.12,
+    16.3
+   ],
+   [
+    "white",
+    16.3,
+    16.56
+   ],
+   [
+    "main",
+    16.56,
+    16.82
+   ],
+   [
+    "sequence",
+    16.82,
+    17.16
+   ],
+   [
+    "star",
+    17.28,
+    17.52
+   ],
+   [
+    "nearby.",
+    17.52,
+    17.92
+   ],
+   [
+    "Procyon",
+    18.66,
+    19.12
+   ],
+   [
+    "and",
+    19.12,
+    19.22
+   ],
+   [
+    "Luyten's",
+    19.22,
+    19.66
+   ],
+   [
+    "Star",
+    19.66,
+    19.86
+   ],
+   [
+    "are",
+    19.86,
+    20.08
+   ],
+   [
+    "just",
+    20.08,
+    20.28
+   ],
+   [
+    "1.12",
+    20.68,
+    21.18
+   ],
+   [
+    "light",
+    21.18,
+    21.62
+   ],
+   [
+    "years",
+    21.62,
+    21.82
+   ],
+   [
+    "apart",
+    21.96,
+    22.06
+   ],
+   [
+    "from",
+    22.06,
+    22.28
+   ],
+   [
+    "each",
+    22.3,
+    22.4
+   ],
+   [
+    "other.",
+    22.4,
+    22.5
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   28,
+   40,
+   47,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/CanisMinorCC.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1062,
+   "license": "CC BY-SA 3.0",
+   "artist": "Till Credner",
+   "page": "https://commons.wikimedia.org/wiki/File:CanisMinorCC.jpg",
+   "desc": "CanisMinorCC — Photography of the constellation Canis Minor, lesser dog"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cmi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 596,
+   "license": "CC BY-SA 3.0",
+   "artist": "Alessio Govi",
+   "page": "https://commons.wikimedia.org/wiki/File:Cmi.jpg",
+   "desc": "Cmi — Canis minor"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sidney_Hall_-_Urania%27s_Mirror_-_Monoceros%2C_Canis_Minor%2C_and_Atelier_Typographique.jpg/960px-Sidney_Hall_-_Urania%27s_Mirror_-_Monoceros%2C_Canis_Minor%2C_and_Atelier_Typographique.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 504,
+   "license": "Public domain",
+   "artist": "Sidney Hall / Adam Cuerden",
+   "page": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Monoceros,_Canis_Minor,_and_Atelier_Typographique.jpg",
+   "desc": "Sidney Hall - Urania's Mirror - Monoceros, Canis Minor, and Atelier Typographique — Monoceros, Canis Minor, and Atelier Typographique , plate 31 in Urania's Mirror, a set of celestial cards accompanied by A familiar treatise on astronomy ... by Jehoshaphat Asp"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Procyon_-_%28%CE%B1_Canis_Minoris%29_-_March_20_2006_%2846017503015%29.jpg/960px-Procyon_-_%28%CE%B1_Canis_Minoris%29_-_March_20_2006_%2846017503015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 2.0",
+   "artist": "Kevin M. Gill",
+   "page": "https://commons.wikimedia.org/wiki/File:Procyon_-_(%CE%B1_Canis_Minoris)_-_March_20_2006_(46017503015).jpg",
+   "desc": "Procyon - (α Canis Minoris) - March 20 2006 (46017503015) — Processed using calibrated red, green, and blue filtered images of the star α Canis Minoris taken by Cassini on March 20 2006. I have mid to low confidence of the color accuracy on this. NASA/JPL-Calt"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Accreting_White_Dwarf_%282003-deml71_-_aquilae_illustration_bl72lg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 556,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/Rutgers/J.Hughes et al; Optical: Rutgers Fabry-Perot",
+   "page": "https://commons.wikimedia.org/wiki/File:Accreting_White_Dwarf_(2003-deml71_-_aquilae_illustration_bl72lg).jpg",
+   "desc": "Accreting White Dwarf (2003-deml71 - aquilae illustration bl72lg) — This illustration depicts gas flowing from the large red, companion star into a disk and then onto the white dwarf that is hidden inside the white area. As the gas flows ever closer to the whi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/B-type_main_sequence_star_seen_by_artist_1.png/960px-B-type_main_sequence_star_seen_by_artist_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Merikanto",
+   "page": "https://commons.wikimedia.org/wiki/File:B-type_main_sequence_star_seen_by_artist_1.png",
+   "desc": "B-type main sequence star seen by artist 1 — Arrtist made image of B-type blue-white main sequence dwarf star."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "stars",
+   "label": "brighter stars"
+  },
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "brightest",
+   "label": "night sky"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Gomeisa",
+   "box": [
+    171,
+    121,
+    805,
+    878
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 1.12,
+   "unit": "light-years",
+   "label": "apart"
+  }
+ ],
+ "geo": null,
+ "qid": "Q9305",
+ "pron_wer": 0.07,
+ "angle": 0,
+ "source": {
+  "title": "Canis Minor",
+  "url": "https://en.wikipedia.org/wiki/Canis_Minor",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:22:39Z",
+ "trimmed": true
+}
