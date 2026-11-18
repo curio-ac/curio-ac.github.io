@@ -1,0 +1,396 @@
+{
+ "id": "en-c994bdc3",
+ "lang": "en",
+ "title": "The Logging Arabian Horse Boss",
+ "cat": "history",
+ "emoji": "🐎",
+ "sentences": [
+  "Meet W.R. Brown.",
+  "He managed logging for a big company in New Hampshire.",
+  "He was an authority on Arabian horses and founded Maynesboro Stud in 1912.",
+  "Brown also pushed for early sustainable forest management.",
+  "He helped send sawmills to Europe during World War 1.",
+  "He even served as a presidential elector in 1924."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.34,
+    0.34
+   ],
+   [
+    "W.R.",
+    0.34,
+    1.2
+   ],
+   [
+    "Brown.",
+    1.24,
+    1.4
+   ],
+   [
+    "He",
+    2.0,
+    2.02
+   ],
+   [
+    "managed",
+    2.02,
+    2.26
+   ],
+   [
+    "logging",
+    2.26,
+    2.6
+   ],
+   [
+    "for",
+    2.6,
+    2.86
+   ],
+   [
+    "a",
+    2.86,
+    2.94
+   ],
+   [
+    "big",
+    2.94,
+    3.08
+   ],
+   [
+    "company",
+    3.08,
+    3.46
+   ],
+   [
+    "in",
+    3.46,
+    3.62
+   ],
+   [
+    "New",
+    3.62,
+    3.72
+   ],
+   [
+    "Hampshire.",
+    3.72,
+    4.1
+   ],
+   [
+    "He",
+    4.58,
+    4.68
+   ],
+   [
+    "was",
+    4.68,
+    4.8
+   ],
+   [
+    "an",
+    4.8,
+    4.88
+   ],
+   [
+    "authority",
+    4.88,
+    5.16
+   ],
+   [
+    "on",
+    5.16,
+    5.44
+   ],
+   [
+    "Arabian",
+    5.44,
+    5.9
+   ],
+   [
+    "horses",
+    5.9,
+    6.16
+   ],
+   [
+    "and",
+    6.16,
+    6.5
+   ],
+   [
+    "founded",
+    6.5,
+    6.8
+   ],
+   [
+    "Maynesboro",
+    6.8,
+    7.36
+   ],
+   [
+    "Stud",
+    7.36,
+    7.66
+   ],
+   [
+    "in",
+    7.66,
+    7.96
+   ],
+   [
+    "1912.",
+    7.96,
+    8.72
+   ],
+   [
+    "Brown",
+    9.24,
+    9.4
+   ],
+   [
+    "also",
+    9.4,
+    9.74
+   ],
+   [
+    "pushed",
+    9.74,
+    9.98
+   ],
+   [
+    "for",
+    9.98,
+    10.16
+   ],
+   [
+    "early",
+    10.2,
+    10.38
+   ],
+   [
+    "sustainable",
+    10.38,
+    10.7
+   ],
+   [
+    "forest",
+    10.7,
+    11.12
+   ],
+   [
+    "management.",
+    11.12,
+    11.68
+   ],
+   [
+    "He",
+    12.08,
+    12.18
+   ],
+   [
+    "helped",
+    12.18,
+    12.38
+   ],
+   [
+    "send",
+    12.38,
+    12.58
+   ],
+   [
+    "sawmills",
+    12.58,
+    13.06
+   ],
+   [
+    "to",
+    13.06,
+    13.22
+   ],
+   [
+    "Europe",
+    13.22,
+    13.42
+   ],
+   [
+    "during",
+    13.42,
+    13.74
+   ],
+   [
+    "World",
+    13.74,
+    13.96
+   ],
+   [
+    "War",
+    13.96,
+    14.14
+   ],
+   [
+    "1.",
+    14.14,
+    14.5
+   ],
+   [
+    "He",
+    14.84,
+    14.92
+   ],
+   [
+    "even",
+    14.92,
+    15.14
+   ],
+   [
+    "served",
+    15.14,
+    15.46
+   ],
+   [
+    "as",
+    15.46,
+    15.66
+   ],
+   [
+    "a",
+    15.66,
+    15.76
+   ],
+   [
+    "presidential",
+    15.76,
+    16.1
+   ],
+   [
+    "elector",
+    16.1,
+    16.56
+   ],
+   [
+    "in",
+    16.62,
+    16.86
+   ],
+   [
+    "1924.",
+    16.86,
+    17.46
+   ]
+  ],
+  "b": [
+   0,
+   3,
+   13,
+   26,
+   34,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Brown_in_a_posed_formal_photo.JPG/960px-Brown_in_a_posed_formal_photo.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1004,
+   "license": "Public domain",
+   "artist": "The Brown company, Berlin, New Hampshire (bought in the 1980s by James River Cor",
+   "page": "https://commons.wikimedia.org/wiki/File:Brown_in_a_posed_formal_photo.JPG",
+   "desc": "Brown in a posed formal photo — William Robinson Brown of New Hampshire, in early to mid 1900s."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Logging_Yard_in_Keene_New_Hampshire_%285446364020%29.jpg/960px-Logging_Yard_in_Keene_New_Hampshire_%285446364020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 550,
+   "license": "No restrictions",
+   "artist": "Keene Public Library and the Historical Society of Cheshire County from USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Logging_Yard_in_Keene_New_Hampshire_(5446364020).jpg",
+   "desc": "Logging Yard in Keene New Hampshire (5446364020) — TITLE Logging Yard in Keene New Hampshire CREATOR Whitehouse, Bion, Keene NH SUBJECT Logs Lumber yards - NH - Keene DESCRIPTION Photograph of a logging yard in Keene NH, showing oxen and horse teams. PUBLISHER"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Abu_Zeyd.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 612,
+   "license": "Public domain",
+   "artist": "The Arabian Horse Registry of America Stud Book, volume 2, 1918, frontispiece",
+   "page": "https://commons.wikimedia.org/wiki/File:Abu_Zeyd.JPG",
+   "desc": "Abu Zeyd — Abu Zeyd, Arabian stallion bred by Crabbet Park Stud in England, imported to USA by Homer Davenport, later owned by William Robinson Brown"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Slow_-_Garibaldi_thinning_%285225635582%29.jpg/960px-Slow_-_Garibaldi_thinning_%285225635582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Sam Beebe",
+   "page": "https://commons.wikimedia.org/wiki/File:Slow_-_Garibaldi_thinning_(5225635582).jpg",
+   "desc": "Slow - Garibaldi thinning (5225635582) — Ecotrust Forest management attempts to replicate nature’s model—small, patchy disturbance. Garibaldi Forest, central Oregon coast."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Missoula_%28MT%2C_USA%29%2C_Fort_Missoula%2C_Historical_Museum%2C_Forestry_Area_Sawmill_--_2022_--_2366.jpg/960px-Missoula_%28MT%2C_USA%29%2C_Fort_Missoula%2C_Historical_Museum%2C_Forestry_Area_Sawmill_--_2022_--_2366.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Dietmar Rabich",
+   "page": "https://commons.wikimedia.org/wiki/File:Missoula_(MT,_USA),_Fort_Missoula,_Historical_Museum,_Forestry_Area_Sawmill_--_2022_--_2366.jpg",
+   "desc": "Missoula (MT, USA), Fort Missoula, Historical Museum, Forestry Area Sawmill -- 2022 -- 2366 — Forestry Area Sawmill in Historical Museum at Fort Missoula, Missoula, Montana, USA"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/New_York_electoral_college_casting_vote_for_Harrison_-_DPLA_-_c4d90aa3c45b2c8142c6c52235bf2645_%28cropped%29.jpg/960px-New_York_electoral_college_casting_vote_for_Harrison_-_DPLA_-_c4d90aa3c45b2c8142c6c52235bf2645_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 527,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:New_York_electoral_college_casting_vote_for_Harrison_-_DPLA_-_c4d90aa3c45b2c8142c6c52235bf2645_(cropped).jpg",
+   "desc": "New York electoral college casting vote for Harrison - DPLA - c4d90aa3c45b2c8142c6c52235bf2645 (cropped) — Sepia finish; gray mat. Jan. 14, 1889. Bottom right corner broken off of 1215.2; Electorial College, State of New York, casting vote for Benjamin Harriso"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1912
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1924
+  }
+ ],
+ "geo": null,
+ "qid": "Q8017697",
+ "pron_wer": 0.074,
+ "angle": 0,
+ "source": {
+  "title": "William Robinson Brown",
+  "url": "https://en.wikipedia.org/wiki/William_Robinson_Brown",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T16:44:48Z",
+ "trimmed": true
+}
