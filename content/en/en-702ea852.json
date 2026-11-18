@@ -1,0 +1,425 @@
+{
+ "id": "en-702ea852",
+ "lang": "en",
+ "title": "The Senator’s Civil War Regiment",
+ "cat": "history",
+ "emoji": "🪖",
+ "sentences": [
+  "Senator Henry Wilson personally organized this regiment.",
+  "Known as \"Henry Wilson's Regiment,\" it formed in Boston during September 1861.",
+  "The soldiers signed up for a three-year term of service.",
+  "By October, they arrived in Washington and camped near Arlington.",
+  "They spent the entire war fighting with the Army of the Potomac.",
+  "Their first combat action happened at the siege of Yorktown."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Senator",
+    0.12,
+    0.28
+   ],
+   [
+    "Henry",
+    0.28,
+    0.58
+   ],
+   [
+    "Wilson",
+    0.58,
+    0.94
+   ],
+   [
+    "personally",
+    0.94,
+    1.36
+   ],
+   [
+    "organized",
+    1.36,
+    2.0
+   ],
+   [
+    "this",
+    2.0,
+    2.18
+   ],
+   [
+    "regiment.",
+    2.18,
+    3.06
+   ],
+   [
+    "Known",
+    3.08,
+    3.22
+   ],
+   [
+    "as",
+    3.22,
+    3.34
+   ],
+   [
+    "\"Henry",
+    3.4,
+    3.64
+   ],
+   [
+    "Wilson's",
+    3.64,
+    4.02
+   ],
+   [
+    "Regiment,\"",
+    4.02,
+    4.48
+   ],
+   [
+    "it",
+    4.62,
+    4.64
+   ],
+   [
+    "formed",
+    4.64,
+    4.9
+   ],
+   [
+    "in",
+    4.9,
+    5.08
+   ],
+   [
+    "Boston",
+    5.08,
+    5.36
+   ],
+   [
+    "during",
+    5.36,
+    5.64
+   ],
+   [
+    "September",
+    5.64,
+    6.08
+   ],
+   [
+    "1861.",
+    6.08,
+    7.5
+   ],
+   [
+    "The",
+    7.5,
+    7.58
+   ],
+   [
+    "soldiers",
+    7.58,
+    7.8
+   ],
+   [
+    "signed",
+    7.8,
+    8.22
+   ],
+   [
+    "up",
+    8.22,
+    8.38
+   ],
+   [
+    "for",
+    8.38,
+    8.56
+   ],
+   [
+    "a",
+    8.56,
+    8.68
+   ],
+   [
+    "three-year",
+    8.68,
+    9.12
+   ],
+   [
+    "term",
+    9.12,
+    9.38
+   ],
+   [
+    "of",
+    9.38,
+    9.48
+   ],
+   [
+    "service.",
+    9.48,
+    9.76
+   ],
+   [
+    "By",
+    10.28,
+    10.34
+   ],
+   [
+    "October,",
+    10.34,
+    10.92
+   ],
+   [
+    "they",
+    10.98,
+    11.0
+   ],
+   [
+    "arrived",
+    11.0,
+    11.28
+   ],
+   [
+    "in",
+    11.28,
+    11.48
+   ],
+   [
+    "Washington",
+    11.48,
+    11.8
+   ],
+   [
+    "and",
+    11.8,
+    12.12
+   ],
+   [
+    "camped",
+    12.12,
+    12.52
+   ],
+   [
+    "near",
+    12.52,
+    12.66
+   ],
+   [
+    "Arlington.",
+    12.66,
+    13.28
+   ],
+   [
+    "They",
+    13.62,
+    13.68
+   ],
+   [
+    "spent",
+    13.68,
+    13.88
+   ],
+   [
+    "the",
+    13.88,
+    14.04
+   ],
+   [
+    "entire",
+    14.04,
+    14.38
+   ],
+   [
+    "war",
+    14.38,
+    14.66
+   ],
+   [
+    "fighting",
+    14.66,
+    14.94
+   ],
+   [
+    "with",
+    14.94,
+    15.14
+   ],
+   [
+    "the",
+    15.14,
+    15.24
+   ],
+   [
+    "Army",
+    15.24,
+    15.46
+   ],
+   [
+    "of",
+    15.46,
+    15.62
+   ],
+   [
+    "the",
+    15.62,
+    15.7
+   ],
+   [
+    "Potomac.",
+    15.7,
+    16.16
+   ],
+   [
+    "Their",
+    16.48,
+    16.56
+   ],
+   [
+    "first",
+    16.56,
+    16.78
+   ],
+   [
+    "combat",
+    16.78,
+    17.1
+   ],
+   [
+    "action",
+    17.1,
+    17.48
+   ],
+   [
+    "happened",
+    17.48,
+    17.8
+   ],
+   [
+    "at",
+    17.8,
+    18.0
+   ],
+   [
+    "the",
+    18.0,
+    18.1
+   ],
+   [
+    "siege",
+    18.1,
+    18.3
+   ],
+   [
+    "of",
+    18.3,
+    18.44
+   ],
+   [
+    "Yorktown.",
+    18.44,
+    18.98
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   29,
+   39,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Henry_Wilson%2C_VP_of_the_United_States.jpg/960px-Henry_Wilson%2C_VP_of_the_United_States.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 940,
+   "license": "Public domain",
+   "artist": "Unknown photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:Henry_Wilson,_VP_of_the_United_States.jpg",
+   "desc": "Henry Wilson, VP of the United States — Henry Wilson, VP of the United States"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Camp_of_the_Seventh_Regiment_NY_near_Washington_on_14th_St_%28133d6cf0-7a04-4b17-88c4-c1db154b457d%29.jpg/960px-Camp_of_the_Seventh_Regiment_NY_near_Washington_on_14th_St_%28133d6cf0-7a04-4b17-88c4-c1db154b457d%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 290,
+   "license": "Public domain",
+   "artist": "Library of Congress",
+   "page": "https://commons.wikimedia.org/wiki/File:Camp_of_the_Seventh_Regiment_NY_near_Washington_on_14th_St_(133d6cf0-7a04-4b17-88c4-c1db154b457d).jpg",
+   "desc": "Camp of the Seventh Regiment NY near Washington on 14th St (133d6cf0-7a04-4b17-88c4-c1db154b457d) — Soldiers resting and walking around tents. Soldiers resting and walking around tents. Published in: Harper's Weekly, 25 May 1861, p. 324, as Camp Cameron, Georg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gaines_Mill.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 486,
+   "license": "Public domain",
+   "artist": "artist unknown",
+   "page": "https://commons.wikimedia.org/wiki/File:Gaines_Mill.JPG",
+   "desc": "Gaines Mill — The 22nd Regiment Massachusetts Volunteer Infantry at the Battle of Gaines Mill, Virginia, June 27, 1862"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/The_Siege_of_Yorktown%2C_Va._%2826940425796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 848,
+   "license": "No restrictions",
+   "artist": "SMU Central University Libraries",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Siege_of_Yorktown,_Va._(26940425796).jpg",
+   "desc": "The Siege of Yorktown, Va. (26940425796) — Title: The Siege of Yorktown, Va. Creator: Unknown Date: ca.1861-1865 Part Of: Collection of Civil War Era Stereographs Place: Yorktown, York County, Virginia Physical Description: 1 photographic print on stereo card:"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "Senator Henry Wilson",
+   "box": [
+    18,
+    252,
+    982,
+    755
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1861
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1862
+  }
+ ],
+ "geo": null,
+ "qid": "Q4631428",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "22nd Massachusetts Infantry Regiment",
+  "url": "https://en.wikipedia.org/wiki/22nd_Massachusetts_Infantry_Regiment",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:46:02Z",
+ "trimmed": true
+}
