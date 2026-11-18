@@ -159,7 +159,8 @@
   "Crush (video game)",
   "British military intervention in the Sierra Leone Civil War",
   "nasa:1473102",
-  "nasa:1386258"
+  "nasa:1386258",
+  "Armed Forces Special Weapons Project"
  ],
  "rejected": [
   "Chameleon",
@@ -197,7 +198,9 @@
   "1950 United States Senate election in California",
   "nasa:1505698",
   "Arnold Bennett",
-  "Damageplan"
+  "Damageplan",
+  "Space Shuttle Columbia disaster",
+  "nasa:1508114"
  ],
  "angles": {
   "Blue whale": [
@@ -732,6 +735,9 @@
   ],
   "nasa:1386258": [
    "Australia's Desert Flower Explosion: The Australian outback just exploded with flowers."
+  ],
+  "Armed Forces Special Weapons Project": [
+   "Handling Early Nuclear Weapons: Early nuclear weapons couldn't be stored fully assembled."
   ]
  },
  "exhausted": []

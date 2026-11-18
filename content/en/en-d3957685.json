@@ -1,0 +1,406 @@
+{
+ "id": "en-d3957685",
+ "lang": "en",
+ "title": "England's First T20 Captain",
+ "cat": "history",
+ "emoji": "🏏",
+ "sentences": [
+  "He scored the winning run for England.",
+  "Paul Collingwood was the first T20I captain for England.",
+  "He led the team to win their first ICC trophy in 2010.",
+  "This batting all-rounder also bowled reliable medium pace.",
+  "Known as a natural athlete, he was one of the finest fielders of his time.",
+  "He played for Durham County Cricket Club for his final 6 seasons."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.32,
+    0.34
+   ],
+   [
+    "scored",
+    0.34,
+    0.58
+   ],
+   [
+    "the",
+    0.58,
+    0.76
+   ],
+   [
+    "winning",
+    0.76,
+    0.92
+   ],
+   [
+    "run",
+    0.92,
+    1.22
+   ],
+   [
+    "for",
+    1.22,
+    1.38
+   ],
+   [
+    "England.",
+    1.38,
+    1.83
+   ],
+   [
+    "Paul",
+    2.42,
+    2.58
+   ],
+   [
+    "Collingwood",
+    2.58,
+    3.1
+   ],
+   [
+    "was",
+    3.1,
+    3.3
+   ],
+   [
+    "the",
+    3.3,
+    3.42
+   ],
+   [
+    "first",
+    3.42,
+    3.66
+   ],
+   [
+    "T20I",
+    3.66,
+    4.32
+   ],
+   [
+    "captain",
+    4.32,
+    4.64
+   ],
+   [
+    "for",
+    4.64,
+    4.86
+   ],
+   [
+    "England.",
+    4.86,
+    5.38
+   ],
+   [
+    "He",
+    5.64,
+    5.7
+   ],
+   [
+    "led",
+    5.7,
+    5.84
+   ],
+   [
+    "the",
+    5.84,
+    5.96
+   ],
+   [
+    "team",
+    5.96,
+    6.24
+   ],
+   [
+    "to",
+    6.24,
+    6.38
+   ],
+   [
+    "win",
+    6.38,
+    6.54
+   ],
+   [
+    "their",
+    6.54,
+    6.68
+   ],
+   [
+    "first",
+    6.68,
+    6.92
+   ],
+   [
+    "ICC",
+    6.92,
+    7.4
+   ],
+   [
+    "trophy",
+    7.4,
+    7.8
+   ],
+   [
+    "in",
+    7.84,
+    8.04
+   ],
+   [
+    "2010.",
+    8.04,
+    8.7
+   ],
+   [
+    "This",
+    9.18,
+    9.3
+   ],
+   [
+    "batting",
+    9.3,
+    9.62
+   ],
+   [
+    "all-rounder",
+    9.62,
+    10.16
+   ],
+   [
+    "also",
+    10.16,
+    10.44
+   ],
+   [
+    "bowled",
+    10.46,
+    10.84
+   ],
+   [
+    "reliable",
+    10.84,
+    11.18
+   ],
+   [
+    "medium",
+    11.18,
+    11.56
+   ],
+   [
+    "pace.",
+    11.56,
+    11.92
+   ],
+   [
+    "Known",
+    12.46,
+    12.64
+   ],
+   [
+    "as",
+    12.64,
+    12.76
+   ],
+   [
+    "a",
+    12.76,
+    12.86
+   ],
+   [
+    "natural",
+    12.86,
+    13.08
+   ],
+   [
+    "athlete,",
+    13.08,
+    13.53
+   ],
+   [
+    "he",
+    13.7,
+    13.76
+   ],
+   [
+    "was",
+    13.76,
+    13.88
+   ],
+   [
+    "one",
+    13.88,
+    14.0
+   ],
+   [
+    "of",
+    14.0,
+    14.1
+   ],
+   [
+    "the",
+    14.1,
+    14.2
+   ],
+   [
+    "finest",
+    14.2,
+    14.44
+   ],
+   [
+    "fielders",
+    14.44,
+    14.92
+   ],
+   [
+    "of",
+    14.92,
+    15.04
+   ],
+   [
+    "his",
+    15.04,
+    15.16
+   ],
+   [
+    "time.",
+    15.16,
+    15.46
+   ],
+   [
+    "He",
+    15.84,
+    15.9
+   ],
+   [
+    "played",
+    15.9,
+    16.1
+   ],
+   [
+    "for",
+    16.1,
+    16.28
+   ],
+   [
+    "Durham",
+    16.28,
+    16.52
+   ],
+   [
+    "County",
+    16.52,
+    16.8
+   ],
+   [
+    "Cricket",
+    16.8,
+    17.08
+   ],
+   [
+    "Club",
+    17.08,
+    17.36
+   ],
+   [
+    "for",
+    17.36,
+    17.56
+   ],
+   [
+    "his",
+    17.56,
+    17.7
+   ],
+   [
+    "final",
+    17.7,
+    17.96
+   ],
+   [
+    "6",
+    17.96,
+    18.2
+   ],
+   [
+    "seasons.",
+    18.2,
+    18.3
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   28,
+   36,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Collingwood_in_the_2009_Ashes_at_Cardiff.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 534,
+   "license": "CC BY 2.0",
+   "artist": "johnniemojo",
+   "page": "https://commons.wikimedia.org/wiki/File:Collingwood_in_the_2009_Ashes_at_Cardiff.jpg",
+   "desc": "Collingwood in the 2009 Ashes at Cardiff — Collingwood 'GOES' for it. 4 all the way."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": "1",
+   "unit": "st",
+   "label": "T20I captain"
+  },
+  {
+   "type": "timeline",
+   "year": 2010
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 6,
+   "unit": "seasons",
+   "label": "Durham captaincy"
+  }
+ ],
+ "geo": null,
+ "qid": "Q983731",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Paul Collingwood",
+  "url": "https://en.wikipedia.org/wiki/Paul_Collingwood",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:27:04Z",
+ "trimmed": true
+}
