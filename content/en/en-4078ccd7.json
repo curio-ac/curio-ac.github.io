@@ -1,0 +1,354 @@
+{
+ "id": "en-4078ccd7",
+ "lang": "en",
+ "title": "NASA's New Citizen Science",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Volunteers just discovered most known brown dwarfs!",
+  "Now, 19 new NASA proposals are opening up.",
+  "You can search space data for free-floating planets.",
+  "Listen to plasma wave sounds to find space weather.",
+  "Help scientists track dangerous solar wind particles.",
+  "Join these projects to do real NASA science."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Volunteers",
+    0.35,
+    0.77
+   ],
+   [
+    "just",
+    0.77,
+    0.95
+   ],
+   [
+    "discovered",
+    0.95,
+    1.45
+   ],
+   [
+    "most",
+    1.45,
+    1.85
+   ],
+   [
+    "known",
+    1.85,
+    2.21
+   ],
+   [
+    "brown",
+    2.21,
+    2.57
+   ],
+   [
+    "dwarfs!",
+    2.57,
+    3.53
+   ],
+   [
+    "Now,",
+    3.55,
+    3.81
+   ],
+   [
+    "19",
+    3.91,
+    4.23
+   ],
+   [
+    "new",
+    4.23,
+    4.53
+   ],
+   [
+    "NASA",
+    4.53,
+    4.83
+   ],
+   [
+    "proposals",
+    4.83,
+    5.33
+   ],
+   [
+    "are",
+    5.33,
+    5.59
+   ],
+   [
+    "opening",
+    5.59,
+    5.83
+   ],
+   [
+    "up.",
+    5.83,
+    6.05
+   ],
+   [
+    "You",
+    6.61,
+    6.67
+   ],
+   [
+    "can",
+    6.67,
+    6.81
+   ],
+   [
+    "search",
+    6.81,
+    7.01
+   ],
+   [
+    "space",
+    7.01,
+    7.33
+   ],
+   [
+    "data",
+    7.33,
+    7.59
+   ],
+   [
+    "for",
+    7.59,
+    7.83
+   ],
+   [
+    "free-floating",
+    7.83,
+    8.31
+   ],
+   [
+    "planets.",
+    8.31,
+    8.69
+   ],
+   [
+    "Listen",
+    9.19,
+    9.31
+   ],
+   [
+    "to",
+    9.31,
+    9.49
+   ],
+   [
+    "plasma",
+    9.49,
+    9.79
+   ],
+   [
+    "wave",
+    9.79,
+    10.07
+   ],
+   [
+    "sounds",
+    10.07,
+    10.39
+   ],
+   [
+    "to",
+    10.39,
+    10.67
+   ],
+   [
+    "find",
+    10.73,
+    10.87
+   ],
+   [
+    "space",
+    10.87,
+    11.09
+   ],
+   [
+    "weather.",
+    11.09,
+    11.49
+   ],
+   [
+    "Help",
+    11.99,
+    12.07
+   ],
+   [
+    "scientists",
+    12.07,
+    12.49
+   ],
+   [
+    "track",
+    12.51,
+    13.01
+   ],
+   [
+    "dangerous",
+    13.01,
+    13.49
+   ],
+   [
+    "solar",
+    13.49,
+    13.83
+   ],
+   [
+    "wind",
+    13.83,
+    14.09
+   ],
+   [
+    "particles.",
+    14.09,
+    14.45
+   ],
+   [
+    "Join",
+    15.13,
+    15.25
+   ],
+   [
+    "these",
+    15.25,
+    15.49
+   ],
+   [
+    "projects",
+    15.49,
+    15.91
+   ],
+   [
+    "to",
+    15.91,
+    16.19
+   ],
+   [
+    "do",
+    16.19,
+    16.33
+   ],
+   [
+    "real",
+    16.33,
+    16.67
+   ],
+   [
+    "NASA",
+    16.67,
+    17.11
+   ],
+   [
+    "science.",
+    17.11,
+    17.47
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   32,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/PIA21076_Brown_Dwarf_Microlensing_%28Illustration%29.jpg/960px-PIA21076_Brown_Dwarf_Microlensing_%28Illustration%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA21076_Brown_Dwarf_Microlensing_(Illustration).jpg",
+   "desc": "PIA21076 Brown Dwarf Microlensing (Illustration) — This illustration depicts a newly discovered brown dwarf, an object that weighs in somewhere between our solar system's most massive planet (Jupiter) and the least-massive-known star. This brown dwarf, dubbed "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Icy_Earth-mass_Rogue_Planet_%28SVS14380%29.jpg/960px-Icy_Earth-mass_Rogue_Planet_%28SVS14380%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA's Scientific Visualization Studio - Chris Meaney, Scott Wiessinger, Ashley ",
+   "page": "https://commons.wikimedia.org/wiki/File:Icy_Earth-mass_Rogue_Planet_(SVS14380).jpg",
+   "desc": "Icy Earth-mass Rogue Planet (SVS14380) — This artist’s concept shows an ice-encrusted, Earth-mass rogue planet drifting through space alone.Credit: NASA’s Goddard Space Flight Center"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/A_Colorful_Aurora_Paints_the_Night_Sky_%28153463%29.jpg/960px-A_Colorful_Aurora_Paints_the_Night_Sky_%28153463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory image by Michala Garrison, using VIIRS day-night band dat",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Colorful_Aurora_Paints_the_Night_Sky_(153463).jpg",
+   "desc": "A Colorful Aurora Paints the Night Sky (153463) — As we move into the peak of solar cycle 25, activity on the Sun has been ratcheting up. One sign of that appeared in Earth’s atmosphere in the form of an impressive display of the aurora borealis, or northern l"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 2026,
+   "unit": "year",
+   "label": "successes for volunteers"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "free-floating planets",
+   "box": [
+    189,
+    437,
+    856,
+    701
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "solar wind particles",
+   "box": [
+    0,
+    0,
+    1000,
+    686
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+  "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:40:16Z",
+ "trimmed": true
+}
