@@ -1,0 +1,414 @@
+{
+ "id": "en-cbb275a6",
+ "lang": "en",
+ "title": "Cardiff's Historic First Season",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Cardiff City made history as England's first Welsh team.",
+  "Their 1921 top-tier debut started with six straight losses.",
+  "Despite that rough start, they finished the season in fourth place.",
+  "They also won the Welsh Cup, scoring seventeen goals while conceding only one.",
+  "Len Davies set a new club record, scoring 30 goals total.",
+  "Billy Grimshaw was the workhorse, playing in 47 matches all season."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cardiff",
+    0.28,
+    0.52
+   ],
+   [
+    "City",
+    0.58,
+    0.72
+   ],
+   [
+    "made",
+    0.72,
+    0.92
+   ],
+   [
+    "history",
+    0.92,
+    1.28
+   ],
+   [
+    "as",
+    1.28,
+    1.54
+   ],
+   [
+    "England's",
+    1.54,
+    2.02
+   ],
+   [
+    "first",
+    2.02,
+    2.18
+   ],
+   [
+    "Welsh",
+    2.18,
+    2.48
+   ],
+   [
+    "team.",
+    2.48,
+    3.13
+   ],
+   [
+    "Their",
+    3.42,
+    3.48
+   ],
+   [
+    "1921",
+    3.48,
+    4.14
+   ],
+   [
+    "top-tier",
+    4.14,
+    4.64
+   ],
+   [
+    "debut",
+    4.64,
+    5.04
+   ],
+   [
+    "started",
+    5.04,
+    5.36
+   ],
+   [
+    "with",
+    5.36,
+    5.6
+   ],
+   [
+    "six",
+    5.6,
+    5.84
+   ],
+   [
+    "straight",
+    5.84,
+    6.08
+   ],
+   [
+    "losses.",
+    6.08,
+    6.38
+   ],
+   [
+    "Despite",
+    7.18,
+    7.28
+   ],
+   [
+    "that",
+    7.28,
+    7.52
+   ],
+   [
+    "rough",
+    7.52,
+    7.68
+   ],
+   [
+    "start,",
+    7.68,
+    8.12
+   ],
+   [
+    "they",
+    8.36,
+    8.4
+   ],
+   [
+    "finished",
+    8.4,
+    8.68
+   ],
+   [
+    "the",
+    8.68,
+    8.84
+   ],
+   [
+    "season",
+    8.84,
+    9.1
+   ],
+   [
+    "in",
+    9.1,
+    9.28
+   ],
+   [
+    "fourth",
+    9.28,
+    9.48
+   ],
+   [
+    "place.",
+    9.48,
+    9.58
+   ],
+   [
+    "They",
+    10.52,
+    10.6
+   ],
+   [
+    "also",
+    10.6,
+    10.84
+   ],
+   [
+    "won",
+    10.84,
+    11.08
+   ],
+   [
+    "the",
+    11.08,
+    11.18
+   ],
+   [
+    "Welsh",
+    11.18,
+    11.38
+   ],
+   [
+    "Cup,",
+    11.38,
+    11.72
+   ],
+   [
+    "scoring",
+    12.02,
+    12.12
+   ],
+   [
+    "seventeen",
+    12.12,
+    12.52
+   ],
+   [
+    "goals",
+    12.52,
+    12.86
+   ],
+   [
+    "while",
+    12.86,
+    13.08
+   ],
+   [
+    "conceding",
+    13.08,
+    13.52
+   ],
+   [
+    "only",
+    13.52,
+    13.74
+   ],
+   [
+    "one.",
+    13.74,
+    14.1
+   ],
+   [
+    "Len",
+    14.76,
+    14.9
+   ],
+   [
+    "Davies",
+    14.9,
+    15.28
+   ],
+   [
+    "set",
+    15.28,
+    15.42
+   ],
+   [
+    "a",
+    15.42,
+    15.54
+   ],
+   [
+    "new",
+    15.54,
+    15.68
+   ],
+   [
+    "club",
+    15.68,
+    15.88
+   ],
+   [
+    "record,",
+    15.88,
+    16.23
+   ],
+   [
+    "scoring",
+    16.48,
+    16.66
+   ],
+   [
+    "30",
+    16.66,
+    16.96
+   ],
+   [
+    "goals",
+    16.96,
+    17.24
+   ],
+   [
+    "total.",
+    17.24,
+    17.7
+   ],
+   [
+    "Billy",
+    18.56,
+    18.74
+   ],
+   [
+    "Grimshaw",
+    18.74,
+    19.22
+   ],
+   [
+    "was",
+    19.22,
+    19.4
+   ],
+   [
+    "the",
+    19.4,
+    19.52
+   ],
+   [
+    "workhorse,",
+    19.52,
+    19.97
+   ],
+   [
+    "playing",
+    20.18,
+    20.3
+   ],
+   [
+    "in",
+    20.3,
+    20.46
+   ],
+   [
+    "47",
+    20.46,
+    20.78
+   ],
+   [
+    "matches",
+    20.78,
+    21.26
+   ],
+   [
+    "all",
+    21.26,
+    21.5
+   ],
+   [
+    "season.",
+    21.5,
+    21.96
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   29,
+   42,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cardiff_City_1922_squad.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 573,
+   "license": "Public domain",
+   "artist": "Western Mail",
+   "page": "https://commons.wikimedia.org/wiki/File:Cardiff_City_1922_squad.jpg",
+   "desc": "Cardiff City 1922 squad — A postcard published by the Western Mail prior after the 1920-21 season featuring several Cardiff City players. No author is listed on either the website on which it was obtained or the item itself. The postcard is not f"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1921
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "place",
+   "label": "final position"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 30,
+   "unit": "goals",
+   "label": "club record"
+  },
+  {
+   "type": "stat",
+   "value": 47,
+   "unit": "matches",
+   "label": "total appearances"
+  }
+ ],
+ "geo": null,
+ "qid": "Q65085379",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "1921–22 Cardiff City F.C. season",
+  "url": "https://en.wikipedia.org/wiki/1921%E2%80%9322_Cardiff_City_F.C._season",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:36:49Z",
+ "trimmed": true
+}

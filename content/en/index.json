@@ -162,7 +162,8 @@
   "nasa:1386258",
   "Armed Forces Special Weapons Project",
   "Paul Collingwood",
-  "nasa:1441215"
+  "nasa:1441215",
+  "Calvin Coolidge"
  ],
  "rejected": [
   "Chameleon",
@@ -747,6 +748,9 @@
   ],
   "nasa:1441215": [
    "Farming in a Delta: A giant agricultural island sits in a delta."
+  ],
+  "Calvin Coolidge": [
+   "The Silent President: Meet the president nicknamed Silent Cal."
   ]
  },
  "exhausted": []
