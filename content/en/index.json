@@ -150,7 +150,8 @@
   "1920–21 Burnley F.C. season",
   "nasa:1283120",
   "Battle of Bergerac",
-  "Black-and-yellow broadbill"
+  "Black-and-yellow broadbill",
+  "nasa:1280714"
  ],
  "rejected": [
   "Chameleon",
@@ -686,6 +687,9 @@
   ],
   "Black-and-yellow broadbill": [
    "The Black-and-Yellow Broadbill: This bird has a bright blue beak."
+  ],
+  "nasa:1280714": [
+   "Atacama Desert's Rare Snow: Parts of the Atacama Desert just turned white."
   ]
  },
  "exhausted": []

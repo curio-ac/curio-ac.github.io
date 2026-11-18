@@ -1,0 +1,448 @@
+{
+ "id": "en-a49ee256",
+ "lang": "en",
+ "title": "The Composer Who Loved Ireland",
+ "cat": "art",
+ "emoji": "🎼",
+ "sentences": [
+  "Arnold Bax wrote under a secret name.",
+  "This English composer published fiction and verse as Dermot O'Byrne.",
+  "He was born into a wealthy family in London.",
+  "His private income let him ignore musical trends and fashion.",
+  "As a student, he became fascinated with Irish and Celtic culture.",
+  "He eventually wrote 7 symphonies and became a leading British symphonist.",
+  "Later, his focus shifted from Celtic roots to Nordic culture."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Arnold",
+    0.16,
+    0.16
+   ],
+   [
+    "Bax",
+    0.16,
+    0.58
+   ],
+   [
+    "wrote",
+    0.58,
+    0.82
+   ],
+   [
+    "under",
+    0.82,
+    1.08
+   ],
+   [
+    "a",
+    1.08,
+    1.24
+   ],
+   [
+    "secret",
+    1.24,
+    1.46
+   ],
+   [
+    "name.",
+    1.46,
+    2.06
+   ],
+   [
+    "This",
+    2.4,
+    2.4
+   ],
+   [
+    "English",
+    2.4,
+    2.66
+   ],
+   [
+    "composer",
+    2.66,
+    3.16
+   ],
+   [
+    "published",
+    3.16,
+    3.54
+   ],
+   [
+    "fiction",
+    3.54,
+    3.96
+   ],
+   [
+    "and",
+    3.96,
+    4.32
+   ],
+   [
+    "verse",
+    4.32,
+    4.62
+   ],
+   [
+    "as",
+    4.62,
+    4.94
+   ],
+   [
+    "Dermot",
+    4.94,
+    5.28
+   ],
+   [
+    "O'Byrne.",
+    5.28,
+    5.76
+   ],
+   [
+    "He",
+    6.14,
+    6.22
+   ],
+   [
+    "was",
+    6.22,
+    6.36
+   ],
+   [
+    "born",
+    6.36,
+    6.62
+   ],
+   [
+    "into",
+    6.62,
+    6.9
+   ],
+   [
+    "a",
+    6.9,
+    7.06
+   ],
+   [
+    "wealthy",
+    7.06,
+    7.28
+   ],
+   [
+    "family",
+    7.28,
+    7.72
+   ],
+   [
+    "in",
+    7.72,
+    7.98
+   ],
+   [
+    "London.",
+    7.98,
+    8.38
+   ],
+   [
+    "His",
+    8.78,
+    8.88
+   ],
+   [
+    "private",
+    8.88,
+    9.16
+   ],
+   [
+    "income",
+    9.16,
+    9.58
+   ],
+   [
+    "let",
+    9.58,
+    9.82
+   ],
+   [
+    "him",
+    9.82,
+    9.96
+   ],
+   [
+    "ignore",
+    9.96,
+    10.22
+   ],
+   [
+    "musical",
+    10.22,
+    10.6
+   ],
+   [
+    "trends",
+    10.6,
+    11.0
+   ],
+   [
+    "and",
+    11.0,
+    11.24
+   ],
+   [
+    "fashion.",
+    11.24,
+    11.7
+   ],
+   [
+    "As",
+    12.1,
+    12.22
+   ],
+   [
+    "a",
+    12.22,
+    12.3
+   ],
+   [
+    "student,",
+    12.3,
+    12.6
+   ],
+   [
+    "he",
+    12.8,
+    12.82
+   ],
+   [
+    "became",
+    12.82,
+    13.06
+   ],
+   [
+    "fascinated",
+    13.06,
+    13.46
+   ],
+   [
+    "with",
+    13.46,
+    13.82
+   ],
+   [
+    "Irish",
+    13.82,
+    14.1
+   ],
+   [
+    "and",
+    14.1,
+    14.34
+   ],
+   [
+    "Celtic",
+    14.34,
+    14.68
+   ],
+   [
+    "culture.",
+    14.68,
+    14.78
+   ],
+   [
+    "He",
+    15.44,
+    15.54
+   ],
+   [
+    "eventually",
+    15.54,
+    15.86
+   ],
+   [
+    "wrote",
+    15.86,
+    16.16
+   ],
+   [
+    "7",
+    16.16,
+    16.48
+   ],
+   [
+    "symphonies",
+    16.48,
+    17.08
+   ],
+   [
+    "and",
+    17.08,
+    17.22
+   ],
+   [
+    "became",
+    17.22,
+    17.46
+   ],
+   [
+    "a",
+    17.46,
+    17.66
+   ],
+   [
+    "leading",
+    17.66,
+    17.88
+   ],
+   [
+    "British",
+    17.88,
+    18.16
+   ],
+   [
+    "symphonist.",
+    18.16,
+    18.76
+   ],
+   [
+    "Later,",
+    19.26,
+    19.68
+   ],
+   [
+    "his",
+    19.7,
+    19.74
+   ],
+   [
+    "focus",
+    19.74,
+    19.98
+   ],
+   [
+    "shifted",
+    20.24,
+    20.34
+   ],
+   [
+    "from",
+    20.34,
+    20.56
+   ],
+   [
+    "Celtic",
+    20.56,
+    21.0
+   ],
+   [
+    "roots",
+    21.0,
+    21.2
+   ],
+   [
+    "to",
+    21.2,
+    21.44
+   ],
+   [
+    "Nordic",
+    21.44,
+    21.84
+   ],
+   [
+    "culture.",
+    21.84,
+    22.3
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   26,
+   36,
+   47,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arnold-Bax-iln-2Dec22p.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 954,
+   "license": "Public domain",
+   "artist": "Herbert Lambert (1881-1936)",
+   "page": "https://commons.wikimedia.org/wiki/File:Arnold-Bax-iln-2Dec22p.jpg",
+   "desc": "Arnold-Bax-iln-2Dec22p — Portrait of Arnold Bax"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/CernunnosClonmacnoise.jpg/960px-CernunnosClonmacnoise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1241,
+   "license": "CC BY-SA 3.0",
+   "artist": "Djmcdermott",
+   "page": "https://commons.wikimedia.org/wiki/File:CernunnosClonmacnoise.jpg",
+   "desc": "CernunnosClonmacnoise — Relief carving of Cernunnos on the \"North Cross\" Clonmacnoise, Ireland. The Cross is decorated with animal and celtic knotwork patterns."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Wilhelm_Marstrand_-_Til_Leksands_Sognekirke_i_Dalarne_kommer_Folket_i_deres_store_Kirkeb%C3%A5de_over_Siljans%C3%B8en_om_S%C3%B8ndagen_til_Gudstjeneste._Studie_-_1851.png/960px-Wilhelm_Marstrand_-_Til_Leksands_Sognekirke_i_Dalarne_kommer_Folket_i_deres_store_Kirkeb%C3%A5de_over_Siljans%C3%B8en_om_S%C3%B8ndagen_til_Gudstjeneste._Studie_-_1851.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 471,
+   "license": "Public domain",
+   "artist": "Wilhelm Marstrand",
+   "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Marstrand_-_Til_Leksands_Sognekirke_i_Dalarne_kommer_Folket_i_deres_store_Kirkeb%C3%A5de_over_Siljans%C3%B8en_om_S%C3%B8ndagen_til_Gudstjeneste._Studie_-_1851.png",
+   "desc": "Wilhelm Marstrand - Til Leksands Sognekirke i Dalarne kommer Folket i deres store Kirkebåde over Siljansøen om Søndagen til Gudstjeneste. Studie - 1851 — From the auction notes: This painting is presumably Marstrand's last sketch for the large painting in the "
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q143198",
+ "pron_wer": 0.043,
+ "angle": 2,
+ "source": {
+  "title": "Arnold Bax",
+  "url": "https://en.wikipedia.org/wiki/Arnold_Bax",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:52:39Z",
+ "trimmed": true
+}
