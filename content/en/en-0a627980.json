@@ -1,0 +1,439 @@
+{
+ "id": "en-0a627980",
+ "lang": "en",
+ "title": "Rodgers and Hammerstein's Favorite",
+ "cat": "art",
+ "emoji": "🎭",
+ "sentences": [
+  "This famous musical was Richard Rodgers' absolute favorite.",
+  "Rodgers and Hammerstein created it after their massive success with Oklahoma!.",
+  "They adapted the plot from a 1909 Hungarian play.",
+  "The story moves the setting from Budapest to the Maine coastline.",
+  "It follows a carousel barker who attempts a robbery to support his family.",
+  "The show features iconic hits like You'll Never Walk Alone."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.2,
+    0.32
+   ],
+   [
+    "famous",
+    0.32,
+    0.7
+   ],
+   [
+    "musical",
+    0.7,
+    1.2
+   ],
+   [
+    "was",
+    1.2,
+    1.44
+   ],
+   [
+    "Richard",
+    1.44,
+    1.74
+   ],
+   [
+    "Rodgers'",
+    1.74,
+    2.36
+   ],
+   [
+    "absolute",
+    2.46,
+    2.98
+   ],
+   [
+    "favorite.",
+    2.98,
+    4.02
+   ],
+   [
+    "Rodgers",
+    4.02,
+    4.28
+   ],
+   [
+    "and",
+    4.28,
+    4.42
+   ],
+   [
+    "Hammerstein",
+    4.42,
+    4.88
+   ],
+   [
+    "created",
+    4.88,
+    5.24
+   ],
+   [
+    "it",
+    5.24,
+    5.46
+   ],
+   [
+    "after",
+    5.66,
+    5.76
+   ],
+   [
+    "their",
+    5.76,
+    5.92
+   ],
+   [
+    "massive",
+    5.92,
+    6.4
+   ],
+   [
+    "success",
+    6.4,
+    6.82
+   ],
+   [
+    "with",
+    6.82,
+    7.14
+   ],
+   [
+    "Oklahoma!.",
+    7.14,
+    7.84
+   ],
+   [
+    "They",
+    8.38,
+    8.44
+   ],
+   [
+    "adapted",
+    8.44,
+    8.7
+   ],
+   [
+    "the",
+    8.7,
+    8.86
+   ],
+   [
+    "plot",
+    8.86,
+    9.06
+   ],
+   [
+    "from",
+    9.06,
+    9.26
+   ],
+   [
+    "a",
+    9.26,
+    9.34
+   ],
+   [
+    "1909",
+    9.34,
+    9.92
+   ],
+   [
+    "Hungarian",
+    9.92,
+    10.34
+   ],
+   [
+    "play.",
+    10.34,
+    10.84
+   ],
+   [
+    "The",
+    11.4,
+    11.46
+   ],
+   [
+    "story",
+    11.54,
+    11.66
+   ],
+   [
+    "moves",
+    11.66,
+    11.86
+   ],
+   [
+    "the",
+    11.86,
+    12.04
+   ],
+   [
+    "setting",
+    12.04,
+    12.22
+   ],
+   [
+    "from",
+    12.22,
+    12.44
+   ],
+   [
+    "Budapest",
+    12.44,
+    12.94
+   ],
+   [
+    "to",
+    12.94,
+    13.28
+   ],
+   [
+    "the",
+    13.34,
+    13.44
+   ],
+   [
+    "Maine",
+    13.44,
+    13.74
+   ],
+   [
+    "coastline.",
+    13.74,
+    14.24
+   ],
+   [
+    "It",
+    14.92,
+    14.98
+   ],
+   [
+    "follows",
+    15.04,
+    15.18
+   ],
+   [
+    "a",
+    15.18,
+    15.4
+   ],
+   [
+    "carousel",
+    15.48,
+    15.8
+   ],
+   [
+    "barker",
+    15.8,
+    16.2
+   ],
+   [
+    "who",
+    16.3,
+    16.4
+   ],
+   [
+    "attempts",
+    16.4,
+    16.68
+   ],
+   [
+    "a",
+    16.74,
+    16.84
+   ],
+   [
+    "robbery",
+    16.84,
+    17.08
+   ],
+   [
+    "to",
+    17.24,
+    17.34
+   ],
+   [
+    "support",
+    17.34,
+    17.54
+   ],
+   [
+    "his",
+    17.54,
+    17.68
+   ],
+   [
+    "family.",
+    17.68,
+    17.98
+   ],
+   [
+    "The",
+    18.52,
+    18.6
+   ],
+   [
+    "show",
+    18.6,
+    18.74
+   ],
+   [
+    "features",
+    18.74,
+    18.96
+   ],
+   [
+    "iconic",
+    18.96,
+    19.46
+   ],
+   [
+    "hits",
+    19.46,
+    19.82
+   ],
+   [
+    "like",
+    19.86,
+    20.14
+   ],
+   [
+    "You'll",
+    20.36,
+    20.48
+   ],
+   [
+    "Never",
+    20.48,
+    20.7
+   ],
+   [
+    "Walk",
+    20.7,
+    20.98
+   ],
+   [
+    "Alone.",
+    20.98,
+    21.08
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   28,
+   39,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/R_and_H.jpg/960px-R_and_H.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 683,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:R_and_H.jpg",
+   "desc": "R and H — Richard Rodgers (left) and Oscar Hammerstein II (right)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Recueil_sur_%22Liliom%22_de_Ferenc_Molnar_-_btv1b52505067p_%2811_of_64%29.jpg/960px-Recueil_sur_%22Liliom%22_de_Ferenc_Molnar_-_btv1b52505067p_%2811_of_64%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1168,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Recueil_sur_%22Liliom%22_de_Ferenc_Molnar_-_btv1b52505067p_(11_of_64).jpg",
+   "desc": "Recueil sur \"Liliom\" de Ferenc Molnar - btv1b52505067p (11 of 64) — Contient : coupures de presse Langue : français"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Boothbay_Harbor_in_Summer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 435,
+   "license": "CC BY-SA 3.0",
+   "artist": "3l3phant at en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Boothbay_Harbor_in_Summer.jpg",
+   "desc": "Boothbay Harbor in Summer — Boothbay Harbor, Maine before sunset, summer 2007."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mister_Snow.jpg/960px-Mister_Snow.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 286,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Mister_Snow.jpg",
+   "desc": "Mister Snow — Scene from the original production of Carousel. Song seems to be \"Mister Snow\", with Eric Mattson (far right) as Enoch Snow, Iva Withers (standing, forward, at mid-left) is Julie and Margot Moser (bent over) is Carrie."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Shankly_Gates.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.5",
+   "artist": "Andynugent at English Wikipedia a.k.a. Andynugent at Flickr a.k.a. Andy Nugent.",
+   "page": "https://commons.wikimedia.org/wiki/File:Shankly_Gates.jpg",
+   "desc": "Shankly Gates — \"You'll Never Walk Alone\", Shankly Gates, Anfield."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1943
+  },
+  {
+   "type": "timeline",
+   "year": 1909
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "carousel barker",
+   "box": [
+    115,
+    678,
+    853,
+    874
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1044703",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Carousel (musical)",
+  "url": "https://en.wikipedia.org/wiki/Carousel_%28musical%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T13:22:10Z",
+ "trimmed": true
+}
