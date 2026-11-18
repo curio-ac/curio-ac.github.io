@@ -141,7 +141,8 @@
   "Asimov's Science Fiction",
   "nasa:1441687",
   "Carrow Road",
-  "Steve Jobs"
+  "Steve Jobs",
+  "nasa:1350486"
  ],
  "rejected": [
   "Chameleon",
@@ -642,6 +643,9 @@
   ],
   "Steve Jobs": [
    "The Wild Life of Steve Jobs: Steve Jobs was fired by his board."
+  ],
+  "nasa:1350486": [
+   "Lake Powell's Shrinking Waters: Lake Powell has hit record-low water levels."
   ]
  },
  "exhausted": []

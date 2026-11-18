@@ -1,0 +1,450 @@
+{
+ "id": "en-e681a4e0",
+ "lang": "en",
+ "title": "The Sunken Movie Reel",
+ "cat": "history",
+ "emoji": "🎬",
+ "sentences": [
+  "A 1915 silent film was salvaged from a shipwreck.",
+  "The Carpet from Bagdad is a lost adventure movie about a stolen prayer rug.",
+  "Marketing included a media tour and an invitation-only screening from the book's publisher.",
+  "Critics praised the realistic Middle East imagery and tinted desert scenes.",
+  "One badly damaged reel was recovered in 1982 from the sunken RMS Lusitania.",
+  "The ship was torpedoed during the First World War."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.22,
+    0.32
+   ],
+   [
+    "1915",
+    0.32,
+    1.04
+   ],
+   [
+    "silent",
+    1.08,
+    1.56
+   ],
+   [
+    "film",
+    1.56,
+    1.94
+   ],
+   [
+    "was",
+    2.02,
+    2.14
+   ],
+   [
+    "salvaged",
+    2.14,
+    2.7
+   ],
+   [
+    "from",
+    2.78,
+    2.88
+   ],
+   [
+    "a",
+    2.88,
+    3.02
+   ],
+   [
+    "shipwreck.",
+    3.02,
+    3.18
+   ],
+   [
+    "The",
+    4.18,
+    4.26
+   ],
+   [
+    "Carpet",
+    4.26,
+    4.56
+   ],
+   [
+    "from",
+    4.64,
+    4.74
+   ],
+   [
+    "Bagdad",
+    4.74,
+    5.22
+   ],
+   [
+    "is",
+    5.22,
+    5.54
+   ],
+   [
+    "a",
+    5.56,
+    5.68
+   ],
+   [
+    "lost",
+    5.68,
+    5.94
+   ],
+   [
+    "adventure",
+    6.0,
+    6.28
+   ],
+   [
+    "movie",
+    6.28,
+    6.72
+   ],
+   [
+    "about",
+    6.72,
+    7.0
+   ],
+   [
+    "a",
+    7.0,
+    7.12
+   ],
+   [
+    "stolen",
+    7.12,
+    7.4
+   ],
+   [
+    "prayer",
+    7.4,
+    7.76
+   ],
+   [
+    "rug.",
+    7.76,
+    7.88
+   ],
+   [
+    "Marketing",
+    8.64,
+    8.9
+   ],
+   [
+    "included",
+    9.3,
+    9.4
+   ],
+   [
+    "a",
+    9.4,
+    9.56
+   ],
+   [
+    "media",
+    9.56,
+    9.72
+   ],
+   [
+    "tour",
+    9.72,
+    10.06
+   ],
+   [
+    "and",
+    10.06,
+    10.3
+   ],
+   [
+    "an",
+    10.3,
+    10.4
+   ],
+   [
+    "invitation-only",
+    10.63,
+    11.28
+   ],
+   [
+    "screening",
+    11.28,
+    11.7
+   ],
+   [
+    "from",
+    11.7,
+    11.96
+   ],
+   [
+    "the",
+    11.96,
+    12.06
+   ],
+   [
+    "book's",
+    12.22,
+    12.32
+   ],
+   [
+    "publisher.",
+    12.32,
+    12.56
+   ],
+   [
+    "Critics",
+    13.78,
+    14.02
+   ],
+   [
+    "praised",
+    14.16,
+    14.32
+   ],
+   [
+    "the",
+    14.32,
+    14.64
+   ],
+   [
+    "realistic",
+    14.64,
+    15.02
+   ],
+   [
+    "Middle",
+    15.14,
+    15.32
+   ],
+   [
+    "East",
+    15.32,
+    15.56
+   ],
+   [
+    "imagery",
+    15.62,
+    15.86
+   ],
+   [
+    "and",
+    15.92,
+    16.3
+   ],
+   [
+    "tinted",
+    16.3,
+    16.74
+   ],
+   [
+    "desert",
+    16.74,
+    17.02
+   ],
+   [
+    "scenes.",
+    17.02,
+    17.12
+   ],
+   [
+    "One",
+    18.3,
+    18.4
+   ],
+   [
+    "badly",
+    18.4,
+    18.76
+   ],
+   [
+    "damaged",
+    18.76,
+    19.1
+   ],
+   [
+    "reel",
+    19.1,
+    19.42
+   ],
+   [
+    "was",
+    19.42,
+    19.6
+   ],
+   [
+    "recovered",
+    19.8,
+    19.9
+   ],
+   [
+    "in",
+    19.9,
+    20.06
+   ],
+   [
+    "1982",
+    20.06,
+    20.68
+   ],
+   [
+    "from",
+    20.68,
+    21.38
+   ],
+   [
+    "the",
+    21.38,
+    21.52
+   ],
+   [
+    "sunken",
+    21.52,
+    21.86
+   ],
+   [
+    "RMS",
+    21.86,
+    22.3
+   ],
+   [
+    "Lusitania.",
+    22.3,
+    23.0
+   ],
+   [
+    "The",
+    23.8,
+    23.86
+   ],
+   [
+    "ship",
+    23.86,
+    24.0
+   ],
+   [
+    "was",
+    24.0,
+    24.14
+   ],
+   [
+    "torpedoed",
+    24.14,
+    24.74
+   ],
+   [
+    "during",
+    24.74,
+    24.9
+   ],
+   [
+    "the",
+    24.9,
+    25.02
+   ],
+   [
+    "First",
+    25.02,
+    25.2
+   ],
+   [
+    "World",
+    25.2,
+    25.44
+   ],
+   [
+    "War.",
+    25.44,
+    25.74
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   23,
+   36,
+   47,
+   60
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Carpetfrombagdad_with_carpet.JPG/960px-Carpetfrombagdad_with_carpet.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 515,
+   "license": "Public domain",
+   "artist": "The image appeared in the journal Motography. The film was produced by Selig Pol",
+   "page": "https://commons.wikimedia.org/wiki/File:Carpetfrombagdad_with_carpet.JPG",
+   "desc": "Carpetfrombagdad with carpet — Guy Oliver and Wheeler Oakman in a still from the lost film The Carpet from Bagdad (1915), as reprinted in the journal Motography"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Lusitania_while_sinking_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 427,
+   "license": "CC BY-SA 4.0",
+   "artist": "Tackney os",
+   "page": "https://commons.wikimedia.org/wiki/File:RMS_Lusitania_while_sinking_.jpg",
+   "desc": "RMS Lusitania while sinking  — The tragic boat as it sunk"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1915
+  },
+  {
+   "type": "focus",
+   "target": "prayer rug",
+   "box": [
+    426,
+    411,
+    995,
+    838
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1982,
+   "unit": "year",
+   "label": "recovered reel"
+  },
+  {
+   "type": "timeline",
+   "year": 1915
+  }
+ ],
+ "geo": null,
+ "qid": "Q3520209",
+ "pron_wer": 0.014,
+ "angle": 0,
+ "source": {
+  "title": "The Carpet from Bagdad",
+  "url": "https://en.wikipedia.org/wiki/The_Carpet_from_Bagdad",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:21:54Z",
+ "trimmed": true
+}
