@@ -1,0 +1,438 @@
+{
+ "id": "en-ced8b7f9",
+ "lang": "en",
+ "title": "Amazon Rainforest Under Fire",
+ "cat": "geography",
+ "emoji": "🔥",
+ "sentences": [
+  "The Amazon rainforest is currently ablaze.",
+  "El Niño has triggered a severe, months-long drought.",
+  "Satellites detected massive spikes in fire activity starting in September 2026.",
+  "In Manaus, thick smoke forced schools to close.",
+  "Most fires are started by people, not lightning.",
+  "Scientists warn that these forests are not adapted to fire, causing permanent ecological damage.",
+  "This pattern continues a cycle seen in 2015 and 2023."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.24,
+    0.38
+   ],
+   [
+    "Amazon",
+    0.38,
+    0.72
+   ],
+   [
+    "rainforest",
+    0.72,
+    1.1
+   ],
+   [
+    "is",
+    1.1,
+    1.6
+   ],
+   [
+    "currently",
+    1.6,
+    1.98
+   ],
+   [
+    "ablaze.",
+    1.98,
+    2.5
+   ],
+   [
+    "El",
+    3.02,
+    3.1
+   ],
+   [
+    "Niño",
+    3.1,
+    3.48
+   ],
+   [
+    "has",
+    3.48,
+    3.66
+   ],
+   [
+    "triggered",
+    3.66,
+    3.9
+   ],
+   [
+    "a",
+    3.9,
+    4.12
+   ],
+   [
+    "severe,",
+    4.12,
+    4.6
+   ],
+   [
+    "months-long",
+    4.6,
+    5.12
+   ],
+   [
+    "drought.",
+    5.12,
+    5.46
+   ],
+   [
+    "Satellites",
+    5.98,
+    6.4
+   ],
+   [
+    "detected",
+    6.46,
+    6.68
+   ],
+   [
+    "massive",
+    6.68,
+    7.12
+   ],
+   [
+    "spikes",
+    7.12,
+    7.44
+   ],
+   [
+    "in",
+    7.44,
+    7.64
+   ],
+   [
+    "fire",
+    7.64,
+    7.88
+   ],
+   [
+    "activity",
+    7.88,
+    8.28
+   ],
+   [
+    "starting",
+    8.28,
+    8.6
+   ],
+   [
+    "in",
+    8.6,
+    8.8
+   ],
+   [
+    "September",
+    8.8,
+    9.06
+   ],
+   [
+    "2026.",
+    9.06,
+    9.96
+   ],
+   [
+    "In",
+    10.3,
+    10.38
+   ],
+   [
+    "Manaus,",
+    10.38,
+    10.84
+   ],
+   [
+    "thick",
+    11.06,
+    11.18
+   ],
+   [
+    "smoke",
+    11.18,
+    11.44
+   ],
+   [
+    "forced",
+    11.44,
+    11.8
+   ],
+   [
+    "schools",
+    11.8,
+    12.2
+   ],
+   [
+    "to",
+    12.2,
+    12.4
+   ],
+   [
+    "close.",
+    12.4,
+    12.98
+   ],
+   [
+    "Most",
+    13.02,
+    13.14
+   ],
+   [
+    "fires",
+    13.14,
+    13.46
+   ],
+   [
+    "are",
+    13.46,
+    13.64
+   ],
+   [
+    "started",
+    13.64,
+    13.88
+   ],
+   [
+    "by",
+    13.88,
+    14.08
+   ],
+   [
+    "people,",
+    14.08,
+    14.52
+   ],
+   [
+    "not",
+    14.64,
+    14.74
+   ],
+   [
+    "lightning.",
+    14.74,
+    15.0
+   ],
+   [
+    "Scientists",
+    15.5,
+    15.76
+   ],
+   [
+    "warn",
+    15.76,
+    16.22
+   ],
+   [
+    "that",
+    16.22,
+    16.42
+   ],
+   [
+    "these",
+    16.42,
+    16.58
+   ],
+   [
+    "forests",
+    16.58,
+    16.9
+   ],
+   [
+    "are",
+    16.9,
+    17.16
+   ],
+   [
+    "not",
+    17.16,
+    17.34
+   ],
+   [
+    "adapted",
+    17.34,
+    17.68
+   ],
+   [
+    "to",
+    17.68,
+    17.84
+   ],
+   [
+    "fire,",
+    17.84,
+    18.2
+   ],
+   [
+    "causing",
+    18.32,
+    18.5
+   ],
+   [
+    "permanent",
+    18.5,
+    18.88
+   ],
+   [
+    "ecological",
+    18.88,
+    19.36
+   ],
+   [
+    "damage.",
+    19.36,
+    19.9
+   ],
+   [
+    "This",
+    20.28,
+    20.42
+   ],
+   [
+    "pattern",
+    20.42,
+    20.72
+   ],
+   [
+    "continues",
+    20.72,
+    21.16
+   ],
+   [
+    "a",
+    21.16,
+    21.32
+   ],
+   [
+    "cycle",
+    21.32,
+    21.6
+   ],
+   [
+    "seen",
+    21.6,
+    21.9
+   ],
+   [
+    "in",
+    21.9,
+    22.04
+   ],
+   [
+    "2015",
+    22.5,
+    22.6
+   ],
+   [
+    "and",
+    22.6,
+    22.96
+   ],
+   [
+    "2023.",
+    22.96,
+    23.71
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   25,
+   33,
+   41,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Fires_Arrive_in_the_Amazon_Rainforest_%281489375%29.jpg/960px-Fires_Arrive_in_the_Amazon_Rainforest_%281489375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Fires_Arrive_in_the_Amazon_Rainforest_(1489375).jpg",
+   "desc": "Fires Arrive in the Amazon Rainforest (1489375) — NASA Earth Observatory images by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/El_Ni%C3%B1o_Could_Drive_Intense_Season_for_Amazon_Fires_%2827374763563%29.jpg/960px-El_Ni%C3%B1o_Could_Drive_Intense_Season_for_Amazon_Fires_%2827374763563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 424,
+   "license": "Public domain",
+   "artist": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Ni%C3%B1o_Could_Drive_Intense_Season_for_Amazon_Fires_(27374763563).jpg",
+   "desc": "El Niño Could Drive Intense Season for Amazon Fires (27374763563) — El Niño conditions in 2015 and early 2016 altered rainfall patterns around the world. In the Amazon, El Niño reduced rainfall during the wet season, leaving the region drier at the start of th"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fires_Arrive_in_the_Amazon_Rainforest_%281489375_-_lrg%29.jpg/960px-Fires_Arrive_in_the_Amazon_Rainforest_%281489375_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Fires_Arrive_in_the_Amazon_Rainforest_(1489375_-_lrg).jpg",
+   "desc": "Fires Arrive in the Amazon Rainforest (1489375 - lrg) — NASA Earth Observatory images by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "percent",
+   "label": "lightning ignites"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2015
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+ "pron_wer": 0.015,
+ "angle": 1,
+ "source": {
+  "title": "Fires Arrive in the Amazon Rainforest",
+  "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:56:35Z",
+ "trimmed": true
+}
