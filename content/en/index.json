@@ -187,7 +187,8 @@
   "nasa:1509805",
   "nasa:1472636",
   "American Cream Draft",
-  "The Chaser APEC pranks"
+  "The Chaser APEC pranks",
+  "nasa:1506661"
  ],
  "rejected": [
   "Chameleon",
@@ -865,6 +866,9 @@
   ],
   "The Chaser APEC pranks": [
    "Fake Motorcade Breaches APEC Zone: A fake motorcade breached an APEC restricted zone."
+  ],
+  "nasa:1506661": [
+   "Saving the Hubble Telescope: NASA might give Hubble a boost!"
   ]
  },
  "exhausted": []

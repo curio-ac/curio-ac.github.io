@@ -1,0 +1,337 @@
+{
+ "id": "en-74cc26ca",
+ "lang": "en",
+ "title": "Feather-Leaved Banksia",
+ "cat": "biology",
+ "emoji": "🌿",
+ "sentences": [
+  "Meet the rare feather-leaved banksia.",
+  "It grows up to 2 meters high in southwest Western Australia.",
+  "The plant features large red-brown flower spikes.",
+  "It naturally occurs only in two population clusters.",
+  "The IUCN evaluates it as critically endangered.",
+  "Disease and habitat loss threaten its survival."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.35,
+    0.35
+   ],
+   [
+    "the",
+    0.35,
+    0.55
+   ],
+   [
+    "rare",
+    0.55,
+    0.73
+   ],
+   [
+    "feather-leaved",
+    0.73,
+    1.35
+   ],
+   [
+    "banksia.",
+    1.35,
+    1.85
+   ],
+   [
+    "It",
+    2.31,
+    2.33
+   ],
+   [
+    "grows",
+    2.33,
+    2.55
+   ],
+   [
+    "up",
+    2.55,
+    2.77
+   ],
+   [
+    "to",
+    2.77,
+    2.91
+   ],
+   [
+    "2",
+    2.91,
+    3.11
+   ],
+   [
+    "meters",
+    3.11,
+    3.27
+   ],
+   [
+    "high",
+    3.27,
+    3.61
+   ],
+   [
+    "in",
+    3.61,
+    3.79
+   ],
+   [
+    "southwest",
+    3.79,
+    4.09
+   ],
+   [
+    "Western",
+    4.09,
+    4.59
+   ],
+   [
+    "Australia.",
+    4.59,
+    5.07
+   ],
+   [
+    "The",
+    5.47,
+    5.55
+   ],
+   [
+    "plant",
+    5.55,
+    5.75
+   ],
+   [
+    "features",
+    5.75,
+    6.05
+   ],
+   [
+    "large",
+    6.05,
+    6.41
+   ],
+   [
+    "red-brown",
+    6.41,
+    7.01
+   ],
+   [
+    "flower",
+    7.01,
+    7.21
+   ],
+   [
+    "spikes.",
+    7.21,
+    7.61
+   ],
+   [
+    "It",
+    8.09,
+    8.15
+   ],
+   [
+    "naturally",
+    8.15,
+    8.51
+   ],
+   [
+    "occurs",
+    8.51,
+    8.87
+   ],
+   [
+    "only",
+    8.87,
+    9.25
+   ],
+   [
+    "in",
+    9.25,
+    9.43
+   ],
+   [
+    "two",
+    9.43,
+    9.59
+   ],
+   [
+    "population",
+    9.59,
+    10.05
+   ],
+   [
+    "clusters.",
+    10.05,
+    10.75
+   ],
+   [
+    "The",
+    11.13,
+    11.15
+   ],
+   [
+    "IUCN",
+    11.15,
+    11.87
+   ],
+   [
+    "evaluates",
+    11.87,
+    12.43
+   ],
+   [
+    "it",
+    12.43,
+    12.51
+   ],
+   [
+    "as",
+    12.51,
+    12.67
+   ],
+   [
+    "critically",
+    12.67,
+    12.93
+   ],
+   [
+    "endangered.",
+    12.93,
+    13.58
+   ],
+   [
+    "Disease",
+    14.01,
+    14.11
+   ],
+   [
+    "and",
+    14.11,
+    14.39
+   ],
+   [
+    "habitat",
+    14.39,
+    14.63
+   ],
+   [
+    "loss",
+    14.63,
+    15.01
+   ],
+   [
+    "threaten",
+    15.01,
+    15.29
+   ],
+   [
+    "its",
+    15.41,
+    15.51
+   ],
+   [
+    "survival.",
+    15.51,
+    16.05
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   16,
+   23,
+   31,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Banksia_brownii.jpg/960px-Banksia_brownii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 4.0",
+   "artist": "Allthingsnative",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_brownii.jpg",
+   "desc": "Banksia brownii — Banksia brownii cultivated plant growing in the Australian National Botanic Garden"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Banksia_brownii_shrubby_cropped.jpg/960px-Banksia_brownii_shrubby_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 666,
+   "license": "Public domain",
+   "artist": "Cas Liber",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_brownii_shrubby_cropped.jpg",
+   "desc": "Banksia brownii shrubby cropped — This is a photograph of the shrubby form of Banksia brownii. It was taken at the Banksia Farm in Mount Barker, Western Australia."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/B_brownii_dist_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 642,
+   "license": "Public domain",
+   "artist": "Gnangarra",
+   "page": "https://commons.wikimedia.org/wiki/File:B_brownii_dist_map.png",
+   "desc": "B brownii dist map — Distribution map of the Banksia brownii. Update to include new population identified in the Hopetown region April 2006. revert to earlier version as WA Herbarium unable to confirm ID of plant as B.brownii the source has "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "feather-leaved banksia",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 2,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q311810",
+ "pron_wer": 0.043,
+ "angle": 0,
+ "source": {
+  "title": "Banksia brownii",
+  "url": "https://en.wikipedia.org/wiki/Banksia_brownii",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:04:18Z",
+ "trimmed": true
+}
