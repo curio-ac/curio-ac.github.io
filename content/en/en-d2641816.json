@@ -1,0 +1,453 @@
+{
+ "id": "en-d2641816",
+ "lang": "en",
+ "title": "NYC's 2008 Science Festival",
+ "cat": "history",
+ "emoji": "🧪",
+ "sentences": [
+  "New York City hosted its first science festival.",
+  "Physicist Brian Greene and journalist Tracy Day founded it.",
+  "The 2008 event featured panel discussions and multimedia presentations.",
+  "A family program explored science through sports.",
+  "Actor Alan Alda led a cultural program about science-inspired art.",
+  "The festival included a summit with leaders from science, politics, and business.",
+  "Partners like the Metropolitan Museum of Art helped bring it to life."
+ ],
+ "tim": {
+  "w": [
+   [
+    "New",
+    0.18,
+    0.26
+   ],
+   [
+    "York",
+    0.26,
+    0.42
+   ],
+   [
+    "City",
+    0.42,
+    0.64
+   ],
+   [
+    "hosted",
+    0.64,
+    0.94
+   ],
+   [
+    "its",
+    0.96,
+    1.18
+   ],
+   [
+    "first",
+    1.28,
+    1.46
+   ],
+   [
+    "science",
+    1.46,
+    1.92
+   ],
+   [
+    "festival.",
+    1.92,
+    2.18
+   ],
+   [
+    "Physicist",
+    2.98,
+    3.38
+   ],
+   [
+    "Brian",
+    3.46,
+    3.62
+   ],
+   [
+    "Greene",
+    3.62,
+    4.0
+   ],
+   [
+    "and",
+    4.0,
+    4.22
+   ],
+   [
+    "journalist",
+    4.22,
+    4.58
+   ],
+   [
+    "Tracy",
+    4.58,
+    5.0
+   ],
+   [
+    "Day",
+    5.0,
+    5.26
+   ],
+   [
+    "founded",
+    5.26,
+    5.58
+   ],
+   [
+    "it.",
+    5.58,
+    5.68
+   ],
+   [
+    "The",
+    6.32,
+    6.32
+   ],
+   [
+    "2008",
+    6.32,
+    6.74
+   ],
+   [
+    "event",
+    6.74,
+    7.12
+   ],
+   [
+    "featured",
+    7.12,
+    7.42
+   ],
+   [
+    "panel",
+    7.42,
+    7.8
+   ],
+   [
+    "discussions",
+    7.8,
+    8.16
+   ],
+   [
+    "and",
+    8.16,
+    8.68
+   ],
+   [
+    "multimedia",
+    8.68,
+    9.08
+   ],
+   [
+    "presentations.",
+    9.08,
+    9.88
+   ],
+   [
+    "A",
+    10.56,
+    10.64
+   ],
+   [
+    "family",
+    10.64,
+    10.88
+   ],
+   [
+    "program",
+    10.88,
+    11.28
+   ],
+   [
+    "explored",
+    11.28,
+    11.72
+   ],
+   [
+    "science",
+    11.72,
+    12.1
+   ],
+   [
+    "through",
+    12.1,
+    12.4
+   ],
+   [
+    "sports.",
+    12.4,
+    13.35
+   ],
+   [
+    "Actor",
+    13.54,
+    13.76
+   ],
+   [
+    "Alan",
+    13.76,
+    14.08
+   ],
+   [
+    "Alda",
+    14.08,
+    14.52
+   ],
+   [
+    "led",
+    14.52,
+    14.7
+   ],
+   [
+    "a",
+    14.7,
+    14.8
+   ],
+   [
+    "cultural",
+    14.8,
+    15.08
+   ],
+   [
+    "program",
+    15.08,
+    15.54
+   ],
+   [
+    "about",
+    15.72,
+    15.84
+   ],
+   [
+    "science-inspired",
+    15.84,
+    16.7
+   ],
+   [
+    "art.",
+    16.7,
+    17.04
+   ],
+   [
+    "The",
+    17.9,
+    17.9
+   ],
+   [
+    "festival",
+    17.96,
+    18.18
+   ],
+   [
+    "included",
+    18.18,
+    18.6
+   ],
+   [
+    "a",
+    18.6,
+    18.82
+   ],
+   [
+    "summit",
+    18.82,
+    19.06
+   ],
+   [
+    "with",
+    19.06,
+    19.28
+   ],
+   [
+    "leaders",
+    19.28,
+    19.54
+   ],
+   [
+    "from",
+    19.54,
+    19.8
+   ],
+   [
+    "science,",
+    19.8,
+    20.32
+   ],
+   [
+    "politics,",
+    20.44,
+    20.66
+   ],
+   [
+    "and",
+    21.0,
+    21.02
+   ],
+   [
+    "business.",
+    21.02,
+    21.42
+   ],
+   [
+    "Partners",
+    22.06,
+    22.22
+   ],
+   [
+    "like",
+    22.22,
+    22.52
+   ],
+   [
+    "the",
+    22.52,
+    22.62
+   ],
+   [
+    "Metropolitan",
+    22.62,
+    22.92
+   ],
+   [
+    "Museum",
+    22.94,
+    23.4
+   ],
+   [
+    "of",
+    23.4,
+    23.62
+   ],
+   [
+    "Art",
+    23.66,
+    23.84
+   ],
+   [
+    "helped",
+    24.06,
+    24.16
+   ],
+   [
+    "bring",
+    24.16,
+    24.42
+   ],
+   [
+    "it",
+    24.42,
+    24.52
+   ],
+   [
+    "to",
+    24.52,
+    24.62
+   ],
+   [
+    "life.",
+    24.62,
+    24.86
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   33,
+   43,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Alda_day_greene_wsf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 710,
+   "license": "CC BY-SA 3.0",
+   "artist": "Markus Poessel (Mapos)",
+   "page": "https://commons.wikimedia.org/wiki/File:Alda_day_greene_wsf.jpg",
+   "desc": "Alda day greene wsf — Alan Alda, Tracy Day and Brian Greene at the press conference announcing the 2008 World Science Festival"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Whatitmeans_wsf2008.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 402,
+   "license": "CC BY-SA 3.0",
+   "artist": "Markus Poessel (Mapos)",
+   "page": "https://commons.wikimedia.org/wiki/File:Whatitmeans_wsf2008.jpg",
+   "desc": "Whatitmeans wsf2008 — Panel discussion \"What it Means to Be Human\" at the 2008 World Science Festival. From left to right: Paul Nurse, Marvin Minsky, Ian Tattersall, Renee Reijo Pera, Daniel Dennett, Harold Varmus, Francis Collins, Jim Gates,"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mathemagician_wsf2008.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 518,
+   "license": "CC BY-SA 3.0",
+   "artist": "Markus Poessel (Mapos)",
+   "page": "https://commons.wikimedia.org/wiki/File:Mathemagician_wsf2008.jpg",
+   "desc": "Mathemagician wsf2008 — Mathemagician Arthur T. Benjamin performing at the Street Fair during the 2008 World Science Festival"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Science_Festival_Lederman_Panel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Markus Poessel (Mapos)",
+   "page": "https://commons.wikimedia.org/wiki/File:World_Science_Festival_Lederman_Panel.jpg",
+   "desc": "World Science Festival Lederman Panel — New York City high school students Michael Kaplan, Dennis Wynn, and Rachel Lachhmans, attend the panel interviewing Leon Lederman at the 2008 World Science Festival"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  0,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2008
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3119054",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "2008 World Science Festival",
+  "url": "https://en.wikipedia.org/wiki/2008_World_Science_Festival",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:35:51Z",
+ "trimmed": true
+}
