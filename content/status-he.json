@@ -1,7 +1,26 @@
 {
  "lang": "he",
- "exhausted_day": "2026-11-17",
+ "exhausted_day": "2026-11-18",
  "runs": [
+  {
+   "at": "2026-11-18T08:32:31Z",
+   "made": 5,
+   "rejected": 3,
+   "repaired": 0,
+   "calls": 80,
+   "notes": [
+    "אטלנטיס: האימפריה האבודה: Expecting ',' delimiter: line 7 column 35 (char 198)",
+    "nasa:1505194: pronunciation 16.4% of words misheard",
+    "תכנון העיר ברצלונה: 'list' object has no attribute 'get'",
+    "קפאת-עד: pronunciation 9.8% of words misheard",
+    "nasa:1275293: pronunciation 12.8% of words misheard",
+    "אליאס אשמול: 'list' object has no attribute 'get'",
+    "ונוס (כוכב לכת): 'list' object has no attribute 'get'",
+    "אוניית צובר: 'list' object has no attribute 'get'",
+    "האנדרטה לחללי נשר במערכות ישראל: 'list' object has no attribute 'get'",
+    "repair he-67c9317b: 9.4% of words misheard"
+   ]
+  },
   {
    "at": "2026-11-17T08:57:58Z",
    "made": 6,
