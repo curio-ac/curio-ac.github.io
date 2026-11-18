@@ -1,0 +1,344 @@
+{
+ "id": "he-055c1a96",
+ "lang": "he",
+ "title": "מכתש נדיר התגלה על הירח",
+ "cat": "space",
+ "emoji": "🌕",
+ "sentences": [
+  "מכתש עצום חדש התגלה על הירח!",
+  "חוקר של נאס\"א זיהה את הנקודה במקרה.",
+  "גודלו של הסלע שפגע בירח היה כגובה בניין בן 3 עד 6 קומות.",
+  "הפגיעה התרחשה בין אפריל למאי 2024.",
+  "רוחב המכתש הוא 728 רגל ועומקו 141 רגל.",
+  "תופעה כזו קורה רק פעם במאה שנים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מכתש",
+    0.26,
+    0.46
+   ],
+   [
+    "עצום",
+    0.46,
+    0.98
+   ],
+   [
+    "חדש",
+    0.98,
+    1.56
+   ],
+   [
+    "התגלה",
+    1.56,
+    2.08
+   ],
+   [
+    "על",
+    2.08,
+    2.24
+   ],
+   [
+    "הירח!",
+    2.24,
+    2.68
+   ],
+   [
+    "חוקר",
+    3.4,
+    3.54
+   ],
+   [
+    "של",
+    3.54,
+    3.72
+   ],
+   [
+    "נאס\"א",
+    3.72,
+    4.22
+   ],
+   [
+    "זיהה",
+    4.22,
+    4.6
+   ],
+   [
+    "את",
+    4.6,
+    4.68
+   ],
+   [
+    "הנקודה",
+    4.7,
+    5.04
+   ],
+   [
+    "במקרה.",
+    5.04,
+    5.58
+   ],
+   [
+    "גודלו",
+    6.26,
+    6.54
+   ],
+   [
+    "של",
+    6.54,
+    6.66
+   ],
+   [
+    "הסלע",
+    6.66,
+    7.06
+   ],
+   [
+    "שפגע",
+    7.06,
+    7.5
+   ],
+   [
+    "בירח",
+    7.5,
+    8.08
+   ],
+   [
+    "היה",
+    8.34,
+    8.44
+   ],
+   [
+    "כגובה",
+    8.44,
+    9.0
+   ],
+   [
+    "בניין",
+    9.0,
+    9.44
+   ],
+   [
+    "בן",
+    9.44,
+    9.64
+   ],
+   [
+    "3",
+    9.86,
+    9.96
+   ],
+   [
+    "עד",
+    9.96,
+    10.4
+   ],
+   [
+    "6",
+    10.4,
+    10.68
+   ],
+   [
+    "קומות.",
+    10.68,
+    11.14
+   ],
+   [
+    "הפגיעה",
+    12.02,
+    12.26
+   ],
+   [
+    "התרחשה",
+    12.26,
+    12.66
+   ],
+   [
+    "בין",
+    12.66,
+    12.92
+   ],
+   [
+    "אפריל",
+    13.18,
+    13.4
+   ],
+   [
+    "למאי",
+    13.4,
+    14.0
+   ],
+   [
+    "2024.",
+    14.0,
+    14.94
+   ],
+   [
+    "רוחב",
+    15.78,
+    16.02
+   ],
+   [
+    "המכתש",
+    16.02,
+    16.54
+   ],
+   [
+    "הוא",
+    16.54,
+    16.66
+   ],
+   [
+    "728",
+    16.86,
+    17.58
+   ],
+   [
+    "רגל",
+    17.58,
+    18.34
+   ],
+   [
+    "ועומקו",
+    19.06,
+    19.16
+   ],
+   [
+    "141",
+    19.16,
+    20.18
+   ],
+   [
+    "רגל.",
+    20.18,
+    20.5
+   ],
+   [
+    "תופעה",
+    21.62,
+    21.76
+   ],
+   [
+    "כזו",
+    21.76,
+    22.04
+   ],
+   [
+    "קורה",
+    22.12,
+    22.26
+   ],
+   [
+    "רק",
+    22.26,
+    22.44
+   ],
+   [
+    "פעם",
+    22.68,
+    22.94
+   ],
+   [
+    "במאה",
+    22.94,
+    23.48
+   ],
+   [
+    "שנים.",
+    23.48,
+    23.58
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   26,
+   32,
+   40
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Moon_Dedal_crater-crop.jpg/960px-Moon_Dedal_crater-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 312,
+   "license": "Public domain",
+   "artist": "NASA (photo by Apollo 11)",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_Dedal_crater-crop.jpg",
+   "desc": "Moon Dedal crater-crop — Moon crater Daedalus."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Satellite_Needs_Working_Group_10_Year_Showcase_%28NHQ202611050009%29.jpg/960px-Satellite_Needs_Working_Group_10_Year_Showcase_%28NHQ202611050009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Headquarters / NASA/Keegan Barber",
+   "page": "https://commons.wikimedia.org/wiki/File:Satellite_Needs_Working_Group_10_Year_Showcase_(NHQ202611050009).jpg",
+   "desc": "Satellite Needs Working Group 10 Year Showcase (NHQ202611050009) — Pontus Olofsson, lead and project scientist for NASA’s Satellite Needs Working Group (SNWG) Implementation Team (NSITE), second from left, delivers remarks during a SNWG 10-Year Showcase event "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Crater_308_on_the_Moon.jpg/960px-Crater_308_on_the_Moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 704,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_308_on_the_Moon.jpg",
+   "desc": "Crater 308 on the Moon — An oblique view of the Crater Daedalus on the lunar farside as seen from the Apollo 11 spacecraft in lunar orbit. Daedalus (formerly referred to as Crater No. 308) is has a diameter of about 50 miles. This is a typical s"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 18,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "timeline",
+   "year": 2024
+  },
+  {
+   "type": "stat",
+   "value": 728,
+   "unit": "feet",
+   "label": "רוחב המכתש"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+ "pron_wer": 0.062,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+  "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:21:31Z",
+ "trimmed": true
+}
