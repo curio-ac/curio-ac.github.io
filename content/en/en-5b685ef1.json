@@ -1,0 +1,389 @@
+{
+ "id": "en-5b685ef1",
+ "lang": "en",
+ "title": "Build the Ultimate Interplanetary Guide",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA wants you to build an interplanetary guide.",
+  "Registration is open for the 2026 Space Apps Challenge.",
+  "This 2-day global hackathon uses free NASA data.",
+  "You do not need to be a programmer to join.",
+  "Solve challenges for the Moon, Mars, and deep space.",
+  "People of all ages and experience levels can participate."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.35,
+    0.35
+   ],
+   [
+    "wants",
+    0.35,
+    0.61
+   ],
+   [
+    "you",
+    0.61,
+    0.77
+   ],
+   [
+    "to",
+    0.77,
+    0.85
+   ],
+   [
+    "build",
+    0.85,
+    1.03
+   ],
+   [
+    "an",
+    1.03,
+    1.23
+   ],
+   [
+    "interplanetary",
+    1.23,
+    1.99
+   ],
+   [
+    "guide.",
+    1.99,
+    2.49
+   ],
+   [
+    "Registration",
+    2.75,
+    3.23
+   ],
+   [
+    "is",
+    3.23,
+    3.39
+   ],
+   [
+    "open",
+    3.39,
+    3.63
+   ],
+   [
+    "for",
+    3.63,
+    3.93
+   ],
+   [
+    "the",
+    3.93,
+    4.05
+   ],
+   [
+    "2026",
+    4.05,
+    4.83
+   ],
+   [
+    "Space",
+    4.83,
+    5.31
+   ],
+   [
+    "Apps",
+    5.31,
+    5.77
+   ],
+   [
+    "Challenge.",
+    5.77,
+    6.19
+   ],
+   [
+    "This",
+    6.81,
+    6.97
+   ],
+   [
+    "2-day",
+    6.97,
+    7.39
+   ],
+   [
+    "global",
+    7.39,
+    7.65
+   ],
+   [
+    "hackathon",
+    7.65,
+    8.21
+   ],
+   [
+    "uses",
+    8.21,
+    8.57
+   ],
+   [
+    "free",
+    8.57,
+    8.93
+   ],
+   [
+    "NASA",
+    8.93,
+    9.25
+   ],
+   [
+    "data.",
+    9.25,
+    9.81
+   ],
+   [
+    "You",
+    10.07,
+    10.13
+   ],
+   [
+    "do",
+    10.13,
+    10.23
+   ],
+   [
+    "not",
+    10.23,
+    10.39
+   ],
+   [
+    "need",
+    10.39,
+    10.59
+   ],
+   [
+    "to",
+    10.59,
+    10.71
+   ],
+   [
+    "be",
+    10.71,
+    10.81
+   ],
+   [
+    "a",
+    10.81,
+    10.89
+   ],
+   [
+    "programmer",
+    10.89,
+    11.25
+   ],
+   [
+    "to",
+    11.25,
+    11.49
+   ],
+   [
+    "join.",
+    11.49,
+    11.83
+   ],
+   [
+    "Solve",
+    12.23,
+    12.43
+   ],
+   [
+    "challenges",
+    12.43,
+    12.75
+   ],
+   [
+    "for",
+    12.75,
+    13.03
+   ],
+   [
+    "the",
+    13.03,
+    13.15
+   ],
+   [
+    "Moon,",
+    13.15,
+    13.67
+   ],
+   [
+    "Mars,",
+    13.67,
+    14.07
+   ],
+   [
+    "and",
+    14.09,
+    14.13
+   ],
+   [
+    "deep",
+    14.13,
+    14.33
+   ],
+   [
+    "space.",
+    14.33,
+    14.65
+   ],
+   [
+    "People",
+    15.29,
+    15.41
+   ],
+   [
+    "of",
+    15.41,
+    15.61
+   ],
+   [
+    "all",
+    15.61,
+    15.81
+   ],
+   [
+    "ages",
+    15.81,
+    16.13
+   ],
+   [
+    "and",
+    16.13,
+    16.35
+   ],
+   [
+    "experience",
+    16.35,
+    16.71
+   ],
+   [
+    "levels",
+    16.71,
+    17.13
+   ],
+   [
+    "can",
+    17.13,
+    17.35
+   ],
+   [
+    "participate.",
+    17.35,
+    17.9
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   35,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050101%29.jpg/960px-NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Headquarters / NASA/Keegan Barber",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Space_Apps_Challenge_Winners_Gathering_(NHQ202406050101).jpg",
+   "desc": "NASA Space Apps Challenge Winners Gathering (NHQ202406050101) — NASA Earth Science Division Director Karen St. Germain delivers remarks during a gathering of NASA Space Apps Challenge Global Winners and Local Leads from around the world Wednesday, June 5, 2024"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050102%29.jpg/960px-NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Headquarters / NASA/Keegan Barber",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Space_Apps_Challenge_Winners_Gathering_(NHQ202406050102).jpg",
+   "desc": "NASA Space Apps Challenge Winners Gathering (NHQ202406050102) — NASA Earth Science Division Director Karen St. Germain delivers remarks during a gathering of NASA Space Apps Challenge Global Winners and Local Leads from around the world Wednesday, June 5, 2024"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050106%29.jpg/960px-NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Headquarters / NASA/Keegan Barber",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Space_Apps_Challenge_Winners_Gathering_(NHQ202406050106).jpg",
+   "desc": "NASA Space Apps Challenge Winners Gathering (NHQ202406050106) — NASA Earth Science Division Associate Administrator Nicola Fox delivers remarks during a gathering of NASA Space Apps Challenge Global Winners and Local Leads from around the world Wednesday, June"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Moon_to_Mars_Objectives_Illustrations_%28moon-to-mars-transportation-and-habitationlarge%29.jpg/960px-Moon_to_Mars_Objectives_Illustrations_%28moon-to-mars-transportation-and-habitationlarge%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1072,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_to_Mars_Objectives_Illustrations_(moon-to-mars-transportation-and-habitationlarge).jpg",
+   "desc": "Moon to Mars Objectives Illustrations (moon-to-mars-transportation-and-habitationlarge) — NASA’s Moon to Mars Objectives establish an objectives-based approach to the agency's human deep space exploration efforts; NASA’s Moon to Mars Architecture approach dist"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050104%29.jpg/960px-NASA_Space_Apps_Challenge_Winners_Gathering_%28NHQ202406050104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Headquarters / NASA/Keegan Barber",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Space_Apps_Challenge_Winners_Gathering_(NHQ202406050104).jpg",
+   "desc": "NASA Space Apps Challenge Winners Gathering (NHQ202406050104) — NASA Earth Science Division Associate Administrator Nicola Fox delivers remarks during a gathering of NASA Space Apps Challenge Global Winners and Local Leads from around the world Wednesday, June"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "days",
+   "label": "global hackathon"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
+  "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T17:20:39Z",
+ "trimmed": true
+}
