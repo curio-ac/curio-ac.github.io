@@ -1,0 +1,382 @@
+{
+ "id": "en-ed380cd3",
+ "lang": "en",
+ "title": "The 2026 Ozone Hole",
+ "cat": "space",
+ "emoji": "🌍",
+ "sentences": [
+  "The ozone hole grew huge in 2026.",
+  "It ranked seventh largest in 48 years of tracking.",
+  "A powerful polar vortex drove the massive size.",
+  "The hole hit 10.5 million square miles on September 18.",
+  "Still, the ozone layer is healing thanks to a 1987 treaty.",
+  "Full recovery is expected by the 2070s."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.1,
+    0.1
+   ],
+   [
+    "ozone",
+    0.1,
+    0.42
+   ],
+   [
+    "hole",
+    0.42,
+    0.78
+   ],
+   [
+    "grew",
+    0.78,
+    1.06
+   ],
+   [
+    "huge",
+    1.06,
+    1.54
+   ],
+   [
+    "in",
+    1.54,
+    1.82
+   ],
+   [
+    "2026.",
+    1.82,
+    2.84
+   ],
+   [
+    "It",
+    3.02,
+    3.12
+   ],
+   [
+    "ranked",
+    3.12,
+    3.3
+   ],
+   [
+    "seventh",
+    3.3,
+    3.66
+   ],
+   [
+    "largest",
+    3.66,
+    4.1
+   ],
+   [
+    "in",
+    4.1,
+    4.42
+   ],
+   [
+    "48",
+    4.42,
+    4.84
+   ],
+   [
+    "years",
+    4.84,
+    5.32
+   ],
+   [
+    "of",
+    5.32,
+    5.54
+   ],
+   [
+    "tracking.",
+    5.54,
+    5.94
+   ],
+   [
+    "A",
+    6.48,
+    6.56
+   ],
+   [
+    "powerful",
+    6.56,
+    6.92
+   ],
+   [
+    "polar",
+    6.92,
+    7.34
+   ],
+   [
+    "vortex",
+    7.34,
+    7.92
+   ],
+   [
+    "drove",
+    7.94,
+    8.26
+   ],
+   [
+    "the",
+    8.26,
+    8.5
+   ],
+   [
+    "massive",
+    8.5,
+    8.92
+   ],
+   [
+    "size.",
+    8.92,
+    9.44
+   ],
+   [
+    "The",
+    10.0,
+    10.06
+   ],
+   [
+    "hole",
+    10.06,
+    10.28
+   ],
+   [
+    "hit",
+    10.28,
+    10.52
+   ],
+   [
+    "10.5",
+    10.52,
+    11.56
+   ],
+   [
+    "million",
+    11.56,
+    12.06
+   ],
+   [
+    "square",
+    12.06,
+    12.4
+   ],
+   [
+    "miles",
+    12.4,
+    12.8
+   ],
+   [
+    "on",
+    12.8,
+    13.02
+   ],
+   [
+    "September",
+    13.02,
+    13.24
+   ],
+   [
+    "18.",
+    13.24,
+    13.86
+   ],
+   [
+    "Still,",
+    14.72,
+    15.02
+   ],
+   [
+    "the",
+    15.1,
+    15.1
+   ],
+   [
+    "ozone",
+    15.1,
+    15.4
+   ],
+   [
+    "layer",
+    15.4,
+    15.66
+   ],
+   [
+    "is",
+    15.66,
+    15.88
+   ],
+   [
+    "healing",
+    15.88,
+    16.16
+   ],
+   [
+    "thanks",
+    16.16,
+    16.6
+   ],
+   [
+    "to",
+    16.6,
+    16.8
+   ],
+   [
+    "a",
+    16.8,
+    16.92
+   ],
+   [
+    "1987",
+    16.92,
+    17.46
+   ],
+   [
+    "treaty.",
+    17.46,
+    18.16
+   ],
+   [
+    "Full",
+    18.84,
+    18.94
+   ],
+   [
+    "recovery",
+    18.94,
+    19.32
+   ],
+   [
+    "is",
+    19.32,
+    19.6
+   ],
+   [
+    "expected",
+    19.6,
+    19.94
+   ],
+   [
+    "by",
+    19.94,
+    20.2
+   ],
+   [
+    "the",
+    20.2,
+    20.3
+   ],
+   [
+    "2070s.",
+    20.3,
+    21.0
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   34,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Ozone_Hole_Over_Antarctica_Reaches_Annual_Maximum_%28NESDIS_2015-12-19%29.png/960px-Ozone_Hole_Over_Antarctica_Reaches_Annual_Maximum_%28NESDIS_2015-12-19%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Ozone_Hole_Over_Antarctica_Reaches_Annual_Maximum_(NESDIS_2015-12-19).png",
+   "desc": "Ozone Hole Over Antarctica Reaches Annual Maximum (NESDIS 2015-12-19) — The 2015 Antarctic ozone hole area was larger and formed later than recent years, according to scientists from NOAA and NASA. On October 2, 2015, the ozone hole expanded to its peak of 28."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/A_Series_of_Rare_Disturbances_in_the_Stratosphere_%28153258_-_vorticity_mra2_20240805_lrg%29.jpg/960px-A_Series_of_Rare_Disturbances_in_the_Stratosphere_%28153258_-_vorticity_mra2_20240805_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory images by Wanmei Liang, using GEOS-FP data courtesy of La",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Series_of_Rare_Disturbances_in_the_Stratosphere_(153258_-_vorticity_mra2_20240805_lrg).jpg",
+   "desc": "A Series of Rare Disturbances in the Stratosphere (153258 - vorticity mra2 20240805 lrg) — It’s been an unsettled winter in the atmosphere above Antarctica. About 30 kilometers above the continent’s icy surface, in the layer known as the stratosphere, a series"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NASA_and_NOAA_Announce_Ozone_Hole_is_a_Double_Record_Breaker.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_and_NOAA_Announce_Ozone_Hole_is_a_Double_Record_Breaker.png",
+   "desc": "NASA and NOAA Announce Ozone Hole is a Double Record Breaker — From September 21-30, 2006 the average area of the ozone hole was the largest ever observed, at 10.6 million square miles (27.5 million square kilometres). This image, from September 24, the Antarc"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Snapshot_of_the_Antarctic_Ozone_Hole_2010_-HD_Video-_%284995772362%29.jpg/960px-Snapshot_of_the_Antarctic_Ozone_Hole_2010_-HD_Video-_%284995772362%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Snapshot_of_the_Antarctic_Ozone_Hole_2010_-HD_Video-_(4995772362).jpg",
+   "desc": "Snapshot of the Antarctic Ozone Hole 2010 -HD Video- (4995772362) — Today, September 16, is the International Day for the Preservation of the Ozone Layer, a commemoration of the day in 1987 when nations commenced the signing of the Montreal Protocol to limit a"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 2026,
+   "unit": "year",
+   "label": "Antarctic Ozone Hole"
+  },
+  {
+   "type": "stat",
+   "value": 48,
+   "unit": "years",
+   "label": "monitoring"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 10.5,
+   "unit": "million sq mi",
+   "label": "September 18"
+  },
+  {
+   "type": "timeline",
+   "year": 1987
+  },
+  {
+   "type": "timeline",
+   "year": 2070
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/2026-ozone-hole/",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
+  "url": "https://science.nasa.gov/earth/2026-ozone-hole/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:50:58Z",
+ "trimmed": true
+}

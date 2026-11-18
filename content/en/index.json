@@ -191,7 +191,8 @@
   "nasa:1506661",
   "Banksia brownii",
   "2008 World Science Festival",
-  "nasa:1505726"
+  "nasa:1505726",
+  "Hurricane Diane"
  ],
  "rejected": [
   "Chameleon",
@@ -237,7 +238,8 @@
   "AI Mark IV radar",
   "Banksia prionotes",
   "1987–88 Gillingham F.C. season",
-  "Cyclone Berguitta"
+  "Cyclone Berguitta",
+  "Cher"
  ],
  "angles": {
   "Blue whale": [
@@ -886,6 +888,9 @@
   ],
   "nasa:1505726": [
    "NASA's New Citizen Science: Volunteers just discovered most known brown dwarfs!"
+  ],
+  "Hurricane Diane": [
+   "The Billion Dollar Hurricane: Hurricane Diane caused over $1 billion in damage."
   ]
  },
  "exhausted": []
