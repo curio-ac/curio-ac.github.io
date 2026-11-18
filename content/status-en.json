@@ -1,7 +1,18 @@
 {
  "lang": "en",
- "exhausted_day": null,
+ "exhausted_day": "2026-11-18",
  "runs": [
+  {
+   "at": "2026-11-18T18:11:40Z",
+   "made": 0,
+   "rejected": 0,
+   "repaired": 0,
+   "calls": 9,
+   "notes": [
+    "nasa:1466049: 'NoneType' object is not subscriptable",
+    "quota: all text models exhausted"
+   ]
+  },
   {
    "at": "2026-11-18T15:48:45Z",
    "made": 9,
