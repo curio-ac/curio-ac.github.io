@@ -146,7 +146,8 @@
   "The Carpet from Bagdad",
   "Basiliscus",
   "nasa:1453069",
-  "nasa:66581"
+  "nasa:66581",
+  "1920–21 Burnley F.C. season"
  ],
  "rejected": [
   "Chameleon",
@@ -177,7 +178,9 @@
   "nasa:1378211",
   "William Barley",
   "C. R. M. F. Cruttwell",
-  "Battle of Dupplin Moor"
+  "Battle of Dupplin Moor",
+  "Bluebuck",
+  "nasa:1350129"
  ],
  "angles": {
   "Blue whale": [
@@ -664,6 +667,9 @@
   ],
   "nasa:66581": [
    "Free NASA Movies: NASA has its own free streaming service."
+  ],
+  "1920–21 Burnley F.C. season": [
+   "Burnley's Historic Unbeaten Run: Burnley once held an incredible 30-game unbeaten record."
   ]
  },
  "exhausted": []
