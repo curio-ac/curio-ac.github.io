@@ -197,7 +197,8 @@
   "2009 International Bowl",
   "nasa:1277030",
   "Disco Demolition Night",
-  "William Robinson Brown"
+  "William Robinson Brown",
+  "nasa:1490244"
  ],
  "rejected": [
   "Chameleon",
@@ -247,7 +248,8 @@
   "Cher",
   "1998 Football League First Division play-off final",
   "Saturn",
-  "Glacier"
+  "Glacier",
+  "Constantine II of Scotland"
  ],
  "angles": {
   "Blue whale": [
@@ -916,6 +918,9 @@
   ],
   "William Robinson Brown": [
    "The Logging Arabian Horse Boss: Meet W.R. Brown."
+  ],
+  "nasa:1490244": [
+   "Build the Ultimate Interplanetary Guide: NASA wants you to build an interplanetary guide."
   ]
  },
  "exhausted": []
