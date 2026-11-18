@@ -1,7 +1,21 @@
 {
  "lang": "en",
- "exhausted_day": "2026-11-17",
+ "exhausted_day": null,
  "runs": [
+  {
+   "at": "2026-11-18T08:30:36Z",
+   "made": 10,
+   "rejected": 5,
+   "repaired": 0,
+   "calls": 115,
+   "notes": [
+    "C. R. M. F. Cruttwell: pronunciation 19.3% of words misheard",
+    "Battle of Dupplin Moor: fact-check",
+    "Bluebuck: pronunciation 8.5% of words misheard",
+    "nasa:1350129: fact-check",
+    "nasa:1277717: fact-check"
+   ]
+  },
   {
    "at": "2026-11-17T16:43:20Z",
    "made": 3,
