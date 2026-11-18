@@ -394,7 +394,7 @@
  "qid": "Q212398",
  "pron_wer": 0.057,
  "hidden": true,
- "needs_voice": true,
+ "needs_voice": false,
  "hidden_reason": [
   "voice gemini-2.5-flash-preview-tts/Puck"
  ]
