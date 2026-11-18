@@ -177,7 +177,8 @@
   "Buangkok MRT station",
   "Canis Minor",
   "nasa:1342033",
-  "nasa:1282787"
+  "nasa:1282787",
+  "1924 Rose Bowl"
  ],
  "rejected": [
   "Chameleon",
@@ -819,6 +820,9 @@
   ],
   "nasa:1282787": [
    "Puerto Rico Drought Emergency: Puerto Rico is facing a severe drought!"
+  ],
+  "1924 Rose Bowl": [
+   "Chariot Races And Football: Football was once replaced by chariot races!"
   ]
  },
  "exhausted": []
