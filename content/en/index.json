@@ -178,7 +178,8 @@
   "Canis Minor",
   "nasa:1342033",
   "nasa:1282787",
-  "1924 Rose Bowl"
+  "1924 Rose Bowl",
+  "Yugoslav gunboat Beli Orao"
  ],
  "rejected": [
   "Chameleon",
@@ -823,6 +824,9 @@
   ],
   "1924 Rose Bowl": [
    "Chariot Races And Football: Football was once replaced by chariot races!"
+  ],
+  "Yugoslav gunboat Beli Orao": [
+   "The Royal Yacht Warship: This royal yacht was built in 1938."
   ]
  },
  "exhausted": []

@@ -1,0 +1,377 @@
+{
+ "id": "en-adeac1ee",
+ "lang": "en",
+ "title": "Chasing Fire Clouds",
+ "cat": "geography",
+ "emoji": "🔥",
+ "sentences": [
+  "Wildfires can launch smoke straight into the stratosphere.",
+  "These towering storms are called pyrocumulonimbus clouds.",
+  "They generate massive thunderheads with lightning and heavy rain.",
+  "NASA's INSPYRE mission is actively chasing them with aircraft.",
+  "A research plane recently sampled smoke 12 kilometers high.",
+  "Wildfires may contribute up to 25 percent of stratospheric aerosols."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Wildfires",
+    0.35,
+    0.63
+   ],
+   [
+    "can",
+    0.63,
+    0.87
+   ],
+   [
+    "launch",
+    0.87,
+    1.09
+   ],
+   [
+    "smoke",
+    1.09,
+    1.31
+   ],
+   [
+    "straight",
+    1.31,
+    1.61
+   ],
+   [
+    "into",
+    1.61,
+    1.91
+   ],
+   [
+    "the",
+    1.91,
+    2.03
+   ],
+   [
+    "stratosphere.",
+    2.03,
+    2.73
+   ],
+   [
+    "These",
+    3.07,
+    3.17
+   ],
+   [
+    "towering",
+    3.17,
+    3.65
+   ],
+   [
+    "storms",
+    3.65,
+    3.97
+   ],
+   [
+    "are",
+    3.97,
+    4.23
+   ],
+   [
+    "called",
+    4.23,
+    4.45
+   ],
+   [
+    "pyrocumulonimbus",
+    4.45,
+    5.65
+   ],
+   [
+    "clouds.",
+    5.65,
+    6.45
+   ],
+   [
+    "They",
+    6.49,
+    6.53
+   ],
+   [
+    "generate",
+    6.53,
+    6.87
+   ],
+   [
+    "massive",
+    6.87,
+    7.31
+   ],
+   [
+    "thunderheads",
+    7.31,
+    7.87
+   ],
+   [
+    "with",
+    7.87,
+    8.05
+   ],
+   [
+    "lightning",
+    8.05,
+    8.37
+   ],
+   [
+    "and",
+    8.37,
+    8.63
+   ],
+   [
+    "heavy",
+    8.63,
+    8.83
+   ],
+   [
+    "rain.",
+    8.83,
+    9.29
+   ],
+   [
+    "NASA's",
+    9.77,
+    10.17
+   ],
+   [
+    "INSPYRE",
+    10.17,
+    10.89
+   ],
+   [
+    "mission",
+    10.89,
+    11.13
+   ],
+   [
+    "is",
+    11.13,
+    11.41
+   ],
+   [
+    "actively",
+    11.47,
+    11.79
+   ],
+   [
+    "chasing",
+    11.79,
+    12.13
+   ],
+   [
+    "them",
+    12.13,
+    12.33
+   ],
+   [
+    "with",
+    12.33,
+    12.49
+   ],
+   [
+    "aircraft.",
+    12.49,
+    12.91
+   ],
+   [
+    "A",
+    13.51,
+    13.59
+   ],
+   [
+    "research",
+    13.59,
+    13.87
+   ],
+   [
+    "plane",
+    13.87,
+    14.19
+   ],
+   [
+    "recently",
+    14.19,
+    14.51
+   ],
+   [
+    "sampled",
+    14.51,
+    15.03
+   ],
+   [
+    "smoke",
+    15.03,
+    15.25
+   ],
+   [
+    "12",
+    15.25,
+    15.69
+   ],
+   [
+    "kilometers",
+    15.69,
+    16.05
+   ],
+   [
+    "high.",
+    16.05,
+    16.53
+   ],
+   [
+    "Wildfires",
+    17.11,
+    17.57
+   ],
+   [
+    "may",
+    17.57,
+    17.79
+   ],
+   [
+    "contribute",
+    17.79,
+    18.19
+   ],
+   [
+    "up",
+    18.19,
+    18.43
+   ],
+   [
+    "to",
+    18.43,
+    18.53
+   ],
+   [
+    "25",
+    18.53,
+    18.97
+   ],
+   [
+    "percent",
+    18.97,
+    19.45
+   ],
+   [
+    "of",
+    19.45,
+    19.65
+   ],
+   [
+    "stratospheric",
+    19.65,
+    20.21
+   ],
+   [
+    "aerosols.",
+    20.21,
+    20.87
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   24,
+   33,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Chasing_Fire_Clouds_in_Utah_%281276268_-_utahpyrocb_amo_20260802%29.jpg/960px-Chasing_Fire_Clouds_in_Utah_%281276268_-_utahpyrocb_amo_20260802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Chasing_Fire_Clouds_in_Utah_(1276268_-_utahpyrocb_amo_20260802).jpg",
+   "desc": "Chasing Fire Clouds in Utah (1276268 - utahpyrocb amo 20260802) — A smoke-infused pyrocumulonimbus (pyroCb) rises from the Widemouth 2 fire in Utah in these images captured by the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Aqua satellite. "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chasing_Fire_Clouds_in_Utah_%281276268_-_utahpyrocb_amo_20260802_lrg%29.jpg/960px-Chasing_Fire_Clouds_in_Utah_%281276268_-_utahpyrocb_amo_20260802_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Chasing_Fire_Clouds_in_Utah_(1276268_-_utahpyrocb_amo_20260802_lrg).jpg",
+   "desc": "Chasing Fire Clouds in Utah (1276268 - utahpyrocb amo 20260802 lrg) — A smoke-infused pyrocumulonimbus (pyroCb) rises from the Widemouth 2 fire in Utah in these images captured by the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Aqua satelli"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Lightning_Within_Pyrocumulonimbus_Cloud_over_the_Babylon_Fire_%28CIRA_2026-07-07%29.png/960px-Lightning_Within_Pyrocumulonimbus_Cloud_over_the_Babylon_Fire_%28CIRA_2026-07-07%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "GOES imagery: CSU/CIRA &amp; NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Lightning_Within_Pyrocumulonimbus_Cloud_over_the_Babylon_Fire_(CIRA_2026-07-07).png",
+   "desc": "Lightning Within Pyrocumulonimbus Cloud over the Babylon Fire (CIRA 2026-07-07) — Lightning flashes in monsoonal convection and within a pyrocumulonimbus cloud over the Babylon Fire."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Boarding_the_Aircraft_%28milanloiacono-firesensefortstewart-04-2025-2540%29.jpg/960px-Boarding_the_Aircraft_%28milanloiacono-firesensefortstewart-04-2025-2540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA/Milan Loiacono",
+   "page": "https://commons.wikimedia.org/wiki/File:Boarding_the_Aircraft_(milanloiacono-firesensefortstewart-04-2025-2540).jpg",
+   "desc": "Boarding the Aircraft (milanloiacono-firesensefortstewart-04-2025-2540) — NASA instrument scientist Holly Bender climbs onboard the Dynamic Aviation B-200 aircraft, before flying over a prescribed burn as part of the 2025 NASA FireSense research campaign. Bend"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "km",
+   "label": "smoke high"
+  },
+  {
+   "type": "stat",
+   "value": 25,
+   "unit": "percent",
+   "label": "stratospheric aerosols"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
+ "pron_wer": 0.075,
+ "angle": 0,
+ "source": {
+  "title": "Chasing Fire Clouds in Utah",
+  "url": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T12:37:00Z",
+ "trimmed": true
+}
