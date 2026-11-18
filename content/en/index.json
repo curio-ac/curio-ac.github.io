@@ -142,7 +142,8 @@
   "nasa:1441687",
   "Carrow Road",
   "Steve Jobs",
-  "nasa:1350486"
+  "nasa:1350486",
+  "The Carpet from Bagdad"
  ],
  "rejected": [
   "Chameleon",
@@ -646,6 +647,9 @@
   ],
   "nasa:1350486": [
    "Lake Powell's Shrinking Waters: Lake Powell has hit record-low water levels."
+  ],
+  "The Carpet from Bagdad": [
+   "The Sunken Movie Reel: A 1915 silent film was salvaged from a shipwreck."
   ]
  },
  "exhausted": []

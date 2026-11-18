@@ -1,0 +1,428 @@
+{
+ "id": "en-dbf7d710",
+ "lang": "en",
+ "title": "Emperor Who Bankrupted Rome",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "One emperor nearly bankrupted the entire empire.",
+  "Basiliscus commanded a massive invasion against the Vandal Kingdom in 468.",
+  "He accepted a truce offer that was actually a trap.",
+  "The enemy used the time to build deadly fireships.",
+  "His defeat cost the empire 130,000 pounds of gold.",
+  "The treasury struggled for 30 years afterward.",
+  "He even had to hide in a church to survive."
+ ],
+ "tim": {
+  "w": [
+   [
+    "One",
+    0.26,
+    0.26
+   ],
+   [
+    "emperor",
+    0.26,
+    0.58
+   ],
+   [
+    "nearly",
+    0.58,
+    1.04
+   ],
+   [
+    "bankrupted",
+    1.04,
+    1.84
+   ],
+   [
+    "the",
+    1.84,
+    1.96
+   ],
+   [
+    "entire",
+    1.96,
+    2.44
+   ],
+   [
+    "empire.",
+    2.44,
+    3.02
+   ],
+   [
+    "Basiliscus",
+    3.66,
+    4.32
+   ],
+   [
+    "commanded",
+    4.32,
+    4.74
+   ],
+   [
+    "a",
+    4.74,
+    5.0
+   ],
+   [
+    "massive",
+    5.0,
+    5.46
+   ],
+   [
+    "invasion",
+    5.46,
+    5.98
+   ],
+   [
+    "against",
+    6.12,
+    6.26
+   ],
+   [
+    "the",
+    6.26,
+    6.44
+   ],
+   [
+    "Vandal",
+    6.44,
+    6.78
+   ],
+   [
+    "Kingdom",
+    6.78,
+    7.08
+   ],
+   [
+    "in",
+    7.08,
+    7.34
+   ],
+   [
+    "468.",
+    7.34,
+    8.16
+   ],
+   [
+    "He",
+    8.76,
+    8.84
+   ],
+   [
+    "accepted",
+    8.84,
+    9.22
+   ],
+   [
+    "a",
+    9.22,
+    9.4
+   ],
+   [
+    "truce",
+    9.48,
+    9.72
+   ],
+   [
+    "offer",
+    9.72,
+    9.96
+   ],
+   [
+    "that",
+    10.08,
+    10.18
+   ],
+   [
+    "was",
+    10.18,
+    10.32
+   ],
+   [
+    "actually",
+    10.58,
+    10.78
+   ],
+   [
+    "a",
+    10.78,
+    11.02
+   ],
+   [
+    "trap.",
+    11.02,
+    11.34
+   ],
+   [
+    "The",
+    11.98,
+    12.06
+   ],
+   [
+    "enemy",
+    12.1,
+    12.3
+   ],
+   [
+    "used",
+    12.3,
+    12.66
+   ],
+   [
+    "the",
+    12.66,
+    12.8
+   ],
+   [
+    "time",
+    12.88,
+    13.04
+   ],
+   [
+    "to",
+    13.04,
+    13.2
+   ],
+   [
+    "build",
+    13.2,
+    13.46
+   ],
+   [
+    "deadly",
+    13.46,
+    13.96
+   ],
+   [
+    "fireships.",
+    13.96,
+    14.46
+   ],
+   [
+    "His",
+    15.38,
+    15.48
+   ],
+   [
+    "defeat",
+    15.48,
+    15.84
+   ],
+   [
+    "cost",
+    16.04,
+    16.22
+   ],
+   [
+    "the",
+    16.22,
+    16.4
+   ],
+   [
+    "empire",
+    16.4,
+    16.74
+   ],
+   [
+    "130,000",
+    16.74,
+    18.54
+   ],
+   [
+    "pounds",
+    18.54,
+    18.8
+   ],
+   [
+    "of",
+    18.8,
+    19.0
+   ],
+   [
+    "gold.",
+    19.0,
+    19.28
+   ],
+   [
+    "The",
+    19.84,
+    19.92
+   ],
+   [
+    "treasury",
+    19.92,
+    20.18
+   ],
+   [
+    "struggled",
+    20.18,
+    20.64
+   ],
+   [
+    "for",
+    20.64,
+    20.9
+   ],
+   [
+    "30",
+    21.1,
+    21.34
+   ],
+   [
+    "years",
+    21.34,
+    21.76
+   ],
+   [
+    "afterward.",
+    21.76,
+    21.98
+   ],
+   [
+    "He",
+    22.76,
+    22.84
+   ],
+   [
+    "even",
+    22.84,
+    23.04
+   ],
+   [
+    "had",
+    23.04,
+    23.2
+   ],
+   [
+    "to",
+    23.2,
+    23.3
+   ],
+   [
+    "hide",
+    23.3,
+    23.56
+   ],
+   [
+    "in",
+    23.56,
+    23.76
+   ],
+   [
+    "a",
+    23.76,
+    23.84
+   ],
+   [
+    "church",
+    23.9,
+    24.2
+   ],
+   [
+    "to",
+    24.2,
+    24.44
+   ],
+   [
+    "survive.",
+    24.44,
+    24.78
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   28,
+   37,
+   46,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Europe_and_the_Near_East_at_476_AD.png/960px-Europe_and_the_Near_East_at_476_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 500,
+   "license": "CC BY-SA 4.0",
+   "artist": "Guriezous",
+   "page": "https://commons.wikimedia.org/wiki/File:Europe_and_the_Near_East_at_476_AD.png",
+   "desc": "Europe and the Near East at 476 AD — Political division in Europe, North Africa and Near East after the end of the Western Roman Empire in 476 AD. Romance area added since H. M. Glessegen (dir.), Handbuch der Romanische Sprachgeschichte, Berlin/New York, p."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Hagia_Sophia_Interior_Panorama.jpg/960px-Hagia_Sophia_Interior_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 569,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ronan Reinart",
+   "page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Interior_Panorama.jpg",
+   "desc": "Hagia Sophia Interior Panorama — Interior panorama of the Hagia Sophia, which is now a museum."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 468
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 59000,
+   "dim": "mass",
+   "unit_value_in": "kg"
+  },
+  {
+   "type": "stat",
+   "value": 30,
+   "unit": "years",
+   "label": "treasury struggle"
+  },
+  {
+   "type": "focus",
+   "target": "Hagia Sophia",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q193056",
+ "pron_wer": 0.063,
+ "angle": 0,
+ "source": {
+  "title": "Basiliscus",
+  "url": "https://en.wikipedia.org/wiki/Basiliscus",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:23:02Z",
+ "trimmed": true
+}
