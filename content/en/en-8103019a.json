@@ -1,0 +1,351 @@
+{
+ "id": "en-8103019a",
+ "lang": "en",
+ "title": "Crushing Rocks Like Planets",
+ "cat": "space",
+ "emoji": "🪐",
+ "sentences": [
+  "High pressure recreates deep planetary interiors!",
+  "NASA SCoPE partnered with Arizona State University.",
+  "Seven undergraduate interns built science communication skills.",
+  "Workshops helped them translate technical research into stories.",
+  "Interns hosted fifty people at an open house.",
+  "A poster session let them share findings with peers."
+ ],
+ "tim": {
+  "w": [
+   [
+    "High",
+    0.16,
+    0.16
+   ],
+   [
+    "pressure",
+    0.16,
+    0.5
+   ],
+   [
+    "recreates",
+    0.5,
+    1.34
+   ],
+   [
+    "deep",
+    1.38,
+    1.54
+   ],
+   [
+    "planetary",
+    1.54,
+    2.02
+   ],
+   [
+    "interiors!",
+    2.02,
+    3.22
+   ],
+   [
+    "NASA",
+    3.36,
+    3.58
+   ],
+   [
+    "SCoPE",
+    3.58,
+    4.08
+   ],
+   [
+    "partnered",
+    4.1,
+    4.4
+   ],
+   [
+    "with",
+    4.4,
+    4.74
+   ],
+   [
+    "Arizona",
+    4.74,
+    5.08
+   ],
+   [
+    "State",
+    5.08,
+    5.5
+   ],
+   [
+    "University.",
+    5.5,
+    6.2
+   ],
+   [
+    "Seven",
+    6.7,
+    6.86
+   ],
+   [
+    "undergraduate",
+    6.86,
+    7.32
+   ],
+   [
+    "interns",
+    7.32,
+    7.86
+   ],
+   [
+    "built",
+    7.86,
+    8.2
+   ],
+   [
+    "science",
+    8.2,
+    8.52
+   ],
+   [
+    "communication",
+    8.52,
+    8.94
+   ],
+   [
+    "skills.",
+    8.94,
+    9.58
+   ],
+   [
+    "Workshops",
+    9.98,
+    10.46
+   ],
+   [
+    "helped",
+    10.5,
+    10.62
+   ],
+   [
+    "them",
+    10.62,
+    10.78
+   ],
+   [
+    "translate",
+    10.78,
+    11.18
+   ],
+   [
+    "technical",
+    11.18,
+    11.58
+   ],
+   [
+    "research",
+    11.58,
+    12.08
+   ],
+   [
+    "into",
+    12.08,
+    12.26
+   ],
+   [
+    "stories.",
+    12.26,
+    12.72
+   ],
+   [
+    "Interns",
+    13.3,
+    13.76
+   ],
+   [
+    "hosted",
+    13.76,
+    14.0
+   ],
+   [
+    "fifty",
+    14.0,
+    14.28
+   ],
+   [
+    "people",
+    14.28,
+    14.7
+   ],
+   [
+    "at",
+    14.7,
+    14.86
+   ],
+   [
+    "an",
+    14.86,
+    14.98
+   ],
+   [
+    "open",
+    14.98,
+    15.18
+   ],
+   [
+    "house.",
+    15.18,
+    15.72
+   ],
+   [
+    "A",
+    16.06,
+    16.1
+   ],
+   [
+    "poster",
+    16.1,
+    16.28
+   ],
+   [
+    "session",
+    16.28,
+    16.68
+   ],
+   [
+    "let",
+    16.68,
+    16.92
+   ],
+   [
+    "them",
+    16.92,
+    17.08
+   ],
+   [
+    "share",
+    17.08,
+    17.24
+   ],
+   [
+    "findings",
+    17.24,
+    17.58
+   ],
+   [
+    "with",
+    17.58,
+    17.84
+   ],
+   [
+    "peers.",
+    17.84,
+    18.44
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   20,
+   28,
+   36
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Diamond_anvil_cell_schematic.jpg/960px-Diamond_anvil_cell_schematic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 261,
+   "license": "CC BY 4.0",
+   "artist": "José A. Flores-Livas, Lilia Boeri, Antonio Sanna, Gianni Profeta, Ryotaro Arita,",
+   "page": "https://commons.wikimedia.org/wiki/File:Diamond_anvil_cell_schematic.jpg",
+   "desc": "Diamond anvil cell schematic — Left panel: DAC schematic including anvil seats, gasket and pistons. Center panel: detailed design of a DAC for transport measurements under pressure. Right panel: different types of diamond culets used in high-pressure "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg/960px-Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalpana_Chawla,_NASA_photo_portrait_in_orange_suit.jpg",
+   "desc": "Kalpana Chawla, NASA photo portrait in orange suit — Kalpana Chawla, American astronaut who died during the failed re-entry of Space Shuttle Columbia."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Workshop_%22Enhancing_the_voice_of_science_on_Wikipedia%22.jpg/960px-Workshop_%22Enhancing_the_voice_of_science_on_Wikipedia%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 4.0",
+   "artist": "Dlanold",
+   "page": "https://commons.wikimedia.org/wiki/File:Workshop_%22Enhancing_the_voice_of_science_on_Wikipedia%22.jpg",
+   "desc": "Workshop \"Enhancing the voice of science on Wikipedia\" — The conference on \"Enhancing the Voice of Science on Wikipedia\" focused on the collaboration between universities and the online encyclopedia to advance science communication. Participants have explored "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Open_House_Day_2014.jpg/960px-Open_House_Day_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 4.0",
+   "artist": "ESO",
+   "page": "https://commons.wikimedia.org/wiki/File:Open_House_Day_2014.jpg",
+   "desc": "Open House Day 2014 — This photograph from the ESO Open House Day 2014 shows children and adults listening to the adventures of Space Rock Pedro. This was one of the sixteen activities available when ESO Headquarters in Garching, Germany, ope"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Kalugina_Masha_with_poster_session.png/960px-Kalugina_Masha_with_poster_session.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Kalmars",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalugina_Masha_with_poster_session.png",
+   "desc": "Kalugina Masha with poster session — Poster session from III international scientific conference \"Modern trends in the development of chemistry and technology of polymeric materials\"."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "interns",
+   "label": "undergraduate interns"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 50,
+   "unit": "people",
+   "label": "open house"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
+ "pron_wer": 0.022,
+ "angle": 1,
+ "source": {
+  "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
+  "url": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:13:21Z",
+ "trimmed": true
+}
