@@ -62,38 +62,62 @@ def pick_model(kind):
 
 TTS_MODELS = os.environ.get("TTS_MODELS", "gemini-3.8-flash-tts,gemini-3.1-flash-tts-preview,gemini-2.5-flash-preview-tts,gemini-2.5-pro-preview-tts").split(",")
 TEXT_MODELS = os.environ.get("TEXT_MODELS", "gemini-3.1-flash-lite,gemini-flash-lite-latest").split(",")
+# Gemma: same key, far bigger free daily quota. Used first for helper tasks, as backup for writing, never for fact-checking.
+GEMMA_MODELS = os.environ.get("GEMMA_MODELS", "gemma-4-31b-it,gemma-4-26b-a4b-it").split(",")
 
 
-def gen_json(model, prompt):
+def gen_json(model, prompt, role="aux"):
     """model arg ignored. Walks TEXT_MODELS. Only a real daily quota (or billing) drops a model for the run;
     a busy model (503 / timeout) is skipped for this call and retried later - it never ends the day."""
     for rnd in range(4):
         busy = False
-        for m in list(TEXT_MODELS):
+        order = {"aux": GEMMA_MODELS + TEXT_MODELS, "write": TEXT_MODELS + GEMMA_MODELS, "check": TEXT_MODELS}[role]
+        for m in list(order):
             try:
                 r = _gen_json(m, prompt)
                 return r[0] if isinstance(r, list) and len(r) == 1 and isinstance(r[0], dict) else r
             except Quota as e:
-                print(f"   ↪ {m} out of daily quota, dropping it", flush=True); TEXT_MODELS.remove(m)
+                print(f"   ↪ {m} out of daily quota, dropping it", flush=True); drop(m)
             except RuntimeError as e:
                 s = str(e)
                 if re.match(r"(400|403)", s) and "billing" in s.lower():
-                    print(f"   ↪ {m} needs billing, dropping it", flush=True); TEXT_MODELS.remove(m); continue
+                    print(f"   ↪ {m} needs billing, dropping it", flush=True); drop(m); continue
+                if m in GEMMA_MODELS and re.match(r"(400|404)", s):
+                    print(f"   ↪ {m} unusable ({s[:60]}), dropping it", flush=True); drop(m); continue
                 if not re.match(r"(timeout|503|500|429)", s):
                     raise
                 busy = True; print(f"   ↪ {m} busy ({s[:40]}), trying next", flush=True)
-        if not TEXT_MODELS:
+        if not [m for m in order if m in TEXT_MODELS + GEMMA_MODELS]:
             raise Quota("all text models exhausted")
         if busy:
             time.sleep(60 * (rnd + 1))
     raise RuntimeError("text models busy, skipping this item")
 
 
+def drop(m):
+    for L in (TEXT_MODELS, GEMMA_MODELS):
+        if m in L:
+            L.remove(m)
+
+
+def _json_text(t):
+    t = re.sub(r"^```(?:json)?|```$", "", t.strip(), flags=re.M).strip()
+    try:
+        return json.loads(t)
+    except ValueError:
+        i = min([x for x in (t.find("{"), t.find("[")) if x >= 0] or [0])
+        j = max(t.rfind("}"), t.rfind("]")) + 1
+        return json.loads(t[i:j])
+
+
 def _gen_json(model, prompt):
     global THINK
     parts = prompt if isinstance(prompt, list) else [{"text": prompt}]
-    cfg = {"responseMimeType": "application/json", "temperature": 0.7}
-    if THINK:
+    gemma = model.startswith("gemma")
+    if gemma:
+        parts = parts + [{"text": "Reply with the JSON only, no other text."}]
+    cfg = {"temperature": 0.7} if gemma else {"responseMimeType": "application/json", "temperature": 0.7}
+    if THINK and not gemma:
         cfg["thinkingConfig"] = {"thinkingLevel": "low"}
     body = {"contents": [{"parts": parts}], "generationConfig": cfg}
     try:
@@ -102,7 +126,8 @@ def _gen_json(model, prompt):
         if THINK and str(e).startswith("400"):
             THINK = False; return _gen_json(model, prompt)
         raise
-    return json.loads(res["candidates"][0]["content"]["parts"][0]["text"])
+    out = [p.get("text", "") for p in res["candidates"][0]["content"]["parts"] if not p.get("thought")]
+    return _json_text(out[-1]) if gemma else json.loads(out[0])
 
 
 def tts(model, text, lang, out_mp3):
@@ -313,7 +338,7 @@ def write_script(model, lang, art, fix="", prev=None):
     words = "45-65" if lang == "he" else "55-75"
     prev_txt = ("Earlier videos about this article already covered: " + "; ".join(prev) + '. Pick DIFFERENT facts and a different hook. If SOURCE has no other surprising facts, return {"skip": true}.') if prev else ""
     fix_txt = ("A fact-checker rejected these sentences of your previous draft. Rewrite the script so every claim is strictly supported (drop unsupported adjectives/details):" + chr(10) + fix) if fix else ""
-    return gen_json(model, f"""You write scripts for Curio, a TikTok-style educational video feed. Write in {lname}.
+    return gen_json(model, role="write", prompt=f"""You write scripts for Curio, a TikTok-style educational video feed. Write in {lname}.
 SOURCE (Wikipedia article "{art['title']}"):
 \"\"\"{art['text']}\"\"\"
 
@@ -330,7 +355,7 @@ Return JSON: {{"title": short catchy title ({lname}, max 5 words), "category": o
 
 
 def fact_check(model, lang, art, sentences):
-    res = gen_json(model, f"""You are a strict fact-checker. SOURCE:
+    res = gen_json(model, role="check", prompt=f"""You are a strict fact-checker. SOURCE:
 \"\"\"{art['text']}\"\"\"
 For each SENTENCE decide if every factual claim in it is directly supported by SOURCE (paraphrase is fine; extra facts, wrong numbers or exaggeration are NOT).
 SENTENCES: {json.dumps(sentences, ensure_ascii=False)}
