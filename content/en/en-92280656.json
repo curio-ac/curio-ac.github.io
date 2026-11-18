@@ -1,0 +1,434 @@
+{
+ "id": "en-92280656",
+ "lang": "en",
+ "title": "The Poet of Silver Jews",
+ "cat": "art",
+ "emoji": "🎸",
+ "sentences": [
+  "David Berman founded the indie rock band Silver Jews.",
+  "He was the only constant member throughout its existence.",
+  "Berman published a volume of poetry titled Actual Air.",
+  "His cynical lyrics often discussed his struggles with substance abuse.",
+  "After a 2003 suicide attempt, he engaged with Judaism.",
+  "He dissolved the band and withdrew from public life.",
+  "He later returned to music as Purple Mountains."
+ ],
+ "tim": {
+  "w": [
+   [
+    "David",
+    0.35,
+    0.35
+   ],
+   [
+    "Berman",
+    0.35,
+    0.61
+   ],
+   [
+    "founded",
+    0.61,
+    0.91
+   ],
+   [
+    "the",
+    0.91,
+    1.09
+   ],
+   [
+    "indie",
+    1.09,
+    1.27
+   ],
+   [
+    "rock",
+    1.27,
+    1.49
+   ],
+   [
+    "band",
+    1.49,
+    1.77
+   ],
+   [
+    "Silver",
+    1.77,
+    2.09
+   ],
+   [
+    "Jews.",
+    2.09,
+    2.61
+   ],
+   [
+    "He",
+    3.03,
+    3.03
+   ],
+   [
+    "was",
+    3.03,
+    3.15
+   ],
+   [
+    "the",
+    3.15,
+    3.23
+   ],
+   [
+    "only",
+    3.23,
+    3.43
+   ],
+   [
+    "constant",
+    3.43,
+    3.75
+   ],
+   [
+    "member",
+    3.75,
+    4.03
+   ],
+   [
+    "throughout",
+    4.03,
+    4.27
+   ],
+   [
+    "its",
+    4.27,
+    4.47
+   ],
+   [
+    "existence.",
+    4.47,
+    4.93
+   ],
+   [
+    "Berman",
+    5.49,
+    5.71
+   ],
+   [
+    "published",
+    5.71,
+    5.99
+   ],
+   [
+    "a",
+    5.99,
+    6.13
+   ],
+   [
+    "volume",
+    6.13,
+    6.35
+   ],
+   [
+    "of",
+    6.35,
+    6.49
+   ],
+   [
+    "poetry",
+    6.49,
+    6.75
+   ],
+   [
+    "titled",
+    6.75,
+    7.05
+   ],
+   [
+    "Actual",
+    7.05,
+    7.59
+   ],
+   [
+    "Air.",
+    7.59,
+    7.91
+   ],
+   [
+    "His",
+    8.29,
+    8.35
+   ],
+   [
+    "cynical",
+    8.35,
+    8.65
+   ],
+   [
+    "lyrics",
+    8.65,
+    8.99
+   ],
+   [
+    "often",
+    8.99,
+    9.29
+   ],
+   [
+    "discussed",
+    9.29,
+    9.55
+   ],
+   [
+    "his",
+    9.55,
+    9.75
+   ],
+   [
+    "struggles",
+    9.75,
+    9.99
+   ],
+   [
+    "with",
+    9.99,
+    10.19
+   ],
+   [
+    "substance",
+    10.19,
+    10.45
+   ],
+   [
+    "abuse.",
+    10.45,
+    10.97
+   ],
+   [
+    "After",
+    11.31,
+    11.41
+   ],
+   [
+    "a",
+    11.41,
+    11.53
+   ],
+   [
+    "2003",
+    11.53,
+    12.07
+   ],
+   [
+    "suicide",
+    12.07,
+    12.47
+   ],
+   [
+    "attempt,",
+    12.47,
+    12.95
+   ],
+   [
+    "he",
+    12.95,
+    13.01
+   ],
+   [
+    "engaged",
+    13.01,
+    13.29
+   ],
+   [
+    "with",
+    13.29,
+    13.45
+   ],
+   [
+    "Judaism.",
+    13.45,
+    13.93
+   ],
+   [
+    "He",
+    14.41,
+    14.43
+   ],
+   [
+    "dissolved",
+    14.43,
+    14.67
+   ],
+   [
+    "the",
+    14.67,
+    14.93
+   ],
+   [
+    "band",
+    14.93,
+    15.17
+   ],
+   [
+    "and",
+    15.17,
+    15.37
+   ],
+   [
+    "withdrew",
+    15.37,
+    15.65
+   ],
+   [
+    "from",
+    15.65,
+    15.81
+   ],
+   [
+    "public",
+    15.81,
+    16.01
+   ],
+   [
+    "life.",
+    16.01,
+    16.31
+   ],
+   [
+    "He",
+    16.75,
+    16.81
+   ],
+   [
+    "later",
+    16.81,
+    16.99
+   ],
+   [
+    "returned",
+    16.99,
+    17.25
+   ],
+   [
+    "to",
+    17.25,
+    17.39
+   ],
+   [
+    "music",
+    17.39,
+    17.61
+   ],
+   [
+    "as",
+    17.61,
+    17.87
+   ],
+   [
+    "Purple",
+    17.87,
+    18.09
+   ],
+   [
+    "Mountains.",
+    18.09,
+    18.35
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   27,
+   37,
+   46,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/David_Berman_%281984%E2%80%9385_yearbook_photo_-_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 947,
+   "license": "Public domain",
+   "artist": "Published by Greenhill School. Photographer unknown; work-for-hire on behalf of ",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Berman_(1984%E2%80%9385_yearbook_photo_-_1).jpg",
+   "desc": "David Berman (1984–85 yearbook photo - 1) — Photograph of American songwriter and poet David Berman as a high school senior at Greenhill School in Texas."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/David_Berman_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 496,
+   "license": "CC BY-SA 4.0",
+   "artist": "Peyton Pinkerton",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Berman_1995.jpg",
+   "desc": "David Berman 1995 — Photo of David Berman in 1995"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Mezuzah_scrolls_%28160387420%29.jpg/960px-Mezuzah_scrolls_%28160387420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Joe Goldberg from Seattle, WA, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Mezuzah_scrolls_(160387420).jpg",
+   "desc": "Mezuzah scrolls (160387420) — Inside each mezuzah is a quote from the Torah. It contains the central prayer of Judaism (\"Hear O Israel, The Lord is Our God The Lord is One\"), and the passage where God commands Jews to hang mezuzot on their doors."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/David_Berman_performing_at_ATP_festival%2C_18th_May_2008.jpg/960px-David_Berman_performing_at_ATP_festival%2C_18th_May_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Freekorps",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Berman_performing_at_ATP_festival,_18th_May_2008.jpg",
+   "desc": "David Berman performing at ATP festival, 18th May 2008 — David Berman performs at ATP festival, 18th May 2008, Minehead, England"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2003
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2019
+  }
+ ],
+ "geo": null,
+ "qid": "Q5231354",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "David Berman (musician)",
+  "url": "https://en.wikipedia.org/wiki/David_Berman_%28musician%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:29:51Z",
+ "trimmed": true
+}
