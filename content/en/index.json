@@ -194,7 +194,8 @@
   "nasa:1505726",
   "Hurricane Diane",
   "nasa:1506784",
-  "2009 International Bowl"
+  "2009 International Bowl",
+  "nasa:1277030"
  ],
  "rejected": [
   "Chameleon",
@@ -900,6 +901,9 @@
   ],
   "2009 International Bowl": [
    "The 2009 International Bowl: Buffalo once refused a bowl over segregation."
+  ],
+  "nasa:1277030": [
+   "Hurricane Lala Batters Hawaii: Hurricane Lala narrowly missed Hawaii."
   ]
  },
  "exhausted": []
