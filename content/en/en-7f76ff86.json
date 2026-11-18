@@ -1,0 +1,387 @@
+{
+ "id": "en-7f76ff86",
+ "lang": "en",
+ "title": "The Wild Life of Steve Jobs",
+ "cat": "technology",
+ "emoji": "🍎",
+ "sentences": [
+  "Steve Jobs was fired by his board.",
+  "He was born in San Francisco in 1955.",
+  "In 1974, he traveled through India seeking enlightenment.",
+  "He co-founded Apple in 1976 with Steve Wozniak.",
+  "After being fired in 1985, he founded NeXT.",
+  "He also purchased Pixar in 1986.",
+  "Jobs finally returned to Apple as CEO in 1997."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Steve",
+    0.35,
+    0.35
+   ],
+   [
+    "Jobs",
+    0.35,
+    0.59
+   ],
+   [
+    "was",
+    0.59,
+    0.95
+   ],
+   [
+    "fired",
+    0.95,
+    1.43
+   ],
+   [
+    "by",
+    1.43,
+    1.77
+   ],
+   [
+    "his",
+    1.77,
+    1.93
+   ],
+   [
+    "board.",
+    1.93,
+    2.19
+   ],
+   [
+    "He",
+    2.79,
+    2.87
+   ],
+   [
+    "was",
+    2.87,
+    2.97
+   ],
+   [
+    "born",
+    2.99,
+    3.15
+   ],
+   [
+    "in",
+    3.15,
+    3.29
+   ],
+   [
+    "San",
+    3.29,
+    3.45
+   ],
+   [
+    "Francisco",
+    3.45,
+    3.91
+   ],
+   [
+    "in",
+    3.91,
+    4.19
+   ],
+   [
+    "1955.",
+    4.19,
+    5.11
+   ],
+   [
+    "In",
+    5.69,
+    5.77
+   ],
+   [
+    "1974,",
+    5.77,
+    6.17
+   ],
+   [
+    "he",
+    6.97,
+    6.99
+   ],
+   [
+    "traveled",
+    7.03,
+    7.27
+   ],
+   [
+    "through",
+    7.27,
+    7.53
+   ],
+   [
+    "India",
+    7.53,
+    7.99
+   ],
+   [
+    "seeking",
+    7.99,
+    8.35
+   ],
+   [
+    "enlightenment.",
+    8.35,
+    8.83
+   ],
+   [
+    "He",
+    9.67,
+    9.77
+   ],
+   [
+    "co-founded",
+    9.77,
+    10.25
+   ],
+   [
+    "Apple",
+    10.25,
+    10.63
+   ],
+   [
+    "in",
+    10.63,
+    10.83
+   ],
+   [
+    "1976",
+    10.83,
+    11.47
+   ],
+   [
+    "with",
+    11.47,
+    11.91
+   ],
+   [
+    "Steve",
+    11.91,
+    12.25
+   ],
+   [
+    "Wozniak.",
+    12.25,
+    12.69
+   ],
+   [
+    "After",
+    13.47,
+    13.63
+   ],
+   [
+    "being",
+    13.63,
+    13.77
+   ],
+   [
+    "fired",
+    13.77,
+    14.07
+   ],
+   [
+    "in",
+    14.07,
+    14.35
+   ],
+   [
+    "1985,",
+    14.35,
+    15.05
+   ],
+   [
+    "he",
+    15.39,
+    15.45
+   ],
+   [
+    "founded",
+    15.55,
+    15.75
+   ],
+   [
+    "NeXT.",
+    15.75,
+    16.43
+   ],
+   [
+    "He",
+    16.89,
+    16.99
+   ],
+   [
+    "also",
+    16.99,
+    17.19
+   ],
+   [
+    "purchased",
+    17.19,
+    17.57
+   ],
+   [
+    "Pixar",
+    17.57,
+    18.01
+   ],
+   [
+    "in",
+    18.01,
+    18.33
+   ],
+   [
+    "1986.",
+    18.33,
+    19.31
+   ],
+   [
+    "Jobs",
+    19.81,
+    19.99
+   ],
+   [
+    "finally",
+    19.99,
+    20.31
+   ],
+   [
+    "returned",
+    20.31,
+    20.61
+   ],
+   [
+    "to",
+    20.61,
+    20.79
+   ],
+   [
+    "Apple",
+    20.79,
+    21.05
+   ],
+   [
+    "as",
+    21.05,
+    21.29
+   ],
+   [
+    "CEO",
+    21.29,
+    21.59
+   ],
+   [
+    "in",
+    21.59,
+    21.93
+   ],
+   [
+    "1997.",
+    21.93,
+    22.68
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   39,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/960px-SF_From_Marin_Highlands3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 508,
+   "license": "Public domain",
+   "artist": "en:User:Paul.h",
+   "page": "https://commons.wikimedia.org/wiki/File:SF_From_Marin_Highlands3.jpg",
+   "desc": "SF From Marin Highlands3 — San Francisco from en:Marin Headlands"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Apple_Garage.jpg/960px-Apple_Garage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mathieu Thouvenin",
+   "page": "https://commons.wikimedia.org/wiki/File:Apple_Garage.jpg",
+   "desc": "Apple Garage — Garage of Steve Jobs' parents on Crist Drive in Los Altos, California"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Steve_Jobs.jpg/960px-Steve_Jobs.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1049,
+   "license": "CC BY 3.0",
+   "artist": "Matthew Yohe",
+   "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs.jpg",
+   "desc": "Steve Jobs — A cropped version of en:Image:SteveJobsMacbookAir.JPG. Steve Jobs holding a en:MacBook Air (at en:MacWorld Conference &amp; Expo 2008 - Moscone Center - San Francisco, CA)"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1974
+  },
+  {
+   "type": "stat",
+   "value": 1976,
+   "unit": "year",
+   "label": "Apple co-founded"
+  },
+  {
+   "type": "timeline",
+   "year": 1985
+  },
+  {
+   "type": "stat",
+   "value": 1986,
+   "unit": "year",
+   "label": "Pixar purchased"
+  },
+  {
+   "type": "timeline",
+   "year": 1997
+  }
+ ],
+ "geo": null,
+ "qid": "Q19837",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Steve Jobs",
+  "url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:19:35Z",
+ "trimmed": true
+}
