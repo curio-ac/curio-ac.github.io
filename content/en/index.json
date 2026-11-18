@@ -155,7 +155,8 @@
   "2015 Trophée Éric Bompard",
   "22nd Massachusetts Infantry Regiment",
   "1999 Football League Second Division play-off final",
-  "nasa:1505938"
+  "nasa:1505938",
+  "Crush (video game)"
  ],
  "rejected": [
   "Chameleon",
@@ -709,6 +710,9 @@
   ],
   "nasa:1505938": [
    "Cyclone Arnab's Rare Arrival: A rare cyclone hit India in late October."
+  ],
+  "Crush (video game)": [
+   "PSP's Dimension-Shifting Puzzle Game: Switching dimensions solves this puzzle game."
   ]
  },
  "exhausted": []

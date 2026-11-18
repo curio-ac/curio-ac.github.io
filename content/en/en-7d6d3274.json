@@ -1,0 +1,368 @@
+{
+ "id": "en-7d6d3274",
+ "lang": "en",
+ "title": "Operation Palliser: Sierra Leone",
+ "cat": "history",
+ "emoji": "🇬🇧",
+ "sentences": [
+  "Britain launched Operation Palliser on 7 May 2000.",
+  "Rebel forces advanced on Freetown, threatening foreign citizens.",
+  "The British government quickly sent a team to prepare for evacuations.",
+  "Soldiers secured Lungi airport after rebels blocked the main route.",
+  "Most people left within 2 days, but many chose to stay.",
+  "British forces soon expanded their mission to rescue besieged peacekeepers."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Britain",
+    0.35,
+    0.35
+   ],
+   [
+    "launched",
+    0.35,
+    0.77
+   ],
+   [
+    "Operation",
+    0.77,
+    1.29
+   ],
+   [
+    "Palliser",
+    1.29,
+    1.83
+   ],
+   [
+    "on",
+    1.83,
+    2.11
+   ],
+   [
+    "7",
+    2.11,
+    2.39
+   ],
+   [
+    "May",
+    2.39,
+    2.63
+   ],
+   [
+    "2000.",
+    2.63,
+    3.73
+   ],
+   [
+    "Rebel",
+    3.73,
+    3.87
+   ],
+   [
+    "forces",
+    3.87,
+    4.25
+   ],
+   [
+    "advanced",
+    4.25,
+    4.53
+   ],
+   [
+    "on",
+    4.53,
+    4.87
+   ],
+   [
+    "Freetown,",
+    4.87,
+    5.47
+   ],
+   [
+    "threatening",
+    5.47,
+    5.79
+   ],
+   [
+    "foreign",
+    5.79,
+    6.09
+   ],
+   [
+    "citizens.",
+    6.09,
+    6.51
+   ],
+   [
+    "The",
+    7.13,
+    7.15
+   ],
+   [
+    "British",
+    7.15,
+    7.35
+   ],
+   [
+    "government",
+    7.35,
+    7.73
+   ],
+   [
+    "quickly",
+    7.73,
+    8.13
+   ],
+   [
+    "sent",
+    8.13,
+    8.43
+   ],
+   [
+    "a",
+    8.43,
+    8.55
+   ],
+   [
+    "team",
+    8.55,
+    8.75
+   ],
+   [
+    "to",
+    8.75,
+    8.95
+   ],
+   [
+    "prepare",
+    8.95,
+    9.25
+   ],
+   [
+    "for",
+    9.25,
+    9.47
+   ],
+   [
+    "evacuations.",
+    9.47,
+    10.02
+   ],
+   [
+    "Soldiers",
+    10.77,
+    11.07
+   ],
+   [
+    "secured",
+    11.07,
+    11.45
+   ],
+   [
+    "Lungi",
+    11.45,
+    11.95
+   ],
+   [
+    "airport",
+    12.15,
+    12.25
+   ],
+   [
+    "after",
+    12.25,
+    12.71
+   ],
+   [
+    "rebels",
+    12.71,
+    13.03
+   ],
+   [
+    "blocked",
+    13.03,
+    13.39
+   ],
+   [
+    "the",
+    13.39,
+    13.61
+   ],
+   [
+    "main",
+    13.61,
+    13.79
+   ],
+   [
+    "route.",
+    13.79,
+    14.07
+   ],
+   [
+    "Most",
+    14.53,
+    14.73
+   ],
+   [
+    "people",
+    14.73,
+    15.05
+   ],
+   [
+    "left",
+    15.05,
+    15.35
+   ],
+   [
+    "within",
+    15.35,
+    15.63
+   ],
+   [
+    "2",
+    15.63,
+    15.89
+   ],
+   [
+    "days,",
+    15.89,
+    16.19
+   ],
+   [
+    "but",
+    16.37,
+    16.47
+   ],
+   [
+    "many",
+    16.47,
+    16.73
+   ],
+   [
+    "chose",
+    16.73,
+    17.01
+   ],
+   [
+    "to",
+    17.01,
+    17.23
+   ],
+   [
+    "stay.",
+    17.23,
+    17.57
+   ],
+   [
+    "British",
+    18.01,
+    18.15
+   ],
+   [
+    "forces",
+    18.15,
+    18.59
+   ],
+   [
+    "soon",
+    18.59,
+    18.85
+   ],
+   [
+    "expanded",
+    18.85,
+    19.25
+   ],
+   [
+    "their",
+    19.25,
+    19.47
+   ],
+   [
+    "mission",
+    19.47,
+    19.75
+   ],
+   [
+    "to",
+    19.75,
+    19.95
+   ],
+   [
+    "rescue",
+    19.95,
+    20.21
+   ],
+   [
+    "besieged",
+    20.27,
+    20.83
+   ],
+   [
+    "peacekeepers.",
+    20.83,
+    21.15
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   27,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2000
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "days",
+   "label": "evacuation duration"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4971401",
+ "pron_wer": 0.052,
+ "angle": 0,
+ "source": {
+  "title": "British military intervention in the Sierra Leone Civil War",
+  "url": "https://en.wikipedia.org/wiki/British_military_intervention_in_the_Sierra_Leone_Civil_War",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:47:12Z",
+ "trimmed": true
+}
