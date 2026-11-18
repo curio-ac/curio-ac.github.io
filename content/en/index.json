@@ -190,7 +190,8 @@
   "The Chaser APEC pranks",
   "nasa:1506661",
   "Banksia brownii",
-  "2008 World Science Festival"
+  "2008 World Science Festival",
+  "nasa:1505726"
  ],
  "rejected": [
   "Chameleon",
@@ -882,6 +883,9 @@
   ],
   "2008 World Science Festival": [
    "NYC's 2008 Science Festival: New York City hosted its first science festival."
+  ],
+  "nasa:1505726": [
+   "NASA's New Citizen Science: Volunteers just discovered most known brown dwarfs!"
   ]
  },
  "exhausted": []

@@ -1,0 +1,448 @@
+{
+ "id": "en-6fbdf212",
+ "lang": "en",
+ "title": "The Billion Dollar Hurricane",
+ "cat": "history",
+ "emoji": "🌀",
+ "sentences": [
+  "Hurricane Diane caused over $1 billion in damage.",
+  "It formed on August 7 from a tropical wave.",
+  "By August 12, it reached peak sustained winds of 105 mph.",
+  "It made landfall near Wilmington, North Carolina on August 17.",
+  "This struck just five days after Hurricane Connie hit the same area.",
+  "Warm Atlantic waters later produced record rainfall across the northeastern United States."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Hurricane",
+    0.35,
+    0.35
+   ],
+   [
+    "Diane",
+    0.35,
+    0.77
+   ],
+   [
+    "caused",
+    0.77,
+    1.21
+   ],
+   [
+    "over",
+    1.21,
+    1.49
+   ],
+   [
+    "$1",
+    1.49,
+    1.89
+   ],
+   [
+    "billion",
+    1.89,
+    2.31
+   ],
+   [
+    "in",
+    2.31,
+    2.87
+   ],
+   [
+    "damage.",
+    2.87,
+    3.67
+   ],
+   [
+    "It",
+    3.71,
+    3.71
+   ],
+   [
+    "formed",
+    3.71,
+    4.01
+   ],
+   [
+    "on",
+    4.01,
+    4.17
+   ],
+   [
+    "August",
+    4.17,
+    4.43
+   ],
+   [
+    "7",
+    4.43,
+    4.81
+   ],
+   [
+    "from",
+    4.81,
+    5.07
+   ],
+   [
+    "a",
+    5.07,
+    5.19
+   ],
+   [
+    "tropical",
+    5.19,
+    5.45
+   ],
+   [
+    "wave.",
+    5.45,
+    5.81
+   ],
+   [
+    "By",
+    6.35,
+    6.45
+   ],
+   [
+    "August",
+    6.45,
+    6.71
+   ],
+   [
+    "12,",
+    6.71,
+    7.36
+   ],
+   [
+    "it",
+    7.39,
+    7.43
+   ],
+   [
+    "reached",
+    7.43,
+    7.65
+   ],
+   [
+    "peak",
+    7.65,
+    7.99
+   ],
+   [
+    "sustained",
+    7.99,
+    8.29
+   ],
+   [
+    "winds",
+    8.29,
+    8.71
+   ],
+   [
+    "of",
+    8.71,
+    8.93
+   ],
+   [
+    "105",
+    8.93,
+    9.49
+   ],
+   [
+    "mph.",
+    9.49,
+    10.34
+   ],
+   [
+    "It",
+    11.13,
+    11.23
+   ],
+   [
+    "made",
+    11.23,
+    11.41
+   ],
+   [
+    "landfall",
+    11.41,
+    11.89
+   ],
+   [
+    "near",
+    11.93,
+    12.13
+   ],
+   [
+    "Wilmington,",
+    12.13,
+    12.63
+   ],
+   [
+    "North",
+    12.81,
+    12.89
+   ],
+   [
+    "Carolina",
+    12.89,
+    13.31
+   ],
+   [
+    "on",
+    13.31,
+    13.59
+   ],
+   [
+    "August",
+    13.59,
+    13.93
+   ],
+   [
+    "17.",
+    13.93,
+    14.51
+   ],
+   [
+    "This",
+    15.11,
+    15.23
+   ],
+   [
+    "struck",
+    15.23,
+    15.53
+   ],
+   [
+    "just",
+    15.61,
+    15.73
+   ],
+   [
+    "five",
+    15.73,
+    16.13
+   ],
+   [
+    "days",
+    16.13,
+    16.43
+   ],
+   [
+    "after",
+    16.43,
+    16.73
+   ],
+   [
+    "Hurricane",
+    16.73,
+    17.09
+   ],
+   [
+    "Connie",
+    17.09,
+    17.53
+   ],
+   [
+    "hit",
+    17.53,
+    17.75
+   ],
+   [
+    "the",
+    17.75,
+    17.87
+   ],
+   [
+    "same",
+    17.87,
+    18.17
+   ],
+   [
+    "area.",
+    18.17,
+    18.92
+   ],
+   [
+    "Warm",
+    19.19,
+    19.41
+   ],
+   [
+    "Atlantic",
+    19.41,
+    19.79
+   ],
+   [
+    "waters",
+    19.79,
+    20.25
+   ],
+   [
+    "later",
+    20.25,
+    20.55
+   ],
+   [
+    "produced",
+    20.55,
+    20.95
+   ],
+   [
+    "record",
+    20.95,
+    21.35
+   ],
+   [
+    "rainfall",
+    21.35,
+    21.85
+   ],
+   [
+    "across",
+    22.09,
+    22.19
+   ],
+   [
+    "the",
+    22.19,
+    22.45
+   ],
+   [
+    "northeastern",
+    22.45,
+    23.01
+   ],
+   [
+    "United",
+    23.01,
+    23.27
+   ],
+   [
+    "States.",
+    23.27,
+    23.59
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   28,
+   38,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Hurricane_Diane_Connecticut_flood_damage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 452,
+   "license": "Public domain",
+   "artist": "NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurricane_Diane_Connecticut_flood_damage.jpg",
+   "desc": "Hurricane Diane Connecticut flood damage — Flood damage from Hurricane Diane in Connecticut in 1955"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Diane_1955_path.png/960px-Diane_1955_path.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 714,
+   "license": "Public domain",
+   "artist": "2003 LN6",
+   "page": "https://commons.wikimedia.org/wiki/File:Diane_1955_path.png",
+   "desc": "Diane 1955 path — Track map of Hurricane Diane of the 1955 Atlantic hurricane season. The points show the location of the storm at 6-hour intervals. The colour represents the storm's maximum sustained wind speeds as classified in the (see"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Hurricane_Diane_weather_map%2C_August_13%2C_1955.jpg/960px-Hurricane_Diane_weather_map%2C_August_13%2C_1955.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 465,
+   "license": "Public domain",
+   "artist": "NOAA Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurricane_Diane_weather_map,_August_13,_1955.jpg",
+   "desc": "Hurricane Diane weather map, August 13, 1955 — Weather map of Hurricane Diane near peak intensity on August 13, 1955"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hurricane_Diane_weather_map_%28high_quality%29%2C_August_17%2C_1955.jpg/960px-Hurricane_Diane_weather_map_%28high_quality%29%2C_August_17%2C_1955.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 602,
+   "license": "Public domain",
+   "artist": "NOAA Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurricane_Diane_weather_map_(high_quality),_August_17,_1955.jpg",
+   "desc": "Hurricane Diane weather map (high quality), August 17, 1955 — Weather map of Hurricane Diane nearing landfall in North Carolina on August 17, 1955"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Diane_1955_floods.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "United States Geological Survey",
+   "page": "https://commons.wikimedia.org/wiki/File:Diane_1955_floods.png",
+   "desc": "Diane 1955 floods — Map of the area of severe flooding August 18-19, showing tracks of the August hurricanes, Connie and Diane"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hurricane_Diane_rainfall_in_New_England.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 462,
+   "license": "Public domain",
+   "artist": "National Weather Service",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurricane_Diane_rainfall_in_New_England.jpg",
+   "desc": "Hurricane Diane rainfall in New England — Rainfall map of Hurricane Diane in New England in August 1955"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "billion $",
+   "label": "damage caused"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 105,
+   "unit": "mph",
+   "label": "peak sustained winds"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "days",
+   "label": "after Connie"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3301991",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Hurricane Diane",
+  "url": "https://en.wikipedia.org/wiki/Hurricane_Diane",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T14:41:40Z",
+ "trimmed": true
+}
