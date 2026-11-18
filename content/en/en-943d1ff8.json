@@ -1,0 +1,438 @@
+{
+ "id": "en-943d1ff8",
+ "lang": "en",
+ "title": "The Surprise Battle of Bergerac",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "A surprise attack shifted the regional power.",
+  "In August 1345, French and Anglo-Gascon forces clashed at Bergerac.",
+  "Edward III sent smaller forces to Gascony while focusing on northern France.",
+  "Henry of Grosmont arrived and struck the largest French concentration directly.",
+  "The French suffered heavy casualties and lost the town.",
+  "This victory helped earn Henry a reputation as one of the best warriors in the world."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.1
+   ],
+   [
+    "surprise",
+    0.1,
+    0.48
+   ],
+   [
+    "attack",
+    0.48,
+    1.1
+   ],
+   [
+    "shifted",
+    1.1,
+    1.68
+   ],
+   [
+    "the",
+    1.68,
+    1.94
+   ],
+   [
+    "regional",
+    1.94,
+    2.24
+   ],
+   [
+    "power.",
+    2.24,
+    2.66
+   ],
+   [
+    "In",
+    3.3,
+    3.32
+   ],
+   [
+    "August",
+    3.32,
+    3.6
+   ],
+   [
+    "1345,",
+    3.6,
+    4.3
+   ],
+   [
+    "French",
+    5.18,
+    5.3
+   ],
+   [
+    "and",
+    5.3,
+    5.52
+   ],
+   [
+    "Anglo-Gascon",
+    5.52,
+    6.3
+   ],
+   [
+    "forces",
+    6.3,
+    6.72
+   ],
+   [
+    "clashed",
+    6.72,
+    7.24
+   ],
+   [
+    "at",
+    7.24,
+    7.44
+   ],
+   [
+    "Bergerac.",
+    7.44,
+    7.9
+   ],
+   [
+    "Edward",
+    8.6,
+    8.78
+   ],
+   [
+    "III",
+    8.78,
+    9.16
+   ],
+   [
+    "sent",
+    9.16,
+    9.44
+   ],
+   [
+    "smaller",
+    9.44,
+    9.86
+   ],
+   [
+    "forces",
+    9.86,
+    10.24
+   ],
+   [
+    "to",
+    10.24,
+    10.44
+   ],
+   [
+    "Gascony",
+    10.44,
+    10.94
+   ],
+   [
+    "while",
+    11.1,
+    11.22
+   ],
+   [
+    "focusing",
+    11.22,
+    11.66
+   ],
+   [
+    "on",
+    11.66,
+    11.9
+   ],
+   [
+    "northern",
+    11.9,
+    12.12
+   ],
+   [
+    "France.",
+    12.12,
+    12.72
+   ],
+   [
+    "Henry",
+    13.28,
+    13.5
+   ],
+   [
+    "of",
+    13.5,
+    13.7
+   ],
+   [
+    "Grosmont",
+    13.7,
+    14.16
+   ],
+   [
+    "arrived",
+    14.16,
+    14.6
+   ],
+   [
+    "and",
+    14.6,
+    14.88
+   ],
+   [
+    "struck",
+    14.88,
+    15.14
+   ],
+   [
+    "the",
+    15.14,
+    15.32
+   ],
+   [
+    "largest",
+    15.32,
+    15.7
+   ],
+   [
+    "French",
+    15.7,
+    16.02
+   ],
+   [
+    "concentration",
+    16.02,
+    16.68
+   ],
+   [
+    "directly.",
+    16.68,
+    17.14
+   ],
+   [
+    "The",
+    17.96,
+    18.06
+   ],
+   [
+    "French",
+    18.06,
+    18.3
+   ],
+   [
+    "suffered",
+    18.3,
+    18.62
+   ],
+   [
+    "heavy",
+    18.62,
+    19.0
+   ],
+   [
+    "casualties",
+    19.0,
+    19.5
+   ],
+   [
+    "and",
+    19.5,
+    19.9
+   ],
+   [
+    "lost",
+    19.9,
+    20.14
+   ],
+   [
+    "the",
+    20.14,
+    20.32
+   ],
+   [
+    "town.",
+    20.32,
+    20.7
+   ],
+   [
+    "This",
+    21.38,
+    21.5
+   ],
+   [
+    "victory",
+    21.5,
+    21.76
+   ],
+   [
+    "helped",
+    21.76,
+    22.12
+   ],
+   [
+    "earn",
+    22.28,
+    22.4
+   ],
+   [
+    "Henry",
+    22.4,
+    22.78
+   ],
+   [
+    "a",
+    22.78,
+    22.96
+   ],
+   [
+    "reputation",
+    22.96,
+    23.38
+   ],
+   [
+    "as",
+    23.44,
+    24.1
+   ],
+   [
+    "one",
+    24.1,
+    24.22
+   ],
+   [
+    "of",
+    24.22,
+    24.32
+   ],
+   [
+    "the",
+    24.32,
+    24.42
+   ],
+   [
+    "best",
+    24.42,
+    24.7
+   ],
+   [
+    "warriors",
+    24.7,
+    25.08
+   ],
+   [
+    "in",
+    25.08,
+    25.54
+   ],
+   [
+    "the",
+    25.54,
+    25.68
+   ],
+   [
+    "world.",
+    25.68,
+    26.06
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   29,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Carte_ville_france_Bergerac.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 555,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Carte_ville_france_Bergerac.jpg",
+   "desc": "Carte ville france Bergerac — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/France_relief_location_map.jpg/960px-France_relief_location_map.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 692,
+   "license": "CC BY-SA 4.0",
+   "artist": "Eric Gaba (Sting - fr:Sting)",
+   "page": "https://commons.wikimedia.org/wiki/File:France_relief_location_map.jpg",
+   "desc": "France relief location map — Blank physical map of metropolitan France for geo-location purpose.Scale : 1:14 816 000 (accuracy : about 3,7 km) for the bathymetry. More maps of France, view → Commons Atlas of France."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Henry%2C_Duke_of_Lancaster_-_William_Bruges%27s_Garter_Book_%28c.1440-1450%29%2C_f.8_-_BL_Stowe_MS_594_%28cropped%29.jpg/960px-Portrait_of_Henry%2C_Duke_of_Lancaster_-_William_Bruges%27s_Garter_Book_%28c.1440-1450%29%2C_f.8_-_BL_Stowe_MS_594_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 978,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Henry,_Duke_of_Lancaster_-_William_Bruges%27s_Garter_Book_(c.1440-1450),_f.8_-_BL_Stowe_MS_594_(cropped).jpg",
+   "desc": "Portrait of Henry, Duke of Lancaster - William Bruges's Garter Book (c.1440-1450), f.8 - BL Stowe MS 594 (cropped) — Duc de Lancastre. Portrait of Henry, Duke of Lancaster (c.1310-1361), a Knight Founder of the Order of the Garter. He wears a blue Garter mantl"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1345
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "focus",
+   "target": "Henry of Grosmont",
+   "box": [
+    100,
+    276,
+    951,
+    744
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  44.859,
+  0.483
+ ],
+ "qid": "Q4870471",
+ "pron_wer": 0.076,
+ "angle": 0,
+ "source": {
+  "title": "Battle of Bergerac",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_Bergerac",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T08:43:33Z",
+ "trimmed": true
+}

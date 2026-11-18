@@ -147,7 +147,8 @@
   "Basiliscus",
   "nasa:1453069",
   "nasa:66581",
-  "1920–21 Burnley F.C. season"
+  "1920–21 Burnley F.C. season",
+  "nasa:1283120"
  ],
  "rejected": [
   "Chameleon",
@@ -674,6 +675,9 @@
   ],
   "1920–21 Burnley F.C. season": [
    "Burnley's Historic Unbeaten Run: Burnley once held an incredible 30-game unbeaten record."
+  ],
+  "nasa:1283120": [
+   "Invisible Radio-Disrupting Clouds: Invisible metal clouds are jamming our radio signals."
   ]
  },
  "exhausted": []
