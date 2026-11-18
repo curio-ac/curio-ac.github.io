@@ -1,0 +1,418 @@
+{
+ "id": "en-976091fe",
+ "lang": "en",
+ "title": "Wembley's Historic 1999 Showdown",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Nearly 77,000 fans packed into Wembley Stadium.",
+  "This was the 1999 Second Division play-off final.",
+  "Manchester City faced Gillingham to decide who earned promotion.",
+  "It was Gillingham’s first time playing at the famous stadium.",
+  "Manchester City had already played there 11 times before.",
+  "Mark Halsey refereed the match, which stayed scoreless until the 81st minute.",
+  "Carl Asaba finally broke the deadlock for Gillingham."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Nearly",
+    0.22,
+    0.48
+   ],
+   [
+    "77,000",
+    0.48,
+    2.0
+   ],
+   [
+    "fans",
+    2.0,
+    2.36
+   ],
+   [
+    "packed",
+    2.36,
+    2.78
+   ],
+   [
+    "into",
+    2.92,
+    3.08
+   ],
+   [
+    "Wembley",
+    3.08,
+    3.52
+   ],
+   [
+    "Stadium.",
+    3.52,
+    3.84
+   ],
+   [
+    "This",
+    4.4,
+    4.54
+   ],
+   [
+    "was",
+    4.54,
+    4.68
+   ],
+   [
+    "the",
+    4.68,
+    4.8
+   ],
+   [
+    "1999",
+    4.8,
+    5.38
+   ],
+   [
+    "Second",
+    5.86,
+    5.96
+   ],
+   [
+    "Division",
+    5.96,
+    6.3
+   ],
+   [
+    "play-off",
+    6.3,
+    6.94
+   ],
+   [
+    "final.",
+    6.94,
+    7.04
+   ],
+   [
+    "Manchester",
+    8.04,
+    8.26
+   ],
+   [
+    "City",
+    8.26,
+    8.68
+   ],
+   [
+    "faced",
+    8.68,
+    8.94
+   ],
+   [
+    "Gillingham",
+    8.94,
+    9.36
+   ],
+   [
+    "to",
+    9.36,
+    9.52
+   ],
+   [
+    "decide",
+    9.52,
+    9.8
+   ],
+   [
+    "who",
+    9.8,
+    10.12
+   ],
+   [
+    "earned",
+    10.12,
+    10.46
+   ],
+   [
+    "promotion.",
+    10.46,
+    10.9
+   ],
+   [
+    "It",
+    11.58,
+    11.68
+   ],
+   [
+    "was",
+    11.68,
+    11.76
+   ],
+   [
+    "Gillingham’s",
+    11.76,
+    12.28
+   ],
+   [
+    "first",
+    12.36,
+    12.48
+   ],
+   [
+    "time",
+    12.48,
+    12.82
+   ],
+   [
+    "playing",
+    12.82,
+    13.1
+   ],
+   [
+    "at",
+    13.1,
+    13.32
+   ],
+   [
+    "the",
+    13.32,
+    13.42
+   ],
+   [
+    "famous",
+    13.42,
+    13.72
+   ],
+   [
+    "stadium.",
+    13.72,
+    14.42
+   ],
+   [
+    "Manchester",
+    14.74,
+    14.96
+   ],
+   [
+    "City",
+    15.06,
+    15.34
+   ],
+   [
+    "had",
+    15.34,
+    15.52
+   ],
+   [
+    "already",
+    15.52,
+    15.72
+   ],
+   [
+    "played",
+    15.72,
+    15.92
+   ],
+   [
+    "there",
+    16.0,
+    16.14
+   ],
+   [
+    "11",
+    16.14,
+    16.52
+   ],
+   [
+    "times",
+    16.52,
+    16.9
+   ],
+   [
+    "before.",
+    16.9,
+    17.0
+   ],
+   [
+    "Mark",
+    18.1,
+    18.22
+   ],
+   [
+    "Halsey",
+    18.22,
+    18.58
+   ],
+   [
+    "refereed",
+    18.58,
+    19.02
+   ],
+   [
+    "the",
+    19.02,
+    19.08
+   ],
+   [
+    "match,",
+    19.08,
+    19.34
+   ],
+   [
+    "which",
+    19.56,
+    19.72
+   ],
+   [
+    "stayed",
+    19.98,
+    20.08
+   ],
+   [
+    "scoreless",
+    20.08,
+    20.64
+   ],
+   [
+    "until",
+    20.78,
+    20.88
+   ],
+   [
+    "the",
+    20.88,
+    21.14
+   ],
+   [
+    "81st",
+    21.14,
+    21.92
+   ],
+   [
+    "minute.",
+    21.92,
+    22.16
+   ],
+   [
+    "Carl",
+    22.84,
+    22.96
+   ],
+   [
+    "Asaba",
+    22.96,
+    23.36
+   ],
+   [
+    "finally",
+    23.36,
+    23.8
+   ],
+   [
+    "broke",
+    23.8,
+    24.1
+   ],
+   [
+    "the",
+    24.1,
+    24.24
+   ],
+   [
+    "deadlock",
+    24.46,
+    24.56
+   ],
+   [
+    "for",
+    24.56,
+    24.76
+   ],
+   [
+    "Gillingham.",
+    24.76,
+    25.06
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   34,
+   43,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wembley_Stadium_Twin_Towers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Merv Payne",
+   "page": "https://commons.wikimedia.org/wiki/File:Wembley_Stadium_Twin_Towers.jpg",
+   "desc": "Wembley Stadium Twin Towers — Wembley Stadium Twin Towers, London, England"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wembley_Stadium_Twin_Towers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Merv Payne",
+   "page": "https://commons.wikimedia.org/wiki/File:Wembley_Stadium_Twin_Towers.jpg",
+   "desc": "Wembley Stadium Twin Towers — Wembley Stadium Twin Towers, London, England"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 77000,
+   "unit": "fans",
+   "label": "Wembley Stadium crowd"
+  },
+  {
+   "type": "timeline",
+   "year": 1999
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4594716",
+ "pron_wer": 0.077,
+ "angle": 0,
+ "source": {
+  "title": "1999 Football League Second Division play-off final",
+  "url": "https://en.wikipedia.org/wiki/1999_Football_League_Second_Division_play-off_final",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:38:55Z",
+ "trimmed": true
+}
