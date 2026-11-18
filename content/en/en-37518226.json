@@ -1,0 +1,446 @@
+{
+ "id": "en-37518226",
+ "lang": "en",
+ "title": "Figure Skating Event Cancelled",
+ "cat": "history",
+ "emoji": "⛸️",
+ "sentences": [
+  "A major skating competition was suddenly cancelled.",
+  "The 2015 Trophée Éric Bompard was an official ISU Grand Prix event held in Bordeaux, France.",
+  "Tragedy struck after the first day due to the November 2015 Paris terrorist attacks.",
+  "Organizers stopped all competition immediately.",
+  "Officials decided to use the short program results as the final standings.",
+  "Medals, prize money, and qualifying points were all awarded based on those partial scores."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.24,
+    0.26
+   ],
+   [
+    "major",
+    0.26,
+    0.58
+   ],
+   [
+    "skating",
+    0.58,
+    0.98
+   ],
+   [
+    "competition",
+    0.98,
+    1.58
+   ],
+   [
+    "was",
+    1.58,
+    1.92
+   ],
+   [
+    "suddenly",
+    1.92,
+    2.4
+   ],
+   [
+    "cancelled.",
+    2.4,
+    2.86
+   ],
+   [
+    "The",
+    3.58,
+    3.58
+   ],
+   [
+    "2015",
+    3.66,
+    4.08
+   ],
+   [
+    "Trophée",
+    4.08,
+    4.68
+   ],
+   [
+    "Éric",
+    4.68,
+    4.98
+   ],
+   [
+    "Bompard",
+    4.98,
+    5.54
+   ],
+   [
+    "was",
+    5.54,
+    5.76
+   ],
+   [
+    "an",
+    5.76,
+    5.9
+   ],
+   [
+    "official",
+    5.9,
+    6.18
+   ],
+   [
+    "ISU",
+    6.32,
+    6.82
+   ],
+   [
+    "Grand",
+    6.88,
+    7.0
+   ],
+   [
+    "Prix",
+    7.0,
+    7.2
+   ],
+   [
+    "event",
+    7.2,
+    7.48
+   ],
+   [
+    "held",
+    7.76,
+    7.86
+   ],
+   [
+    "in",
+    7.86,
+    8.02
+   ],
+   [
+    "Bordeaux,",
+    8.02,
+    8.46
+   ],
+   [
+    "France.",
+    8.68,
+    8.78
+   ],
+   [
+    "Tragedy",
+    9.54,
+    9.94
+   ],
+   [
+    "struck",
+    9.94,
+    10.18
+   ],
+   [
+    "after",
+    10.18,
+    10.5
+   ],
+   [
+    "the",
+    10.5,
+    10.6
+   ],
+   [
+    "first",
+    10.74,
+    10.88
+   ],
+   [
+    "day",
+    10.88,
+    11.18
+   ],
+   [
+    "due",
+    11.18,
+    11.42
+   ],
+   [
+    "to",
+    11.42,
+    11.56
+   ],
+   [
+    "the",
+    11.56,
+    11.64
+   ],
+   [
+    "November",
+    11.64,
+    11.92
+   ],
+   [
+    "2015",
+    11.92,
+    12.58
+   ],
+   [
+    "Paris",
+    12.64,
+    13.1
+   ],
+   [
+    "terrorist",
+    13.1,
+    13.58
+   ],
+   [
+    "attacks.",
+    13.58,
+    13.68
+   ],
+   [
+    "Organizers",
+    14.68,
+    15.12
+   ],
+   [
+    "stopped",
+    15.12,
+    15.5
+   ],
+   [
+    "all",
+    15.5,
+    15.88
+   ],
+   [
+    "competition",
+    15.88,
+    16.38
+   ],
+   [
+    "immediately.",
+    16.38,
+    17.06
+   ],
+   [
+    "Officials",
+    17.9,
+    18.12
+   ],
+   [
+    "decided",
+    18.12,
+    18.44
+   ],
+   [
+    "to",
+    18.44,
+    18.66
+   ],
+   [
+    "use",
+    18.66,
+    18.86
+   ],
+   [
+    "the",
+    18.88,
+    18.98
+   ],
+   [
+    "short",
+    18.98,
+    19.26
+   ],
+   [
+    "program",
+    19.26,
+    19.58
+   ],
+   [
+    "results",
+    19.58,
+    19.88
+   ],
+   [
+    "as",
+    19.88,
+    20.24
+   ],
+   [
+    "the",
+    20.26,
+    20.36
+   ],
+   [
+    "final",
+    20.36,
+    20.56
+   ],
+   [
+    "standings.",
+    20.56,
+    20.92
+   ],
+   [
+    "Medals,",
+    21.48,
+    21.98
+   ],
+   [
+    "prize",
+    22.06,
+    22.2
+   ],
+   [
+    "money,",
+    22.2,
+    22.66
+   ],
+   [
+    "and",
+    22.7,
+    22.78
+   ],
+   [
+    "qualifying",
+    22.78,
+    23.1
+   ],
+   [
+    "points",
+    23.1,
+    23.54
+   ],
+   [
+    "were",
+    23.54,
+    23.74
+   ],
+   [
+    "all",
+    23.74,
+    23.96
+   ],
+   [
+    "awarded",
+    23.96,
+    24.32
+   ],
+   [
+    "based",
+    24.32,
+    24.62
+   ],
+   [
+    "on",
+    24.62,
+    24.88
+   ],
+   [
+    "those",
+    24.9,
+    25.0
+   ],
+   [
+    "partial",
+    25.3,
+    25.4
+   ],
+   [
+    "scores.",
+    25.4,
+    26.0
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   23,
+   37,
+   42,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Jielbeaumadier_Patinoire_Bercy_Bompard_2013.jpg/960px-Jielbeaumadier_Patinoire_Bercy_Bompard_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Jiel Beaumadier",
+   "page": "https://commons.wikimedia.org/wiki/File:Jielbeaumadier_Patinoire_Bercy_Bompard_2013.jpg",
+   "desc": "Jielbeaumadier Patinoire Bercy Bompard 2013 — Temporary Ice-skating rink in Palais omnisports de Paris-Bercy at the 2013 Trophée Éric Bompard, Paris."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/960px-13_November_2015_Paris_attacks_-_montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1087,
+   "license": "CC BY-SA 4.0",
+   "artist": "ERIC SALARD, Chris93, Maya-Anaïs Yataghène, Mstyslav Chernov, Fugitron et interv",
+   "page": "https://commons.wikimedia.org/wiki/File:13_November_2015_Paris_attacks_-_montage.jpg",
+   "desc": "13 November 2015 Paris attacks - montage — Montage of several images related to the November 2015 Saint-Denis and Paris attacks."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Men%27s_medal_ceremony_-_2026_United_States_Figure_Skating_Championships_03.jpg/960px-Men%27s_medal_ceremony_-_2026_United_States_Figure_Skating_Championships_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 735,
+   "license": "CC BY 4.0",
+   "artist": "SpiritedMichelle",
+   "page": "https://commons.wikimedia.org/wiki/File:Men%27s_medal_ceremony_-_2026_United_States_Figure_Skating_Championships_03.jpg",
+   "desc": "Men's medal ceremony - 2026 United States Figure Skating Championships 03 — The men's medal ceremony at the 2026 United States Figure Skating Championships"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2015
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2015,
+   "unit": "year",
+   "label": "Paris attacks"
+  }
+ ],
+ "geo": null,
+ "qid": "Q18745520",
+ "pron_wer": 0.044,
+ "angle": 0,
+ "source": {
+  "title": "2015 Trophée Éric Bompard",
+  "url": "https://en.wikipedia.org/wiki/2015_Troph%C3%A9e_%C3%89ric_Bompard",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T09:35:57Z",
+ "trimmed": true
+}
