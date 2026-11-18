@@ -1,0 +1,460 @@
+{
+ "id": "en-a79ac741",
+ "lang": "en",
+ "title": "Confederacy's Only President",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "Jefferson Davis led a nation that existed briefly.",
+  "He was the only president of the Confederate States from 1861 to 1865.",
+  "Before that, he served as the 23rd United States secretary of war.",
+  "Born in Kentucky, he eventually owned 113 slaves at his Brierfield Plantation.",
+  "He graduated from the United States Military Academy and served six years as an army lieutenant.",
+  "His first wife died from malaria just months after their wedding."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Jefferson",
+    0.26,
+    0.26
+   ],
+   [
+    "Davis",
+    0.26,
+    0.64
+   ],
+   [
+    "led",
+    0.64,
+    0.98
+   ],
+   [
+    "a",
+    0.98,
+    1.1
+   ],
+   [
+    "nation",
+    1.1,
+    1.38
+   ],
+   [
+    "that",
+    1.38,
+    1.58
+   ],
+   [
+    "existed",
+    1.58,
+    1.88
+   ],
+   [
+    "briefly.",
+    1.88,
+    2.38
+   ],
+   [
+    "He",
+    2.82,
+    2.84
+   ],
+   [
+    "was",
+    2.84,
+    2.96
+   ],
+   [
+    "the",
+    2.96,
+    3.08
+   ],
+   [
+    "only",
+    3.08,
+    3.3
+   ],
+   [
+    "president",
+    3.3,
+    3.7
+   ],
+   [
+    "of",
+    3.7,
+    3.92
+   ],
+   [
+    "the",
+    3.92,
+    4.0
+   ],
+   [
+    "Confederate",
+    4.0,
+    4.3
+   ],
+   [
+    "States",
+    4.3,
+    4.72
+   ],
+   [
+    "from",
+    4.78,
+    4.98
+   ],
+   [
+    "1861",
+    4.98,
+    5.8
+   ],
+   [
+    "to",
+    5.8,
+    6.0
+   ],
+   [
+    "1865.",
+    6.0,
+    7.4
+   ],
+   [
+    "Before",
+    7.42,
+    7.56
+   ],
+   [
+    "that,",
+    7.56,
+    8.02
+   ],
+   [
+    "he",
+    8.18,
+    8.18
+   ],
+   [
+    "served",
+    8.18,
+    8.44
+   ],
+   [
+    "as",
+    8.44,
+    8.66
+   ],
+   [
+    "the",
+    8.66,
+    8.78
+   ],
+   [
+    "23rd",
+    8.78,
+    9.34
+   ],
+   [
+    "United",
+    9.34,
+    9.48
+   ],
+   [
+    "States",
+    9.48,
+    9.88
+   ],
+   [
+    "secretary",
+    9.88,
+    10.2
+   ],
+   [
+    "of",
+    10.2,
+    10.58
+   ],
+   [
+    "war.",
+    10.58,
+    10.92
+   ],
+   [
+    "Born",
+    11.1,
+    11.26
+   ],
+   [
+    "in",
+    11.26,
+    11.4
+   ],
+   [
+    "Kentucky,",
+    11.4,
+    11.8
+   ],
+   [
+    "he",
+    12.04,
+    12.08
+   ],
+   [
+    "eventually",
+    12.08,
+    12.38
+   ],
+   [
+    "owned",
+    12.38,
+    12.84
+   ],
+   [
+    "113",
+    12.84,
+    13.42
+   ],
+   [
+    "slaves",
+    13.42,
+    13.9
+   ],
+   [
+    "at",
+    13.9,
+    14.22
+   ],
+   [
+    "his",
+    14.22,
+    14.32
+   ],
+   [
+    "Brierfield",
+    14.32,
+    14.78
+   ],
+   [
+    "Plantation.",
+    14.78,
+    15.52
+   ],
+   [
+    "He",
+    15.72,
+    15.78
+   ],
+   [
+    "graduated",
+    15.78,
+    16.22
+   ],
+   [
+    "from",
+    16.22,
+    16.5
+   ],
+   [
+    "the",
+    16.5,
+    16.62
+   ],
+   [
+    "United",
+    16.62,
+    16.86
+   ],
+   [
+    "States",
+    16.86,
+    17.18
+   ],
+   [
+    "Military",
+    17.18,
+    17.5
+   ],
+   [
+    "Academy",
+    17.5,
+    18.08
+   ],
+   [
+    "and",
+    18.08,
+    18.46
+   ],
+   [
+    "served",
+    18.46,
+    18.72
+   ],
+   [
+    "six",
+    18.72,
+    19.0
+   ],
+   [
+    "years",
+    19.0,
+    19.3
+   ],
+   [
+    "as",
+    19.3,
+    19.52
+   ],
+   [
+    "an",
+    19.52,
+    19.62
+   ],
+   [
+    "army",
+    19.62,
+    19.84
+   ],
+   [
+    "lieutenant.",
+    19.84,
+    20.32
+   ],
+   [
+    "His",
+    20.66,
+    20.78
+   ],
+   [
+    "first",
+    20.78,
+    21.0
+   ],
+   [
+    "wife",
+    21.0,
+    21.3
+   ],
+   [
+    "died",
+    21.3,
+    21.54
+   ],
+   [
+    "from",
+    21.54,
+    21.76
+   ],
+   [
+    "malaria",
+    21.76,
+    22.04
+   ],
+   [
+    "just",
+    22.04,
+    22.46
+   ],
+   [
+    "months",
+    22.46,
+    22.72
+   ],
+   [
+    "after",
+    22.92,
+    23.02
+   ],
+   [
+    "their",
+    23.02,
+    23.18
+   ],
+   [
+    "wedding.",
+    23.18,
+    23.48
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   21,
+   33,
+   45,
+   61
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1883_U.S._Coast_Survey_Map_of_West_Point_Military_Academy%2C_New_York_-_Geographicus_-_WestPoint-uscs-1883.jpg/960px-1883_U.S._Coast_Survey_Map_of_West_Point_Military_Academy%2C_New_York_-_Geographicus_-_WestPoint-uscs-1883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 907,
+   "license": "Public domain",
+   "artist": "United States Coast Survey",
+   "page": "https://commons.wikimedia.org/wiki/File:1883_U.S._Coast_Survey_Map_of_West_Point_Military_Academy,_New_York_-_Geographicus_-_WestPoint-uscs-1883.jpg",
+   "desc": "1883 U.S. Coast Survey Map of West Point Military Academy, New York - Geographicus - WestPoint-uscs-1883 — A beautiful example of the U.S. Coast Survey's scarce 1883 map of the West Point Military Academy, New York. Covers the grounds of West Point Military Ac"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sarah_Knox_Taylor_Davis.jpg/960px-Sarah_Knox_Taylor_Davis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 838,
+   "license": "Public domain",
+   "artist": "Dsdugan",
+   "page": "https://commons.wikimedia.org/wiki/File:Sarah_Knox_Taylor_Davis.jpg",
+   "desc": "Sarah Knox Taylor Davis — Sarah Knox Taylor Davis"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  0,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1861
+  },
+  {
+   "type": "stat",
+   "value": 23,
+   "unit": "secretary",
+   "label": "US secretary"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 6,
+   "unit": "years",
+   "label": "army service"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q162269",
+ "pron_wer": 0.042,
+ "angle": 1,
+ "source": {
+  "title": "Jefferson Davis",
+  "url": "https://en.wikipedia.org/wiki/Jefferson_Davis",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T10:04:37Z",
+ "trimmed": true
+}
