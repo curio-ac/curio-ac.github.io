@@ -1,0 +1,429 @@
+{
+ "id": "en-da4eb448",
+ "lang": "en",
+ "title": "Camping Trip Reveals Crater",
+ "cat": "space",
+ "emoji": "☄️",
+ "sentences": [
+  "A camper spotted a massive crater by accident.",
+  "Joël Lapointe noticed a strange circular shape on satellite maps while planning a trip.",
+  "Experts confirmed the 25-kilometer structure in Quebec is a real impact crater.",
+  "The team found shatter cones, which are clear evidence of a cosmic impact.",
+  "Rock samples suggest this collision happened 390 million years ago.",
+  "It is the largest impact crater discovered since 2018."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.1,
+    0.1
+   ],
+   [
+    "camper",
+    0.14,
+    0.36
+   ],
+   [
+    "spotted",
+    0.36,
+    0.76
+   ],
+   [
+    "a",
+    0.76,
+    1.0
+   ],
+   [
+    "massive",
+    1.0,
+    1.42
+   ],
+   [
+    "crater",
+    1.42,
+    1.78
+   ],
+   [
+    "by",
+    1.78,
+    2.0
+   ],
+   [
+    "accident.",
+    2.0,
+    2.9
+   ],
+   [
+    "Joël",
+    3.06,
+    3.32
+   ],
+   [
+    "Lapointe",
+    3.32,
+    3.74
+   ],
+   [
+    "noticed",
+    3.74,
+    3.94
+   ],
+   [
+    "a",
+    3.94,
+    4.2
+   ],
+   [
+    "strange",
+    4.2,
+    4.62
+   ],
+   [
+    "circular",
+    4.62,
+    4.96
+   ],
+   [
+    "shape",
+    4.96,
+    5.34
+   ],
+   [
+    "on",
+    5.34,
+    5.52
+   ],
+   [
+    "satellite",
+    5.52,
+    5.86
+   ],
+   [
+    "maps",
+    5.86,
+    6.24
+   ],
+   [
+    "while",
+    6.32,
+    6.42
+   ],
+   [
+    "planning",
+    6.42,
+    6.7
+   ],
+   [
+    "a",
+    6.7,
+    6.84
+   ],
+   [
+    "trip.",
+    6.84,
+    7.08
+   ],
+   [
+    "Experts",
+    7.68,
+    8.06
+   ],
+   [
+    "confirmed",
+    8.06,
+    8.32
+   ],
+   [
+    "the",
+    8.32,
+    8.62
+   ],
+   [
+    "25-kilometer",
+    8.78,
+    9.68
+   ],
+   [
+    "structure",
+    9.68,
+    10.02
+   ],
+   [
+    "in",
+    10.02,
+    10.26
+   ],
+   [
+    "Quebec",
+    10.26,
+    10.52
+   ],
+   [
+    "is",
+    10.52,
+    10.88
+   ],
+   [
+    "a",
+    10.88,
+    11.0
+   ],
+   [
+    "real",
+    11.0,
+    11.24
+   ],
+   [
+    "impact",
+    11.24,
+    11.58
+   ],
+   [
+    "crater.",
+    11.58,
+    12.06
+   ],
+   [
+    "The",
+    12.66,
+    12.76
+   ],
+   [
+    "team",
+    12.76,
+    12.98
+   ],
+   [
+    "found",
+    12.98,
+    13.3
+   ],
+   [
+    "shatter",
+    13.3,
+    13.68
+   ],
+   [
+    "cones,",
+    13.68,
+    14.0
+   ],
+   [
+    "which",
+    14.32,
+    14.4
+   ],
+   [
+    "are",
+    14.4,
+    14.52
+   ],
+   [
+    "clear",
+    14.52,
+    14.8
+   ],
+   [
+    "evidence",
+    14.8,
+    15.14
+   ],
+   [
+    "of",
+    15.14,
+    15.4
+   ],
+   [
+    "a",
+    15.4,
+    15.5
+   ],
+   [
+    "cosmic",
+    15.52,
+    15.82
+   ],
+   [
+    "impact.",
+    15.82,
+    16.28
+   ],
+   [
+    "Rock",
+    17.06,
+    17.22
+   ],
+   [
+    "samples",
+    17.22,
+    17.52
+   ],
+   [
+    "suggest",
+    17.52,
+    17.94
+   ],
+   [
+    "this",
+    17.94,
+    18.22
+   ],
+   [
+    "collision",
+    18.22,
+    18.54
+   ],
+   [
+    "happened",
+    18.54,
+    18.86
+   ],
+   [
+    "390",
+    18.86,
+    19.58
+   ],
+   [
+    "million",
+    19.58,
+    20.34
+   ],
+   [
+    "years",
+    20.34,
+    20.66
+   ],
+   [
+    "ago.",
+    20.66,
+    20.92
+   ],
+   [
+    "It",
+    21.58,
+    21.66
+   ],
+   [
+    "is",
+    21.66,
+    21.78
+   ],
+   [
+    "the",
+    21.78,
+    21.92
+   ],
+   [
+    "largest",
+    21.92,
+    22.28
+   ],
+   [
+    "impact",
+    22.28,
+    22.62
+   ],
+   [
+    "crater",
+    22.88,
+    23.02
+   ],
+   [
+    "discovered",
+    23.02,
+    23.44
+   ],
+   [
+    "since",
+    23.44,
+    23.74
+   ],
+   [
+    "2018.",
+    23.74,
+    24.14
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   22,
+   34,
+   47,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/An_Accidental_Impact_Crater_Discovery_%281339368_-_newcraterquebec_oli_20251012%29.jpg/960px-An_Accidental_Impact_Crater_Discovery_%281339368_-_newcraterquebec_oli_20251012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Accidental_Impact_Crater_Discovery_(1339368_-_newcraterquebec_oli_20251012).jpg",
+   "desc": "An Accidental Impact Crater Discovery (1339368 - newcraterquebec oli 20251012) — The subtle circular shape of the Uhackatik impact structure in Quebec, with Lake Marsal near the center, is visible in this image captured on October 12, 2025, by the OLI (Operati"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/An_Accidental_Impact_Crater_Discovery_%281339368_-_newcraterquebec_oli_20251012_lrg%29.jpg/960px-An_Accidental_Impact_Crater_Discovery_%281339368_-_newcraterquebec_oli_20251012_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Accidental_Impact_Crater_Discovery_(1339368_-_newcraterquebec_oli_20251012_lrg).jpg",
+   "desc": "An Accidental Impact Crater Discovery (1339368 - newcraterquebec oli 20251012 lrg) — The subtle circular shape of the Uhackatik impact structure in Quebec, with Lake Marsal near the center, is visible in this image captured on October 12, 2025, by the OLI (Ope"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 25000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2018,
+   "unit": "year",
+   "label": "last discovery"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/an-accidental-impact-crater-discovery/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "An Accidental Impact Crater Discovery",
+  "url": "https://science.nasa.gov/earth/earth-observatory/an-accidental-impact-crater-discovery/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:27:52Z",
+ "trimmed": true
+}
