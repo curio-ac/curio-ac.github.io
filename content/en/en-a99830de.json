@@ -1,0 +1,443 @@
+{
+ "id": "en-a99830de",
+ "lang": "en",
+ "title": "Fela Kuti's Chaotic Masterpiece",
+ "cat": "art",
+ "emoji": "🎷",
+ "sentences": [
+  "This entire album is just one song.",
+  "Fela Kuti released Confusion in 1975 with his band, Africa 70.",
+  "He composed and produced this Afrobeat record to highlight his African heritage.",
+  "The lyrics describe the messy traffic and infrastructure problems of post-colonial Lagos.",
+  "The first half is pure instrumental interplay between electric piano and drums.",
+  "Critics love this highlight of his catalog for its classic Afrobeat style."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.24
+   ],
+   [
+    "entire",
+    0.24,
+    0.68
+   ],
+   [
+    "album",
+    0.68,
+    1.18
+   ],
+   [
+    "is",
+    1.18,
+    1.4
+   ],
+   [
+    "just",
+    1.4,
+    1.64
+   ],
+   [
+    "one",
+    1.64,
+    2.08
+   ],
+   [
+    "song.",
+    2.08,
+    2.58
+   ],
+   [
+    "Fela",
+    3.22,
+    3.42
+   ],
+   [
+    "Kuti",
+    3.42,
+    3.72
+   ],
+   [
+    "released",
+    3.72,
+    4.14
+   ],
+   [
+    "Confusion",
+    4.14,
+    4.88
+   ],
+   [
+    "in",
+    4.88,
+    5.1
+   ],
+   [
+    "1975",
+    5.2,
+    5.72
+   ],
+   [
+    "with",
+    5.72,
+    6.24
+   ],
+   [
+    "his",
+    6.24,
+    6.36
+   ],
+   [
+    "band,",
+    6.36,
+    6.74
+   ],
+   [
+    "Africa",
+    6.9,
+    7.1
+   ],
+   [
+    "70.",
+    7.1,
+    7.42
+   ],
+   [
+    "He",
+    8.06,
+    8.16
+   ],
+   [
+    "composed",
+    8.16,
+    8.58
+   ],
+   [
+    "and",
+    8.58,
+    8.86
+   ],
+   [
+    "produced",
+    8.86,
+    9.22
+   ],
+   [
+    "this",
+    9.22,
+    9.54
+   ],
+   [
+    "Afrobeat",
+    9.54,
+    9.98
+   ],
+   [
+    "record",
+    9.98,
+    10.28
+   ],
+   [
+    "to",
+    10.38,
+    10.48
+   ],
+   [
+    "highlight",
+    10.48,
+    10.82
+   ],
+   [
+    "his",
+    10.82,
+    11.08
+   ],
+   [
+    "African",
+    11.08,
+    11.52
+   ],
+   [
+    "heritage.",
+    11.52,
+    11.96
+   ],
+   [
+    "The",
+    12.64,
+    12.72
+   ],
+   [
+    "lyrics",
+    12.72,
+    12.94
+   ],
+   [
+    "describe",
+    12.94,
+    13.42
+   ],
+   [
+    "the",
+    13.42,
+    13.58
+   ],
+   [
+    "messy",
+    13.58,
+    13.96
+   ],
+   [
+    "traffic",
+    13.96,
+    14.48
+   ],
+   [
+    "and",
+    14.48,
+    14.74
+   ],
+   [
+    "infrastructure",
+    14.74,
+    15.22
+   ],
+   [
+    "problems",
+    15.22,
+    15.72
+   ],
+   [
+    "of",
+    15.72,
+    15.96
+   ],
+   [
+    "post-colonial",
+    15.96,
+    16.72
+   ],
+   [
+    "Lagos.",
+    16.72,
+    17.0
+   ],
+   [
+    "The",
+    17.76,
+    17.84
+   ],
+   [
+    "first",
+    17.94,
+    18.06
+   ],
+   [
+    "half",
+    18.06,
+    18.28
+   ],
+   [
+    "is",
+    18.28,
+    18.5
+   ],
+   [
+    "pure",
+    18.8,
+    18.9
+   ],
+   [
+    "instrumental",
+    18.9,
+    19.45
+   ],
+   [
+    "interplay",
+    19.58,
+    20.12
+   ],
+   [
+    "between",
+    20.12,
+    20.32
+   ],
+   [
+    "electric",
+    20.42,
+    20.72
+   ],
+   [
+    "piano",
+    20.72,
+    21.12
+   ],
+   [
+    "and",
+    21.12,
+    21.5
+   ],
+   [
+    "drums.",
+    21.5,
+    21.84
+   ],
+   [
+    "Critics",
+    22.6,
+    22.82
+   ],
+   [
+    "love",
+    22.92,
+    23.2
+   ],
+   [
+    "this",
+    23.2,
+    23.46
+   ],
+   [
+    "highlight",
+    23.46,
+    23.76
+   ],
+   [
+    "of",
+    23.76,
+    23.94
+   ],
+   [
+    "his",
+    23.94,
+    24.02
+   ],
+   [
+    "catalog",
+    24.02,
+    24.3
+   ],
+   [
+    "for",
+    24.3,
+    24.58
+   ],
+   [
+    "its",
+    24.58,
+    24.7
+   ],
+   [
+    "classic",
+    24.94,
+    25.22
+   ],
+   [
+    "Afrobeat",
+    25.22,
+    25.84
+   ],
+   [
+    "style.",
+    25.84,
+    26.24
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   30,
+   42,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Vinyl_Albums.JPG/960px-Vinyl_Albums.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "Elberth 00001939",
+   "page": "https://commons.wikimedia.org/wiki/File:Vinyl_Albums.JPG",
+   "desc": "Vinyl Albums — Vinyl Albums Discs the 14\", 7\" and CDs ROM"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Market_in_Lagos%2C_Nigeria.jpg/960px-Market_in_Lagos%2C_Nigeria.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 409,
+   "license": "CC BY 2.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Market_in_Lagos,_Nigeria.jpg",
+   "desc": "Market in Lagos, Nigeria — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Keyboards_-_Rhodes_piano%2C_Leslie_speaker_with_microphone%2C_Hammond_C3%2C_Grand_piano_with_microphones_-_Studio_A%2C_In_Your_Ear_Studios.jpg/960px-Keyboards_-_Rhodes_piano%2C_Leslie_speaker_with_microphone%2C_Hammond_C3%2C_Grand_piano_with_microphones_-_Studio_A%2C_In_Your_Ear_Studios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Will Fisher from Richmond, VA, United States",
+   "page": "https://commons.wikimedia.org/wiki/File:Keyboards_-_Rhodes_piano,_Leslie_speaker_with_microphone,_Hammond_C3,_Grand_piano_with_microphones_-_Studio_A,_In_Your_Ear_Studios.jpg",
+   "desc": "Keyboards - Rhodes piano, Leslie speaker with microphone, Hammond C3, Grand piano with microphones - Studio A, In Your Ear Studios — In Your Ear Studios | Richmond, VA Studio A Our largest recording space was designed for optimum music recording. Studio A also"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "song",
+   "label": "album length"
+  },
+  {
+   "type": "timeline",
+   "year": 1975
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "electric piano",
+   "box": [
+    444,
+    15,
+    521,
+    187
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q16246588",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Confusion (album)",
+  "url": "https://en.wikipedia.org/wiki/Confusion_%28album%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:23:19Z",
+ "trimmed": true
+}
