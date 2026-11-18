@@ -1,0 +1,401 @@
+{
+ "id": "en-28e81f14",
+ "lang": "en",
+ "title": "Chicago’s Giant Metal Bean",
+ "cat": "art",
+ "emoji": "🫘",
+ "sentences": [
+  "Chicago’s famous Bean weighs 110 tons.",
+  "Artist Anish Kapoor designed this sculpture to look like liquid mercury.",
+  "Workers welded 168 stainless steel plates together to create its seamless surface.",
+  "It measures 33 by 66 by 42 feet.",
+  "Visitors walk under its 12-foot arch to find the omphalos.",
+  "This concave chamber warps and multiplies reflections for tourists."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Chicago’s",
+    0.35,
+    0.45
+   ],
+   [
+    "famous",
+    0.45,
+    0.67
+   ],
+   [
+    "Bean",
+    0.67,
+    0.95
+   ],
+   [
+    "weighs",
+    0.95,
+    1.17
+   ],
+   [
+    "110",
+    1.17,
+    1.69
+   ],
+   [
+    "tons.",
+    1.69,
+    2.33
+   ],
+   [
+    "Artist",
+    2.79,
+    2.99
+   ],
+   [
+    "Anish",
+    2.99,
+    3.45
+   ],
+   [
+    "Kapoor",
+    3.45,
+    3.85
+   ],
+   [
+    "designed",
+    3.85,
+    4.19
+   ],
+   [
+    "this",
+    4.19,
+    4.53
+   ],
+   [
+    "sculpture",
+    4.61,
+    4.83
+   ],
+   [
+    "to",
+    4.83,
+    5.07
+   ],
+   [
+    "look",
+    5.07,
+    5.25
+   ],
+   [
+    "like",
+    5.25,
+    5.41
+   ],
+   [
+    "liquid",
+    5.41,
+    5.63
+   ],
+   [
+    "mercury.",
+    5.63,
+    6.09
+   ],
+   [
+    "Workers",
+    6.55,
+    6.79
+   ],
+   [
+    "welded",
+    6.79,
+    7.13
+   ],
+   [
+    "168",
+    7.13,
+    8.35
+   ],
+   [
+    "stainless",
+    8.35,
+    8.63
+   ],
+   [
+    "steel",
+    8.63,
+    8.95
+   ],
+   [
+    "plates",
+    8.95,
+    9.21
+   ],
+   [
+    "together",
+    9.21,
+    9.57
+   ],
+   [
+    "to",
+    9.57,
+    9.79
+   ],
+   [
+    "create",
+    9.79,
+    10.09
+   ],
+   [
+    "its",
+    10.09,
+    10.27
+   ],
+   [
+    "seamless",
+    10.39,
+    10.57
+   ],
+   [
+    "surface.",
+    10.57,
+    11.17
+   ],
+   [
+    "It",
+    11.47,
+    11.53
+   ],
+   [
+    "measures",
+    11.53,
+    11.81
+   ],
+   [
+    "33",
+    11.81,
+    12.21
+   ],
+   [
+    "by",
+    12.21,
+    12.51
+   ],
+   [
+    "66",
+    12.51,
+    12.99
+   ],
+   [
+    "by",
+    12.99,
+    13.31
+   ],
+   [
+    "42",
+    13.31,
+    13.71
+   ],
+   [
+    "feet.",
+    13.71,
+    13.91
+   ],
+   [
+    "Visitors",
+    14.45,
+    14.75
+   ],
+   [
+    "walk",
+    14.75,
+    15.01
+   ],
+   [
+    "under",
+    15.01,
+    15.29
+   ],
+   [
+    "its",
+    15.29,
+    15.43
+   ],
+   [
+    "12-foot",
+    15.43,
+    15.85
+   ],
+   [
+    "arch",
+    15.85,
+    16.13
+   ],
+   [
+    "to",
+    16.13,
+    16.35
+   ],
+   [
+    "find",
+    16.35,
+    16.55
+   ],
+   [
+    "the",
+    16.55,
+    16.67
+   ],
+   [
+    "omphalos.",
+    16.67,
+    17.21
+   ],
+   [
+    "This",
+    17.55,
+    17.67
+   ],
+   [
+    "concave",
+    17.67,
+    18.11
+   ],
+   [
+    "chamber",
+    18.11,
+    18.45
+   ],
+   [
+    "warps",
+    18.45,
+    18.91
+   ],
+   [
+    "and",
+    18.91,
+    19.07
+   ],
+   [
+    "multiplies",
+    19.07,
+    19.59
+   ],
+   [
+    "reflections",
+    19.59,
+    20.01
+   ],
+   [
+    "for",
+    20.01,
+    20.29
+   ],
+   [
+    "tourists.",
+    20.29,
+    20.61
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   29,
+   37,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cloud_gate_construction.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 737,
+   "license": "CC BY 3.0",
+   "artist": "Cmgiulini",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloud_gate_construction.jpg",
+   "desc": "Cloud gate construction — Construction crews begin work on the Cloud Gate"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg/960px-Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 389,
+   "license": "CC BY 2.0",
+   "artist": "Roman Boed from The Netherlands",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicago_from_under_the_Cloud_Gate_(9694666470).jpg",
+   "desc": "Chicago from under the Cloud Gate (9694666470) — Chicago from under the Cloud Gate"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bean_Selfie.jpg/960px-Bean_Selfie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Kellyjank",
+   "page": "https://commons.wikimedia.org/wiki/File:Bean_Selfie.jpg",
+   "desc": "Bean Selfie — Here's a selfie I took of myself through the reflection at the infamous Bean in Chicago."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": "110",
+   "unit": "short tons",
+   "label": "The Bean weight"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": "168",
+   "unit": "plates",
+   "label": "welded steel plates"
+  },
+  {
+   "type": "compare",
+   "value": 20,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "focus",
+   "target": "omphalos arch",
+   "box": [
+    0,
+    613,
+    996,
+    996
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  41.883,
+  -87.623
+ ],
+ "qid": "Q589099",
+ "pron_wer": 0.052,
+ "angle": 2,
+ "source": {
+  "title": "Cloud Gate",
+  "url": "https://en.wikipedia.org/wiki/Cloud_Gate",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T11:38:30Z",
+ "trimmed": true
+}
