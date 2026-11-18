@@ -1,0 +1,393 @@
+{
+ "id": "en-c255e0d7",
+ "lang": "en",
+ "title": "Saving the Hubble Telescope",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "NASA might give Hubble a boost!",
+  "The iconic telescope is slowly losing altitude due to atmospheric drag.",
+  "It lacks a propulsion system to maintain its own orbit.",
+  "NASA issued a Request for Information for commercial in-space servicing.",
+  "A mission could boost Hubble to a higher altitude by 2032.",
+  "This would extend the telescope's science lifetime for more discoveries."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.35,
+    0.35
+   ],
+   [
+    "might",
+    0.35,
+    0.59
+   ],
+   [
+    "give",
+    0.59,
+    0.79
+   ],
+   [
+    "Hubble",
+    0.79,
+    0.99
+   ],
+   [
+    "a",
+    0.99,
+    1.19
+   ],
+   [
+    "boost!",
+    1.19,
+    1.95
+   ],
+   [
+    "The",
+    1.95,
+    1.99
+   ],
+   [
+    "iconic",
+    1.99,
+    2.35
+   ],
+   [
+    "telescope",
+    2.35,
+    2.85
+   ],
+   [
+    "is",
+    2.87,
+    3.07
+   ],
+   [
+    "slowly",
+    3.07,
+    3.37
+   ],
+   [
+    "losing",
+    3.37,
+    3.71
+   ],
+   [
+    "altitude",
+    3.71,
+    4.15
+   ],
+   [
+    "due",
+    4.15,
+    4.47
+   ],
+   [
+    "to",
+    4.47,
+    4.59
+   ],
+   [
+    "atmospheric",
+    4.59,
+    5.05
+   ],
+   [
+    "drag.",
+    5.05,
+    5.53
+   ],
+   [
+    "It",
+    5.97,
+    6.07
+   ],
+   [
+    "lacks",
+    6.07,
+    6.27
+   ],
+   [
+    "a",
+    6.27,
+    6.45
+   ],
+   [
+    "propulsion",
+    6.45,
+    6.69
+   ],
+   [
+    "system",
+    6.69,
+    7.17
+   ],
+   [
+    "to",
+    7.17,
+    7.39
+   ],
+   [
+    "maintain",
+    7.39,
+    7.67
+   ],
+   [
+    "its",
+    7.67,
+    7.95
+   ],
+   [
+    "own",
+    7.95,
+    8.11
+   ],
+   [
+    "orbit.",
+    8.11,
+    8.49
+   ],
+   [
+    "NASA",
+    8.99,
+    9.27
+   ],
+   [
+    "issued",
+    9.27,
+    9.59
+   ],
+   [
+    "a",
+    9.59,
+    9.77
+   ],
+   [
+    "Request",
+    9.77,
+    10.09
+   ],
+   [
+    "for",
+    10.09,
+    10.27
+   ],
+   [
+    "Information",
+    10.27,
+    10.67
+   ],
+   [
+    "for",
+    10.67,
+    11.07
+   ],
+   [
+    "commercial",
+    11.07,
+    11.45
+   ],
+   [
+    "in-space",
+    11.45,
+    11.93
+   ],
+   [
+    "servicing.",
+    11.93,
+    12.59
+   ],
+   [
+    "A",
+    12.97,
+    13.01
+   ],
+   [
+    "mission",
+    13.01,
+    13.21
+   ],
+   [
+    "could",
+    13.21,
+    13.47
+   ],
+   [
+    "boost",
+    13.47,
+    13.73
+   ],
+   [
+    "Hubble",
+    13.73,
+    14.01
+   ],
+   [
+    "to",
+    14.01,
+    14.19
+   ],
+   [
+    "a",
+    14.19,
+    14.33
+   ],
+   [
+    "higher",
+    14.33,
+    14.53
+   ],
+   [
+    "altitude",
+    14.53,
+    15.01
+   ],
+   [
+    "by",
+    15.01,
+    15.25
+   ],
+   [
+    "2032.",
+    15.25,
+    16.41
+   ],
+   [
+    "This",
+    16.69,
+    16.83
+   ],
+   [
+    "would",
+    16.83,
+    16.97
+   ],
+   [
+    "extend",
+    16.97,
+    17.29
+   ],
+   [
+    "the",
+    17.29,
+    17.47
+   ],
+   [
+    "telescope's",
+    17.47,
+    18.05
+   ],
+   [
+    "science",
+    18.05,
+    18.27
+   ],
+   [
+    "lifetime",
+    18.27,
+    18.73
+   ],
+   [
+    "for",
+    18.73,
+    18.99
+   ],
+   [
+    "more",
+    18.99,
+    19.15
+   ],
+   [
+    "discoveries.",
+    19.15,
+    19.8
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   27,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hubble_2009_close-up.jpg/960px-Hubble_2009_close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up.jpg",
+   "desc": "Hubble 2009 close-up — An STS-125 crewmember aboard the Space Shuttle Atlantis captured this still image of the Hubble Space Telescope as the two spacecraft continue their relative separation on May 19, after having been linked together for th"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Iss072e277661_%28Nov_23%2C_2024%29_---_NASA_astronaut_and_Expedition_72_Flight_Engineer_Nick_Hague_services_research_hardware_for_the_Rhodium_Biomanufacturing-03_experiment_inside_the_International_Space_Station%27s_Kibo_labo.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Johnson Space Center",
+   "page": "https://commons.wikimedia.org/wiki/File:Iss072e277661_(Nov_23,_2024)_---_NASA_astronaut_and_Expedition_72_Flight_Engineer_Nick_Hague_services_research_hardware_for_the_Rhodium_Biomanufacturing-03_experiment_inside_the_International_Space_Station%27s_Kibo_labo.jpg",
+   "desc": "Iss072e277661 (Nov 23, 2024) --- NASA astronaut and Expedition 72 Flight Engineer Nick Hague services research hardware for the Rhodium Biomanufacturing-03 experiment inside the International Space Station's Kibo labo — iss072e277661 (Nov. 23, 2024) --- NASA a"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hubble_views_new_supernova_in_Messier_82.jpg/960px-Hubble_views_new_supernova_in_Messier_82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 499,
+   "license": "CC BY 4.0",
+   "artist": "New supernova image: NASA, ESA, A. Goobar (Stockholm University), and Hubble Her",
+   "page": "https://commons.wikimedia.org/wiki/File:Hubble_views_new_supernova_in_Messier_82.jpg",
+   "desc": "Hubble views new supernova in Messier 82 — Spiral galaxy Messier 82 has long been known for its remarkable starburst activity, caused by interactions with its near neighbour Messier 81, and has been the subject of intense study for many years. On 21 January 20"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2032
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+  "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-18T13:58:06Z",
+ "trimmed": true
+}
