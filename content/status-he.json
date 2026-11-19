@@ -1,7 +1,21 @@
 {
  "lang": "he",
- "exhausted_day": "2026-11-18",
+ "exhausted_day": "2026-11-19",
  "runs": [
+  {
+   "at": "2026-11-19T12:03:02Z",
+   "made": 5,
+   "rejected": 4,
+   "repaired": 0,
+   "calls": 61,
+   "notes": [
+    "אטלנטיס: האימפריה האבודה: fact-check",
+    "פרשת הסרג'נטים: pronunciation 12.8% of words misheard",
+    "יחסי ישראל – סרי לנקה: pronunciation 12.2% of words misheard",
+    "nasa:1276268: pronunciation 10.6% of words misheard",
+    "quota: Hebrew voices exhausted for today"
+   ]
+  },
   {
    "at": "2026-11-18T08:32:31Z",
    "made": 5,
