@@ -1,0 +1,462 @@
+{
+ "id": "en-9d0c8d90",
+ "lang": "en",
+ "title": "Self-Taught Architect Louis Abramson",
+ "cat": "history",
+ "emoji": "🏗️",
+ "sentences": [
+  "He designed buildings without a college degree.",
+  "Louis Abramson practiced architecture mostly in New York City.",
+  "He specialized in designing hospitals, nursing homes, and restaurants.",
+  "His work includes the Daughters of Jacob Geriatric Center in the Bronx.",
+  "Early on, he created Jewish Centers combining religious, cultural, and fitness needs.",
+  "He gained his training on-the-job at various architecture firms.",
+  "His diverse designs include Neo-Renaissance, Art Deco, and Moorish Revival styles."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.1,
+    0.1
+   ],
+   [
+    "designed",
+    0.1,
+    0.4
+   ],
+   [
+    "buildings",
+    0.4,
+    0.82
+   ],
+   [
+    "without",
+    0.82,
+    1.34
+   ],
+   [
+    "a",
+    1.34,
+    1.66
+   ],
+   [
+    "college",
+    1.68,
+    1.86
+   ],
+   [
+    "degree.",
+    1.86,
+    2.66
+   ],
+   [
+    "Louis",
+    2.9,
+    3.08
+   ],
+   [
+    "Abramson",
+    3.08,
+    3.62
+   ],
+   [
+    "practiced",
+    3.62,
+    3.98
+   ],
+   [
+    "architecture",
+    3.98,
+    4.62
+   ],
+   [
+    "mostly",
+    4.62,
+    5.1
+   ],
+   [
+    "in",
+    5.1,
+    5.36
+   ],
+   [
+    "New",
+    5.36,
+    5.48
+   ],
+   [
+    "York",
+    5.48,
+    5.64
+   ],
+   [
+    "City.",
+    5.64,
+    5.74
+   ],
+   [
+    "He",
+    6.46,
+    6.54
+   ],
+   [
+    "specialized",
+    6.56,
+    6.88
+   ],
+   [
+    "in",
+    6.88,
+    7.22
+   ],
+   [
+    "designing",
+    7.22,
+    7.46
+   ],
+   [
+    "hospitals,",
+    7.46,
+    8.26
+   ],
+   [
+    "nursing",
+    8.4,
+    8.6
+   ],
+   [
+    "homes,",
+    8.6,
+    9.12
+   ],
+   [
+    "and",
+    9.16,
+    9.2
+   ],
+   [
+    "restaurants.",
+    9.2,
+    9.48
+   ],
+   [
+    "His",
+    10.32,
+    10.4
+   ],
+   [
+    "work",
+    10.4,
+    10.6
+   ],
+   [
+    "includes",
+    10.66,
+    10.94
+   ],
+   [
+    "the",
+    10.94,
+    11.16
+   ],
+   [
+    "Daughters",
+    11.16,
+    11.5
+   ],
+   [
+    "of",
+    11.5,
+    11.66
+   ],
+   [
+    "Jacob",
+    11.66,
+    11.92
+   ],
+   [
+    "Geriatric",
+    11.92,
+    12.38
+   ],
+   [
+    "Center",
+    12.38,
+    12.78
+   ],
+   [
+    "in",
+    12.78,
+    12.98
+   ],
+   [
+    "the",
+    12.98,
+    13.06
+   ],
+   [
+    "Bronx.",
+    13.06,
+    13.32
+   ],
+   [
+    "Early",
+    14.16,
+    14.34
+   ],
+   [
+    "on,",
+    14.34,
+    14.7
+   ],
+   [
+    "he",
+    14.84,
+    14.86
+   ],
+   [
+    "created",
+    14.86,
+    15.22
+   ],
+   [
+    "Jewish",
+    15.22,
+    15.5
+   ],
+   [
+    "Centers",
+    15.5,
+    15.86
+   ],
+   [
+    "combining",
+    16.22,
+    16.38
+   ],
+   [
+    "religious,",
+    16.38,
+    17.2
+   ],
+   [
+    "cultural,",
+    17.32,
+    17.82
+   ],
+   [
+    "and",
+    17.88,
+    17.92
+   ],
+   [
+    "fitness",
+    17.92,
+    18.14
+   ],
+   [
+    "needs.",
+    18.14,
+    18.36
+   ],
+   [
+    "He",
+    19.2,
+    19.28
+   ],
+   [
+    "gained",
+    19.28,
+    19.5
+   ],
+   [
+    "his",
+    19.5,
+    19.64
+   ],
+   [
+    "training",
+    19.64,
+    19.88
+   ],
+   [
+    "on-the-job",
+    19.88,
+    20.58
+   ],
+   [
+    "at",
+    20.58,
+    20.8
+   ],
+   [
+    "various",
+    20.8,
+    21.16
+   ],
+   [
+    "architecture",
+    21.16,
+    21.56
+   ],
+   [
+    "firms.",
+    21.56,
+    22.16
+   ],
+   [
+    "His",
+    22.68,
+    22.78
+   ],
+   [
+    "diverse",
+    22.78,
+    23.08
+   ],
+   [
+    "designs",
+    23.08,
+    23.52
+   ],
+   [
+    "include",
+    23.52,
+    23.9
+   ],
+   [
+    "Neo-Renaissance,",
+    23.9,
+    24.85
+   ],
+   [
+    "Art",
+    25.04,
+    25.14
+   ],
+   [
+    "Deco,",
+    25.14,
+    25.78
+   ],
+   [
+    "and",
+    25.78,
+    25.78
+   ],
+   [
+    "Moorish",
+    25.78,
+    26.18
+   ],
+   [
+    "Revival",
+    26.18,
+    26.54
+   ],
+   [
+    "styles.",
+    26.54,
+    27.12
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   37,
+   49,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Architectural_illustration_of_proposed_New_Israel_Hospital.png/960px-Architectural_illustration_of_proposed_New_Israel_Hospital.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 417,
+   "license": "Public domain",
+   "artist": "Lewi Allen Abramson",
+   "page": "https://commons.wikimedia.org/wiki/File:Architectural_illustration_of_proposed_New_Israel_Hospital.png",
+   "desc": "Architectural illustration of proposed New Israel Hospital — Illustration of proposed New Israel Hospital building, by architect Lewis Allen Abramson"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Daughters_of_Jacob_building%2C_Bronx%2C_New_York_%28aerial_photograph%29.png/960px-Daughters_of_Jacob_building%2C_Bronx%2C_New_York_%28aerial_photograph%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 585,
+   "license": "CC BY 4.0",
+   "artist": "The OAM website notes copyrights for Mapbox and OpenStreetMap. The license state",
+   "page": "https://commons.wikimedia.org/wiki/File:Daughters_of_Jacob_building,_Bronx,_New_York_(aerial_photograph).png",
+   "desc": "Daughters of Jacob building, Bronx, New York (aerial photograph) — Aerial photograph of the Daughters of Jacob building, 1201 Findlay Avenue, Bronx, New York. Of particular note are the 8 wings surrounding the central core."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Astoria_Center_of_Israel%2C_27-35_Crescent_Street%2C_Astoria_%28Queens%29%2C_New_York._Shot_on_9-30-2012._Center_Shot._%28adjusted%29.jpg/960px-Astoria_Center_of_Israel%2C_27-35_Crescent_Street%2C_Astoria_%28Queens%29%2C_New_York._Shot_on_9-30-2012._Center_Shot._%28adjusted%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY-SA 3.0",
+   "artist": "MrShah2012",
+   "page": "https://commons.wikimedia.org/wiki/File:Astoria_Center_of_Israel,_27-35_Crescent_Street,_Astoria_(Queens),_New_York._Shot_on_9-30-2012._Center_Shot._(adjusted).jpg",
+   "desc": "Astoria Center of Israel, 27-35 Crescent Street, Astoria (Queens), New York. Shot on 9-30-2012. Center Shot. (adjusted) — SONY DSC"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Art_Deco_Building_on_1_Fifth_Avenue_behind_Washington_Square_Arch_2019-09-29_23-34.jpg/960px-Art_Deco_Building_on_1_Fifth_Avenue_behind_Washington_Square_Arch_2019-09-29_23-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1331,
+   "license": "CC BY-SA 4.0",
+   "artist": "Axel Tschentscher",
+   "page": "https://commons.wikimedia.org/wiki/File:Art_Deco_Building_on_1_Fifth_Avenue_behind_Washington_Square_Arch_2019-09-29_23-34.jpg",
+   "desc": "Art Deco Building on 1 Fifth Avenue behind Washington Square Arch 2019-09-29 23-34 — Art Deco Building by Harvey Wiley Corbett on 1 Fifth Avenue, rising behind Washington Square Arch"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q110313889",
+ "pron_wer": 0.014,
+ "angle": 0,
+ "source": {
+  "title": "Louis Abramson",
+  "url": "https://en.wikipedia.org/wiki/Louis_Abramson",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T23:26:11Z",
+ "trimmed": true
+}

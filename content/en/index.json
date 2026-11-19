@@ -237,7 +237,8 @@
   "1969 Curaçao uprising",
   "Vidya Balan",
   "Dracunculiasis",
-  "nasa:1497430"
+  "nasa:1497430",
+  "Banksia caleyi"
  ],
  "rejected": [
   "Chameleon",
@@ -1087,6 +1088,9 @@
   ],
   "nasa:1497430": [
    "Mars Rover Breaks Distance Record: Perseverance just broke the Mars driving record."
+  ],
+  "Banksia caleyi": [
+   "The Hidden Red Lantern: Meet the banksia with hidden red lanterns."
   ]
  },
  "exhausted": []
