@@ -207,7 +207,8 @@
   "nasa:1431752",
   "Alaska-class cruiser",
   "Montague Druitt",
-  "nasa:1306540"
+  "nasa:1306540",
+  "2009 Women's Cricket World Cup final"
  ],
  "rejected": [
   "Chameleon",
@@ -959,6 +960,9 @@
   ],
   "nasa:1306540": [
    "Webb's Tiny Space Discovery: Webb just found impossibly small brown dwarfs."
+  ],
+  "2009 Women's Cricket World Cup final": [
+   "England's 2009 Cricket Triumph: England won their first overseas World Cup title."
   ]
  },
  "exhausted": []

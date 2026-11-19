@@ -1,0 +1,419 @@
+{
+ "id": "en-c0b59f84",
+ "lang": "en",
+ "title": "NASA's Giant Space Sunshade",
+ "cat": "space",
+ "emoji": "☀️",
+ "sentences": [
+  "NASA’s new space sunshade is 20 feet tall.",
+  "It is currently being inspected in Colorado.",
+  "Two panels hold 864 interconnected solar cells.",
+  "These cells generate 2 kilowatts of power.",
+  "This electricity charges the spacecraft’s onboard batteries.",
+  "The mission will hunt for asteroids hidden near the Sun.",
+  "That region is notoriously difficult for ground telescopes to scan."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA’s",
+    0.35,
+    0.55
+   ],
+   [
+    "new",
+    0.55,
+    0.67
+   ],
+   [
+    "space",
+    0.67,
+    0.97
+   ],
+   [
+    "sunshade",
+    0.97,
+    1.57
+   ],
+   [
+    "is",
+    1.57,
+    1.73
+   ],
+   [
+    "20",
+    1.73,
+    2.11
+   ],
+   [
+    "feet",
+    2.11,
+    2.29
+   ],
+   [
+    "tall.",
+    2.29,
+    3.04
+   ],
+   [
+    "It",
+    3.11,
+    3.13
+   ],
+   [
+    "is",
+    3.13,
+    3.25
+   ],
+   [
+    "currently",
+    3.41,
+    3.51
+   ],
+   [
+    "being",
+    3.51,
+    3.79
+   ],
+   [
+    "inspected",
+    3.79,
+    4.29
+   ],
+   [
+    "in",
+    4.29,
+    4.47
+   ],
+   [
+    "Colorado.",
+    4.47,
+    4.57
+   ],
+   [
+    "Two",
+    5.61,
+    5.71
+   ],
+   [
+    "panels",
+    5.71,
+    6.03
+   ],
+   [
+    "hold",
+    6.03,
+    6.31
+   ],
+   [
+    "864",
+    6.31,
+    7.39
+   ],
+   [
+    "interconnected",
+    7.43,
+    7.95
+   ],
+   [
+    "solar",
+    7.95,
+    8.51
+   ],
+   [
+    "cells.",
+    8.51,
+    8.83
+   ],
+   [
+    "These",
+    9.39,
+    9.49
+   ],
+   [
+    "cells",
+    9.49,
+    9.69
+   ],
+   [
+    "generate",
+    9.69,
+    10.07
+   ],
+   [
+    "2",
+    10.07,
+    10.35
+   ],
+   [
+    "kilowatts",
+    10.35,
+    10.81
+   ],
+   [
+    "of",
+    10.81,
+    10.87
+   ],
+   [
+    "power.",
+    10.87,
+    11.13
+   ],
+   [
+    "This",
+    12.07,
+    12.17
+   ],
+   [
+    "electricity",
+    12.17,
+    12.57
+   ],
+   [
+    "charges",
+    12.57,
+    12.95
+   ],
+   [
+    "the",
+    12.95,
+    13.15
+   ],
+   [
+    "spacecraft’s",
+    13.15,
+    13.73
+   ],
+   [
+    "onboard",
+    13.73,
+    13.89
+   ],
+   [
+    "batteries.",
+    13.89,
+    14.35
+   ],
+   [
+    "The",
+    15.15,
+    15.25
+   ],
+   [
+    "mission",
+    15.25,
+    15.47
+   ],
+   [
+    "will",
+    15.47,
+    15.69
+   ],
+   [
+    "hunt",
+    15.69,
+    15.89
+   ],
+   [
+    "for",
+    15.89,
+    16.03
+   ],
+   [
+    "asteroids",
+    16.33,
+    16.43
+   ],
+   [
+    "hidden",
+    16.43,
+    16.67
+   ],
+   [
+    "near",
+    16.67,
+    16.87
+   ],
+   [
+    "the",
+    16.87,
+    16.99
+   ],
+   [
+    "Sun.",
+    16.99,
+    17.19
+   ],
+   [
+    "That",
+    17.89,
+    17.99
+   ],
+   [
+    "region",
+    17.99,
+    18.23
+   ],
+   [
+    "is",
+    18.23,
+    18.49
+   ],
+   [
+    "notoriously",
+    18.49,
+    19.27
+   ],
+   [
+    "difficult",
+    19.27,
+    19.59
+   ],
+   [
+    "for",
+    19.59,
+    19.87
+   ],
+   [
+    "ground",
+    19.91,
+    20.11
+   ],
+   [
+    "telescopes",
+    20.11,
+    20.57
+   ],
+   [
+    "to",
+    20.57,
+    20.81
+   ],
+   [
+    "scan.",
+    20.81,
+    20.93
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   22,
+   29,
+   36,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Spacecraft_lucy_clamp_shock_check_1.jpg/960px-Spacecraft_lucy_clamp_shock_check_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1082,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Spacecraft_lucy_clamp_shock_check_1.jpg",
+   "desc": "Spacecraft lucy clamp shock check 1 — in March 2021, NASA’s Lucy spacecraft undergoes its Clampband Shock Test at Lockheed Martin Space’s Littleton, Colorado, facility. This activity simulates the release of Lucy from the launch vehicle and ensures the space"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Dawn_solar_panel.jpg/960px-Dawn_solar_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "Public domain",
+   "artist": "NASA/George Shelton",
+   "page": "https://commons.wikimedia.org/wiki/File:Dawn_solar_panel.jpg",
+   "desc": "Dawn solar panel — In a clean room at Astrotech, the solar panels of the Dawn spacecraft are extended to their full extent. The panels will be tested and undergo black light inspection. Dawn's mission is to explore two of the asteroid belt"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Black_light_test_of_Dawns_solar_cells.jpg/960px-Black_light_test_of_Dawns_solar_cells.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "Public domain",
+   "artist": "Photo credit: NASA/George Shelton",
+   "page": "https://commons.wikimedia.org/wiki/File:Black_light_test_of_Dawns_solar_cells.jpg",
+   "desc": "Black light test of Dawns solar cells — The GaAs triple-junction[1] solar cells of Dawn are tested with black light."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Apollo_Command_Module_Battery_Charger.jpg/960px-Apollo_Command_Module_Battery_Charger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 442,
+   "license": "CC BY 2.0",
+   "artist": "Steve Jurvetson",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_Command_Module_Battery_Charger.jpg",
+   "desc": "Apollo Command Module Battery Charger — Apollo Command Module Battery Charger S/N 4. The battery charger for the Apollo Command Module was manufactured by ITT, and built in March, 1964. This was the fourth one built. Installed in the Apollo Command Module, thi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Positions_of_Near_Earth_Asteroids_at_time_of_discovery.png/960px-Positions_of_Near_Earth_Asteroids_at_time_of_discovery.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 186,
+   "license": "CC BY-SA 4.0",
+   "artist": "Rafflesgluft",
+   "page": "https://commons.wikimedia.org/wiki/File:Positions_of_Near_Earth_Asteroids_at_time_of_discovery.png",
+   "desc": "Positions of Near Earth Asteroids at time of discovery — This diagram shows impact of the opposition effect on the discovery of Near-Earth objects. Over half (53%) of the discoveries were made in 3.8% of the sky, in a 22.5° cone facing directly away from the S"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 20,
+   "unit": "ft",
+   "label": "sunshade height"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "solar cells",
+   "box": [
+    0,
+    30,
+    920,
+    760
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "kW",
+   "label": "power output"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "NEO Surveyor’s Sunshade Gets Inspected",
+  "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T12:53:15Z",
+ "trimmed": true
+}
