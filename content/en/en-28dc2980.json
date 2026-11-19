@@ -1,0 +1,424 @@
+{
+ "id": "en-28dc2980",
+ "lang": "en",
+ "title": "England's 2009 Cricket Triumph",
+ "cat": "history",
+ "emoji": "🏏",
+ "sentences": [
+  "England won their first overseas World Cup title.",
+  "The 2009 final happened at North Sydney Oval.",
+  "England defeated New Zealand by 4 wickets.",
+  "These teams previously met in the 1993 final.",
+  "New Zealand chose to bat after winning the toss.",
+  "They were bowled out for only 166 runs.",
+  "Lucy Doolan top-scored with 48 batting at number nine."
+ ],
+ "tim": {
+  "w": [
+   [
+    "England",
+    0.35,
+    0.35
+   ],
+   [
+    "won",
+    0.35,
+    0.71
+   ],
+   [
+    "their",
+    0.71,
+    0.93
+   ],
+   [
+    "first",
+    0.93,
+    1.27
+   ],
+   [
+    "overseas",
+    1.27,
+    2.05
+   ],
+   [
+    "World",
+    2.05,
+    2.41
+   ],
+   [
+    "Cup",
+    2.41,
+    2.67
+   ],
+   [
+    "title.",
+    2.67,
+    3.33
+   ],
+   [
+    "The",
+    3.35,
+    3.37
+   ],
+   [
+    "2009",
+    3.41,
+    3.91
+   ],
+   [
+    "final",
+    3.91,
+    4.43
+   ],
+   [
+    "happened",
+    4.71,
+    4.81
+   ],
+   [
+    "at",
+    4.81,
+    5.05
+   ],
+   [
+    "North",
+    5.05,
+    5.33
+   ],
+   [
+    "Sydney",
+    5.33,
+    5.73
+   ],
+   [
+    "Oval.",
+    5.73,
+    6.13
+   ],
+   [
+    "England",
+    6.83,
+    7.03
+   ],
+   [
+    "defeated",
+    7.03,
+    7.35
+   ],
+   [
+    "New",
+    7.35,
+    7.59
+   ],
+   [
+    "Zealand",
+    7.59,
+    7.83
+   ],
+   [
+    "by",
+    7.83,
+    8.01
+   ],
+   [
+    "4",
+    8.01,
+    8.31
+   ],
+   [
+    "wickets.",
+    8.31,
+    8.45
+   ],
+   [
+    "These",
+    9.07,
+    9.13
+   ],
+   [
+    "teams",
+    9.21,
+    9.33
+   ],
+   [
+    "previously",
+    9.33,
+    9.63
+   ],
+   [
+    "met",
+    9.63,
+    10.03
+   ],
+   [
+    "in",
+    10.03,
+    10.21
+   ],
+   [
+    "the",
+    10.21,
+    10.27
+   ],
+   [
+    "1993",
+    10.27,
+    10.73
+   ],
+   [
+    "final.",
+    10.73,
+    11.11
+   ],
+   [
+    "New",
+    11.95,
+    11.99
+   ],
+   [
+    "Zealand",
+    11.99,
+    12.27
+   ],
+   [
+    "chose",
+    12.27,
+    12.49
+   ],
+   [
+    "to",
+    12.49,
+    12.71
+   ],
+   [
+    "bat",
+    12.71,
+    12.87
+   ],
+   [
+    "after",
+    12.87,
+    13.19
+   ],
+   [
+    "winning",
+    13.23,
+    13.41
+   ],
+   [
+    "the",
+    13.41,
+    13.57
+   ],
+   [
+    "toss.",
+    13.57,
+    13.67
+   ],
+   [
+    "They",
+    14.21,
+    14.27
+   ],
+   [
+    "were",
+    14.27,
+    14.37
+   ],
+   [
+    "bowled",
+    14.37,
+    14.67
+   ],
+   [
+    "out",
+    14.67,
+    14.77
+   ],
+   [
+    "for",
+    14.77,
+    14.95
+   ],
+   [
+    "only",
+    15.05,
+    15.23
+   ],
+   [
+    "166",
+    15.23,
+    16.49
+   ],
+   [
+    "runs.",
+    16.49,
+    16.87
+   ],
+   [
+    "Lucy",
+    17.57,
+    17.73
+   ],
+   [
+    "Doolan",
+    17.73,
+    18.17
+   ],
+   [
+    "top-scored",
+    18.17,
+    18.65
+   ],
+   [
+    "with",
+    18.65,
+    18.75
+   ],
+   [
+    "48",
+    18.89,
+    19.27
+   ],
+   [
+    "batting",
+    19.27,
+    19.69
+   ],
+   [
+    "at",
+    19.69,
+    19.77
+   ],
+   [
+    "number",
+    19.77,
+    19.95
+   ],
+   [
+    "nine.",
+    19.95,
+    20.35
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   23,
+   31,
+   40,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/ENGLAND_CRICKET_TEAM_%283385718581%29.jpg/960px-ENGLAND_CRICKET_TEAM_%283385718581%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 473,
+   "license": "CC BY-SA 2.0",
+   "artist": "NAPARAZZI",
+   "page": "https://commons.wikimedia.org/wiki/File:ENGLAND_CRICKET_TEAM_(3385718581).jpg",
+   "desc": "ENGLAND CRICKET TEAM (3385718581) — England Team - ICC Women's Cricket World Cup, Sydney, March 2009."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/North_Sydney_Oval.jpg/960px-North_Sydney_Oval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 475,
+   "license": "CC BY-SA 4.0",
+   "artist": "Blank-2018",
+   "page": "https://commons.wikimedia.org/wiki/File:North_Sydney_Oval.jpg",
+   "desc": "North Sydney Oval — North Sydney Oval"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Andrew_Leonard_in_toss_flip_in_a_match.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 4.0",
+   "artist": "Andrew Leonard",
+   "page": "https://commons.wikimedia.org/wiki/File:Andrew_Leonard_in_toss_flip_in_a_match.jpg",
+   "desc": "Andrew Leonard in toss flip in a match — Andrew Leonard in toss flip in a match."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Loughton_Cricket_Club_ground_scoreboard_at_Loughton%2C_Essex%2C_England.jpg/960px-Loughton_Cricket_Club_ground_scoreboard_at_Loughton%2C_Essex%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "CC BY-SA 4.0",
+   "artist": "Acabashi",
+   "page": "https://commons.wikimedia.org/wiki/File:Loughton_Cricket_Club_ground_scoreboard_at_Loughton,_Essex,_England.jpg",
+   "desc": "Loughton Cricket Club ground scoreboard at Loughton, Essex, England — Cricket ground scoreboard during a Saturday early season public cricket match between Loughton Cricket Club 1st XI and Ardleigh Green &amp; Havering-Atte-Bower Cricket Club 1st XI, at Lought"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Lucy_Doolan.jpg/960px-Lucy_Doolan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 937,
+   "license": "CC BY-SA 2.0",
+   "artist": "paddynapper",
+   "page": "https://commons.wikimedia.org/wiki/File:Lucy_Doolan.jpg",
+   "desc": "Lucy Doolan — Lucy Doolan of New Zealand - ICC Womens Cricket World Cup - Sydney, March 2009."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  0,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 2009,
+   "unit": "WC",
+   "label": "first overseas title"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "wickets",
+   "label": "England defeated New Zealand"
+  },
+  {
+   "type": "timeline",
+   "year": 1993
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 166,
+   "unit": "runs",
+   "label": "bowled out"
+  },
+  {
+   "type": "stat",
+   "value": 48,
+   "unit": "runs",
+   "label": "Lucy Doolan top-scored"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4615172",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "2009 Women's Cricket World Cup final",
+  "url": "https://en.wikipedia.org/wiki/2009_Women%27s_Cricket_World_Cup_final",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T12:33:57Z",
+ "trimmed": true
+}
