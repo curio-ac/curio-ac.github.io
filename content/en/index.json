@@ -201,7 +201,8 @@
   "nasa:1490244",
   "William Shakespeare",
   "Jane Cobden",
-  "Ormond Beatty"
+  "Ormond Beatty",
+  "2006 Bank of America 500"
  ],
  "rejected": [
   "Chameleon",
@@ -935,6 +936,9 @@
   ],
   "Ormond Beatty": [
    "Centre College's First Lay President: Centre College broke tradition with this president."
+  ],
+  "2006 Bank of America 500": [
+   "A Wild NASCAR Race: The lead changed constantly in this race."
   ]
  },
  "exhausted": []
