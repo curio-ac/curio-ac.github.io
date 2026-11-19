@@ -1,0 +1,401 @@
+{
+ "id": "en-b6a35c1e",
+ "lang": "en",
+ "title": "The Soviet Union's Armenian Marshal",
+ "cat": "history",
+ "emoji": "🎖️",
+ "sentences": [
+  "He was a Soviet Marshal born Armenian.",
+  "Ivan Bagramyan led the 1st Baltic Front during World War II.",
+  "He famously pushed German forces out of the Baltic countries.",
+  "Bagramyan was only the second non-Slavic officer to command a front.",
+  "Surprisingly, he did not join the Communist Party until 1941.",
+  "This was quite atypical for a high-ranking Soviet military officer."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0,
+    0.1
+   ],
+   [
+    "was",
+    0.1,
+    0.28
+   ],
+   [
+    "a",
+    0.28,
+    0.4
+   ],
+   [
+    "Soviet",
+    0.4,
+    0.82
+   ],
+   [
+    "Marshal",
+    0.82,
+    1.34
+   ],
+   [
+    "born",
+    1.34,
+    1.66
+   ],
+   [
+    "Armenian.",
+    1.66,
+    2.38
+   ],
+   [
+    "Ivan",
+    2.94,
+    3.22
+   ],
+   [
+    "Bagramyan",
+    3.22,
+    3.92
+   ],
+   [
+    "led",
+    3.92,
+    4.26
+   ],
+   [
+    "the",
+    4.26,
+    4.42
+   ],
+   [
+    "1st",
+    4.42,
+    4.82
+   ],
+   [
+    "Baltic",
+    4.86,
+    5.2
+   ],
+   [
+    "Front",
+    5.32,
+    5.44
+   ],
+   [
+    "during",
+    5.44,
+    5.76
+   ],
+   [
+    "World",
+    5.76,
+    6.0
+   ],
+   [
+    "War",
+    6.0,
+    6.22
+   ],
+   [
+    "II.",
+    6.22,
+    6.56
+   ],
+   [
+    "He",
+    7.06,
+    7.16
+   ],
+   [
+    "famously",
+    7.16,
+    7.54
+   ],
+   [
+    "pushed",
+    7.54,
+    7.98
+   ],
+   [
+    "German",
+    7.98,
+    8.3
+   ],
+   [
+    "forces",
+    8.3,
+    8.72
+   ],
+   [
+    "out",
+    8.72,
+    9.06
+   ],
+   [
+    "of",
+    9.06,
+    9.18
+   ],
+   [
+    "the",
+    9.18,
+    9.28
+   ],
+   [
+    "Baltic",
+    9.52,
+    9.62
+   ],
+   [
+    "countries.",
+    9.62,
+    10.08
+   ],
+   [
+    "Bagramyan",
+    10.64,
+    11.1
+   ],
+   [
+    "was",
+    11.1,
+    11.3
+   ],
+   [
+    "only",
+    11.3,
+    11.56
+   ],
+   [
+    "the",
+    11.56,
+    11.72
+   ],
+   [
+    "second",
+    11.72,
+    12.08
+   ],
+   [
+    "non-Slavic",
+    12.26,
+    12.9
+   ],
+   [
+    "officer",
+    12.9,
+    13.26
+   ],
+   [
+    "to",
+    13.26,
+    13.44
+   ],
+   [
+    "command",
+    13.48,
+    13.78
+   ],
+   [
+    "a",
+    13.78,
+    13.94
+   ],
+   [
+    "front.",
+    13.94,
+    14.22
+   ],
+   [
+    "Surprisingly,",
+    15.02,
+    15.56
+   ],
+   [
+    "he",
+    15.76,
+    15.78
+   ],
+   [
+    "did",
+    15.78,
+    15.9
+   ],
+   [
+    "not",
+    15.9,
+    16.12
+   ],
+   [
+    "join",
+    16.12,
+    16.44
+   ],
+   [
+    "the",
+    16.44,
+    16.56
+   ],
+   [
+    "Communist",
+    16.56,
+    16.86
+   ],
+   [
+    "Party",
+    16.86,
+    17.28
+   ],
+   [
+    "until",
+    17.28,
+    17.56
+   ],
+   [
+    "1941.",
+    17.56,
+    18.7
+   ],
+   [
+    "This",
+    19.22,
+    19.32
+   ],
+   [
+    "was",
+    19.32,
+    19.46
+   ],
+   [
+    "quite",
+    19.46,
+    19.72
+   ],
+   [
+    "atypical",
+    19.72,
+    20.32
+   ],
+   [
+    "for",
+    20.32,
+    20.56
+   ],
+   [
+    "a",
+    20.58,
+    20.68
+   ],
+   [
+    "high-ranking",
+    20.68,
+    21.16
+   ],
+   [
+    "Soviet",
+    21.16,
+    21.4
+   ],
+   [
+    "military",
+    21.4,
+    21.86
+   ],
+   [
+    "officer.",
+    21.86,
+    22.1
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   28,
+   39,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/1987_CPA_5895.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1021,
+   "license": "Public domain",
+   "artist": "Scanned and processed by Mariluna",
+   "page": "https://commons.wikimedia.org/wiki/File:1987_CPA_5895.jpg",
+   "desc": "1987 CPA 5895 — А Soviet Union stamp, Military persons of the USSR 90th Birth Anniversary of I.Kh.Bagramyan. Date of issue: 2nd December 1987. Designer: V. Nikitin Michel catalogue number: 5778. 5 K. agate. Portrait of marshal Ivan Khri"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/BagrationMap2.jpg/960px-BagrationMap2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 548,
+   "license": "Public domain",
+   "artist": "United States Army",
+   "page": "https://commons.wikimedia.org/wiki/File:BagrationMap2.jpg",
+   "desc": "BagrationMap2 — Map of deployments during Operation Bagration, June–August 1944"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ivan_Bagramyan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1008,
+   "license": "CC BY 4.0",
+   "artist": "Министерство обороны Российской Федерации",
+   "page": "https://commons.wikimedia.org/wiki/File:Ivan_Bagramyan_2.jpg",
+   "desc": "Ivan Bagramyan 2 — Иван Христофорович Баграмян (1897 — 1982)"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "",
+   "label": "non-Slavic officer"
+  },
+  {
+   "type": "timeline",
+   "year": 1941
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q48112",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Ivan Bagramyan",
+  "url": "https://en.wikipedia.org/wiki/Ivan_Bagramyan",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T13:17:47Z",
+ "trimmed": true
+}

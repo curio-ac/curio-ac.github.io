@@ -209,7 +209,8 @@
   "Montague Druitt",
   "nasa:1306540",
   "2009 Women's Cricket World Cup final",
-  "nasa:1504163"
+  "nasa:1504163",
+  "Cutthroat trout"
  ],
  "rejected": [
   "Chameleon",
@@ -967,6 +968,9 @@
   ],
   "nasa:1504163": [
    "NASA's Giant Space Sunshade: NASA’s new space sunshade is 20 feet tall."
+  ],
+  "Cutthroat trout": [
+   "The Cutthroat Trout Mystery: This fish has a red-stained jaw."
   ]
  },
  "exhausted": []
