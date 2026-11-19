@@ -1,0 +1,417 @@
+{
+ "id": "en-d05bc84f",
+ "lang": "en",
+ "title": "Vidya Balan's Bold Career",
+ "cat": "art",
+ "emoji": "🎬",
+ "sentences": [
+  "She changed how women appear in Hindi cinema.",
+  "Vidya Balan started acting in a 1995 sitcom.",
+  "While studying sociology, she struggled to launch her film career.",
+  "She debuted in a 2003 Bengali film.",
+  "Her first Hindi role in Parineeta earned her praise.",
+  "Later, she starred in five successful films back-to-back.",
+  "India honored her with the Padma Shri in 2014."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.18,
+    0.3
+   ],
+   [
+    "changed",
+    0.3,
+    0.78
+   ],
+   [
+    "how",
+    0.78,
+    0.94
+   ],
+   [
+    "women",
+    0.94,
+    1.16
+   ],
+   [
+    "appear",
+    1.16,
+    1.52
+   ],
+   [
+    "in",
+    1.52,
+    1.74
+   ],
+   [
+    "Hindi",
+    1.74,
+    2.0
+   ],
+   [
+    "cinema.",
+    2.0,
+    2.65
+   ],
+   [
+    "Vidya",
+    2.96,
+    3.18
+   ],
+   [
+    "Balan",
+    3.18,
+    3.48
+   ],
+   [
+    "started",
+    3.48,
+    3.76
+   ],
+   [
+    "acting",
+    3.76,
+    4.16
+   ],
+   [
+    "in",
+    4.26,
+    4.42
+   ],
+   [
+    "a",
+    4.42,
+    4.5
+   ],
+   [
+    "1995",
+    4.5,
+    4.94
+   ],
+   [
+    "sitcom.",
+    4.94,
+    5.69
+   ],
+   [
+    "While",
+    6.24,
+    6.3
+   ],
+   [
+    "studying",
+    6.3,
+    6.6
+   ],
+   [
+    "sociology,",
+    6.6,
+    7.35
+   ],
+   [
+    "she",
+    7.66,
+    7.68
+   ],
+   [
+    "struggled",
+    7.68,
+    7.98
+   ],
+   [
+    "to",
+    7.98,
+    8.2
+   ],
+   [
+    "launch",
+    8.2,
+    8.38
+   ],
+   [
+    "her",
+    8.38,
+    8.56
+   ],
+   [
+    "film",
+    8.56,
+    8.76
+   ],
+   [
+    "career.",
+    8.76,
+    8.86
+   ],
+   [
+    "She",
+    9.56,
+    9.64
+   ],
+   [
+    "debuted",
+    9.64,
+    9.82
+   ],
+   [
+    "in",
+    9.82,
+    10.18
+   ],
+   [
+    "a",
+    10.18,
+    10.28
+   ],
+   [
+    "2003",
+    10.34,
+    10.9
+   ],
+   [
+    "Bengali",
+    10.9,
+    11.36
+   ],
+   [
+    "film.",
+    11.36,
+    11.48
+   ],
+   [
+    "Her",
+    12.16,
+    12.24
+   ],
+   [
+    "first",
+    12.24,
+    12.42
+   ],
+   [
+    "Hindi",
+    12.56,
+    12.7
+   ],
+   [
+    "role",
+    12.7,
+    12.98
+   ],
+   [
+    "in",
+    12.98,
+    13.14
+   ],
+   [
+    "Parineeta",
+    13.14,
+    13.68
+   ],
+   [
+    "earned",
+    13.68,
+    14.16
+   ],
+   [
+    "her",
+    14.16,
+    14.32
+   ],
+   [
+    "praise.",
+    14.32,
+    14.64
+   ],
+   [
+    "Later,",
+    15.24,
+    15.64
+   ],
+   [
+    "she",
+    15.74,
+    15.74
+   ],
+   [
+    "starred",
+    15.74,
+    16.0
+   ],
+   [
+    "in",
+    16.0,
+    16.16
+   ],
+   [
+    "five",
+    16.16,
+    16.46
+   ],
+   [
+    "successful",
+    16.46,
+    16.9
+   ],
+   [
+    "films",
+    16.9,
+    17.36
+   ],
+   [
+    "back-to-back.",
+    17.36,
+    18.11
+   ],
+   [
+    "India",
+    18.74,
+    18.92
+   ],
+   [
+    "honored",
+    18.92,
+    19.24
+   ],
+   [
+    "her",
+    19.24,
+    19.46
+   ],
+   [
+    "with",
+    19.46,
+    19.66
+   ],
+   [
+    "the",
+    19.66,
+    19.76
+   ],
+   [
+    "Padma",
+    19.86,
+    20.08
+   ],
+   [
+    "Shri",
+    20.08,
+    20.4
+   ],
+   [
+    "in",
+    20.4,
+    20.58
+   ],
+   [
+    "2014.",
+    20.58,
+    21.13
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   26,
+   33,
+   42,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Vidya_Balan_at_the_63rd_Filmfare_Awards.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1086,
+   "license": "CC BY 3.0",
+   "artist": "Bollywood Hungama",
+   "page": "https://commons.wikimedia.org/wiki/File:Vidya_Balan_at_the_63rd_Filmfare_Awards.jpg",
+   "desc": "Vidya Balan at the 63rd Filmfare Awards — Vidya Balan at the 63rd Filmfare Awards in 2017"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vidyabalan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "Bollywood Hungama",
+   "page": "https://commons.wikimedia.org/wiki/File:Vidyabalan.jpg",
+   "desc": "Vidyabalan — Balan at Lage Raho Munnabhai book launch"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Vidya_at_GQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1086,
+   "license": "CC BY 3.0",
+   "artist": "Bollywood Hungama",
+   "page": "https://commons.wikimedia.org/wiki/File:Vidya_at_GQ_(cropped).jpg",
+   "desc": "Vidya at GQ (cropped) — Vidya Balan at the GQ Men of the year awards, 2012"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/The_President%2C_Shri_Pranab_Mukherjee_presenting_the_Padma_Shri_Award_to_Ms._Vidya_Balan%2C_at_a_Civil_Investiture_Ceremony%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_March_31%2C_2014.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "GODL-India",
+   "artist": "President's Secretariat",
+   "page": "https://commons.wikimedia.org/wiki/File:The_President,_Shri_Pranab_Mukherjee_presenting_the_Padma_Shri_Award_to_Ms._Vidya_Balan,_at_a_Civil_Investiture_Ceremony,_at_Rashtrapati_Bhavan,_in_New_Delhi_on_March_31,_2014.jpg",
+   "desc": "The President, Shri Pranab Mukherjee presenting the Padma Shri Award to Ms. Vidya Balan, at a Civil Investiture Ceremony, at Rashtrapati Bhavan, in New Delhi on March 31, 2014 — The President, Shri Pranab Mukherjee presenting the Padma Shri Award to Ms. Vidya "
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1995
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2003
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "",
+   "label": "successful films"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q159166",
+ "pron_wer": 0.049,
+ "angle": 0,
+ "source": {
+  "title": "Vidya Balan",
+  "url": "https://en.wikipedia.org/wiki/Vidya_Balan",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T22:30:51Z",
+ "trimmed": true
+}
