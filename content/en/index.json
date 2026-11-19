@@ -212,7 +212,8 @@
   "nasa:1504163",
   "Cutthroat trout",
   "Ivan Bagramyan",
-  "nasa:1509114"
+  "nasa:1509114",
+  "Marjory Stoneman Douglas"
  ],
  "rejected": [
   "Chameleon",
@@ -979,6 +980,9 @@
   ],
   "nasa:1509114": [
    "NASA's Mars Slingshot: NASA just slingshotted two spacecraft toward Mars."
+  ],
+  "Marjory Stoneman Douglas": [
+   "The River of Grass Crusader: She defended a swamp for 29 years."
   ]
  },
  "exhausted": []

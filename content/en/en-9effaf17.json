@@ -1,0 +1,412 @@
+{
+ "id": "en-9effaf17",
+ "lang": "en",
+ "title": "Curiosity Finds Mysterious Mars Pits",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Mars just revealed a brand new mystery.",
+  "Curiosity rover found strange, shallow pits across the bedrock.",
+  "These voids look different than the usual weather-worn pebbles.",
+  "Scientists are using robotic arm cameras to map their structure.",
+  "The rover also monitored a regional dust storm nearby.",
+  "Even after 14 years, the Red Planet still surprises us."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Mars",
+    0.22,
+    0.36
+   ],
+   [
+    "just",
+    0.36,
+    0.6
+   ],
+   [
+    "revealed",
+    0.6,
+    0.96
+   ],
+   [
+    "a",
+    0.96,
+    1.16
+   ],
+   [
+    "brand",
+    1.16,
+    1.52
+   ],
+   [
+    "new",
+    1.52,
+    1.88
+   ],
+   [
+    "mystery.",
+    1.88,
+    2.34
+   ],
+   [
+    "Curiosity",
+    2.78,
+    3.14
+   ],
+   [
+    "rover",
+    3.14,
+    3.42
+   ],
+   [
+    "found",
+    3.42,
+    3.7
+   ],
+   [
+    "strange,",
+    3.7,
+    4.4
+   ],
+   [
+    "shallow",
+    4.54,
+    4.66
+   ],
+   [
+    "pits",
+    4.66,
+    4.98
+   ],
+   [
+    "across",
+    5.24,
+    5.34
+   ],
+   [
+    "the",
+    5.54,
+    5.64
+   ],
+   [
+    "bedrock.",
+    5.64,
+    5.82
+   ],
+   [
+    "These",
+    6.4,
+    6.46
+   ],
+   [
+    "voids",
+    6.46,
+    6.74
+   ],
+   [
+    "look",
+    6.74,
+    6.84
+   ],
+   [
+    "different",
+    6.84,
+    7.1
+   ],
+   [
+    "than",
+    7.1,
+    7.26
+   ],
+   [
+    "the",
+    7.26,
+    7.36
+   ],
+   [
+    "usual",
+    7.36,
+    7.68
+   ],
+   [
+    "weather-worn",
+    7.68,
+    8.34
+   ],
+   [
+    "pebbles.",
+    8.34,
+    8.44
+   ],
+   [
+    "Scientists",
+    9.46,
+    9.62
+   ],
+   [
+    "are",
+    9.62,
+    9.84
+   ],
+   [
+    "using",
+    9.84,
+    10.0
+   ],
+   [
+    "robotic",
+    10.0,
+    10.36
+   ],
+   [
+    "arm",
+    10.36,
+    10.64
+   ],
+   [
+    "cameras",
+    10.64,
+    11.04
+   ],
+   [
+    "to",
+    11.16,
+    11.26
+   ],
+   [
+    "map",
+    11.26,
+    11.46
+   ],
+   [
+    "their",
+    11.46,
+    11.62
+   ],
+   [
+    "structure.",
+    11.62,
+    11.92
+   ],
+   [
+    "The",
+    12.76,
+    12.84
+   ],
+   [
+    "rover",
+    12.84,
+    13.02
+   ],
+   [
+    "also",
+    13.02,
+    13.38
+   ],
+   [
+    "monitored",
+    13.38,
+    13.74
+   ],
+   [
+    "a",
+    13.74,
+    13.98
+   ],
+   [
+    "regional",
+    13.98,
+    14.32
+   ],
+   [
+    "dust",
+    14.32,
+    14.6
+   ],
+   [
+    "storm",
+    14.6,
+    14.94
+   ],
+   [
+    "nearby.",
+    14.94,
+    15.38
+   ],
+   [
+    "Even",
+    16.14,
+    16.24
+   ],
+   [
+    "after",
+    16.24,
+    16.44
+   ],
+   [
+    "14",
+    16.62,
+    16.8
+   ],
+   [
+    "years,",
+    16.8,
+    17.3
+   ],
+   [
+    "the",
+    17.7,
+    17.76
+   ],
+   [
+    "Red",
+    17.76,
+    17.9
+   ],
+   [
+    "Planet",
+    17.9,
+    18.2
+   ],
+   [
+    "still",
+    18.2,
+    18.64
+   ],
+   [
+    "surprises",
+    18.64,
+    19.06
+   ],
+   [
+    "us.",
+    19.06,
+    19.16
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   35,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/960px-OSIRIS_Mars_true_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "ESA &amp; MPS for OSIRIS Team MPS/UPD/LAM/IAA/RSSD/INTA/UPM/DASP/IDA, CC BY-SA 3",
+   "page": "https://commons.wikimedia.org/wiki/File:OSIRIS_Mars_true_color.jpg",
+   "desc": "OSIRIS Mars true color — True color image of Mars taken by the OSIRIS instrument on the ESA Rosetta spacecraft during its February 2007 flyby of the planet. The image was generated using the OSIRIS orange (red), green, and blue filters.Alternati"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/PIA17267-MarsCuriosityRover-PointOutlook-Outcrop-Detail-20130613.jpg/960px-PIA17267-MarsCuriosityRover-PointOutlook-Outcrop-Detail-20130613.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 538,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA17267-MarsCuriosityRover-PointOutlook-Outcrop-Detail-20130613.jpg",
+   "desc": "PIA17267-MarsCuriosityRover-PointOutlook-Outcrop-Detail-20130613 — PIA17267: Detail in \"Point Lake\" Outcrop http://photojournal.jpl.nasa.gov/catalog/PIA17267 (NOTE: Also, see \"Point Lake\" area context images on June 12, 2013 and February 20, 2013.) The Mars Ha"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/PIA00989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 654,
+   "license": "Public domain",
+   "artist": "NASA/JPL",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA00989.jpg",
+   "desc": "PIA00989 — This close-up Sojourner rover image of a small rock shows that weathering has etched-out pebbles to produce sockets. In the image, sunlight is coming from the upper left. Sockets (with shadows on top) are visible at the "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg/960px-PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1001,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/Malin Space Science Systems Derivative work including grading, ",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg",
+   "desc": "PIA16239 High-Resolution Self-Portrait by Curiosity Rover Arm Camera — On Sol 84 (Oct. 31, 2012), NASA's Curiosity rover used the Mars Hand Lens Imager (MAHLI) to capture this set of 55 high-resolution images, which were stitched together to create this full-c"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Dust_storm_on_Mars_%28opo0534b%29.jpg/960px-Dust_storm_on_Mars_%28opo0534b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "Public domain",
+   "artist": "NASA, ESA, The Hubble Heritage Team (STScI/AURA), J. Bell (Cornell University) a",
+   "page": "https://commons.wikimedia.org/wiki/File:Dust_storm_on_Mars_(opo0534b).jpg",
+   "desc": "Dust storm on Mars (opo0534b) — Hubble images of the Sinus Meridiani region taken on October 28, 2005 show evidence of a regional dust storm. A comparable Hubble image taken on June 26, 2001 of the same region shows a storm-free environment. The dust s"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 2.0",
+   "artist": "Kevin Gill from Los Angeles, CA, United States",
+   "page": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+   "desc": "Mars - August 30 2021 - Flickr - Kevin M. Gill — Filters: f635, f546, f437 CU/LASP EMM/EXI ITF/Kevin M. Gill"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.01,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "robotic arm",
+   "box": [
+    372,
+    494,
+    813,
+    677
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 14,
+   "unit": "years",
+   "label": "on the surface"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T14:22:08Z",
+ "trimmed": true
+}
