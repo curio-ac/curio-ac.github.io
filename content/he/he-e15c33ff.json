@@ -1,0 +1,391 @@
+{
+ "id": "he-e15c33ff",
+ "lang": "he",
+ "title": "המתעד הראשון של הבונים החופשיים",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "האיש הזה תיעד את הצטרפותו לבונים החופשיים.",
+  "אליאס אשמול היה עורך דין, כימאי וחוקר עתיקות.",
+  "בגיל 25 הוא פרש מעבודתו כדי לעסוק בתחומי העניין שלו.",
+  "הוא היה קפטן בצבא המלך במהלך מלחמת האזרחים האנגלית.",
+  "בפגישות סודיות הוא דן במדעים אזוטריים והרמטיים עם עמיתים.",
+  "אשמול כתב ספרים על אלכימיה, אך מעולם לא ראה את עצמו כאלכימאי."
+ ],
+ "tim": {
+  "w": [
+   [
+    "האיש",
+    0.14,
+    0.5
+   ],
+   [
+    "הזה",
+    0.5,
+    0.88
+   ],
+   [
+    "תיעד",
+    0.88,
+    1.44
+   ],
+   [
+    "את",
+    1.44,
+    1.54
+   ],
+   [
+    "הצטרפותו",
+    1.62,
+    2.18
+   ],
+   [
+    "לבונים",
+    2.18,
+    2.46
+   ],
+   [
+    "החופשיים.",
+    2.46,
+    3.02
+   ],
+   [
+    "אליאס",
+    3.82,
+    4.14
+   ],
+   [
+    "אשמול",
+    4.14,
+    4.48
+   ],
+   [
+    "היה",
+    4.48,
+    4.72
+   ],
+   [
+    "עורך",
+    4.72,
+    5.1
+   ],
+   [
+    "דין,",
+    5.1,
+    5.56
+   ],
+   [
+    "כימאי",
+    5.7,
+    6.08
+   ],
+   [
+    "וחוקר",
+    6.08,
+    6.6
+   ],
+   [
+    "עתיקות.",
+    6.6,
+    6.7
+   ],
+   [
+    "בגיל",
+    7.5,
+    7.68
+   ],
+   [
+    "25",
+    7.68,
+    7.94
+   ],
+   [
+    "הוא",
+    7.94,
+    8.5
+   ],
+   [
+    "פרש",
+    8.5,
+    8.88
+   ],
+   [
+    "מעבודתו",
+    8.9,
+    9.44
+   ],
+   [
+    "כדי",
+    9.52,
+    9.66
+   ],
+   [
+    "לעסוק",
+    9.66,
+    9.98
+   ],
+   [
+    "בתחומי",
+    10.0,
+    10.42
+   ],
+   [
+    "העניין",
+    10.42,
+    10.74
+   ],
+   [
+    "שלו.",
+    10.74,
+    11.48
+   ],
+   [
+    "הוא",
+    11.5,
+    11.56
+   ],
+   [
+    "היה",
+    11.56,
+    11.68
+   ],
+   [
+    "קפטן",
+    11.68,
+    12.14
+   ],
+   [
+    "בצבא",
+    12.14,
+    12.5
+   ],
+   [
+    "המלך",
+    12.5,
+    12.84
+   ],
+   [
+    "במהלך",
+    12.84,
+    13.22
+   ],
+   [
+    "מלחמת",
+    13.22,
+    13.62
+   ],
+   [
+    "האזרחים",
+    13.92,
+    14.02
+   ],
+   [
+    "האנגלית.",
+    14.02,
+    14.16
+   ],
+   [
+    "בפגישות",
+    15.02,
+    15.34
+   ],
+   [
+    "סודיות",
+    15.4,
+    15.74
+   ],
+   [
+    "הוא",
+    15.74,
+    15.92
+   ],
+   [
+    "דן",
+    15.98,
+    16.18
+   ],
+   [
+    "במדעים",
+    16.18,
+    16.64
+   ],
+   [
+    "אזוטריים",
+    16.64,
+    17.26
+   ],
+   [
+    "והרמטיים",
+    17.26,
+    17.86
+   ],
+   [
+    "עם",
+    17.86,
+    18.02
+   ],
+   [
+    "עמיתים.",
+    18.02,
+    18.46
+   ],
+   [
+    "אשמול",
+    19.26,
+    19.5
+   ],
+   [
+    "כתב",
+    19.5,
+    19.8
+   ],
+   [
+    "ספרים",
+    19.8,
+    20.16
+   ],
+   [
+    "על",
+    20.16,
+    20.34
+   ],
+   [
+    "אלכימיה,",
+    20.34,
+    20.84
+   ],
+   [
+    "אך",
+    21.04,
+    21.12
+   ],
+   [
+    "מעולם",
+    21.16,
+    21.54
+   ],
+   [
+    "לא",
+    21.54,
+    21.74
+   ],
+   [
+    "ראה",
+    21.74,
+    22.04
+   ],
+   [
+    "את",
+    22.04,
+    22.06
+   ],
+   [
+    "עצמו",
+    22.22,
+    22.34
+   ],
+   [
+    "כאלכימאי.",
+    22.34,
+    22.44
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   25,
+   34,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Elias_Ashmole_by_John_Riley.jpg/960px-Elias_Ashmole_by_John_Riley.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 892,
+   "license": "Public domain",
+   "artist": "After ג'ון ריילי",
+   "page": "https://commons.wikimedia.org/wiki/File:Elias_Ashmole_by_John_Riley.jpg",
+   "desc": "Elias Ashmole by John Riley — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/1689-Amsterdam-Der-Hermetische-Triumph-Geburt-des-Steines-der-Weisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 897,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:1689-Amsterdam-Der-Hermetische-Triumph-Geburt-des-Steines-der-Weisen.jpg",
+   "desc": "1689-Amsterdam-Der-Hermetische-Triumph-Geburt-des-Steines-der-Weisen — Birth of the Philosopher's Stone. From: Der Hermetische Triumph. Amsterdam 1689."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Manuscript_anonymous_on_Alchemy%2C_17th_century_Wellcome_L0012729.jpg/960px-Manuscript_anonymous_on_Alchemy%2C_17th_century_Wellcome_L0012729.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 463,
+   "license": "CC BY 4.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Manuscript_anonymous_on_Alchemy,_17th_century_Wellcome_L0012729.jpg",
+   "desc": "Manuscript anonymous on Alchemy, 17th century Wellcome L0012729 — Alchemy, detail. Archives &amp; Manuscripts"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Elias Ashmole",
+   "box": [
+    88,
+    23,
+    976,
+    769
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 25,
+   "unit": "שנים",
+   "label": "גיל הפרישה"
+  },
+  {
+   "type": "timeline",
+   "year": 1646
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1650,
+   "unit": "שנה",
+   "label": "ספר אלכימיה ראשון"
+  }
+ ],
+ "geo": null,
+ "qid": "Q471406",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "אליאס אשמול",
+  "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%99%D7%90%D7%A1_%D7%90%D7%A9%D7%9E%D7%95%D7%9C",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T10:10:18Z",
+ "trimmed": true
+}
