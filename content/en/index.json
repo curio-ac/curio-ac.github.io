@@ -211,7 +211,8 @@
   "2009 Women's Cricket World Cup final",
   "nasa:1504163",
   "Cutthroat trout",
-  "Ivan Bagramyan"
+  "Ivan Bagramyan",
+  "nasa:1509114"
  ],
  "rejected": [
   "Chameleon",
@@ -975,6 +976,9 @@
   ],
   "Ivan Bagramyan": [
    "The Soviet Union's Armenian Marshal: He was a Soviet Marshal born Armenian."
+  ],
+  "nasa:1509114": [
+   "NASA's Mars Slingshot: NASA just slingshotted two spacecraft toward Mars."
   ]
  },
  "exhausted": []

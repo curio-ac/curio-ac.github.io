@@ -1,0 +1,465 @@
+{
+ "id": "en-2bfc1342",
+ "lang": "en",
+ "title": "Music Born From Tragedy",
+ "cat": "art",
+ "emoji": "🎷",
+ "sentences": [
+  "A drug overdose inspired this haunting masterpiece.",
+  "Mark-Anthony Turnage composed Blood on the Floor over 3 years.",
+  "The suite grew from a commission for a jazz event into 9 movements.",
+  "It blends classical, jazz, and even electronic instruments together.",
+  "Turnage was heavily influenced by the paintings of Francis Bacon.",
+  "Four movements even allow soloists to improvise freely.",
+  "It is a powerful example of the third stream genre."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.08
+   ],
+   [
+    "drug",
+    0.14,
+    0.36
+   ],
+   [
+    "overdose",
+    0.36,
+    0.92
+   ],
+   [
+    "inspired",
+    0.92,
+    1.46
+   ],
+   [
+    "this",
+    1.46,
+    1.86
+   ],
+   [
+    "haunting",
+    1.86,
+    2.34
+   ],
+   [
+    "masterpiece.",
+    2.34,
+    3.54
+   ],
+   [
+    "Mark-Anthony",
+    3.68,
+    4.26
+   ],
+   [
+    "Turnage",
+    4.26,
+    4.66
+   ],
+   [
+    "composed",
+    4.66,
+    4.98
+   ],
+   [
+    "Blood",
+    4.98,
+    5.56
+   ],
+   [
+    "on",
+    5.56,
+    5.74
+   ],
+   [
+    "the",
+    5.74,
+    5.86
+   ],
+   [
+    "Floor",
+    5.86,
+    6.28
+   ],
+   [
+    "over",
+    6.28,
+    6.5
+   ],
+   [
+    "3",
+    6.7,
+    6.92
+   ],
+   [
+    "years.",
+    6.92,
+    7.02
+   ],
+   [
+    "The",
+    7.92,
+    8.0
+   ],
+   [
+    "suite",
+    8.0,
+    8.22
+   ],
+   [
+    "grew",
+    8.22,
+    8.5
+   ],
+   [
+    "from",
+    8.5,
+    8.72
+   ],
+   [
+    "a",
+    8.72,
+    8.82
+   ],
+   [
+    "commission",
+    8.82,
+    9.18
+   ],
+   [
+    "for",
+    9.18,
+    9.44
+   ],
+   [
+    "a",
+    9.44,
+    9.54
+   ],
+   [
+    "jazz",
+    9.54,
+    9.82
+   ],
+   [
+    "event",
+    9.82,
+    10.18
+   ],
+   [
+    "into",
+    10.28,
+    10.46
+   ],
+   [
+    "9",
+    10.48,
+    10.86
+   ],
+   [
+    "movements.",
+    10.86,
+    11.16
+   ],
+   [
+    "It",
+    11.86,
+    11.94
+   ],
+   [
+    "blends",
+    11.94,
+    12.18
+   ],
+   [
+    "classical,",
+    12.18,
+    12.78
+   ],
+   [
+    "jazz,",
+    13.12,
+    13.56
+   ],
+   [
+    "and",
+    13.76,
+    13.8
+   ],
+   [
+    "even",
+    13.8,
+    14.04
+   ],
+   [
+    "electronic",
+    14.04,
+    14.58
+   ],
+   [
+    "instruments",
+    14.58,
+    15.04
+   ],
+   [
+    "together.",
+    15.04,
+    15.5
+   ],
+   [
+    "Turnage",
+    16.42,
+    16.64
+   ],
+   [
+    "was",
+    16.64,
+    16.76
+   ],
+   [
+    "heavily",
+    16.76,
+    17.08
+   ],
+   [
+    "influenced",
+    17.08,
+    17.58
+   ],
+   [
+    "by",
+    17.58,
+    17.86
+   ],
+   [
+    "the",
+    17.86,
+    17.96
+   ],
+   [
+    "paintings",
+    18.08,
+    18.26
+   ],
+   [
+    "of",
+    18.26,
+    18.5
+   ],
+   [
+    "Francis",
+    18.62,
+    18.8
+   ],
+   [
+    "Bacon.",
+    18.8,
+    19.4
+   ],
+   [
+    "Four",
+    19.9,
+    20.06
+   ],
+   [
+    "movements",
+    20.06,
+    20.36
+   ],
+   [
+    "even",
+    20.36,
+    20.68
+   ],
+   [
+    "allow",
+    20.68,
+    20.96
+   ],
+   [
+    "soloists",
+    20.96,
+    21.54
+   ],
+   [
+    "to",
+    21.54,
+    21.72
+   ],
+   [
+    "improvise",
+    21.84,
+    22.32
+   ],
+   [
+    "freely.",
+    22.32,
+    22.7
+   ],
+   [
+    "It",
+    23.28,
+    23.36
+   ],
+   [
+    "is",
+    23.36,
+    23.5
+   ],
+   [
+    "a",
+    23.5,
+    23.6
+   ],
+   [
+    "powerful",
+    23.6,
+    24.02
+   ],
+   [
+    "example",
+    24.02,
+    24.46
+   ],
+   [
+    "of",
+    24.46,
+    24.76
+   ],
+   [
+    "the",
+    24.76,
+    24.9
+   ],
+   [
+    "third",
+    25.06,
+    25.2
+   ],
+   [
+    "stream",
+    25.2,
+    25.58
+   ],
+   [
+    "genre.",
+    25.58,
+    25.94
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   30,
+   39,
+   49,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mark-Anthony_Turnage_at_2014_Cabrillo_Festival_of_Contemporary_Music.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 760,
+   "license": "CC BY 3.0",
+   "artist": "CTV Santa Cruz County",
+   "page": "https://commons.wikimedia.org/wiki/File:Mark-Anthony_Turnage_at_2014_Cabrillo_Festival_of_Contemporary_Music.jpg",
+   "desc": "Mark-Anthony Turnage at 2014 Cabrillo Festival of Contemporary Music — Cabrillo Festival of Contemporary Music - Meet the Composers 2014 An informal discussion takes place with composers TJ Cole, Jennifer Higdon, Dylan Mattingly, Andrew Norman, Jonathan Sheffe"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Ensemble_Modern_2020-02_Hamburg.jpg/960px-Ensemble_Modern_2020-02_Hamburg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 483,
+   "license": "CC BY-SA 3.0",
+   "artist": "Zinneke",
+   "page": "https://commons.wikimedia.org/wiki/File:Ensemble_Modern_2020-02_Hamburg.jpg",
+   "desc": "Ensemble Modern 2020-02 Hamburg — Ensemble Modern 2020-02-22 in Hamburg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bacon_by_Gray_257.jpg/960px-Bacon_by_Gray_257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 899,
+   "license": "CC BY-SA 3.0",
+   "artist": "Reginald Gray",
+   "page": "https://commons.wikimedia.org/wiki/File:Bacon_by_Gray_257.jpg",
+   "desc": "Bacon by Gray 257 — Portrait of Francis Bacon by Reginald Gray."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/USAFE_Jazz_Band_in_Ukraine_-_Friendship_Concert_%285842361%29.jpg/960px-USAFE_Jazz_Band_in_Ukraine_-_Friendship_Concert_%285842361%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 524,
+   "license": "Public domain",
+   "artist": "U.S. Air Force photo by Airman 1st Class Jennifer Zima",
+   "page": "https://commons.wikimedia.org/wiki/File:USAFE_Jazz_Band_in_Ukraine_-_Friendship_Concert_(5842361).jpg",
+   "desc": "USAFE Jazz Band in Ukraine - Friendship Concert (5842361) — Denis Adu, R. Glier Kyiv Institute of Music Big Band’s director and conductor, performs an improvised solo during a concert with the U.S. Air Forces in Europe Ambassadors Jazz Band and the R. Glier Ky"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "years",
+   "label": "composition span"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Francis Bacon paintings",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "movements",
+   "label": "improvised movements"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q118906396",
+ "pron_wer": 0.029,
+ "angle": 0,
+ "source": {
+  "title": "Blood on the Floor (Turnage)",
+  "url": "https://en.wikipedia.org/wiki/Blood_on_the_Floor_%28Turnage%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T13:46:29Z",
+ "trimmed": true
+}
