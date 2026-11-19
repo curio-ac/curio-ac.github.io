@@ -1,0 +1,412 @@
+{
+ "id": "en-899223ab",
+ "lang": "en",
+ "title": "The Flight 825 Tragedy",
+ "cat": "history",
+ "emoji": "✈️",
+ "sentences": [
+  "A missile downed a passenger flight.",
+  "On September 3, 1978, ZIPRA guerrillas hit an Air Rhodesia plane with a Soviet-made missile.",
+  "The damaged aircraft attempted a belly landing in a cotton field.",
+  "The plane cartwheeled and broke apart upon impact.",
+  "Tragically, insurgents massacred 10 survivors found at the crash site.",
+  "Only 8 people survived by hiding or searching for water."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.24,
+    0.34
+   ],
+   [
+    "missile",
+    0.34,
+    0.62
+   ],
+   [
+    "downed",
+    0.62,
+    1.12
+   ],
+   [
+    "a",
+    1.12,
+    1.18
+   ],
+   [
+    "passenger",
+    1.28,
+    1.54
+   ],
+   [
+    "flight.",
+    1.54,
+    2.24
+   ],
+   [
+    "On",
+    2.5,
+    2.5
+   ],
+   [
+    "September",
+    2.64,
+    2.74
+   ],
+   [
+    "3,",
+    2.74,
+    2.99
+   ],
+   [
+    "1978,",
+    3.44,
+    4.14
+   ],
+   [
+    "ZIPRA",
+    4.26,
+    4.42
+   ],
+   [
+    "guerrillas",
+    4.42,
+    4.84
+   ],
+   [
+    "hit",
+    4.84,
+    5.06
+   ],
+   [
+    "an",
+    5.06,
+    5.22
+   ],
+   [
+    "Air",
+    5.22,
+    5.42
+   ],
+   [
+    "Rhodesia",
+    5.42,
+    5.8
+   ],
+   [
+    "plane",
+    5.8,
+    6.0
+   ],
+   [
+    "with",
+    6.0,
+    6.2
+   ],
+   [
+    "a",
+    6.2,
+    6.34
+   ],
+   [
+    "Soviet-made",
+    6.34,
+    6.84
+   ],
+   [
+    "missile.",
+    6.84,
+    7.26
+   ],
+   [
+    "The",
+    7.64,
+    7.7
+   ],
+   [
+    "damaged",
+    7.7,
+    7.88
+   ],
+   [
+    "aircraft",
+    7.88,
+    8.34
+   ],
+   [
+    "attempted",
+    8.34,
+    8.8
+   ],
+   [
+    "a",
+    8.8,
+    8.96
+   ],
+   [
+    "belly",
+    8.96,
+    9.2
+   ],
+   [
+    "landing",
+    9.2,
+    9.5
+   ],
+   [
+    "in",
+    9.5,
+    9.7
+   ],
+   [
+    "a",
+    9.7,
+    9.8
+   ],
+   [
+    "cotton",
+    9.84,
+    10.08
+   ],
+   [
+    "field.",
+    10.08,
+    10.42
+   ],
+   [
+    "The",
+    10.88,
+    10.94
+   ],
+   [
+    "plane",
+    11.02,
+    11.14
+   ],
+   [
+    "cartwheeled",
+    11.14,
+    11.72
+   ],
+   [
+    "and",
+    11.72,
+    11.78
+   ],
+   [
+    "broke",
+    11.78,
+    11.98
+   ],
+   [
+    "apart",
+    11.98,
+    12.28
+   ],
+   [
+    "upon",
+    12.44,
+    12.54
+   ],
+   [
+    "impact.",
+    12.54,
+    13.0
+   ],
+   [
+    "Tragically,",
+    13.48,
+    13.98
+   ],
+   [
+    "insurgents",
+    14.02,
+    14.38
+   ],
+   [
+    "massacred",
+    14.38,
+    14.88
+   ],
+   [
+    "10",
+    14.88,
+    15.14
+   ],
+   [
+    "survivors",
+    15.14,
+    15.7
+   ],
+   [
+    "found",
+    15.7,
+    16.06
+   ],
+   [
+    "at",
+    16.06,
+    16.26
+   ],
+   [
+    "the",
+    16.26,
+    16.34
+   ],
+   [
+    "crash",
+    16.48,
+    16.58
+   ],
+   [
+    "site.",
+    16.58,
+    16.68
+   ],
+   [
+    "Only",
+    17.34,
+    17.44
+   ],
+   [
+    "8",
+    17.44,
+    17.7
+   ],
+   [
+    "people",
+    17.7,
+    17.92
+   ],
+   [
+    "survived",
+    17.92,
+    18.2
+   ],
+   [
+    "by",
+    18.2,
+    18.52
+   ],
+   [
+    "hiding",
+    18.52,
+    18.84
+   ],
+   [
+    "or",
+    18.84,
+    19.08
+   ],
+   [
+    "searching",
+    19.08,
+    19.34
+   ],
+   [
+    "for",
+    19.4,
+    19.58
+   ],
+   [
+    "water.",
+    19.58,
+    19.82
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   21,
+   32,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/SA-7.jpg/960px-SA-7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 237,
+   "license": "Public domain",
+   "artist": "US Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:SA-7.jpg",
+   "desc": "SA-7 — An image of a Russian en:SA-7 Grail missile."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Viscount_Memorial_01.jpg/960px-Viscount_Memorial_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 656,
+   "license": "CC BY-SA 4.0",
+   "artist": "Ossewa",
+   "page": "https://commons.wikimedia.org/wiki/File:Viscount_Memorial_01.jpg",
+   "desc": "Viscount Memorial 01 — A memorial to commemorate the lives of 107 passengers and crew killed when Air Rhodesia's Viscounts Hynyani and Umniati were brought down with SAM-7 missiles on leaving Kariba Airport on 3 Sep 1978 and 12 Feb 1979."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Air_Rhodesia_Vickers_748D_Viscount_Wheatley.jpg/960px-Air_Rhodesia_Vickers_748D_Viscount_Wheatley.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 584,
+   "license": "GFDL 1.2",
+   "artist": "John Wheatley",
+   "page": "https://commons.wikimedia.org/wiki/File:Air_Rhodesia_Vickers_748D_Viscount_Wheatley.jpg",
+   "desc": "Air Rhodesia Vickers 748D Viscount Wheatley — Air Rhodesia Vickers 748D Viscount at Bulawayo"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1978
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "survivors",
+   "label": "massacred by insurgents"
+  },
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "survivors",
+   "label": "total survivors"
+  }
+ ],
+ "geo": [
+  -16.783,
+  29.083
+ ],
+ "qid": "Q4698169",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Air Rhodesia Flight 825",
+  "url": "https://en.wikipedia.org/wiki/Air_Rhodesia_Flight_825",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T19:47:40Z",
+ "trimmed": true
+}

@@ -227,7 +227,8 @@
   "1964 Brinks Hotel bombing",
   "nasa:1499132",
   "Bath, Somerset",
-  "Arch of Remembrance"
+  "Arch of Remembrance",
+  "nasa:1309754"
  ],
  "rejected": [
   "Chameleon",
@@ -1046,6 +1047,9 @@
   ],
   "Arch of Remembrance": [
    "A War Memorial Built Twice: This massive arch was actually a backup plan."
+  ],
+  "nasa:1309754": [
+   "Clean Space Data Yourself: Your phone can help NASA fix space telescope data."
   ]
  },
  "exhausted": []
