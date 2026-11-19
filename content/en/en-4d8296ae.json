@@ -1,0 +1,436 @@
+{
+ "id": "en-4d8296ae",
+ "lang": "en",
+ "title": "The River of Grass Crusader",
+ "cat": "history",
+ "emoji": "🌿",
+ "sentences": [
+  "She defended a swamp for 29 years.",
+  "Marjory Stoneman Douglas was a journalist and author.",
+  "She moved to Miami to write for The Miami Herald.",
+  "Her book, The Everglades: River of Grass, redefined the swamp as a river.",
+  "This work had an impact similar to Rachel Carson's Silent Spring.",
+  "She began her crusade to protect the Everglades at age 79."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.28,
+    0.34
+   ],
+   [
+    "defended",
+    0.34,
+    0.68
+   ],
+   [
+    "a",
+    0.68,
+    0.88
+   ],
+   [
+    "swamp",
+    0.88,
+    1.12
+   ],
+   [
+    "for",
+    1.12,
+    1.4
+   ],
+   [
+    "29",
+    1.44,
+    1.88
+   ],
+   [
+    "years.",
+    1.88,
+    2.32
+   ],
+   [
+    "Marjory",
+    3.08,
+    3.32
+   ],
+   [
+    "Stoneman",
+    3.32,
+    3.74
+   ],
+   [
+    "Douglas",
+    3.74,
+    4.02
+   ],
+   [
+    "was",
+    4.02,
+    4.34
+   ],
+   [
+    "a",
+    4.34,
+    4.46
+   ],
+   [
+    "journalist",
+    4.46,
+    4.78
+   ],
+   [
+    "and",
+    4.78,
+    5.14
+   ],
+   [
+    "author.",
+    5.14,
+    5.36
+   ],
+   [
+    "She",
+    6.02,
+    6.06
+   ],
+   [
+    "moved",
+    6.06,
+    6.22
+   ],
+   [
+    "to",
+    6.22,
+    6.34
+   ],
+   [
+    "Miami",
+    6.34,
+    6.56
+   ],
+   [
+    "to",
+    6.56,
+    6.84
+   ],
+   [
+    "write",
+    6.84,
+    7.02
+   ],
+   [
+    "for",
+    7.1,
+    7.2
+   ],
+   [
+    "The",
+    7.2,
+    7.26
+   ],
+   [
+    "Miami",
+    7.26,
+    7.54
+   ],
+   [
+    "Herald.",
+    7.54,
+    7.96
+   ],
+   [
+    "Her",
+    8.54,
+    8.62
+   ],
+   [
+    "book,",
+    8.62,
+    8.84
+   ],
+   [
+    "The",
+    9.16,
+    9.16
+   ],
+   [
+    "Everglades:",
+    9.16,
+    9.84
+   ],
+   [
+    "River",
+    10.0,
+    10.04
+   ],
+   [
+    "of",
+    10.04,
+    10.24
+   ],
+   [
+    "Grass,",
+    10.24,
+    10.72
+   ],
+   [
+    "redefined",
+    11.04,
+    11.54
+   ],
+   [
+    "the",
+    11.54,
+    11.66
+   ],
+   [
+    "swamp",
+    11.66,
+    11.98
+   ],
+   [
+    "as",
+    11.98,
+    12.3
+   ],
+   [
+    "a",
+    12.3,
+    12.38
+   ],
+   [
+    "river.",
+    12.38,
+    12.6
+   ],
+   [
+    "This",
+    13.22,
+    13.32
+   ],
+   [
+    "work",
+    13.32,
+    13.54
+   ],
+   [
+    "had",
+    13.54,
+    13.74
+   ],
+   [
+    "an",
+    13.74,
+    13.82
+   ],
+   [
+    "impact",
+    13.82,
+    14.12
+   ],
+   [
+    "similar",
+    14.12,
+    14.44
+   ],
+   [
+    "to",
+    14.44,
+    14.62
+   ],
+   [
+    "Rachel",
+    14.62,
+    14.88
+   ],
+   [
+    "Carson's",
+    14.88,
+    15.5
+   ],
+   [
+    "Silent",
+    15.5,
+    15.82
+   ],
+   [
+    "Spring.",
+    15.82,
+    16.26
+   ],
+   [
+    "She",
+    17.04,
+    17.12
+   ],
+   [
+    "began",
+    17.12,
+    17.38
+   ],
+   [
+    "her",
+    17.38,
+    17.54
+   ],
+   [
+    "crusade",
+    17.54,
+    18.1
+   ],
+   [
+    "to",
+    18.1,
+    18.26
+   ],
+   [
+    "protect",
+    18.38,
+    18.5
+   ],
+   [
+    "the",
+    18.5,
+    18.68
+   ],
+   [
+    "Everglades",
+    18.68,
+    19.2
+   ],
+   [
+    "at",
+    19.2,
+    19.34
+   ],
+   [
+    "age",
+    19.46,
+    19.6
+   ],
+   [
+    "79.",
+    19.6,
+    20.0
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   25,
+   38,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Everglades_swamp.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Hein Mück",
+   "page": "https://commons.wikimedia.org/wiki/File:Everglades_swamp.JPG",
+   "desc": "Everglades swamp — Swamp in the Everglades, Florida, USA"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/MarjoryStonemanDouglasSigningAutographs1947.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 565,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:MarjoryStonemanDouglasSigningAutographs1947.jpg",
+   "desc": "MarjoryStonemanDouglasSigningAutographs1947 — Marjory Stoneman Douglas in 1947 signing autographs at a Burdines department store in Miami, Florida."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Miami_Herald_building.jpg/960px-Miami_Herald_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Marc Averette",
+   "page": "https://commons.wikimedia.org/wiki/File:Miami_Herald_building.jpg",
+   "desc": "Miami Herald building — The Miami Herald and El Nuevo Herald building in en:Miami, Florida as seen from the Venetian Causeway 7/11/2008."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Living_history_of_Marjory_Stoneman_Douglas_%2853410870731%29.jpg/960px-Living_history_of_Marjory_Stoneman_Douglas_%2853410870731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "Public domain",
+   "artist": "evergladesnps",
+   "page": "https://commons.wikimedia.org/wiki/File:Living_history_of_Marjory_Stoneman_Douglas_(53410870731).jpg",
+   "desc": "Living history of Marjory Stoneman Douglas (53410870731) — Marjory Stoneman Douglas' book, The Everglades: River of Grass, published in 1947 -- the year Everglades National Park was established -- has become the definitive description of the natural treasure s"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rachel_Carson_%288511179932%29.jpg/960px-Rachel_Carson_%288511179932%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 913,
+   "license": "Public domain",
+   "artist": "U.S. Fish and Wildlife Service Headquarters",
+   "page": "https://commons.wikimedia.org/wiki/File:Rachel_Carson_(8511179932).jpg",
+   "desc": "Rachel Carson (8511179932) — The author of Silent Spring (1962), the book that forced the nation to confront the toll of pesticides on the environment, Carson began her career with the U.S. Fish and Wildlife Service. A refuge on the southern coast o"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/MarjoryStonemanDouglasDedication.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 457,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:MarjoryStonemanDouglasDedication.jpg",
+   "desc": "MarjoryStonemanDouglasDedication — Marjory Stoneman Douglas at the 1980 dedication of the headquarters of Florida Department of Natural Resources."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 29,
+   "unit": "years",
+   "label": "defending the swamp"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1947
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 79,
+   "unit": "years old",
+   "label": "beginning her crusade"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3293969",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Marjory Stoneman Douglas",
+  "url": "https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T14:14:30Z",
+ "trimmed": true
+}
