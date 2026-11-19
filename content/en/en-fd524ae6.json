@@ -1,0 +1,464 @@
+{
+ "id": "en-fd524ae6",
+ "lang": "en",
+ "title": "U2's Blinding Lights Origin",
+ "cat": "art",
+ "emoji": "🎸",
+ "sentences": [
+  "Bono wrote this hit about his first trip to London.",
+  "This song actually began during sessions for their 1997 album, Pop.",
+  "Lyrics also reflect the band's experience playing in New York after September 11.",
+  "Bono drew inspiration from his relationship with his wife, Ali.",
+  "Its sound has been compared to their 1984 album, The Unforgettable Fire.",
+  "The music video was filmed at General Motors Place in Vancouver."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Bono",
+    0.14,
+    0.26
+   ],
+   [
+    "wrote",
+    0.26,
+    0.42
+   ],
+   [
+    "this",
+    0.42,
+    0.64
+   ],
+   [
+    "hit",
+    0.64,
+    0.82
+   ],
+   [
+    "about",
+    0.82,
+    1.04
+   ],
+   [
+    "his",
+    1.04,
+    1.26
+   ],
+   [
+    "first",
+    1.26,
+    1.56
+   ],
+   [
+    "trip",
+    1.56,
+    1.84
+   ],
+   [
+    "to",
+    1.84,
+    2.02
+   ],
+   [
+    "London.",
+    2.02,
+    2.57
+   ],
+   [
+    "This",
+    3.08,
+    3.08
+   ],
+   [
+    "song",
+    3.08,
+    3.34
+   ],
+   [
+    "actually",
+    3.34,
+    3.78
+   ],
+   [
+    "began",
+    3.78,
+    4.14
+   ],
+   [
+    "during",
+    4.14,
+    4.34
+   ],
+   [
+    "sessions",
+    4.34,
+    4.7
+   ],
+   [
+    "for",
+    4.7,
+    4.96
+   ],
+   [
+    "their",
+    4.96,
+    5.06
+   ],
+   [
+    "1997",
+    5.06,
+    5.62
+   ],
+   [
+    "album,",
+    5.62,
+    6.5
+   ],
+   [
+    "Pop.",
+    6.66,
+    6.76
+   ],
+   [
+    "Lyrics",
+    7.46,
+    7.72
+   ],
+   [
+    "also",
+    7.72,
+    8.08
+   ],
+   [
+    "reflect",
+    8.08,
+    8.4
+   ],
+   [
+    "the",
+    8.4,
+    8.58
+   ],
+   [
+    "band's",
+    8.58,
+    8.86
+   ],
+   [
+    "experience",
+    8.86,
+    9.18
+   ],
+   [
+    "playing",
+    9.18,
+    9.62
+   ],
+   [
+    "in",
+    9.62,
+    9.76
+   ],
+   [
+    "New",
+    9.76,
+    9.88
+   ],
+   [
+    "York",
+    9.88,
+    10.14
+   ],
+   [
+    "after",
+    10.14,
+    10.56
+   ],
+   [
+    "September",
+    10.56,
+    10.84
+   ],
+   [
+    "11.",
+    10.84,
+    11.24
+   ],
+   [
+    "Bono",
+    12.18,
+    12.44
+   ],
+   [
+    "drew",
+    12.44,
+    12.6
+   ],
+   [
+    "inspiration",
+    12.6,
+    13.16
+   ],
+   [
+    "from",
+    13.16,
+    13.42
+   ],
+   [
+    "his",
+    13.48,
+    13.58
+   ],
+   [
+    "relationship",
+    13.58,
+    14.1
+   ],
+   [
+    "with",
+    14.1,
+    14.34
+   ],
+   [
+    "his",
+    14.36,
+    14.46
+   ],
+   [
+    "wife,",
+    14.46,
+    14.92
+   ],
+   [
+    "Ali.",
+    14.92,
+    15.12
+   ],
+   [
+    "Its",
+    15.94,
+    16.04
+   ],
+   [
+    "sound",
+    16.04,
+    16.36
+   ],
+   [
+    "has",
+    16.36,
+    16.52
+   ],
+   [
+    "been",
+    16.52,
+    16.64
+   ],
+   [
+    "compared",
+    16.64,
+    17.02
+   ],
+   [
+    "to",
+    17.02,
+    17.18
+   ],
+   [
+    "their",
+    17.18,
+    17.32
+   ],
+   [
+    "1984",
+    17.32,
+    17.86
+   ],
+   [
+    "album,",
+    17.86,
+    18.36
+   ],
+   [
+    "The",
+    18.74,
+    18.76
+   ],
+   [
+    "Unforgettable",
+    18.76,
+    19.28
+   ],
+   [
+    "Fire.",
+    19.28,
+    19.78
+   ],
+   [
+    "The",
+    20.5,
+    20.58
+   ],
+   [
+    "music",
+    20.58,
+    20.78
+   ],
+   [
+    "video",
+    20.78,
+    21.12
+   ],
+   [
+    "was",
+    21.12,
+    21.32
+   ],
+   [
+    "filmed",
+    21.32,
+    21.52
+   ],
+   [
+    "at",
+    21.52,
+    21.76
+   ],
+   [
+    "General",
+    21.76,
+    22.06
+   ],
+   [
+    "Motors",
+    22.06,
+    22.36
+   ],
+   [
+    "Place",
+    22.36,
+    22.68
+   ],
+   [
+    "in",
+    22.68,
+    22.94
+   ],
+   [
+    "Vancouver.",
+    22.94,
+    23.48
+   ]
+  ],
+  "b": [
+   0,
+   10,
+   21,
+   34,
+   44,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/London_Skyline_from_Waterloo_Bridge%2C_London%2C_UK_-_Diliff.jpg/960px-London_Skyline_from_Waterloo_Bridge%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 354,
+   "license": "CC BY-SA 3.0",
+   "artist": "Diliff",
+   "page": "https://commons.wikimedia.org/wiki/File:London_Skyline_from_Waterloo_Bridge,_London,_UK_-_Diliff.jpg",
+   "desc": "London Skyline from Waterloo Bridge, London, UK - Diliff — The skyline of London viewed along the Thames from Waterloo Bridge in London, England."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/U2_montage_%28Pop_style%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 848,
+   "license": "CC BY-SA 3.0",
+   "artist": "File:U2 montage.jpg: File:Bono at the 2009 Tribeca Film Festival.jpg: David Shan",
+   "page": "https://commons.wikimedia.org/wiki/File:U2_montage_(Pop_style).jpg",
+   "desc": "U2 montage (Pop style) — Photomontage of the Irish rock band U2, with positioning and colors inspired by the cover art of the album Pop. Clockwise from top left: Adam Clayton, Bono, The Edge, and Larry Mullen, Jr."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pont_de_Brooklyn_de_nuit_-_Octobre_2008.jpg/960px-Pont_de_Brooklyn_de_nuit_-_Octobre_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 200,
+   "license": "CC BY-SA 3.0",
+   "artist": "Martin St-Amant (S23678)",
+   "page": "https://commons.wikimedia.org/wiki/File:Pont_de_Brooklyn_de_nuit_-_Octobre_2008.jpg",
+   "desc": "Pont de Brooklyn de nuit - Octobre 2008 — Night Panorama of Brooklyn Bridge and Financial sector of Manhattan. Three panoramas at different exposures have been assembled with Enfuse"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bono_and_Ali_Hewson_at_daughter%27s_graduation_2012.jpg/960px-Bono_and_Ali_Hewson_at_daughter%27s_graduation_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 554,
+   "license": "CC BY 2.0",
+   "artist": "Barak Zahavy",
+   "page": "https://commons.wikimedia.org/wiki/File:Bono_and_Ali_Hewson_at_daughter%27s_graduation_2012.jpg",
+   "desc": "Bono and Ali Hewson at daughter's graduation 2012 — Bono and his wife Ali Hewson at Columbia College graduation Their daughter was in the 2012 graduating class"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Vancouver-gmplace3.jpg/960px-Vancouver-gmplace3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 373,
+   "license": "Attribution",
+   "artist": "Buchanan-Hermit",
+   "page": "https://commons.wikimedia.org/wiki/File:Vancouver-gmplace3.jpg",
+   "desc": "Vancouver-gmplace3 — Exteriors of General Motors Place. Vancouver, BC, Canada."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1997
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Bono",
+   "box": [
+    196,
+    70,
+    930,
+    560
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1984
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2127565",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "City of Blinding Lights",
+  "url": "https://en.wikipedia.org/wiki/City_of_Blinding_Lights",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T20:51:20Z",
+ "trimmed": true
+}
