@@ -1,0 +1,426 @@
+{
+ "id": "en-e9a2d3d1",
+ "lang": "en",
+ "title": "Kentucky's Slave-Trading Governor",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "John Adair was a soldier, politician, and slave trader.",
+  "Born in 1757, he fought in the Revolutionary War and was captured twice by the British.",
+  "He later moved to Kentucky and fought in the Northwest Indian War against Chief Little Turtle.",
+  "Adair served in the U.S. House, the Senate, and as Kentucky's eighth governor.",
+  "He even helped write the state's constitution before becoming Speaker of the House."
+ ],
+ "tim": {
+  "w": [
+   [
+    "John",
+    0.22,
+    0.22
+   ],
+   [
+    "Adair",
+    0.22,
+    0.52
+   ],
+   [
+    "was",
+    0.52,
+    0.7
+   ],
+   [
+    "a",
+    0.7,
+    0.84
+   ],
+   [
+    "soldier,",
+    0.84,
+    1.29
+   ],
+   [
+    "politician,",
+    1.4,
+    2.08
+   ],
+   [
+    "and",
+    2.12,
+    2.18
+   ],
+   [
+    "slave",
+    2.18,
+    2.42
+   ],
+   [
+    "trader.",
+    2.42,
+    2.86
+   ],
+   [
+    "Born",
+    3.24,
+    3.38
+   ],
+   [
+    "in",
+    3.38,
+    3.6
+   ],
+   [
+    "1757,",
+    3.6,
+    4.15
+   ],
+   [
+    "he",
+    4.96,
+    5.02
+   ],
+   [
+    "fought",
+    5.02,
+    5.2
+   ],
+   [
+    "in",
+    5.2,
+    5.36
+   ],
+   [
+    "the",
+    5.36,
+    5.44
+   ],
+   [
+    "Revolutionary",
+    5.44,
+    6.14
+   ],
+   [
+    "War",
+    6.14,
+    6.36
+   ],
+   [
+    "and",
+    6.36,
+    6.64
+   ],
+   [
+    "was",
+    6.64,
+    6.76
+   ],
+   [
+    "captured",
+    6.76,
+    7.02
+   ],
+   [
+    "twice",
+    7.02,
+    7.4
+   ],
+   [
+    "by",
+    7.4,
+    7.64
+   ],
+   [
+    "the",
+    7.64,
+    7.76
+   ],
+   [
+    "British.",
+    7.76,
+    8.22
+   ],
+   [
+    "He",
+    8.68,
+    8.7
+   ],
+   [
+    "later",
+    8.7,
+    8.92
+   ],
+   [
+    "moved",
+    8.92,
+    9.14
+   ],
+   [
+    "to",
+    9.14,
+    9.32
+   ],
+   [
+    "Kentucky",
+    9.32,
+    9.66
+   ],
+   [
+    "and",
+    9.66,
+    9.96
+   ],
+   [
+    "fought",
+    9.96,
+    10.16
+   ],
+   [
+    "in",
+    10.16,
+    10.32
+   ],
+   [
+    "the",
+    10.32,
+    10.4
+   ],
+   [
+    "Northwest",
+    10.4,
+    10.64
+   ],
+   [
+    "Indian",
+    10.64,
+    11.1
+   ],
+   [
+    "War",
+    11.1,
+    11.48
+   ],
+   [
+    "against",
+    11.48,
+    11.78
+   ],
+   [
+    "Chief",
+    11.78,
+    12.12
+   ],
+   [
+    "Little",
+    12.12,
+    12.4
+   ],
+   [
+    "Turtle.",
+    12.4,
+    12.8
+   ],
+   [
+    "Adair",
+    13.28,
+    13.58
+   ],
+   [
+    "served",
+    13.58,
+    13.84
+   ],
+   [
+    "in",
+    13.84,
+    14.02
+   ],
+   [
+    "the",
+    14.02,
+    14.1
+   ],
+   [
+    "U.S.",
+    14.1,
+    14.5
+   ],
+   [
+    "House,",
+    14.64,
+    14.74
+   ],
+   [
+    "the",
+    15.0,
+    15.04
+   ],
+   [
+    "Senate,",
+    15.04,
+    15.34
+   ],
+   [
+    "and",
+    15.56,
+    15.68
+   ],
+   [
+    "as",
+    15.68,
+    15.8
+   ],
+   [
+    "Kentucky's",
+    15.8,
+    16.34
+   ],
+   [
+    "eighth",
+    16.34,
+    16.46
+   ],
+   [
+    "governor.",
+    16.46,
+    16.76
+   ],
+   [
+    "He",
+    17.32,
+    17.42
+   ],
+   [
+    "even",
+    17.42,
+    17.64
+   ],
+   [
+    "helped",
+    17.64,
+    17.86
+   ],
+   [
+    "write",
+    17.86,
+    18.06
+   ],
+   [
+    "the",
+    18.06,
+    18.22
+   ],
+   [
+    "state's",
+    18.22,
+    18.52
+   ],
+   [
+    "constitution",
+    18.56,
+    19.02
+   ],
+   [
+    "before",
+    19.3,
+    19.4
+   ],
+   [
+    "becoming",
+    19.4,
+    19.74
+   ],
+   [
+    "Speaker",
+    19.74,
+    20.1
+   ],
+   [
+    "of",
+    20.1,
+    20.38
+   ],
+   [
+    "the",
+    20.38,
+    20.48
+   ],
+   [
+    "House.",
+    20.48,
+    20.72
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   25,
+   41,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Revolutionary_War_%28collage%29.jpg/960px-Revolutionary_War_%28collage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 499,
+   "license": "Public domain",
+   "artist": "Eugène Lami / Emanuel Leutze / Richard Paton",
+   "page": "https://commons.wikimedia.org/wiki/File:Revolutionary_War_(collage).jpg",
+   "desc": "Revolutionary War (collage) — A collection of public domain images of the American Revolutionary War, together in a montage."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Greenville.jpg/960px-Treaty_of_Greenville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 570,
+   "license": "Public domain",
+   "artist": "Unidentified painter",
+   "page": "https://commons.wikimedia.org/wiki/File:Treaty_of_Greenville.jpg",
+   "desc": "Treaty of Greenville — Painting of Indian Treaty of Greenville, 1795, done around the time. Note: Oil on canvas depiction of the Treaty of Greenville. The principal figures believed to be represented therein are General Anthony Wayne, the offi"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1757
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "th",
+   "label": "Kentucky Governor"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q11595",
+ "pron_wer": 0.043,
+ "angle": 0,
+ "source": {
+  "title": "John Adair",
+  "url": "https://en.wikipedia.org/wiki/John_Adair",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T15:09:08Z",
+ "trimmed": true
+}
