@@ -1,0 +1,330 @@
+{
+ "id": "he-39df70a5",
+ "lang": "he",
+ "title": "הטירוף מאחורי מרוצי המרכבות",
+ "cat": "history",
+ "emoji": "🐎",
+ "sentences": [
+  "מרוצי מרכבות היו ספורט קטלני ומסוכן מאוד.",
+  "הם היו פופולריים ביוון וגם ברומא העתיקה.",
+  "קבוצות ספורט ייצגו תומכים כלכליים ונלחמו על רוכבים.",
+  "היריבות בין האוהדים הפכה לאלימה ואפילו לפוליטית.",
+  "חשיבות הענף דעכה לאחר קריסת האימפריה הרומית.",
+  "כיום הספורט הזה נקרא מרוץ רתמות."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מרוצי",
+    0.24,
+    0.64
+   ],
+   [
+    "מרכבות",
+    0.64,
+    1.2
+   ],
+   [
+    "היו",
+    1.2,
+    1.44
+   ],
+   [
+    "ספורט",
+    1.44,
+    1.82
+   ],
+   [
+    "קטלני",
+    2.0,
+    2.26
+   ],
+   [
+    "ומסוכן",
+    2.26,
+    2.8
+   ],
+   [
+    "מאוד.",
+    2.8,
+    3.1
+   ],
+   [
+    "הם",
+    3.48,
+    3.58
+   ],
+   [
+    "היו",
+    3.58,
+    3.74
+   ],
+   [
+    "פופולריים",
+    3.74,
+    4.24
+   ],
+   [
+    "ביוון",
+    4.24,
+    4.68
+   ],
+   [
+    "וגם",
+    4.68,
+    5.0
+   ],
+   [
+    "ברומא",
+    5.0,
+    5.38
+   ],
+   [
+    "העתיקה.",
+    5.38,
+    5.86
+   ],
+   [
+    "קבוצות",
+    6.7,
+    6.96
+   ],
+   [
+    "ספורט",
+    6.96,
+    7.4
+   ],
+   [
+    "ייצגו",
+    7.4,
+    7.72
+   ],
+   [
+    "תומכים",
+    7.72,
+    8.06
+   ],
+   [
+    "כלכליים",
+    8.06,
+    8.5
+   ],
+   [
+    "ונלחמו",
+    8.5,
+    9.12
+   ],
+   [
+    "על",
+    9.12,
+    9.22
+   ],
+   [
+    "רוכבים.",
+    9.22,
+    9.6
+   ],
+   [
+    "היריבות",
+    10.28,
+    10.66
+   ],
+   [
+    "בין",
+    10.66,
+    10.84
+   ],
+   [
+    "האוהדים",
+    10.84,
+    11.24
+   ],
+   [
+    "הפכה",
+    11.24,
+    11.56
+   ],
+   [
+    "לאלימה",
+    11.56,
+    12.06
+   ],
+   [
+    "ואפילו",
+    12.06,
+    12.4
+   ],
+   [
+    "לפוליטית.",
+    12.4,
+    12.78
+   ],
+   [
+    "חשיבות",
+    13.56,
+    13.94
+   ],
+   [
+    "הענף",
+    13.94,
+    14.24
+   ],
+   [
+    "דעכה",
+    14.34,
+    14.72
+   ],
+   [
+    "לאחר",
+    14.72,
+    15.04
+   ],
+   [
+    "קריסת",
+    15.22,
+    15.44
+   ],
+   [
+    "האימפריה",
+    15.66,
+    15.84
+   ],
+   [
+    "הרומית.",
+    15.84,
+    16.02
+   ],
+   [
+    "כיום",
+    16.94,
+    17.14
+   ],
+   [
+    "הספורט",
+    17.14,
+    17.52
+   ],
+   [
+    "הזה",
+    17.52,
+    17.62
+   ],
+   [
+    "נקרא",
+    17.62,
+    17.94
+   ],
+   [
+    "מרוץ",
+    17.94,
+    18.3
+   ],
+   [
+    "רתמות.",
+    18.3,
+    18.48
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   22,
+   29,
+   36
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ancient_Roman_frescos_in_the_House_of_the_Vettii_%28Pompeii%29-12.jpg/960px-Ancient_Roman_frescos_in_the_House_of_the_Vettii_%28Pompeii%29-12.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 341,
+   "license": "CC BY-SA 4.0",
+   "artist": "Yair Haklai",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_frescos_in_the_House_of_the_Vettii_(Pompeii)-12.jpg",
+   "desc": "Ancient Roman frescos in the House of the Vettii (Pompeii)-12 — Cupids and Psyches running a race with chariots drawn by Antelopes, One has crashed, Ancient Roman frescos in the House of the Vettii, Pompeii"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Delphi_charioteer_front_DSC06255.JPG/960px-Delphi_charioteer_front_DSC06255.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1416,
+   "license": "CC BY-SA 1.0",
+   "artist": "Copyright © 2004 David Monniaux",
+   "page": "https://commons.wikimedia.org/wiki/File:Delphi_charioteer_front_DSC06255.JPG",
+   "desc": "Delphi charioteer front DSC06255 — Statue of a charioteer found in Delphi, Greece (front) most probably a chariot driver in the Pythian Games The driver ran for the horses' owner, Polyzalos, tyrant in Sicily between 480-470BC."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mosaic_white_charioteer_Massimo.jpg/960px-Mosaic_white_charioteer_Massimo.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 734,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown artist",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosaic_white_charioteer_Massimo.jpg",
+   "desc": "Mosaic white charioteer Massimo — Pavement mosaic with a circus charioteer of the albata (white) faction. Roman artwork, first half of the 3rd century CE. From the Villa dei Severi at Baccano, 16 miles from the Via Appia."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Rome_%28IT%29%2C_Circus_Maximus_--_2013_--_3354.jpg/960px-Rome_%28IT%29%2C_Circus_Maximus_--_2013_--_3354.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Dietmar Rabich",
+   "page": "https://commons.wikimedia.org/wiki/File:Rome_(IT),_Circus_Maximus_--_2013_--_3354.jpg",
+   "desc": "Rome (IT), Circus Maximus -- 2013 -- 3354 — Circus Maximus, Rome, Italy"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Islandora_12860-Harness_Racing_at_Roger_Williams_Park_OBJ.jpg/960px-Islandora_12860-Harness_Racing_at_Roger_Williams_Park_OBJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 533,
+   "license": "Public domain",
+   "artist": "Rhode Island Collection, Providence Public Library",
+   "page": "https://commons.wikimedia.org/wiki/File:Islandora_12860-Harness_Racing_at_Roger_Williams_Park_OBJ.jpg",
+   "desc": "Islandora 12860-Harness Racing at Roger Williams Park OBJ — Title Harness Racing at Roger Williams Park Identifier VM013_GC1731 Description View of two horses racing side by side on a track at Roger Williams Park. Contributor Rhode Island Development Council T"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1164462",
+ "pron_wer": 0.024,
+ "angle": 2,
+ "source": {
+  "title": "מרוץ מרכבות",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%95%D7%A5_%D7%9E%D7%A8%D7%9B%D7%91%D7%95%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T10:18:53Z",
+ "trimmed": true
+}
