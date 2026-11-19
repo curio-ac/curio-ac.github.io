@@ -199,7 +199,8 @@
   "Disco Demolition Night",
   "William Robinson Brown",
   "nasa:1490244",
-  "William Shakespeare"
+  "William Shakespeare",
+  "Jane Cobden"
  ],
  "rejected": [
   "Chameleon",
@@ -925,6 +926,9 @@
   ],
   "William Shakespeare": [
    "The Bard of Avon: Shakespeare’s plays are performed more than anyone else's."
+  ],
+  "Jane Cobden": [
+   "Banned From Her Own Election: Jane Cobden was elected, then legally blocked."
   ]
  },
  "exhausted": []

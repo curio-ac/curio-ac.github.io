@@ -1,0 +1,435 @@
+{
+ "id": "en-f515ac93",
+ "lang": "en",
+ "title": "Sun's Wild Galactic History",
+ "cat": "space",
+ "emoji": "☀️",
+ "sentences": [
+  "Our solar system has a protective bubble.",
+  "This heliosphere shields Earth from interstellar space.",
+  "Computer models show our Sun hit cold gas clouds 3 times.",
+  "These clouds shrank the bubble, leaving Earth exposed.",
+  "Those interactions triggered major climate shifts on our planet.",
+  "Even 3 billion years ago, a dimmer Sun kept early Earth warm.",
+  "The Sun's history actively shaped our world."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Our",
+    0.14,
+    0.28
+   ],
+   [
+    "solar",
+    0.28,
+    0.66
+   ],
+   [
+    "system",
+    0.66,
+    1.08
+   ],
+   [
+    "has",
+    1.22,
+    1.42
+   ],
+   [
+    "a",
+    1.42,
+    1.64
+   ],
+   [
+    "protective",
+    1.64,
+    1.98
+   ],
+   [
+    "bubble.",
+    1.98,
+    2.83
+   ],
+   [
+    "This",
+    2.92,
+    2.94
+   ],
+   [
+    "heliosphere",
+    2.94,
+    3.68
+   ],
+   [
+    "shields",
+    3.68,
+    4.08
+   ],
+   [
+    "Earth",
+    4.08,
+    4.34
+   ],
+   [
+    "from",
+    4.34,
+    4.6
+   ],
+   [
+    "interstellar",
+    4.6,
+    5.32
+   ],
+   [
+    "space.",
+    5.32,
+    5.84
+   ],
+   [
+    "Computer",
+    6.28,
+    6.46
+   ],
+   [
+    "models",
+    6.46,
+    6.8
+   ],
+   [
+    "show",
+    6.8,
+    7.08
+   ],
+   [
+    "our",
+    7.08,
+    7.26
+   ],
+   [
+    "Sun",
+    7.26,
+    7.52
+   ],
+   [
+    "hit",
+    7.52,
+    7.72
+   ],
+   [
+    "cold",
+    7.96,
+    8.08
+   ],
+   [
+    "gas",
+    8.08,
+    8.4
+   ],
+   [
+    "clouds",
+    8.4,
+    8.76
+   ],
+   [
+    "3",
+    8.76,
+    9.02
+   ],
+   [
+    "times.",
+    9.02,
+    9.14
+   ],
+   [
+    "These",
+    9.88,
+    9.98
+   ],
+   [
+    "clouds",
+    9.98,
+    10.24
+   ],
+   [
+    "shrank",
+    10.24,
+    10.52
+   ],
+   [
+    "the",
+    10.52,
+    10.66
+   ],
+   [
+    "bubble,",
+    10.66,
+    10.98
+   ],
+   [
+    "leaving",
+    11.3,
+    11.44
+   ],
+   [
+    "Earth",
+    11.44,
+    11.74
+   ],
+   [
+    "exposed.",
+    11.74,
+    12.24
+   ],
+   [
+    "Those",
+    12.98,
+    13.1
+   ],
+   [
+    "interactions",
+    13.1,
+    13.56
+   ],
+   [
+    "triggered",
+    13.56,
+    13.94
+   ],
+   [
+    "major",
+    13.96,
+    14.34
+   ],
+   [
+    "climate",
+    14.34,
+    14.72
+   ],
+   [
+    "shifts",
+    14.72,
+    14.92
+   ],
+   [
+    "on",
+    14.92,
+    15.12
+   ],
+   [
+    "our",
+    15.12,
+    15.2
+   ],
+   [
+    "planet.",
+    15.2,
+    16.0
+   ],
+   [
+    "Even",
+    16.1,
+    16.26
+   ],
+   [
+    "3",
+    16.26,
+    16.66
+   ],
+   [
+    "billion",
+    16.66,
+    16.92
+   ],
+   [
+    "years",
+    16.92,
+    17.2
+   ],
+   [
+    "ago,",
+    17.2,
+    17.64
+   ],
+   [
+    "a",
+    17.84,
+    17.84
+   ],
+   [
+    "dimmer",
+    17.96,
+    18.16
+   ],
+   [
+    "Sun",
+    18.16,
+    18.38
+   ],
+   [
+    "kept",
+    18.38,
+    18.64
+   ],
+   [
+    "early",
+    18.88,
+    18.98
+   ],
+   [
+    "Earth",
+    18.98,
+    19.26
+   ],
+   [
+    "warm.",
+    19.26,
+    19.54
+   ],
+   [
+    "The",
+    20.12,
+    20.2
+   ],
+   [
+    "Sun's",
+    20.2,
+    20.46
+   ],
+   [
+    "history",
+    20.46,
+    20.74
+   ],
+   [
+    "actively",
+    20.74,
+    21.36
+   ],
+   [
+    "shaped",
+    21.42,
+    21.76
+   ],
+   [
+    "our",
+    21.84,
+    21.94
+   ],
+   [
+    "world.",
+    21.94,
+    22.22
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   25,
+   33,
+   42,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_Heliosphere_with_Incoming_Rays_and_Ions.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 805,
+   "license": "Public domain",
+   "artist": "NASA (Dr. Paulett Liewer)",
+   "page": "https://commons.wikimedia.org/wiki/File:Diagram_of_Heliosphere_with_Incoming_Rays_and_Ions.png",
+   "desc": "Diagram of Heliosphere with Incoming Rays and Ions — A labelled diagram of the heliosphere, with most parts labelled, as well as incoming cosmic rays, atoms and ions."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Heliopause_diagram_%28large_labels%29.png/960px-Heliopause_diagram_%28large_labels%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 361,
+   "license": "Public domain",
+   "artist": "see File:Heliopause diagram.png; labels re-set (2026-11-17) by the Bagrat Shinku",
+   "page": "https://commons.wikimedia.org/wiki/File:Heliopause_diagram_(large_labels).png",
+   "desc": "Heliopause diagram (large labels) — This file: the same picture with its labels set again in larger type, so they stay readable in print (image pixels unchanged; canvas extended where the labels needed room). Original: File:Heliopause diagram.png."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Earth_temperature_with_faint_young_sun_0p70_sol_co2_10pros_1.png/960px-Earth_temperature_with_faint_young_sun_0p70_sol_co2_10pros_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 403,
+   "license": "CC BY-SA 4.0",
+   "artist": "Merikanto",
+   "page": "https://commons.wikimedia.org/wiki/File:Earth_temperature_with_faint_young_sun_0p70_sol_co2_10pros_1.png",
+   "desc": "Earth temperature with faint young sun 0p70 sol co2 10pros 1 — Earth temperature, if S=0.70 sol and co2=0.1 bar. one solution to faint young sun paradox."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Early_Earth_-_Solar_and_CO2_relationship.png/960px-Early_Earth_-_Solar_and_CO2_relationship.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 399,
+   "license": "CC BY-SA 4.0",
+   "artist": "Gretashum",
+   "page": "https://commons.wikimedia.org/wiki/File:Early_Earth_-_Solar_and_CO2_relationship.png",
+   "desc": "Early Earth - Solar and CO2 relationship — This is a schematic of the approximate carbon dioxide necessary to maintain liquid water on the surface of Earth as the sun became brighter over time. It has been adapted from Catling and Keeling (2017)"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "heliosphere",
+   "box": [
+    37,
+    273,
+    954,
+    976
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "times",
+   "label": "cloud encounters"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "billion years",
+   "label": "Sun age"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
+ "pron_wer": 0.048,
+ "angle": 2,
+ "source": {
+  "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
+  "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T09:47:26Z",
+ "trimmed": true
+}
