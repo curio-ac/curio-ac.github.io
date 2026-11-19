@@ -1,0 +1,385 @@
+{
+ "id": "en-fa2fce6f",
+ "lang": "en",
+ "title": "Webb's Tiny Space Discovery",
+ "cat": "space",
+ "emoji": "✨",
+ "sentences": [
+  "Webb just found impossibly small brown dwarfs.",
+  "These objects weigh only twice Jupiter's mass.",
+  "They exist in a star-forming region called IC 348.",
+  "This discovery poses a challenge to current star formation models.",
+  "One dwarf even shows signs of a planet-forming disk.",
+  "These are the least massive brown dwarfs ever known."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Webb",
+    0.24,
+    0.24
+   ],
+   [
+    "just",
+    0.24,
+    0.6
+   ],
+   [
+    "found",
+    0.6,
+    0.92
+   ],
+   [
+    "impossibly",
+    0.92,
+    1.78
+   ],
+   [
+    "small",
+    1.78,
+    2.14
+   ],
+   [
+    "brown",
+    2.14,
+    2.46
+   ],
+   [
+    "dwarfs.",
+    2.46,
+    3.08
+   ],
+   [
+    "These",
+    3.48,
+    3.58
+   ],
+   [
+    "objects",
+    3.58,
+    3.96
+   ],
+   [
+    "weigh",
+    3.96,
+    4.26
+   ],
+   [
+    "only",
+    4.26,
+    4.48
+   ],
+   [
+    "twice",
+    4.48,
+    4.82
+   ],
+   [
+    "Jupiter's",
+    4.82,
+    5.42
+   ],
+   [
+    "mass.",
+    5.42,
+    5.84
+   ],
+   [
+    "They",
+    6.18,
+    6.28
+   ],
+   [
+    "exist",
+    6.28,
+    6.52
+   ],
+   [
+    "in",
+    6.52,
+    6.82
+   ],
+   [
+    "a",
+    6.82,
+    6.92
+   ],
+   [
+    "star-forming",
+    6.92,
+    7.42
+   ],
+   [
+    "region",
+    7.42,
+    7.78
+   ],
+   [
+    "called",
+    7.78,
+    8.06
+   ],
+   [
+    "IC",
+    8.06,
+    8.5
+   ],
+   [
+    "348.",
+    8.5,
+    9.44
+   ],
+   [
+    "This",
+    10.04,
+    10.18
+   ],
+   [
+    "discovery",
+    10.18,
+    10.52
+   ],
+   [
+    "poses",
+    10.52,
+    10.92
+   ],
+   [
+    "a",
+    10.92,
+    11.16
+   ],
+   [
+    "challenge",
+    11.16,
+    11.56
+   ],
+   [
+    "to",
+    11.56,
+    11.8
+   ],
+   [
+    "current",
+    11.92,
+    12.08
+   ],
+   [
+    "star",
+    12.08,
+    12.36
+   ],
+   [
+    "formation",
+    12.36,
+    12.62
+   ],
+   [
+    "models.",
+    12.62,
+    13.2
+   ],
+   [
+    "One",
+    13.82,
+    13.98
+   ],
+   [
+    "dwarf",
+    13.98,
+    14.18
+   ],
+   [
+    "even",
+    14.18,
+    14.54
+   ],
+   [
+    "shows",
+    14.54,
+    14.8
+   ],
+   [
+    "signs",
+    14.8,
+    15.08
+   ],
+   [
+    "of",
+    15.08,
+    15.26
+   ],
+   [
+    "a",
+    15.26,
+    15.36
+   ],
+   [
+    "planet-forming",
+    15.36,
+    15.86
+   ],
+   [
+    "disk.",
+    15.86,
+    16.38
+   ],
+   [
+    "These",
+    16.92,
+    17.02
+   ],
+   [
+    "are",
+    17.02,
+    17.22
+   ],
+   [
+    "the",
+    17.22,
+    17.34
+   ],
+   [
+    "least",
+    17.34,
+    17.64
+   ],
+   [
+    "massive",
+    17.64,
+    18.12
+   ],
+   [
+    "brown",
+    18.12,
+    18.44
+   ],
+   [
+    "dwarfs",
+    18.44,
+    18.84
+   ],
+   [
+    "ever",
+    19.02,
+    19.14
+   ],
+   [
+    "known.",
+    19.14,
+    19.4
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   23,
+   33,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/NASA%E2%80%99s_Webb_Reveals_Dynamic_Panorama_of_Star_Formation_-_Flickr_-_James_Webb_Space_Telescope.jpg/960px-NASA%E2%80%99s_Webb_Reveals_Dynamic_Panorama_of_Star_Formation_-_Flickr_-_James_Webb_Space_Telescope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 891,
+   "license": "CC BY 4.0",
+   "artist": "NASA's James Webb Space Telescope from Greenbelt, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Dynamic_Panorama_of_Star_Formation_-_Flickr_-_James_Webb_Space_Telescope.jpg",
+   "desc": "NASA’s Webb Reveals Dynamic Panorama of Star Formation - Flickr - James Webb Space Telescope — In a class of their own Hidden within this beautiful wispy star-forming nebula (captured by Webb in one of its largest images to date) are strange objects called bro"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Brown_Dwarf_Comparison_2020.png/960px-Brown_Dwarf_Comparison_2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Planetkid32",
+   "page": "https://commons.wikimedia.org/wiki/File:Brown_Dwarf_Comparison_2020.png",
+   "desc": "Brown Dwarf Comparison 2020 — This file shows a comparison of a Brown Dwarf to our Sun, a low mass red dwarf star, Jupiter, and the Earth. Rendered in Cinema 4D R16 Textures by Björn Jónsson, FarGetaNik, cubicApocalypse, and Planetkid32"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Star_Cluster_IC_348_%28NIRCam_image%29_%28weic2331a%29.jpg/960px-Star_Cluster_IC_348_%28NIRCam_image%29_%28weic2331a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 965,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, CSA, STScI, and K. Luhman (Penn State University) and C. Alves de Oli",
+   "page": "https://commons.wikimedia.org/wiki/File:Star_Cluster_IC_348_(NIRCam_image)_(weic2331a).jpg",
+   "desc": "Star Cluster IC 348 (NIRCam image) (weic2331a) — This image from the NIRCam (Near-Infrared Camera) instrument on the NASA/ESA/CSA James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny,"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Models_of_brown_dwarf_disks_%28artist%E2%80%99s_impression%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 689,
+   "license": "CC BY 4.0",
+   "artist": "ESO",
+   "page": "https://commons.wikimedia.org/wiki/File:Models_of_brown_dwarf_disks_(artist%E2%80%99s_impression).jpg",
+   "desc": "Models of brown dwarf disks (artist’s impression) — Illustration showing current models for Brown Dwarf discs. The new measurements show that this object has a flat, dense disk (lower diagramme), unlike the hotter (solar-like), young stars, that harbour \"flare"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/BrownDwarfs_Comparison_01.png/960px-BrownDwarfs_Comparison_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "MPIA/V. Joergens",
+   "page": "https://commons.wikimedia.org/wiki/File:BrownDwarfs_Comparison_01.png",
+   "desc": "BrownDwarfs Comparison 01 — Comparison of sizes and effective temperatures of planets, brown dwarfs, and stars. Displayed are the Sun, the red dwarf star Gliese 229A, the young brown dwarf Teide 1, the old brown dwarf Gliese 229B, the very cool bro"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "Jupiter masses",
+   "label": "brown dwarf mass"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "disk",
+   "box": [
+    200,
+    0,
+    950,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
+ "pron_wer": 0.037,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+  "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T11:51:26Z",
+ "trimmed": true
+}
