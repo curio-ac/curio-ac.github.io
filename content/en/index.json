@@ -221,7 +221,8 @@
   "John Adair",
   "nasa:1495740",
   "Ian Carmichael",
-  "nasa:1511430"
+  "nasa:1511430",
+  "The Boat Race 2020"
  ],
  "rejected": [
   "Chameleon",
@@ -277,7 +278,8 @@
   "Cougar",
   "Alexander Hamilton U.S. Custom House",
   "Charles-Valentin Alkan",
-  "nasa:1504557"
+  "nasa:1504557",
+  "2003 Pacific hurricane season"
  ],
  "angles": {
   "Blue whale": [
@@ -1019,6 +1021,9 @@
   ],
   "nasa:1511430": [
    "Tropical Glaciers Are Vanishing: Indonesia's tropical glaciers are almost gone."
+  ],
+  "The Boat Race 2020": [
+   "The Cancelled Boat Race: The 2020 Boat Race never happened."
   ]
  },
  "exhausted": []

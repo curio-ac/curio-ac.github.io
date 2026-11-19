@@ -1,0 +1,446 @@
+{
+ "id": "en-f642141f",
+ "lang": "en",
+ "title": "Thailand's Massive Floods",
+ "cat": "geography",
+ "emoji": "🌊",
+ "sentences": [
+  "Thailand floods have affected 4 million people.",
+  "Starting in late September 2026, persistent heavy rains caused sustained flooding across the country.",
+  "A stalled low-pressure system stoked by warm Gulf moisture dumped massive amounts of rain.",
+  "Nearby Bangkok saw nearly 300 millimeters of rain in just 48 hours.",
+  "In total, flooding hit 50 provinces nationwide.",
+  "Government agencies estimate over 270,000 hectares of farmland have been damaged."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Thailand",
+    0.35,
+    0.35
+   ],
+   [
+    "floods",
+    0.35,
+    0.73
+   ],
+   [
+    "have",
+    0.73,
+    1.01
+   ],
+   [
+    "affected",
+    1.01,
+    1.39
+   ],
+   [
+    "4",
+    1.39,
+    1.85
+   ],
+   [
+    "million",
+    1.85,
+    2.19
+   ],
+   [
+    "people.",
+    2.19,
+    3.14
+   ],
+   [
+    "Starting",
+    3.45,
+    3.51
+   ],
+   [
+    "in",
+    3.51,
+    3.73
+   ],
+   [
+    "late",
+    3.73,
+    3.97
+   ],
+   [
+    "September",
+    3.97,
+    4.33
+   ],
+   [
+    "2026,",
+    4.33,
+    4.93
+   ],
+   [
+    "persistent",
+    5.89,
+    6.27
+   ],
+   [
+    "heavy",
+    6.27,
+    6.59
+   ],
+   [
+    "rains",
+    6.59,
+    6.97
+   ],
+   [
+    "caused",
+    6.97,
+    7.29
+   ],
+   [
+    "sustained",
+    7.29,
+    7.89
+   ],
+   [
+    "flooding",
+    7.89,
+    8.33
+   ],
+   [
+    "across",
+    8.33,
+    8.65
+   ],
+   [
+    "the",
+    8.65,
+    8.95
+   ],
+   [
+    "country.",
+    8.95,
+    9.19
+   ],
+   [
+    "A",
+    9.99,
+    10.07
+   ],
+   [
+    "stalled",
+    10.07,
+    10.41
+   ],
+   [
+    "low-pressure",
+    10.41,
+    11.03
+   ],
+   [
+    "system",
+    11.03,
+    11.41
+   ],
+   [
+    "stoked",
+    11.41,
+    11.83
+   ],
+   [
+    "by",
+    11.83,
+    12.13
+   ],
+   [
+    "warm",
+    12.13,
+    12.45
+   ],
+   [
+    "Gulf",
+    12.45,
+    12.73
+   ],
+   [
+    "moisture",
+    12.73,
+    13.21
+   ],
+   [
+    "dumped",
+    13.21,
+    13.71
+   ],
+   [
+    "massive",
+    13.71,
+    14.25
+   ],
+   [
+    "amounts",
+    14.25,
+    14.53
+   ],
+   [
+    "of",
+    14.53,
+    14.75
+   ],
+   [
+    "rain.",
+    14.75,
+    15.09
+   ],
+   [
+    "Nearby",
+    15.69,
+    15.99
+   ],
+   [
+    "Bangkok",
+    15.99,
+    16.33
+   ],
+   [
+    "saw",
+    16.33,
+    16.69
+   ],
+   [
+    "nearly",
+    16.69,
+    17.01
+   ],
+   [
+    "300",
+    17.01,
+    17.69
+   ],
+   [
+    "millimeters",
+    17.69,
+    17.99
+   ],
+   [
+    "of",
+    17.99,
+    18.47
+   ],
+   [
+    "rain",
+    18.47,
+    18.67
+   ],
+   [
+    "in",
+    18.67,
+    18.89
+   ],
+   [
+    "just",
+    18.89,
+    19.11
+   ],
+   [
+    "48",
+    19.11,
+    19.61
+   ],
+   [
+    "hours.",
+    19.61,
+    20.27
+   ],
+   [
+    "In",
+    20.81,
+    20.89
+   ],
+   [
+    "total,",
+    20.89,
+    21.37
+   ],
+   [
+    "flooding",
+    21.73,
+    21.85
+   ],
+   [
+    "hit",
+    21.85,
+    22.09
+   ],
+   [
+    "50",
+    22.09,
+    22.47
+   ],
+   [
+    "provinces",
+    22.47,
+    22.97
+   ],
+   [
+    "nationwide.",
+    22.97,
+    23.71
+   ],
+   [
+    "Government",
+    24.45,
+    24.65
+   ],
+   [
+    "agencies",
+    24.65,
+    25.13
+   ],
+   [
+    "estimate",
+    25.13,
+    25.63
+   ],
+   [
+    "over",
+    25.63,
+    25.93
+   ],
+   [
+    "270,000",
+    25.93,
+    27.13
+   ],
+   [
+    "hectares",
+    27.63,
+    28.05
+   ],
+   [
+    "of",
+    28.05,
+    28.19
+   ],
+   [
+    "farmland",
+    28.19,
+    28.61
+   ],
+   [
+    "have",
+    28.61,
+    28.73
+   ],
+   [
+    "been",
+    28.77,
+    28.87
+   ],
+   [
+    "damaged.",
+    28.87,
+    29.37
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   21,
+   35,
+   47,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Heavy_rain_storm_adding_to_the_flood_water_-_geograph.org.uk_-_3276457.jpg/960px-Heavy_rain_storm_adding_to_the_flood_water_-_geograph.org.uk_-_3276457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Richard Humphrey",
+   "page": "https://commons.wikimedia.org/wiki/File:Heavy_rain_storm_adding_to_the_flood_water_-_geograph.org.uk_-_3276457.jpg",
+   "desc": "Heavy rain storm adding to the flood water - geograph.org.uk - 3276457 — Heavy rain storm adding to the flood water"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Offshore_Low-Pressure_System_Expected_to_Impact_San_Francisco_Area_%28NESDIS_2019-12-05%29.jpg/960px-Offshore_Low-Pressure_System_Expected_to_Impact_San_Francisco_Area_%28NESDIS_2019-12-05%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Offshore_Low-Pressure_System_Expected_to_Impact_San_Francisco_Area_(NESDIS_2019-12-05).jpg",
+   "desc": "Offshore Low-Pressure System Expected to Impact San Francisco Area (NESDIS 2019-12-05) — On Dec. 4, 2019 at 5:40 p.m. EST, the GOES satellites captured a large low-pressure system moving toward the continental US from the southeast. The storm is expected to ma"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flooding_in_Bangkok%2C_Thailand_%28ASTER%29.jpg/960px-Flooding_in_Bangkok%2C_Thailand_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 704,
+   "license": "Public domain",
+   "artist": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
+   "page": "https://commons.wikimedia.org/wiki/File:Flooding_in_Bangkok,_Thailand_(ASTER).jpg",
+   "desc": "Flooding in Bangkok, Thailand (ASTER) — The flooding from the Chao Phraya River, Thailand moved steadily south towards the capital city of Bangkok. The top image was acquired November 1, and shows Don Muang, Bangkok's domestic airport, under water. Compared to"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/2011_flooding_in_Ayutthaya_Province-EO-1_merged.jpg/960px-2011_flooding_in_Ayutthaya_Province-EO-1_merged.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 491,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory image created by Jesse Allen and Robert Simmon, using EO-",
+   "page": "https://commons.wikimedia.org/wiki/File:2011_flooding_in_Ayutthaya_Province-EO-1_merged.jpg",
+   "desc": "2011 flooding in Ayutthaya Province-EO-1 merged — True-colour satellite image showing flooding in Ayutthaya and Pathum Thani Provinces in Central Thailand (right), compared to before the flooding (left). Original caption: The Chao Phraya River forms at the con"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "million",
+   "label": "people affected"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 300,
+   "unit": "mm",
+   "label": "rainfall in Bangkok"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 270000,
+   "unit": "hectares",
+   "label": "farmland damaged"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Floodwaters Overwhelm Thailand",
+  "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T17:11:13Z",
+ "trimmed": true
+}
