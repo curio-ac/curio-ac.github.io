@@ -233,7 +233,8 @@
   "1877 Wimbledon Championship",
   "City of Blinding Lights",
   "Barnard's Star",
-  "nasa:1282356"
+  "nasa:1282356",
+  "1969 Curaçao uprising"
  ],
  "rejected": [
   "Chameleon",
@@ -292,7 +293,8 @@
   "nasa:1504557",
   "2003 Pacific hurricane season",
   "Crawford expedition",
-  "Eliza Acton"
+  "Eliza Acton",
+  "Computer Space"
  ],
  "angles": {
   "Blue whale": [
@@ -1070,6 +1072,9 @@
   ],
   "nasa:1282356": [
    "Saturn's New 10-Sided Wave: Saturn now has a 10-sided atmospheric wave."
+  ],
+  "1969 Curaçao uprising": [
+   "Curaçao's 1969 Violent Uprising: A labor strike ignited a Caribbean uprising."
   ]
  },
  "exhausted": []

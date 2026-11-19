@@ -1,0 +1,438 @@
+{
+ "id": "en-56f0d39a",
+ "lang": "en",
+ "title": "City Trapped in Mountains",
+ "cat": "geography",
+ "emoji": "🏔️",
+ "sentences": [
+  "Monterrey is trapped by giant mountains.",
+  "The Sierra Madre Oriental ridges surround this massive Mexican industrial hub.",
+  "Millions of people live right up against these ancient limestone folds.",
+  "A dry riverbed runs through the city center, collecting rare summer rain.",
+  "Wildlife thrives on nearby peaks like the 1,500-meter Sierra Las Mitras.",
+  "This stunning landscape was captured from space by an astronaut."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Monterrey",
+    0.35,
+    0.71
+   ],
+   [
+    "is",
+    0.71,
+    0.89
+   ],
+   [
+    "trapped",
+    0.89,
+    1.11
+   ],
+   [
+    "by",
+    1.11,
+    1.37
+   ],
+   [
+    "giant",
+    1.37,
+    1.65
+   ],
+   [
+    "mountains.",
+    1.65,
+    2.35
+   ],
+   [
+    "The",
+    2.61,
+    2.63
+   ],
+   [
+    "Sierra",
+    2.63,
+    2.87
+   ],
+   [
+    "Madre",
+    2.87,
+    3.37
+   ],
+   [
+    "Oriental",
+    3.37,
+    3.81
+   ],
+   [
+    "ridges",
+    3.81,
+    4.29
+   ],
+   [
+    "surround",
+    4.29,
+    4.69
+   ],
+   [
+    "this",
+    4.69,
+    4.93
+   ],
+   [
+    "massive",
+    4.93,
+    5.29
+   ],
+   [
+    "Mexican",
+    5.29,
+    5.77
+   ],
+   [
+    "industrial",
+    5.77,
+    6.11
+   ],
+   [
+    "hub.",
+    6.11,
+    7.01
+   ],
+   [
+    "Millions",
+    7.01,
+    7.31
+   ],
+   [
+    "of",
+    7.31,
+    7.43
+   ],
+   [
+    "people",
+    7.43,
+    7.65
+   ],
+   [
+    "live",
+    7.65,
+    7.89
+   ],
+   [
+    "right",
+    7.89,
+    8.09
+   ],
+   [
+    "up",
+    8.09,
+    8.25
+   ],
+   [
+    "against",
+    8.25,
+    8.49
+   ],
+   [
+    "these",
+    8.49,
+    8.71
+   ],
+   [
+    "ancient",
+    8.71,
+    9.03
+   ],
+   [
+    "limestone",
+    9.03,
+    9.45
+   ],
+   [
+    "folds.",
+    9.45,
+    9.97
+   ],
+   [
+    "A",
+    10.41,
+    10.49
+   ],
+   [
+    "dry",
+    10.49,
+    10.69
+   ],
+   [
+    "riverbed",
+    10.69,
+    11.13
+   ],
+   [
+    "runs",
+    11.13,
+    11.39
+   ],
+   [
+    "through",
+    11.39,
+    11.61
+   ],
+   [
+    "the",
+    11.61,
+    11.73
+   ],
+   [
+    "city",
+    11.73,
+    11.91
+   ],
+   [
+    "center,",
+    11.91,
+    12.45
+   ],
+   [
+    "collecting",
+    12.67,
+    12.77
+   ],
+   [
+    "rare",
+    12.77,
+    13.11
+   ],
+   [
+    "summer",
+    13.11,
+    13.37
+   ],
+   [
+    "rain.",
+    13.37,
+    13.85
+   ],
+   [
+    "Wildlife",
+    14.21,
+    14.49
+   ],
+   [
+    "thrives",
+    14.49,
+    15.05
+   ],
+   [
+    "on",
+    15.05,
+    15.19
+   ],
+   [
+    "nearby",
+    15.19,
+    15.43
+   ],
+   [
+    "peaks",
+    15.43,
+    15.87
+   ],
+   [
+    "like",
+    15.87,
+    16.03
+   ],
+   [
+    "the",
+    16.03,
+    16.17
+   ],
+   [
+    "1,500-meter",
+    16.17,
+    16.83
+   ],
+   [
+    "Sierra",
+    16.83,
+    17.17
+   ],
+   [
+    "Las",
+    17.17,
+    17.49
+   ],
+   [
+    "Mitras.",
+    17.49,
+    18.03
+   ],
+   [
+    "This",
+    18.41,
+    18.53
+   ],
+   [
+    "stunning",
+    18.53,
+    18.83
+   ],
+   [
+    "landscape",
+    18.83,
+    19.31
+   ],
+   [
+    "was",
+    19.31,
+    19.53
+   ],
+   [
+    "captured",
+    19.53,
+    19.83
+   ],
+   [
+    "from",
+    19.83,
+    20.05
+   ],
+   [
+    "space",
+    20.05,
+    20.33
+   ],
+   [
+    "by",
+    20.33,
+    20.57
+   ],
+   [
+    "an",
+    20.57,
+    20.69
+   ],
+   [
+    "astronaut.",
+    20.69,
+    21.19
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   28,
+   40,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Monterrey_Amid_Mountains_%281310209%29.jpg/960px-Monterrey_Amid_Mountains_%281310209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "August 26, 2026",
+   "page": "https://commons.wikimedia.org/wiki/File:Monterrey_Amid_Mountains_(1310209).jpg",
+   "desc": "Monterrey Amid Mountains (1310209) — Astronaut photograph ISS075-E-70481 was acquired on August 26, 2026, with a Nikon Z9 digital camera using a focal length of 400 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Scienc"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Monterrey_Amid_Mountains_%281310209_-_lrg%29.jpg/960px-Monterrey_Amid_Mountains_%281310209_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "August 26, 2026",
+   "page": "https://commons.wikimedia.org/wiki/File:Monterrey_Amid_Mountains_(1310209_-_lrg).jpg",
+   "desc": "Monterrey Amid Mountains (1310209 - lrg) — Astronaut photograph ISS075-E-70481 was acquired on August 26, 2026, with a Nikon Z9 digital camera using a focal length of 400 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Sci"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Monterrey_visto_desde_el_Cerro_de_la_Silla.jpg/960px-Monterrey_visto_desde_el_Cerro_de_la_Silla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "MetalixOne",
+   "page": "https://commons.wikimedia.org/wiki/File:Monterrey_visto_desde_el_Cerro_de_la_Silla.jpg",
+   "desc": "Monterrey visto desde el Cerro de la Silla — Municipios de Monterrey y San Pedro Garza García vistos desde el Mirador del Teleférico. Se pueden ver el Cerro de las Mitras y la Sierra Madre Oriental"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Pastizal_en_el_cauce_del_R%C3%ADo_Santa_Catarina_en_Monterrey%2C_Nuevo_Le%C3%B3n%2C_M%C3%A9xico.png/960px-Pastizal_en_el_cauce_del_R%C3%ADo_Santa_Catarina_en_Monterrey%2C_Nuevo_Le%C3%B3n%2C_M%C3%A9xico.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 4.0",
+   "artist": "Chorizoconhuevo",
+   "page": "https://commons.wikimedia.org/wiki/File:Pastizal_en_el_cauce_del_R%C3%ADo_Santa_Catarina_en_Monterrey,_Nuevo_Le%C3%B3n,_M%C3%A9xico.png",
+   "desc": "Pastizal en el cauce del Río Santa Catarina en Monterrey, Nuevo León, México — Vista hacia el Cerro de las Mitras desde un pastizal en el cauce del Río Santa Catarina en Monterrey, Nuevo León, México"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cerro_de_las_mitras_Monterrey_Mexico_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 469,
+   "license": "CC BY-SA 3.0",
+   "artist": "Valdez Lopez",
+   "page": "https://commons.wikimedia.org/wiki/File:Cerro_de_las_mitras_Monterrey_Mexico_3.jpg",
+   "desc": "Cerro de las mitras Monterrey Mexico 3 — Cerro de las Mitras, seen from the Sierra Madre Oriental (inside Chipinque National Park)."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Sierra Madre Oriental",
+   "box": [
+    73,
+    13,
+    355,
+    525
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 5.3,
+   "unit": "million",
+   "label": "people"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 1500,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+ "pron_wer": 0.048,
+ "angle": 0,
+ "source": {
+  "title": "Monterrey Amid Mountains",
+  "url": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T22:01:05Z",
+ "trimmed": true
+}
