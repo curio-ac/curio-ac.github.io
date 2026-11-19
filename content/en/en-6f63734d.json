@@ -1,0 +1,461 @@
+{
+ "id": "en-6f63734d",
+ "lang": "en",
+ "title": "Lab-Grown Brains in Space",
+ "cat": "space",
+ "emoji": "🧠",
+ "sentences": [
+  "NASA is sending lab-grown brains to space.",
+  "SpaceX’s 35th resupply mission carries 4 key investigations.",
+  "Scientists are studying how the human brain responds to space stress at the cellular level.",
+  "Another experiment tests if crop diseases spread faster in microgravity.",
+  "Astronauts are also tracking antibiotic-resistant bacteria on the space station.",
+  "This research helps astronauts stay healthy while potentially improving medicine here on Earth."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.28,
+    0.28
+   ],
+   [
+    "is",
+    0.28,
+    0.64
+   ],
+   [
+    "sending",
+    0.64,
+    0.94
+   ],
+   [
+    "lab-grown",
+    0.94,
+    1.62
+   ],
+   [
+    "brains",
+    1.62,
+    2.1
+   ],
+   [
+    "to",
+    2.26,
+    2.36
+   ],
+   [
+    "space.",
+    2.36,
+    2.9
+   ],
+   [
+    "SpaceX’s",
+    3.46,
+    4.02
+   ],
+   [
+    "35th",
+    4.02,
+    4.64
+   ],
+   [
+    "resupply",
+    4.64,
+    5.06
+   ],
+   [
+    "mission",
+    5.06,
+    5.4
+   ],
+   [
+    "carries",
+    5.4,
+    5.76
+   ],
+   [
+    "4",
+    5.8,
+    6.14
+   ],
+   [
+    "key",
+    6.14,
+    6.44
+   ],
+   [
+    "investigations.",
+    6.44,
+    7.2
+   ],
+   [
+    "Scientists",
+    8.06,
+    8.26
+   ],
+   [
+    "are",
+    8.26,
+    8.64
+   ],
+   [
+    "studying",
+    8.64,
+    8.98
+   ],
+   [
+    "how",
+    8.98,
+    9.36
+   ],
+   [
+    "the",
+    9.36,
+    9.52
+   ],
+   [
+    "human",
+    9.52,
+    9.74
+   ],
+   [
+    "brain",
+    9.74,
+    10.02
+   ],
+   [
+    "responds",
+    10.02,
+    10.38
+   ],
+   [
+    "to",
+    10.38,
+    10.78
+   ],
+   [
+    "space",
+    10.78,
+    11.04
+   ],
+   [
+    "stress",
+    11.04,
+    11.36
+   ],
+   [
+    "at",
+    11.36,
+    11.66
+   ],
+   [
+    "the",
+    11.7,
+    11.8
+   ],
+   [
+    "cellular",
+    11.8,
+    12.16
+   ],
+   [
+    "level.",
+    12.16,
+    12.54
+   ],
+   [
+    "Another",
+    13.24,
+    13.42
+   ],
+   [
+    "experiment",
+    13.42,
+    14.0
+   ],
+   [
+    "tests",
+    14.18,
+    14.34
+   ],
+   [
+    "if",
+    14.34,
+    14.6
+   ],
+   [
+    "crop",
+    14.74,
+    14.84
+   ],
+   [
+    "diseases",
+    14.84,
+    15.18
+   ],
+   [
+    "spread",
+    15.18,
+    15.58
+   ],
+   [
+    "faster",
+    15.58,
+    16.06
+   ],
+   [
+    "in",
+    16.06,
+    16.28
+   ],
+   [
+    "microgravity.",
+    16.28,
+    16.9
+   ],
+   [
+    "Astronauts",
+    17.64,
+    18.12
+   ],
+   [
+    "are",
+    18.12,
+    18.18
+   ],
+   [
+    "also",
+    18.18,
+    18.5
+   ],
+   [
+    "tracking",
+    18.5,
+    18.88
+   ],
+   [
+    "antibiotic-resistant",
+    19.14,
+    20.08
+   ],
+   [
+    "bacteria",
+    20.08,
+    20.56
+   ],
+   [
+    "on",
+    20.56,
+    20.92
+   ],
+   [
+    "the",
+    20.94,
+    21.04
+   ],
+   [
+    "space",
+    21.04,
+    21.24
+   ],
+   [
+    "station.",
+    21.24,
+    21.6
+   ],
+   [
+    "This",
+    22.26,
+    22.4
+   ],
+   [
+    "research",
+    22.4,
+    22.7
+   ],
+   [
+    "helps",
+    22.7,
+    23.06
+   ],
+   [
+    "astronauts",
+    23.06,
+    23.52
+   ],
+   [
+    "stay",
+    23.54,
+    23.88
+   ],
+   [
+    "healthy",
+    23.88,
+    24.28
+   ],
+   [
+    "while",
+    24.64,
+    24.74
+   ],
+   [
+    "potentially",
+    24.74,
+    25.24
+   ],
+   [
+    "improving",
+    25.24,
+    25.62
+   ],
+   [
+    "medicine",
+    25.62,
+    26.18
+   ],
+   [
+    "here",
+    26.18,
+    26.4
+   ],
+   [
+    "on",
+    26.4,
+    26.56
+   ],
+   [
+    "Earth.",
+    26.56,
+    26.78
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   30,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Organoid_during_development_%2848062903426%29.jpg/960px-Organoid_during_development_%2848062903426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NIH Image Gallery from Bethesda, Maryland, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Organoid_during_development_(48062903426).jpg",
+   "desc": "Organoid during development (48062903426) — Human cerebral organoids are small balls of human brain cells ranging in size from a poppy seed to a small pea. Their organization, structure, and electrical signaling are similar to brain tissue. Because these cereb"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Dragon_2_Cargo_Capsule.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Dragon_2_Cargo_Capsule.png",
+   "desc": "Dragon 2 Cargo Capsule — Upgraded Dragon 2 Cargo Capsule design for SpaceX CRS-21 Mission."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Neuron_in_tissue_culture.jpg/960px-Neuron_in_tissue_culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 566,
+   "license": "CC BY-SA 3.0",
+   "artist": "GerryShaw",
+   "page": "https://commons.wikimedia.org/wiki/File:Neuron_in_tissue_culture.jpg",
+   "desc": "Neuron in tissue culture — Cortical neuron stained with antibody to neurofilament subunit NF-L in green. In red are neuronal stem cells stained with antibody to alpha-internexin. Image created using antibodies from EnCor Biotechnology Inc."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Genetically_modified%2C_extemely_dwarf_tomato_plants_grow_aboard_the_International_Space_Station_%28iss073e0032789%29.jpg/960px-Genetically_modified%2C_extemely_dwarf_tomato_plants_grow_aboard_the_International_Space_Station_%28iss073e0032789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Johnson Space Center",
+   "page": "https://commons.wikimedia.org/wiki/File:Genetically_modified,_extemely_dwarf_tomato_plants_grow_aboard_the_International_Space_Station_(iss073e0032789).jpg",
+   "desc": "Genetically modified, extemely dwarf tomato plants grow aboard the International Space Station (iss073e0032789) — iss073e0032789 (May 16, 2025) --- Genetically modified, extemely dwarf tomato plants are pictured growing inside specialized research hardware, ca"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Agarplates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 742,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Agarplates.jpg",
+   "desc": "Agarplates — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Medical_Research_Lab%2C_Brown_University.jpg/960px-Medical_Research_Lab%2C_Brown_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Giddy75",
+   "page": "https://commons.wikimedia.org/wiki/File:Medical_Research_Lab,_Brown_University.jpg",
+   "desc": "Medical Research Lab, Brown University — Medical Research Lab, Brown University, Providence, RI"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "lab-grown brain model",
+   "box": [
+    4,
+    0,
+    996,
+    1000
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 35,
+   "unit": "th mission",
+   "label": "SpaceX resupply mission"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "antibiotic-resistant bacteria",
+   "box": [
+    127,
+    108,
+    844,
+    870
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+  "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T14:59:35Z",
+ "trimmed": true
+}

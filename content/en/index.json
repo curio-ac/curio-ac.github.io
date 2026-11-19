@@ -215,7 +215,8 @@
   "nasa:1509114",
   "Marjory Stoneman Douglas",
   "nasa:1282932",
-  "Construction of Rockefeller Center"
+  "Construction of Rockefeller Center",
+  "Cyclone Ada"
  ],
  "rejected": [
   "Chameleon",
@@ -991,6 +992,9 @@
   ],
   "Construction of Rockefeller Center": [
    "Rockefeller Center's Hidden Origin: Rockefeller Center was once a university campus."
+  ],
+  "Cyclone Ada": [
+   "Cyclone Ada's Devastating Path: Cyclone Ada redefined the Whitsunday Islands forever."
   ]
  },
  "exhausted": []
