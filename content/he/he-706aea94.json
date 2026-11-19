@@ -1,0 +1,379 @@
+{
+ "id": "he-706aea94",
+ "lang": "he",
+ "title": "הנשיא שהחזיק 113 עבדים",
+ "cat": "history",
+ "emoji": "🇺🇸",
+ "sentences": [
+  "ג'פרסון דייוויס החזיק ב-113 עבדים במטע הכותנה שלו.",
+  "הוא היה נשיא הקונפדרציה במהלך מלחמת האזרחים האמריקנית.",
+  "לפני כן, הוא כיהן כמזכיר המלחמה של ארצות הברית.",
+  "דייוויס למד בווסט פוינט ושירת כקצין במלחמה מול מקסיקו.",
+  "למרות עמדותיו, הוא היה ידיד קרוב של פוליטיקאים יהודים.",
+  "היסטוריונים רבים מאשימים אותו בניהול כושל של הקונפדרציה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "ג'פרסון",
+    0.08,
+    0.7
+   ],
+   [
+    "דייוויס",
+    0.7,
+    1.3
+   ],
+   [
+    "החזיק",
+    1.3,
+    1.8
+   ],
+   [
+    "ב-113",
+    1.8,
+    2.82
+   ],
+   [
+    "עבדים",
+    2.82,
+    3.92
+   ],
+   [
+    "במטע",
+    3.92,
+    4.4
+   ],
+   [
+    "הכותנה",
+    4.4,
+    4.9
+   ],
+   [
+    "שלו.",
+    4.9,
+    5.14
+   ],
+   [
+    "הוא",
+    5.78,
+    5.8
+   ],
+   [
+    "היה",
+    5.8,
+    5.98
+   ],
+   [
+    "נשיא",
+    5.98,
+    6.42
+   ],
+   [
+    "הקונפדרציה",
+    6.42,
+    7.36
+   ],
+   [
+    "במהלך",
+    7.36,
+    7.98
+   ],
+   [
+    "מלחמת",
+    8.44,
+    8.54
+   ],
+   [
+    "האזרחים",
+    8.54,
+    9.16
+   ],
+   [
+    "האמריקנית.",
+    9.16,
+    9.74
+   ],
+   [
+    "לפני",
+    10.64,
+    10.76
+   ],
+   [
+    "כן,",
+    10.76,
+    11.16
+   ],
+   [
+    "הוא",
+    11.22,
+    11.26
+   ],
+   [
+    "כיהן",
+    11.34,
+    11.62
+   ],
+   [
+    "כמזכיר",
+    11.62,
+    12.24
+   ],
+   [
+    "המלחמה",
+    12.24,
+    12.82
+   ],
+   [
+    "של",
+    12.82,
+    13.08
+   ],
+   [
+    "ארצות",
+    13.08,
+    13.4
+   ],
+   [
+    "הברית.",
+    13.4,
+    13.74
+   ],
+   [
+    "דייוויס",
+    14.42,
+    14.8
+   ],
+   [
+    "למד",
+    14.8,
+    15.18
+   ],
+   [
+    "בווסט",
+    15.18,
+    15.78
+   ],
+   [
+    "פוינט",
+    15.78,
+    16.1
+   ],
+   [
+    "ושירת",
+    16.36,
+    16.8
+   ],
+   [
+    "כקצין",
+    16.8,
+    17.46
+   ],
+   [
+    "במלחמה",
+    17.46,
+    18.14
+   ],
+   [
+    "מול",
+    18.14,
+    18.4
+   ],
+   [
+    "מקסיקו.",
+    18.4,
+    18.54
+   ],
+   [
+    "למרות",
+    19.56,
+    19.88
+   ],
+   [
+    "עמדותיו,",
+    19.88,
+    20.42
+   ],
+   [
+    "הוא",
+    20.58,
+    20.66
+   ],
+   [
+    "היה",
+    20.66,
+    20.84
+   ],
+   [
+    "ידיד",
+    20.84,
+    21.24
+   ],
+   [
+    "קרוב",
+    21.24,
+    21.7
+   ],
+   [
+    "של",
+    21.7,
+    21.92
+   ],
+   [
+    "פוליטיקאים",
+    21.92,
+    22.62
+   ],
+   [
+    "יהודים.",
+    22.62,
+    23.18
+   ],
+   [
+    "היסטוריונים",
+    23.78,
+    24.22
+   ],
+   [
+    "רבים",
+    24.22,
+    24.72
+   ],
+   [
+    "מאשימים",
+    24.72,
+    25.36
+   ],
+   [
+    "אותו",
+    25.36,
+    25.56
+   ],
+   [
+    "בניהול",
+    25.56,
+    26.12
+   ],
+   [
+    "כושל",
+    26.12,
+    26.64
+   ],
+   [
+    "של",
+    26.64,
+    26.82
+   ],
+   [
+    "הקונפדרציה.",
+    26.82,
+    27.7
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   25,
+   34,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Beauvoir_01.JPG/960px-Beauvoir_01.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY-SA 3.0",
+   "artist": "Altairisfar (Jeffrey Reed)",
+   "page": "https://commons.wikimedia.org/wiki/File:Beauvoir_01.JPG",
+   "desc": "Beauvoir 01 — Beauvoir in Biloxi, Mississippi. Post-restoration, following massive damage from Hurricane Katrina."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/1861_Davis_Inaugural.jpg/960px-1861_Davis_Inaugural.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 969,
+   "license": "Public domain",
+   "artist": "Archibald Crossland McIntyre of Montgomery, Alabama",
+   "page": "https://commons.wikimedia.org/wiki/File:1861_Davis_Inaugural.jpg",
+   "desc": "1861 Davis Inaugural — First inauguration of Jefferson Davis as President of the Confederate States of America at Montgomery, Alabama, February 18, 1861. Lithographs based on this image were published from the 1860s onward, however, the actual"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jefferson_Davis_1847-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 903,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Jefferson_Davis_1847-2.jpg",
+   "desc": "Jefferson Davis 1847-2 — Jefferson Davis (1808-89), American Politician, served as President of the Confederate States during American Civil War, Mississippi State Senator and Congressman before American Civil War, U.S. Secretary of State under "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jefferson_Davis_1847.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 920,
+   "license": "Public domain",
+   "artist": "Unknown (18??-18??)",
+   "page": "https://commons.wikimedia.org/wiki/File:Jefferson_Davis_1847.jpg",
+   "desc": "Jefferson Davis 1847 — Jefferson Davis, c.1846"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Confederate_Cabinet.jpg/960px-Confederate_Cabinet.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 585,
+   "license": "Public domain",
+   "artist": "Harper's Weekly",
+   "page": "https://commons.wikimedia.org/wiki/File:Confederate_Cabinet.jpg",
+   "desc": "Confederate Cabinet — The cabinet of the Confederate States at Montgomery / from photographs by Whitehurst, of Washington, and Hinton, of Montgomery, Alabama. The two men seated in the middle are C.S. Vice President Alexander H. Stephens (D-G"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 113,
+   "unit": "עבדים",
+   "label": "מספר עבדים"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1853
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q162269",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "ג'פרסון דייוויס",
+  "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%A4%D7%A8%D7%A1%D7%95%D7%9F_%D7%93%D7%99%D7%99%D7%95%D7%95%D7%99%D7%A1",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T12:00:25Z",
+ "trimmed": true
+}
