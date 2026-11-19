@@ -1,0 +1,421 @@
+{
+ "id": "en-2825cf38",
+ "lang": "en",
+ "title": "Humans Changing Earth's Water",
+ "cat": "geography",
+ "emoji": "🌍",
+ "sentences": [
+  "Humans are drastically changing Earth's water.",
+  "NASA satellites tracked water movement over 2 decades.",
+  "Researchers identified 40 regions where human activities like farming shifted water storage.",
+  "In 4 continental regions, human impact even outweighed climate variability.",
+  "This includes heavy groundwater pumping in California and northern India.",
+  "Meanwhile, massive reservoirs and leaky canals are changing water levels in remote deserts."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Humans",
+    0.35,
+    0.35
+   ],
+   [
+    "are",
+    0.35,
+    0.63
+   ],
+   [
+    "drastically",
+    0.63,
+    1.13
+   ],
+   [
+    "changing",
+    1.21,
+    1.59
+   ],
+   [
+    "Earth's",
+    1.85,
+    1.95
+   ],
+   [
+    "water.",
+    1.95,
+    2.15
+   ],
+   [
+    "NASA",
+    2.65,
+    2.87
+   ],
+   [
+    "satellites",
+    2.87,
+    3.35
+   ],
+   [
+    "tracked",
+    3.35,
+    3.61
+   ],
+   [
+    "water",
+    3.61,
+    3.89
+   ],
+   [
+    "movement",
+    3.89,
+    4.17
+   ],
+   [
+    "over",
+    4.17,
+    4.43
+   ],
+   [
+    "2",
+    4.43,
+    4.73
+   ],
+   [
+    "decades.",
+    4.73,
+    5.43
+   ],
+   [
+    "Researchers",
+    5.67,
+    5.89
+   ],
+   [
+    "identified",
+    5.89,
+    6.27
+   ],
+   [
+    "40",
+    6.35,
+    6.85
+   ],
+   [
+    "regions",
+    6.85,
+    7.33
+   ],
+   [
+    "where",
+    7.41,
+    7.51
+   ],
+   [
+    "human",
+    7.51,
+    7.77
+   ],
+   [
+    "activities",
+    7.77,
+    8.19
+   ],
+   [
+    "like",
+    8.19,
+    8.43
+   ],
+   [
+    "farming",
+    8.55,
+    8.77
+   ],
+   [
+    "shifted",
+    8.77,
+    9.23
+   ],
+   [
+    "water",
+    9.37,
+    9.55
+   ],
+   [
+    "storage.",
+    9.55,
+    9.89
+   ],
+   [
+    "In",
+    10.41,
+    10.49
+   ],
+   [
+    "4",
+    10.49,
+    10.71
+   ],
+   [
+    "continental",
+    10.71,
+    11.03
+   ],
+   [
+    "regions,",
+    11.03,
+    11.49
+   ],
+   [
+    "human",
+    11.93,
+    11.99
+   ],
+   [
+    "impact",
+    11.99,
+    12.31
+   ],
+   [
+    "even",
+    12.31,
+    12.57
+   ],
+   [
+    "outweighed",
+    12.57,
+    13.15
+   ],
+   [
+    "climate",
+    13.15,
+    13.39
+   ],
+   [
+    "variability.",
+    13.39,
+    13.89
+   ],
+   [
+    "This",
+    14.37,
+    14.41
+   ],
+   [
+    "includes",
+    14.41,
+    14.71
+   ],
+   [
+    "heavy",
+    14.71,
+    14.97
+   ],
+   [
+    "groundwater",
+    14.97,
+    15.33
+   ],
+   [
+    "pumping",
+    15.33,
+    15.69
+   ],
+   [
+    "in",
+    15.69,
+    15.87
+   ],
+   [
+    "California",
+    15.97,
+    16.27
+   ],
+   [
+    "and",
+    16.33,
+    16.81
+   ],
+   [
+    "northern",
+    16.89,
+    17.13
+   ],
+   [
+    "India.",
+    17.13,
+    17.63
+   ],
+   [
+    "Meanwhile,",
+    18.17,
+    18.49
+   ],
+   [
+    "massive",
+    18.55,
+    18.83
+   ],
+   [
+    "reservoirs",
+    18.83,
+    19.33
+   ],
+   [
+    "and",
+    19.33,
+    19.43
+   ],
+   [
+    "leaky",
+    19.43,
+    19.67
+   ],
+   [
+    "canals",
+    19.83,
+    20.01
+   ],
+   [
+    "are",
+    20.01,
+    20.15
+   ],
+   [
+    "changing",
+    20.15,
+    20.45
+   ],
+   [
+    "water",
+    20.45,
+    20.73
+   ],
+   [
+    "levels",
+    20.73,
+    20.99
+   ],
+   [
+    "in",
+    20.99,
+    21.15
+   ],
+   [
+    "remote",
+    21.17,
+    21.47
+   ],
+   [
+    "deserts.",
+    21.47,
+    21.89
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   26,
+   36,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg/960px-North_America_from_low_orbiting_satellite_Suomi_NPP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring",
+   "page": "https://commons.wikimedia.org/wiki/File:North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
+   "desc": "North America from low orbiting satellite Suomi NPP — A view of most of North America taken from a low orbit of about 826 km altitude. The whole hemisphere is not visible owing to the low orbit, and the horizon is at a distance of about 3,300 km, while the rad"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Annual-exhaustion-of-water-supplies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 400,
+   "license": "CC BY 3.0",
+   "artist": "Hoekstra et al.",
+   "page": "https://commons.wikimedia.org/wiki/File:Annual-exhaustion-of-water-supplies.jpg",
+   "desc": "Annual-exhaustion-of-water-supplies — World map showing showing how many months per year major river basins experience water scarcity"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/WWDR4_Global_physical_and_economic_water_scarcity.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 364,
+   "license": "Public domain",
+   "artist": "World Water Assessment Programme (WWAP)",
+   "page": "https://commons.wikimedia.org/wiki/File:WWDR4_Global_physical_and_economic_water_scarcity.png",
+   "desc": "WWDR4 Global physical and economic water scarcity — World Water Development Report 4. World Water Assessment Programme (WWAP), March 2012."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Borewell_pump_and_irrigation_pipes_in_a_Raichur%2C_India_agricultural_fields_growing_cotton.jpg/960px-Borewell_pump_and_irrigation_pipes_in_a_Raichur%2C_India_agricultural_fields_growing_cotton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "User: Vraj Acharya, WELL Labs",
+   "page": "https://commons.wikimedia.org/wiki/File:Borewell_pump_and_irrigation_pipes_in_a_Raichur,_India_agricultural_fields_growing_cotton.jpg",
+   "desc": "Borewell pump and irrigation pipes in a Raichur, India agricultural fields growing cotton — A modern agricultural scene showing the mechanics of groundwater extraction. A borewell pump head is seen in the foreground, with flexible black piping running through "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Irrigation_Landsat8.jpg/960px-Irrigation_Landsat8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1020,
+   "license": "CC BY-SA 4.0",
+   "artist": "Anastasiya.Tishaeva",
+   "page": "https://commons.wikimedia.org/wiki/File:Irrigation_Landsat8.jpg",
+   "desc": "Irrigation Landsat8 — The picture is satellite image of irrigated crops and Kakhov irrigation canal. It is captured 7-Aug 2015 by Landsat8 (OLI) under USGS/NASA Landsat Program. The image is created as True Color Composite, where R – Red Band"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "decades",
+   "label": "tracking period"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "regions",
+   "label": "strongest human impact"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "The Human Fingerprint on Earth’s Water Cycle",
+  "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T15:50:48Z",
+ "trimmed": true
+}
