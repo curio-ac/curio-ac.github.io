@@ -239,7 +239,8 @@
   "Dracunculiasis",
   "nasa:1497430",
   "Banksia caleyi",
-  "Louis Abramson"
+  "Louis Abramson",
+  "nasa:1462714"
  ],
  "rejected": [
   "Chameleon",
@@ -1095,6 +1096,9 @@
   ],
   "Louis Abramson": [
    "Self-Taught Architect Louis Abramson: He designed buildings without a college degree."
+  ],
+  "nasa:1462714": [
+   "Space’s Giant Magnifying Glasses: Galaxies act like giant magnifying glasses."
   ]
  },
  "exhausted": []

@@ -1,0 +1,433 @@
+{
+ "id": "en-7276c42d",
+ "lang": "en",
+ "title": "The Hunt for Nazi Nukes",
+ "cat": "history",
+ "emoji": "☢️",
+ "sentences": [
+  "Allies hunted Nazi nukes behind enemy lines.",
+  "The Alsos Mission tracked German nuclear technology progress during WWII.",
+  "Their team included British and American scientific and military intelligence personnel.",
+  "They raced to seize uranium and research before the Soviet Union could.",
+  "They also investigated secret chemical and biological weapon sites.",
+  "Even the famous V-2 rocket program became a target for intelligence gathering."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Allies",
+    0.3,
+    0.3
+   ],
+   [
+    "hunted",
+    0.3,
+    0.72
+   ],
+   [
+    "Nazi",
+    0.72,
+    1.14
+   ],
+   [
+    "nukes",
+    1.14,
+    1.64
+   ],
+   [
+    "behind",
+    1.76,
+    2.0
+   ],
+   [
+    "enemy",
+    2.0,
+    2.34
+   ],
+   [
+    "lines.",
+    2.34,
+    2.68
+   ],
+   [
+    "The",
+    3.28,
+    3.34
+   ],
+   [
+    "Alsos",
+    3.34,
+    3.78
+   ],
+   [
+    "Mission",
+    3.78,
+    4.08
+   ],
+   [
+    "tracked",
+    4.28,
+    4.44
+   ],
+   [
+    "German",
+    4.44,
+    4.84
+   ],
+   [
+    "nuclear",
+    4.84,
+    5.06
+   ],
+   [
+    "technology",
+    5.1,
+    5.72
+   ],
+   [
+    "progress",
+    5.72,
+    6.08
+   ],
+   [
+    "during",
+    6.08,
+    6.44
+   ],
+   [
+    "WWII.",
+    6.44,
+    7.7
+   ],
+   [
+    "Their",
+    7.7,
+    7.78
+   ],
+   [
+    "team",
+    7.78,
+    8.02
+   ],
+   [
+    "included",
+    8.02,
+    8.46
+   ],
+   [
+    "British",
+    8.46,
+    8.74
+   ],
+   [
+    "and",
+    8.74,
+    9.02
+   ],
+   [
+    "American",
+    9.02,
+    9.32
+   ],
+   [
+    "scientific",
+    9.36,
+    9.92
+   ],
+   [
+    "and",
+    10.14,
+    10.24
+   ],
+   [
+    "military",
+    10.24,
+    10.56
+   ],
+   [
+    "intelligence",
+    10.56,
+    11.14
+   ],
+   [
+    "personnel.",
+    11.14,
+    11.56
+   ],
+   [
+    "They",
+    12.32,
+    12.42
+   ],
+   [
+    "raced",
+    12.42,
+    12.78
+   ],
+   [
+    "to",
+    12.78,
+    12.96
+   ],
+   [
+    "seize",
+    12.96,
+    13.14
+   ],
+   [
+    "uranium",
+    13.14,
+    13.5
+   ],
+   [
+    "and",
+    13.5,
+    13.8
+   ],
+   [
+    "research",
+    13.8,
+    14.14
+   ],
+   [
+    "before",
+    14.46,
+    14.56
+   ],
+   [
+    "the",
+    14.56,
+    14.78
+   ],
+   [
+    "Soviet",
+    14.78,
+    15.06
+   ],
+   [
+    "Union",
+    15.06,
+    15.34
+   ],
+   [
+    "could.",
+    15.34,
+    15.68
+   ],
+   [
+    "They",
+    16.36,
+    16.44
+   ],
+   [
+    "also",
+    16.44,
+    16.72
+   ],
+   [
+    "investigated",
+    16.72,
+    17.28
+   ],
+   [
+    "secret",
+    17.28,
+    17.68
+   ],
+   [
+    "chemical",
+    17.68,
+    18.06
+   ],
+   [
+    "and",
+    18.06,
+    18.34
+   ],
+   [
+    "biological",
+    18.34,
+    18.7
+   ],
+   [
+    "weapon",
+    18.7,
+    19.14
+   ],
+   [
+    "sites.",
+    19.14,
+    19.24
+   ],
+   [
+    "Even",
+    20.16,
+    20.3
+   ],
+   [
+    "the",
+    20.3,
+    20.48
+   ],
+   [
+    "famous",
+    20.48,
+    20.72
+   ],
+   [
+    "V-2",
+    20.72,
+    21.22
+   ],
+   [
+    "rocket",
+    21.22,
+    21.5
+   ],
+   [
+    "program",
+    21.5,
+    21.92
+   ],
+   [
+    "became",
+    21.92,
+    22.18
+   ],
+   [
+    "a",
+    22.18,
+    22.3
+   ],
+   [
+    "target",
+    22.3,
+    22.6
+   ],
+   [
+    "for",
+    22.6,
+    22.8
+   ],
+   [
+    "intelligence",
+    22.9,
+    23.18
+   ],
+   [
+    "gathering.",
+    23.18,
+    23.52
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   28,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Alsos_Mission_-_Stadtilm_operation.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 494,
+   "license": "Public domain",
+   "artist": "Mickey Thurgood, U. S. Army photographer assigned to Alsos Mission",
+   "page": "https://commons.wikimedia.org/wiki/File:Alsos_Mission_-_Stadtilm_operation.jpg",
+   "desc": "Alsos Mission - Stadtilm operation — Aircraft and men on way back from Stadtilm"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Haigerloch-nuclear-reactor_ArM.JPG/960px-Haigerloch-nuclear-reactor_ArM.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 550,
+   "license": "CC BY-SA 3.0",
+   "artist": "ArtMechanic",
+   "page": "https://commons.wikimedia.org/wiki/File:Haigerloch-nuclear-reactor_ArM.JPG",
+   "desc": "Haigerloch-nuclear-reactor ArM — replica of the nuclear reactor at Haigerloch museum"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Alsos_Members.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 436,
+   "license": "Public domain",
+   "artist": "US Army",
+   "page": "https://commons.wikimedia.org/wiki/File:Alsos_Members.jpg",
+   "desc": "Alsos Members — ALSOS members Goudsmit, Wardenburg, Welsh and Cecil"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/German_Experimental_Pile_-_Haigerloch_-_April_1945-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 548,
+   "license": "Public domain",
+   "artist": "Mickey Thurgood, U. S. Army photographer assigned to Alsos Mission",
+   "page": "https://commons.wikimedia.org/wiki/File:German_Experimental_Pile_-_Haigerloch_-_April_1945-2.jpg",
+   "desc": "German Experimental Pile - Haigerloch - April 1945-2 — German Experimental Pile - Haigerloch - April 1945 The original caption reads: Dismantling the German experimental nuclear pile at Haigerloch, 50 km S.W of Stuttgart, April 1945. Rupert Cecil nearest camer"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Fus%C3%A9e_V2.jpg/960px-Fus%C3%A9e_V2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1006,
+   "license": "CC BY-SA 3.0",
+   "artist": "AElfwine",
+   "page": "https://commons.wikimedia.org/wiki/File:Fus%C3%A9e_V2.jpg",
+   "desc": "Fusée V2 — V2-Rocket in the Peenemünde Museum"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1943
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "V-2 rocket",
+   "box": [
+    178,
+    367,
+    914,
+    612
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q662020",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "Alsos Mission",
+  "url": "https://en.wikipedia.org/wiki/Alsos_Mission",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T23:53:05Z",
+ "trimmed": true
+}
