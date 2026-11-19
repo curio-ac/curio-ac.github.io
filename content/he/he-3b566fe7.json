@@ -1,0 +1,335 @@
+{
+ "id": "he-3b566fe7",
+ "lang": "he",
+ "title": "הקרב האבוד של טקסס",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "בקרב אלמו נקטלו כל המגינים.",
+  "הכול קרה במאה ה-19 במהלך המהפכה הטקסנית.",
+  "טקסס הייתה אז חלק מרפובליקת מקסיקו.",
+  "בשנת 1830 חיו שם 30,000 אמריקנים, כפול מהמקומיים.",
+  "הגנרל סנטה אנה אסר על מתיישבים נוספים להגיע.",
+  "המתח הזה הוביל לקרב המפורסם בסן אנטוניו ב-1836."
+ ],
+ "tim": {
+  "w": [
+   [
+    "בקרב",
+    0,
+    0.46
+   ],
+   [
+    "אלמו",
+    0.46,
+    0.88
+   ],
+   [
+    "נקטלו",
+    0.88,
+    1.5
+   ],
+   [
+    "כל",
+    1.5,
+    1.76
+   ],
+   [
+    "המגינים.",
+    1.76,
+    2.4
+   ],
+   [
+    "הכול",
+    2.78,
+    3.14
+   ],
+   [
+    "קרה",
+    3.14,
+    3.44
+   ],
+   [
+    "במאה",
+    3.44,
+    3.84
+   ],
+   [
+    "ה-19",
+    3.84,
+    4.34
+   ],
+   [
+    "במהלך",
+    4.9,
+    5.28
+   ],
+   [
+    "המהפכה",
+    5.28,
+    5.8
+   ],
+   [
+    "הטקסנית.",
+    5.8,
+    6.3
+   ],
+   [
+    "טקסס",
+    7.08,
+    7.42
+   ],
+   [
+    "הייתה",
+    7.42,
+    7.84
+   ],
+   [
+    "אז",
+    7.84,
+    8.02
+   ],
+   [
+    "חלק",
+    8.02,
+    8.3
+   ],
+   [
+    "מרפובליקת",
+    8.3,
+    9.08
+   ],
+   [
+    "מקסיקו.",
+    9.08,
+    9.48
+   ],
+   [
+    "בשנת",
+    10.38,
+    10.72
+   ],
+   [
+    "1830",
+    10.8,
+    11.88
+   ],
+   [
+    "חיו",
+    11.88,
+    12.58
+   ],
+   [
+    "שם",
+    12.58,
+    12.8
+   ],
+   [
+    "30,000",
+    12.8,
+    13.58
+   ],
+   [
+    "אמריקנים,",
+    13.58,
+    14.32
+   ],
+   [
+    "כפול",
+    14.7,
+    15.06
+   ],
+   [
+    "מהמקומיים.",
+    15.06,
+    15.76
+   ],
+   [
+    "הגנרל",
+    16.42,
+    16.92
+   ],
+   [
+    "סנטה",
+    16.92,
+    17.38
+   ],
+   [
+    "אנה",
+    17.42,
+    17.74
+   ],
+   [
+    "אסר",
+    17.74,
+    18.44
+   ],
+   [
+    "על",
+    18.44,
+    18.52
+   ],
+   [
+    "מתיישבים",
+    18.52,
+    18.98
+   ],
+   [
+    "נוספים",
+    18.98,
+    19.42
+   ],
+   [
+    "להגיע.",
+    19.42,
+    19.88
+   ],
+   [
+    "המתח",
+    20.56,
+    21.0
+   ],
+   [
+    "הזה",
+    21.0,
+    21.26
+   ],
+   [
+    "הוביל",
+    21.26,
+    21.66
+   ],
+   [
+    "לקרב",
+    21.66,
+    22.04
+   ],
+   [
+    "המפורסם",
+    22.04,
+    22.72
+   ],
+   [
+    "בסן",
+    22.72,
+    23.08
+   ],
+   [
+    "אנטוניו",
+    23.08,
+    23.66
+   ],
+   [
+    "ב-1836.",
+    23.66,
+    24.76
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   12,
+   18,
+   26,
+   34
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1854_Alamo.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 457,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:1854_Alamo.jpg",
+   "desc": "1854 Alamo — This is a drawing of the Alamo Mission in San Antonio. It was first printed in 1854 in Gleason's Pictorial Drawing Room Companion and was reprinted in Frank Thompson's 2005 \"The Alamo\", p 106."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Mexico_1830_to_1835.png/960px-Mexico_1830_to_1835.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 689,
+   "license": "CC BY-SA 3.0",
+   "artist": "User:Golbez",
+   "page": "https://commons.wikimedia.org/wiki/File:Mexico_1830_to_1835.png",
+   "desc": "Mexico 1830 to 1835 — Map of the states and territories of Mexico as they were from 1830 to 1835."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/President_Antonio_L%C3%B3pez_de_Santa_Anna.jpg/960px-President_Antonio_L%C3%B3pez_de_Santa_Anna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 922,
+   "license": "Public domain",
+   "artist": "Meade Brothers",
+   "page": "https://commons.wikimedia.org/wiki/File:President_Antonio_L%C3%B3pez_de_Santa_Anna.jpg",
+   "desc": "President Antonio López de Santa Anna — Daguerreotype of Antonio López de Santa Anna"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/AlamoplanF0385.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 887,
+   "license": "Public domain",
+   "artist": "José Juan Sánchez-Navarro",
+   "page": "https://commons.wikimedia.org/wiki/File:AlamoplanF0385.jpg",
+   "desc": "AlamoplanF0385 — Plan of the Alamo, by José Juan Sánchez-Navarro, 1836. This manuscript map, part of an official military report on the fall of the Alamo, clearly shows where the Mexicans had positioned their cannons (at R and V) and the"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "stat",
+   "value": 30000,
+   "unit": "מתיישבים",
+   "label": "אמריקנים בטקסס"
+  },
+  {
+   "type": "focus",
+   "target": "General Santa Anna",
+   "box": [
+    76,
+    100,
+    1000,
+    990
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1836
+  }
+ ],
+ "geo": [
+  29.426,
+  -98.486
+ ],
+ "qid": "Q235344",
+ "pron_wer": 0.045,
+ "angle": 0,
+ "source": {
+  "title": "קרב אלמו",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%91_%D7%90%D7%9C%D7%9E%D7%95",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T11:20:53Z",
+ "trimmed": true
+}
