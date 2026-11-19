@@ -1,0 +1,461 @@
+{
+ "id": "en-40a8a442",
+ "lang": "en",
+ "title": "The City Built on Baths",
+ "cat": "history",
+ "emoji": "🛁",
+ "sentences": [
+  "This entire city is named after Roman baths.",
+  "Located in Somerset, England, it became a UNESCO World Heritage Site in 1987.",
+  "Romans built the original temple and baths around 60 AD, calling it Aquae Sulis.",
+  "By the 17th century, people believed the spring water had curative properties.",
+  "This sparked a Georgian boom, creating famous stone landmarks like the Royal Crescent.",
+  "It remains the largest city in Somerset."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.37
+   ],
+   [
+    "entire",
+    0.37,
+    0.69
+   ],
+   [
+    "city",
+    0.69,
+    1.03
+   ],
+   [
+    "is",
+    1.03,
+    1.25
+   ],
+   [
+    "named",
+    1.25,
+    1.47
+   ],
+   [
+    "after",
+    1.47,
+    1.77
+   ],
+   [
+    "Roman",
+    1.77,
+    2.03
+   ],
+   [
+    "baths.",
+    2.03,
+    2.31
+   ],
+   [
+    "Located",
+    2.99,
+    3.41
+   ],
+   [
+    "in",
+    3.41,
+    3.57
+   ],
+   [
+    "Somerset,",
+    3.57,
+    4.11
+   ],
+   [
+    "England,",
+    4.31,
+    4.67
+   ],
+   [
+    "it",
+    4.71,
+    4.75
+   ],
+   [
+    "became",
+    4.75,
+    5.03
+   ],
+   [
+    "a",
+    5.03,
+    5.17
+   ],
+   [
+    "UNESCO",
+    5.17,
+    5.55
+   ],
+   [
+    "World",
+    5.55,
+    5.87
+   ],
+   [
+    "Heritage",
+    5.87,
+    6.27
+   ],
+   [
+    "Site",
+    6.27,
+    6.61
+   ],
+   [
+    "in",
+    6.61,
+    6.87
+   ],
+   [
+    "1987.",
+    6.87,
+    8.27
+   ],
+   [
+    "Romans",
+    8.27,
+    8.51
+   ],
+   [
+    "built",
+    8.51,
+    8.81
+   ],
+   [
+    "the",
+    8.81,
+    8.97
+   ],
+   [
+    "original",
+    8.97,
+    9.25
+   ],
+   [
+    "temple",
+    9.25,
+    9.61
+   ],
+   [
+    "and",
+    9.61,
+    9.89
+   ],
+   [
+    "baths",
+    9.89,
+    10.27
+   ],
+   [
+    "around",
+    10.27,
+    10.47
+   ],
+   [
+    "60",
+    10.47,
+    10.85
+   ],
+   [
+    "AD,",
+    10.85,
+    11.27
+   ],
+   [
+    "calling",
+    11.63,
+    11.83
+   ],
+   [
+    "it",
+    11.83,
+    12.05
+   ],
+   [
+    "Aquae",
+    12.11,
+    12.45
+   ],
+   [
+    "Sulis.",
+    12.45,
+    12.79
+   ],
+   [
+    "By",
+    13.51,
+    13.57
+   ],
+   [
+    "the",
+    13.57,
+    13.67
+   ],
+   [
+    "17th",
+    13.67,
+    14.21
+   ],
+   [
+    "century,",
+    14.21,
+    14.31
+   ],
+   [
+    "people",
+    14.71,
+    14.87
+   ],
+   [
+    "believed",
+    14.87,
+    15.23
+   ],
+   [
+    "the",
+    15.23,
+    15.45
+   ],
+   [
+    "spring",
+    15.45,
+    15.67
+   ],
+   [
+    "water",
+    15.67,
+    15.97
+   ],
+   [
+    "had",
+    15.97,
+    16.19
+   ],
+   [
+    "curative",
+    16.19,
+    16.55
+   ],
+   [
+    "properties.",
+    16.55,
+    16.81
+   ],
+   [
+    "This",
+    17.67,
+    17.81
+   ],
+   [
+    "sparked",
+    17.81,
+    18.09
+   ],
+   [
+    "a",
+    18.09,
+    18.23
+   ],
+   [
+    "Georgian",
+    18.23,
+    18.55
+   ],
+   [
+    "boom,",
+    18.55,
+    18.97
+   ],
+   [
+    "creating",
+    19.09,
+    19.25
+   ],
+   [
+    "famous",
+    19.25,
+    19.65
+   ],
+   [
+    "stone",
+    19.65,
+    19.97
+   ],
+   [
+    "landmarks",
+    20.43,
+    20.53
+   ],
+   [
+    "like",
+    20.53,
+    20.63
+   ],
+   [
+    "the",
+    20.63,
+    20.75
+   ],
+   [
+    "Royal",
+    20.75,
+    20.95
+   ],
+   [
+    "Crescent.",
+    20.95,
+    21.45
+   ],
+   [
+    "It",
+    21.93,
+    21.97
+   ],
+   [
+    "remains",
+    21.97,
+    22.21
+   ],
+   [
+    "the",
+    22.21,
+    22.45
+   ],
+   [
+    "largest",
+    22.45,
+    22.69
+   ],
+   [
+    "city",
+    22.69,
+    23.01
+   ],
+   [
+    "in",
+    23.01,
+    23.19
+   ],
+   [
+    "Somerset.",
+    23.19,
+    23.29
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   21,
+   35,
+   47,
+   60
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/View_from_Bath_Skyline_walk_near_Bathwick_Hill_-_geograph.org.uk_-_4877693.jpg/960px-View_from_Bath_Skyline_walk_near_Bathwick_Hill_-_geograph.org.uk_-_4877693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Dave Kelly",
+   "page": "https://commons.wikimedia.org/wiki/File:View_from_Bath_Skyline_walk_near_Bathwick_Hill_-_geograph.org.uk_-_4877693.jpg",
+   "desc": "View from Bath Skyline walk near Bathwick Hill - geograph.org.uk - 4877693 — View from Bath Skyline walk near Bathwick Hill"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Bath_Abbey_From_Roman_Baths_Gallery.jpg/960px-Bath_Abbey_From_Roman_Baths_Gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Graham Rice (en:User:Grahamerice), English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Bath_Abbey_From_Roman_Baths_Gallery.jpg",
+   "desc": "Bath Abbey From Roman Baths Gallery — View Of Bath Abbey From The Roman Baths Gallery - March 2006"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/BathRoyalCrescentAirial_morecontrast.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Jonathan Lucas",
+   "page": "https://commons.wikimedia.org/wiki/File:BathRoyalCrescentAirial_morecontrast.jpg",
+   "desc": "BathRoyalCrescentAirial morecontrast — Royal Crescent in Bath"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bath_Skyline_walk%2C_view_from_Sham_Castle_-_geograph.org.uk_-_4877689.jpg/960px-Bath_Skyline_walk%2C_view_from_Sham_Castle_-_geograph.org.uk_-_4877689.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Dave Kelly",
+   "page": "https://commons.wikimedia.org/wiki/File:Bath_Skyline_walk,_view_from_Sham_Castle_-_geograph.org.uk_-_4877689.jpg",
+   "desc": "Bath Skyline walk, view from Sham Castle - geograph.org.uk - 4877689 — Bath Skyline walk: view from Sham Castle"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1987
+  },
+  {
+   "type": "timeline",
+   "year": 60
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Royal Crescent",
+   "box": [
+    447,
+    279,
+    563,
+    775
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 94080,
+   "unit": "people",
+   "label": "city population"
+  }
+ ],
+ "geo": [
+  51.381,
+  -2.36
+ ],
+ "qid": "Q22889",
+ "pron_wer": 0.03,
+ "angle": 0,
+ "source": {
+  "title": "Bath, Somerset",
+  "url": "https://en.wikipedia.org/wiki/Bath%2C_Somerset",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T18:27:11Z",
+ "trimmed": true
+}

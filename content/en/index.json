@@ -224,7 +224,8 @@
   "nasa:1511430",
   "The Boat Race 2020",
   "British National (Overseas)",
-  "1964 Brinks Hotel bombing"
+  "1964 Brinks Hotel bombing",
+  "nasa:1499132"
  ],
  "rejected": [
   "Chameleon",
@@ -1032,6 +1033,9 @@
   ],
   "1964 Brinks Hotel bombing": [
    "Christmas Eve Hotel Bombing: A Christmas Eve blast shook Saigon in 1964."
+  ],
+  "nasa:1499132": [
+   "New Guinea's Smoke Crisis: New Guinea is currently choking on smoke."
   ]
  },
  "exhausted": []
