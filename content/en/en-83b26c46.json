@@ -1,0 +1,415 @@
+{
+ "id": "en-83b26c46",
+ "lang": "en",
+ "title": "Banned From Her Own Election",
+ "cat": "history",
+ "emoji": "🗳️",
+ "sentences": [
+  "Jane Cobden was elected, then legally blocked.",
+  "She won a seat on the 1889 London County Council.",
+  "This made her one of just 2 women elected.",
+  "However, legal challenges prevented her from serving as a councillor.",
+  "She spent her life fighting for women's suffrage and Irish independence.",
+  "Even while supporting radicals, she kept her own activism strictly within the law."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Jane",
+    0.35,
+    0.35
+   ],
+   [
+    "Cobden",
+    0.35,
+    0.83
+   ],
+   [
+    "was",
+    0.83,
+    0.99
+   ],
+   [
+    "elected,",
+    0.99,
+    1.49
+   ],
+   [
+    "then",
+    1.77,
+    1.83
+   ],
+   [
+    "legally",
+    1.83,
+    2.21
+   ],
+   [
+    "blocked.",
+    2.21,
+    2.63
+   ],
+   [
+    "She",
+    3.27,
+    3.33
+   ],
+   [
+    "won",
+    3.33,
+    3.51
+   ],
+   [
+    "a",
+    3.51,
+    3.61
+   ],
+   [
+    "seat",
+    3.61,
+    3.77
+   ],
+   [
+    "on",
+    3.77,
+    3.95
+   ],
+   [
+    "the",
+    3.95,
+    4.05
+   ],
+   [
+    "1889",
+    4.27,
+    4.73
+   ],
+   [
+    "London",
+    4.73,
+    5.09
+   ],
+   [
+    "County",
+    5.09,
+    5.47
+   ],
+   [
+    "Council.",
+    5.47,
+    5.81
+   ],
+   [
+    "This",
+    6.47,
+    6.57
+   ],
+   [
+    "made",
+    6.57,
+    6.75
+   ],
+   [
+    "her",
+    6.75,
+    6.89
+   ],
+   [
+    "one",
+    6.89,
+    7.09
+   ],
+   [
+    "of",
+    7.09,
+    7.25
+   ],
+   [
+    "just",
+    7.25,
+    7.39
+   ],
+   [
+    "2",
+    7.39,
+    7.69
+   ],
+   [
+    "women",
+    7.69,
+    7.95
+   ],
+   [
+    "elected.",
+    7.95,
+    8.31
+   ],
+   [
+    "However,",
+    8.93,
+    9.33
+   ],
+   [
+    "legal",
+    9.39,
+    9.51
+   ],
+   [
+    "challenges",
+    9.51,
+    9.95
+   ],
+   [
+    "prevented",
+    9.95,
+    10.31
+   ],
+   [
+    "her",
+    10.31,
+    10.67
+   ],
+   [
+    "from",
+    10.67,
+    10.83
+   ],
+   [
+    "serving",
+    10.83,
+    11.13
+   ],
+   [
+    "as",
+    11.13,
+    11.33
+   ],
+   [
+    "a",
+    11.33,
+    11.41
+   ],
+   [
+    "councillor.",
+    11.41,
+    11.65
+   ],
+   [
+    "She",
+    12.41,
+    12.51
+   ],
+   [
+    "spent",
+    12.51,
+    12.65
+   ],
+   [
+    "her",
+    12.65,
+    12.81
+   ],
+   [
+    "life",
+    12.81,
+    13.03
+   ],
+   [
+    "fighting",
+    13.03,
+    13.31
+   ],
+   [
+    "for",
+    13.31,
+    13.51
+   ],
+   [
+    "women's",
+    13.51,
+    13.83
+   ],
+   [
+    "suffrage",
+    13.83,
+    14.19
+   ],
+   [
+    "and",
+    14.33,
+    14.43
+   ],
+   [
+    "Irish",
+    14.43,
+    14.71
+   ],
+   [
+    "independence.",
+    14.71,
+    15.31
+   ],
+   [
+    "Even",
+    16.07,
+    16.19
+   ],
+   [
+    "while",
+    16.19,
+    16.35
+   ],
+   [
+    "supporting",
+    16.35,
+    16.63
+   ],
+   [
+    "radicals,",
+    16.63,
+    17.11
+   ],
+   [
+    "she",
+    17.47,
+    17.51
+   ],
+   [
+    "kept",
+    17.51,
+    17.67
+   ],
+   [
+    "her",
+    17.69,
+    17.85
+   ],
+   [
+    "own",
+    17.85,
+    18.03
+   ],
+   [
+    "activism",
+    18.03,
+    18.49
+   ],
+   [
+    "strictly",
+    18.49,
+    18.97
+   ],
+   [
+    "within",
+    19.05,
+    19.39
+   ],
+   [
+    "the",
+    19.39,
+    19.53
+   ],
+   [
+    "law.",
+    19.53,
+    19.63
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   26,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jane_Cobden.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1036,
+   "license": "Public domain",
+   "artist": "Fradelle &amp; Young (Life time: not applicable)",
+   "page": "https://commons.wikimedia.org/wiki/File:Jane_Cobden.jpg",
+   "desc": "Jane Cobden — Jane Cobden"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Henry_Jamyn_Brooks_%281839-1925%29_-_The_First_Meeting_of_the_London_County_Council_in_the_County_Hall_Spring_Gardens%2C_1889_-_3931_-_Guildhall_Art_Gallery.jpg/960px-Henry_Jamyn_Brooks_%281839-1925%29_-_The_First_Meeting_of_the_London_County_Council_in_the_County_Hall_Spring_Gardens%2C_1889_-_3931_-_Guildhall_Art_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 377,
+   "license": "Public domain",
+   "artist": "Henry Jamyn Brooks",
+   "page": "https://commons.wikimedia.org/wiki/File:Henry_Jamyn_Brooks_(1839-1925)_-_The_First_Meeting_of_the_London_County_Council_in_the_County_Hall_Spring_Gardens,_1889_-_3931_-_Guildhall_Art_Gallery.jpg",
+   "desc": "Henry Jamyn Brooks (1839-1925) - The First Meeting of the London County Council in the County Hall Spring Gardens, 1889 - 3931 - Guildhall Art Gallery — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/The_First_Meeting_of_the_London_County_Council_in_the_County_Hall_Spring_Gardens%2C_1889_-_Henry_Jamyn_Brooks.jpg/960px-The_First_Meeting_of_the_London_County_Council_in_the_County_Hall_Spring_Gardens%2C_1889_-_Henry_Jamyn_Brooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 377,
+   "license": "Public domain",
+   "artist": "Henry Jamyn Brooks",
+   "page": "https://commons.wikimedia.org/wiki/File:The_First_Meeting_of_the_London_County_Council_in_the_County_Hall_Spring_Gardens,_1889_-_Henry_Jamyn_Brooks.jpg",
+   "desc": "The First Meeting of the London County Council in the County Hall Spring Gardens, 1889 - Henry Jamyn Brooks — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/WSPU_in_Kingsway.jpg/960px-WSPU_in_Kingsway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 406,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:WSPU_in_Kingsway.jpg",
+   "desc": "WSPU in Kingsway — Members of the Women's Social and Political Union campaigning for women's suffrage in Kingsway"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1889
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "",
+   "label": "women elected"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q6151258",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Jane Cobden",
+  "url": "https://en.wikipedia.org/wiki/Jane_Cobden",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T09:28:04Z",
+ "trimmed": true
+}
