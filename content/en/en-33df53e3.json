@@ -1,0 +1,433 @@
+{
+ "id": "en-33df53e3",
+ "lang": "en",
+ "title": "Pacific Storms Are Exploding",
+ "cat": "geography",
+ "emoji": "🌀",
+ "sentences": [
+  "The Pacific is currently swarming with powerful storms.",
+  "By September 28, 2026, the region saw 20 named storms, far above the 13.5 average.",
+  "Hurricane Polo slammed into Baja California after reaching category 5 strength.",
+  "Meanwhile, Hurricane Nolo drenched Hawaii with over 12 inches of rain.",
+  "An active El Niño is fueling this intense activity.",
+  "Cyclone energy is now more than twice the norm."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.18,
+    0.26
+   ],
+   [
+    "Pacific",
+    0.26,
+    0.62
+   ],
+   [
+    "is",
+    0.62,
+    0.9
+   ],
+   [
+    "currently",
+    0.94,
+    1.28
+   ],
+   [
+    "swarming",
+    1.28,
+    2.0
+   ],
+   [
+    "with",
+    2.0,
+    2.2
+   ],
+   [
+    "powerful",
+    2.36,
+    2.64
+   ],
+   [
+    "storms.",
+    2.64,
+    3.02
+   ],
+   [
+    "By",
+    3.68,
+    3.76
+   ],
+   [
+    "September",
+    3.76,
+    3.98
+   ],
+   [
+    "28,",
+    3.98,
+    4.53
+   ],
+   [
+    "2026,",
+    4.82,
+    5.32
+   ],
+   [
+    "the",
+    5.58,
+    5.6
+   ],
+   [
+    "region",
+    5.6,
+    5.86
+   ],
+   [
+    "saw",
+    5.86,
+    6.16
+   ],
+   [
+    "20",
+    6.16,
+    6.64
+   ],
+   [
+    "named",
+    6.64,
+    7.02
+   ],
+   [
+    "storms,",
+    7.02,
+    7.52
+   ],
+   [
+    "far",
+    8.04,
+    8.16
+   ],
+   [
+    "above",
+    8.16,
+    8.4
+   ],
+   [
+    "the",
+    8.4,
+    8.58
+   ],
+   [
+    "13.5",
+    8.62,
+    9.3
+   ],
+   [
+    "average.",
+    9.3,
+    9.74
+   ],
+   [
+    "Hurricane",
+    10.24,
+    10.42
+   ],
+   [
+    "Polo",
+    10.42,
+    10.92
+   ],
+   [
+    "slammed",
+    10.92,
+    11.26
+   ],
+   [
+    "into",
+    11.26,
+    11.58
+   ],
+   [
+    "Baja",
+    11.58,
+    11.86
+   ],
+   [
+    "California",
+    11.86,
+    12.4
+   ],
+   [
+    "after",
+    12.4,
+    12.68
+   ],
+   [
+    "reaching",
+    12.68,
+    12.88
+   ],
+   [
+    "category",
+    13.12,
+    13.26
+   ],
+   [
+    "5",
+    13.26,
+    13.62
+   ],
+   [
+    "strength.",
+    13.62,
+    14.04
+   ],
+   [
+    "Meanwhile,",
+    14.74,
+    15.2
+   ],
+   [
+    "Hurricane",
+    15.26,
+    15.46
+   ],
+   [
+    "Nolo",
+    15.46,
+    15.92
+   ],
+   [
+    "drenched",
+    15.92,
+    16.3
+   ],
+   [
+    "Hawaii",
+    16.3,
+    16.72
+   ],
+   [
+    "with",
+    16.72,
+    16.98
+   ],
+   [
+    "over",
+    16.98,
+    17.14
+   ],
+   [
+    "12",
+    17.14,
+    17.56
+   ],
+   [
+    "inches",
+    17.56,
+    17.78
+   ],
+   [
+    "of",
+    17.78,
+    17.96
+   ],
+   [
+    "rain.",
+    17.96,
+    18.74
+   ],
+   [
+    "An",
+    18.76,
+    18.84
+   ],
+   [
+    "active",
+    18.84,
+    19.1
+   ],
+   [
+    "El",
+    19.1,
+    19.26
+   ],
+   [
+    "Niño",
+    19.26,
+    19.7
+   ],
+   [
+    "is",
+    19.7,
+    19.88
+   ],
+   [
+    "fueling",
+    19.88,
+    20.26
+   ],
+   [
+    "this",
+    20.26,
+    20.38
+   ],
+   [
+    "intense",
+    20.38,
+    20.72
+   ],
+   [
+    "activity.",
+    20.72,
+    21.2
+   ],
+   [
+    "Cyclone",
+    21.78,
+    22.08
+   ],
+   [
+    "energy",
+    22.08,
+    22.3
+   ],
+   [
+    "is",
+    22.3,
+    22.54
+   ],
+   [
+    "now",
+    22.54,
+    22.68
+   ],
+   [
+    "more",
+    22.68,
+    22.88
+   ],
+   [
+    "than",
+    22.88,
+    23.04
+   ],
+   [
+    "twice",
+    23.04,
+    23.3
+   ],
+   [
+    "the",
+    23.3,
+    23.6
+   ],
+   [
+    "norm.",
+    23.6,
+    23.88
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   23,
+   34,
+   45,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Powerful_Storms_Continue_to_Prowl_the_Pacific_%281431752_-_epic_20260927%29.jpg/960px-Powerful_Storms_Continue_to_Prowl_the_Pacific_%281431752_-_epic_20260927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Powerful_Storms_Continue_to_Prowl_the_Pacific_(1431752_-_epic_20260927).jpg",
+   "desc": "Powerful Storms Continue to Prowl the Pacific (1431752 - epic 20260927) — The northeastern and central Pacific basins are busy with tropical cyclone activity in this image acquired with NASA’s EPIC (Earth Polychromatic Imaging Camera) on the DSCOVR (Deep Space"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Powerful_Storms_Continue_to_Prowl_the_Pacific_%281431752_-_vir_20260928%29.jpg/960px-Powerful_Storms_Continue_to_Prowl_the_Pacific_%281431752_-_vir_20260928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Powerful_Storms_Continue_to_Prowl_the_Pacific_(1431752_-_vir_20260928).jpg",
+   "desc": "Powerful Storms Continue to Prowl the Pacific (1431752 - vir 20260928) — Hurricane Polo approaches the coast of Baja California Sur in this image acquired with the VIIRS (Visible Infrared Imaging Radiometer Suite) on the Suomi NPP satellite at 2:20 p.m. local "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/El_Nino_%28NESDIS_2017-12-16%29.png/960px-El_Nino_%28NESDIS_2017-12-16%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 360,
+   "license": "Public domain",
+   "artist": "NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Nino_(NESDIS_2017-12-16).png",
+   "desc": "El Nino (NESDIS 2017-12-16) — El Nino is part of a global climate cycle that typically occurs every 2 to 5 years, and is associated with warmer than normal equatorial Pacific ocean temperatures. These temperature changes may have cascading effects on"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 20,
+   "unit": "storms",
+   "label": "named storms"
+  },
+  {
+   "type": "focus",
+   "target": "Hurricane Polo",
+   "box": [
+    345,
+    227,
+    868,
+    741
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 0.3048,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "times",
+   "label": "normal energy"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
+ "pron_wer": 0.031,
+ "angle": 0,
+ "source": {
+  "title": "Powerful Storms Continue to Prowl the Pacific",
+  "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T11:22:29Z",
+ "trimmed": true
+}
