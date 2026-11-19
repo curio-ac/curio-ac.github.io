@@ -213,7 +213,8 @@
   "Cutthroat trout",
   "Ivan Bagramyan",
   "nasa:1509114",
-  "Marjory Stoneman Douglas"
+  "Marjory Stoneman Douglas",
+  "nasa:1282932"
  ],
  "rejected": [
   "Chameleon",
@@ -983,6 +984,9 @@
   ],
   "Marjory Stoneman Douglas": [
    "The River of Grass Crusader: She defended a swamp for 29 years."
+  ],
+  "nasa:1282932": [
+   "Curiosity Finds Mysterious Mars Pits: Mars just revealed a brand new mystery."
   ]
  },
  "exhausted": []

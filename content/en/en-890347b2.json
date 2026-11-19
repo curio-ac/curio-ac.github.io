@@ -1,0 +1,406 @@
+{
+ "id": "en-890347b2",
+ "lang": "en",
+ "title": "Rockefeller Center's Hidden Origin",
+ "cat": "history",
+ "emoji": "🏙️",
+ "sentences": [
+  "Rockefeller Center was once a university campus.",
+  "Columbia University owned this 22-acre site.",
+  "They moved to Upper Manhattan in the early 1900s.",
+  "The Metropolitan Opera originally planned to build here.",
+  "John D. Rockefeller Jr. stepped in during 1928.",
+  "He leased the land for 87 years.",
+  "Now, it holds 17 million square feet of office space."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Rockefeller",
+    0,
+    0.52
+   ],
+   [
+    "Center",
+    0.52,
+    0.82
+   ],
+   [
+    "was",
+    0.82,
+    1.12
+   ],
+   [
+    "once",
+    1.12,
+    1.5
+   ],
+   [
+    "a",
+    1.5,
+    1.74
+   ],
+   [
+    "university",
+    1.74,
+    2.26
+   ],
+   [
+    "campus.",
+    2.26,
+    2.98
+   ],
+   [
+    "Columbia",
+    3.38,
+    3.7
+   ],
+   [
+    "University",
+    3.7,
+    4.18
+   ],
+   [
+    "owned",
+    4.18,
+    4.74
+   ],
+   [
+    "this",
+    4.74,
+    5.0
+   ],
+   [
+    "22-acre",
+    5.0,
+    5.78
+   ],
+   [
+    "site.",
+    5.78,
+    6.0
+   ],
+   [
+    "They",
+    6.72,
+    6.82
+   ],
+   [
+    "moved",
+    6.82,
+    7.02
+   ],
+   [
+    "to",
+    7.02,
+    7.2
+   ],
+   [
+    "Upper",
+    7.22,
+    7.4
+   ],
+   [
+    "Manhattan",
+    7.4,
+    7.78
+   ],
+   [
+    "in",
+    7.78,
+    8.1
+   ],
+   [
+    "the",
+    8.1,
+    8.2
+   ],
+   [
+    "early",
+    8.2,
+    8.42
+   ],
+   [
+    "1900s.",
+    8.42,
+    8.88
+   ],
+   [
+    "The",
+    9.84,
+    9.94
+   ],
+   [
+    "Metropolitan",
+    9.94,
+    10.38
+   ],
+   [
+    "Opera",
+    10.38,
+    10.92
+   ],
+   [
+    "originally",
+    10.92,
+    11.44
+   ],
+   [
+    "planned",
+    11.44,
+    11.96
+   ],
+   [
+    "to",
+    11.96,
+    12.18
+   ],
+   [
+    "build",
+    12.18,
+    12.32
+   ],
+   [
+    "here.",
+    12.32,
+    12.42
+   ],
+   [
+    "John",
+    13.24,
+    13.44
+   ],
+   [
+    "D.",
+    13.44,
+    13.66
+   ],
+   [
+    "Rockefeller",
+    13.72,
+    14.08
+   ],
+   [
+    "Jr.",
+    14.08,
+    14.64
+   ],
+   [
+    "stepped",
+    14.64,
+    14.82
+   ],
+   [
+    "in",
+    14.82,
+    15.08
+   ],
+   [
+    "during",
+    15.08,
+    15.28
+   ],
+   [
+    "1928.",
+    15.61,
+    16.26
+   ],
+   [
+    "He",
+    16.86,
+    16.96
+   ],
+   [
+    "leased",
+    16.96,
+    17.22
+   ],
+   [
+    "the",
+    17.22,
+    17.36
+   ],
+   [
+    "land",
+    17.36,
+    17.54
+   ],
+   [
+    "for",
+    17.54,
+    17.74
+   ],
+   [
+    "87",
+    17.74,
+    18.24
+   ],
+   [
+    "years.",
+    18.24,
+    18.88
+   ],
+   [
+    "Now,",
+    19.42,
+    19.78
+   ],
+   [
+    "it",
+    19.8,
+    19.84
+   ],
+   [
+    "holds",
+    19.84,
+    20.02
+   ],
+   [
+    "17",
+    20.02,
+    20.52
+   ],
+   [
+    "million",
+    20.52,
+    21.06
+   ],
+   [
+    "square",
+    21.06,
+    21.42
+   ],
+   [
+    "feet",
+    21.42,
+    21.76
+   ],
+   [
+    "of",
+    21.76,
+    21.92
+   ],
+   [
+    "office",
+    21.92,
+    22.18
+   ],
+   [
+    "space.",
+    22.18,
+    22.64
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   22,
+   30,
+   38,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Columbia_University_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 429,
+   "license": "Public domain",
+   "artist": "George Eastman House",
+   "page": "https://commons.wikimedia.org/wiki/File:Columbia_University_1910.jpg",
+   "desc": "Columbia University 1910 — Photo of Columbia University's Morningside Heights campus, 1910. From left to right: Mathematics Hall, Lewisohn Hall, Earl Hall, Low Memorial Library, Buell Hall, St. Paul's Chapel, Kent Hall, Hamilton Hall, Hartley Hall"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Metropolitan_opera_1905.jpg/960px-Metropolitan_opera_1905.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 569,
+   "license": "Public domain",
+   "artist": "Detroit Publishing Company",
+   "page": "https://commons.wikimedia.org/wiki/File:Metropolitan_opera_1905.jpg",
+   "desc": "Metropolitan opera 1905 — The old Metropolitan Opera House in New York City, 1905"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/John_D._Rockefeller_Jr._cph.3a03736.jpg/960px-John_D._Rockefeller_Jr._cph.3a03736.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 927,
+   "license": "Public domain",
+   "artist": "Underwood &amp; Underwood",
+   "page": "https://commons.wikimedia.org/wiki/File:John_D._Rockefeller_Jr._cph.3a03736.jpg",
+   "desc": "John D. Rockefeller Jr. cph.3a03736 — John D. Rockefeller, Jr., American philanthropist"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/New_Rockefeller_Center_jeh.JPG/960px-New_Rockefeller_Center_jeh.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "Jim.henderson",
+   "page": "https://commons.wikimedia.org/wiki/File:New_Rockefeller_Center_jeh.JPG",
+   "desc": "New Rockefeller Center jeh — Looking southwest at the \"new\" en:Rockefeller Center on the west side of 6th Avenue on a mostly sunny afternoon in mid June 2008."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 22,
+   "unit": "acres",
+   "label": "Columbia University site"
+  },
+  {
+   "type": "timeline",
+   "year": 1900
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1928
+  },
+  {
+   "type": "stat",
+   "value": 87,
+   "unit": "years",
+   "label": "lease duration"
+  },
+  {
+   "type": "stat",
+   "value": 17,
+   "unit": "million sq ft",
+   "label": "office space"
+  }
+ ],
+ "geo": [
+  40.759,
+  -73.979
+ ],
+ "qid": "Q47321159",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Construction of Rockefeller Center",
+  "url": "https://en.wikipedia.org/wiki/Construction_of_Rockefeller_Center",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T14:39:34Z",
+ "trimmed": true
+}
