@@ -1,0 +1,336 @@
+{
+ "id": "he-8218fead",
+ "lang": "he",
+ "title": "המאגר שהתמלא בשיטפון",
+ "cat": "geography",
+ "emoji": "🌊",
+ "sentences": [
+  "מאגר המים נבאחו זינק ב-18 מטרים.",
+  "סופות גשם קיצוניות הציפו את אזור 'ארבע הפינות' בסתיו 2026.",
+  "תוך שבועות, המאגר עלה מ-60% ל-108% מהקיבולת הממוצעת שלו.",
+  "נהרות עלו על גדותיהם וגרמו להצפות מסוכנות ביישובים סמוכים.",
+  "למרות הנזק, הגשמים סייעו לשבור את הבצורת הקשה באזור.",
+  "השינוי הדרמטי נראה היטב בתצלומי לוויין."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מאגר",
+    0.3,
+    0.66
+   ],
+   [
+    "המים",
+    0.66,
+    0.9
+   ],
+   [
+    "נבאחו",
+    0.9,
+    1.56
+   ],
+   [
+    "זינק",
+    1.56,
+    2.0
+   ],
+   [
+    "ב-18",
+    2.06,
+    2.48
+   ],
+   [
+    "מטרים.",
+    2.48,
+    2.94
+   ],
+   [
+    "סופות",
+    3.8,
+    4.06
+   ],
+   [
+    "גשם",
+    4.06,
+    4.34
+   ],
+   [
+    "קיצוניות",
+    4.34,
+    4.88
+   ],
+   [
+    "הציפו",
+    5.02,
+    5.26
+   ],
+   [
+    "את",
+    5.26,
+    5.34
+   ],
+   [
+    "אזור",
+    5.34,
+    5.6
+   ],
+   [
+    "'ארבע",
+    5.6,
+    5.94
+   ],
+   [
+    "הפינות'",
+    5.94,
+    6.54
+   ],
+   [
+    "בסתיו",
+    6.62,
+    6.8
+   ],
+   [
+    "2026.",
+    6.8,
+    7.62
+   ],
+   [
+    "תוך",
+    8.5,
+    8.64
+   ],
+   [
+    "שבועות,",
+    8.64,
+    9.06
+   ],
+   [
+    "המאגר",
+    9.26,
+    9.62
+   ],
+   [
+    "עלה",
+    9.62,
+    9.78
+   ],
+   [
+    "מ-60%",
+    9.78,
+    10.6
+   ],
+   [
+    "ל-108%",
+    10.6,
+    12.38
+   ],
+   [
+    "מהקיבולת",
+    12.38,
+    13.02
+   ],
+   [
+    "הממוצעת",
+    13.02,
+    13.58
+   ],
+   [
+    "שלו.",
+    13.58,
+    14.4
+   ],
+   [
+    "נהרות",
+    14.48,
+    14.82
+   ],
+   [
+    "עלו",
+    14.82,
+    15.02
+   ],
+   [
+    "על",
+    15.02,
+    15.04
+   ],
+   [
+    "גדותיהם",
+    15.04,
+    15.64
+   ],
+   [
+    "וגרמו",
+    15.64,
+    16.0
+   ],
+   [
+    "להצפות",
+    16.0,
+    16.46
+   ],
+   [
+    "מסוכנות",
+    16.46,
+    17.02
+   ],
+   [
+    "ביישובים",
+    17.02,
+    17.48
+   ],
+   [
+    "סמוכים.",
+    17.48,
+    17.7
+   ],
+   [
+    "למרות",
+    18.72,
+    19.0
+   ],
+   [
+    "הנזק,",
+    19.0,
+    19.58
+   ],
+   [
+    "הגשמים",
+    19.58,
+    19.82
+   ],
+   [
+    "סייעו",
+    19.82,
+    20.22
+   ],
+   [
+    "לשבור",
+    20.22,
+    20.6
+   ],
+   [
+    "את",
+    20.6,
+    20.7
+   ],
+   [
+    "הבצורת",
+    20.7,
+    21.14
+   ],
+   [
+    "הקשה",
+    21.26,
+    21.46
+   ],
+   [
+    "באזור.",
+    21.46,
+    21.86
+   ],
+   [
+    "השינוי",
+    22.5,
+    22.8
+   ],
+   [
+    "הדרמטי",
+    22.8,
+    23.4
+   ],
+   [
+    "נראה",
+    23.4,
+    23.74
+   ],
+   [
+    "היטב",
+    23.74,
+    24.18
+   ],
+   [
+    "בתצלומי",
+    24.18,
+    24.76
+   ],
+   [
+    "לוויין.",
+    24.76,
+    24.92
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   25,
+   34,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Water_Surges_Into_Navajo_Reservoir_%281510274_-_cq5dam_web_1280_1280%29.jpg/960px-Water_Surges_Into_Navajo_Reservoir_%281510274_-_cq5dam_web_1280_1280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 729,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_Surges_Into_Navajo_Reservoir_(1510274_-_cq5dam_web_1280_1280).jpg",
+   "desc": "Water Surges Into Navajo Reservoir (1510274 - cq5dam web 1280 1280) — NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "compare",
+   "value": 18,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "stat",
+   "value": 108,
+   "unit": "%",
+   "label": "קיבולת ממוצעת"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+ "pron_wer": 0.058,
+ "angle": 0,
+ "source": {
+  "title": "Water Surges Into Navajo Reservoir",
+  "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T10:58:39Z",
+ "trimmed": true
+}
