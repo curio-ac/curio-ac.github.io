@@ -1,0 +1,378 @@
+{
+ "id": "en-44007af2",
+ "lang": "en",
+ "title": "The Navy's Unique Large Cruisers",
+ "cat": "history",
+ "emoji": "⚓",
+ "sentences": [
+  "The US Navy built unique large cruisers.",
+  "Only 2 of these 6 ships were ever completed.",
+  "They served late in World War II.",
+  "The Navy designated them as CB, or large cruiser.",
+  "Some people incorrectly call them battlecruisers.",
+  "They were named after US territories.",
+  "This naming style placed them between battleships and smaller cruisers."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.14,
+    0.14
+   ],
+   [
+    "US",
+    0.14,
+    0.44
+   ],
+   [
+    "Navy",
+    0.44,
+    0.96
+   ],
+   [
+    "built",
+    0.96,
+    1.28
+   ],
+   [
+    "unique",
+    1.28,
+    1.84
+   ],
+   [
+    "large",
+    1.84,
+    2.42
+   ],
+   [
+    "cruisers.",
+    2.42,
+    3.04
+   ],
+   [
+    "Only",
+    3.64,
+    3.82
+   ],
+   [
+    "2",
+    3.82,
+    4.22
+   ],
+   [
+    "of",
+    4.22,
+    4.42
+   ],
+   [
+    "these",
+    4.44,
+    4.58
+   ],
+   [
+    "6",
+    4.58,
+    4.92
+   ],
+   [
+    "ships",
+    4.92,
+    5.22
+   ],
+   [
+    "were",
+    5.22,
+    5.44
+   ],
+   [
+    "ever",
+    5.44,
+    5.72
+   ],
+   [
+    "completed.",
+    5.72,
+    6.42
+   ],
+   [
+    "They",
+    6.76,
+    6.9
+   ],
+   [
+    "served",
+    6.9,
+    7.2
+   ],
+   [
+    "late",
+    7.28,
+    7.52
+   ],
+   [
+    "in",
+    7.52,
+    7.76
+   ],
+   [
+    "World",
+    7.76,
+    7.98
+   ],
+   [
+    "War",
+    7.98,
+    8.2
+   ],
+   [
+    "II.",
+    8.2,
+    8.5
+   ],
+   [
+    "The",
+    9.14,
+    9.26
+   ],
+   [
+    "Navy",
+    9.26,
+    9.52
+   ],
+   [
+    "designated",
+    9.52,
+    9.94
+   ],
+   [
+    "them",
+    9.94,
+    10.3
+   ],
+   [
+    "as",
+    10.3,
+    10.6
+   ],
+   [
+    "CB,",
+    10.6,
+    11.25
+   ],
+   [
+    "or",
+    11.78,
+    11.8
+   ],
+   [
+    "large",
+    11.8,
+    12.22
+   ],
+   [
+    "cruiser.",
+    12.22,
+    13.27
+   ],
+   [
+    "Some",
+    13.36,
+    13.46
+   ],
+   [
+    "people",
+    13.46,
+    13.7
+   ],
+   [
+    "incorrectly",
+    13.7,
+    14.3
+   ],
+   [
+    "call",
+    14.3,
+    14.72
+   ],
+   [
+    "them",
+    14.72,
+    14.9
+   ],
+   [
+    "battlecruisers.",
+    14.9,
+    15.92
+   ],
+   [
+    "They",
+    16.5,
+    16.6
+   ],
+   [
+    "were",
+    16.6,
+    16.7
+   ],
+   [
+    "named",
+    16.7,
+    16.94
+   ],
+   [
+    "after",
+    17.16,
+    17.26
+   ],
+   [
+    "US",
+    17.26,
+    17.62
+   ],
+   [
+    "territories.",
+    17.62,
+    18.22
+   ],
+   [
+    "This",
+    18.88,
+    19.04
+   ],
+   [
+    "naming",
+    19.04,
+    19.34
+   ],
+   [
+    "style",
+    19.34,
+    19.72
+   ],
+   [
+    "placed",
+    19.72,
+    20.06
+   ],
+   [
+    "them",
+    20.06,
+    20.28
+   ],
+   [
+    "between",
+    20.28,
+    20.64
+   ],
+   [
+    "battleships",
+    20.66,
+    21.48
+   ],
+   [
+    "and",
+    21.54,
+    21.76
+   ],
+   [
+    "smaller",
+    21.76,
+    22.14
+   ],
+   [
+    "cruisers.",
+    22.14,
+    22.24
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   23,
+   32,
+   38,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/USS_Alaska_%28CB-1%29_underway_in_the_Atlantic_Ocean_in_August_1944_%2880-G-K-5580%29.jpg/960px-USS_Alaska_%28CB-1%29_underway_in_the_Atlantic_Ocean_in_August_1944_%2880-G-K-5580%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 542,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Alaska_(CB-1)_underway_in_the_Atlantic_Ocean_in_August_1944_(80-G-K-5580).jpg",
+   "desc": "USS Alaska (CB-1) underway in the Atlantic Ocean in August 1944 (80-G-K-5580) — The U.S. Navy large cruiser USS Alaska (CB-1) photographed from USS Missouri (BB-63) off the U.S. East Coast during their shakedown cruise together in August 1944. Note her Measure"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aerial_view_of_USS_Guam_%28CB-2%29_off_Trinidad%2C_13_November_1944_%28NH_97132%29.jpg/960px-Aerial_view_of_USS_Guam_%28CB-2%29_off_Trinidad%2C_13_November_1944_%28NH_97132%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 566,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_USS_Guam_(CB-2)_off_Trinidad,_13_November_1944_(NH_97132).jpg",
+   "desc": "Aerial view of USS Guam (CB-2) off Trinidad, 13 November 1944 (NH 97132) — The U.S. Navy large cruiser USS Guam (CB-2) underway during her shakedown cruise off Trinidad, 13 November 1944."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/USS_Missouri_%28BB-63%29_and_USS_Alaska_%28CB-1%29_at_Norfolk%2C_Virginia%2C_1944.jpg/960px-USS_Missouri_%28BB-63%29_and_USS_Alaska_%28CB-1%29_at_Norfolk%2C_Virginia%2C_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 600,
+   "license": "Public domain",
+   "artist": "U.S. Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Missouri_(BB-63)_and_USS_Alaska_(CB-1)_at_Norfolk,_Virginia,_1944.jpg",
+   "desc": "USS Missouri (BB-63) and USS Alaska (CB-1) at Norfolk, Virginia, 1944 — Aerial view of warships at the base piers of Norfolk Naval Base, Virginia (USA), circa August 1944. Among them are: the battleship USS Missouri (BB-63), the largest ship; the battlecruiser"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q673098",
+ "pron_wer": 0.074,
+ "angle": 0,
+ "source": {
+  "title": "Alaska-class cruiser",
+  "url": "https://en.wikipedia.org/wiki/Alaska-class_cruiser",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T11:32:09Z",
+ "trimmed": true
+}
