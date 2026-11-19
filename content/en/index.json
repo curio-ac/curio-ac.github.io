@@ -231,7 +231,8 @@
   "nasa:1309754",
   "Air Rhodesia Flight 825",
   "1877 Wimbledon Championship",
-  "City of Blinding Lights"
+  "City of Blinding Lights",
+  "Barnard's Star"
  ],
  "rejected": [
   "Chameleon",
@@ -1062,6 +1063,9 @@
   ],
   "City of Blinding Lights": [
    "U2's Blinding Lights Origin: Bono wrote this hit about his first trip to London."
+  ],
+  "Barnard's Star": [
+   "Earth's Hidden Neighbor: A nearby star is invisible to the eye."
   ]
  },
  "exhausted": []

@@ -1,0 +1,447 @@
+{
+ "id": "en-889e5d8e",
+ "lang": "en",
+ "title": "Saturn's New 10-Sided Wave",
+ "cat": "space",
+ "emoji": "🪐",
+ "sentences": [
+  "Saturn now has a 10-sided atmospheric wave.",
+  "The Hubble Space Telescope spotted this decagon encircling the planet's south pole.",
+  "It sits within a jet stream and extends through multiple atmospheric layers.",
+  "This structure looks similar to the famous northern hexagon, but it is distinctly different.",
+  "Researchers first noticed subtle hints of the pattern in 2023.",
+  "Scientists are now studying this rare opportunity to watch an atmospheric phenomenon develop."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Saturn",
+    0.18,
+    0.38
+   ],
+   [
+    "now",
+    0.38,
+    0.66
+   ],
+   [
+    "has",
+    0.66,
+    0.9
+   ],
+   [
+    "a",
+    0.9,
+    0.98
+   ],
+   [
+    "10-sided",
+    0.98,
+    1.5
+   ],
+   [
+    "atmospheric",
+    1.5,
+    1.9
+   ],
+   [
+    "wave.",
+    1.9,
+    2.6
+   ],
+   [
+    "The",
+    3.12,
+    3.18
+   ],
+   [
+    "Hubble",
+    3.18,
+    3.38
+   ],
+   [
+    "Space",
+    3.38,
+    3.66
+   ],
+   [
+    "Telescope",
+    3.66,
+    4.2
+   ],
+   [
+    "spotted",
+    4.2,
+    4.54
+   ],
+   [
+    "this",
+    4.54,
+    4.76
+   ],
+   [
+    "decagon",
+    4.76,
+    5.24
+   ],
+   [
+    "encircling",
+    5.24,
+    5.78
+   ],
+   [
+    "the",
+    5.78,
+    6.0
+   ],
+   [
+    "planet's",
+    6.0,
+    6.4
+   ],
+   [
+    "south",
+    6.4,
+    6.52
+   ],
+   [
+    "pole.",
+    6.52,
+    6.94
+   ],
+   [
+    "It",
+    7.44,
+    7.52
+   ],
+   [
+    "sits",
+    7.6,
+    7.7
+   ],
+   [
+    "within",
+    7.7,
+    7.96
+   ],
+   [
+    "a",
+    7.96,
+    8.08
+   ],
+   [
+    "jet",
+    8.08,
+    8.26
+   ],
+   [
+    "stream",
+    8.26,
+    8.56
+   ],
+   [
+    "and",
+    8.56,
+    8.86
+   ],
+   [
+    "extends",
+    8.86,
+    9.18
+   ],
+   [
+    "through",
+    9.18,
+    9.48
+   ],
+   [
+    "multiple",
+    9.48,
+    9.78
+   ],
+   [
+    "atmospheric",
+    9.78,
+    10.28
+   ],
+   [
+    "layers.",
+    10.28,
+    10.82
+   ],
+   [
+    "This",
+    11.5,
+    11.62
+   ],
+   [
+    "structure",
+    11.62,
+    11.9
+   ],
+   [
+    "looks",
+    11.9,
+    12.16
+   ],
+   [
+    "similar",
+    12.28,
+    12.54
+   ],
+   [
+    "to",
+    12.54,
+    12.7
+   ],
+   [
+    "the",
+    12.7,
+    12.84
+   ],
+   [
+    "famous",
+    12.84,
+    13.06
+   ],
+   [
+    "northern",
+    13.06,
+    13.34
+   ],
+   [
+    "hexagon,",
+    13.34,
+    13.99
+   ],
+   [
+    "but",
+    14.22,
+    14.32
+   ],
+   [
+    "it",
+    14.32,
+    14.44
+   ],
+   [
+    "is",
+    14.44,
+    14.58
+   ],
+   [
+    "distinctly",
+    14.58,
+    15.16
+   ],
+   [
+    "different.",
+    15.16,
+    15.36
+   ],
+   [
+    "Researchers",
+    15.96,
+    16.26
+   ],
+   [
+    "first",
+    16.26,
+    16.66
+   ],
+   [
+    "noticed",
+    16.66,
+    17.0
+   ],
+   [
+    "subtle",
+    17.0,
+    17.42
+   ],
+   [
+    "hints",
+    17.42,
+    17.7
+   ],
+   [
+    "of",
+    17.7,
+    17.9
+   ],
+   [
+    "the",
+    17.9,
+    18.0
+   ],
+   [
+    "pattern",
+    18.0,
+    18.32
+   ],
+   [
+    "in",
+    18.32,
+    18.54
+   ],
+   [
+    "2023.",
+    18.54,
+    19.38
+   ],
+   [
+    "Scientists",
+    19.96,
+    20.24
+   ],
+   [
+    "are",
+    20.24,
+    20.54
+   ],
+   [
+    "now",
+    20.54,
+    20.68
+   ],
+   [
+    "studying",
+    20.68,
+    21.02
+   ],
+   [
+    "this",
+    21.02,
+    21.34
+   ],
+   [
+    "rare",
+    21.34,
+    21.58
+   ],
+   [
+    "opportunity",
+    21.58,
+    22.14
+   ],
+   [
+    "to",
+    22.14,
+    22.44
+   ],
+   [
+    "watch",
+    22.44,
+    22.68
+   ],
+   [
+    "an",
+    22.68,
+    22.8
+   ],
+   [
+    "atmospheric",
+    22.8,
+    23.2
+   ],
+   [
+    "phenomenon",
+    23.2,
+    23.76
+   ],
+   [
+    "develop.",
+    23.76,
+    24.34
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   31,
+   45,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/10-sided_wave_encircling_Saturn%E2%80%99s_south_pole.jpg/960px-10-sided_wave_encircling_Saturn%E2%80%99s_south_pole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA Hubble Mission Team, Goddard Space Flight Center",
+   "page": "https://commons.wikimedia.org/wiki/File:10-sided_wave_encircling_Saturn%E2%80%99s_south_pole.jpg",
+   "desc": "10-sided wave encircling Saturn’s south pole — NASA’s Hubble Space Telescope shows a 10-sided wave encircling Saturn’s south pole, labeled “decagon”. An “X” denotes where data was not captured."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Saturn_hexagonal_north_pole_feature.jpg/960px-Saturn_hexagonal_north_pole_feature.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 627,
+   "license": "Public domain",
+   "artist": "NASA / Jet Propulsion Lab / University of Arizona",
+   "page": "https://commons.wikimedia.org/wiki/File:Saturn_hexagonal_north_pole_feature.jpg",
+   "desc": "Saturn hexagonal north pole feature — \"A bizarre six-sided feature encircling the north pole of en:Saturn near 78 degrees north latitude has been spied by the visual and infrared mapping spectrometer on NASA's Cassini spacecraft. This image is one of the fir"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 10,
+   "unit": "sides",
+   "label": "atmospheric wave"
+  },
+  {
+   "type": "focus",
+   "target": "Saturn's south pole",
+   "box": [
+    296,
+    296,
+    701,
+    697
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 6,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "timeline",
+   "year": 2023
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
+ "pron_wer": 0.029,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T21:22:15Z",
+ "trimmed": true
+}
