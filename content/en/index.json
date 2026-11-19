@@ -210,7 +210,8 @@
   "nasa:1306540",
   "2009 Women's Cricket World Cup final",
   "nasa:1504163",
-  "Cutthroat trout"
+  "Cutthroat trout",
+  "Ivan Bagramyan"
  ],
  "rejected": [
   "Chameleon",
@@ -971,6 +972,9 @@
   ],
   "Cutthroat trout": [
    "The Cutthroat Trout Mystery: This fish has a red-stained jaw."
+  ],
+  "Ivan Bagramyan": [
+   "The Soviet Union's Armenian Marshal: He was a Soviet Marshal born Armenian."
   ]
  },
  "exhausted": []
