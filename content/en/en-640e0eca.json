@@ -1,0 +1,404 @@
+{
+ "id": "en-640e0eca",
+ "lang": "en",
+ "title": "The Worm That Emerges",
+ "cat": "medicine",
+ "emoji": "🪱",
+ "sentences": [
+  "A parasite can slowly crawl out of you.",
+  "Guinea-worm disease starts by drinking water contaminated with tiny larvae.",
+  "After a year, a female worm creates a painful blister on your skin.",
+  "When the blister bursts, the worm slowly emerges over several weeks.",
+  "There is no medication to treat or prevent this infection.",
+  "Instead, you must carefully wrap the worm around a stick to pull it out."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.24,
+    0.34
+   ],
+   [
+    "parasite",
+    0.34,
+    0.76
+   ],
+   [
+    "can",
+    0.76,
+    1.1
+   ],
+   [
+    "slowly",
+    1.1,
+    1.68
+   ],
+   [
+    "crawl",
+    1.68,
+    2.16
+   ],
+   [
+    "out",
+    2.16,
+    2.44
+   ],
+   [
+    "of",
+    2.44,
+    2.6
+   ],
+   [
+    "you.",
+    2.6,
+    3.44
+   ],
+   [
+    "Guinea-worm",
+    3.44,
+    3.84
+   ],
+   [
+    "disease",
+    3.84,
+    4.08
+   ],
+   [
+    "starts",
+    4.08,
+    4.4
+   ],
+   [
+    "by",
+    4.4,
+    4.6
+   ],
+   [
+    "drinking",
+    4.6,
+    4.88
+   ],
+   [
+    "water",
+    4.88,
+    5.22
+   ],
+   [
+    "contaminated",
+    5.22,
+    5.66
+   ],
+   [
+    "with",
+    5.66,
+    6.04
+   ],
+   [
+    "tiny",
+    6.3,
+    6.4
+   ],
+   [
+    "larvae.",
+    6.4,
+    6.96
+   ],
+   [
+    "After",
+    7.6,
+    7.78
+   ],
+   [
+    "a",
+    7.78,
+    7.94
+   ],
+   [
+    "year,",
+    7.94,
+    8.3
+   ],
+   [
+    "a",
+    8.5,
+    8.52
+   ],
+   [
+    "female",
+    8.66,
+    8.78
+   ],
+   [
+    "worm",
+    8.78,
+    9.08
+   ],
+   [
+    "creates",
+    9.08,
+    9.4
+   ],
+   [
+    "a",
+    9.4,
+    9.6
+   ],
+   [
+    "painful",
+    9.6,
+    9.96
+   ],
+   [
+    "blister",
+    9.96,
+    10.4
+   ],
+   [
+    "on",
+    10.4,
+    10.54
+   ],
+   [
+    "your",
+    10.54,
+    10.66
+   ],
+   [
+    "skin.",
+    10.66,
+    10.96
+   ],
+   [
+    "When",
+    11.64,
+    11.74
+   ],
+   [
+    "the",
+    11.74,
+    11.82
+   ],
+   [
+    "blister",
+    11.82,
+    12.04
+   ],
+   [
+    "bursts,",
+    12.04,
+    12.32
+   ],
+   [
+    "the",
+    12.54,
+    12.56
+   ],
+   [
+    "worm",
+    12.56,
+    12.78
+   ],
+   [
+    "slowly",
+    12.78,
+    13.3
+   ],
+   [
+    "emerges",
+    13.3,
+    13.86
+   ],
+   [
+    "over",
+    13.86,
+    14.16
+   ],
+   [
+    "several",
+    14.2,
+    14.56
+   ],
+   [
+    "weeks.",
+    14.56,
+    15.12
+   ],
+   [
+    "There",
+    15.54,
+    15.62
+   ],
+   [
+    "is",
+    15.62,
+    15.74
+   ],
+   [
+    "no",
+    15.74,
+    15.9
+   ],
+   [
+    "medication",
+    15.9,
+    16.24
+   ],
+   [
+    "to",
+    16.24,
+    16.48
+   ],
+   [
+    "treat",
+    16.54,
+    16.64
+   ],
+   [
+    "or",
+    16.64,
+    16.84
+   ],
+   [
+    "prevent",
+    16.84,
+    17.08
+   ],
+   [
+    "this",
+    17.08,
+    17.24
+   ],
+   [
+    "infection.",
+    17.24,
+    17.56
+   ],
+   [
+    "Instead,",
+    18.2,
+    18.62
+   ],
+   [
+    "you",
+    18.88,
+    18.92
+   ],
+   [
+    "must",
+    18.92,
+    19.06
+   ],
+   [
+    "carefully",
+    19.06,
+    19.52
+   ],
+   [
+    "wrap",
+    19.52,
+    19.9
+   ],
+   [
+    "the",
+    19.9,
+    20.16
+   ],
+   [
+    "worm",
+    20.16,
+    20.36
+   ],
+   [
+    "around",
+    20.36,
+    20.56
+   ],
+   [
+    "a",
+    20.62,
+    20.72
+   ],
+   [
+    "stick",
+    20.72,
+    20.96
+   ],
+   [
+    "to",
+    20.96,
+    21.2
+   ],
+   [
+    "pull",
+    21.2,
+    21.4
+   ],
+   [
+    "it",
+    21.42,
+    21.52
+   ],
+   [
+    "out.",
+    21.52,
+    21.66
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   31,
+   42,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q388646",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Dracunculiasis",
+  "url": "https://en.wikipedia.org/wiki/Dracunculiasis",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T22:41:24Z",
+ "trimmed": true
+}
