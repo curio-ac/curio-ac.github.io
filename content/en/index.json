@@ -218,7 +218,8 @@
   "Construction of Rockefeller Center",
   "Cyclone Ada",
   "nasa:1484055",
-  "John Adair"
+  "John Adair",
+  "nasa:1495740"
  ],
  "rejected": [
   "Chameleon",
@@ -1003,6 +1004,9 @@
   ],
   "John Adair": [
    "Kentucky's Slave-Trading Governor: John Adair was a soldier, politician, and slave trader."
+  ],
+  "nasa:1495740": [
+   "Humans Changing Earth's Water: Humans are drastically changing Earth's water."
   ]
  },
  "exhausted": []

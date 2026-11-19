@@ -1,0 +1,440 @@
+{
+ "id": "en-7dbf2a2f",
+ "lang": "en",
+ "title": "Ian Carmichael: A 70-Year Career",
+ "cat": "history",
+ "emoji": "🎭",
+ "sentences": [
+  "Ian Carmichael acted for 70 long years.",
+  "He was born in Kingston upon Hull and trained at the Royal Academy of Dramatic Art.",
+  "World War 2 cut his early career short.",
+  "He later found success in revue and sketch shows.",
+  "Producers cast him in 5 of their films, starting with Private's Progress.",
+  "He famously played Bertie Wooster and Lord Peter Wimsey."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Ian",
+    0.22,
+    0.22
+   ],
+   [
+    "Carmichael",
+    0.22,
+    0.96
+   ],
+   [
+    "acted",
+    1.02,
+    1.26
+   ],
+   [
+    "for",
+    1.26,
+    1.54
+   ],
+   [
+    "70",
+    1.54,
+    2.02
+   ],
+   [
+    "long",
+    2.02,
+    2.44
+   ],
+   [
+    "years.",
+    2.44,
+    3.08
+   ],
+   [
+    "He",
+    3.48,
+    3.52
+   ],
+   [
+    "was",
+    3.52,
+    3.64
+   ],
+   [
+    "born",
+    3.64,
+    3.92
+   ],
+   [
+    "in",
+    3.92,
+    4.14
+   ],
+   [
+    "Kingston",
+    4.14,
+    4.48
+   ],
+   [
+    "upon",
+    4.5,
+    4.76
+   ],
+   [
+    "Hull",
+    4.76,
+    5.22
+   ],
+   [
+    "and",
+    5.4,
+    5.5
+   ],
+   [
+    "trained",
+    5.5,
+    5.76
+   ],
+   [
+    "at",
+    5.76,
+    5.94
+   ],
+   [
+    "the",
+    5.94,
+    6.02
+   ],
+   [
+    "Royal",
+    6.02,
+    6.26
+   ],
+   [
+    "Academy",
+    6.26,
+    6.7
+   ],
+   [
+    "of",
+    6.7,
+    6.9
+   ],
+   [
+    "Dramatic",
+    6.9,
+    7.2
+   ],
+   [
+    "Art.",
+    7.2,
+    7.3
+   ],
+   [
+    "World",
+    8.14,
+    8.3
+   ],
+   [
+    "War",
+    8.3,
+    8.5
+   ],
+   [
+    "2",
+    8.5,
+    8.82
+   ],
+   [
+    "cut",
+    8.82,
+    9.06
+   ],
+   [
+    "his",
+    9.06,
+    9.22
+   ],
+   [
+    "early",
+    9.22,
+    9.46
+   ],
+   [
+    "career",
+    9.46,
+    9.76
+   ],
+   [
+    "short.",
+    9.76,
+    10.12
+   ],
+   [
+    "He",
+    10.64,
+    10.72
+   ],
+   [
+    "later",
+    10.72,
+    10.94
+   ],
+   [
+    "found",
+    10.94,
+    11.18
+   ],
+   [
+    "success",
+    11.18,
+    11.48
+   ],
+   [
+    "in",
+    11.48,
+    11.84
+   ],
+   [
+    "revue",
+    11.84,
+    12.32
+   ],
+   [
+    "and",
+    12.32,
+    12.54
+   ],
+   [
+    "sketch",
+    12.54,
+    12.78
+   ],
+   [
+    "shows.",
+    12.78,
+    13.08
+   ],
+   [
+    "Producers",
+    13.74,
+    14.16
+   ],
+   [
+    "cast",
+    14.16,
+    14.38
+   ],
+   [
+    "him",
+    14.38,
+    14.56
+   ],
+   [
+    "in",
+    14.56,
+    14.68
+   ],
+   [
+    "5",
+    14.68,
+    14.98
+   ],
+   [
+    "of",
+    14.98,
+    15.14
+   ],
+   [
+    "their",
+    15.14,
+    15.28
+   ],
+   [
+    "films,",
+    15.28,
+    15.83
+   ],
+   [
+    "starting",
+    15.9,
+    16.08
+   ],
+   [
+    "with",
+    16.08,
+    16.28
+   ],
+   [
+    "Private's",
+    16.28,
+    16.74
+   ],
+   [
+    "Progress.",
+    16.74,
+    17.28
+   ],
+   [
+    "He",
+    17.7,
+    17.78
+   ],
+   [
+    "famously",
+    17.78,
+    18.12
+   ],
+   [
+    "played",
+    18.12,
+    18.52
+   ],
+   [
+    "Bertie",
+    18.52,
+    18.92
+   ],
+   [
+    "Wooster",
+    18.92,
+    19.24
+   ],
+   [
+    "and",
+    19.24,
+    19.6
+   ],
+   [
+    "Lord",
+    19.6,
+    19.84
+   ],
+   [
+    "Peter",
+    19.84,
+    20.14
+   ],
+   [
+    "Wimsey.",
+    20.14,
+    20.5
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   23,
+   31,
+   40,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ian_Carmichael_and_Jill_Adams_in_Private%27s_Progress.jpg/960px-Ian_Carmichael_and_Jill_Adams_in_Private%27s_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 535,
+   "license": "Public domain",
+   "artist": "Distributors Corporation of America (source: another eBay listing)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ian_Carmichael_and_Jill_Adams_in_Private%27s_Progress.jpg",
+   "desc": "Ian Carmichael and Jill Adams in Private's Progress — Ian Carmichael and Jill Adams in Private's Progress"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Royal_Academy_of_Dramatic_Arts_-_geograph.org.uk_-_2724696.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 471,
+   "license": "CC BY-SA 2.0",
+   "artist": "N Chadwick",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Academy_of_Dramatic_Arts_-_geograph.org.uk_-_2724696.jpg",
+   "desc": "Royal Academy of Dramatic Arts - geograph.org.uk - 2724696 — Royal Academy of Dramatic Arts"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Crew_of_a_Sherman-tank_south_of_Vaucelles.jpg/960px-Crew_of_a_Sherman-tank_south_of_Vaucelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1008,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Crew_of_a_Sherman-tank_south_of_Vaucelles.jpg",
+   "desc": "Crew of a Sherman-tank south of Vaucelles — Canadian crew of a Sherman-tank, south of Vaucelles near Caen (Calvados, Basse-Normandie, France), during the battle of Normandy in June 1944."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Show_of_Shows_1929_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1340,
+   "license": "Public domain",
+   "artist": "Warner Bros.",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Show_of_Shows_1929_poster.jpg",
+   "desc": "The Show of Shows 1929 poster — The official style B theatrical release poster for the 1929 Warner Bros. musical revue \"The Show of Shows\"."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ian_Carmichael_and_Jill_Adams_in_Private%27s_Progress.jpg/960px-Ian_Carmichael_and_Jill_Adams_in_Private%27s_Progress.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 535,
+   "license": "Public domain",
+   "artist": "Distributors Corporation of America (source: another eBay listing)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ian_Carmichael_and_Jill_Adams_in_Private%27s_Progress.jpg",
+   "desc": "Ian Carmichael and Jill Adams in Private's Progress — Ian Carmichael and Jill Adams in Private's Progress"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Jeeves_in_the_Springtime_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 805,
+   "license": "Public domain",
+   "artist": "P. G. Wodehouse, A. Wallis Mills",
+   "page": "https://commons.wikimedia.org/wiki/File:Jeeves_in_the_Springtime_01.jpg",
+   "desc": "Jeeves in the Springtime 01 — Strand illustration by A. Wallis Mills of the P. G. Wodehouse short story \"Jeeves in the Springtime\""
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 70,
+   "unit": "years",
+   "label": "acting career"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "films",
+   "label": "Boulting films"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1655483",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "Ian Carmichael",
+  "url": "https://en.wikipedia.org/wiki/Ian_Carmichael",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T16:04:21Z",
+ "trimmed": true
+}
