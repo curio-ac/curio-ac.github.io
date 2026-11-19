@@ -1,0 +1,407 @@
+{
+ "id": "en-de5e4fe9",
+ "lang": "en",
+ "title": "Centre College's First Lay President",
+ "cat": "history",
+ "emoji": "🎓",
+ "sentences": [
+  "Centre College broke tradition with this president.",
+  "Ormond Beatty was the school’s first leader who wasn't a Christian minister.",
+  "He graduated from the Kentucky college in 1835.",
+  "Beatty taught everything from chemistry and math to biblical history.",
+  "He became president in 1870 and served for 18 years.",
+  "Even as a layman, he remained deeply active in his local Presbyterian church."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Centre",
+    0.32,
+    0.36
+   ],
+   [
+    "College",
+    0.36,
+    0.76
+   ],
+   [
+    "broke",
+    0.76,
+    1.02
+   ],
+   [
+    "tradition",
+    1.02,
+    1.5
+   ],
+   [
+    "with",
+    1.5,
+    1.78
+   ],
+   [
+    "this",
+    1.84,
+    1.96
+   ],
+   [
+    "president.",
+    1.96,
+    2.24
+   ],
+   [
+    "Ormond",
+    2.8,
+    3.06
+   ],
+   [
+    "Beatty",
+    3.06,
+    3.4
+   ],
+   [
+    "was",
+    3.4,
+    3.54
+   ],
+   [
+    "the",
+    3.54,
+    3.7
+   ],
+   [
+    "school’s",
+    3.7,
+    4.06
+   ],
+   [
+    "first",
+    4.14,
+    4.24
+   ],
+   [
+    "leader",
+    4.24,
+    4.6
+   ],
+   [
+    "who",
+    4.6,
+    4.82
+   ],
+   [
+    "wasn't",
+    4.82,
+    5.16
+   ],
+   [
+    "a",
+    5.16,
+    5.26
+   ],
+   [
+    "Christian",
+    5.3,
+    5.46
+   ],
+   [
+    "minister.",
+    5.46,
+    5.98
+   ],
+   [
+    "He",
+    6.4,
+    6.42
+   ],
+   [
+    "graduated",
+    6.44,
+    6.74
+   ],
+   [
+    "from",
+    6.94,
+    7.04
+   ],
+   [
+    "the",
+    7.04,
+    7.12
+   ],
+   [
+    "Kentucky",
+    7.12,
+    7.4
+   ],
+   [
+    "college",
+    7.4,
+    7.8
+   ],
+   [
+    "in",
+    7.8,
+    8.04
+   ],
+   [
+    "1835.",
+    8.04,
+    9.12
+   ],
+   [
+    "Beatty",
+    9.54,
+    9.76
+   ],
+   [
+    "taught",
+    9.76,
+    9.94
+   ],
+   [
+    "everything",
+    9.94,
+    10.24
+   ],
+   [
+    "from",
+    10.24,
+    10.52
+   ],
+   [
+    "chemistry",
+    10.52,
+    10.86
+   ],
+   [
+    "and",
+    10.86,
+    11.26
+   ],
+   [
+    "math",
+    11.26,
+    11.6
+   ],
+   [
+    "to",
+    11.6,
+    11.78
+   ],
+   [
+    "biblical",
+    11.92,
+    12.1
+   ],
+   [
+    "history.",
+    12.1,
+    12.66
+   ],
+   [
+    "He",
+    13.22,
+    13.28
+   ],
+   [
+    "became",
+    13.28,
+    13.5
+   ],
+   [
+    "president",
+    13.5,
+    13.86
+   ],
+   [
+    "in",
+    13.86,
+    14.1
+   ],
+   [
+    "1870",
+    14.1,
+    14.8
+   ],
+   [
+    "and",
+    14.8,
+    15.02
+   ],
+   [
+    "served",
+    15.02,
+    15.28
+   ],
+   [
+    "for",
+    15.28,
+    15.52
+   ],
+   [
+    "18",
+    15.52,
+    15.88
+   ],
+   [
+    "years.",
+    15.88,
+    16.28
+   ],
+   [
+    "Even",
+    16.96,
+    17.06
+   ],
+   [
+    "as",
+    17.06,
+    17.2
+   ],
+   [
+    "a",
+    17.2,
+    17.3
+   ],
+   [
+    "layman,",
+    17.3,
+    17.65
+   ],
+   [
+    "he",
+    17.74,
+    17.78
+   ],
+   [
+    "remained",
+    17.78,
+    18.0
+   ],
+   [
+    "deeply",
+    18.0,
+    18.34
+   ],
+   [
+    "active",
+    18.34,
+    18.76
+   ],
+   [
+    "in",
+    18.76,
+    18.98
+   ],
+   [
+    "his",
+    18.98,
+    19.1
+   ],
+   [
+    "local",
+    19.16,
+    19.32
+   ],
+   [
+    "Presbyterian",
+    19.32,
+    20.04
+   ],
+   [
+    "church.",
+    20.04,
+    20.28
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   27,
+   37,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ormond_Beatty_engraved_portrait.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 886,
+   "license": "Public domain",
+   "artist": "John Sartain",
+   "page": "https://commons.wikimedia.org/wiki/File:Ormond_Beatty_engraved_portrait.png",
+   "desc": "Ormond Beatty engraved portrait — An engraved portrait of educator and Centre College president Ormond Beatty"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Old_Centre%2C_Centre_College%2C_Walnut_Street%2C_Danville%2C_KY.jpg/960px-Old_Centre%2C_Centre_College%2C_Walnut_Street%2C_Danville%2C_KY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "w_lemay",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Centre,_Centre_College,_Walnut_Street,_Danville,_KY.jpg",
+   "desc": "Old Centre, Centre College, Walnut Street, Danville, KY — Built in 1819-1820, this Federal-style building, constructed by Robert Russell, is the oldest building on the Centre College campus, and is the oldest continually operating academic building in the stat"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/First_Presbyterian_Church_Galveston_interior.jpg/960px-First_Presbyterian_Church_Galveston_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 612,
+   "license": "CC BY-SA 3.0",
+   "artist": "Wiki name",
+   "page": "https://commons.wikimedia.org/wiki/File:First_Presbyterian_Church_Galveston_interior.jpg",
+   "desc": "First Presbyterian Church Galveston interior — First Presbyterian Church, Galveston"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  null,
+  0,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "leader",
+   "label": "first non-minister"
+  },
+  {
+   "type": "timeline",
+   "year": 1835
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1870
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q111148664",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Ormond Beatty",
+  "url": "https://en.wikipedia.org/wiki/Ormond_Beatty",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T10:48:06Z",
+ "trimmed": true
+}
