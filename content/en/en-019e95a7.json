@@ -1,0 +1,395 @@
+{
+ "id": "en-019e95a7",
+ "lang": "en",
+ "title": "The Bard of Avon",
+ "cat": "history",
+ "emoji": "🎭",
+ "sentences": [
+  "Shakespeare’s plays are performed more than anyone else's.",
+  "He is widely regarded as the greatest English writer.",
+  "Known as the Bard, he wrote 39 plays and 154 sonnets.",
+  "Born in Stratford-upon-Avon, he married Anne Hathaway at 18.",
+  "He eventually became part-owner of a famous playing company.",
+  "His works remain the most influential in the English language."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Shakespeare’s",
+    0.35,
+    0.69
+   ],
+   [
+    "plays",
+    0.73,
+    0.89
+   ],
+   [
+    "are",
+    0.89,
+    1.19
+   ],
+   [
+    "performed",
+    1.19,
+    1.59
+   ],
+   [
+    "more",
+    1.59,
+    2.09
+   ],
+   [
+    "than",
+    2.09,
+    2.29
+   ],
+   [
+    "anyone",
+    2.29,
+    2.71
+   ],
+   [
+    "else's.",
+    2.71,
+    3.07
+   ],
+   [
+    "He",
+    3.69,
+    3.79
+   ],
+   [
+    "is",
+    3.79,
+    3.89
+   ],
+   [
+    "widely",
+    3.89,
+    4.19
+   ],
+   [
+    "regarded",
+    4.19,
+    4.59
+   ],
+   [
+    "as",
+    4.59,
+    4.89
+   ],
+   [
+    "the",
+    4.93,
+    5.03
+   ],
+   [
+    "greatest",
+    5.03,
+    5.39
+   ],
+   [
+    "English",
+    5.39,
+    5.75
+   ],
+   [
+    "writer.",
+    5.75,
+    6.05
+   ],
+   [
+    "Known",
+    6.79,
+    6.93
+   ],
+   [
+    "as",
+    6.93,
+    7.11
+   ],
+   [
+    "the",
+    7.11,
+    7.27
+   ],
+   [
+    "Bard,",
+    7.27,
+    7.72
+   ],
+   [
+    "he",
+    8.11,
+    8.13
+   ],
+   [
+    "wrote",
+    8.13,
+    8.27
+   ],
+   [
+    "39",
+    8.27,
+    8.79
+   ],
+   [
+    "plays",
+    8.79,
+    9.13
+   ],
+   [
+    "and",
+    9.13,
+    9.51
+   ],
+   [
+    "154",
+    9.51,
+    10.43
+   ],
+   [
+    "sonnets.",
+    10.43,
+    10.75
+   ],
+   [
+    "Born",
+    11.93,
+    12.07
+   ],
+   [
+    "in",
+    12.07,
+    12.31
+   ],
+   [
+    "Stratford-upon-Avon,",
+    12.31,
+    12.91
+   ],
+   [
+    "he",
+    13.75,
+    13.79
+   ],
+   [
+    "married",
+    13.79,
+    14.03
+   ],
+   [
+    "Anne",
+    14.03,
+    14.33
+   ],
+   [
+    "Hathaway",
+    14.33,
+    14.81
+   ],
+   [
+    "at",
+    14.81,
+    14.95
+   ],
+   [
+    "18.",
+    14.95,
+    15.35
+   ],
+   [
+    "He",
+    16.17,
+    16.25
+   ],
+   [
+    "eventually",
+    16.25,
+    16.51
+   ],
+   [
+    "became",
+    16.51,
+    16.85
+   ],
+   [
+    "part-owner",
+    16.85,
+    17.39
+   ],
+   [
+    "of",
+    17.39,
+    17.61
+   ],
+   [
+    "a",
+    17.61,
+    17.69
+   ],
+   [
+    "famous",
+    17.69,
+    18.03
+   ],
+   [
+    "playing",
+    18.03,
+    18.33
+   ],
+   [
+    "company.",
+    18.33,
+    18.45
+   ],
+   [
+    "His",
+    19.27,
+    19.37
+   ],
+   [
+    "works",
+    19.37,
+    19.57
+   ],
+   [
+    "remain",
+    19.69,
+    19.81
+   ],
+   [
+    "the",
+    19.81,
+    20.13
+   ],
+   [
+    "most",
+    20.13,
+    20.31
+   ],
+   [
+    "influential",
+    20.31,
+    20.87
+   ],
+   [
+    "in",
+    20.87,
+    21.23
+   ],
+   [
+    "the",
+    21.23,
+    21.31
+   ],
+   [
+    "English",
+    21.31,
+    21.53
+   ],
+   [
+    "language.",
+    21.53,
+    21.67
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   28,
+   37,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gilbert_WShakespeares_Plays.jpg/960px-Gilbert_WShakespeares_Plays.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 566,
+   "license": "Public domain",
+   "artist": "John Gilbert",
+   "page": "https://commons.wikimedia.org/wiki/File:Gilbert_WShakespeares_Plays.jpg",
+   "desc": "Gilbert WShakespeares Plays — Sir John Gilbert's 1849 painting: The Plays of William Shakespeare, containing scenes and characters from several of William Shakespeare's plays."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Shakespeare_Droeshout_1623.jpg/960px-Shakespeare_Droeshout_1623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Martin Droeshout",
+   "page": "https://commons.wikimedia.org/wiki/File:Shakespeare_Droeshout_1623.jpg",
+   "desc": "Shakespeare Droeshout 1623 — The Droeshout portrait of William Shakespeare"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/First_Folio%2C_Shakespeare_-_0558.jpg/960px-First_Folio%2C_Shakespeare_-_0558.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1006,
+   "license": "Public domain",
+   "artist": "William Shakespeare",
+   "page": "https://commons.wikimedia.org/wiki/File:First_Folio,_Shakespeare_-_0558.jpg",
+   "desc": "First Folio, Shakespeare - 0558 — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Holy_Trinity_Church%2C_Stratford-upon-Avon.jpg/960px-Holy_Trinity_Church%2C_Stratford-upon-Avon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 556,
+   "license": "CC BY-SA 4.0",
+   "artist": "DeFacto",
+   "page": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Church,_Stratford-upon-Avon.jpg",
+   "desc": "Holy Trinity Church, Stratford-upon-Avon — Holy Trinity Church, Stratford-upon-Avon, Warwickshire. This church, where William Shakespeare was baptised in 1564 and buried in 1616, is a Grade I Listed Building in England."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 39,
+   "unit": "plays",
+   "label": "wrote plays"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1585
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q692",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "William Shakespeare",
+  "url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T09:17:11Z",
+ "trimmed": true
+}
