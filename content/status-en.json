@@ -1,7 +1,18 @@
 {
  "lang": "en",
- "exhausted_day": "2026-11-18",
+ "exhausted_day": null,
  "runs": [
+  {
+   "at": "2026-11-19T09:47:28Z",
+   "made": 3,
+   "rejected": 0,
+   "repaired": 0,
+   "calls": 35,
+   "notes": [
+    "nasa:1466049: 'NoneType' object is not subscriptable",
+    "Ormond Beatty: 'NoneType' object is not subscriptable"
+   ]
+  },
   {
    "at": "2026-11-18T18:11:40Z",
    "made": 0,
