@@ -1,0 +1,407 @@
+{
+ "id": "en-1ae46a4c",
+ "lang": "en",
+ "title": "Cyclone Ada's Devastating Path",
+ "cat": "history",
+ "emoji": "🌀",
+ "sentences": [
+  "Cyclone Ada redefined the Whitsunday Islands forever.",
+  "This system started as a weak disturbance in the Coral Sea.",
+  "It moved in a slow, clockwise loop for nearly 2 weeks.",
+  "On 15 January, it was finally named Ada.",
+  "The tiny, intense storm struck the coast at Shute Harbour on 17 January.",
+  "At the time, it was the most damaging storm in Proserpine’s history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cyclone",
+    0.24,
+    0.56
+   ],
+   [
+    "Ada",
+    0.56,
+    0.86
+   ],
+   [
+    "redefined",
+    0.86,
+    1.88
+   ],
+   [
+    "the",
+    1.88,
+    2.02
+   ],
+   [
+    "Whitsunday",
+    2.02,
+    2.62
+   ],
+   [
+    "Islands",
+    2.62,
+    2.94
+   ],
+   [
+    "forever.",
+    2.94,
+    3.44
+   ],
+   [
+    "This",
+    4.12,
+    4.3
+   ],
+   [
+    "system",
+    4.3,
+    4.62
+   ],
+   [
+    "started",
+    4.62,
+    5.0
+   ],
+   [
+    "as",
+    5.0,
+    5.22
+   ],
+   [
+    "a",
+    5.22,
+    5.3
+   ],
+   [
+    "weak",
+    5.3,
+    5.56
+   ],
+   [
+    "disturbance",
+    5.7,
+    6.1
+   ],
+   [
+    "in",
+    6.1,
+    6.42
+   ],
+   [
+    "the",
+    6.42,
+    6.52
+   ],
+   [
+    "Coral",
+    6.58,
+    6.82
+   ],
+   [
+    "Sea.",
+    6.82,
+    7.08
+   ],
+   [
+    "It",
+    7.7,
+    7.7
+   ],
+   [
+    "moved",
+    7.7,
+    7.92
+   ],
+   [
+    "in",
+    7.92,
+    8.12
+   ],
+   [
+    "a",
+    8.12,
+    8.22
+   ],
+   [
+    "slow,",
+    8.22,
+    8.77
+   ],
+   [
+    "clockwise",
+    9.04,
+    9.36
+   ],
+   [
+    "loop",
+    9.36,
+    9.82
+   ],
+   [
+    "for",
+    9.82,
+    10.08
+   ],
+   [
+    "nearly",
+    10.08,
+    10.3
+   ],
+   [
+    "2",
+    10.3,
+    10.66
+   ],
+   [
+    "weeks.",
+    10.66,
+    11.16
+   ],
+   [
+    "On",
+    11.7,
+    11.8
+   ],
+   [
+    "15",
+    12.04,
+    12.14
+   ],
+   [
+    "January,",
+    12.14,
+    12.39
+   ],
+   [
+    "it",
+    13.12,
+    13.16
+   ],
+   [
+    "was",
+    13.18,
+    13.3
+   ],
+   [
+    "finally",
+    13.3,
+    13.7
+   ],
+   [
+    "named",
+    13.7,
+    14.14
+   ],
+   [
+    "Ada.",
+    14.14,
+    14.64
+   ],
+   [
+    "The",
+    15.28,
+    15.38
+   ],
+   [
+    "tiny,",
+    15.38,
+    15.96
+   ],
+   [
+    "intense",
+    16.16,
+    16.54
+   ],
+   [
+    "storm",
+    16.54,
+    17.0
+   ],
+   [
+    "struck",
+    17.0,
+    17.46
+   ],
+   [
+    "the",
+    17.46,
+    17.66
+   ],
+   [
+    "coast",
+    17.74,
+    17.88
+   ],
+   [
+    "at",
+    17.88,
+    18.1
+   ],
+   [
+    "Shute",
+    18.14,
+    18.48
+   ],
+   [
+    "Harbour",
+    18.48,
+    18.92
+   ],
+   [
+    "on",
+    19.02,
+    19.12
+   ],
+   [
+    "17",
+    19.12,
+    19.58
+   ],
+   [
+    "January.",
+    19.58,
+    20.16
+   ],
+   [
+    "At",
+    20.84,
+    20.92
+   ],
+   [
+    "the",
+    20.92,
+    21.02
+   ],
+   [
+    "time,",
+    21.02,
+    21.27
+   ],
+   [
+    "it",
+    21.54,
+    21.58
+   ],
+   [
+    "was",
+    21.58,
+    21.7
+   ],
+   [
+    "the",
+    21.7,
+    21.8
+   ],
+   [
+    "most",
+    21.8,
+    21.94
+   ],
+   [
+    "damaging",
+    21.94,
+    22.4
+   ],
+   [
+    "storm",
+    22.4,
+    22.88
+   ],
+   [
+    "in",
+    22.88,
+    23.08
+   ],
+   [
+    "Proserpine’s",
+    23.08,
+    23.78
+   ],
+   [
+    "history.",
+    23.78,
+    23.88
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   29,
+   37,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ada_1970_track.png/960px-Ada_1970_track.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 445,
+   "license": "Public domain",
+   "artist": "Nilfanion",
+   "page": "https://commons.wikimedia.org/wiki/File:Ada_1970_track.png",
+   "desc": "Ada 1970 track — Cyclone Ada (1970) track. Uses the color scheme from the Saffir-Simpson Hurricane Scale. The points show the location of each storm at six-hour intervals. The colour represents the storm's maximum sustained wind speeds a"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Cyclone_Ada_satellite_1970-01-17.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 726,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Ada_satellite_1970-01-17.png",
+   "desc": "Cyclone Ada satellite 1970-01-17 — ESSA-8 satellite image of Cyclone Ada on January 17, 1970, off the eastern coast of Queensland."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1970
+  },
+  {
+   "type": "compare",
+   "value": 55000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q29817943",
+ "pron_wer": 0.079,
+ "angle": 0,
+ "source": {
+  "title": "Cyclone Ada",
+  "url": "https://en.wikipedia.org/wiki/Cyclone_Ada",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T14:51:44Z",
+ "trimmed": true
+}
