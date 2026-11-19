@@ -229,7 +229,8 @@
   "Bath, Somerset",
   "Arch of Remembrance",
   "nasa:1309754",
-  "Air Rhodesia Flight 825"
+  "Air Rhodesia Flight 825",
+  "1877 Wimbledon Championship"
  ],
  "rejected": [
   "Chameleon",
@@ -1054,6 +1055,9 @@
   ],
   "Air Rhodesia Flight 825": [
    "The Flight 825 Tragedy: A missile downed a passenger flight."
+  ],
+  "1877 Wimbledon Championship": [
+   "Wimbledon started for lawnmowers: Wimbledon started to fix a pony roller."
   ]
  },
  "exhausted": []

@@ -1,0 +1,438 @@
+{
+ "id": "en-f488281a",
+ "lang": "en",
+ "title": "Mali's Massive Dust Storm",
+ "cat": "geography",
+ "emoji": "🌪️",
+ "sentences": [
+  "A massive dust storm just blanketed Mali.",
+  "NASA’s Terra satellite captured this stunning view on September 5, 2026.",
+  "These powerful events, called haboobs, are driven by intense convective winds.",
+  "While some dust traveled toward the Atlantic, a full crossing is unlikely this late in the year.",
+  "El Niño could complicate these patterns, potentially creating more dry sediment while reducing the storms needed to lift it."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.1,
+    0.1
+   ],
+   [
+    "massive",
+    0.1,
+    0.54
+   ],
+   [
+    "dust",
+    0.54,
+    0.82
+   ],
+   [
+    "storm",
+    0.82,
+    1.14
+   ],
+   [
+    "just",
+    1.14,
+    1.5
+   ],
+   [
+    "blanketed",
+    1.5,
+    2.0
+   ],
+   [
+    "Mali.",
+    2.0,
+    2.38
+   ],
+   [
+    "NASA’s",
+    2.84,
+    3.24
+   ],
+   [
+    "Terra",
+    3.24,
+    3.5
+   ],
+   [
+    "satellite",
+    3.5,
+    4.0
+   ],
+   [
+    "captured",
+    4.0,
+    4.4
+   ],
+   [
+    "this",
+    4.4,
+    4.68
+   ],
+   [
+    "stunning",
+    4.68,
+    5.04
+   ],
+   [
+    "view",
+    5.04,
+    5.38
+   ],
+   [
+    "on",
+    5.38,
+    5.6
+   ],
+   [
+    "September",
+    5.6,
+    5.92
+   ],
+   [
+    "5,",
+    5.92,
+    6.38
+   ],
+   [
+    "2026.",
+    7.06,
+    8.06
+   ],
+   [
+    "These",
+    8.06,
+    8.16
+   ],
+   [
+    "powerful",
+    8.16,
+    8.56
+   ],
+   [
+    "events,",
+    8.56,
+    8.8
+   ],
+   [
+    "called",
+    9.2,
+    9.38
+   ],
+   [
+    "haboobs,",
+    9.38,
+    9.48
+   ],
+   [
+    "are",
+    10.26,
+    10.3
+   ],
+   [
+    "driven",
+    10.3,
+    10.54
+   ],
+   [
+    "by",
+    10.54,
+    10.74
+   ],
+   [
+    "intense",
+    10.74,
+    11.18
+   ],
+   [
+    "convective",
+    11.18,
+    11.74
+   ],
+   [
+    "winds.",
+    11.74,
+    12.04
+   ],
+   [
+    "While",
+    12.74,
+    12.84
+   ],
+   [
+    "some",
+    12.84,
+    13.08
+   ],
+   [
+    "dust",
+    13.08,
+    13.28
+   ],
+   [
+    "traveled",
+    13.28,
+    13.62
+   ],
+   [
+    "toward",
+    13.62,
+    13.84
+   ],
+   [
+    "the",
+    13.84,
+    14.0
+   ],
+   [
+    "Atlantic,",
+    14.0,
+    14.46
+   ],
+   [
+    "a",
+    14.8,
+    14.88
+   ],
+   [
+    "full",
+    14.98,
+    15.08
+   ],
+   [
+    "crossing",
+    15.08,
+    15.46
+   ],
+   [
+    "is",
+    15.46,
+    15.7
+   ],
+   [
+    "unlikely",
+    15.7,
+    16.12
+   ],
+   [
+    "this",
+    16.12,
+    16.42
+   ],
+   [
+    "late",
+    16.42,
+    16.6
+   ],
+   [
+    "in",
+    16.6,
+    16.68
+   ],
+   [
+    "the",
+    16.68,
+    16.76
+   ],
+   [
+    "year.",
+    16.76,
+    17.02
+   ],
+   [
+    "El",
+    17.58,
+    17.68
+   ],
+   [
+    "Niño",
+    17.68,
+    18.0
+   ],
+   [
+    "could",
+    18.0,
+    18.24
+   ],
+   [
+    "complicate",
+    18.24,
+    18.78
+   ],
+   [
+    "these",
+    18.78,
+    18.94
+   ],
+   [
+    "patterns,",
+    18.94,
+    19.34
+   ],
+   [
+    "potentially",
+    19.74,
+    20.02
+   ],
+   [
+    "creating",
+    20.02,
+    20.44
+   ],
+   [
+    "more",
+    20.44,
+    20.72
+   ],
+   [
+    "dry",
+    20.72,
+    21.0
+   ],
+   [
+    "sediment",
+    21.0,
+    21.34
+   ],
+   [
+    "while",
+    21.34,
+    21.82
+   ],
+   [
+    "reducing",
+    21.82,
+    22.2
+   ],
+   [
+    "the",
+    22.2,
+    22.4
+   ],
+   [
+    "storms",
+    22.4,
+    22.74
+   ],
+   [
+    "needed",
+    22.74,
+    23.04
+   ],
+   [
+    "to",
+    23.04,
+    23.24
+   ],
+   [
+    "lift",
+    23.24,
+    23.44
+   ],
+   [
+    "it.",
+    23.44,
+    23.54
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   29,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Dust_Storm_Sweeps_Over_Mali_%281307062_-_lrg%29.jpg/960px-Dust_Storm_Sweeps_Over_Mali_%281307062_-_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Dust_Storm_Sweeps_Over_Mali_(1307062_-_lrg).jpg",
+   "desc": "Dust Storm Sweeps Over Mali (1307062 - lrg) — A dust storm obscures the ground in Mali in this image, acquired with the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite on September 5, 2026."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Haboob_dust_storm_in_Tozeur%2C_southern_Tunisia.jpg/960px-Haboob_dust_storm_in_Tozeur%2C_southern_Tunisia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Rawen Ab",
+   "page": "https://commons.wikimedia.org/wiki/File:Haboob_dust_storm_in_Tozeur,_southern_Tunisia.jpg",
+   "desc": "Haboob dust storm in Tozeur, southern Tunisia — A massive dust storm, also known as Haboob hit Tozeur, southern Tunisia"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Blowing_Saharan_Dust_Over_East_Atlantic_Ocean_%28CIRA_2024-04-10%29.png/960px-Blowing_Saharan_Dust_Over_East_Atlantic_Ocean_%28CIRA_2024-04-10%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "Meteosat imagery: CSU/CIRA &amp; EUMETSAT",
+   "page": "https://commons.wikimedia.org/wiki/File:Blowing_Saharan_Dust_Over_East_Atlantic_Ocean_(CIRA_2024-04-10).png",
+   "desc": "Blowing Saharan Dust Over East Atlantic Ocean (CIRA 2024-04-10) — Blowing Saharan Dust Over East Atlantic Ocean"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Ni%C3%B1o_Diagram.jpg/960px-El_Ni%C3%B1o_Diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 501,
+   "license": "CC0",
+   "artist": "Wesley.harwell",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Ni%C3%B1o_Diagram.jpg",
+   "desc": "El Niño Diagram — This shows current and wind conditions during an El Niño. Trade winds and currents are reversed, causing upwelling to occur in the East instead of the West as it usually occurs."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "focus",
+   "target": "dust plume",
+   "box": [
+    136,
+    143,
+    654,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Dust Storm Sweeps Over Mali",
+  "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T20:19:52Z",
+ "trimmed": true
+}
