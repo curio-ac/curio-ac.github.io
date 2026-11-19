@@ -1,0 +1,382 @@
+{
+ "id": "he-1cdd19c3",
+ "lang": "he",
+ "title": "ברצלונה: עיר בתוך חומות",
+ "cat": "history",
+ "emoji": "🏗️",
+ "sentences": [
+  "ברצלונה הייתה כלואה מאחורי חומות צבאיות.",
+  "במשך מאות שנים, העיר לא יכלה לגדול מעבר להן.",
+  "הכול השתנה עם הריסת החומות והרחבת העיר.",
+  "אילדפונס סרדה הוביל אז את פרויקט ההרחבה הגדול אישמפלה.",
+  "בהמשך, העיר סיפחה עיריות שכנות וגדלה עוד.",
+  "הגירה ואירועים עולמיים כמו אולימפיאדות עיצבו את ברצלונה שאתם מכירים היום."
+ ],
+ "tim": {
+  "w": [
+   [
+    "ברצלונה",
+    0,
+    0.68
+   ],
+   [
+    "הייתה",
+    0.68,
+    1.14
+   ],
+   [
+    "כלואה",
+    1.18,
+    1.7
+   ],
+   [
+    "מאחורי",
+    1.7,
+    2.3
+   ],
+   [
+    "חומות",
+    2.3,
+    2.8
+   ],
+   [
+    "צבאיות.",
+    2.8,
+    3.26
+   ],
+   [
+    "במשך",
+    3.98,
+    4.4
+   ],
+   [
+    "מאות",
+    4.4,
+    4.84
+   ],
+   [
+    "שנים,",
+    4.84,
+    5.34
+   ],
+   [
+    "העיר",
+    5.54,
+    5.7
+   ],
+   [
+    "לא",
+    5.7,
+    5.92
+   ],
+   [
+    "יכלה",
+    5.92,
+    6.24
+   ],
+   [
+    "לגדול",
+    6.24,
+    6.72
+   ],
+   [
+    "מעבר",
+    6.72,
+    7.12
+   ],
+   [
+    "להן.",
+    7.12,
+    7.3
+   ],
+   [
+    "הכול",
+    8.54,
+    8.74
+   ],
+   [
+    "השתנה",
+    8.74,
+    9.22
+   ],
+   [
+    "עם",
+    9.22,
+    9.5
+   ],
+   [
+    "הריסת",
+    9.5,
+    10.1
+   ],
+   [
+    "החומות",
+    10.12,
+    10.7
+   ],
+   [
+    "והרחבת",
+    10.88,
+    11.44
+   ],
+   [
+    "העיר.",
+    11.44,
+    11.66
+   ],
+   [
+    "אילדפונס",
+    12.64,
+    13.36
+   ],
+   [
+    "סרדה",
+    13.4,
+    13.76
+   ],
+   [
+    "הוביל",
+    13.76,
+    14.3
+   ],
+   [
+    "אז",
+    14.3,
+    14.48
+   ],
+   [
+    "את",
+    14.48,
+    14.62
+   ],
+   [
+    "פרויקט",
+    14.76,
+    15.16
+   ],
+   [
+    "ההרחבה",
+    15.32,
+    15.64
+   ],
+   [
+    "הגדול",
+    15.64,
+    16.24
+   ],
+   [
+    "אישמפלה.",
+    16.24,
+    17.18
+   ],
+   [
+    "בהמשך,",
+    17.88,
+    18.6
+   ],
+   [
+    "העיר",
+    18.84,
+    19.08
+   ],
+   [
+    "סיפחה",
+    19.08,
+    19.58
+   ],
+   [
+    "עיריות",
+    19.58,
+    19.94
+   ],
+   [
+    "שכנות",
+    19.94,
+    20.46
+   ],
+   [
+    "וגדלה",
+    20.64,
+    21.16
+   ],
+   [
+    "עוד.",
+    21.16,
+    21.46
+   ],
+   [
+    "הגירה",
+    22.28,
+    22.82
+   ],
+   [
+    "ואירועים",
+    22.82,
+    23.46
+   ],
+   [
+    "עולמיים",
+    23.46,
+    23.86
+   ],
+   [
+    "כמו",
+    23.86,
+    24.26
+   ],
+   [
+    "אולימפיאדות",
+    24.26,
+    25.02
+   ],
+   [
+    "עיצבו",
+    25.62,
+    25.78
+   ],
+   [
+    "את",
+    25.78,
+    25.9
+   ],
+   [
+    "ברצלונה",
+    25.9,
+    26.58
+   ],
+   [
+    "שאתם",
+    26.58,
+    27.02
+   ],
+   [
+    "מכירים",
+    27.02,
+    27.52
+   ],
+   [
+    "היום.",
+    27.52,
+    27.62
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   22,
+   31,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Barcelona_el_1563%2C_Anthonis_van_den_Wyngaerde.jpg/960px-Barcelona_el_1563%2C_Anthonis_van_den_Wyngaerde.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 194,
+   "license": "Public domain",
+   "artist": "Anton van den Wyngaerde",
+   "page": "https://commons.wikimedia.org/wiki/File:Barcelona_el_1563,_Anthonis_van_den_Wyngaerde.jpg",
+   "desc": "Barcelona el 1563, Anthonis van den Wyngaerde — La ciutat de Barcelona el 1563, Anthonis van den Wyngaerde."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/1902%2C_Historia_de_Espa%C3%B1a_en_el_siglo_XIX%2C_vol_5%2C_Barcelona%2C_Muralla_de_mar.jpg/960px-1902%2C_Historia_de_Espa%C3%B1a_en_el_siglo_XIX%2C_vol_5%2C_Barcelona%2C_Muralla_de_mar.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 476,
+   "license": "Public domain",
+   "artist": "José Passos",
+   "page": "https://commons.wikimedia.org/wiki/File:1902,_Historia_de_Espa%C3%B1a_en_el_siglo_XIX,_vol_5,_Barcelona,_Muralla_de_mar.jpg",
+   "desc": "1902, Historia de España en el siglo XIX, vol 5, Barcelona, Muralla de mar — Barcelona.—Muralla de mar."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/1912-Via-Layetana.jpg/960px-1912-Via-Layetana.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 502,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:1912-Via-Layetana.jpg",
+   "desc": "1912-Via-Layetana — Apertura de la Vía Layetana (1912)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/BCN_alrededores_Serra_1890.jpg/960px-BCN_alrededores_Serra_1890.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 520,
+   "license": "Public domain",
+   "artist": "J.M. Serra",
+   "page": "https://commons.wikimedia.org/wiki/File:BCN_alrededores_Serra_1890.jpg",
+   "desc": "BCN alrededores Serra 1890 — Plano de Barcelona y sus alrededores en 1890 aprobado por el excelentísimo ayuntamiento en sesión del día 13 de enero de 1891, J.M. Serra."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/BCN-ParcForum-4923.jpg/960px-BCN-ParcForum-4923.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 3.0",
+   "artist": "Amadalvarez",
+   "page": "https://commons.wikimedia.org/wiki/File:BCN-ParcForum-4923.jpg",
+   "desc": "BCN-ParcForum-4923 — Aerial view of the Forum Park (Barcelona) during the celebration of the Universal Forum of Cultures 2004."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "medieval city walls",
+   "box": [
+    470,
+    100,
+    610,
+    980
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Eixample district map",
+   "box": [
+    400,
+    380,
+    780,
+    830
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1952,
+   "unit": "year",
+   "label": "קונגרס אוכריסטי"
+  }
+ ],
+ "geo": null,
+ "qid": "Q21094791",
+ "pron_wer": 0.061,
+ "angle": 0,
+ "source": {
+  "title": "תכנון העיר ברצלונה",
+  "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%94%D7%A2%D7%99%D7%A8_%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T09:53:14Z",
+ "trimmed": true
+}
