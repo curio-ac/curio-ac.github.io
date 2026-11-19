@@ -1,0 +1,421 @@
+{
+ "id": "en-6b3fe10d",
+ "lang": "en",
+ "title": "Space’s Giant Magnifying Glasses",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Galaxies act like giant magnifying glasses.",
+  "Massive objects warp space to bend background light.",
+  "This phenomenon creates distorted arcs and rings.",
+  "Hubble captures these lenses in stunning detail.",
+  "Now, the Roman Space Telescope will find many more.",
+  "Together, they hunt for invisible dark matter clumps.",
+  "These cosmic mirrors reveal secrets of the early universe."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Galaxies",
+    0,
+    0.66
+   ],
+   [
+    "act",
+    0.76,
+    0.92
+   ],
+   [
+    "like",
+    0.92,
+    1.2
+   ],
+   [
+    "giant",
+    1.2,
+    1.68
+   ],
+   [
+    "magnifying",
+    1.68,
+    2.26
+   ],
+   [
+    "glasses.",
+    2.26,
+    3.48
+   ],
+   [
+    "Massive",
+    3.48,
+    3.84
+   ],
+   [
+    "objects",
+    3.86,
+    4.16
+   ],
+   [
+    "warp",
+    4.16,
+    4.7
+   ],
+   [
+    "space",
+    4.7,
+    5.1
+   ],
+   [
+    "to",
+    5.1,
+    5.42
+   ],
+   [
+    "bend",
+    5.52,
+    5.72
+   ],
+   [
+    "background",
+    5.72,
+    6.12
+   ],
+   [
+    "light.",
+    6.12,
+    6.54
+   ],
+   [
+    "This",
+    7.34,
+    7.34
+   ],
+   [
+    "phenomenon",
+    7.34,
+    7.74
+   ],
+   [
+    "creates",
+    7.74,
+    8.26
+   ],
+   [
+    "distorted",
+    8.26,
+    8.82
+   ],
+   [
+    "arcs",
+    8.82,
+    9.48
+   ],
+   [
+    "and",
+    9.48,
+    9.6
+   ],
+   [
+    "rings.",
+    9.6,
+    9.86
+   ],
+   [
+    "Hubble",
+    10.6,
+    10.82
+   ],
+   [
+    "captures",
+    10.82,
+    11.36
+   ],
+   [
+    "these",
+    11.36,
+    11.66
+   ],
+   [
+    "lenses",
+    11.66,
+    12.0
+   ],
+   [
+    "in",
+    12.0,
+    12.26
+   ],
+   [
+    "stunning",
+    12.26,
+    12.62
+   ],
+   [
+    "detail.",
+    12.62,
+    12.92
+   ],
+   [
+    "Now,",
+    13.84,
+    14.14
+   ],
+   [
+    "the",
+    14.3,
+    14.34
+   ],
+   [
+    "Roman",
+    14.34,
+    14.64
+   ],
+   [
+    "Space",
+    14.64,
+    14.94
+   ],
+   [
+    "Telescope",
+    14.94,
+    15.52
+   ],
+   [
+    "will",
+    15.52,
+    15.64
+   ],
+   [
+    "find",
+    15.76,
+    15.94
+   ],
+   [
+    "many",
+    15.94,
+    16.3
+   ],
+   [
+    "more.",
+    16.3,
+    16.64
+   ],
+   [
+    "Together,",
+    17.34,
+    17.8
+   ],
+   [
+    "they",
+    17.86,
+    17.92
+   ],
+   [
+    "hunt",
+    17.92,
+    18.16
+   ],
+   [
+    "for",
+    18.16,
+    18.38
+   ],
+   [
+    "invisible",
+    18.38,
+    18.78
+   ],
+   [
+    "dark",
+    18.78,
+    19.16
+   ],
+   [
+    "matter",
+    19.16,
+    19.44
+   ],
+   [
+    "clumps.",
+    19.44,
+    19.82
+   ],
+   [
+    "These",
+    20.56,
+    20.66
+   ],
+   [
+    "cosmic",
+    20.66,
+    21.06
+   ],
+   [
+    "mirrors",
+    21.06,
+    21.46
+   ],
+   [
+    "reveal",
+    21.46,
+    21.84
+   ],
+   [
+    "secrets",
+    21.84,
+    22.26
+   ],
+   [
+    "of",
+    22.26,
+    22.58
+   ],
+   [
+    "the",
+    22.58,
+    22.68
+   ],
+   [
+    "early",
+    22.8,
+    22.92
+   ],
+   [
+    "universe.",
+    22.92,
+    23.58
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   21,
+   28,
+   37,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gravitational_lensing_of_distant_galaxies_%28opo1104a%29.jpg/960px-Gravitational_lensing_of_distant_galaxies_%28opo1104a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "Illustration Credit: NASA, ESA and A. Feild (STScI) Science Credit: NASA, ESA, S",
+   "page": "https://commons.wikimedia.org/wiki/File:Gravitational_lensing_of_distant_galaxies_(opo1104a).jpg",
+   "desc": "Gravitational lensing of distant galaxies (opo1104a) — This diagram illustrates how gravitational lensing by foreground galaxies will influence the appearance of far more distant background galaxies. This means that as many as 20 percent of the most distant ga"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Euclid_strong_lensing.png/960px-Euclid_strong_lensing.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 441,
+   "license": "CC0",
+   "artist": "Perryerin",
+   "page": "https://commons.wikimedia.org/wiki/File:Euclid_strong_lensing.png",
+   "desc": "Euclid strong lensing — A schematic showing how Euclid detects strong gravitational lensing — light from a distant spiral galaxy is bent around a foreground elliptical galaxy, producing the lensed arcs seen in the inset image."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Different_types_of_gravitational_lenses_%28heic0404b%29.jpg/960px-Different_types_of_gravitational_lenses_%28heic0404b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1051,
+   "license": "Public domain",
+   "artist": "European Space Agency .",
+   "page": "https://commons.wikimedia.org/wiki/File:Different_types_of_gravitational_lenses_(heic0404b).jpg",
+   "desc": "Different types of gravitational lenses (heic0404b) — Gravitational lenses produce different shaped images depending on the shape of the lensing body. If the lens is spherical then the image appears as an Einstein ring (in other words as a ring of light) (top)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gravitational_lensing_in_the_galaxy_cluster_Abell_370_%28captured_by_the_Hubble_Space_Telescope%29.jpg/960px-Gravitational_lensing_in_the_galaxy_cluster_Abell_370_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 594,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, the Hubble SM4 ERO Team and ST-ECF",
+   "page": "https://commons.wikimedia.org/wiki/File:Gravitational_lensing_in_the_galaxy_cluster_Abell_370_(captured_by_the_Hubble_Space_Telescope).jpg",
+   "desc": "Gravitational lensing in the galaxy cluster Abell 370 (captured by the Hubble Space Telescope) — The NASA/ESA Hubble Space Telescope's newly repaired Advanced Camera for Surveys (ACS) has peered across almost five billion light-years to resolve intricate detai"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Nancy_Grace_Roman_Space_Telescope_%282020-35-4665%29.png/960px-Nancy_Grace_Roman_Space_Telescope_%282020-35-4665%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "IMAGE: NASA, NASA-GSFC",
+   "page": "https://commons.wikimedia.org/wiki/File:Nancy_Grace_Roman_Space_Telescope_(2020-35-4665).png",
+   "desc": "Nancy Grace Roman Space Telescope (2020-35-4665) — This is an artist’s illustration of the Nancy Grace Roman Space Telescope spacecraft against a starry background. The Roman Space Telescope is a Hubble-sized telescope planned for launch in the mid-2020s. It w"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Illustration_of_Strong_Gravitational_Lensing_%282020-05-4617%29.jpg/960px-Illustration_of_Strong_Gravitational_Lensing_%282020-05-4617%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 380,
+   "license": "Public domain",
+   "artist": "NASA, ESA, and D. Player (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Illustration_of_Strong_Gravitational_Lensing_(2020-05-4617).jpg",
+   "desc": "Illustration of Strong Gravitational Lensing (2020-05-4617) — Gravitational Lensing Provides Clues to Tiny Dark Matter Clumps This graphic illustrates how a faraway quasar's light is altered by a massive foreground galaxy and by tiny dark matter clumps along t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Massive_galaxies_discovered_in_the_early_Universe.jpg/960px-Massive_galaxies_discovered_in_the_early_Universe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 455,
+   "license": "CC BY 4.0",
+   "artist": "ESO/UltraVISTA team. Acknowledgement: TERAPIX/CNRS/INSU/CASU",
+   "page": "https://commons.wikimedia.org/wiki/File:Massive_galaxies_discovered_in_the_early_Universe.jpg",
+   "desc": "Massive galaxies discovered in the early Universe — ESO’s VISTA survey telescope has spied a horde of previously hidden massive galaxies that existed when the Universe was in its infancy. By discovering and studying more of these galaxies than ever before, ast"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "distorted arcs",
+   "box": [
+    645,
+    765,
+    810,
+    895
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T23:43:12Z",
+ "trimmed": true
+}
