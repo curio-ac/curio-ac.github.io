@@ -1,0 +1,433 @@
+{
+ "id": "en-1108db4c",
+ "lang": "en",
+ "title": "A Wild NASCAR Race",
+ "cat": "history",
+ "emoji": "🏎️",
+ "sentences": [
+  "The lead changed constantly in this race.",
+  "The 2006 Bank of America 500 happened at Lowe's Motor Speedway.",
+  "A massive crowd of 175,000 people watched the action.",
+  "Scott Riggs grabbed the pole position but quickly lost the lead.",
+  "Drivers like Dale Earnhardt Jr. and Tony Raines fought for the front.",
+  "Kasey Kahne started second and ultimately won the 334-lap event."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.08,
+    0.08
+   ],
+   [
+    "lead",
+    0.08,
+    0.28
+   ],
+   [
+    "changed",
+    0.28,
+    0.6
+   ],
+   [
+    "constantly",
+    0.6,
+    1.22
+   ],
+   [
+    "in",
+    1.22,
+    1.46
+   ],
+   [
+    "this",
+    1.46,
+    1.62
+   ],
+   [
+    "race.",
+    1.62,
+    2.0
+   ],
+   [
+    "The",
+    2.42,
+    2.42
+   ],
+   [
+    "2006",
+    2.42,
+    3.06
+   ],
+   [
+    "Bank",
+    3.06,
+    3.46
+   ],
+   [
+    "of",
+    3.46,
+    3.58
+   ],
+   [
+    "America",
+    3.58,
+    3.96
+   ],
+   [
+    "500",
+    3.96,
+    4.32
+   ],
+   [
+    "happened",
+    4.92,
+    5.02
+   ],
+   [
+    "at",
+    5.02,
+    5.22
+   ],
+   [
+    "Lowe's",
+    5.22,
+    5.64
+   ],
+   [
+    "Motor",
+    5.64,
+    5.84
+   ],
+   [
+    "Speedway.",
+    5.84,
+    6.34
+   ],
+   [
+    "A",
+    7.06,
+    7.14
+   ],
+   [
+    "massive",
+    7.14,
+    7.52
+   ],
+   [
+    "crowd",
+    7.52,
+    7.88
+   ],
+   [
+    "of",
+    7.88,
+    8.0
+   ],
+   [
+    "175,000",
+    8.0,
+    9.8
+   ],
+   [
+    "people",
+    9.8,
+    10.18
+   ],
+   [
+    "watched",
+    10.18,
+    10.6
+   ],
+   [
+    "the",
+    10.6,
+    10.78
+   ],
+   [
+    "action.",
+    10.78,
+    11.1
+   ],
+   [
+    "Scott",
+    11.9,
+    12.12
+   ],
+   [
+    "Riggs",
+    12.12,
+    12.44
+   ],
+   [
+    "grabbed",
+    12.44,
+    12.68
+   ],
+   [
+    "the",
+    12.68,
+    12.92
+   ],
+   [
+    "pole",
+    12.98,
+    13.08
+   ],
+   [
+    "position",
+    13.08,
+    13.42
+   ],
+   [
+    "but",
+    13.42,
+    13.88
+   ],
+   [
+    "quickly",
+    14.0,
+    14.22
+   ],
+   [
+    "lost",
+    14.32,
+    14.54
+   ],
+   [
+    "the",
+    14.58,
+    14.68
+   ],
+   [
+    "lead.",
+    14.68,
+    14.9
+   ],
+   [
+    "Drivers",
+    15.64,
+    15.84
+   ],
+   [
+    "like",
+    15.84,
+    16.02
+   ],
+   [
+    "Dale",
+    16.1,
+    16.22
+   ],
+   [
+    "Earnhardt",
+    16.22,
+    16.78
+   ],
+   [
+    "Jr.",
+    16.78,
+    17.18
+   ],
+   [
+    "and",
+    17.24,
+    17.32
+   ],
+   [
+    "Tony",
+    17.32,
+    17.52
+   ],
+   [
+    "Raines",
+    17.52,
+    18.0
+   ],
+   [
+    "fought",
+    18.0,
+    18.16
+   ],
+   [
+    "for",
+    18.16,
+    18.32
+   ],
+   [
+    "the",
+    18.32,
+    18.4
+   ],
+   [
+    "front.",
+    18.4,
+    18.62
+   ],
+   [
+    "Kasey",
+    19.42,
+    19.68
+   ],
+   [
+    "Kahne",
+    19.68,
+    19.92
+   ],
+   [
+    "started",
+    19.92,
+    20.12
+   ],
+   [
+    "second",
+    20.12,
+    20.54
+   ],
+   [
+    "and",
+    20.78,
+    20.88
+   ],
+   [
+    "ultimately",
+    20.88,
+    21.24
+   ],
+   [
+    "won",
+    21.24,
+    21.56
+   ],
+   [
+    "the",
+    21.56,
+    21.72
+   ],
+   [
+    "334-lap",
+    21.72,
+    23.3
+   ],
+   [
+    "event.",
+    23.3,
+    23.86
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   27,
+   38,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/NASCAR_Euro_Series_Pro_Race_Action_-_2025_American_Speedfest.jpg/960px-NASCAR_Euro_Series_Pro_Race_Action_-_2025_American_Speedfest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 4.0",
+   "artist": "BWard 1997",
+   "page": "https://commons.wikimedia.org/wiki/File:NASCAR_Euro_Series_Pro_Race_Action_-_2025_American_Speedfest.jpg",
+   "desc": "NASCAR Euro Series Pro Race Action - 2025 American Speedfest — A group of 5 cars duel for position at Paddock Hill Bend during the NASCAR Euro Series Pro race at the 2025 American Speedfest event at Brands Hatch."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lowesmotorspeedway.jpg/960px-Lowesmotorspeedway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 487,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Lowesmotorspeedway.jpg",
+   "desc": "Lowesmotorspeedway — Charlotte Motor Speedway image taken in the NASA World Wind software"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Scott_Riggs_-_2008_Talladega_NASCAR_Sprint_Cup_Series_Spring_Race.jpg/960px-Scott_Riggs_-_2008_Talladega_NASCAR_Sprint_Cup_Series_Spring_Race.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 486,
+   "license": "CC BY 2.0",
+   "artist": "Pam J.",
+   "page": "https://commons.wikimedia.org/wiki/File:Scott_Riggs_-_2008_Talladega_NASCAR_Sprint_Cup_Series_Spring_Race.jpg",
+   "desc": "Scott Riggs - 2008 Talladega NASCAR Sprint Cup Series Spring Race — Scott Riggs arriving for the 2008 Aaron's 499 NASCAR Sprint Cup Series race"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Dale_Jr_-_Pocono_400_2012.jpg/960px-Dale_Jr_-_Pocono_400_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 974,
+   "license": "CC BY-SA 2.0",
+   "artist": "chuck624",
+   "page": "https://commons.wikimedia.org/wiki/File:Dale_Jr_-_Pocono_400_2012.jpg",
+   "desc": "Dale Jr - Pocono 400 2012 — Photo of Dale Jr. getting ready to qualify for the Pocono 400"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/KaseyKahneBristolAugust2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 958,
+   "license": "CC BY 2.0",
+   "artist": "Kim Phillips",
+   "page": "https://commons.wikimedia.org/wiki/File:KaseyKahneBristolAugust2007_(cropped).jpg",
+   "desc": "KaseyKahneBristolAugust2007 (cropped) — NASCAR driver en:Kasey Kahne at en:Bristol Motor Speedway in August 2007Kasey Kahne"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 175000,
+   "unit": "fans",
+   "label": "crowd size"
+  },
+  {
+   "type": "focus",
+   "target": "Scott Riggs",
+   "box": [
+    0,
+    0,
+    1000,
+    784
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 334,
+   "unit": "laps",
+   "label": "race length"
+  }
+ ],
+ "geo": null,
+ "qid": "Q22953200",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "2006 Bank of America 500",
+  "url": "https://en.wikipedia.org/wiki/2006_Bank_of_America_500",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T10:58:47Z",
+ "trimmed": true
+}
