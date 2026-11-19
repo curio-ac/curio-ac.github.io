@@ -36,9 +36,10 @@ def http(url, body=None, headers=None, timeout=120):
                 time.sleep(20 * (attempt + 1)); continue
             raise RuntimeError(f"{e.code} {msg}")
         except (TimeoutError, OSError) as e:
-            if attempt == 1:
+            if attempt >= 1:
                 raise RuntimeError(f"timeout/network: {e}")
             time.sleep(10)
+    raise RuntimeError("500 no response")
 
 
 # ---------- Gemini ----------
@@ -128,7 +129,10 @@ def _gen_json(model, prompt):
         if THINK and str(e).startswith("400"):
             THINK = False; return _gen_json(model, prompt)
         raise
-    out = [p.get("text", "") for p in res["candidates"][0]["content"]["parts"] if not p.get("thought")]
+    try:
+        out = [p.get("text", "") for p in res["candidates"][0]["content"]["parts"] if not p.get("thought")]
+    except (TypeError, KeyError, IndexError):
+        raise RuntimeError("500 empty answer from model")
     return _json_text(out[-1]) if gemma else json.loads(out[0])
 
 
