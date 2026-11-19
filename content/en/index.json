@@ -220,7 +220,8 @@
   "nasa:1484055",
   "John Adair",
   "nasa:1495740",
-  "Ian Carmichael"
+  "Ian Carmichael",
+  "nasa:1511430"
  ],
  "rejected": [
   "Chameleon",
@@ -273,7 +274,10 @@
   "Glacier",
   "Constantine II of Scotland",
   "nasa:1466049",
-  "Cougar"
+  "Cougar",
+  "Alexander Hamilton U.S. Custom House",
+  "Charles-Valentin Alkan",
+  "nasa:1504557"
  ],
  "angles": {
   "Blue whale": [
@@ -1012,6 +1016,9 @@
   ],
   "Ian Carmichael": [
    "Ian Carmichael: A 70-Year Career: Ian Carmichael acted for 70 long years."
+  ],
+  "nasa:1511430": [
+   "Tropical Glaciers Are Vanishing: Indonesia's tropical glaciers are almost gone."
   ]
  },
  "exhausted": []

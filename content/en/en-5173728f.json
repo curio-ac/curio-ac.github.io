@@ -1,0 +1,464 @@
+{
+ "id": "en-5173728f",
+ "lang": "en",
+ "title": "The Cancelled Boat Race",
+ "cat": "history",
+ "emoji": "🚣",
+ "sentences": [
+  "The 2020 Boat Race never happened.",
+  "This famous rowing competition between Oxford and Cambridge was scheduled for March 29.",
+  "The cancellation was caused by the COVID-19 pandemic in the United Kingdom.",
+  "It was the first men’s race cancellation since 1845, excluding World War I and II.",
+  "This also marked the first cancellation of the women’s race since its 1964 revival.",
+  "The event would have featured female umpires for both senior races."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0,
+    0.12
+   ],
+   [
+    "2020",
+    0.12,
+    0.64
+   ],
+   [
+    "Boat",
+    0.64,
+    1.06
+   ],
+   [
+    "Race",
+    1.06,
+    1.32
+   ],
+   [
+    "never",
+    1.32,
+    1.76
+   ],
+   [
+    "happened.",
+    1.76,
+    2.78
+   ],
+   [
+    "This",
+    2.78,
+    2.92
+   ],
+   [
+    "famous",
+    2.92,
+    3.28
+   ],
+   [
+    "rowing",
+    3.28,
+    3.68
+   ],
+   [
+    "competition",
+    3.68,
+    4.16
+   ],
+   [
+    "between",
+    4.16,
+    4.52
+   ],
+   [
+    "Oxford",
+    4.52,
+    4.96
+   ],
+   [
+    "and",
+    4.96,
+    5.22
+   ],
+   [
+    "Cambridge",
+    5.22,
+    5.56
+   ],
+   [
+    "was",
+    5.56,
+    5.92
+   ],
+   [
+    "scheduled",
+    5.92,
+    6.24
+   ],
+   [
+    "for",
+    6.24,
+    6.5
+   ],
+   [
+    "March",
+    6.5,
+    6.74
+   ],
+   [
+    "29.",
+    6.74,
+    7.36
+   ],
+   [
+    "The",
+    7.96,
+    8.08
+   ],
+   [
+    "cancellation",
+    8.12,
+    8.36
+   ],
+   [
+    "was",
+    8.36,
+    8.82
+   ],
+   [
+    "caused",
+    8.82,
+    9.12
+   ],
+   [
+    "by",
+    9.12,
+    9.36
+   ],
+   [
+    "the",
+    9.36,
+    9.46
+   ],
+   [
+    "COVID-19",
+    10.06,
+    10.16
+   ],
+   [
+    "pandemic",
+    10.16,
+    10.72
+   ],
+   [
+    "in",
+    10.72,
+    10.94
+   ],
+   [
+    "the",
+    10.94,
+    11.04
+   ],
+   [
+    "United",
+    11.04,
+    11.24
+   ],
+   [
+    "Kingdom.",
+    11.24,
+    11.56
+   ],
+   [
+    "It",
+    12.22,
+    12.32
+   ],
+   [
+    "was",
+    12.32,
+    12.46
+   ],
+   [
+    "the",
+    12.46,
+    12.58
+   ],
+   [
+    "first",
+    12.58,
+    12.92
+   ],
+   [
+    "men’s",
+    12.92,
+    13.38
+   ],
+   [
+    "race",
+    13.38,
+    13.54
+   ],
+   [
+    "cancellation",
+    13.54,
+    14.08
+   ],
+   [
+    "since",
+    14.08,
+    14.44
+   ],
+   [
+    "1845,",
+    14.44,
+    15.29
+   ],
+   [
+    "excluding",
+    16.18,
+    16.5
+   ],
+   [
+    "World",
+    16.5,
+    16.82
+   ],
+   [
+    "War",
+    16.82,
+    17.06
+   ],
+   [
+    "I",
+    17.06,
+    17.36
+   ],
+   [
+    "and",
+    17.36,
+    17.52
+   ],
+   [
+    "II.",
+    17.52,
+    17.76
+   ],
+   [
+    "This",
+    18.38,
+    18.56
+   ],
+   [
+    "also",
+    18.56,
+    18.88
+   ],
+   [
+    "marked",
+    18.88,
+    19.12
+   ],
+   [
+    "the",
+    19.12,
+    19.32
+   ],
+   [
+    "first",
+    19.32,
+    19.58
+   ],
+   [
+    "cancellation",
+    19.58,
+    20.1
+   ],
+   [
+    "of",
+    20.1,
+    20.42
+   ],
+   [
+    "the",
+    20.42,
+    20.52
+   ],
+   [
+    "women’s",
+    20.52,
+    20.98
+   ],
+   [
+    "race",
+    20.98,
+    21.18
+   ],
+   [
+    "since",
+    21.34,
+    21.46
+   ],
+   [
+    "its",
+    21.46,
+    21.62
+   ],
+   [
+    "1964",
+    21.62,
+    22.38
+   ],
+   [
+    "revival.",
+    22.38,
+    23.12
+   ],
+   [
+    "The",
+    23.84,
+    23.94
+   ],
+   [
+    "event",
+    23.94,
+    24.18
+   ],
+   [
+    "would",
+    24.18,
+    24.38
+   ],
+   [
+    "have",
+    24.38,
+    24.52
+   ],
+   [
+    "featured",
+    24.52,
+    24.74
+   ],
+   [
+    "female",
+    24.74,
+    25.14
+   ],
+   [
+    "umpires",
+    25.14,
+    25.76
+   ],
+   [
+    "for",
+    25.78,
+    25.98
+   ],
+   [
+    "both",
+    26.08,
+    26.2
+   ],
+   [
+    "senior",
+    26.2,
+    26.54
+   ],
+   [
+    "races.",
+    26.54,
+    26.96
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   19,
+   31,
+   46,
+   60
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/The_Oxford_and_Cambridge_Boat-Race_-_Start%2C_1872.jpg/960px-The_Oxford_and_Cambridge_Boat-Race_-_Start%2C_1872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 502,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Oxford_and_Cambridge_Boat-Race_-_Start,_1872.jpg",
+   "desc": "The Oxford and Cambridge Boat-Race - Start, 1872 — The Oxford and Cambridge Boat-Race - Start, 1872"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Chequerfield_Hotel%2C_The_Circle%2C_Pontefract_temporarily_closed_due_to_the_COVID-19_pandemic_%281st_June_2020%29_002.jpg/960px-Chequerfield_Hotel%2C_The_Circle%2C_Pontefract_temporarily_closed_due_to_the_COVID-19_pandemic_%281st_June_2020%29_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mtaylor848",
+   "page": "https://commons.wikimedia.org/wiki/File:Chequerfield_Hotel,_The_Circle,_Pontefract_temporarily_closed_due_to_the_COVID-19_pandemic_(1st_June_2020)_002.jpg",
+   "desc": "Chequerfield Hotel, The Circle, Pontefract temporarily closed due to the COVID-19 pandemic (1st June 2020) 002 — Chequerfield Hotel, The Circle, Pontefract, West Yorkshire temporarily closed due to the COVID-19 pandemic. Taken on the evening of Monday the 1st "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Oxford_Women%27s_VIII_approaching_the_finish_%E2%80%93_Boat_Race_2015.jpg/960px-Oxford_Women%27s_VIII_approaching_the_finish_%E2%80%93_Boat_Race_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Pointillist",
+   "page": "https://commons.wikimedia.org/wiki/File:Oxford_Women%27s_VIII_approaching_the_finish_%E2%80%93_Boat_Race_2015.jpg",
+   "desc": "Oxford Women's VIII approaching the finish – Boat Race 2015 — Image of Oxford &amp; Cambridge Boat Race 2015, illustrating Oxford Women's VIII approaching the finish, seen from the North (Middlesex) end of Chiswick Bridge."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2020
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1845,
+   "unit": "year",
+   "label": "men's race start"
+  },
+  {
+   "type": "stat",
+   "value": 1964,
+   "unit": "year",
+   "label": "women's race revival"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q74109183",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "The Boat Race 2020",
+  "url": "https://en.wikipedia.org/wiki/The_Boat_Race_2020",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T16:50:51Z",
+ "trimmed": true
+}
