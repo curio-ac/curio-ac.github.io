@@ -1,0 +1,475 @@
+{
+ "id": "en-fe7058d9",
+ "lang": "en",
+ "title": "A War Memorial Built Twice",
+ "cat": "history",
+ "emoji": "🪦",
+ "sentences": [
+  "This massive arch was actually a backup plan.",
+  "The first design by architect Sir Edwin Lutyens was canceled due to a lack of money.",
+  "A committee then asked Lutyens for a new memorial arch in 1923.",
+  "It is a 21-meter tall structure made of Portland stone.",
+  "The design features four arched openings in a tetrapylon shape.",
+  "On 11 November, the sunrise shines directly through the main arches."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.2,
+    0.46
+   ],
+   [
+    "massive",
+    0.46,
+    1.16
+   ],
+   [
+    "arch",
+    1.16,
+    1.52
+   ],
+   [
+    "was",
+    1.52,
+    1.84
+   ],
+   [
+    "actually",
+    2.0,
+    2.36
+   ],
+   [
+    "a",
+    2.36,
+    2.54
+   ],
+   [
+    "backup",
+    2.54,
+    2.76
+   ],
+   [
+    "plan.",
+    2.76,
+    3.12
+   ],
+   [
+    "The",
+    3.64,
+    3.66
+   ],
+   [
+    "first",
+    3.66,
+    3.82
+   ],
+   [
+    "design",
+    3.82,
+    4.22
+   ],
+   [
+    "by",
+    4.22,
+    4.48
+   ],
+   [
+    "architect",
+    4.48,
+    4.88
+   ],
+   [
+    "Sir",
+    5.0,
+    5.18
+   ],
+   [
+    "Edwin",
+    5.18,
+    5.54
+   ],
+   [
+    "Lutyens",
+    5.56,
+    5.96
+   ],
+   [
+    "was",
+    5.96,
+    6.12
+   ],
+   [
+    "canceled",
+    6.34,
+    6.48
+   ],
+   [
+    "due",
+    6.54,
+    6.82
+   ],
+   [
+    "to",
+    6.82,
+    6.98
+   ],
+   [
+    "a",
+    6.98,
+    7.2
+   ],
+   [
+    "lack",
+    7.2,
+    7.44
+   ],
+   [
+    "of",
+    7.5,
+    7.6
+   ],
+   [
+    "money.",
+    7.6,
+    7.76
+   ],
+   [
+    "A",
+    8.46,
+    8.48
+   ],
+   [
+    "committee",
+    8.54,
+    8.66
+   ],
+   [
+    "then",
+    8.66,
+    8.96
+   ],
+   [
+    "asked",
+    8.96,
+    9.22
+   ],
+   [
+    "Lutyens",
+    9.22,
+    9.54
+   ],
+   [
+    "for",
+    9.54,
+    9.7
+   ],
+   [
+    "a",
+    9.74,
+    9.84
+   ],
+   [
+    "new",
+    9.84,
+    10.02
+   ],
+   [
+    "memorial",
+    10.02,
+    10.22
+   ],
+   [
+    "arch",
+    10.22,
+    10.66
+   ],
+   [
+    "in",
+    10.66,
+    10.84
+   ],
+   [
+    "1923.",
+    11.44,
+    11.84
+   ],
+   [
+    "It",
+    12.38,
+    12.44
+   ],
+   [
+    "is",
+    12.44,
+    12.54
+   ],
+   [
+    "a",
+    12.54,
+    12.64
+   ],
+   [
+    "21-meter",
+    12.64,
+    13.44
+   ],
+   [
+    "tall",
+    13.44,
+    13.82
+   ],
+   [
+    "structure",
+    14.1,
+    14.2
+   ],
+   [
+    "made",
+    14.2,
+    14.42
+   ],
+   [
+    "of",
+    14.42,
+    14.58
+   ],
+   [
+    "Portland",
+    14.68,
+    14.84
+   ],
+   [
+    "stone.",
+    14.84,
+    15.24
+   ],
+   [
+    "The",
+    15.86,
+    15.92
+   ],
+   [
+    "design",
+    15.92,
+    16.16
+   ],
+   [
+    "features",
+    16.16,
+    16.4
+   ],
+   [
+    "four",
+    16.4,
+    16.82
+   ],
+   [
+    "arched",
+    16.82,
+    17.22
+   ],
+   [
+    "openings",
+    17.22,
+    17.5
+   ],
+   [
+    "in",
+    17.5,
+    17.78
+   ],
+   [
+    "a",
+    17.78,
+    17.9
+   ],
+   [
+    "tetrapylon",
+    17.9,
+    18.48
+   ],
+   [
+    "shape.",
+    18.48,
+    18.7
+   ],
+   [
+    "On",
+    19.34,
+    19.42
+   ],
+   [
+    "11",
+    19.42,
+    19.64
+   ],
+   [
+    "November,",
+    19.64,
+    20.19
+   ],
+   [
+    "the",
+    20.34,
+    20.4
+   ],
+   [
+    "sunrise",
+    20.4,
+    20.72
+   ],
+   [
+    "shines",
+    20.72,
+    21.14
+   ],
+   [
+    "directly",
+    21.14,
+    21.58
+   ],
+   [
+    "through",
+    21.58,
+    22.06
+   ],
+   [
+    "the",
+    22.1,
+    22.2
+   ],
+   [
+    "main",
+    22.2,
+    22.36
+   ],
+   [
+    "arches.",
+    22.36,
+    22.5
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   24,
+   36,
+   46,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Leicester_War_Memorial_Summer_09_oblique_view.jpg/960px-Leicester_War_Memorial_Summer_09_oblique_view.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "NotFromUtrecht",
+   "page": "https://commons.wikimedia.org/wiki/File:Leicester_War_Memorial_Summer_09_oblique_view.jpg",
+   "desc": "Leicester War Memorial Summer 09 oblique view — The War Memorial, Victoria Park. A Grade I listed building, designed by Edwin Lutyens and erected in 1923"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Edwin_Lutyens.jpg/960px-Edwin_Lutyens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 951,
+   "license": "Public domain",
+   "artist": "Weaver, Lawrence, 1876-1930",
+   "page": "https://commons.wikimedia.org/wiki/File:Edwin_Lutyens.jpg",
+   "desc": "Edwin Lutyens — Image from page 5 of Lutyens houses and gardens (1921)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Edwin_Lutyens.jpg/960px-Edwin_Lutyens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 951,
+   "license": "Public domain",
+   "artist": "Weaver, Lawrence, 1876-1930",
+   "page": "https://commons.wikimedia.org/wiki/File:Edwin_Lutyens.jpg",
+   "desc": "Edwin Lutyens — Image from page 5 of Lutyens houses and gardens (1921)."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Leicester_Arch_of_Remembrance_%28front%2C_07%29_cropped.jpg/960px-Leicester_Arch_of_Remembrance_%28front%2C_07%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 690,
+   "license": "CC BY 4.0",
+   "artist": "Harry Mitchell",
+   "page": "https://commons.wikimedia.org/wiki/File:Leicester_Arch_of_Remembrance_(front,_07)_cropped.jpg",
+   "desc": "Leicester Arch of Remembrance (front, 07) cropped — Cropped version of File:Leicester Arch of Remembrance (front, 07).jpg. Frontal view of the Arch of Remembrance, a war memorial in Leicester, England."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Leicester_Arch_of_Remembrance_%28rear%2C_01%29.jpg/960px-Leicester_Arch_of_Remembrance_%28rear%2C_01%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY-SA 4.0",
+   "artist": "Harry Mitchell",
+   "page": "https://commons.wikimedia.org/wiki/File:Leicester_Arch_of_Remembrance_(rear,_01).jpg",
+   "desc": "Leicester Arch of Remembrance (rear, 01) — The Arch of Remembrance in Leicester, England, a war memorial by Sir Edwin Lutyens. .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": "1919",
+   "unit": "year",
+   "label": "committee formed"
+  },
+  {
+   "type": "timeline",
+   "year": 1923
+  },
+  {
+   "type": "compare",
+   "value": 21,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "focus",
+   "target": "four arched openings",
+   "box": [
+    207,
+    453,
+    664,
+    595
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 11,
+   "unit": "November",
+   "label": "Armistice Day"
+  }
+ ],
+ "geo": [
+  52.623,
+  -1.122
+ ],
+ "qid": "Q17528573",
+ "pron_wer": 0.044,
+ "angle": 0,
+ "source": {
+  "title": "Arch of Remembrance",
+  "url": "https://en.wikipedia.org/wiki/Arch_of_Remembrance",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T19:11:04Z",
+ "trimmed": true
+}
