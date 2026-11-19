@@ -1,0 +1,377 @@
+{
+ "id": "en-361c7b27",
+ "lang": "en",
+ "title": "Curaçao's 1969 Violent Uprising",
+ "cat": "history",
+ "emoji": "🔥",
+ "sentences": [
+  "A labor strike ignited a Caribbean uprising.",
+  "It began on May 30, 1969, in Curaçao.",
+  "Workers protested, but the rally turned violent.",
+  "Looting and property destruction spread through Willemstad.",
+  "Rioting continued into the night of June 1.",
+  "Economic decline and high unemployment fueled the unrest.",
+  "Activists also fought against the island's colonial status."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.35,
+    0.35
+   ],
+   [
+    "labor",
+    0.35,
+    0.57
+   ],
+   [
+    "strike",
+    0.57,
+    0.95
+   ],
+   [
+    "ignited",
+    1.05,
+    1.37
+   ],
+   [
+    "a",
+    1.37,
+    1.45
+   ],
+   [
+    "Caribbean",
+    1.45,
+    1.83
+   ],
+   [
+    "uprising.",
+    1.83,
+    2.39
+   ],
+   [
+    "It",
+    2.97,
+    3.03
+   ],
+   [
+    "began",
+    3.03,
+    3.33
+   ],
+   [
+    "on",
+    3.33,
+    3.55
+   ],
+   [
+    "May",
+    3.55,
+    3.69
+   ],
+   [
+    "30,",
+    3.69,
+    4.17
+   ],
+   [
+    "1969,",
+    4.31,
+    5.15
+   ],
+   [
+    "in",
+    5.21,
+    5.27
+   ],
+   [
+    "Curaçao.",
+    5.27,
+    5.71
+   ],
+   [
+    "Workers",
+    6.37,
+    6.61
+   ],
+   [
+    "protested,",
+    6.61,
+    7.33
+   ],
+   [
+    "but",
+    7.39,
+    7.45
+   ],
+   [
+    "the",
+    7.45,
+    7.55
+   ],
+   [
+    "rally",
+    7.55,
+    7.75
+   ],
+   [
+    "turned",
+    7.75,
+    8.05
+   ],
+   [
+    "violent.",
+    8.05,
+    8.41
+   ],
+   [
+    "Looting",
+    8.95,
+    9.15
+   ],
+   [
+    "and",
+    9.15,
+    9.33
+   ],
+   [
+    "property",
+    9.33,
+    9.59
+   ],
+   [
+    "destruction",
+    9.59,
+    10.09
+   ],
+   [
+    "spread",
+    10.09,
+    10.41
+   ],
+   [
+    "through",
+    10.41,
+    10.67
+   ],
+   [
+    "Willemstad.",
+    10.67,
+    11.32
+   ],
+   [
+    "Rioting",
+    11.81,
+    12.15
+   ],
+   [
+    "continued",
+    12.15,
+    12.43
+   ],
+   [
+    "into",
+    12.43,
+    12.77
+   ],
+   [
+    "the",
+    12.77,
+    12.87
+   ],
+   [
+    "night",
+    12.87,
+    13.03
+   ],
+   [
+    "of",
+    13.03,
+    13.15
+   ],
+   [
+    "June",
+    13.15,
+    13.33
+   ],
+   [
+    "1.",
+    13.33,
+    13.71
+   ],
+   [
+    "Economic",
+    13.91,
+    14.13
+   ],
+   [
+    "decline",
+    14.13,
+    14.43
+   ],
+   [
+    "and",
+    14.43,
+    14.77
+   ],
+   [
+    "high",
+    14.77,
+    15.01
+   ],
+   [
+    "unemployment",
+    15.01,
+    15.51
+   ],
+   [
+    "fueled",
+    15.51,
+    15.89
+   ],
+   [
+    "the",
+    15.89,
+    16.09
+   ],
+   [
+    "unrest.",
+    16.09,
+    16.19
+   ],
+   [
+    "Activists",
+    17.17,
+    17.57
+   ],
+   [
+    "also",
+    17.59,
+    17.81
+   ],
+   [
+    "fought",
+    17.81,
+    18.05
+   ],
+   [
+    "against",
+    18.05,
+    18.33
+   ],
+   [
+    "the",
+    18.33,
+    18.47
+   ],
+   [
+    "island's",
+    18.47,
+    18.83
+   ],
+   [
+    "colonial",
+    18.83,
+    19.09
+   ],
+   [
+    "status.",
+    19.09,
+    19.51
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   22,
+   29,
+   37,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Ras_Elijah%2C_Trinta_di_mei_1.jpg/960px-Ras_Elijah%2C_Trinta_di_mei_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mady Busch",
+   "page": "https://commons.wikimedia.org/wiki/File:Ras_Elijah,_Trinta_di_mei_1.jpg",
+   "desc": "Ras Elijah, Trinta di mei 1 — In 1996 legde Ras Elijah de gebeurtenissen van 30 mei 1969 vast op een muurschildering in de Bayonetstraat, een steegje in Otrobanda. Het is een portrettengalerij waarbij Papa Godett, Amador Nita en Stanley Brown staan a"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Schade_na_opstand_20-05-1969.jpg/960px-Schade_na_opstand_20-05-1969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 473,
+   "license": "CC BY-SA 4.0",
+   "artist": "Hugo Hillenaar",
+   "page": "https://commons.wikimedia.org/wiki/File:Schade_na_opstand_20-05-1969.jpg",
+   "desc": "Schade na opstand 20-05-1969 — Materiele schade na de opstand van 30 mei 1969 in Willemstad, Curaçao. Eén van de foto's uit en serie van 17, gemaakt door wijlen Aalmoezenier Hugo Hillenaar, de dag na de opstand."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Ras_Elijah%2C_Trinta_di_mei_2.jpg/960px-Ras_Elijah%2C_Trinta_di_mei_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mady Busch",
+   "page": "https://commons.wikimedia.org/wiki/File:Ras_Elijah,_Trinta_di_mei_2.jpg",
+   "desc": "Ras Elijah, Trinta di mei 2 — In 1996 legde Ras Elijah de gebeurtenissen van 30 mei 1969 vast op een muurschildering in de Bayonetstraat, een steegje in Otrobanda. Het is een portrettengalerij waarbij Papa Godett, Amador Nita en Stanley Brown staan a"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1969
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "June",
+   "label": "rioting continued"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2145968",
+ "pron_wer": 0.037,
+ "angle": 0,
+ "source": {
+  "title": "1969 Curaçao uprising",
+  "url": "https://en.wikipedia.org/wiki/1969_Cura%C3%A7ao_uprising",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T21:34:16Z",
+ "trimmed": true
+}
