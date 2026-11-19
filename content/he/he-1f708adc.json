@@ -1,0 +1,349 @@
+{
+ "id": "he-1f708adc",
+ "lang": "he",
+ "title": "משנה שבלבלה את הגאונים",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "משנה אחת הצליחה לבלבל את גדולי החכמים.",
+  "היא עוסקת בחלוקת ירושה בין 3 אלמנות כשאין מספיק כסף.",
+  "המשנה מציעה חלוקה תמוהה בלי להסביר את ההיגיון שמאחוריה.",
+  "אפילו האמוראים ניסו לפענח אותה בדרכים יצירתיות.",
+  "הרמב\"ם והשולחן ערוך הכריעו בסוף לחלק את הכסף בשווה.",
+  "בשנת 1985 חוקרי תורת המשחקים גילו שהיא זהה לגרעינון."
+ ],
+ "tim": {
+  "w": [
+   [
+    "משנה",
+    0,
+    0.4
+   ],
+   [
+    "אחת",
+    0.4,
+    0.86
+   ],
+   [
+    "הצליחה",
+    1.0,
+    1.38
+   ],
+   [
+    "לבלבל",
+    1.38,
+    1.82
+   ],
+   [
+    "את",
+    1.82,
+    1.9
+   ],
+   [
+    "גדולי",
+    1.9,
+    2.34
+   ],
+   [
+    "החכמים.",
+    2.34,
+    2.88
+   ],
+   [
+    "היא",
+    3.46,
+    3.48
+   ],
+   [
+    "עוסקת",
+    3.48,
+    3.84
+   ],
+   [
+    "בחלוקת",
+    3.84,
+    4.42
+   ],
+   [
+    "ירושה",
+    4.42,
+    4.96
+   ],
+   [
+    "בין",
+    4.96,
+    5.26
+   ],
+   [
+    "3",
+    5.26,
+    5.46
+   ],
+   [
+    "אלמנות",
+    5.46,
+    6.06
+   ],
+   [
+    "כשאין",
+    6.18,
+    6.42
+   ],
+   [
+    "מספיק",
+    6.42,
+    6.76
+   ],
+   [
+    "כסף.",
+    6.76,
+    7.16
+   ],
+   [
+    "המשנה",
+    7.82,
+    8.18
+   ],
+   [
+    "מציעה",
+    8.18,
+    8.62
+   ],
+   [
+    "חלוקה",
+    8.62,
+    9.0
+   ],
+   [
+    "תמוהה",
+    9.0,
+    9.72
+   ],
+   [
+    "בלי",
+    9.88,
+    10.06
+   ],
+   [
+    "להסביר",
+    10.06,
+    10.44
+   ],
+   [
+    "את",
+    10.44,
+    10.56
+   ],
+   [
+    "ההיגיון",
+    10.56,
+    10.94
+   ],
+   [
+    "שמאחוריה.",
+    10.94,
+    11.58
+   ],
+   [
+    "אפילו",
+    12.2,
+    12.4
+   ],
+   [
+    "האמוראים",
+    12.4,
+    13.0
+   ],
+   [
+    "ניסו",
+    13.0,
+    13.3
+   ],
+   [
+    "לפענח",
+    13.3,
+    13.84
+   ],
+   [
+    "אותה",
+    13.84,
+    14.06
+   ],
+   [
+    "בדרכים",
+    14.06,
+    14.52
+   ],
+   [
+    "יצירתיות.",
+    14.52,
+    15.1
+   ],
+   [
+    "הרמב\"ם",
+    15.86,
+    16.3
+   ],
+   [
+    "והשולחן",
+    16.3,
+    16.84
+   ],
+   [
+    "ערוך",
+    16.84,
+    17.18
+   ],
+   [
+    "הכריעו",
+    17.18,
+    17.66
+   ],
+   [
+    "בסוף",
+    17.66,
+    18.06
+   ],
+   [
+    "לחלק",
+    18.26,
+    18.46
+   ],
+   [
+    "את",
+    18.46,
+    18.58
+   ],
+   [
+    "הכסף",
+    18.58,
+    18.98
+   ],
+   [
+    "בשווה.",
+    18.98,
+    19.42
+   ],
+   [
+    "בשנת",
+    20.16,
+    20.5
+   ],
+   [
+    "1985",
+    20.5,
+    21.32
+   ],
+   [
+    "חוקרי",
+    21.32,
+    22.7
+   ],
+   [
+    "תורת",
+    22.7,
+    23.08
+   ],
+   [
+    "המשחקים",
+    23.08,
+    23.6
+   ],
+   [
+    "גילו",
+    23.6,
+    23.92
+   ],
+   [
+    "שהיא",
+    23.92,
+    24.28
+   ],
+   [
+    "זהה",
+    24.28,
+    24.6
+   ],
+   [
+    "לגרעינון.",
+    24.6,
+    25.26
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   26,
+   33,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Commentary%2C_manuscript.jpg/960px-Commentary%2C_manuscript.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 513,
+   "license": "CC BY-SA 4.0",
+   "artist": "My own photograph of image",
+   "page": "https://commons.wikimedia.org/wiki/File:Commentary,_manuscript.jpg",
+   "desc": "Commentary, manuscript — Rabbi Nathan ben Abraham's commentary on Mishnah (copy made in circa 1930, in Yemen)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Maim%C3%B2nides.jpg/960px-Maim%C3%B2nides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "No machine-readable author provided. Makinal~commonswiki assumed (based on copyr",
+   "page": "https://commons.wikimedia.org/wiki/File:Maim%C3%B2nides.jpg",
+   "desc": "Maimònides — Sculpture of Maimonides in the birthplace of Córdoba."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1985
+  }
+ ],
+ "geo": null,
+ "qid": "Q12409055",
+ "pron_wer": 0.058,
+ "angle": 0,
+ "source": {
+  "title": "מי שהיה נשוי שלוש נשים",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%99_%D7%A9%D7%94%D7%99%D7%94_%D7%A0%D7%A9%D7%95%D7%99_%D7%A9%D7%9C%D7%95%D7%A9_%D7%A0%D7%A9%D7%99%D7%9D",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T11:34:23Z",
+ "trimmed": true
+}
