@@ -206,7 +206,8 @@
   "1984–85 Gillingham F.C. season",
   "nasa:1431752",
   "Alaska-class cruiser",
-  "Montague Druitt"
+  "Montague Druitt",
+  "nasa:1306540"
  ],
  "rejected": [
   "Chameleon",
@@ -955,6 +956,9 @@
   ],
   "Montague Druitt": [
    "The Ripper Suspect: A barrister was once a prime Ripper suspect."
+  ],
+  "nasa:1306540": [
+   "Webb's Tiny Space Discovery: Webb just found impossibly small brown dwarfs."
   ]
  },
  "exhausted": []

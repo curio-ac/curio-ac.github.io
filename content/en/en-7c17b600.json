@@ -1,0 +1,474 @@
+{
+ "id": "en-7c17b600",
+ "lang": "en",
+ "title": "The Nazi Rocket Dome",
+ "cat": "history",
+ "emoji": "🚀",
+ "sentences": [
+  "This massive concrete dome was a secret Nazi base.",
+  "Known as La Coupole, it was built in northern France between 1943 and 1944.",
+  "The site was designed to launch V-2 rockets against London on an industrial scale.",
+  "Workers constructed it inside a disused chalk quarry.",
+  "It features a network of tunnels for storing missiles and fuel.",
+  "This bunker is the earliest known precursor to modern underground missile silos."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.22
+   ],
+   [
+    "massive",
+    0.22,
+    0.72
+   ],
+   [
+    "concrete",
+    0.72,
+    1.16
+   ],
+   [
+    "dome",
+    1.16,
+    1.54
+   ],
+   [
+    "was",
+    1.54,
+    1.82
+   ],
+   [
+    "a",
+    1.82,
+    1.96
+   ],
+   [
+    "secret",
+    1.96,
+    2.3
+   ],
+   [
+    "Nazi",
+    2.3,
+    2.62
+   ],
+   [
+    "base.",
+    2.62,
+    3.47
+   ],
+   [
+    "Known",
+    3.58,
+    3.76
+   ],
+   [
+    "as",
+    3.76,
+    3.92
+   ],
+   [
+    "La",
+    3.92,
+    4.14
+   ],
+   [
+    "Coupole,",
+    4.14,
+    4.62
+   ],
+   [
+    "it",
+    5.0,
+    5.06
+   ],
+   [
+    "was",
+    5.06,
+    5.18
+   ],
+   [
+    "built",
+    5.18,
+    5.38
+   ],
+   [
+    "in",
+    5.38,
+    5.56
+   ],
+   [
+    "northern",
+    5.56,
+    5.76
+   ],
+   [
+    "France",
+    5.76,
+    6.14
+   ],
+   [
+    "between",
+    6.14,
+    6.46
+   ],
+   [
+    "1943",
+    6.46,
+    7.08
+   ],
+   [
+    "and",
+    7.08,
+    7.66
+   ],
+   [
+    "1944.",
+    7.66,
+    8.48
+   ],
+   [
+    "The",
+    9.14,
+    9.24
+   ],
+   [
+    "site",
+    9.24,
+    9.44
+   ],
+   [
+    "was",
+    9.44,
+    9.6
+   ],
+   [
+    "designed",
+    9.6,
+    9.94
+   ],
+   [
+    "to",
+    9.94,
+    10.1
+   ],
+   [
+    "launch",
+    10.1,
+    10.34
+   ],
+   [
+    "V-2",
+    10.34,
+    10.76
+   ],
+   [
+    "rockets",
+    10.76,
+    11.12
+   ],
+   [
+    "against",
+    11.12,
+    11.4
+   ],
+   [
+    "London",
+    11.4,
+    11.78
+   ],
+   [
+    "on",
+    11.78,
+    12.08
+   ],
+   [
+    "an",
+    12.08,
+    12.2
+   ],
+   [
+    "industrial",
+    12.2,
+    12.58
+   ],
+   [
+    "scale.",
+    12.58,
+    13.12
+   ],
+   [
+    "Workers",
+    13.9,
+    14.14
+   ],
+   [
+    "constructed",
+    14.14,
+    14.68
+   ],
+   [
+    "it",
+    14.68,
+    14.86
+   ],
+   [
+    "inside",
+    14.86,
+    15.28
+   ],
+   [
+    "a",
+    15.28,
+    15.48
+   ],
+   [
+    "disused",
+    15.52,
+    15.92
+   ],
+   [
+    "chalk",
+    15.92,
+    16.18
+   ],
+   [
+    "quarry.",
+    16.18,
+    16.54
+   ],
+   [
+    "It",
+    17.26,
+    17.32
+   ],
+   [
+    "features",
+    17.32,
+    17.6
+   ],
+   [
+    "a",
+    17.6,
+    17.84
+   ],
+   [
+    "network",
+    17.84,
+    18.08
+   ],
+   [
+    "of",
+    18.08,
+    18.3
+   ],
+   [
+    "tunnels",
+    18.3,
+    18.58
+   ],
+   [
+    "for",
+    18.58,
+    18.82
+   ],
+   [
+    "storing",
+    18.82,
+    19.1
+   ],
+   [
+    "missiles",
+    19.1,
+    19.42
+   ],
+   [
+    "and",
+    19.42,
+    19.78
+   ],
+   [
+    "fuel.",
+    19.78,
+    20.1
+   ],
+   [
+    "This",
+    20.9,
+    21.02
+   ],
+   [
+    "bunker",
+    21.02,
+    21.22
+   ],
+   [
+    "is",
+    21.22,
+    21.54
+   ],
+   [
+    "the",
+    21.58,
+    21.68
+   ],
+   [
+    "earliest",
+    21.68,
+    22.04
+   ],
+   [
+    "known",
+    22.04,
+    22.32
+   ],
+   [
+    "precursor",
+    22.32,
+    23.0
+   ],
+   [
+    "to",
+    23.0,
+    23.14
+   ],
+   [
+    "modern",
+    23.14,
+    23.46
+   ],
+   [
+    "underground",
+    23.64,
+    23.94
+   ],
+   [
+    "missile",
+    24.22,
+    24.32
+   ],
+   [
+    "silos.",
+    24.32,
+    24.56
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   23,
+   37,
+   45,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/La_coupole_%C3%A0_Wizernes_-_Le_d%C3%B4me.jpg/960px-La_coupole_%C3%A0_Wizernes_-_Le_d%C3%B4me.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 4.0",
+   "artist": "JackyM59",
+   "page": "https://commons.wikimedia.org/wiki/File:La_coupole_%C3%A0_Wizernes_-_Le_d%C3%B4me.jpg",
+   "desc": "La coupole à Wizernes - Le dôme — La coupole à Wizernes - Le dôme"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Wizernes_low_level_6_July_1944.jpg/960px-Wizernes_low_level_6_July_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 419,
+   "license": "Public domain",
+   "artist": "King (Flt Lt) and Bowden (Flt/Sgt): No. 544 Squadron RAF",
+   "page": "https://commons.wikimedia.org/wiki/File:Wizernes_low_level_6_July_1944.jpg",
+   "desc": "Wizernes low level 6 July 1944 — Low-level reconnaissance photograph of the Wizernes dome on July 6, 1944"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/La_coupole_%28Centre_d%27Histoire_39-45%29_%C3%A0_Wizernes_-_Fus%C3%A9e_V2.jpg/960px-La_coupole_%28Centre_d%27Histoire_39-45%29_%C3%A0_Wizernes_-_Fus%C3%A9e_V2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "JackyM59",
+   "page": "https://commons.wikimedia.org/wiki/File:La_coupole_(Centre_d%27Histoire_39-45)_%C3%A0_Wizernes_-_Fus%C3%A9e_V2.jpg",
+   "desc": "La coupole (Centre d'Histoire 39-45) à Wizernes - Fusée V2 — Une fusée V2"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ida_railway_tunnel_La_Coupole_Flickr_1392294854_e3001919ce_o_b.jpg/960px-Ida_railway_tunnel_La_Coupole_Flickr_1392294854_e3001919ce_o_b.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "File:Ida railway tunnel La Coupole Flickr 1392294854 e3001919ce o.jpg: Flickr us",
+   "page": "https://commons.wikimedia.org/wiki/File:Ida_railway_tunnel_La_Coupole_Flickr_1392294854_e3001919ce_o_b.jpg",
+   "desc": "Ida railway tunnel La Coupole Flickr 1392294854 e3001919ce o b — Photograph inside the 'Ida' railway tunnel, La Coupole. Designed to take the rockets by train into holding areas. One of 7km of tunnels inside the complex"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Wizernes_site_dome_cross-section.jpg/960px-Wizernes_site_dome_cross-section.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 403,
+   "license": "Public domain",
+   "artist": "Sanders, T.R.B.",
+   "page": "https://commons.wikimedia.org/wiki/File:Wizernes_site_dome_cross-section.jpg",
+   "desc": "Wizernes site dome cross-section — Wizernes: Section of dome showing Octagon wall"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "concrete dome",
+   "box": [
+    301,
+    362,
+    486,
+    718
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1943
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "rockets",
+   "label": "V-2 rockets"
+  }
+ ],
+ "geo": [
+  50.705,
+  2.244
+ ],
+ "qid": "Q2502476",
+ "pron_wer": 0.029,
+ "angle": 0,
+ "source": {
+  "title": "La Coupole",
+  "url": "https://en.wikipedia.org/wiki/La_Coupole",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T12:01:28Z",
+ "trimmed": true
+}
