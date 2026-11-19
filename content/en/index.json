@@ -219,7 +219,8 @@
   "Cyclone Ada",
   "nasa:1484055",
   "John Adair",
-  "nasa:1495740"
+  "nasa:1495740",
+  "Ian Carmichael"
  ],
  "rejected": [
   "Chameleon",
@@ -271,7 +272,8 @@
   "Saturn",
   "Glacier",
   "Constantine II of Scotland",
-  "nasa:1466049"
+  "nasa:1466049",
+  "Cougar"
  ],
  "angles": {
   "Blue whale": [
@@ -1007,6 +1009,9 @@
   ],
   "nasa:1495740": [
    "Humans Changing Earth's Water: Humans are drastically changing Earth's water."
+  ],
+  "Ian Carmichael": [
+   "Ian Carmichael: A 70-Year Career: Ian Carmichael acted for 70 long years."
   ]
  },
  "exhausted": []

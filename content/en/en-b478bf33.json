@@ -1,0 +1,381 @@
+{
+ "id": "en-b478bf33",
+ "lang": "en",
+ "title": "Tropical Glaciers Are Vanishing",
+ "cat": "geography",
+ "emoji": "🏔️",
+ "sentences": [
+  "Indonesia's tropical glaciers are almost gone.",
+  "In 1988, ice covered 4.31 square kilometers on Puncak Jaya.",
+  "By 2025, that shrank to just 0.09 square kilometers, like a dozen soccer fields.",
+  "These glaciers have thinned from 32 meters to nearly nothing.",
+  "They no longer flow downhill and are effectively dead.",
+  "Experts predict total disappearance by around 2030."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Indonesia's",
+    0.35,
+    0.69
+   ],
+   [
+    "tropical",
+    0.69,
+    0.99
+   ],
+   [
+    "glaciers",
+    0.99,
+    1.61
+   ],
+   [
+    "are",
+    1.61,
+    2.01
+   ],
+   [
+    "almost",
+    2.01,
+    2.51
+   ],
+   [
+    "gone.",
+    2.51,
+    3.43
+   ],
+   [
+    "In",
+    3.47,
+    3.49
+   ],
+   [
+    "1988,",
+    3.49,
+    4.31
+   ],
+   [
+    "ice",
+    4.45,
+    4.59
+   ],
+   [
+    "covered",
+    4.59,
+    4.87
+   ],
+   [
+    "4.31",
+    4.87,
+    5.91
+   ],
+   [
+    "square",
+    5.91,
+    6.37
+   ],
+   [
+    "kilometers",
+    6.37,
+    6.85
+   ],
+   [
+    "on",
+    6.85,
+    7.13
+   ],
+   [
+    "Puncak",
+    7.13,
+    7.49
+   ],
+   [
+    "Jaya.",
+    7.49,
+    7.91
+   ],
+   [
+    "By",
+    8.29,
+    8.37
+   ],
+   [
+    "2025,",
+    8.37,
+    9.21
+   ],
+   [
+    "that",
+    9.39,
+    9.45
+   ],
+   [
+    "shrank",
+    9.45,
+    9.67
+   ],
+   [
+    "to",
+    9.67,
+    9.83
+   ],
+   [
+    "just",
+    9.83,
+    9.97
+   ],
+   [
+    "0.09",
+    9.97,
+    10.91
+   ],
+   [
+    "square",
+    10.91,
+    11.23
+   ],
+   [
+    "kilometers,",
+    11.23,
+    11.78
+   ],
+   [
+    "like",
+    11.95,
+    12.07
+   ],
+   [
+    "a",
+    12.21,
+    12.31
+   ],
+   [
+    "dozen",
+    12.31,
+    12.53
+   ],
+   [
+    "soccer",
+    12.53,
+    12.95
+   ],
+   [
+    "fields.",
+    12.95,
+    13.05
+   ],
+   [
+    "These",
+    13.89,
+    13.99
+   ],
+   [
+    "glaciers",
+    13.99,
+    14.35
+   ],
+   [
+    "have",
+    14.35,
+    14.51
+   ],
+   [
+    "thinned",
+    14.61,
+    14.85
+   ],
+   [
+    "from",
+    14.85,
+    14.99
+   ],
+   [
+    "32",
+    14.99,
+    15.43
+   ],
+   [
+    "meters",
+    15.43,
+    15.75
+   ],
+   [
+    "to",
+    15.75,
+    16.03
+   ],
+   [
+    "nearly",
+    16.03,
+    16.33
+   ],
+   [
+    "nothing.",
+    16.33,
+    16.71
+   ],
+   [
+    "They",
+    17.35,
+    17.43
+   ],
+   [
+    "no",
+    17.43,
+    17.57
+   ],
+   [
+    "longer",
+    17.57,
+    17.77
+   ],
+   [
+    "flow",
+    17.77,
+    17.95
+   ],
+   [
+    "downhill",
+    17.95,
+    18.25
+   ],
+   [
+    "and",
+    18.25,
+    18.79
+   ],
+   [
+    "are",
+    18.79,
+    19.03
+   ],
+   [
+    "effectively",
+    19.03,
+    19.57
+   ],
+   [
+    "dead.",
+    19.57,
+    20.03
+   ],
+   [
+    "Experts",
+    20.71,
+    21.05
+   ],
+   [
+    "predict",
+    21.11,
+    21.27
+   ],
+   [
+    "total",
+    21.27,
+    21.81
+   ],
+   [
+    "disappearance",
+    21.81,
+    22.35
+   ],
+   [
+    "by",
+    22.35,
+    22.71
+   ],
+   [
+    "around",
+    22.71,
+    22.89
+   ],
+   [
+    "2030.",
+    22.89,
+    23.35
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   30,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Puncak_Jaya_%28NASA_astronaut_photograph%29.jpg/960px-Puncak_Jaya_%28NASA_astronaut_photograph%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 430,
+   "license": "CC BY-SA 3.0",
+   "artist": "Original uploader was Gergyl at en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Puncak_Jaya_(NASA_astronaut_photograph).jpg",
+   "desc": "Puncak Jaya (NASA astronaut photograph) — Puncak Jaya, West Papua, Indonesia. The Grasberg (Freeport) copper mine pit is in the foreground, and remnants of the Puncak Jaya glaciers behind. The summit of Puncak Jaya is at the far end of the central rib. Two rem"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Ice_on_Puncak_Jaya_%281511430_-_cq5dam_web_1280_1280%29.jpg/960px-The_Last_Ice_on_Puncak_Jaya_%281511430_-_cq5dam_web_1280_1280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Last_Ice_on_Puncak_Jaya_(1511430_-_cq5dam_web_1280_1280).jpg",
+   "desc": "The Last Ice on Puncak Jaya (1511430 - cq5dam web 1280 1280) — A false-color satellite image from 1988 shows mountain ridges of Indonesia’s Sudirman Range. Bare rock appears brown, and glacial ice, shown in blue, caps several of the highest ridges. Vegetation "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1988
+  },
+  {
+   "type": "stat",
+   "value": "0.09",
+   "unit": "sq km",
+   "label": "remaining ice"
+  },
+  {
+   "type": "compare",
+   "value": 32,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2030
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+ "pron_wer": 0.051,
+ "angle": 0,
+ "source": {
+  "title": "The Last Ice on Puncak Jaya",
+  "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T16:16:13Z",
+ "trimmed": true
+}
