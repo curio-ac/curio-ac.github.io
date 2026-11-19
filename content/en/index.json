@@ -236,7 +236,8 @@
   "nasa:1282356",
   "1969 Curaçao uprising",
   "Vidya Balan",
-  "Dracunculiasis"
+  "Dracunculiasis",
+  "nasa:1497430"
  ],
  "rejected": [
   "Chameleon",
@@ -1083,6 +1084,9 @@
   ],
   "Dracunculiasis": [
    "The Worm That Emerges: A parasite can slowly crawl out of you."
+  ],
+  "nasa:1497430": [
+   "Mars Rover Breaks Distance Record: Perseverance just broke the Mars driving record."
   ]
  },
  "exhausted": []

@@ -1,0 +1,430 @@
+{
+ "id": "en-f72dc439",
+ "lang": "en",
+ "title": "The Hidden Red Lantern",
+ "cat": "biology",
+ "emoji": "🌿",
+ "sentences": [
+  "Meet the banksia with hidden red lanterns.",
+  "Banksia caleyi is a dense, 2 m shrub native to Western Australia.",
+  "Its red flowers hang downwards, typically hiding inside the foliage.",
+  "Robert Brown first described this plant back in 1830.",
+  "Periodic bushfires kill the plants, but they regenerate from seeds afterwards.",
+  "Unlike most relatives, it resists deadly soil-borne water mould, making it easy to grow."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.22,
+    0.24
+   ],
+   [
+    "the",
+    0.24,
+    0.5
+   ],
+   [
+    "banksia",
+    0.5,
+    1.1
+   ],
+   [
+    "with",
+    1.1,
+    1.36
+   ],
+   [
+    "hidden",
+    1.56,
+    1.72
+   ],
+   [
+    "red",
+    1.72,
+    2.06
+   ],
+   [
+    "lanterns.",
+    2.06,
+    2.5
+   ],
+   [
+    "Banksia",
+    3.26,
+    3.72
+   ],
+   [
+    "caleyi",
+    3.72,
+    4.3
+   ],
+   [
+    "is",
+    4.38,
+    4.48
+   ],
+   [
+    "a",
+    4.48,
+    4.6
+   ],
+   [
+    "dense,",
+    4.6,
+    5.14
+   ],
+   [
+    "2",
+    5.22,
+    5.44
+   ],
+   [
+    "m",
+    5.44,
+    5.6
+   ],
+   [
+    "shrub",
+    5.6,
+    6.1
+   ],
+   [
+    "native",
+    6.1,
+    6.5
+   ],
+   [
+    "to",
+    6.5,
+    6.8
+   ],
+   [
+    "Western",
+    6.8,
+    7.08
+   ],
+   [
+    "Australia.",
+    7.08,
+    7.72
+   ],
+   [
+    "Its",
+    8.22,
+    8.32
+   ],
+   [
+    "red",
+    8.34,
+    8.6
+   ],
+   [
+    "flowers",
+    8.6,
+    8.98
+   ],
+   [
+    "hang",
+    8.98,
+    9.36
+   ],
+   [
+    "downwards,",
+    9.36,
+    9.98
+   ],
+   [
+    "typically",
+    10.44,
+    10.74
+   ],
+   [
+    "hiding",
+    10.74,
+    11.12
+   ],
+   [
+    "inside",
+    11.12,
+    11.48
+   ],
+   [
+    "the",
+    11.48,
+    11.66
+   ],
+   [
+    "foliage.",
+    11.66,
+    12.0
+   ],
+   [
+    "Robert",
+    12.64,
+    12.92
+   ],
+   [
+    "Brown",
+    12.92,
+    13.3
+   ],
+   [
+    "first",
+    13.3,
+    13.68
+   ],
+   [
+    "described",
+    13.68,
+    14.14
+   ],
+   [
+    "this",
+    14.14,
+    14.32
+   ],
+   [
+    "plant",
+    14.46,
+    14.6
+   ],
+   [
+    "back",
+    14.6,
+    14.86
+   ],
+   [
+    "in",
+    14.86,
+    15.02
+   ],
+   [
+    "1830.",
+    15.02,
+    15.86
+   ],
+   [
+    "Periodic",
+    16.48,
+    16.96
+   ],
+   [
+    "bushfires",
+    16.96,
+    17.46
+   ],
+   [
+    "kill",
+    17.46,
+    17.74
+   ],
+   [
+    "the",
+    17.74,
+    17.88
+   ],
+   [
+    "plants,",
+    17.88,
+    18.18
+   ],
+   [
+    "but",
+    18.36,
+    18.44
+   ],
+   [
+    "they",
+    18.46,
+    18.56
+   ],
+   [
+    "regenerate",
+    18.56,
+    19.16
+   ],
+   [
+    "from",
+    19.22,
+    19.32
+   ],
+   [
+    "seeds",
+    19.32,
+    19.66
+   ],
+   [
+    "afterwards.",
+    19.66,
+    20.26
+   ],
+   [
+    "Unlike",
+    20.92,
+    21.12
+   ],
+   [
+    "most",
+    21.12,
+    21.42
+   ],
+   [
+    "relatives,",
+    21.42,
+    22.14
+   ],
+   [
+    "it",
+    22.14,
+    22.2
+   ],
+   [
+    "resists",
+    22.2,
+    22.66
+   ],
+   [
+    "deadly",
+    23.0,
+    23.1
+   ],
+   [
+    "soil-borne",
+    23.1,
+    23.74
+   ],
+   [
+    "water",
+    23.74,
+    24.04
+   ],
+   [
+    "mould,",
+    24.04,
+    24.3
+   ],
+   [
+    "making",
+    24.6,
+    24.74
+   ],
+   [
+    "it",
+    24.74,
+    24.92
+   ],
+   [
+    "easy",
+    25.02,
+    25.18
+   ],
+   [
+    "to",
+    25.18,
+    25.4
+   ],
+   [
+    "grow.",
+    25.4,
+    25.68
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   29,
+   38,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Banksia_caleyi-6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 616,
+   "license": "CC BY-SA 3.0",
+   "artist": "MainlandQuokka",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_caleyi-6.JPG",
+   "desc": "Banksia caleyi-6 — Banksia caleyi at Chingarrup, near Boxwood Hill"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Banksia_caleyi_02.png/960px-Banksia_caleyi_02.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1021,
+   "license": "CC BY-SA 3.0",
+   "artist": "Cygnis insignis",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_caleyi_02.png",
+   "desc": "Banksia caleyi 02 — Leaves and inflorescence of Banksia caleyi, grown at the 'Banksia Farm' of Mount Barker, Western Australia."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Robert_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 774,
+   "license": "Public domain",
+   "artist": "Rudolph Hoffmann",
+   "page": "https://commons.wikimedia.org/wiki/File:Robert_Brown.jpg",
+   "desc": "Robert Brown — Lithographic portrait of Robert Brown (1773 – 1858), a Scottish botanist and discoverer of Brownian motion. After a photography by Maull and Polyblanck. The lithograph was originally published as part of a folio volume: "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Pineapple_root_rot_phytophthora_cinnamomi_%285829323399%29.jpg/960px-Pineapple_root_rot_phytophthora_cinnamomi_%285829323399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 512,
+   "license": "CC0",
+   "artist": "Scot Nelson from Honolulu, Hawaii, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Pineapple_root_rot_phytophthora_cinnamomi_(5829323399).jpg",
+   "desc": "Pineapple root rot phytophthora cinnamomi (5829323399) — Root rot of pineapple (Ananas comosus) caused by Phytophthora cinnamomi."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 2,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1830
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2264081",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "Banksia caleyi",
+  "url": "https://en.wikipedia.org/wiki/Banksia_caleyi",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T23:10:53Z",
+ "trimmed": true
+}
