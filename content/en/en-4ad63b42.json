@@ -1,0 +1,432 @@
+{
+ "id": "en-4ad63b42",
+ "lang": "en",
+ "title": "What is BN(O) status?",
+ "cat": "history",
+ "emoji": "🇭🇰",
+ "sentences": [
+  "You can be a British national without being a British citizen.",
+  "British National (Overseas) status is a class of nationality linked to former colony Hong Kong.",
+  "People acquired this status through voluntary registration before the 1997 handover to China.",
+  "Current residents cannot newly acquire this nationality.",
+  "BN(O) holders are subject to UK immigration controls.",
+  "Since 2021, the UK allows them to apply for a 5-year residence visa."
+ ],
+ "tim": {
+  "w": [
+   [
+    "You",
+    0.12,
+    0.12
+   ],
+   [
+    "can",
+    0.12,
+    0.3
+   ],
+   [
+    "be",
+    0.3,
+    0.46
+   ],
+   [
+    "a",
+    0.46,
+    0.58
+   ],
+   [
+    "British",
+    0.58,
+    0.78
+   ],
+   [
+    "national",
+    0.78,
+    1.28
+   ],
+   [
+    "without",
+    1.28,
+    1.72
+   ],
+   [
+    "being",
+    1.72,
+    2.16
+   ],
+   [
+    "a",
+    2.16,
+    2.36
+   ],
+   [
+    "British",
+    2.38,
+    2.52
+   ],
+   [
+    "citizen.",
+    2.52,
+    2.96
+   ],
+   [
+    "British",
+    3.6,
+    3.76
+   ],
+   [
+    "National",
+    3.76,
+    4.28
+   ],
+   [
+    "(Overseas)",
+    4.28,
+    5.04
+   ],
+   [
+    "status",
+    5.16,
+    5.28
+   ],
+   [
+    "is",
+    5.3,
+    5.6
+   ],
+   [
+    "a",
+    5.6,
+    5.72
+   ],
+   [
+    "class",
+    5.76,
+    5.92
+   ],
+   [
+    "of",
+    5.92,
+    6.08
+   ],
+   [
+    "nationality",
+    6.08,
+    6.7
+   ],
+   [
+    "linked",
+    6.7,
+    6.94
+   ],
+   [
+    "to",
+    6.94,
+    7.2
+   ],
+   [
+    "former",
+    7.34,
+    7.5
+   ],
+   [
+    "colony",
+    7.5,
+    7.96
+   ],
+   [
+    "Hong",
+    8.14,
+    8.24
+   ],
+   [
+    "Kong.",
+    8.24,
+    8.56
+   ],
+   [
+    "People",
+    9.26,
+    9.4
+   ],
+   [
+    "acquired",
+    9.4,
+    9.76
+   ],
+   [
+    "this",
+    9.76,
+    10.06
+   ],
+   [
+    "status",
+    10.06,
+    10.38
+   ],
+   [
+    "through",
+    10.54,
+    10.64
+   ],
+   [
+    "voluntary",
+    10.64,
+    11.12
+   ],
+   [
+    "registration",
+    11.12,
+    11.78
+   ],
+   [
+    "before",
+    11.78,
+    12.22
+   ],
+   [
+    "the",
+    12.22,
+    12.46
+   ],
+   [
+    "1997",
+    12.46,
+    12.96
+   ],
+   [
+    "handover",
+    12.96,
+    13.74
+   ],
+   [
+    "to",
+    13.74,
+    13.9
+   ],
+   [
+    "China.",
+    13.9,
+    14.22
+   ],
+   [
+    "Current",
+    14.86,
+    15.06
+   ],
+   [
+    "residents",
+    15.06,
+    15.4
+   ],
+   [
+    "cannot",
+    15.4,
+    15.8
+   ],
+   [
+    "newly",
+    15.8,
+    16.22
+   ],
+   [
+    "acquire",
+    16.22,
+    16.66
+   ],
+   [
+    "this",
+    16.66,
+    16.94
+   ],
+   [
+    "nationality.",
+    16.94,
+    17.48
+   ],
+   [
+    "BN(O)",
+    18.26,
+    18.86
+   ],
+   [
+    "holders",
+    18.86,
+    19.06
+   ],
+   [
+    "are",
+    19.2,
+    19.3
+   ],
+   [
+    "subject",
+    19.3,
+    19.58
+   ],
+   [
+    "to",
+    19.58,
+    19.82
+   ],
+   [
+    "UK",
+    20.0,
+    20.1
+   ],
+   [
+    "immigration",
+    20.1,
+    20.54
+   ],
+   [
+    "controls.",
+    20.54,
+    20.76
+   ],
+   [
+    "Since",
+    21.76,
+    21.86
+   ],
+   [
+    "2021,",
+    21.86,
+    22.68
+   ],
+   [
+    "the",
+    23.02,
+    23.06
+   ],
+   [
+    "UK",
+    23.16,
+    23.26
+   ],
+   [
+    "allows",
+    23.26,
+    23.64
+   ],
+   [
+    "them",
+    23.64,
+    23.86
+   ],
+   [
+    "to",
+    23.86,
+    24.0
+   ],
+   [
+    "apply",
+    24.16,
+    24.26
+   ],
+   [
+    "for",
+    24.26,
+    24.48
+   ],
+   [
+    "a",
+    24.48,
+    24.56
+   ],
+   [
+    "5-year",
+    24.66,
+    25.06
+   ],
+   [
+    "residence",
+    25.06,
+    25.38
+   ],
+   [
+    "visa.",
+    25.38,
+    25.93
+   ]
+  ],
+  "b": [
+   0,
+   11,
+   26,
+   39,
+   46,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/BritishNationalOverseasPassport2010VersionFrontCover.JPG/960px-BritishNationalOverseasPassport2010VersionFrontCover.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1056,
+   "license": "CC BY-SA 3.0",
+   "artist": "Matthew1991314",
+   "page": "https://commons.wikimedia.org/wiki/File:BritishNationalOverseasPassport2010VersionFrontCover.JPG",
+   "desc": "BritishNationalOverseasPassport2010VersionFrontCover — The cover of a 2010 version British National (Overseas) passport"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Passport_control%2C_UK_Border_%2842031045291%29.jpg/960px-Passport_control%2C_UK_Border_%2842031045291%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Eric Fischer",
+   "page": "https://commons.wikimedia.org/wiki/File:Passport_control,_UK_Border_(42031045291).jpg",
+   "desc": "Passport control, UK Border (42031045291) — Helsinki in 2018"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1997
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "years",
+   "label": "residence visa"
+  }
+ ],
+ "geo": null,
+ "qid": "Q5613380",
+ "pron_wer": 0.043,
+ "angle": 0,
+ "source": {
+  "title": "British National (Overseas)",
+  "url": "https://en.wikipedia.org/wiki/British_National_%28Overseas%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T17:30:18Z",
+ "trimmed": true
+}
