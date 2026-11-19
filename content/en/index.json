@@ -217,7 +217,8 @@
   "nasa:1282932",
   "Construction of Rockefeller Center",
   "Cyclone Ada",
-  "nasa:1484055"
+  "nasa:1484055",
+  "John Adair"
  ],
  "rejected": [
   "Chameleon",
@@ -999,6 +1000,9 @@
   ],
   "nasa:1484055": [
    "Lab-Grown Brains in Space: NASA is sending lab-grown brains to space."
+  ],
+  "John Adair": [
+   "Kentucky's Slave-Trading Governor: John Adair was a soldier, politician, and slave trader."
   ]
  },
  "exhausted": []

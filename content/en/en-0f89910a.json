@@ -1,0 +1,461 @@
+{
+ "id": "en-0f89910a",
+ "lang": "en",
+ "title": "The Nazis' Blood For Goods",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "Nazis tried trading one million Jewish lives.",
+  "Joel Brand was a member of a Zionist group in Budapest during the Holocaust.",
+  "He helped smuggle people to safety from German-occupied Europe.",
+  "In 1944, SS leader Adolf Eichmann approached Brand with a shocking deal.",
+  "They wanted 10,000 trucks plus tea in exchange for one million Jews.",
+  "Eichmann called this horrific plan blood for goods.",
+  "Ultimately, nothing came of the idea."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Nazis",
+    0.35,
+    0.35
+   ],
+   [
+    "tried",
+    0.35,
+    0.63
+   ],
+   [
+    "trading",
+    0.63,
+    0.99
+   ],
+   [
+    "one",
+    0.99,
+    1.29
+   ],
+   [
+    "million",
+    1.29,
+    1.63
+   ],
+   [
+    "Jewish",
+    1.63,
+    1.89
+   ],
+   [
+    "lives.",
+    1.89,
+    2.25
+   ],
+   [
+    "Joel",
+    2.87,
+    3.01
+   ],
+   [
+    "Brand",
+    3.01,
+    3.27
+   ],
+   [
+    "was",
+    3.27,
+    3.53
+   ],
+   [
+    "a",
+    3.53,
+    3.67
+   ],
+   [
+    "member",
+    3.67,
+    3.83
+   ],
+   [
+    "of",
+    3.83,
+    4.01
+   ],
+   [
+    "a",
+    4.01,
+    4.09
+   ],
+   [
+    "Zionist",
+    4.09,
+    4.54
+   ],
+   [
+    "group",
+    4.59,
+    4.73
+   ],
+   [
+    "in",
+    4.73,
+    4.89
+   ],
+   [
+    "Budapest",
+    4.89,
+    5.37
+   ],
+   [
+    "during",
+    5.37,
+    5.67
+   ],
+   [
+    "the",
+    5.67,
+    5.79
+   ],
+   [
+    "Holocaust.",
+    5.79,
+    6.19
+   ],
+   [
+    "He",
+    6.77,
+    6.87
+   ],
+   [
+    "helped",
+    6.87,
+    7.09
+   ],
+   [
+    "smuggle",
+    7.21,
+    7.39
+   ],
+   [
+    "people",
+    7.39,
+    7.67
+   ],
+   [
+    "to",
+    7.67,
+    7.83
+   ],
+   [
+    "safety",
+    7.83,
+    8.09
+   ],
+   [
+    "from",
+    8.09,
+    8.33
+   ],
+   [
+    "German-occupied",
+    8.33,
+    9.11
+   ],
+   [
+    "Europe.",
+    9.11,
+    9.39
+   ],
+   [
+    "In",
+    10.03,
+    10.13
+   ],
+   [
+    "1944,",
+    10.13,
+    11.09
+   ],
+   [
+    "SS",
+    11.09,
+    11.25
+   ],
+   [
+    "leader",
+    11.25,
+    11.55
+   ],
+   [
+    "Adolf",
+    11.55,
+    11.97
+   ],
+   [
+    "Eichmann",
+    11.97,
+    12.29
+   ],
+   [
+    "approached",
+    12.29,
+    12.65
+   ],
+   [
+    "Brand",
+    12.65,
+    12.97
+   ],
+   [
+    "with",
+    12.97,
+    13.15
+   ],
+   [
+    "a",
+    13.15,
+    13.25
+   ],
+   [
+    "shocking",
+    13.25,
+    13.51
+   ],
+   [
+    "deal.",
+    13.51,
+    13.93
+   ],
+   [
+    "They",
+    14.33,
+    14.41
+   ],
+   [
+    "wanted",
+    14.41,
+    14.59
+   ],
+   [
+    "10,000",
+    14.59,
+    15.27
+   ],
+   [
+    "trucks",
+    15.27,
+    15.53
+   ],
+   [
+    "plus",
+    15.53,
+    15.83
+   ],
+   [
+    "tea",
+    15.83,
+    16.17
+   ],
+   [
+    "in",
+    16.17,
+    16.35
+   ],
+   [
+    "exchange",
+    16.35,
+    16.59
+   ],
+   [
+    "for",
+    16.59,
+    16.89
+   ],
+   [
+    "one",
+    16.89,
+    17.11
+   ],
+   [
+    "million",
+    17.11,
+    17.41
+   ],
+   [
+    "Jews.",
+    17.41,
+    17.83
+   ],
+   [
+    "Eichmann",
+    18.37,
+    18.59
+   ],
+   [
+    "called",
+    18.59,
+    18.81
+   ],
+   [
+    "this",
+    18.81,
+    18.99
+   ],
+   [
+    "horrific",
+    18.99,
+    19.29
+   ],
+   [
+    "plan",
+    19.29,
+    19.67
+   ],
+   [
+    "blood",
+    19.67,
+    19.97
+   ],
+   [
+    "for",
+    19.97,
+    20.15
+   ],
+   [
+    "goods.",
+    20.15,
+    20.41
+   ],
+   [
+    "Ultimately,",
+    21.0,
+    21.65
+   ],
+   [
+    "nothing",
+    21.69,
+    21.83
+   ],
+   [
+    "came",
+    21.83,
+    22.09
+   ],
+   [
+    "of",
+    22.09,
+    22.25
+   ],
+   [
+    "the",
+    22.25,
+    22.35
+   ],
+   [
+    "idea.",
+    22.35,
+    22.77
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   21,
+   30,
+   42,
+   54,
+   62
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Selection_on_the_ramp_at_Auschwitz_II-Birkenau%2C_1944_%28Auschwitz_Album%29_3a.jpg/960px-Selection_on_the_ramp_at_Auschwitz_II-Birkenau%2C_1944_%28Auschwitz_Album%29_3a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 522,
+   "license": "Public domain",
+   "artist": "Bernhard Walter",
+   "page": "https://commons.wikimedia.org/wiki/File:Selection_on_the_ramp_at_Auschwitz_II-Birkenau,_1944_(Auschwitz_Album)_3a.jpg",
+   "desc": "Selection on the ramp at Auschwitz II-Birkenau, 1944 (Auschwitz Album) 3a — Jews from Subcarpathian Rus, then part of Hungary, await selection on the ramp at Auschwitz II-Birkenau. The photograph is part of the collection known as the Auschwitz Album, which wa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Yoel_Brandt_1961_%28cropped%29.jpg/960px-Yoel_Brandt_1961_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 903,
+   "license": "Public domain",
+   "artist": "Israeli GPO photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:Yoel_Brandt_1961_(cropped).jpg",
+   "desc": "Yoel Brandt 1961 (cropped) — Joel Brand (1906–1964)"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adolf_Eichmann%2C_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1129,
+   "license": "Public domain",
+   "artist": "Author and location unknown. Bettina Stangneth's caption for the image says: \"Un",
+   "page": "https://commons.wikimedia.org/wiki/File:Adolf_Eichmann,_1942.jpg",
+   "desc": "Adolf Eichmann, 1942 — SS-Obersturmbannführer Adolf Eichmann (1906–1962), head of Reichssicherheitshauptamt (RSHA, Reich Security Central Office) Department IV B4 (Jewish affairs), who organized the deportation of Jews to the Auschwitz concent"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Flickr_-_Government_Press_Office_%28GPO%29_-_Nazi_war_criminal_Adolf_Eichmann_walking_in_yard_of_his_cell_in_Ramle_prison.jpg/960px-Flickr_-_Government_Press_Office_%28GPO%29_-_Nazi_war_criminal_Adolf_Eichmann_walking_in_yard_of_his_cell_in_Ramle_prison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1086,
+   "license": "Public domain",
+   "artist": "https://www.flickr.com/people/69061470@N05",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Nazi_war_criminal_Adolf_Eichmann_walking_in_yard_of_his_cell_in_Ramle_prison.jpg",
+   "desc": "Flickr - Government Press Office (GPO) - Nazi war criminal Adolf Eichmann walking in yard of his cell in Ramle prison — Nazi war criminal Adolf Eichman walking in yard of his cell in Ayalon Prison, Ramla"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1944
+  },
+  {
+   "type": "stat",
+   "value": 10000,
+   "unit": "trucks",
+   "label": "for trucks"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1691693",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Joel Brand",
+  "url": "https://en.wikipedia.org/wiki/Joel_Brand",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T15:29:51Z",
+ "trimmed": true
+}
