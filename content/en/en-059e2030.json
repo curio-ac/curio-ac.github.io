@@ -1,0 +1,380 @@
+{
+ "id": "en-059e2030",
+ "lang": "en",
+ "title": "Mars Rover Breaks Distance Record",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Perseverance just broke the Mars driving record.",
+  "The rover reached 45.22 kilometers on October 11, 2026.",
+  "It actually delayed this milestone to study ancient rocks.",
+  "Engineers updated its software to handle steep, hazardous terrain.",
+  "They even created a way to track its location without GPS.",
+  "Now, a Guinness World Record plaque sits with its twin on Earth."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Perseverance",
+    0.35,
+    0.77
+   ],
+   [
+    "just",
+    0.77,
+    0.97
+   ],
+   [
+    "broke",
+    0.97,
+    1.21
+   ],
+   [
+    "the",
+    1.21,
+    1.39
+   ],
+   [
+    "Mars",
+    1.39,
+    1.71
+   ],
+   [
+    "driving",
+    1.71,
+    2.13
+   ],
+   [
+    "record.",
+    2.13,
+    2.37
+   ],
+   [
+    "The",
+    2.95,
+    2.97
+   ],
+   [
+    "rover",
+    2.97,
+    3.13
+   ],
+   [
+    "reached",
+    3.13,
+    3.47
+   ],
+   [
+    "45.22",
+    3.47,
+    4.69
+   ],
+   [
+    "kilometers",
+    4.69,
+    5.27
+   ],
+   [
+    "on",
+    5.27,
+    5.59
+   ],
+   [
+    "October",
+    5.71,
+    5.81
+   ],
+   [
+    "11,",
+    5.81,
+    6.35
+   ],
+   [
+    "2026.",
+    6.63,
+    6.75
+   ],
+   [
+    "It",
+    7.79,
+    7.87
+   ],
+   [
+    "actually",
+    7.87,
+    8.07
+   ],
+   [
+    "delayed",
+    8.07,
+    8.41
+   ],
+   [
+    "this",
+    8.41,
+    8.73
+   ],
+   [
+    "milestone",
+    8.73,
+    9.13
+   ],
+   [
+    "to",
+    9.13,
+    9.39
+   ],
+   [
+    "study",
+    9.39,
+    9.61
+   ],
+   [
+    "ancient",
+    9.79,
+    9.97
+   ],
+   [
+    "rocks.",
+    9.97,
+    10.35
+   ],
+   [
+    "Engineers",
+    10.97,
+    11.19
+   ],
+   [
+    "updated",
+    11.19,
+    11.65
+   ],
+   [
+    "its",
+    11.65,
+    11.85
+   ],
+   [
+    "software",
+    11.85,
+    12.17
+   ],
+   [
+    "to",
+    12.17,
+    12.33
+   ],
+   [
+    "handle",
+    12.33,
+    12.53
+   ],
+   [
+    "steep,",
+    12.53,
+    12.95
+   ],
+   [
+    "hazardous",
+    13.21,
+    13.49
+   ],
+   [
+    "terrain.",
+    13.49,
+    14.03
+   ],
+   [
+    "They",
+    14.31,
+    14.35
+   ],
+   [
+    "even",
+    14.35,
+    14.49
+   ],
+   [
+    "created",
+    14.49,
+    14.81
+   ],
+   [
+    "a",
+    14.81,
+    14.99
+   ],
+   [
+    "way",
+    14.99,
+    15.09
+   ],
+   [
+    "to",
+    15.09,
+    15.19
+   ],
+   [
+    "track",
+    15.19,
+    15.49
+   ],
+   [
+    "its",
+    15.49,
+    15.65
+   ],
+   [
+    "location",
+    15.69,
+    16.13
+   ],
+   [
+    "without",
+    16.13,
+    16.43
+   ],
+   [
+    "GPS.",
+    16.43,
+    17.15
+   ],
+   [
+    "Now,",
+    17.65,
+    17.87
+   ],
+   [
+    "a",
+    17.95,
+    18.01
+   ],
+   [
+    "Guinness",
+    18.01,
+    18.31
+   ],
+   [
+    "World",
+    18.31,
+    18.49
+   ],
+   [
+    "Record",
+    18.49,
+    18.77
+   ],
+   [
+    "plaque",
+    18.77,
+    19.01
+   ],
+   [
+    "sits",
+    19.01,
+    19.41
+   ],
+   [
+    "with",
+    19.41,
+    19.65
+   ],
+   [
+    "its",
+    19.65,
+    19.77
+   ],
+   [
+    "twin",
+    19.85,
+    19.95
+   ],
+   [
+    "on",
+    19.95,
+    20.09
+   ],
+   [
+    "Earth.",
+    20.09,
+    20.31
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   34,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/6th_Perseverance_Rock_Sample_Malay.jpg/960px-6th_Perseverance_Rock_Sample_Malay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:6th_Perseverance_Rock_Sample_Malay.jpg",
+   "desc": "6th Perseverance Rock Sample Malay — 6th Perseverance Rock Sample Malay (attempt 2)"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 45.22,
+   "unit": "km",
+   "label": "total distance driven"
+  },
+  {
+   "type": "focus",
+   "target": "ancient rock outcrops",
+   "box": [
+    454,
+    434,
+    602,
+    555
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Tracks Along the Longest Drive on Another World",
+  "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T22:54:35Z",
+ "trimmed": true
+}
