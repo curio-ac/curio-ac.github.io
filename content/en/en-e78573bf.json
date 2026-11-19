@@ -1,0 +1,429 @@
+{
+ "id": "en-e78573bf",
+ "lang": "en",
+ "title": "New Guinea's Smoke Crisis",
+ "cat": "geography",
+ "emoji": "🔥",
+ "sentences": [
+  "New Guinea is currently choking on smoke.",
+  "A severe El Niño drought has turned the island into a tinderbox.",
+  "Fires have released record-breaking amounts of carbon into the atmosphere.",
+  "Schools are closed and flights are canceled due to thick air pollution.",
+  "Most fires are started by people for farming and land clearing.",
+  "The island remains in danger until the heavy rains finally arrive."
+ ],
+ "tim": {
+  "w": [
+   [
+    "New",
+    0.35,
+    0.35
+   ],
+   [
+    "Guinea",
+    0.35,
+    0.55
+   ],
+   [
+    "is",
+    0.55,
+    0.83
+   ],
+   [
+    "currently",
+    0.87,
+    1.09
+   ],
+   [
+    "choking",
+    1.09,
+    1.37
+   ],
+   [
+    "on",
+    1.37,
+    1.61
+   ],
+   [
+    "smoke.",
+    1.61,
+    1.95
+   ],
+   [
+    "A",
+    2.41,
+    2.43
+   ],
+   [
+    "severe",
+    2.43,
+    2.65
+   ],
+   [
+    "El",
+    2.65,
+    2.93
+   ],
+   [
+    "Niño",
+    2.93,
+    3.25
+   ],
+   [
+    "drought",
+    3.25,
+    3.53
+   ],
+   [
+    "has",
+    3.53,
+    3.75
+   ],
+   [
+    "turned",
+    3.75,
+    3.93
+   ],
+   [
+    "the",
+    3.93,
+    4.07
+   ],
+   [
+    "island",
+    4.07,
+    4.33
+   ],
+   [
+    "into",
+    4.33,
+    4.61
+   ],
+   [
+    "a",
+    4.61,
+    4.77
+   ],
+   [
+    "tinderbox.",
+    4.77,
+    5.17
+   ],
+   [
+    "Fires",
+    5.75,
+    5.95
+   ],
+   [
+    "have",
+    5.95,
+    6.13
+   ],
+   [
+    "released",
+    6.13,
+    6.37
+   ],
+   [
+    "record-breaking",
+    6.37,
+    6.97
+   ],
+   [
+    "amounts",
+    6.97,
+    7.23
+   ],
+   [
+    "of",
+    7.23,
+    7.43
+   ],
+   [
+    "carbon",
+    7.43,
+    7.73
+   ],
+   [
+    "into",
+    7.73,
+    8.03
+   ],
+   [
+    "the",
+    8.03,
+    8.21
+   ],
+   [
+    "atmosphere.",
+    8.21,
+    8.75
+   ],
+   [
+    "Schools",
+    9.19,
+    9.29
+   ],
+   [
+    "are",
+    9.29,
+    9.45
+   ],
+   [
+    "closed",
+    9.45,
+    9.71
+   ],
+   [
+    "and",
+    9.71,
+    10.03
+   ],
+   [
+    "flights",
+    10.03,
+    10.21
+   ],
+   [
+    "are",
+    10.21,
+    10.39
+   ],
+   [
+    "canceled",
+    10.39,
+    10.69
+   ],
+   [
+    "due",
+    10.69,
+    11.01
+   ],
+   [
+    "to",
+    11.01,
+    11.13
+   ],
+   [
+    "thick",
+    11.13,
+    11.33
+   ],
+   [
+    "air",
+    11.33,
+    11.53
+   ],
+   [
+    "pollution.",
+    11.53,
+    12.11
+   ],
+   [
+    "Most",
+    12.59,
+    12.71
+   ],
+   [
+    "fires",
+    12.71,
+    13.01
+   ],
+   [
+    "are",
+    13.01,
+    13.17
+   ],
+   [
+    "started",
+    13.17,
+    13.39
+   ],
+   [
+    "by",
+    13.39,
+    13.57
+   ],
+   [
+    "people",
+    13.57,
+    13.81
+   ],
+   [
+    "for",
+    13.81,
+    13.99
+   ],
+   [
+    "farming",
+    13.99,
+    14.29
+   ],
+   [
+    "and",
+    14.29,
+    14.55
+   ],
+   [
+    "land",
+    14.55,
+    14.75
+   ],
+   [
+    "clearing.",
+    14.75,
+    15.23
+   ],
+   [
+    "The",
+    15.55,
+    15.61
+   ],
+   [
+    "island",
+    15.61,
+    15.87
+   ],
+   [
+    "remains",
+    15.87,
+    16.21
+   ],
+   [
+    "in",
+    16.21,
+    16.39
+   ],
+   [
+    "danger",
+    16.39,
+    16.69
+   ],
+   [
+    "until",
+    16.69,
+    16.97
+   ],
+   [
+    "the",
+    16.97,
+    17.13
+   ],
+   [
+    "heavy",
+    17.13,
+    17.31
+   ],
+   [
+    "rains",
+    17.31,
+    17.63
+   ],
+   [
+    "finally",
+    17.63,
+    17.99
+   ],
+   [
+    "arrive.",
+    17.99,
+    18.55
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   29,
+   41,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fires_Char_New_Guinea_%281499132_-_papuanewguinea_vir_20261011%29.jpg/960px-Fires_Char_New_Guinea_%281499132_-_papuanewguinea_vir_20261011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 513,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Fires_Char_New_Guinea_(1499132_-_papuanewguinea_vir_20261011).jpg",
+   "desc": "Fires Char New Guinea (1499132 - papuanewguinea vir 20261011) — NASA Earth Observatory image and charts by Michala Garrison, using data from NASA EOSDIS LANCE, GIBS/Worldview, Joint Polar Satellite System (JPSS), and the Global Fire Emissions Database (GFED). "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Fires_Char_New_Guinea_%281499132_-_newguinea_gfed_chart%29.jpg/960px-Fires_Char_New_Guinea_%281499132_-_newguinea_gfed_chart%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 465,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Fires_Char_New_Guinea_(1499132_-_newguinea_gfed_chart).jpg",
+   "desc": "Fires Char New Guinea (1499132 - newguinea gfed chart) — NASA Earth Observatory image and charts by Michala Garrison, using data from NASA EOSDIS LANCE, GIBS/Worldview, Joint Polar Satellite System (JPSS), and the Global Fire Emissions Database (GFED). Story b"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/An_example_of_slash_and_burn_agriculture_practice_Thailand.jpg/960px-An_example_of_slash_and_burn_agriculture_practice_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "mattmangum",
+   "page": "https://commons.wikimedia.org/wiki/File:An_example_of_slash_and_burn_agriculture_practice_Thailand.jpg",
+   "desc": "An example of slash and burn agriculture practice Thailand — shift cultivation in Thailand, cut tree trunks and burnt field inside forests"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tropical_Storm_Harold_Brings_Heavy_Rain_to_South_Texas_%28CIRA_2023-08-22%29.png/960px-Tropical_Storm_Harold_Brings_Heavy_Rain_to_South_Texas_%28CIRA_2023-08-22%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "GOES imagery: CSU/CIRA &amp; NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Tropical_Storm_Harold_Brings_Heavy_Rain_to_South_Texas_(CIRA_2023-08-22).png",
+   "desc": "Tropical Storm Harold Brings Heavy Rain to South Texas (CIRA 2023-08-22) — Heavy rain associated with Tropical Storm Harold arrives in South Texas."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 32,
+   "unit": "megatons",
+   "label": "carbon released"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Fires Char New Guinea",
+  "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T18:05:40Z",
+ "trimmed": true
+}

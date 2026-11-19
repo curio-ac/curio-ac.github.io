@@ -223,7 +223,8 @@
   "Ian Carmichael",
   "nasa:1511430",
   "The Boat Race 2020",
-  "British National (Overseas)"
+  "British National (Overseas)",
+  "1964 Brinks Hotel bombing"
  ],
  "rejected": [
   "Chameleon",
@@ -1028,6 +1029,9 @@
   ],
   "British National (Overseas)": [
    "What is BN(O) status?: You can be a British national without being a British citizen."
+  ],
+  "1964 Brinks Hotel bombing": [
+   "Christmas Eve Hotel Bombing: A Christmas Eve blast shook Saigon in 1964."
   ]
  },
  "exhausted": []
