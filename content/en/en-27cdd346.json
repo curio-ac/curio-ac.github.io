@@ -1,0 +1,396 @@
+{
+ "id": "en-27cdd346",
+ "lang": "en",
+ "title": "Christmas Eve Hotel Bombing",
+ "cat": "history",
+ "emoji": "💣",
+ "sentences": [
+  "A Christmas Eve blast shook Saigon in 1964.",
+  "Two Vietcong operatives detonated a car bomb beneath the Brinks Hotel.",
+  "The building housed United States Army officers.",
+  "The explosion killed 2 Americans and injured about 60 people.",
+  "The attack aimed to prove American vulnerability in the capital.",
+  "It sparked intense debate inside President Lyndon B. Johnson's administration."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.08
+   ],
+   [
+    "Christmas",
+    0.08,
+    0.4
+   ],
+   [
+    "Eve",
+    0.4,
+    0.78
+   ],
+   [
+    "blast",
+    0.78,
+    1.26
+   ],
+   [
+    "shook",
+    1.26,
+    1.72
+   ],
+   [
+    "Saigon",
+    1.72,
+    2.2
+   ],
+   [
+    "in",
+    2.2,
+    2.48
+   ],
+   [
+    "1964.",
+    2.48,
+    4.22
+   ],
+   [
+    "Two",
+    4.22,
+    4.36
+   ],
+   [
+    "Vietcong",
+    4.36,
+    4.9
+   ],
+   [
+    "operatives",
+    4.9,
+    5.52
+   ],
+   [
+    "detonated",
+    5.62,
+    6.08
+   ],
+   [
+    "a",
+    6.08,
+    6.18
+   ],
+   [
+    "car",
+    6.18,
+    6.48
+   ],
+   [
+    "bomb",
+    6.48,
+    6.76
+   ],
+   [
+    "beneath",
+    6.76,
+    7.04
+   ],
+   [
+    "the",
+    7.04,
+    7.22
+   ],
+   [
+    "Brinks",
+    7.22,
+    7.48
+   ],
+   [
+    "Hotel.",
+    7.48,
+    7.7
+   ],
+   [
+    "The",
+    8.58,
+    8.64
+   ],
+   [
+    "building",
+    8.64,
+    8.86
+   ],
+   [
+    "housed",
+    8.86,
+    9.24
+   ],
+   [
+    "United",
+    9.24,
+    9.58
+   ],
+   [
+    "States",
+    9.58,
+    9.98
+   ],
+   [
+    "Army",
+    9.98,
+    10.26
+   ],
+   [
+    "officers.",
+    10.26,
+    10.68
+   ],
+   [
+    "The",
+    11.44,
+    11.54
+   ],
+   [
+    "explosion",
+    11.78,
+    11.9
+   ],
+   [
+    "killed",
+    11.9,
+    12.36
+   ],
+   [
+    "2",
+    12.36,
+    12.66
+   ],
+   [
+    "Americans",
+    12.66,
+    13.02
+   ],
+   [
+    "and",
+    13.48,
+    13.58
+   ],
+   [
+    "injured",
+    13.58,
+    13.86
+   ],
+   [
+    "about",
+    13.86,
+    14.1
+   ],
+   [
+    "60",
+    14.1,
+    14.56
+   ],
+   [
+    "people.",
+    14.56,
+    14.66
+   ],
+   [
+    "The",
+    15.7,
+    15.8
+   ],
+   [
+    "attack",
+    15.8,
+    16.06
+   ],
+   [
+    "aimed",
+    16.06,
+    16.4
+   ],
+   [
+    "to",
+    16.4,
+    16.56
+   ],
+   [
+    "prove",
+    16.56,
+    16.9
+   ],
+   [
+    "American",
+    16.9,
+    17.36
+   ],
+   [
+    "vulnerability",
+    17.36,
+    18.04
+   ],
+   [
+    "in",
+    18.04,
+    18.4
+   ],
+   [
+    "the",
+    18.4,
+    18.46
+   ],
+   [
+    "capital.",
+    18.46,
+    18.78
+   ],
+   [
+    "It",
+    19.48,
+    19.54
+   ],
+   [
+    "sparked",
+    19.64,
+    19.76
+   ],
+   [
+    "intense",
+    19.76,
+    20.34
+   ],
+   [
+    "debate",
+    20.34,
+    20.74
+   ],
+   [
+    "inside",
+    20.74,
+    21.06
+   ],
+   [
+    "President",
+    21.06,
+    21.54
+   ],
+   [
+    "Lyndon",
+    21.54,
+    21.96
+   ],
+   [
+    "B.",
+    21.96,
+    22.24
+   ],
+   [
+    "Johnson's",
+    22.24,
+    22.6
+   ],
+   [
+    "administration.",
+    22.6,
+    23.2
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   26,
+   36,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/1964_Brinks_Hotel_bombing.JPG/960px-1964_Brinks_Hotel_bombing.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 559,
+   "license": "Public domain",
+   "artist": "US Air Force",
+   "page": "https://commons.wikimedia.org/wiki/File:1964_Brinks_Hotel_bombing.JPG",
+   "desc": "1964 Brinks Hotel bombing — At 5:55 p.m. on December 24, 1964, Viet Cong terrorists exploded a bomb in the garage area underneath the Brinks Hotel in Saigon, South Vietnam. The hotel, housing 125 military and civilian guests, was being used as offi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/NH_93963_Brink_bachelor_officers%27_quarters%2C_Saigon%2C_South_Vietnam.jpg/960px-NH_93963_Brink_bachelor_officers%27_quarters%2C_Saigon%2C_South_Vietnam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 602,
+   "license": "Public domain",
+   "artist": "NH 93963 Brink bachelor officers' quarters, Saigon, South Vietnam",
+   "page": "https://commons.wikimedia.org/wiki/File:NH_93963_Brink_bachelor_officers%27_quarters,_Saigon,_South_Vietnam.jpg",
+   "desc": "NH 93963 Brink bachelor officers' quarters, Saigon, South Vietnam — NH 93963 Brink bachelor officers' quarters, Saigon, South Vietnam"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/VA043690_Viet_Cong_mine_explosion.jpg/960px-VA043690_Viet_Cong_mine_explosion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Vietnamese Information Service Photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:VA043690_Viet_Cong_mine_explosion.jpg",
+   "desc": "VA043690 Viet Cong mine explosion — Viet Cong mine explosion aftermath"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1964
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "focus",
+   "target": "Brinks Hotel",
+   "box": [
+    92,
+    14,
+    579,
+    957
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "Americans",
+   "label": "killed in explosion"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  10.769,
+  106.682
+ ],
+ "qid": "Q712907",
+ "pron_wer": 0.07,
+ "angle": 0,
+ "source": {
+  "title": "1964 Brinks Hotel bombing",
+  "url": "https://en.wikipedia.org/wiki/1964_Brinks_Hotel_bombing",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T17:45:27Z",
+ "trimmed": true
+}
