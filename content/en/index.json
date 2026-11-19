@@ -226,7 +226,8 @@
   "British National (Overseas)",
   "1964 Brinks Hotel bombing",
   "nasa:1499132",
-  "Bath, Somerset"
+  "Bath, Somerset",
+  "Arch of Remembrance"
  ],
  "rejected": [
   "Chameleon",
@@ -1042,6 +1043,9 @@
   ],
   "Bath, Somerset": [
    "The City Built on Baths: This entire city is named after Roman baths."
+  ],
+  "Arch of Remembrance": [
+   "A War Memorial Built Twice: This massive arch was actually a backup plan."
   ]
  },
  "exhausted": []

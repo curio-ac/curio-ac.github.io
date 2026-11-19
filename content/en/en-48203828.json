@@ -1,0 +1,438 @@
+{
+ "id": "en-48203828",
+ "lang": "en",
+ "title": "Clean Space Data Yourself",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Your phone can help NASA fix space telescope data.",
+  "Space telescopes like Euclid capture light from millions of distant galaxies.",
+  "Sometimes, camera glitches create fake signals called artifacts that confuse AI.",
+  "Artifact InSPECtor lets you train AI to spot these errors.",
+  "By verifying the data, you help scientists unlock mysteries about dark energy.",
+  "Anyone with a laptop or smartphone can join the mission today."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Your",
+    0.35,
+    0.35
+   ],
+   [
+    "phone",
+    0.35,
+    0.75
+   ],
+   [
+    "can",
+    0.75,
+    0.93
+   ],
+   [
+    "help",
+    0.93,
+    1.11
+   ],
+   [
+    "NASA",
+    1.11,
+    1.37
+   ],
+   [
+    "fix",
+    1.37,
+    1.75
+   ],
+   [
+    "space",
+    1.75,
+    2.05
+   ],
+   [
+    "telescope",
+    2.05,
+    2.49
+   ],
+   [
+    "data.",
+    2.49,
+    3.24
+   ],
+   [
+    "Space",
+    3.43,
+    3.57
+   ],
+   [
+    "telescopes",
+    3.57,
+    4.01
+   ],
+   [
+    "like",
+    4.01,
+    4.25
+   ],
+   [
+    "Euclid",
+    4.33,
+    4.69
+   ],
+   [
+    "capture",
+    4.69,
+    5.05
+   ],
+   [
+    "light",
+    5.07,
+    5.31
+   ],
+   [
+    "from",
+    5.31,
+    5.53
+   ],
+   [
+    "millions",
+    5.53,
+    5.95
+   ],
+   [
+    "of",
+    5.95,
+    6.25
+   ],
+   [
+    "distant",
+    6.25,
+    6.49
+   ],
+   [
+    "galaxies.",
+    6.49,
+    7.13
+   ],
+   [
+    "Sometimes,",
+    7.65,
+    8.09
+   ],
+   [
+    "camera",
+    8.49,
+    8.53
+   ],
+   [
+    "glitches",
+    8.53,
+    8.91
+   ],
+   [
+    "create",
+    8.91,
+    9.13
+   ],
+   [
+    "fake",
+    9.13,
+    9.45
+   ],
+   [
+    "signals",
+    9.45,
+    9.87
+   ],
+   [
+    "called",
+    10.07,
+    10.17
+   ],
+   [
+    "artifacts",
+    10.17,
+    10.63
+   ],
+   [
+    "that",
+    10.63,
+    10.99
+   ],
+   [
+    "confuse",
+    11.25,
+    11.35
+   ],
+   [
+    "AI.",
+    11.35,
+    11.81
+   ],
+   [
+    "Artifact",
+    12.53,
+    12.93
+   ],
+   [
+    "InSPECtor",
+    13.23,
+    13.49
+   ],
+   [
+    "lets",
+    13.49,
+    13.77
+   ],
+   [
+    "you",
+    13.83,
+    13.97
+   ],
+   [
+    "train",
+    13.97,
+    14.23
+   ],
+   [
+    "AI",
+    14.23,
+    14.51
+   ],
+   [
+    "to",
+    14.51,
+    14.73
+   ],
+   [
+    "spot",
+    14.73,
+    14.99
+   ],
+   [
+    "these",
+    15.11,
+    15.21
+   ],
+   [
+    "errors.",
+    15.21,
+    15.69
+   ],
+   [
+    "By",
+    16.09,
+    16.17
+   ],
+   [
+    "verifying",
+    16.17,
+    16.59
+   ],
+   [
+    "the",
+    16.59,
+    16.77
+   ],
+   [
+    "data,",
+    16.77,
+    17.13
+   ],
+   [
+    "you",
+    17.37,
+    17.41
+   ],
+   [
+    "help",
+    17.41,
+    17.57
+   ],
+   [
+    "scientists",
+    17.57,
+    17.95
+   ],
+   [
+    "unlock",
+    17.95,
+    18.39
+   ],
+   [
+    "mysteries",
+    18.39,
+    18.89
+   ],
+   [
+    "about",
+    19.09,
+    19.19
+   ],
+   [
+    "dark",
+    19.19,
+    19.43
+   ],
+   [
+    "energy.",
+    19.43,
+    19.77
+   ],
+   [
+    "Anyone",
+    20.57,
+    20.71
+   ],
+   [
+    "with",
+    20.71,
+    20.97
+   ],
+   [
+    "a",
+    20.97,
+    21.05
+   ],
+   [
+    "laptop",
+    21.05,
+    21.31
+   ],
+   [
+    "or",
+    21.31,
+    21.51
+   ],
+   [
+    "smartphone",
+    21.51,
+    21.85
+   ],
+   [
+    "can",
+    21.85,
+    22.11
+   ],
+   [
+    "join",
+    22.11,
+    22.35
+   ],
+   [
+    "the",
+    22.35,
+    22.45
+   ],
+   [
+    "mission",
+    22.45,
+    22.65
+   ],
+   [
+    "today.",
+    22.65,
+    23.21
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   20,
+   31,
+   41,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/PIA23825-MarsPeseveranceRover-SmartphoneWalkdown-20200331.jpg/960px-PIA23825-MarsPeseveranceRover-SmartphoneWalkdown-20200331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA23825-MarsPeseveranceRover-SmartphoneWalkdown-20200331.jpg",
+   "desc": "PIA23825-MarsPeseveranceRover-SmartphoneWalkdown-20200331 — PIA23825: Smartphone Walkdown https://photojournal.jpl.nasa.gov/catalog/PIA23825 https://www.jpl.nasa.gov/news/news.php?feature=7645 A technician points a smartphone camera at NASA's Perseverance rove"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Euclid_looking_into_the_Universe_ESA24697255_%28cropped%29.jpg/960px-Euclid_looking_into_the_Universe_ESA24697255_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:Euclid_looking_into_the_Universe_ESA24697255_(cropped).jpg",
+   "desc": "Euclid looking into the Universe ESA24697255 (cropped) — Artist impression of the Euclid mission in space. Euclid is designed to look far and wide to answer some of the most fundamental questions about our Universe: What are dark matter and dark energy? What r"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Animation_Stills-_Effects_of_Dark_Energy_%282004-darkenergy-more-12_-_accel_expanding_univ_still_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "(Credit: NASA/STScI/G. Bacon)",
+   "page": "https://commons.wikimedia.org/wiki/File:Animation_Stills-_Effects_of_Dark_Energy_(2004-darkenergy-more-12_-_accel_expanding_univ_still_2).jpg",
+   "desc": "Animation Stills- Effects of Dark Energy (2004-darkenergy-more-12 - accel expanding univ still 2) — Animation Stills: Effects of Dark Energy These still images show the expansion history of the Universe by modeling the Universe as a two-dimensional grid of gal"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/960px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "JESHOOTS.COM jeshoots",
+   "page": "https://commons.wikimedia.org/wiki/File:White_work_table_with_notes,_smartphone_and_laptop_(Unsplash).jpg",
+   "desc": "White work table with notes, smartphone and laptop (Unsplash) — Flint, Spojené státy americké"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "dark energy",
+   "box": [
+    278,
+    313,
+    608,
+    686
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+  "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T19:31:44Z",
+ "trimmed": true
+}
