@@ -228,7 +228,8 @@
   "nasa:1499132",
   "Bath, Somerset",
   "Arch of Remembrance",
-  "nasa:1309754"
+  "nasa:1309754",
+  "Air Rhodesia Flight 825"
  ],
  "rejected": [
   "Chameleon",
@@ -1050,6 +1051,9 @@
   ],
   "nasa:1309754": [
    "Clean Space Data Yourself: Your phone can help NASA fix space telescope data."
+  ],
+  "Air Rhodesia Flight 825": [
+   "The Flight 825 Tragedy: A missile downed a passenger flight."
   ]
  },
  "exhausted": []

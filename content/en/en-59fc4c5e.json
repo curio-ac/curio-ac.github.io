@@ -1,0 +1,437 @@
+{
+ "id": "en-59fc4c5e",
+ "lang": "en",
+ "title": "Wimbledon started for lawnmowers",
+ "cat": "history",
+ "emoji": "🎾",
+ "sentences": [
+  "Wimbledon started to fix a pony roller.",
+  "The All England Croquet Club added tennis in 1875 because croquet interest was fading.",
+  "By June 1877, they organized a tournament to pay for lawn maintenance repairs.",
+  "22 players paid one guinea each to compete on grass courts.",
+  "The final drew 200 spectators, who paid one shilling each.",
+  "The winner took home 12 guineas and a silver cup."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Wimbledon",
+    0.1,
+    0.54
+   ],
+   [
+    "started",
+    0.54,
+    0.82
+   ],
+   [
+    "to",
+    0.82,
+    1.08
+   ],
+   [
+    "fix",
+    1.08,
+    1.3
+   ],
+   [
+    "a",
+    1.3,
+    1.54
+   ],
+   [
+    "pony",
+    1.54,
+    1.88
+   ],
+   [
+    "roller.",
+    1.88,
+    2.24
+   ],
+   [
+    "The",
+    2.8,
+    2.86
+   ],
+   [
+    "All",
+    2.86,
+    3.08
+   ],
+   [
+    "England",
+    3.08,
+    3.38
+   ],
+   [
+    "Croquet",
+    3.38,
+    3.88
+   ],
+   [
+    "Club",
+    3.88,
+    4.18
+   ],
+   [
+    "added",
+    4.18,
+    4.52
+   ],
+   [
+    "tennis",
+    4.52,
+    4.9
+   ],
+   [
+    "in",
+    4.9,
+    5.2
+   ],
+   [
+    "1875",
+    5.28,
+    6.12
+   ],
+   [
+    "because",
+    6.12,
+    6.66
+   ],
+   [
+    "croquet",
+    6.66,
+    7.22
+   ],
+   [
+    "interest",
+    7.22,
+    7.6
+   ],
+   [
+    "was",
+    7.6,
+    7.84
+   ],
+   [
+    "fading.",
+    7.84,
+    8.8
+   ],
+   [
+    "By",
+    8.8,
+    8.94
+   ],
+   [
+    "June",
+    8.94,
+    9.2
+   ],
+   [
+    "1877,",
+    9.2,
+    9.85
+   ],
+   [
+    "they",
+    10.54,
+    10.6
+   ],
+   [
+    "organized",
+    10.6,
+    10.96
+   ],
+   [
+    "a",
+    10.96,
+    11.2
+   ],
+   [
+    "tournament",
+    11.2,
+    11.48
+   ],
+   [
+    "to",
+    11.48,
+    11.76
+   ],
+   [
+    "pay",
+    11.94,
+    12.06
+   ],
+   [
+    "for",
+    12.06,
+    12.26
+   ],
+   [
+    "lawn",
+    12.26,
+    12.5
+   ],
+   [
+    "maintenance",
+    12.5,
+    12.86
+   ],
+   [
+    "repairs.",
+    12.86,
+    13.28
+   ],
+   [
+    "22",
+    14.04,
+    14.28
+   ],
+   [
+    "players",
+    14.28,
+    14.66
+   ],
+   [
+    "paid",
+    14.66,
+    14.98
+   ],
+   [
+    "one",
+    14.98,
+    15.34
+   ],
+   [
+    "guinea",
+    15.34,
+    15.66
+   ],
+   [
+    "each",
+    15.66,
+    16.1
+   ],
+   [
+    "to",
+    16.1,
+    16.28
+   ],
+   [
+    "compete",
+    16.28,
+    16.56
+   ],
+   [
+    "on",
+    16.66,
+    16.76
+   ],
+   [
+    "grass",
+    16.76,
+    17.06
+   ],
+   [
+    "courts.",
+    17.06,
+    17.22
+   ],
+   [
+    "The",
+    18.02,
+    18.1
+   ],
+   [
+    "final",
+    18.22,
+    18.4
+   ],
+   [
+    "drew",
+    18.4,
+    18.7
+   ],
+   [
+    "200",
+    18.7,
+    19.3
+   ],
+   [
+    "spectators,",
+    19.3,
+    19.52
+   ],
+   [
+    "who",
+    20.1,
+    20.18
+   ],
+   [
+    "paid",
+    20.18,
+    20.36
+   ],
+   [
+    "one",
+    20.36,
+    20.64
+   ],
+   [
+    "shilling",
+    20.64,
+    21.08
+   ],
+   [
+    "each.",
+    21.08,
+    21.18
+   ],
+   [
+    "The",
+    21.88,
+    21.96
+   ],
+   [
+    "winner",
+    21.96,
+    22.14
+   ],
+   [
+    "took",
+    22.14,
+    22.42
+   ],
+   [
+    "home",
+    22.42,
+    22.6
+   ],
+   [
+    "12",
+    22.6,
+    22.94
+   ],
+   [
+    "guineas",
+    22.94,
+    23.52
+   ],
+   [
+    "and",
+    23.56,
+    23.66
+   ],
+   [
+    "a",
+    23.66,
+    23.78
+   ],
+   [
+    "silver",
+    23.78,
+    24.02
+   ],
+   [
+    "cup.",
+    24.02,
+    24.3
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   21,
+   34,
+   45,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lawn_Tennis_Court_1874.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1163,
+   "license": "Public domain",
+   "artist": "Walter Clopton Wingfield (1833-1912) ?",
+   "page": "https://commons.wikimedia.org/wiki/File:Lawn_Tennis_Court_1874.jpg",
+   "desc": "Lawn Tennis Court 1874 — Drawing of a Lawn Tennis court as originally designed by Walter Clopton Wingfield in 1874"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Wimbledon_Championship_1877.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 562,
+   "license": "Public domain",
+   "artist": "H.W.P.",
+   "page": "https://commons.wikimedia.org/wiki/File:Wimbledon_Championship_1877.jpg",
+   "desc": "Wimbledon Championship 1877 — Contemporary engraving of the first Wimbledon Championship at Worple Road, London, in July 1877. Note the higher net (5 ft). The clubhouse is located on the left (in a distance). Worple Road is on the left and on the rig"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Wimbledon_Championship_1877_Draw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1074,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Wimbledon_Championship_1877_Draw.jpg",
+   "desc": "Wimbledon Championship 1877 Draw — Program of the first Wimbledon Championship in 1877."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1875
+  },
+  {
+   "type": "stat",
+   "value": 1877,
+   "unit": "year",
+   "label": "tournament year"
+  },
+  {
+   "type": "stat",
+   "value": 22,
+   "unit": "players",
+   "label": "total participants"
+  },
+  {
+   "type": "stat",
+   "value": 200,
+   "unit": "people",
+   "label": "final spectators"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1934049",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "1877 Wimbledon Championship",
+  "url": "https://en.wikipedia.org/wiki/1877_Wimbledon_Championship",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T20:04:43Z",
+ "trimmed": true
+}
