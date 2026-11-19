@@ -208,7 +208,8 @@
   "Alaska-class cruiser",
   "Montague Druitt",
   "nasa:1306540",
-  "2009 Women's Cricket World Cup final"
+  "2009 Women's Cricket World Cup final",
+  "nasa:1504163"
  ],
  "rejected": [
   "Chameleon",
@@ -963,6 +964,9 @@
   ],
   "2009 Women's Cricket World Cup final": [
    "England's 2009 Cricket Triumph: England won their first overseas World Cup title."
+  ],
+  "nasa:1504163": [
+   "NASA's Giant Space Sunshade: NASA’s new space sunshade is 20 feet tall."
   ]
  },
  "exhausted": []

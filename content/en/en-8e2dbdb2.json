@@ -1,0 +1,426 @@
+{
+ "id": "en-8e2dbdb2",
+ "lang": "en",
+ "title": "The Cutthroat Trout Mystery",
+ "cat": "biology",
+ "emoji": "🐟",
+ "sentences": [
+  "This fish has a red-stained jaw.",
+  "The name cutthroat comes from this distinctive red coloration.",
+  "It belongs to the Pacific trout group, like rainbow trout.",
+  "These 4 species live in cold-water tributaries across North America.",
+  "They are popular gamefish for anglers who enjoy fly fishing.",
+  "While they inhabit shallow rivers, they reproduce in clear, cold, moderately deep lakes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.2,
+    0.38
+   ],
+   [
+    "fish",
+    0.38,
+    0.66
+   ],
+   [
+    "has",
+    0.66,
+    0.94
+   ],
+   [
+    "a",
+    0.94,
+    1.1
+   ],
+   [
+    "red-stained",
+    1.1,
+    1.7
+   ],
+   [
+    "jaw.",
+    1.7,
+    2.4
+   ],
+   [
+    "The",
+    2.86,
+    2.86
+   ],
+   [
+    "name",
+    2.86,
+    3.02
+   ],
+   [
+    "cutthroat",
+    3.02,
+    3.52
+   ],
+   [
+    "comes",
+    3.52,
+    3.76
+   ],
+   [
+    "from",
+    3.76,
+    4.0
+   ],
+   [
+    "this",
+    4.0,
+    4.14
+   ],
+   [
+    "distinctive",
+    4.14,
+    4.62
+   ],
+   [
+    "red",
+    4.64,
+    4.98
+   ],
+   [
+    "coloration.",
+    4.98,
+    5.44
+   ],
+   [
+    "It",
+    6.22,
+    6.32
+   ],
+   [
+    "belongs",
+    6.32,
+    6.52
+   ],
+   [
+    "to",
+    6.52,
+    6.82
+   ],
+   [
+    "the",
+    6.82,
+    6.9
+   ],
+   [
+    "Pacific",
+    6.9,
+    7.18
+   ],
+   [
+    "trout",
+    7.18,
+    7.46
+   ],
+   [
+    "group,",
+    7.46,
+    7.8
+   ],
+   [
+    "like",
+    8.08,
+    8.08
+   ],
+   [
+    "rainbow",
+    8.1,
+    8.3
+   ],
+   [
+    "trout.",
+    8.3,
+    8.42
+   ],
+   [
+    "These",
+    9.3,
+    9.4
+   ],
+   [
+    "4",
+    9.4,
+    9.62
+   ],
+   [
+    "species",
+    9.62,
+    9.88
+   ],
+   [
+    "live",
+    9.88,
+    10.24
+   ],
+   [
+    "in",
+    10.24,
+    10.44
+   ],
+   [
+    "cold-water",
+    10.44,
+    11.04
+   ],
+   [
+    "tributaries",
+    11.04,
+    11.7
+   ],
+   [
+    "across",
+    11.92,
+    12.02
+   ],
+   [
+    "North",
+    12.02,
+    12.28
+   ],
+   [
+    "America.",
+    12.28,
+    12.54
+   ],
+   [
+    "They",
+    13.32,
+    13.42
+   ],
+   [
+    "are",
+    13.42,
+    13.5
+   ],
+   [
+    "popular",
+    13.5,
+    13.8
+   ],
+   [
+    "gamefish",
+    13.8,
+    14.36
+   ],
+   [
+    "for",
+    14.36,
+    14.58
+   ],
+   [
+    "anglers",
+    14.66,
+    14.98
+   ],
+   [
+    "who",
+    14.98,
+    15.2
+   ],
+   [
+    "enjoy",
+    15.2,
+    15.44
+   ],
+   [
+    "fly",
+    15.44,
+    15.66
+   ],
+   [
+    "fishing.",
+    15.66,
+    15.76
+   ],
+   [
+    "While",
+    16.44,
+    16.52
+   ],
+   [
+    "they",
+    16.52,
+    16.64
+   ],
+   [
+    "inhabit",
+    16.64,
+    16.94
+   ],
+   [
+    "shallow",
+    16.94,
+    17.26
+   ],
+   [
+    "rivers,",
+    17.26,
+    17.8
+   ],
+   [
+    "they",
+    17.9,
+    17.96
+   ],
+   [
+    "reproduce",
+    17.96,
+    18.32
+   ],
+   [
+    "in",
+    18.32,
+    18.64
+   ],
+   [
+    "clear,",
+    18.64,
+    19.06
+   ],
+   [
+    "cold,",
+    19.22,
+    19.54
+   ],
+   [
+    "moderately",
+    20.0,
+    20.46
+   ],
+   [
+    "deep",
+    20.46,
+    20.74
+   ],
+   [
+    "lakes.",
+    20.74,
+    21.39
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   25,
+   35,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bear_river_ct_ID_09222019_%281%29.jpg/960px-Bear_river_ct_ID_09222019_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "N8vetrout",
+   "page": "https://commons.wikimedia.org/wiki/File:Bear_river_ct_ID_09222019_(1).jpg",
+   "desc": "Bear river ct ID 09222019 (1) — Bear River cutthroat from Idaho"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Colo_river_cutthroat_BLM.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 375,
+   "license": "Public domain",
+   "artist": "Author = United States Bureau of Land Management",
+   "page": "https://commons.wikimedia.org/wiki/File:Colo_river_cutthroat_BLM.jpg",
+   "desc": "Colo river cutthroat BLM — Colorado River Cutthroat Trout"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Female_Rainbow_Trout_in_hand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 321,
+   "license": "CC BY-SA 3.0",
+   "artist": "Mike Anderson",
+   "page": "https://commons.wikimedia.org/wiki/File:Female_Rainbow_Trout_in_hand.JPG",
+   "desc": "Female Rainbow Trout in hand — Female Rainbow trout Oncorhynchus mykiss, photo by Mike Anderson"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Distribution_of_Cutthroat_Trout_Evolutionary_Units.jpg/960px-Distribution_of_Cutthroat_Trout_Evolutionary_Units.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 932,
+   "license": "CC BY 4.0",
+   "artist": "N8vetrout",
+   "page": "https://commons.wikimedia.org/wiki/File:Distribution_of_Cutthroat_Trout_Evolutionary_Units.jpg",
+   "desc": "Distribution of Cutthroat Trout Evolutionary Units — Distribution of Cutthroat Trout Evolutionary Units"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cutthroat_east_canyon_record.jpg/960px-Cutthroat_east_canyon_record.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "Curtis Robinson",
+   "page": "https://commons.wikimedia.org/wiki/File:Cutthroat_east_canyon_record.jpg",
+   "desc": "Cutthroat east canyon record — Curtis Robinson shows the huge cutthroat trout he caught and released at East Canyon Reservoir. The 31.5-inch cutthroat set a new Utah state record. As of March 26, 2011, it's the largest cutthroat trout ever caught and "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/East_Fork_Bitterroot_River.jpg/960px-East_Fork_Bitterroot_River.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Mike Cline",
+   "page": "https://commons.wikimedia.org/wiki/File:East_Fork_Bitterroot_River.jpg",
+   "desc": "East Fork Bitterroot River — Typical cutthroat trout habitat in the East Fork of the Bitterroot River, Sula, Montana, August, 2011"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "red-stained jaw",
+   "box": [
+    610,
+    145,
+    670,
+    240
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2717060",
+ "pron_wer": 0.067,
+ "angle": 0,
+ "source": {
+  "title": "Cutthroat trout",
+  "url": "https://en.wikipedia.org/wiki/Cutthroat_trout",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T13:06:43Z",
+ "trimmed": true
+}
