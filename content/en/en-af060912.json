@@ -1,0 +1,402 @@
+{
+ "id": "en-af060912",
+ "lang": "en",
+ "title": "Earth's Hidden Neighbor",
+ "cat": "space",
+ "emoji": "⭐",
+ "sentences": [
+  "A nearby star is invisible to the eye.",
+  "Barnard's Star sits just 5.96 light-years from us.",
+  "This red dwarf is the fourth-nearest star to our Sun.",
+  "It holds only 16% of the Sun's mass.",
+  "Even though it is ancient, the star still experiences flare events.",
+  "Researchers have observed a system of 4 planets orbiting it."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0,
+    0.08
+   ],
+   [
+    "nearby",
+    0.08,
+    0.26
+   ],
+   [
+    "star",
+    0.26,
+    0.64
+   ],
+   [
+    "is",
+    0.64,
+    0.94
+   ],
+   [
+    "invisible",
+    0.94,
+    1.28
+   ],
+   [
+    "to",
+    1.28,
+    1.56
+   ],
+   [
+    "the",
+    1.56,
+    1.66
+   ],
+   [
+    "eye.",
+    1.66,
+    1.98
+   ],
+   [
+    "Barnard's",
+    2.46,
+    2.94
+   ],
+   [
+    "Star",
+    2.94,
+    3.16
+   ],
+   [
+    "sits",
+    3.16,
+    3.4
+   ],
+   [
+    "just",
+    3.4,
+    3.7
+   ],
+   [
+    "5.96",
+    3.7,
+    4.66
+   ],
+   [
+    "light-years",
+    4.66,
+    5.32
+   ],
+   [
+    "from",
+    5.32,
+    5.56
+   ],
+   [
+    "us.",
+    5.56,
+    5.66
+   ],
+   [
+    "This",
+    6.2,
+    6.2
+   ],
+   [
+    "red",
+    6.2,
+    6.42
+   ],
+   [
+    "dwarf",
+    6.42,
+    6.68
+   ],
+   [
+    "is",
+    6.68,
+    6.98
+   ],
+   [
+    "the",
+    6.98,
+    7.1
+   ],
+   [
+    "fourth-nearest",
+    7.1,
+    7.7
+   ],
+   [
+    "star",
+    7.7,
+    8.04
+   ],
+   [
+    "to",
+    8.04,
+    8.24
+   ],
+   [
+    "our",
+    8.24,
+    8.42
+   ],
+   [
+    "Sun.",
+    8.42,
+    8.82
+   ],
+   [
+    "It",
+    8.96,
+    9.0
+   ],
+   [
+    "holds",
+    9.0,
+    9.22
+   ],
+   [
+    "only",
+    9.22,
+    9.48
+   ],
+   [
+    "16%",
+    9.48,
+    10.2
+   ],
+   [
+    "of",
+    10.2,
+    10.46
+   ],
+   [
+    "the",
+    10.46,
+    10.56
+   ],
+   [
+    "Sun's",
+    10.56,
+    10.88
+   ],
+   [
+    "mass.",
+    10.88,
+    11.12
+   ],
+   [
+    "Even",
+    11.44,
+    11.6
+   ],
+   [
+    "though",
+    11.6,
+    11.78
+   ],
+   [
+    "it",
+    11.78,
+    11.86
+   ],
+   [
+    "is",
+    11.86,
+    11.96
+   ],
+   [
+    "ancient,",
+    11.96,
+    12.36
+   ],
+   [
+    "the",
+    12.58,
+    12.62
+   ],
+   [
+    "star",
+    12.62,
+    12.86
+   ],
+   [
+    "still",
+    12.86,
+    13.14
+   ],
+   [
+    "experiences",
+    13.14,
+    13.76
+   ],
+   [
+    "flare",
+    13.76,
+    14.1
+   ],
+   [
+    "events.",
+    14.1,
+    14.44
+   ],
+   [
+    "Researchers",
+    14.74,
+    14.98
+   ],
+   [
+    "have",
+    14.98,
+    15.34
+   ],
+   [
+    "observed",
+    15.34,
+    15.66
+   ],
+   [
+    "a",
+    15.66,
+    15.84
+   ],
+   [
+    "system",
+    15.84,
+    16.12
+   ],
+   [
+    "of",
+    16.12,
+    16.34
+   ],
+   [
+    "4",
+    16.44,
+    16.56
+   ],
+   [
+    "planets",
+    16.56,
+    16.92
+   ],
+   [
+    "orbiting",
+    16.92,
+    17.28
+   ],
+   [
+    "it.",
+    17.28,
+    17.54
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   26,
+   34,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Angular_map_of_fusors_around_Sol_within_9ly_%28large%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 719,
+   "license": "CC BY-SA 4.0",
+   "artist": "Nsae Comp",
+   "page": "https://commons.wikimedia.org/wiki/File:Angular_map_of_fusors_around_Sol_within_9ly_(large).png",
+   "desc": "Angular map of fusors around Sol within 9ly (large) — This is a stellar map, employing an original map concept, which combines graphically the distance of all stellar systems or singular fusors (stars and brown dwarfs) and sub-brown dwarfs within 9 light-years"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Barnardstar2006.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 478,
+   "license": "Public domain",
+   "artist": "Steve Quirk",
+   "page": "https://commons.wikimedia.org/wiki/File:Barnardstar2006.jpg",
+   "desc": "Barnardstar2006 — Barnard's star"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Barnard%27sStarSize_en.jpg/960px-Barnard%27sStarSize_en.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 432,
+   "license": "CC BY-SA 3.0",
+   "artist": "Marskell, Poppy, User:Richard-59",
+   "page": "https://commons.wikimedia.org/wiki/File:Barnard%27sStarSize_en.jpg",
+   "desc": "Barnard'sStarSize en — Relative size of Barnard's Star (0.175 Sol)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Flaring_red_dwarf_star_%28artist%27s_impression%29_%28opo1102a%29.jpg/960px-Flaring_red_dwarf_star_%28artist%27s_impression%29_%28opo1102a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "Artwork Credit: NASA, ESA, and G. Bacon (STScI). Science Credit: NASA, ESA, A. K",
+   "page": "https://commons.wikimedia.org/wiki/File:Flaring_red_dwarf_star_(artist%27s_impression)_(opo1102a).jpg",
+   "desc": "Flaring red dwarf star (artist's impression) (opo1102a) — This is an artist's concept of a red dwarf star undergoing a powerful eruption, called a stellar flare. A hypothetical planet is in the foreground.Flares are sudden eruptions of heated plasma that occur"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Planets_of_barnards_star_3_1_1_1.png/960px-Planets_of_barnards_star_3_1_1_1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 240,
+   "license": "CC0",
+   "artist": "Merikanto",
+   "page": "https://commons.wikimedia.org/wiki/File:Planets_of_barnards_star_3_1_1_1.png",
+   "desc": "Planets of barnards star 3 1 1 1 — Planets of Barnard's star"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5.96,
+   "unit": "ly",
+   "label": "from Earth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.16,
+   "dim": "mass",
+   "unit_value_in": "kg"
+  },
+  {
+   "type": "timeline",
+   "year": 1998
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q14268",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Barnard's Star",
+  "url": "https://en.wikipedia.org/wiki/Barnard%27s_Star",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T21:07:04Z",
+ "trimmed": true
+}
