@@ -1,0 +1,466 @@
+{
+ "id": "en-ae517041",
+ "lang": "en",
+ "title": "The Ripper Suspect",
+ "cat": "history",
+ "emoji": "🕵️‍♂️",
+ "sentences": [
+  "A barrister was once a prime Ripper suspect.",
+  "Montague Druitt was an educator from an upper-middle-class background.",
+  "He studied at Winchester College and the University of Oxford.",
+  "Outside of law, he loved playing cricket with leading players.",
+  "He lost his teaching job in November 1888.",
+  "One month later, his body was found drowned in the River Thames.",
+  "His death coincided with the end of those infamous murders."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.12,
+    0.12
+   ],
+   [
+    "barrister",
+    0.12,
+    0.56
+   ],
+   [
+    "was",
+    0.56,
+    0.8
+   ],
+   [
+    "once",
+    0.8,
+    1.04
+   ],
+   [
+    "a",
+    1.04,
+    1.22
+   ],
+   [
+    "prime",
+    1.42,
+    1.62
+   ],
+   [
+    "Ripper",
+    1.62,
+    1.94
+   ],
+   [
+    "suspect.",
+    1.94,
+    2.18
+   ],
+   [
+    "Montague",
+    3.02,
+    3.52
+   ],
+   [
+    "Druitt",
+    3.52,
+    4.04
+   ],
+   [
+    "was",
+    4.1,
+    4.2
+   ],
+   [
+    "an",
+    4.2,
+    4.34
+   ],
+   [
+    "educator",
+    4.34,
+    4.7
+   ],
+   [
+    "from",
+    4.94,
+    5.04
+   ],
+   [
+    "an",
+    5.04,
+    5.18
+   ],
+   [
+    "upper-middle-class",
+    5.22,
+    5.88
+   ],
+   [
+    "background.",
+    5.88,
+    6.12
+   ],
+   [
+    "He",
+    6.84,
+    6.9
+   ],
+   [
+    "studied",
+    6.9,
+    7.2
+   ],
+   [
+    "at",
+    7.2,
+    7.36
+   ],
+   [
+    "Winchester",
+    7.36,
+    7.74
+   ],
+   [
+    "College",
+    7.74,
+    8.18
+   ],
+   [
+    "and",
+    8.18,
+    8.56
+   ],
+   [
+    "the",
+    8.56,
+    8.66
+   ],
+   [
+    "University",
+    8.66,
+    9.02
+   ],
+   [
+    "of",
+    9.02,
+    9.2
+   ],
+   [
+    "Oxford.",
+    9.2,
+    9.38
+   ],
+   [
+    "Outside",
+    10.26,
+    10.5
+   ],
+   [
+    "of",
+    10.5,
+    10.72
+   ],
+   [
+    "law,",
+    10.72,
+    11.04
+   ],
+   [
+    "he",
+    11.28,
+    11.3
+   ],
+   [
+    "loved",
+    11.3,
+    11.64
+   ],
+   [
+    "playing",
+    11.64,
+    11.96
+   ],
+   [
+    "cricket",
+    11.96,
+    12.32
+   ],
+   [
+    "with",
+    12.44,
+    12.54
+   ],
+   [
+    "leading",
+    12.54,
+    12.82
+   ],
+   [
+    "players.",
+    12.82,
+    12.92
+   ],
+   [
+    "He",
+    13.84,
+    13.94
+   ],
+   [
+    "lost",
+    13.94,
+    14.24
+   ],
+   [
+    "his",
+    14.24,
+    14.44
+   ],
+   [
+    "teaching",
+    14.44,
+    14.68
+   ],
+   [
+    "job",
+    14.8,
+    15.0
+   ],
+   [
+    "in",
+    15.02,
+    15.12
+   ],
+   [
+    "November",
+    15.12,
+    15.4
+   ],
+   [
+    "1888.",
+    15.4,
+    16.28
+   ],
+   [
+    "One",
+    17.04,
+    17.18
+   ],
+   [
+    "month",
+    17.18,
+    17.36
+   ],
+   [
+    "later,",
+    17.36,
+    17.78
+   ],
+   [
+    "his",
+    17.92,
+    17.98
+   ],
+   [
+    "body",
+    17.98,
+    18.28
+   ],
+   [
+    "was",
+    18.28,
+    18.48
+   ],
+   [
+    "found",
+    18.62,
+    18.72
+   ],
+   [
+    "drowned",
+    18.72,
+    19.08
+   ],
+   [
+    "in",
+    19.08,
+    19.32
+   ],
+   [
+    "the",
+    19.32,
+    19.42
+   ],
+   [
+    "River",
+    19.42,
+    19.56
+   ],
+   [
+    "Thames.",
+    19.56,
+    19.84
+   ],
+   [
+    "His",
+    20.58,
+    20.68
+   ],
+   [
+    "death",
+    20.68,
+    20.98
+   ],
+   [
+    "coincided",
+    21.2,
+    21.72
+   ],
+   [
+    "with",
+    21.72,
+    21.88
+   ],
+   [
+    "the",
+    21.88,
+    22.0
+   ],
+   [
+    "end",
+    22.16,
+    22.3
+   ],
+   [
+    "of",
+    22.3,
+    22.44
+   ],
+   [
+    "those",
+    22.44,
+    22.56
+   ],
+   [
+    "infamous",
+    22.7,
+    22.96
+   ],
+   [
+    "murders.",
+    22.96,
+    23.26
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   27,
+   37,
+   45,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Druitt2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 865,
+   "license": "Public domain",
+   "artist": "William Savage",
+   "page": "https://commons.wikimedia.org/wiki/File:Druitt2.jpg",
+   "desc": "Druitt2 — Montague John Druitt (1857–1888): barrister, cricketer, schoolmaster and suspect in the Jack the Ripper murders."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Winchester_-_College.JPG/960px-Winchester_-_College.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 560,
+   "license": "CC BY-SA 2.5",
+   "artist": "Christophe.Finot",
+   "page": "https://commons.wikimedia.org/wiki/File:Winchester_-_College.JPG",
+   "desc": "Winchester - College — Winchester College Chapel, Hampshire"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Continental_village_green_and_cricket_match_-_Thomas_Shotter_Boys_%28attributed_to%29_-_9048-2048x1523.jpg/960px-Continental_village_green_and_cricket_match_-_Thomas_Shotter_Boys_%28attributed_to%29_-_9048-2048x1523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 535,
+   "license": "Public domain",
+   "artist": "Thomas Shotter Boys (Attributed to)",
+   "page": "https://commons.wikimedia.org/wiki/File:Continental_village_green_and_cricket_match_-_Thomas_Shotter_Boys_(attributed_to)_-_9048-2048x1523.jpg",
+   "desc": "Continental village green and cricket match - Thomas Shotter Boys (attributed to) - 9048-2048x1523 — Offered for sale by Abbott and Holder in November 2021, when it was described as \"Continental village green and cricket match. Possibly the Netherlands? Pencil"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/River_Thames%2C_Osney_Bridge_-_geograph.org.uk_-_540897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Nigel Cox",
+   "page": "https://commons.wikimedia.org/wiki/File:River_Thames,_Osney_Bridge_-_geograph.org.uk_-_540897.jpg",
+   "desc": "River Thames, Osney Bridge - geograph.org.uk - 540897 — River Thames: Osney Bridge The original stone arched bridge here was constructed in the early 17th century, but on 2 December 1885 the central arch fell into the river when it was swollen and fast flowing"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_Montague_John_Druitt%2C_Wimborne_Cemetery.jpg/960px-Memorial_to_Montague_John_Druitt%2C_Wimborne_Cemetery.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY 2.0",
+   "artist": "water_mint (photos · photo sets)",
+   "page": "https://commons.wikimedia.org/wiki/File:Memorial_to_Montague_John_Druitt,_Wimborne_Cemetery.jpg",
+   "desc": "Memorial to Montague John Druitt, Wimborne Cemetery — A memorial to Montague John Druitt at Wimborne Cemetery, Wimborne, Dorset. Montague John Druitt was a suspect in Jack the Ripper case, though is dismissed by many investigators."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1857
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1885,
+   "unit": "year",
+   "label": "barrister qualification"
+  },
+  {
+   "type": "timeline",
+   "year": 1888
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q337837",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Montague Druitt",
+  "url": "https://en.wikipedia.org/wiki/Montague_Druitt",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-19T11:44:33Z",
+ "trimmed": true
+}

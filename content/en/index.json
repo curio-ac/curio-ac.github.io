@@ -204,7 +204,8 @@
   "Ormond Beatty",
   "2006 Bank of America 500",
   "1984–85 Gillingham F.C. season",
-  "nasa:1431752"
+  "nasa:1431752",
+  "Alaska-class cruiser"
  ],
  "rejected": [
   "Chameleon",
@@ -947,6 +948,9 @@
   ],
   "nasa:1431752": [
    "Pacific Storms Are Exploding: The Pacific is currently swarming with powerful storms."
+  ],
+  "Alaska-class cruiser": [
+   "The Navy's Unique Large Cruisers: The US Navy built unique large cruisers."
   ]
  },
  "exhausted": []
