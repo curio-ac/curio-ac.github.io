@@ -1,0 +1,458 @@
+{
+ "id": "en-c61f907c",
+ "lang": "en",
+ "title": "2008 Olympic Road Race",
+ "cat": "history",
+ "emoji": "🚴",
+ "sentences": [
+  "A 245.4 km Olympic road race!",
+  "It started on August 9 in the Beijing metropolitan area.",
+  "Cyclists passed major landmarks like Tiananmen Square.",
+  "The route climbed 7 loops up and down Badaling Pass.",
+  "Samuel Sánchez won after a six-man group contested a sprint finish.",
+  "It was the first medal in the event for Spain.",
+  "Italy and Switzerland secured silver and bronze with the same time."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.18,
+    0.3
+   ],
+   [
+    "245.4",
+    0.4,
+    2.12
+   ],
+   [
+    "km",
+    2.12,
+    2.42
+   ],
+   [
+    "Olympic",
+    2.42,
+    3.02
+   ],
+   [
+    "road",
+    3.02,
+    3.48
+   ],
+   [
+    "race!",
+    3.48,
+    3.7
+   ],
+   [
+    "It",
+    4.42,
+    4.54
+   ],
+   [
+    "started",
+    4.54,
+    4.9
+   ],
+   [
+    "on",
+    4.9,
+    5.22
+   ],
+   [
+    "August",
+    5.22,
+    5.58
+   ],
+   [
+    "9",
+    5.58,
+    5.98
+   ],
+   [
+    "in",
+    5.98,
+    6.3
+   ],
+   [
+    "the",
+    6.3,
+    6.42
+   ],
+   [
+    "Beijing",
+    6.42,
+    6.68
+   ],
+   [
+    "metropolitan",
+    6.68,
+    7.16
+   ],
+   [
+    "area.",
+    7.16,
+    7.7
+   ],
+   [
+    "Cyclists",
+    8.3,
+    8.62
+   ],
+   [
+    "passed",
+    8.74,
+    8.88
+   ],
+   [
+    "major",
+    8.88,
+    9.24
+   ],
+   [
+    "landmarks",
+    9.24,
+    9.92
+   ],
+   [
+    "like",
+    9.92,
+    10.08
+   ],
+   [
+    "Tiananmen",
+    10.08,
+    10.5
+   ],
+   [
+    "Square.",
+    10.5,
+    11.1
+   ],
+   [
+    "The",
+    11.54,
+    11.6
+   ],
+   [
+    "route",
+    11.6,
+    11.76
+   ],
+   [
+    "climbed",
+    11.76,
+    12.06
+   ],
+   [
+    "7",
+    12.06,
+    12.58
+   ],
+   [
+    "loops",
+    12.58,
+    12.94
+   ],
+   [
+    "up",
+    12.94,
+    13.4
+   ],
+   [
+    "and",
+    13.5,
+    13.6
+   ],
+   [
+    "down",
+    13.6,
+    13.86
+   ],
+   [
+    "Badaling",
+    13.86,
+    14.42
+   ],
+   [
+    "Pass.",
+    14.42,
+    14.84
+   ],
+   [
+    "Samuel",
+    15.56,
+    15.82
+   ],
+   [
+    "Sánchez",
+    15.82,
+    16.3
+   ],
+   [
+    "won",
+    16.3,
+    16.68
+   ],
+   [
+    "after",
+    16.68,
+    17.04
+   ],
+   [
+    "a",
+    17.06,
+    17.2
+   ],
+   [
+    "six-man",
+    17.2,
+    17.7
+   ],
+   [
+    "group",
+    17.7,
+    17.98
+   ],
+   [
+    "contested",
+    17.98,
+    18.58
+   ],
+   [
+    "a",
+    18.6,
+    18.7
+   ],
+   [
+    "sprint",
+    18.7,
+    18.98
+   ],
+   [
+    "finish.",
+    18.98,
+    19.32
+   ],
+   [
+    "It",
+    19.9,
+    19.96
+   ],
+   [
+    "was",
+    19.96,
+    20.08
+   ],
+   [
+    "the",
+    20.08,
+    20.2
+   ],
+   [
+    "first",
+    20.28,
+    20.42
+   ],
+   [
+    "medal",
+    20.42,
+    20.68
+   ],
+   [
+    "in",
+    20.68,
+    20.84
+   ],
+   [
+    "the",
+    20.84,
+    20.92
+   ],
+   [
+    "event",
+    20.92,
+    21.16
+   ],
+   [
+    "for",
+    21.16,
+    21.38
+   ],
+   [
+    "Spain.",
+    21.38,
+    21.72
+   ],
+   [
+    "Italy",
+    22.48,
+    22.68
+   ],
+   [
+    "and",
+    22.68,
+    22.9
+   ],
+   [
+    "Switzerland",
+    22.9,
+    23.18
+   ],
+   [
+    "secured",
+    23.52,
+    23.62
+   ],
+   [
+    "silver",
+    23.62,
+    24.0
+   ],
+   [
+    "and",
+    24.0,
+    24.22
+   ],
+   [
+    "bronze",
+    24.28,
+    24.48
+   ],
+   [
+    "with",
+    24.48,
+    24.88
+   ],
+   [
+    "the",
+    24.88,
+    25.1
+   ],
+   [
+    "same",
+    25.1,
+    25.36
+   ],
+   [
+    "time.",
+    25.36,
+    25.46
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   23,
+   33,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2008_Olympic_cycling_road_race_men.JPG/960px-2008_Olympic_cycling_road_race_men.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 538,
+   "license": "CC BY-SA 3.0",
+   "artist": "Doma-w (talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:2008_Olympic_cycling_road_race_men.JPG",
+   "desc": "2008 Olympic cycling road race men — The field of the men's cycling road race at the 2008 Summer Olympics. Crossing: Yongdingmennei Dajiei - Zhushikou Dongdajie"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Beijing_Skyline_%286230262259%29.jpg/960px-Beijing_Skyline_%286230262259%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 501,
+   "license": "CC BY 2.0",
+   "artist": "Francisco Anzola",
+   "page": "https://commons.wikimedia.org/wiki/File:Beijing_Skyline_(6230262259).jpg",
+   "desc": "Beijing Skyline (6230262259) — Beijing Skyline"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Tiananmen_Square_4.jpg/960px-Tiananmen_Square_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "TarnishedPath",
+   "page": "https://commons.wikimedia.org/wiki/File:Tiananmen_Square_4.jpg",
+   "desc": "Tiananmen Square 4 — Photo of Tiananmen Square"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Great_Wall_of_Badaling_near_Badaling_Pass_3.jpg/960px-Great_Wall_of_Badaling_near_Badaling_Pass_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 386,
+   "license": "CC BY-SA 4.0",
+   "artist": "そらみみ",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_Badaling_near_Badaling_Pass_3.jpg",
+   "desc": "Great Wall of Badaling near Badaling Pass 3 — 八達嶺長城"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Samuel_Sanchez_%285978228332%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "www.instants-cyclistes.fr from France",
+   "page": "https://commons.wikimedia.org/wiki/File:Samuel_Sanchez_(5978228332).jpg",
+   "desc": "Samuel Sanchez (5978228332) — Samuel Sanchez"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 245.4,
+   "unit": "km",
+   "label": "road race"
+  },
+  {
+   "type": "timeline",
+   "year": 2008
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "loops",
+   "label": "Badaling Pass"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1063589",
+ "pron_wer": 0.06,
+ "angle": 0,
+ "source": {
+  "title": "Cycling at the 2008 Summer Olympics – Men's individual road race",
+  "url": "https://en.wikipedia.org/wiki/Cycling_at_the_2008_Summer_Olympics_%E2%80%93_Men%27s_individual_road_race",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T08:58:10Z",
+ "trimmed": true
+}

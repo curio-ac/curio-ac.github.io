@@ -267,7 +267,8 @@
   "Dime Mystery Magazine",
   "nasa:1282051",
   "Birth control movement in the United States",
-  "nasa:1283107"
+  "nasa:1283107",
+  "Assassination of Talaat Pasha"
  ],
  "rejected": [
   "Chameleon",
@@ -1211,6 +1212,9 @@
   ],
   "nasa:1283107": [
    "Wildfires Make Their Own Weather: Wildfires can actually create their own thunderstorms."
+  ],
+  "Assassination of Talaat Pasha": [
+   "The Assassin Who Was Acquitted: A jury acquitted an assassin in 1921."
   ]
  },
  "exhausted": []
