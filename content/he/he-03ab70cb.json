@@ -1,0 +1,341 @@
+{
+ "id": "he-03ab70cb",
+ "lang": "he",
+ "title": "ניסוי האנתרקס הסודי בצה\"ל",
+ "cat": "medicine",
+ "emoji": "🧫",
+ "sentences": [
+  "צה\"ל ערך ניסוי סודי בבני אדם.",
+  "בין השנים 1998–2006, 716 חיילים וחיילות השתתפו בניסוי חיסון נגד אנתרקס.",
+  "הניסוי מומן על ידי ממשלת ארצות הברית.",
+  "חלק מהחיילים סבלו מתופעות לוואי ומחלות כרוניות.",
+  "העיתונאי עמרי אסנהיים חשף את הפרשה בתוכנית \"עובדה\".",
+  "ועדה רפואית קבעה שלניסוי לא הייתה הצדקה מדעית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "צה\"ל",
+    0.06,
+    0.38
+   ],
+   [
+    "ערך",
+    0.38,
+    0.64
+   ],
+   [
+    "ניסוי",
+    0.64,
+    1.14
+   ],
+   [
+    "סודי",
+    1.14,
+    1.56
+   ],
+   [
+    "בבני",
+    1.56,
+    1.9
+   ],
+   [
+    "אדם.",
+    1.9,
+    2.28
+   ],
+   [
+    "בין",
+    2.88,
+    3.06
+   ],
+   [
+    "השנים",
+    3.06,
+    3.36
+   ],
+   [
+    "1998–2006,",
+    3.36,
+    4.11
+   ],
+   [
+    "716",
+    6.16,
+    6.9
+   ],
+   [
+    "חיילים",
+    6.9,
+    7.5
+   ],
+   [
+    "וחיילות",
+    7.5,
+    8.0
+   ],
+   [
+    "השתתפו",
+    8.0,
+    8.48
+   ],
+   [
+    "בניסוי",
+    8.48,
+    8.94
+   ],
+   [
+    "חיסון",
+    8.94,
+    9.36
+   ],
+   [
+    "נגד",
+    9.36,
+    9.62
+   ],
+   [
+    "אנתרקס.",
+    9.62,
+    9.98
+   ],
+   [
+    "הניסוי",
+    10.66,
+    11.12
+   ],
+   [
+    "מומן",
+    11.12,
+    11.5
+   ],
+   [
+    "על",
+    11.5,
+    11.6
+   ],
+   [
+    "ידי",
+    11.6,
+    11.78
+   ],
+   [
+    "ממשלת",
+    11.78,
+    12.34
+   ],
+   [
+    "ארצות",
+    12.36,
+    12.62
+   ],
+   [
+    "הברית.",
+    12.62,
+    12.86
+   ],
+   [
+    "חלק",
+    13.56,
+    13.74
+   ],
+   [
+    "מהחיילים",
+    13.74,
+    14.34
+   ],
+   [
+    "סבלו",
+    14.36,
+    14.68
+   ],
+   [
+    "מתופעות",
+    14.68,
+    15.16
+   ],
+   [
+    "לוואי",
+    15.18,
+    15.56
+   ],
+   [
+    "ומחלות",
+    15.56,
+    16.06
+   ],
+   [
+    "כרוניות.",
+    16.06,
+    16.42
+   ],
+   [
+    "העיתונאי",
+    17.12,
+    17.58
+   ],
+   [
+    "עמרי",
+    17.58,
+    17.86
+   ],
+   [
+    "אסנהיים",
+    17.86,
+    18.4
+   ],
+   [
+    "חשף",
+    18.4,
+    18.84
+   ],
+   [
+    "את",
+    18.84,
+    18.92
+   ],
+   [
+    "הפרשה",
+    18.92,
+    19.4
+   ],
+   [
+    "בתוכנית",
+    19.4,
+    19.9
+   ],
+   [
+    "\"עובדה\".",
+    19.9,
+    20.28
+   ],
+   [
+    "ועדה",
+    20.94,
+    21.2
+   ],
+   [
+    "רפואית",
+    21.2,
+    21.6
+   ],
+   [
+    "קבעה",
+    21.68,
+    22.02
+   ],
+   [
+    "שלניסוי",
+    22.02,
+    22.62
+   ],
+   [
+    "לא",
+    22.62,
+    22.84
+   ],
+   [
+    "הייתה",
+    22.84,
+    23.1
+   ],
+   [
+    "הצדקה",
+    23.1,
+    23.48
+   ],
+   [
+    "מדעית.",
+    23.48,
+    23.72
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   24,
+   31,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D7%9B%D7%A8%D7%98%D7%99%D7%A1_%D7%9E%D7%A9%D7%AA%D7%AA%D7%A3_%D7%A2%D7%95%D7%9E%D7%A8_2.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 469,
+   "license": "CC BY-SA 3.0",
+   "artist": "דובר צה\"ל",
+   "page": "https://commons.wikimedia.org/wiki/File:%D7%9B%D7%A8%D7%98%D7%99%D7%A1_%D7%9E%D7%A9%D7%AA%D7%AA%D7%A3_%D7%A2%D7%95%D7%9E%D7%A8_2.jpg",
+   "desc": "כרטיס משתתף עומר 2 — כרטיס אישי צה\"לי למשתתף בניסוי \"עומר 2\"."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/960px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 803,
+   "license": "CC BY 2.5",
+   "artist": "Diliff",
+   "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+   "desc": "US Capitol dome Jan 2006 — The dome of the US Capitol building."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Committee_of_consultants_for_the_study_of_indexes_to_medical_literature.png/960px-Committee_of_consultants_for_the_study_of_indexes_to_medical_literature.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Committee_of_consultants_for_the_study_of_indexes_to_medical_literature.png",
+   "desc": "Committee of consultants for the study of indexes to medical literature — Group portrait of Dr. Lewis H. Weed, Chairman, Dr. John F. Fulton, Dr. Sanford V. Larkey, Dr. Chauncey D. Leake, Dr. William S. Middleton, Dr. Ebbe C. Hoff, Dr. Eugene W. Scott, Dr. Mort"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 716,
+   "unit": "חיילים",
+   "label": "משתתפים בניסוי"
+  },
+  {
+   "type": "timeline",
+   "year": 1998
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q109789400",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "פרשת ניסוי האנתרקס",
+  "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%A0%D7%99%D7%A1%D7%95%D7%99_%D7%94%D7%90%D7%A0%D7%AA%D7%A8%D7%A7%D7%A1",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T12:56:53Z",
+ "trimmed": true
+}
