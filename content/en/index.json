@@ -274,7 +274,8 @@
   "Broad Ripple Park Carousel",
   "AMX-30E",
   "Bicentennial Capitol Mall State Park",
-  "nasa:1351363"
+  "nasa:1351363",
+  "nasa:1487818"
  ],
  "rejected": [
   "Chameleon",
@@ -1242,6 +1243,9 @@
   ],
   "nasa:1351363": [
    "Arctic Melt Season Levels Off: The Arctic melt season has hit a plateau."
+  ],
+  "nasa:1487818": [
+   "Perseverance Breaks Mars Record: Perseverance just beat Opportunity’s total Mars driving distance."
   ]
  },
  "exhausted": []
