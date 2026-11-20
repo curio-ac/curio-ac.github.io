@@ -1,7 +1,19 @@
 {
  "lang": "he",
- "exhausted_day": "2026-11-19",
+ "exhausted_day": null,
  "runs": [
+  {
+   "at": "2026-11-20T11:59:07Z",
+   "made": 2,
+   "rejected": 1,
+   "repaired": 5,
+   "calls": 34,
+   "notes": [
+    "טוני בנט: Expecting ',' delimiter: line 8 column 34 (char 244)",
+    "הר געש: fact-check",
+    "repair he-a238e923: 8.1% of words misheard"
+   ]
+  },
   {
    "at": "2026-11-19T12:03:02Z",
    "made": 5,
