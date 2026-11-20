@@ -1,0 +1,409 @@
+{
+ "id": "en-f3668d72",
+ "lang": "en",
+ "title": "Cambridge Dominates Boat Race 2019",
+ "cat": "history",
+ "emoji": "🚣",
+ "sentences": [
+  "Cambridge swept every single rowing race!",
+  "The 2019 event took place on 7 April along the River Thames.",
+  "This was the 165th men's race and 74th women's race.",
+  "Cambridge women won their third consecutive victory by a considerable margin.",
+  "The men's win completed a second consecutive whitewash for Cambridge.",
+  "Thousands watched live as Cambridge claimed total victory across all events."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cambridge",
+    0.35,
+    0.35
+   ],
+   [
+    "swept",
+    0.35,
+    0.79
+   ],
+   [
+    "every",
+    0.79,
+    1.39
+   ],
+   [
+    "single",
+    1.39,
+    1.81
+   ],
+   [
+    "rowing",
+    2.11,
+    2.21
+   ],
+   [
+    "race!",
+    2.21,
+    2.95
+   ],
+   [
+    "The",
+    2.97,
+    2.99
+   ],
+   [
+    "2019",
+    2.99,
+    3.45
+   ],
+   [
+    "event",
+    3.45,
+    3.91
+   ],
+   [
+    "took",
+    3.91,
+    4.21
+   ],
+   [
+    "place",
+    4.21,
+    4.47
+   ],
+   [
+    "on",
+    4.47,
+    4.67
+   ],
+   [
+    "7",
+    4.73,
+    4.97
+   ],
+   [
+    "April",
+    4.97,
+    5.35
+   ],
+   [
+    "along",
+    5.35,
+    5.73
+   ],
+   [
+    "the",
+    5.73,
+    5.93
+   ],
+   [
+    "River",
+    5.93,
+    6.09
+   ],
+   [
+    "Thames.",
+    6.09,
+    6.33
+   ],
+   [
+    "This",
+    7.25,
+    7.25
+   ],
+   [
+    "was",
+    7.25,
+    7.41
+   ],
+   [
+    "the",
+    7.43,
+    7.53
+   ],
+   [
+    "165th",
+    7.53,
+    8.97
+   ],
+   [
+    "men's",
+    8.97,
+    9.27
+   ],
+   [
+    "race",
+    9.27,
+    9.49
+   ],
+   [
+    "and",
+    9.49,
+    9.91
+   ],
+   [
+    "74th",
+    9.91,
+    10.77
+   ],
+   [
+    "women's",
+    10.77,
+    11.09
+   ],
+   [
+    "race.",
+    11.09,
+    11.71
+   ],
+   [
+    "Cambridge",
+    11.75,
+    11.95
+   ],
+   [
+    "women",
+    11.95,
+    12.29
+   ],
+   [
+    "won",
+    12.29,
+    12.63
+   ],
+   [
+    "their",
+    12.63,
+    12.83
+   ],
+   [
+    "third",
+    12.83,
+    13.23
+   ],
+   [
+    "consecutive",
+    13.23,
+    13.81
+   ],
+   [
+    "victory",
+    13.81,
+    14.23
+   ],
+   [
+    "by",
+    14.23,
+    14.71
+   ],
+   [
+    "a",
+    14.71,
+    14.87
+   ],
+   [
+    "considerable",
+    15.09,
+    15.35
+   ],
+   [
+    "margin.",
+    15.35,
+    15.81
+   ],
+   [
+    "The",
+    16.53,
+    16.57
+   ],
+   [
+    "men's",
+    16.57,
+    16.83
+   ],
+   [
+    "win",
+    16.83,
+    16.99
+   ],
+   [
+    "completed",
+    16.99,
+    17.41
+   ],
+   [
+    "a",
+    17.41,
+    17.67
+   ],
+   [
+    "second",
+    17.67,
+    18.09
+   ],
+   [
+    "consecutive",
+    18.09,
+    18.59
+   ],
+   [
+    "whitewash",
+    18.65,
+    19.19
+   ],
+   [
+    "for",
+    19.19,
+    19.37
+   ],
+   [
+    "Cambridge.",
+    19.37,
+    19.61
+   ],
+   [
+    "Thousands",
+    20.39,
+    20.69
+   ],
+   [
+    "watched",
+    20.69,
+    21.05
+   ],
+   [
+    "live",
+    21.05,
+    21.39
+   ],
+   [
+    "as",
+    21.39,
+    21.63
+   ],
+   [
+    "Cambridge",
+    21.63,
+    21.91
+   ],
+   [
+    "claimed",
+    21.91,
+    22.29
+   ],
+   [
+    "total",
+    22.29,
+    22.71
+   ],
+   [
+    "victory",
+    22.71,
+    23.23
+   ],
+   [
+    "across",
+    23.23,
+    23.65
+   ],
+   [
+    "all",
+    23.65,
+    24.05
+   ],
+   [
+    "events.",
+    24.05,
+    24.17
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   28,
+   39,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Cambridge_winning_the_2019_Boat_Race_01.jpg/960px-Cambridge_winning_the_2019_Boat_Race_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Chris McKenna",
+   "page": "https://commons.wikimedia.org/wiki/File:Cambridge_winning_the_2019_Boat_Race_01.jpg",
+   "desc": "Cambridge winning the 2019 Boat Race 01 — Cambridge winning the 2019 Boat Race"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cambridge_winning_the_2019_Women%27s_Boat_Race.jpg/960px-Cambridge_winning_the_2019_Women%27s_Boat_Race.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Chris McKenna",
+   "page": "https://commons.wikimedia.org/wiki/File:Cambridge_winning_the_2019_Women%27s_Boat_Race.jpg",
+   "desc": "Cambridge winning the 2019 Women's Boat Race — Cambridge winning the 2019 Women's Boat Race"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Crowds_of_spectators_during_the_the_Boat_Race_in_spring_2013_%283%29.JPG/960px-Crowds_of_spectators_during_the_the_Boat_Race_in_spring_2013_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Chmee2",
+   "page": "https://commons.wikimedia.org/wiki/File:Crowds_of_spectators_during_the_the_Boat_Race_in_spring_2013_(3).JPG",
+   "desc": "Crowds of spectators during the the Boat Race in spring 2013 (3) — Crowds of fans during the Boat Race on River Themes in London, England, Great Britain"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  0,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2019
+  },
+  {
+   "type": "stat",
+   "value": 165,
+   "unit": "race",
+   "label": "men's race"
+  },
+  {
+   "type": "stat",
+   "value": 44,
+   "unit": "wins",
+   "label": "Cambridge overall"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q56042728",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "The Boat Race 2019",
+  "url": "https://en.wikipedia.org/wiki/The_Boat_Race_2019",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T22:10:04Z",
+ "trimmed": true
+}

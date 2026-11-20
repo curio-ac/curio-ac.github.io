@@ -303,7 +303,8 @@
   "nasa:1500914",
   "Bone Wars",
   "nasa:1441735",
-  "Sophie Blanchard"
+  "Sophie Blanchard",
+  "nasa:481009"
  ],
  "rejected": [
   "Chameleon",
@@ -1371,6 +1372,9 @@
   ],
   "Sophie Blanchard": [
    "The First Female Aeronaut: She was history's first professional female balloonist."
+  ],
+  "nasa:481009": [
+   "The Truth About Equinoxes: Equinoxes don't actually give you equal daylight."
   ]
  },
  "exhausted": []
