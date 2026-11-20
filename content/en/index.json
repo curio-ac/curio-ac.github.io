@@ -305,7 +305,8 @@
   "nasa:1441735",
   "Sophie Blanchard",
   "nasa:481009",
-  "The Boat Race 2019"
+  "The Boat Race 2019",
+  "nasa:1480026"
  ],
  "rejected": [
   "Chameleon",
@@ -1379,6 +1380,9 @@
   ],
   "The Boat Race 2019": [
    "Cambridge Dominates Boat Race 2019: Cambridge swept every single rowing race!"
+  ],
+  "nasa:1480026": [
+   "Spider Crater's Leaky Legs: This bizarre crater's appearance causes a fright."
   ]
  },
  "exhausted": []

@@ -1,0 +1,456 @@
+{
+ "id": "en-81c922d0",
+ "lang": "en",
+ "title": "The BBC Mastermind Director",
+ "cat": "history",
+ "emoji": "📺",
+ "sentences": [
+  "He was credited under a different name first!",
+  "Rudolph Cartier was an Austrian director who moved to the UK in 1935.",
+  "After starting in Berlin, he did scripting work for the BBC in 1939.",
+  "In the 1950s, he teamed up with screenwriter Nigel Kneale.",
+  "They famously adapted George Orwell's Nineteen Eighty-Four.",
+  "He produced and directed over 120 productions.",
+  "He ended his long television career with the play Loyalties in 1976."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.02,
+    0.12
+   ],
+   [
+    "was",
+    0.12,
+    0.28
+   ],
+   [
+    "credited",
+    0.28,
+    0.64
+   ],
+   [
+    "under",
+    0.64,
+    1.02
+   ],
+   [
+    "a",
+    1.02,
+    1.24
+   ],
+   [
+    "different",
+    1.42,
+    1.52
+   ],
+   [
+    "name",
+    1.52,
+    1.96
+   ],
+   [
+    "first!",
+    1.96,
+    2.86
+   ],
+   [
+    "Rudolph",
+    2.98,
+    3.26
+   ],
+   [
+    "Cartier",
+    3.26,
+    3.78
+   ],
+   [
+    "was",
+    3.78,
+    4.06
+   ],
+   [
+    "an",
+    4.06,
+    4.18
+   ],
+   [
+    "Austrian",
+    4.18,
+    4.6
+   ],
+   [
+    "director",
+    4.66,
+    5.04
+   ],
+   [
+    "who",
+    5.24,
+    5.34
+   ],
+   [
+    "moved",
+    5.34,
+    5.56
+   ],
+   [
+    "to",
+    5.56,
+    5.72
+   ],
+   [
+    "the",
+    5.72,
+    5.82
+   ],
+   [
+    "UK",
+    5.82,
+    6.06
+   ],
+   [
+    "in",
+    6.06,
+    6.4
+   ],
+   [
+    "1935.",
+    6.4,
+    7.36
+   ],
+   [
+    "After",
+    7.88,
+    8.08
+   ],
+   [
+    "starting",
+    8.08,
+    8.36
+   ],
+   [
+    "in",
+    8.36,
+    8.54
+   ],
+   [
+    "Berlin,",
+    8.54,
+    9.0
+   ],
+   [
+    "he",
+    9.26,
+    9.3
+   ],
+   [
+    "did",
+    9.3,
+    9.42
+   ],
+   [
+    "scripting",
+    9.42,
+    9.92
+   ],
+   [
+    "work",
+    9.92,
+    10.1
+   ],
+   [
+    "for",
+    10.18,
+    10.28
+   ],
+   [
+    "the",
+    10.28,
+    10.38
+   ],
+   [
+    "BBC",
+    10.38,
+    10.66
+   ],
+   [
+    "in",
+    10.66,
+    11.16
+   ],
+   [
+    "1939.",
+    11.16,
+    12.1
+   ],
+   [
+    "In",
+    12.64,
+    12.74
+   ],
+   [
+    "the",
+    12.74,
+    12.82
+   ],
+   [
+    "1950s,",
+    12.82,
+    13.27
+   ],
+   [
+    "he",
+    13.88,
+    13.94
+   ],
+   [
+    "teamed",
+    13.96,
+    14.16
+   ],
+   [
+    "up",
+    14.16,
+    14.34
+   ],
+   [
+    "with",
+    14.34,
+    14.48
+   ],
+   [
+    "screenwriter",
+    14.48,
+    14.98
+   ],
+   [
+    "Nigel",
+    14.98,
+    15.5
+   ],
+   [
+    "Kneale.",
+    15.5,
+    15.8
+   ],
+   [
+    "They",
+    16.3,
+    16.4
+   ],
+   [
+    "famously",
+    16.4,
+    16.8
+   ],
+   [
+    "adapted",
+    16.8,
+    17.26
+   ],
+   [
+    "George",
+    17.28,
+    17.62
+   ],
+   [
+    "Orwell's",
+    17.62,
+    18.2
+   ],
+   [
+    "Nineteen",
+    18.2,
+    18.68
+   ],
+   [
+    "Eighty-Four.",
+    18.68,
+    18.88
+   ],
+   [
+    "He",
+    19.8,
+    19.9
+   ],
+   [
+    "produced",
+    19.9,
+    20.2
+   ],
+   [
+    "and",
+    20.2,
+    20.5
+   ],
+   [
+    "directed",
+    20.5,
+    20.82
+   ],
+   [
+    "over",
+    20.82,
+    21.08
+   ],
+   [
+    "120",
+    21.08,
+    21.82
+   ],
+   [
+    "productions.",
+    21.82,
+    22.57
+   ],
+   [
+    "He",
+    23.34,
+    23.44
+   ],
+   [
+    "ended",
+    23.44,
+    23.72
+   ],
+   [
+    "his",
+    23.72,
+    23.94
+   ],
+   [
+    "long",
+    23.94,
+    24.22
+   ],
+   [
+    "television",
+    24.22,
+    24.54
+   ],
+   [
+    "career",
+    24.54,
+    25.0
+   ],
+   [
+    "with",
+    25.0,
+    25.2
+   ],
+   [
+    "the",
+    25.2,
+    25.32
+   ],
+   [
+    "play",
+    25.32,
+    25.5
+   ],
+   [
+    "Loyalties",
+    25.5,
+    26.12
+   ],
+   [
+    "in",
+    26.32,
+    26.42
+   ],
+   [
+    "1976.",
+    26.42,
+    26.94
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   21,
+   34,
+   44,
+   51,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/BBC_Broadcasting_House%2C_London_-_geograph.org.uk_-_4148694.jpg/960px-BBC_Broadcasting_House%2C_London_-_geograph.org.uk_-_4148694.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 2.0",
+   "artist": "Paul Gillett",
+   "page": "https://commons.wikimedia.org/wiki/File:BBC_Broadcasting_House,_London_-_geograph.org.uk_-_4148694.jpg",
+   "desc": "BBC Broadcasting House, London - geograph.org.uk - 4148694 — BBC Broadcasting House, London"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Nineteen_Eighty-Four_cover_by_Penguin.jpg/960px-Nineteen_Eighty-Four_cover_by_Penguin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 2.0",
+   "artist": "Sally Wilson",
+   "page": "https://commons.wikimedia.org/wiki/File:Nineteen_Eighty-Four_cover_by_Penguin.jpg",
+   "desc": "Nineteen Eighty-Four cover by Penguin — This book jacket uses the classic Penguin design of two balanced bars of orange and minimal text. On this jacket the title and author have been censored which reflects the theme of the book. In case you are wondering the"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1935
+  },
+  {
+   "type": "timeline",
+   "year": 1939
+  },
+  {
+   "type": "timeline",
+   "year": 1950
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 120,
+   "unit": "productions",
+   "label": "over 120 productions"
+  },
+  {
+   "type": "timeline",
+   "year": 1976
+  }
+ ],
+ "geo": null,
+ "qid": "Q113835",
+ "pron_wer": 0.069,
+ "angle": 0,
+ "source": {
+  "title": "Rudolph Cartier",
+  "url": "https://en.wikipedia.org/wiki/Rudolph_Cartier",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T22:31:59Z",
+ "trimmed": true
+}
