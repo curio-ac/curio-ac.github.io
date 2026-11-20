@@ -289,7 +289,8 @@
   "nasa:1505059",
   "Bharattherium",
   "Coventry ring road",
-  "nasa:1504151"
+  "nasa:1504151",
+  "Banksia petiolaris"
  ],
  "rejected": [
   "Chameleon",
@@ -1308,6 +1309,9 @@
   ],
   "nasa:1504151": [
    "NASA's Secret Asteroid Hunter: NASA is hunting asteroids hiding near the Sun."
+  ],
+  "Banksia petiolaris": [
+   "The Plant With Eternal Leaves: This plant grows leaves that last 13 years."
   ]
  },
  "exhausted": []

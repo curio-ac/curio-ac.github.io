@@ -1,0 +1,287 @@
+{
+ "id": "en-6478a82f",
+ "lang": "en",
+ "title": "Giant Ice Island Survives Crash",
+ "cat": "geography",
+ "emoji": "🧊",
+ "sentences": [
+  "A colossal ice island just broke off Greenland.",
+  "It measures a massive 29 square miles in size.",
+  "The floating slab drifted straight toward Joe Island.",
+  "Past collisions completely shattered bergs here.",
+  "Miraculously, this giant survived the crash intact."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.2,
+    0.2
+   ],
+   [
+    "colossal",
+    0.2,
+    0.74
+   ],
+   [
+    "ice",
+    0.74,
+    0.92
+   ],
+   [
+    "island",
+    0.92,
+    1.32
+   ],
+   [
+    "just",
+    1.32,
+    1.62
+   ],
+   [
+    "broke",
+    1.62,
+    1.9
+   ],
+   [
+    "off",
+    1.9,
+    2.12
+   ],
+   [
+    "Greenland.",
+    2.12,
+    2.7
+   ],
+   [
+    "It",
+    3.06,
+    3.16
+   ],
+   [
+    "measures",
+    3.16,
+    3.46
+   ],
+   [
+    "a",
+    3.46,
+    3.62
+   ],
+   [
+    "massive",
+    3.62,
+    3.9
+   ],
+   [
+    "29",
+    3.9,
+    4.46
+   ],
+   [
+    "square",
+    4.46,
+    4.74
+   ],
+   [
+    "miles",
+    4.74,
+    5.16
+   ],
+   [
+    "in",
+    5.16,
+    5.32
+   ],
+   [
+    "size.",
+    5.32,
+    5.68
+   ],
+   [
+    "The",
+    6.38,
+    6.48
+   ],
+   [
+    "floating",
+    6.48,
+    6.72
+   ],
+   [
+    "slab",
+    6.72,
+    7.06
+   ],
+   [
+    "drifted",
+    7.06,
+    7.54
+   ],
+   [
+    "straight",
+    7.54,
+    7.78
+   ],
+   [
+    "toward",
+    7.78,
+    8.06
+   ],
+   [
+    "Joe",
+    8.06,
+    8.3
+   ],
+   [
+    "Island.",
+    8.3,
+    8.78
+   ],
+   [
+    "Past",
+    9.34,
+    9.52
+   ],
+   [
+    "collisions",
+    9.52,
+    9.92
+   ],
+   [
+    "completely",
+    9.92,
+    10.5
+   ],
+   [
+    "shattered",
+    10.5,
+    10.92
+   ],
+   [
+    "bergs",
+    10.92,
+    11.34
+   ],
+   [
+    "here.",
+    11.34,
+    11.52
+   ],
+   [
+    "Miraculously,",
+    12.04,
+    12.94
+   ],
+   [
+    "this",
+    13.14,
+    13.24
+   ],
+   [
+    "giant",
+    13.24,
+    13.52
+   ],
+   [
+    "survived",
+    13.52,
+    13.8
+   ],
+   [
+    "the",
+    13.8,
+    14.12
+   ],
+   [
+    "crash",
+    14.18,
+    14.36
+   ],
+   [
+    "intact.",
+    14.36,
+    14.82
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   31
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ice_Island_Survives_Run-In_With_Joe_Island_%281281157_-_oli_20260823_lrg%29.jpg/960px-Ice_Island_Survives_Run-In_With_Joe_Island_%281281157_-_oli_20260823_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 659,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Ice_Island_Survives_Run-In_With_Joe_Island_(1281157_-_oli_20260823_lrg).jpg",
+   "desc": "Ice Island Survives Run-In With Joe Island (1281157 - oli 20260823 lrg) — An iceberg from Petermann Glacier encounters Joe Island in northwestern Greenland, visible in images captured by the OLI (Operational Land Imager) on Landsat 9 on August 23, 2026 (right)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Iceberg_shattered_%2849525854597%29.jpg/960px-Iceberg_shattered_%2849525854597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 574,
+   "license": "CC BY-SA 2.0",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:Iceberg_shattered_(49525854597).jpg",
+   "desc": "Iceberg shattered (49525854597) — The Pine Island Glacier recently spawned an iceberg over 300 sq km that very quickly shattered into pieces. This almost cloud-free image, captured on 11 February by the Copernicus Sentinel-2 mission, shows the freshly br"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  1,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 29,
+   "unit": "sq mi",
+   "label": "size of island"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "the iceberg",
+   "box": [
+    212,
+    142,
+    1000,
+    843
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+ "pron_wer": 0.053,
+ "angle": 0,
+ "source": {
+  "title": "Ice Island Survives Run-In With Joe Island",
+  "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T16:49:03Z",
+ "trimmed": true
+}
