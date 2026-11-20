@@ -292,7 +292,8 @@
   "nasa:1504151",
   "Banksia petiolaris",
   "1912 suspension of Ty Cobb",
-  "Dhoby Ghaut MRT station"
+  "Dhoby Ghaut MRT station",
+  "Charles Edward, Duke of Saxe-Coburg and Gotha"
  ],
  "rejected": [
   "Chameleon",
@@ -364,7 +365,9 @@
   "Bronwyn Bancroft",
   "nasa:1507747",
   "nasa:1277845",
-  "Stan Coveleski"
+  "Stan Coveleski",
+  "nasa:1391338",
+  "Abu Nidal"
  ],
  "angles": {
   "Blue whale": [
@@ -1320,6 +1323,9 @@
   ],
   "Dhoby Ghaut MRT station": [
    "Singapore's Deepest Subway Giant: This massive subway station goes 28 meters deep."
+  ],
+  "Charles Edward, Duke of Saxe-Coburg and Gotha": [
+   "The Nazi British Prince: A British prince became a Nazi politician."
   ]
  },
  "exhausted": []

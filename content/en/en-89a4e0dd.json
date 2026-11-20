@@ -1,0 +1,444 @@
+{
+ "id": "en-89a4e0dd",
+ "lang": "en",
+ "title": "Bryce Canyon Is Not A Canyon",
+ "cat": "geography",
+ "emoji": "🏜️",
+ "sentences": [
+  "Bryce Canyon is actually not a canyon.",
+  "It is a collection of giant natural amphitheaters.",
+  "These features are located along the Paunsaugunt Plateau in Utah.",
+  "The park is famous for geological structures called hoodoos.",
+  "Frost weathering and stream erosion created these unique shapes.",
+  "Red, orange, and white rocks provide distinctive views.",
+  "It sits at a much higher elevation than nearby Zion."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Bryce",
+    0.06,
+    0.18
+   ],
+   [
+    "Canyon",
+    0.18,
+    0.56
+   ],
+   [
+    "is",
+    0.56,
+    0.94
+   ],
+   [
+    "actually",
+    0.94,
+    1.36
+   ],
+   [
+    "not",
+    1.36,
+    1.68
+   ],
+   [
+    "a",
+    1.68,
+    1.88
+   ],
+   [
+    "canyon.",
+    1.88,
+    2.32
+   ],
+   [
+    "It",
+    2.72,
+    2.72
+   ],
+   [
+    "is",
+    2.72,
+    2.84
+   ],
+   [
+    "a",
+    2.84,
+    2.96
+   ],
+   [
+    "collection",
+    2.98,
+    3.32
+   ],
+   [
+    "of",
+    3.32,
+    3.62
+   ],
+   [
+    "giant",
+    3.62,
+    4.06
+   ],
+   [
+    "natural",
+    4.06,
+    4.6
+   ],
+   [
+    "amphitheaters.",
+    4.6,
+    5.45
+   ],
+   [
+    "These",
+    5.94,
+    6.06
+   ],
+   [
+    "features",
+    6.26,
+    6.36
+   ],
+   [
+    "are",
+    6.36,
+    6.68
+   ],
+   [
+    "located",
+    6.68,
+    7.06
+   ],
+   [
+    "along",
+    7.06,
+    7.44
+   ],
+   [
+    "the",
+    7.44,
+    7.66
+   ],
+   [
+    "Paunsaugunt",
+    7.66,
+    8.32
+   ],
+   [
+    "Plateau",
+    8.32,
+    8.88
+   ],
+   [
+    "in",
+    8.88,
+    9.04
+   ],
+   [
+    "Utah.",
+    9.04,
+    9.52
+   ],
+   [
+    "The",
+    10.04,
+    10.06
+   ],
+   [
+    "park",
+    10.06,
+    10.28
+   ],
+   [
+    "is",
+    10.28,
+    10.5
+   ],
+   [
+    "famous",
+    10.5,
+    10.88
+   ],
+   [
+    "for",
+    10.88,
+    11.16
+   ],
+   [
+    "geological",
+    11.16,
+    11.74
+   ],
+   [
+    "structures",
+    11.74,
+    12.22
+   ],
+   [
+    "called",
+    12.22,
+    12.56
+   ],
+   [
+    "hoodoos.",
+    12.56,
+    13.16
+   ],
+   [
+    "Frost",
+    13.72,
+    13.9
+   ],
+   [
+    "weathering",
+    13.9,
+    14.44
+   ],
+   [
+    "and",
+    14.44,
+    14.58
+   ],
+   [
+    "stream",
+    14.58,
+    14.86
+   ],
+   [
+    "erosion",
+    14.86,
+    15.24
+   ],
+   [
+    "created",
+    15.24,
+    15.7
+   ],
+   [
+    "these",
+    15.7,
+    16.02
+   ],
+   [
+    "unique",
+    16.02,
+    16.28
+   ],
+   [
+    "shapes.",
+    16.28,
+    17.08
+   ],
+   [
+    "Red,",
+    17.28,
+    17.64
+   ],
+   [
+    "orange,",
+    17.66,
+    18.12
+   ],
+   [
+    "and",
+    18.18,
+    18.18
+   ],
+   [
+    "white",
+    18.18,
+    18.42
+   ],
+   [
+    "rocks",
+    18.6,
+    18.7
+   ],
+   [
+    "provide",
+    18.7,
+    19.04
+   ],
+   [
+    "distinctive",
+    19.04,
+    19.54
+   ],
+   [
+    "views.",
+    19.54,
+    20.12
+   ],
+   [
+    "It",
+    20.56,
+    20.6
+   ],
+   [
+    "sits",
+    20.64,
+    20.8
+   ],
+   [
+    "at",
+    20.8,
+    21.02
+   ],
+   [
+    "a",
+    21.02,
+    21.08
+   ],
+   [
+    "much",
+    21.08,
+    21.34
+   ],
+   [
+    "higher",
+    21.34,
+    21.62
+   ],
+   [
+    "elevation",
+    21.62,
+    22.16
+   ],
+   [
+    "than",
+    22.16,
+    22.42
+   ],
+   [
+    "nearby",
+    22.42,
+    22.76
+   ],
+   [
+    "Zion.",
+    22.76,
+    23.12
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   25,
+   34,
+   43,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bryce_Amphitheater_from_Sunset_Point_2019.jpg/960px-Bryce_Amphitheater_from_Sunset_Point_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 257,
+   "license": "CC BY-SA 4.0",
+   "artist": "Taewangkorea",
+   "page": "https://commons.wikimedia.org/wiki/File:Bryce_Amphitheater_from_Sunset_Point_2019.jpg",
+   "desc": "Bryce Amphitheater from Sunset Point 2019 — Panoramic view of Bryce Amphitheater from Sunset Point"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bryce_canyon_Panorama.jpg/960px-Bryce_canyon_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 240,
+   "license": "CC BY-SA 4.0",
+   "artist": "Lucavanmeijl",
+   "page": "https://commons.wikimedia.org/wiki/File:Bryce_canyon_Panorama.jpg",
+   "desc": "Bryce canyon Panorama — Sunrise point (i think), made by Luca van Meijl"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Thor%27s_Hammer_-_Bryce_Canyon.jpg/960px-Thor%27s_Hammer_-_Bryce_Canyon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 271,
+   "license": "CC BY 3.0",
+   "artist": "Martyn Jones",
+   "page": "https://commons.wikimedia.org/wiki/File:Thor%27s_Hammer_-_Bryce_Canyon.jpg",
+   "desc": "Thor's Hammer - Bryce Canyon — Thor's Hammer - Bryce Canyon"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Natural_Bridge%2C_Bryce_Canyon_National_Park%2C_Utah.jpg/960px-Natural_Bridge%2C_Bryce_Canyon_National_Park%2C_Utah.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Christian David",
+   "page": "https://commons.wikimedia.org/wiki/File:Natural_Bridge,_Bryce_Canyon_National_Park,_Utah.jpg",
+   "desc": "Natural Bridge, Bryce Canyon National Park, Utah — Natural Bridge, a sandstone arch in Bryce Canyon National Park, seen head-on. Panorama stitched from several source photographs."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg/960px-Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 432,
+   "license": "CC BY-SA 4.0",
+   "artist": "King of Hearts",
+   "page": "https://commons.wikimedia.org/wiki/File:Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg",
+   "desc": "Inspiration Point Bryce Canyon November 2018 panorama — Four-segment panorama of Inspiration Point, Bryce Canyon National Park."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "focus",
+   "target": "hoodoos",
+   "box": [
+    20,
+    220,
+    980,
+    990
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 2400,
+   "dim": "length",
+   "unit_value_in": "m"
+  }
+ ],
+ "geo": [
+  37.64,
+  -112.17
+ ],
+ "qid": "Q219562",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Bryce Canyon National Park",
+  "url": "https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T18:06:13Z",
+ "trimmed": true
+}
