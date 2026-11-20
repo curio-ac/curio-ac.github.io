@@ -1,0 +1,417 @@
+{
+ "id": "en-7a82242c",
+ "lang": "en",
+ "title": "Saved from the Rubble",
+ "cat": "history",
+ "emoji": "🎠",
+ "sentences": [
+  "This antique carousel survived a building collapse.",
+  "Installed in 1917, the ride sat near the White River in Indianapolis.",
+  "The building housing it collapsed in 1956, destroying the ride's mechanism.",
+  "Luckily, the wooden animals were stored safely away.",
+  "The Children's Museum of Indianapolis eventually acquired the survivors.",
+  "Restoration work finally finished in 1977, bringing the entire carousel back to life."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.38
+   ],
+   [
+    "antique",
+    0.38,
+    0.74
+   ],
+   [
+    "carousel",
+    0.74,
+    1.28
+   ],
+   [
+    "survived",
+    1.28,
+    1.62
+   ],
+   [
+    "a",
+    1.62,
+    1.88
+   ],
+   [
+    "building",
+    1.9,
+    2.12
+   ],
+   [
+    "collapse.",
+    2.12,
+    2.42
+   ],
+   [
+    "Installed",
+    3.14,
+    3.46
+   ],
+   [
+    "in",
+    3.46,
+    3.58
+   ],
+   [
+    "1917,",
+    3.58,
+    4.38
+   ],
+   [
+    "the",
+    4.54,
+    4.58
+   ],
+   [
+    "ride",
+    4.58,
+    4.76
+   ],
+   [
+    "sat",
+    4.76,
+    5.0
+   ],
+   [
+    "near",
+    5.0,
+    5.18
+   ],
+   [
+    "the",
+    5.18,
+    5.3
+   ],
+   [
+    "White",
+    5.3,
+    5.46
+   ],
+   [
+    "River",
+    5.46,
+    5.72
+   ],
+   [
+    "in",
+    5.72,
+    5.86
+   ],
+   [
+    "Indianapolis.",
+    5.86,
+    6.31
+   ],
+   [
+    "The",
+    7.1,
+    7.12
+   ],
+   [
+    "building",
+    7.16,
+    7.36
+   ],
+   [
+    "housing",
+    7.36,
+    7.68
+   ],
+   [
+    "it",
+    7.68,
+    7.88
+   ],
+   [
+    "collapsed",
+    7.88,
+    8.2
+   ],
+   [
+    "in",
+    8.2,
+    8.48
+   ],
+   [
+    "1956,",
+    8.48,
+    9.18
+   ],
+   [
+    "destroying",
+    9.48,
+    9.82
+   ],
+   [
+    "the",
+    9.82,
+    10.0
+   ],
+   [
+    "ride's",
+    10.0,
+    10.26
+   ],
+   [
+    "mechanism.",
+    10.26,
+    10.54
+   ],
+   [
+    "Luckily,",
+    11.16,
+    11.52
+   ],
+   [
+    "the",
+    11.68,
+    11.68
+   ],
+   [
+    "wooden",
+    11.68,
+    11.82
+   ],
+   [
+    "animals",
+    11.82,
+    12.26
+   ],
+   [
+    "were",
+    12.26,
+    12.46
+   ],
+   [
+    "stored",
+    12.46,
+    12.68
+   ],
+   [
+    "safely",
+    12.68,
+    12.98
+   ],
+   [
+    "away.",
+    12.98,
+    13.36
+   ],
+   [
+    "The",
+    13.96,
+    14.02
+   ],
+   [
+    "Children's",
+    14.02,
+    14.38
+   ],
+   [
+    "Museum",
+    14.38,
+    14.66
+   ],
+   [
+    "of",
+    14.66,
+    14.82
+   ],
+   [
+    "Indianapolis",
+    14.82,
+    15.38
+   ],
+   [
+    "eventually",
+    15.38,
+    15.7
+   ],
+   [
+    "acquired",
+    15.7,
+    16.18
+   ],
+   [
+    "the",
+    16.18,
+    16.38
+   ],
+   [
+    "survivors.",
+    16.38,
+    16.74
+   ],
+   [
+    "Restoration",
+    17.32,
+    17.82
+   ],
+   [
+    "work",
+    17.82,
+    18.0
+   ],
+   [
+    "finally",
+    18.0,
+    18.32
+   ],
+   [
+    "finished",
+    18.32,
+    18.7
+   ],
+   [
+    "in",
+    18.7,
+    18.9
+   ],
+   [
+    "1977,",
+    18.9,
+    19.85
+   ],
+   [
+    "bringing",
+    20.08,
+    20.18
+   ],
+   [
+    "the",
+    20.18,
+    20.38
+   ],
+   [
+    "entire",
+    20.38,
+    20.76
+   ],
+   [
+    "carousel",
+    20.76,
+    21.32
+   ],
+   [
+    "back",
+    21.4,
+    21.54
+   ],
+   [
+    "to",
+    21.54,
+    21.68
+   ],
+   [
+    "life.",
+    21.68,
+    21.8
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   30,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Carouselfullview.jpg/960px-Carouselfullview.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 3.0",
+   "artist": "Gustav Dentzel(but carved prior to 1917 so public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Carouselfullview.jpg",
+   "desc": "Carouselfullview — Dentzel carved carousel in The Children's Museum of Indianapolis."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Map_of_Marion_County%2C_1917_-_DPLA_-_b26c72af42625d079b21a9102c4e375f.jpg/960px-Map_of_Marion_County%2C_1917_-_DPLA_-_b26c72af42625d079b21a9102c4e375f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 742,
+   "license": "Public domain",
+   "artist": "National Map Company",
+   "page": "https://commons.wikimedia.org/wiki/File:Map_of_Marion_County,_1917_-_DPLA_-_b26c72af42625d079b21a9102c4e375f.jpg",
+   "desc": "Map of Marion County, 1917 - DPLA - b26c72af42625d079b21a9102c4e375f — A map of Marion County in 1917. The White River, townships, major towns, post offices, and villages are labeled. Schools, churches, public lands, major roads, and steam and electric railroa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Childrensmuseumcarouselblackhorsehead.jpg/960px-Childrensmuseumcarouselblackhorsehead.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 916,
+   "license": "CC BY 3.0",
+   "artist": "Gustav Dentzel(but carved prior to 1917 so public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Childrensmuseumcarouselblackhorsehead.jpg",
+   "desc": "Childrensmuseumcarouselblackhorsehead — Carved wooden head of a carousel horse in The Children's Museum of Indianapolis."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1917
+  },
+  {
+   "type": "stat",
+   "value": 1956,
+   "unit": "year",
+   "label": "building collapsed"
+  },
+  {
+   "type": "focus",
+   "target": "wooden animals",
+   "box": [
+    58,
+    0,
+    1000,
+    805
+   ]
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 1977
+  }
+ ],
+ "geo": [
+  39.811,
+  -86.157
+ ],
+ "qid": "Q930998",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Broad Ripple Park Carousel",
+  "url": "https://en.wikipedia.org/wiki/Broad_Ripple_Park_Carousel",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T09:55:28Z",
+ "trimmed": true
+}
