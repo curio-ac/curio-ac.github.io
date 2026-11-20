@@ -1,0 +1,441 @@
+{
+ "id": "en-b27769b7",
+ "lang": "en",
+ "title": "A Rare Boat Race",
+ "cat": "history",
+ "emoji": "🚣",
+ "sentences": [
+  "The 2021 Boat Race moved locations.",
+  "Usually held in London, it happened on the River Great Ouse near Ely instead.",
+  "This was the 166th men's race and the 75th women's race.",
+  "For the first time ever, both races were officiated by female umpires.",
+  "Cambridge won both events, despite Oxford being favourites in the men's race.",
+  "The 2020 race was cancelled due to the pandemic."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.08,
+    0.08
+   ],
+   [
+    "2021",
+    0.08,
+    0.6
+   ],
+   [
+    "Boat",
+    0.6,
+    1.22
+   ],
+   [
+    "Race",
+    1.24,
+    1.42
+   ],
+   [
+    "moved",
+    1.42,
+    1.68
+   ],
+   [
+    "locations.",
+    1.68,
+    2.72
+   ],
+   [
+    "Usually",
+    2.72,
+    2.98
+   ],
+   [
+    "held",
+    2.98,
+    3.22
+   ],
+   [
+    "in",
+    3.22,
+    3.36
+   ],
+   [
+    "London,",
+    3.36,
+    3.96
+   ],
+   [
+    "it",
+    3.96,
+    4.04
+   ],
+   [
+    "happened",
+    4.04,
+    4.28
+   ],
+   [
+    "on",
+    4.28,
+    4.44
+   ],
+   [
+    "the",
+    4.44,
+    4.56
+   ],
+   [
+    "River",
+    4.56,
+    4.74
+   ],
+   [
+    "Great",
+    4.74,
+    5.12
+   ],
+   [
+    "Ouse",
+    5.12,
+    5.6
+   ],
+   [
+    "near",
+    5.6,
+    5.82
+   ],
+   [
+    "Ely",
+    5.92,
+    6.2
+   ],
+   [
+    "instead.",
+    6.2,
+    6.62
+   ],
+   [
+    "This",
+    7.26,
+    7.4
+   ],
+   [
+    "was",
+    7.4,
+    7.54
+   ],
+   [
+    "the",
+    7.54,
+    7.68
+   ],
+   [
+    "166th",
+    7.68,
+    9.0
+   ],
+   [
+    "men's",
+    9.0,
+    9.4
+   ],
+   [
+    "race",
+    9.4,
+    9.56
+   ],
+   [
+    "and",
+    9.58,
+    9.88
+   ],
+   [
+    "the",
+    9.88,
+    10.0
+   ],
+   [
+    "75th",
+    10.0,
+    10.58
+   ],
+   [
+    "women's",
+    10.6,
+    10.92
+   ],
+   [
+    "race.",
+    10.92,
+    11.04
+   ],
+   [
+    "For",
+    11.68,
+    11.78
+   ],
+   [
+    "the",
+    11.78,
+    11.86
+   ],
+   [
+    "first",
+    11.86,
+    12.12
+   ],
+   [
+    "time",
+    12.12,
+    12.42
+   ],
+   [
+    "ever,",
+    12.42,
+    12.88
+   ],
+   [
+    "both",
+    13.18,
+    13.36
+   ],
+   [
+    "races",
+    13.36,
+    13.7
+   ],
+   [
+    "were",
+    13.7,
+    13.92
+   ],
+   [
+    "officiated",
+    13.92,
+    14.44
+   ],
+   [
+    "by",
+    14.44,
+    14.58
+   ],
+   [
+    "female",
+    14.76,
+    14.9
+   ],
+   [
+    "umpires.",
+    14.9,
+    15.45
+   ],
+   [
+    "Cambridge",
+    16.18,
+    16.34
+   ],
+   [
+    "won",
+    16.34,
+    16.68
+   ],
+   [
+    "both",
+    16.68,
+    17.0
+   ],
+   [
+    "events,",
+    17.0,
+    17.5
+   ],
+   [
+    "despite",
+    17.68,
+    17.92
+   ],
+   [
+    "Oxford",
+    17.92,
+    18.26
+   ],
+   [
+    "being",
+    18.26,
+    18.54
+   ],
+   [
+    "favourites",
+    18.54,
+    19.0
+   ],
+   [
+    "in",
+    19.0,
+    19.08
+   ],
+   [
+    "the",
+    19.08,
+    19.14
+   ],
+   [
+    "men's",
+    19.14,
+    19.4
+   ],
+   [
+    "race.",
+    19.4,
+    19.5
+   ],
+   [
+    "The",
+    20.22,
+    20.3
+   ],
+   [
+    "2020",
+    20.3,
+    20.68
+   ],
+   [
+    "race",
+    20.7,
+    21.02
+   ],
+   [
+    "was",
+    21.02,
+    21.14
+   ],
+   [
+    "cancelled",
+    21.14,
+    21.5
+   ],
+   [
+    "due",
+    21.5,
+    21.8
+   ],
+   [
+    "to",
+    21.8,
+    21.88
+   ],
+   [
+    "the",
+    21.88,
+    21.98
+   ],
+   [
+    "pandemic.",
+    21.98,
+    22.32
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   20,
+   31,
+   43,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/River_Great_Ouse%2C_Ely_-_geograph.org.uk_-_2938545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "JThomas",
+   "page": "https://commons.wikimedia.org/wiki/File:River_Great_Ouse,_Ely_-_geograph.org.uk_-_2938545.jpg",
+   "desc": "River Great Ouse, Ely - geograph.org.uk - 2938545 — River Great Ouse, Ely"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Oxford_and_Cambridge_Boat_Race_-_The_Graphic_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 973,
+   "license": "Public domain",
+   "artist": "William Ralston (1848-1911),The Graphic staff and C. W. Cole. reference",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Oxford_and_Cambridge_Boat_Race_-_The_Graphic_1890.jpg",
+   "desc": "The Oxford and Cambridge Boat Race - The Graphic 1890 — The Oxford and Cambridge Boat Race. Illustration for The Graphic, 29 March 1890."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cambridge_boathouses_-_Goldie.jpg/960px-Cambridge_boathouses_-_Goldie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 481,
+   "license": "CC BY-SA 3.0",
+   "artist": "The wub",
+   "page": "https://commons.wikimedia.org/wiki/File:Cambridge_boathouses_-_Goldie.jpg",
+   "desc": "Cambridge boathouses - Goldie — Goldie Boathouse, home of Cambridge University Boat Club"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Boy_wearing_a_mask_during_the_COVID-19_pandemic_in_Egypt_-_Inbound8844811027769309500.jpg/960px-Boy_wearing_a_mask_during_the_COVID-19_pandemic_in_Egypt_-_Inbound8844811027769309500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Eman arab",
+   "page": "https://commons.wikimedia.org/wiki/File:Boy_wearing_a_mask_during_the_COVID-19_pandemic_in_Egypt_-_Inbound8844811027769309500.jpg",
+   "desc": "Boy wearing a mask during the COVID-19 pandemic in Egypt - Inbound8844811027769309500 — A boy wearing a protective mask during the COVID-19 pandemic in Egypt"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2021
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "stat",
+   "value": 166,
+   "unit": "men's races",
+   "label": "total men's"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 84,
+   "unit": "wins",
+   "label": "Cambridge lead"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  52.409,
+  0.3
+ ],
+ "qid": "Q104829644",
+ "pron_wer": 0.045,
+ "angle": 0,
+ "source": {
+  "title": "The Boat Race 2021",
+  "url": "https://en.wikipedia.org/wiki/The_Boat_Race_2021",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T02:05:42Z",
+ "trimmed": true
+}
