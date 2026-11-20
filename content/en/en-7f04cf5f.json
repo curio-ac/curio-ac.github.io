@@ -1,0 +1,416 @@
+{
+ "id": "en-7f04cf5f",
+ "lang": "en",
+ "title": "The Tallest Demolished Skyscraper",
+ "cat": "history",
+ "emoji": "🏗️",
+ "sentences": [
+  "This skyscraper was demolished on purpose.",
+  "270 Park Avenue stood 52 stories tall in Midtown Manhattan.",
+  "Architects Gordon Bunshaft and Natalie de Blois designed it for Union Carbide in 1960.",
+  "It later served as the global headquarters for JPMorgan Chase.",
+  "Two-thirds of the structure was built directly over underground railroad tracks.",
+  "It remains the tallest voluntarily demolished building in the United States."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "skyscraper",
+    0.35,
+    0.93
+   ],
+   [
+    "was",
+    0.93,
+    1.11
+   ],
+   [
+    "demolished",
+    1.11,
+    1.61
+   ],
+   [
+    "on",
+    1.61,
+    1.79
+   ],
+   [
+    "purpose.",
+    1.79,
+    2.37
+   ],
+   [
+    "270",
+    2.79,
+    3.39
+   ],
+   [
+    "Park",
+    3.39,
+    3.77
+   ],
+   [
+    "Avenue",
+    3.77,
+    4.15
+   ],
+   [
+    "stood",
+    4.15,
+    4.43
+   ],
+   [
+    "52",
+    4.43,
+    4.87
+   ],
+   [
+    "stories",
+    4.87,
+    5.29
+   ],
+   [
+    "tall",
+    5.29,
+    5.65
+   ],
+   [
+    "in",
+    5.65,
+    5.87
+   ],
+   [
+    "Midtown",
+    5.87,
+    6.21
+   ],
+   [
+    "Manhattan.",
+    6.21,
+    6.57
+   ],
+   [
+    "Architects",
+    7.29,
+    7.79
+   ],
+   [
+    "Gordon",
+    7.79,
+    7.95
+   ],
+   [
+    "Bunshaft",
+    7.95,
+    8.55
+   ],
+   [
+    "and",
+    8.55,
+    8.77
+   ],
+   [
+    "Natalie",
+    8.77,
+    9.05
+   ],
+   [
+    "de",
+    9.05,
+    9.21
+   ],
+   [
+    "Blois",
+    9.21,
+    9.53
+   ],
+   [
+    "designed",
+    9.53,
+    10.05
+   ],
+   [
+    "it",
+    10.05,
+    10.19
+   ],
+   [
+    "for",
+    10.19,
+    10.33
+   ],
+   [
+    "Union",
+    10.33,
+    10.57
+   ],
+   [
+    "Carbide",
+    10.57,
+    11.11
+   ],
+   [
+    "in",
+    11.11,
+    11.25
+   ],
+   [
+    "1960.",
+    11.25,
+    11.91
+   ],
+   [
+    "It",
+    12.53,
+    12.59
+   ],
+   [
+    "later",
+    12.59,
+    12.83
+   ],
+   [
+    "served",
+    12.83,
+    13.19
+   ],
+   [
+    "as",
+    13.19,
+    13.41
+   ],
+   [
+    "the",
+    13.41,
+    13.53
+   ],
+   [
+    "global",
+    13.53,
+    13.77
+   ],
+   [
+    "headquarters",
+    13.77,
+    14.19
+   ],
+   [
+    "for",
+    14.19,
+    14.53
+   ],
+   [
+    "JPMorgan",
+    14.53,
+    15.07
+   ],
+   [
+    "Chase.",
+    15.07,
+    15.33
+   ],
+   [
+    "Two-thirds",
+    16.03,
+    16.35
+   ],
+   [
+    "of",
+    16.35,
+    16.55
+   ],
+   [
+    "the",
+    16.55,
+    16.63
+   ],
+   [
+    "structure",
+    16.63,
+    16.89
+   ],
+   [
+    "was",
+    16.89,
+    17.11
+   ],
+   [
+    "built",
+    17.11,
+    17.29
+   ],
+   [
+    "directly",
+    17.29,
+    17.75
+   ],
+   [
+    "over",
+    17.77,
+    18.01
+   ],
+   [
+    "underground",
+    18.01,
+    18.53
+   ],
+   [
+    "railroad",
+    18.53,
+    18.79
+   ],
+   [
+    "tracks.",
+    18.79,
+    19.01
+   ],
+   [
+    "It",
+    19.75,
+    19.81
+   ],
+   [
+    "remains",
+    19.81,
+    20.07
+   ],
+   [
+    "the",
+    20.07,
+    20.27
+   ],
+   [
+    "tallest",
+    20.27,
+    20.57
+   ],
+   [
+    "voluntarily",
+    20.57,
+    20.91
+   ],
+   [
+    "demolished",
+    21.05,
+    21.75
+   ],
+   [
+    "building",
+    21.75,
+    22.03
+   ],
+   [
+    "in",
+    22.03,
+    22.21
+   ],
+   [
+    "the",
+    22.21,
+    22.29
+   ],
+   [
+    "United",
+    22.29,
+    22.47
+   ],
+   [
+    "States.",
+    22.47,
+    22.91
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   30,
+   40,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/270_Park_Avenue_before_demolition.jpg/960px-270_Park_Avenue_before_demolition.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1096,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mathias Beinling",
+   "page": "https://commons.wikimedia.org/wiki/File:270_Park_Avenue_before_demolition.jpg",
+   "desc": "270 Park Avenue before demolition — Full height view of 270 Park Avenue before its demolition."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/270_Park_Avenue_February_2019.jpg/960px-270_Park_Avenue_February_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "MainlyTwelve",
+   "page": "https://commons.wikimedia.org/wiki/File:270_Park_Avenue_February_2019.jpg",
+   "desc": "270 Park Avenue February 2019 — A photo of 270 Park Avenue in February 2019 with scaffolding/an elevator attached."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 52,
+   "unit": "stories",
+   "label": "building height"
+  },
+  {
+   "type": "timeline",
+   "year": 1960
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 215,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 270,
+   "unit": "address",
+   "label": "Park Avenue"
+  }
+ ],
+ "geo": [
+  40.756,
+  -73.976
+ ],
+ "qid": "Q1676687",
+ "pron_wer": 0.048,
+ "angle": 0,
+ "source": {
+  "title": "270 Park Avenue (1960–2021)",
+  "url": "https://en.wikipedia.org/wiki/270_Park_Avenue_%281960%E2%80%932021%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T14:49:54Z",
+ "trimmed": true
+}

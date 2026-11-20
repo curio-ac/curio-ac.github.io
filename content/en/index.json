@@ -283,7 +283,8 @@
   "nasa:1393311",
   "Siege of Baghdad",
   "Delicate (Taylor Swift song)",
-  "Alexander II Zabinas"
+  "Alexander II Zabinas",
+  "nasa:1506532"
  ],
  "rejected": [
   "Chameleon",
@@ -1284,6 +1285,9 @@
   ],
   "Alexander II Zabinas": [
    "The King Called 'Bought One': Alexander II was a king named 'the bought one'."
+  ],
+  "nasa:1506532": [
+   "Pennsylvania's Hidden Canyon: Pennsylvania has its own 1,500-foot-deep canyon."
   ]
  },
  "exhausted": []
