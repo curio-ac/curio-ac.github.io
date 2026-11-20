@@ -1,0 +1,343 @@
+{
+ "id": "he-b618e07b",
+ "lang": "he",
+ "title": "הלטאה המפחידה שצדה בלהקות",
+ "cat": "biology",
+ "emoji": "🦖",
+ "sentences": [
+  "הדספלטוזאורוס היה טורף אימתני שצד בלהקות משפחתיות.",
+  "פירוש שמו הוא פשוט 'לטאה מפחידה'.",
+  "הוא חי בצפון אמריקה לפני כ-77 מיליון שנה.",
+  "אורכו הגיע ל-10 מטרים ומשקלו לכ-4 טונות.",
+  "הצעירים צדו חיות מהירות, והבוגרים את הטרף הגדול.",
+  "הם היו טורפים חזקים שגם גנבו מזון מאחרים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הדספלטוזאורוס",
+    0.35,
+    1.2
+   ],
+   [
+    "היה",
+    1.2,
+    1.38
+   ],
+   [
+    "טורף",
+    1.38,
+    1.86
+   ],
+   [
+    "אימתני",
+    1.96,
+    2.64
+   ],
+   [
+    "שצד",
+    2.64,
+    3.04
+   ],
+   [
+    "בלהקות",
+    3.04,
+    3.48
+   ],
+   [
+    "משפחתיות.",
+    3.48,
+    3.86
+   ],
+   [
+    "פירוש",
+    4.56,
+    4.82
+   ],
+   [
+    "שמו",
+    4.82,
+    4.98
+   ],
+   [
+    "הוא",
+    4.98,
+    5.1
+   ],
+   [
+    "פשוט",
+    5.1,
+    5.6
+   ],
+   [
+    "'לטאה",
+    5.64,
+    6.24
+   ],
+   [
+    "מפחידה'.",
+    6.24,
+    6.74
+   ],
+   [
+    "הוא",
+    7.58,
+    7.68
+   ],
+   [
+    "חי",
+    7.68,
+    7.86
+   ],
+   [
+    "בצפון",
+    7.86,
+    8.2
+   ],
+   [
+    "אמריקה",
+    8.2,
+    8.58
+   ],
+   [
+    "לפני",
+    8.58,
+    8.78
+   ],
+   [
+    "כ-77",
+    8.82,
+    9.3
+   ],
+   [
+    "מיליון",
+    9.3,
+    9.9
+   ],
+   [
+    "שנה.",
+    9.9,
+    10.12
+   ],
+   [
+    "אורכו",
+    10.74,
+    11.0
+   ],
+   [
+    "הגיע",
+    11.0,
+    11.26
+   ],
+   [
+    "ל-10",
+    11.26,
+    11.62
+   ],
+   [
+    "מטרים",
+    11.62,
+    12.12
+   ],
+   [
+    "ומשקלו",
+    12.12,
+    12.88
+   ],
+   [
+    "לכ-4",
+    12.88,
+    13.46
+   ],
+   [
+    "טונות.",
+    13.46,
+    14.0
+   ],
+   [
+    "הצעירים",
+    14.86,
+    15.16
+   ],
+   [
+    "צדו",
+    15.16,
+    15.48
+   ],
+   [
+    "חיות",
+    15.48,
+    15.74
+   ],
+   [
+    "מהירות,",
+    15.74,
+    16.28
+   ],
+   [
+    "והבוגרים",
+    16.62,
+    17.08
+   ],
+   [
+    "את",
+    17.18,
+    17.28
+   ],
+   [
+    "הטרף",
+    17.4,
+    17.66
+   ],
+   [
+    "הגדול.",
+    17.66,
+    17.9
+   ],
+   [
+    "הם",
+    18.72,
+    18.82
+   ],
+   [
+    "היו",
+    18.82,
+    19.0
+   ],
+   [
+    "טורפים",
+    19.0,
+    19.34
+   ],
+   [
+    "חזקים",
+    19.34,
+    19.86
+   ],
+   [
+    "שגם",
+    19.86,
+    20.14
+   ],
+   [
+    "גנבו",
+    20.14,
+    20.62
+   ],
+   [
+    "מזון",
+    20.62,
+    20.94
+   ],
+   [
+    "מאחרים.",
+    20.94,
+    21.22
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   21,
+   28,
+   36
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Daspletosaurus_torosus_steveoc_flipped.jpg/960px-Daspletosaurus_torosus_steveoc_flipped.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 240,
+   "license": "CC BY-SA 2.5",
+   "artist": "Steveoc 86 מוויקיפדיה האנגלית",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_torosus_steveoc_flipped.jpg",
+   "desc": "Daspletosaurus torosus steveoc flipped — Daspletosaurus torosus restoration, • Based proportionally on a Gregory Paul skeletal reconstruction in Tyrannosaurus Rex, the Tyrant King by Peter Larson and Kenneth Carpenter (2008).[1] • A few Skin impressions are kn"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Daspletosaurus_skull_%281%29.jpg/960px-Daspletosaurus_skull_%281%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 465,
+   "license": "CC BY-SA 2.0",
+   "artist": "Tim Evanson from Washington, D.C., United States of America",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_skull_(1).jpg",
+   "desc": "Daspletosaurus skull (1) — An adult Daspletosaurus horneri skull at the Museum of the Rockies in Bozeman, Montana. Daspletosaurus is one of the tyrannosaurids. It lived just before T. rex, and although not quite as big it had a very heavy skull wi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/North_America_Late_Cretaceous_%28~75mya%29_Western_Interoir_Seaway_map_PLoS_ONE.png/960px-North_America_Late_Cretaceous_%28~75mya%29_Western_Interoir_Seaway_map_PLoS_ONE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 884,
+   "license": "CC BY 2.5",
+   "artist": "Scott D. Sampson, Mark A. Loewen, Andrew A. Farke, Eric M. Roberts, Catherine A.",
+   "page": "https://commons.wikimedia.org/wiki/File:North_America_Late_Cretaceous_(~75mya)_Western_Interoir_Seaway_map_PLoS_ONE.png",
+   "desc": "North America Late Cretaceous (~75mya) Western Interoir Seaway map PLoS ONE — Paleogeography of North America during the late Campanian Stage of the Late Cretaceous (~75 Ma). Modified after Blakey."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Chicago_Field_Museum_-_Daspletosaurus.jpg/960px-Chicago_Field_Museum_-_Daspletosaurus.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "UCFFool",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicago_Field_Museum_-_Daspletosaurus.jpg",
+   "desc": "Chicago Field Museum - Daspletosaurus — Chicago Field Museum - Daspletosaurus"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/FMNH_Daspletosaurus_White_Background.jpg/960px-FMNH_Daspletosaurus_White_Background.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "ScottRobertAnselmo",
+   "page": "https://commons.wikimedia.org/wiki/File:FMNH_Daspletosaurus_White_Background.jpg",
+   "desc": "FMNH Daspletosaurus White Background — Daspletosaurus mount at the Field Museum of Natural History, Chicago"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 10,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q18511071",
+ "pron_wer": 0.043,
+ "angle": 0,
+ "source": {
+  "title": "דספלטוזאורוס",
+  "url": "https://he.wikipedia.org/wiki/%D7%93%D7%A1%D7%A4%D7%9C%D7%98%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%A1",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T15:41:03Z",
+ "trimmed": true
+}
