@@ -285,7 +285,8 @@
   "Delicate (Taylor Swift song)",
   "Alexander II Zabinas",
   "nasa:1506532",
-  "270 Park Avenue (1960–2021)"
+  "270 Park Avenue (1960–2021)",
+  "nasa:1505059"
  ],
  "rejected": [
   "Chameleon",
@@ -1292,6 +1293,9 @@
   ],
   "270 Park Avenue (1960–2021)": [
    "The Tallest Demolished Skyscraper: This skyscraper was demolished on purpose."
+  ],
+  "nasa:1505059": [
+   "Mars Crystals Reveal Secrets: Mars rocks are hiding mysterious crystal shapes."
   ]
  },
  "exhausted": []

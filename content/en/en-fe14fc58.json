@@ -1,0 +1,388 @@
+{
+ "id": "en-fe14fc58",
+ "lang": "en",
+ "title": "India's Mystery Cretaceous Mammal",
+ "cat": "biology",
+ "emoji": "🦷",
+ "sentences": [
+  "This animal is known only from eight teeth.",
+  "Bharattherium lived in India during the latest Cretaceous period.",
+  "Scientists discovered the first fossil back in 1989.",
+  "It belongs to the gondwanathere family Sudamericidae.",
+  "Researchers named it in 2007 using two different names.",
+  "Its high, curved teeth feature special enamel to prevent cracking.",
+  "One tooth even has three deep cavities called infundibula."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.22
+   ],
+   [
+    "animal",
+    0.22,
+    0.54
+   ],
+   [
+    "is",
+    0.54,
+    0.84
+   ],
+   [
+    "known",
+    0.84,
+    1.02
+   ],
+   [
+    "only",
+    1.02,
+    1.5
+   ],
+   [
+    "from",
+    1.5,
+    1.78
+   ],
+   [
+    "eight",
+    1.78,
+    2.06
+   ],
+   [
+    "teeth.",
+    2.06,
+    2.42
+   ],
+   [
+    "Bharattherium",
+    3.06,
+    3.68
+   ],
+   [
+    "lived",
+    3.68,
+    3.88
+   ],
+   [
+    "in",
+    3.88,
+    4.08
+   ],
+   [
+    "India",
+    4.08,
+    4.44
+   ],
+   [
+    "during",
+    4.44,
+    4.68
+   ],
+   [
+    "the",
+    4.68,
+    4.84
+   ],
+   [
+    "latest",
+    4.84,
+    5.1
+   ],
+   [
+    "Cretaceous",
+    5.1,
+    5.78
+   ],
+   [
+    "period.",
+    5.78,
+    6.43
+   ],
+   [
+    "Scientists",
+    6.7,
+    6.94
+   ],
+   [
+    "discovered",
+    6.94,
+    7.5
+   ],
+   [
+    "the",
+    7.5,
+    7.7
+   ],
+   [
+    "first",
+    7.7,
+    7.98
+   ],
+   [
+    "fossil",
+    7.98,
+    8.32
+   ],
+   [
+    "back",
+    8.32,
+    8.58
+   ],
+   [
+    "in",
+    8.58,
+    8.76
+   ],
+   [
+    "1989.",
+    8.76,
+    9.78
+   ],
+   [
+    "It",
+    10.3,
+    10.38
+   ],
+   [
+    "belongs",
+    10.46,
+    10.64
+   ],
+   [
+    "to",
+    10.82,
+    10.92
+   ],
+   [
+    "the",
+    10.92,
+    11.02
+   ],
+   [
+    "gondwanathere",
+    11.02,
+    11.76
+   ],
+   [
+    "family",
+    11.76,
+    12.08
+   ],
+   [
+    "Sudamericidae.",
+    12.08,
+    12.73
+   ],
+   [
+    "Researchers",
+    13.48,
+    13.74
+   ],
+   [
+    "named",
+    13.74,
+    14.12
+   ],
+   [
+    "it",
+    14.12,
+    14.26
+   ],
+   [
+    "in",
+    14.26,
+    14.36
+   ],
+   [
+    "2007",
+    14.36,
+    15.22
+   ],
+   [
+    "using",
+    15.28,
+    15.52
+   ],
+   [
+    "two",
+    15.52,
+    15.88
+   ],
+   [
+    "different",
+    15.88,
+    16.2
+   ],
+   [
+    "names.",
+    16.2,
+    16.74
+   ],
+   [
+    "Its",
+    17.18,
+    17.28
+   ],
+   [
+    "high,",
+    17.28,
+    17.64
+   ],
+   [
+    "curved",
+    17.84,
+    18.0
+   ],
+   [
+    "teeth",
+    18.0,
+    18.28
+   ],
+   [
+    "feature",
+    18.28,
+    18.62
+   ],
+   [
+    "special",
+    18.62,
+    19.08
+   ],
+   [
+    "enamel",
+    19.08,
+    19.52
+   ],
+   [
+    "to",
+    19.52,
+    19.68
+   ],
+   [
+    "prevent",
+    19.74,
+    19.96
+   ],
+   [
+    "cracking.",
+    19.96,
+    20.34
+   ],
+   [
+    "One",
+    21.06,
+    21.2
+   ],
+   [
+    "tooth",
+    21.2,
+    21.4
+   ],
+   [
+    "even",
+    21.4,
+    21.72
+   ],
+   [
+    "has",
+    21.72,
+    21.98
+   ],
+   [
+    "three",
+    21.98,
+    22.28
+   ],
+   [
+    "deep",
+    22.28,
+    22.58
+   ],
+   [
+    "cavities",
+    22.58,
+    23.06
+   ],
+   [
+    "called",
+    23.26,
+    23.36
+   ],
+   [
+    "infundibula.",
+    23.36,
+    24.06
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   32,
+   41,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "teeth",
+   "label": "fossil teeth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1989
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2007
+  },
+  {
+   "type": "compare",
+   "value": 0.0085,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2900656",
+ "pron_wer": 0.05,
+ "angle": 0,
+ "source": {
+  "title": "Bharattherium",
+  "url": "https://en.wikipedia.org/wiki/Bharattherium",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T15:50:35Z",
+ "trimmed": true
+}
