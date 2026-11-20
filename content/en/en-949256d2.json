@@ -1,0 +1,360 @@
+{
+ "id": "en-949256d2",
+ "lang": "en",
+ "title": "The Weird Menace Magazine",
+ "cat": "history",
+ "emoji": "📖",
+ "sentences": [
+  "Dime Mystery Magazine launched in 1932.",
+  "It initially published ordinary mystery stories and a full-length novel.",
+  "Poor sales forced a major editorial policy change in October 1933.",
+  "It shifted to publishing horror stories with seemingly supernatural struggles.",
+  "These events always received an everyday explanation.",
+  "This new genre became known as weird menace fiction."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Dime",
+    0.26,
+    0.58
+   ],
+   [
+    "Mystery",
+    0.58,
+    0.92
+   ],
+   [
+    "Magazine",
+    0.92,
+    1.34
+   ],
+   [
+    "launched",
+    1.38,
+    1.82
+   ],
+   [
+    "in",
+    1.82,
+    2.06
+   ],
+   [
+    "1932.",
+    2.06,
+    3.6
+   ],
+   [
+    "It",
+    3.6,
+    3.66
+   ],
+   [
+    "initially",
+    3.66,
+    3.98
+   ],
+   [
+    "published",
+    3.98,
+    4.38
+   ],
+   [
+    "ordinary",
+    4.38,
+    4.94
+   ],
+   [
+    "mystery",
+    4.94,
+    5.28
+   ],
+   [
+    "stories",
+    5.3,
+    5.66
+   ],
+   [
+    "and",
+    5.66,
+    6.0
+   ],
+   [
+    "a",
+    6.0,
+    6.14
+   ],
+   [
+    "full-length",
+    6.18,
+    6.4
+   ],
+   [
+    "novel.",
+    6.4,
+    6.72
+   ],
+   [
+    "Poor",
+    7.26,
+    7.38
+   ],
+   [
+    "sales",
+    7.38,
+    7.68
+   ],
+   [
+    "forced",
+    7.68,
+    7.98
+   ],
+   [
+    "a",
+    7.98,
+    8.24
+   ],
+   [
+    "major",
+    8.24,
+    8.56
+   ],
+   [
+    "editorial",
+    8.56,
+    8.94
+   ],
+   [
+    "policy",
+    9.0,
+    9.6
+   ],
+   [
+    "change",
+    9.82,
+    9.94
+   ],
+   [
+    "in",
+    9.94,
+    10.14
+   ],
+   [
+    "October",
+    10.14,
+    10.48
+   ],
+   [
+    "1933.",
+    10.48,
+    11.58
+   ],
+   [
+    "It",
+    12.16,
+    12.22
+   ],
+   [
+    "shifted",
+    12.22,
+    12.46
+   ],
+   [
+    "to",
+    12.46,
+    12.7
+   ],
+   [
+    "publishing",
+    12.78,
+    12.96
+   ],
+   [
+    "horror",
+    12.96,
+    13.42
+   ],
+   [
+    "stories",
+    13.42,
+    13.86
+   ],
+   [
+    "with",
+    13.86,
+    14.12
+   ],
+   [
+    "seemingly",
+    14.16,
+    14.48
+   ],
+   [
+    "supernatural",
+    14.48,
+    14.96
+   ],
+   [
+    "struggles.",
+    14.96,
+    15.7
+   ],
+   [
+    "These",
+    16.22,
+    16.34
+   ],
+   [
+    "events",
+    16.34,
+    16.6
+   ],
+   [
+    "always",
+    16.6,
+    17.08
+   ],
+   [
+    "received",
+    17.08,
+    17.56
+   ],
+   [
+    "an",
+    17.56,
+    17.72
+   ],
+   [
+    "everyday",
+    17.82,
+    18.04
+   ],
+   [
+    "explanation.",
+    18.04,
+    18.69
+   ],
+   [
+    "This",
+    19.26,
+    19.36
+   ],
+   [
+    "new",
+    19.36,
+    19.5
+   ],
+   [
+    "genre",
+    19.5,
+    19.78
+   ],
+   [
+    "became",
+    19.78,
+    20.12
+   ],
+   [
+    "known",
+    20.12,
+    20.4
+   ],
+   [
+    "as",
+    20.4,
+    20.72
+   ],
+   [
+    "weird",
+    20.72,
+    21.08
+   ],
+   [
+    "menace",
+    21.08,
+    21.56
+   ],
+   [
+    "fiction.",
+    21.56,
+    22.14
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   27,
+   37,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dime_mystery_book_193304.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1033,
+   "license": "Public domain",
+   "artist": "Rafael DeSoto",
+   "page": "https://commons.wikimedia.org/wiki/File:Dime_mystery_book_193304.jpg",
+   "desc": "Dime mystery book 193304 — Cover of the April 1933 issue of Dime Mystery Book Magazine. Artwork is by Rafael DeSoto."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Dime_Mystery_Magazine_August_1934.jpg/960px-Dime_Mystery_Magazine_August_1934.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1024,
+   "license": "Public domain",
+   "artist": "Walter M. Baumhofer",
+   "page": "https://commons.wikimedia.org/wiki/File:Dime_Mystery_Magazine_August_1934.jpg",
+   "desc": "Dime Mystery Magazine August 1934 — Cover of the pulp magazine Dime Mystery Magazine (August 1934, col. 6, no. 1) featuring They Drink Blood by Norvell Page."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1932
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1933
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q110413420",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Dime Mystery Magazine",
+  "url": "https://en.wikipedia.org/wiki/Dime_Mystery_Magazine",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T07:53:38Z",
+ "trimmed": true
+}
