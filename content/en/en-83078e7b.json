@@ -1,0 +1,380 @@
+{
+ "id": "en-83078e7b",
+ "lang": "en",
+ "title": "Perseverance Breaks Mars Record",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Perseverance just beat Opportunity’s total Mars driving distance.",
+  "This new milestone happened on October 11, 2026.",
+  "The rover covered 299.6 feet during that specific drive.",
+  "Opportunity logged 28.06 miles over its 15-year mission.",
+  "NASA’s Perseverance rover is now on its 2,006th Martian day.",
+  "A navigation camera captured the rocky landscape from that historic trip."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Perseverance",
+    0.18,
+    0.76
+   ],
+   [
+    "just",
+    0.76,
+    0.96
+   ],
+   [
+    "beat",
+    1.04,
+    1.14
+   ],
+   [
+    "Opportunity’s",
+    1.14,
+    1.9
+   ],
+   [
+    "total",
+    1.98,
+    2.12
+   ],
+   [
+    "Mars",
+    2.12,
+    2.46
+   ],
+   [
+    "driving",
+    2.46,
+    2.76
+   ],
+   [
+    "distance.",
+    2.76,
+    3.1
+   ],
+   [
+    "This",
+    3.76,
+    3.84
+   ],
+   [
+    "new",
+    3.84,
+    3.98
+   ],
+   [
+    "milestone",
+    3.98,
+    4.18
+   ],
+   [
+    "happened",
+    4.18,
+    4.58
+   ],
+   [
+    "on",
+    4.58,
+    4.74
+   ],
+   [
+    "October",
+    4.74,
+    5.0
+   ],
+   [
+    "11,",
+    5.0,
+    5.5
+   ],
+   [
+    "2026.",
+    6.26,
+    7.06
+   ],
+   [
+    "The",
+    7.06,
+    7.1
+   ],
+   [
+    "rover",
+    7.1,
+    7.26
+   ],
+   [
+    "covered",
+    7.26,
+    7.6
+   ],
+   [
+    "299.6",
+    7.6,
+    9.08
+   ],
+   [
+    "feet",
+    9.2,
+    9.3
+   ],
+   [
+    "during",
+    9.3,
+    9.56
+   ],
+   [
+    "that",
+    9.56,
+    9.74
+   ],
+   [
+    "specific",
+    9.74,
+    10.06
+   ],
+   [
+    "drive.",
+    10.06,
+    10.52
+   ],
+   [
+    "Opportunity",
+    11.24,
+    11.74
+   ],
+   [
+    "logged",
+    11.74,
+    11.98
+   ],
+   [
+    "28.06",
+    11.98,
+    13.12
+   ],
+   [
+    "miles",
+    13.12,
+    13.8
+   ],
+   [
+    "over",
+    14.02,
+    14.12
+   ],
+   [
+    "its",
+    14.12,
+    14.26
+   ],
+   [
+    "15-year",
+    14.64,
+    14.88
+   ],
+   [
+    "mission.",
+    14.88,
+    15.2
+   ],
+   [
+    "NASA’s",
+    15.92,
+    16.2
+   ],
+   [
+    "Perseverance",
+    16.2,
+    16.7
+   ],
+   [
+    "rover",
+    16.7,
+    16.94
+   ],
+   [
+    "is",
+    16.94,
+    17.18
+   ],
+   [
+    "now",
+    17.18,
+    17.32
+   ],
+   [
+    "on",
+    17.32,
+    17.5
+   ],
+   [
+    "its",
+    17.5,
+    17.64
+   ],
+   [
+    "2,006th",
+    17.96,
+    18.94
+   ],
+   [
+    "Martian",
+    18.94,
+    19.24
+   ],
+   [
+    "day.",
+    19.24,
+    19.48
+   ],
+   [
+    "A",
+    20.12,
+    20.16
+   ],
+   [
+    "navigation",
+    20.16,
+    20.48
+   ],
+   [
+    "camera",
+    20.48,
+    20.88
+   ],
+   [
+    "captured",
+    20.88,
+    21.22
+   ],
+   [
+    "the",
+    21.3,
+    21.4
+   ],
+   [
+    "rocky",
+    21.4,
+    21.62
+   ],
+   [
+    "landscape",
+    21.75,
+    22.1
+   ],
+   [
+    "from",
+    22.26,
+    22.36
+   ],
+   [
+    "that",
+    22.36,
+    22.5
+   ],
+   [
+    "historic",
+    22.5,
+    22.86
+   ],
+   [
+    "trip.",
+    22.86,
+    22.96
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   25,
+   33,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Perseverance_Navcam_Image_Marks_Record_Drive_%28PIA26812%29.png/960px-Perseverance_Navcam_Image_Marks_Record_Drive_%28PIA26812%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 541,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Perseverance_Navcam_Image_Marks_Record_Drive_(PIA26812).png",
+   "desc": "Perseverance Navcam Image Marks Record Drive (PIA26812) — Rover tracks and a rocky Martian landscape are shown in this image captured by one of the navigation cameras (navcams) aboard NASA’s Perseverance Mars rover on Oct. 11, 2026, the 2,006th Martian day, or"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Opportunity_Rover_Traverse_Map.png/960px-Opportunity_Rover_Traverse_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Plan8-63",
+   "page": "https://commons.wikimedia.org/wiki/File:Opportunity_Rover_Traverse_Map.png",
+   "desc": "Opportunity Rover Traverse Map — This map shows the journey Opportunity traveled on Mars."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  1,
+  0,
+  0
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": "28.06",
+   "unit": "miles",
+   "label": "Total driving distance"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "compare",
+   "value": 91.31,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": "28.06",
+   "unit": "miles",
+   "label": "Opportunity total distance"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "rocky landscape",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Perseverance Navcam Image Marks Record Drive",
+  "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T11:17:22Z",
+ "trimmed": true
+}
