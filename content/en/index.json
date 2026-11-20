@@ -248,7 +248,8 @@
   "USS Chesapeake (1799)",
   "nasa:1456728",
   "The Boat Race 2021",
-  "Walt Disney"
+  "Walt Disney",
+  "nasa:1506034"
  ],
  "rejected": [
   "Chameleon",
@@ -309,7 +310,8 @@
   "Crawford expedition",
   "Eliza Acton",
   "Computer Space",
-  "Complete blood count"
+  "Complete blood count",
+  "1984–85 Gillingham F.C. season"
  ],
  "angles": {
   "Blue whale": [
@@ -1132,6 +1134,9 @@
   ],
   "Walt Disney": [
    "Walt Disney's Record-Breaking Career: Walt Disney won 22 Academy Awards."
+  ],
+  "nasa:1506034": [
+   "November 2026 Skywatching Tips: Voyager 1 reaches one light-day away!"
   ]
  },
  "exhausted": []
