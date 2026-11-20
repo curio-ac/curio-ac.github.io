@@ -1,0 +1,395 @@
+{
+ "id": "en-065e1b4f",
+ "lang": "en",
+ "title": "The Birth Control Movement",
+ "cat": "history",
+ "emoji": "⚖️",
+ "sentences": [
+  "Contraception was once considered obscene!",
+  "In 1914, activists launched a campaign for legalization.",
+  "Margaret Sanger broke the law by distributing The Woman Rebel.",
+  "In 1916, she opened the first U.S. birth control clinic.",
+  "Police immediately shut it down and jailed her for 30 days.",
+  "World War I became a major turning point.",
+  "The government then framed contraception as public health."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Contraception",
+    0.35,
+    1.0
+   ],
+   [
+    "was",
+    1.0,
+    1.16
+   ],
+   [
+    "once",
+    1.16,
+    1.38
+   ],
+   [
+    "considered",
+    1.38,
+    1.76
+   ],
+   [
+    "obscene!",
+    1.76,
+    3.06
+   ],
+   [
+    "In",
+    3.1,
+    3.1
+   ],
+   [
+    "1914,",
+    3.1,
+    3.9
+   ],
+   [
+    "activists",
+    4.08,
+    4.22
+   ],
+   [
+    "launched",
+    4.22,
+    4.58
+   ],
+   [
+    "a",
+    4.58,
+    4.72
+   ],
+   [
+    "campaign",
+    4.72,
+    5.14
+   ],
+   [
+    "for",
+    5.14,
+    5.4
+   ],
+   [
+    "legalization.",
+    5.4,
+    6.12
+   ],
+   [
+    "Margaret",
+    6.64,
+    6.9
+   ],
+   [
+    "Sanger",
+    6.9,
+    7.24
+   ],
+   [
+    "broke",
+    7.24,
+    7.52
+   ],
+   [
+    "the",
+    7.52,
+    7.7
+   ],
+   [
+    "law",
+    7.7,
+    7.96
+   ],
+   [
+    "by",
+    7.96,
+    8.18
+   ],
+   [
+    "distributing",
+    8.18,
+    8.56
+   ],
+   [
+    "The",
+    8.56,
+    8.8
+   ],
+   [
+    "Woman",
+    8.8,
+    9.06
+   ],
+   [
+    "Rebel.",
+    9.06,
+    9.4
+   ],
+   [
+    "In",
+    9.82,
+    9.9
+   ],
+   [
+    "1916,",
+    9.9,
+    10.74
+   ],
+   [
+    "she",
+    10.94,
+    11.04
+   ],
+   [
+    "opened",
+    11.04,
+    11.2
+   ],
+   [
+    "the",
+    11.2,
+    11.36
+   ],
+   [
+    "first",
+    11.36,
+    11.58
+   ],
+   [
+    "U.S.",
+    11.58,
+    11.98
+   ],
+   [
+    "birth",
+    12.04,
+    12.16
+   ],
+   [
+    "control",
+    12.16,
+    12.42
+   ],
+   [
+    "clinic.",
+    12.42,
+    12.84
+   ],
+   [
+    "Police",
+    13.3,
+    13.42
+   ],
+   [
+    "immediately",
+    13.42,
+    13.82
+   ],
+   [
+    "shut",
+    13.82,
+    14.22
+   ],
+   [
+    "it",
+    14.22,
+    14.32
+   ],
+   [
+    "down",
+    14.32,
+    14.54
+   ],
+   [
+    "and",
+    14.54,
+    14.96
+   ],
+   [
+    "jailed",
+    14.96,
+    15.36
+   ],
+   [
+    "her",
+    15.36,
+    15.46
+   ],
+   [
+    "for",
+    15.46,
+    15.6
+   ],
+   [
+    "30",
+    15.76,
+    15.94
+   ],
+   [
+    "days.",
+    15.94,
+    16.32
+   ],
+   [
+    "World",
+    16.98,
+    17.12
+   ],
+   [
+    "War",
+    17.12,
+    17.28
+   ],
+   [
+    "I",
+    17.28,
+    17.44
+   ],
+   [
+    "became",
+    17.56,
+    17.66
+   ],
+   [
+    "a",
+    17.66,
+    17.88
+   ],
+   [
+    "major",
+    17.88,
+    18.16
+   ],
+   [
+    "turning",
+    18.16,
+    18.5
+   ],
+   [
+    "point.",
+    18.5,
+    18.64
+   ],
+   [
+    "The",
+    19.3,
+    19.36
+   ],
+   [
+    "government",
+    19.36,
+    19.62
+   ],
+   [
+    "then",
+    19.62,
+    19.86
+   ],
+   [
+    "framed",
+    19.86,
+    20.08
+   ],
+   [
+    "contraception",
+    20.08,
+    20.8
+   ],
+   [
+    "as",
+    20.8,
+    21.06
+   ],
+   [
+    "public",
+    21.06,
+    21.34
+   ],
+   [
+    "health.",
+    21.34,
+    21.64
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   13,
+   23,
+   33,
+   44,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Woman_And_The_New_Race.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1405,
+   "license": "Public domain",
+   "artist": "Truth Publishing Company.",
+   "page": "https://commons.wikimedia.org/wiki/File:Woman_And_The_New_Race.png",
+   "desc": "Woman And The New Race — Advertisement for Margaret Sanger's book, \"Woman and the New Race\" Science &amp; Invention, January 1922. Volume 9 Number 9, page 883. Image:Science and Invention Jan 1922 pg794.png Table of Contents Image:Science and In"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1914
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1916
+  },
+  {
+   "type": "stat",
+   "value": 30,
+   "unit": "days",
+   "label": "sentenced to jail"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4917009",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Birth control movement in the United States",
+  "url": "https://en.wikipedia.org/wiki/Birth_control_movement_in_the_United_States",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T08:15:46Z",
+ "trimmed": true
+}

@@ -264,7 +264,8 @@
   "nasa:1389133",
   "Biddenden Maids",
   "Bastion (video game)",
-  "Dime Mystery Magazine"
+  "Dime Mystery Magazine",
+  "nasa:1282051"
  ],
  "rejected": [
   "Chameleon",
@@ -1199,6 +1200,9 @@
   ],
   "Dime Mystery Magazine": [
    "The Weird Menace Magazine: Dime Mystery Magazine launched in 1932."
+  ],
+  "nasa:1282051": [
+   "NASA's New Giant Antenna: Meet NASA's newest giant antenna."
   ]
  },
  "exhausted": []
