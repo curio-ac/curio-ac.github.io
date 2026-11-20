@@ -1,0 +1,351 @@
+{
+ "id": "he-71cfa54b",
+ "lang": "he",
+ "title": "האמריקנים שכבשו את טקסס",
+ "cat": "history",
+ "emoji": "🤠",
+ "sentences": [
+  "בטקסס חיו פעם יותר אמריקנים ממקסיקנים.",
+  "הכול התחיל ב-1823 עם קולוניה של 300 משפחות.",
+  "המתיישבים חלמו להפוך את טקסס למדינה אמריקנית.",
+  "סנטה אנה, נשיא מקסיקו, ראה בטקסס נכס אסטרטגי קריטי.",
+  "הוא אסר על הגירה נוספת והטיל הגבלות קשות.",
+  "המתח הזה הוביל לפיצוץ אלים בשנת 1835."
+ ],
+ "tim": {
+  "w": [
+   [
+    "בטקסס",
+    0.34,
+    0.6
+   ],
+   [
+    "חיו",
+    0.6,
+    0.86
+   ],
+   [
+    "פעם",
+    0.86,
+    1.08
+   ],
+   [
+    "יותר",
+    1.08,
+    1.24
+   ],
+   [
+    "אמריקנים",
+    1.26,
+    1.98
+   ],
+   [
+    "ממקסיקנים.",
+    1.98,
+    2.63
+   ],
+   [
+    "הכול",
+    3.3,
+    3.5
+   ],
+   [
+    "התחיל",
+    3.5,
+    3.74
+   ],
+   [
+    "ב-1823",
+    3.74,
+    5.02
+   ],
+   [
+    "עם",
+    5.02,
+    5.68
+   ],
+   [
+    "קולוניה",
+    5.68,
+    6.08
+   ],
+   [
+    "של",
+    6.08,
+    6.24
+   ],
+   [
+    "300",
+    6.24,
+    6.58
+   ],
+   [
+    "משפחות.",
+    6.58,
+    6.72
+   ],
+   [
+    "המתיישבים",
+    7.72,
+    8.12
+   ],
+   [
+    "חלמו",
+    8.12,
+    8.44
+   ],
+   [
+    "להפוך",
+    8.44,
+    8.74
+   ],
+   [
+    "את",
+    8.74,
+    8.86
+   ],
+   [
+    "טקסס",
+    8.94,
+    9.28
+   ],
+   [
+    "למדינה",
+    9.28,
+    9.72
+   ],
+   [
+    "אמריקנית.",
+    9.72,
+    10.32
+   ],
+   [
+    "סנטה",
+    11.64,
+    11.74
+   ],
+   [
+    "אנה,",
+    11.74,
+    12.04
+   ],
+   [
+    "נשיא",
+    12.18,
+    12.28
+   ],
+   [
+    "מקסיקו,",
+    12.28,
+    12.82
+   ],
+   [
+    "ראה",
+    13.08,
+    13.2
+   ],
+   [
+    "בטקסס",
+    13.2,
+    13.62
+   ],
+   [
+    "נכס",
+    13.72,
+    13.94
+   ],
+   [
+    "אסטרטגי",
+    14.38,
+    14.56
+   ],
+   [
+    "קריטי.",
+    14.56,
+    14.66
+   ],
+   [
+    "הוא",
+    15.46,
+    15.56
+   ],
+   [
+    "אסר",
+    15.56,
+    15.88
+   ],
+   [
+    "על",
+    15.88,
+    15.98
+   ],
+   [
+    "הגירה",
+    15.98,
+    16.26
+   ],
+   [
+    "נוספת",
+    16.26,
+    16.6
+   ],
+   [
+    "והטיל",
+    16.6,
+    16.94
+   ],
+   [
+    "הגבלות",
+    16.94,
+    17.32
+   ],
+   [
+    "קשות.",
+    17.32,
+    17.58
+   ],
+   [
+    "המתח",
+    18.48,
+    18.58
+   ],
+   [
+    "הזה",
+    18.58,
+    18.72
+   ],
+   [
+    "הוביל",
+    18.72,
+    18.94
+   ],
+   [
+    "לפיצוץ",
+    18.94,
+    19.5
+   ],
+   [
+    "אלים",
+    19.8,
+    20.0
+   ],
+   [
+    "בשנת",
+    20.0,
+    20.52
+   ],
+   [
+    "1835.",
+    20.52,
+    21.07
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   21,
+   30,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Austin_%26_Tanner_Map_of_Texas_with_Parts_of_the_Adjoining_States_1836_UTA.jpg/960px-Austin_%26_Tanner_Map_of_Texas_with_Parts_of_the_Adjoining_States_1836_UTA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 903,
+   "license": "Public domain",
+   "artist": "Stephen F. Austin / Henry Schenck Tanner",
+   "page": "https://commons.wikimedia.org/wiki/File:Austin_%26_Tanner_Map_of_Texas_with_Parts_of_the_Adjoining_States_1836_UTA.jpg",
+   "desc": "Austin & Tanner Map of Texas with Parts of the Adjoining States 1836 UTA — A requirement of the Anglo-American empresario Stephen F. Austin's contract with the Mexican government included compiling a map of his Texas colony, which he completed in 1829 with the"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/1845_Mitchell_Wall_Map_of_the_United_States_%28partial_Republic_of_Texas%29_-_Geographicus_-_USAwall-mitchell-1844.jpg/960px-1845_Mitchell_Wall_Map_of_the_United_States_%28partial_Republic_of_Texas%29_-_Geographicus_-_USAwall-mitchell-1844.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 593,
+   "license": "Public domain",
+   "artist": "Samuel Augustus Mitchell",
+   "page": "https://commons.wikimedia.org/wiki/File:1845_Mitchell_Wall_Map_of_the_United_States_(partial_Republic_of_Texas)_-_Geographicus_-_USAwall-mitchell-1844.jpg",
+   "desc": "1845 Mitchell Wall Map of the United States (partial Republic of Texas) - Geographicus - USAwall-mitchell-1844 — The S. A Mitchell firm published this map, both in wall and folding pocket format, from 1843 to 1850. It is considered a highly important work of m"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Antonio_L%C3%B3pez_de_Santa_Anna%2C_siglo_XIX%2C_%C3%B3leo_sobre_tela.png/960px-Antonio_L%C3%B3pez_de_Santa_Anna%2C_siglo_XIX%2C_%C3%B3leo_sobre_tela.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 855,
+   "license": "Public domain",
+   "artist": "Manuel Paris",
+   "page": "https://commons.wikimedia.org/wiki/File:Antonio_L%C3%B3pez_de_Santa_Anna,_siglo_XIX,_%C3%B3leo_sobre_tela.png",
+   "desc": "Antonio López de Santa Anna, siglo XIX, óleo sobre tela — Carlos Paris. Portrait of Antonio López de Santa Anna (1794-1876)."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1854_Alamo.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 457,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:1854_Alamo.jpg",
+   "desc": "1854 Alamo — This is a drawing of the Alamo Mission in San Antonio. It was first printed in 1854 in Gleason's Pictorial Drawing Room Companion and was reprinted in Frank Thompson's 2005 \"The Alamo\", p 106."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 30000,
+   "unit": "אמריקנים",
+   "label": "יותר אמריקנים ממקסיקנים"
+  },
+  {
+   "type": "timeline",
+   "year": 1823
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Antonio López de Santa Anna",
+   "box": [
+    95,
+    89,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1835
+  }
+ ],
+ "geo": [
+  29.426,
+  -98.486
+ ],
+ "qid": "Q235344",
+ "pron_wer": 0.065,
+ "angle": 1,
+ "source": {
+  "title": "קרב אלמו",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%91_%D7%90%D7%9C%D7%9E%D7%95",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T10:50:43Z",
+ "trimmed": true
+}
