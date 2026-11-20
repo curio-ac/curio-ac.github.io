@@ -244,7 +244,8 @@
   "New York City",
   "nasa:1504411",
   "Æthelberht of Kent",
-  "Sid Barnes"
+  "Sid Barnes",
+  "USS Chesapeake (1799)"
  ],
  "rejected": [
   "Chameleon",
@@ -1116,6 +1117,9 @@
   ],
   "Sid Barnes": [
    "The 405-Run Partnership: Sid Barnes once scored 234 runs exactly."
+  ],
+  "USS Chesapeake (1799)": [
+   "The Ship That Sparked War: One ship helped ignite the War of 1812."
   ]
  },
  "exhausted": []

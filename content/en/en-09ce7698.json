@@ -1,0 +1,455 @@
+{
+ "id": "en-09ce7698",
+ "lang": "en",
+ "title": "Unlocking Mars' Moon Mysteries",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA is hunting for Mars' moon origins.",
+  "JAXA’s MMX mission will launch to explore Phobos and Deimos.",
+  "Scientists are debating if these moons are captured asteroids or debris from a massive impact.",
+  "A special spectrograph called MEGANE will analyze the surface composition.",
+  "The spacecraft will collect a Phobos sample in 2028.",
+  "Bringing this material to Earth will reveal secrets about our solar system's history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.1,
+    0.38
+   ],
+   [
+    "is",
+    0.38,
+    0.7
+   ],
+   [
+    "hunting",
+    0.72,
+    0.94
+   ],
+   [
+    "for",
+    0.94,
+    1.2
+   ],
+   [
+    "Mars'",
+    1.2,
+    1.62
+   ],
+   [
+    "moon",
+    1.78,
+    1.82
+   ],
+   [
+    "origins.",
+    1.82,
+    2.42
+   ],
+   [
+    "JAXA’s",
+    2.96,
+    3.38
+   ],
+   [
+    "MMX",
+    3.72,
+    3.82
+   ],
+   [
+    "mission",
+    3.82,
+    4.16
+   ],
+   [
+    "will",
+    4.16,
+    4.36
+   ],
+   [
+    "launch",
+    4.36,
+    4.64
+   ],
+   [
+    "to",
+    4.64,
+    4.8
+   ],
+   [
+    "explore",
+    4.8,
+    5.08
+   ],
+   [
+    "Phobos",
+    5.08,
+    5.56
+   ],
+   [
+    "and",
+    5.6,
+    5.7
+   ],
+   [
+    "Deimos.",
+    5.7,
+    6.22
+   ],
+   [
+    "Scientists",
+    6.68,
+    6.94
+   ],
+   [
+    "are",
+    6.94,
+    7.28
+   ],
+   [
+    "debating",
+    7.28,
+    7.58
+   ],
+   [
+    "if",
+    7.58,
+    7.82
+   ],
+   [
+    "these",
+    7.82,
+    7.98
+   ],
+   [
+    "moons",
+    7.98,
+    8.22
+   ],
+   [
+    "are",
+    8.22,
+    8.38
+   ],
+   [
+    "captured",
+    8.38,
+    8.64
+   ],
+   [
+    "asteroids",
+    8.64,
+    9.1
+   ],
+   [
+    "or",
+    9.1,
+    9.36
+   ],
+   [
+    "debris",
+    9.36,
+    9.66
+   ],
+   [
+    "from",
+    9.66,
+    9.86
+   ],
+   [
+    "a",
+    9.86,
+    9.98
+   ],
+   [
+    "massive",
+    9.98,
+    10.26
+   ],
+   [
+    "impact.",
+    10.26,
+    10.78
+   ],
+   [
+    "A",
+    11.14,
+    11.2
+   ],
+   [
+    "special",
+    11.2,
+    11.48
+   ],
+   [
+    "spectrograph",
+    11.48,
+    12.08
+   ],
+   [
+    "called",
+    12.08,
+    12.28
+   ],
+   [
+    "MEGANE",
+    12.28,
+    12.78
+   ],
+   [
+    "will",
+    12.78,
+    13.02
+   ],
+   [
+    "analyze",
+    13.02,
+    13.44
+   ],
+   [
+    "the",
+    13.44,
+    13.64
+   ],
+   [
+    "surface",
+    13.64,
+    13.86
+   ],
+   [
+    "composition.",
+    13.86,
+    14.46
+   ],
+   [
+    "The",
+    14.84,
+    14.92
+   ],
+   [
+    "spacecraft",
+    14.92,
+    15.18
+   ],
+   [
+    "will",
+    15.18,
+    15.56
+   ],
+   [
+    "collect",
+    15.64,
+    15.86
+   ],
+   [
+    "a",
+    15.86,
+    15.98
+   ],
+   [
+    "Phobos",
+    15.98,
+    16.3
+   ],
+   [
+    "sample",
+    16.3,
+    16.58
+   ],
+   [
+    "in",
+    16.62,
+    16.8
+   ],
+   [
+    "2028.",
+    16.8,
+    17.68
+   ],
+   [
+    "Bringing",
+    18.2,
+    18.36
+   ],
+   [
+    "this",
+    18.36,
+    18.52
+   ],
+   [
+    "material",
+    18.52,
+    18.9
+   ],
+   [
+    "to",
+    18.9,
+    19.1
+   ],
+   [
+    "Earth",
+    19.1,
+    19.34
+   ],
+   [
+    "will",
+    19.34,
+    19.48
+   ],
+   [
+    "reveal",
+    19.48,
+    19.76
+   ],
+   [
+    "secrets",
+    19.76,
+    20.14
+   ],
+   [
+    "about",
+    20.14,
+    20.38
+   ],
+   [
+    "our",
+    20.38,
+    20.54
+   ],
+   [
+    "solar",
+    20.54,
+    20.76
+   ],
+   [
+    "system's",
+    20.76,
+    21.26
+   ],
+   [
+    "history.",
+    21.26,
+    21.64
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   32,
+   42,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Martian_Moons_eXploration_%28MMX%29_mission_ESA529677.png/960px-The_Martian_Moons_eXploration_%28MMX%29_mission_ESA529677.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Martian_Moons_eXploration_(MMX)_mission_ESA529677.png",
+   "desc": "The Martian Moons eXploration (MMX) mission ESA529677 — The JAXA-led Martian Moons eXploration (MMX) mission will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. MMX is led by the Japan Aerospace Exploration Agency "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Gaspara%2C_Deimos%2C_and_Phobos.jpg/960px-Gaspara%2C_Deimos%2C_and_Phobos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 550,
+   "license": "No restrictions",
+   "artist": "NASA on The Commons",
+   "page": "https://commons.wikimedia.org/wiki/File:Gaspara,_Deimos,_and_Phobos.jpg",
+   "desc": "Gaspara, Deimos, and Phobos — (1977) This montage shows asteroid 951 Gaspra (top) compared with Deimos (lower left) and Phobos (lower right), the moons of Mars. The three bodies are shown at the same scale and nearly the same lighting conditions. Gas"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/MMX_MEGANE_instrument.jpg/960px-MMX_MEGANE_instrument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA/JAXA/Johns Hopkins APL/Ed Whitman",
+   "page": "https://commons.wikimedia.org/wiki/File:MMX_MEGANE_instrument.jpg",
+   "desc": "MMX MEGANE instrument — U.S. and Japanese team members gather around and discuss the gamma-ray spectrometer portion of the MEGANE instrument during its development at Johns Hopkins APL."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mmxspacecraft_0.jpg/960px-Mmxspacecraft_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Mmxspacecraft_0.jpg",
+   "desc": "Mmxspacecraft 0 — Artist’s concept of Japan’s Mars Moons eXploration (MMX) spacecraft, carrying a NASA instrument to study the Martian moons Phobos and Deimos."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/OSIRIS-REx_Sample_Return_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg/960px-OSIRIS-REx_Sample_Return_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA/Keegan Barber",
+   "page": "https://commons.wikimedia.org/wiki/File:OSIRIS-REx_Sample_Return_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg",
+   "desc": "OSIRIS-REx Sample Return - Flickr - NASA Goddard Photo and Video — Charred from its journey through Earth’s atmosphere, the OSIRIS-REx sample return capsule is shown here shortly following its landing on September 24, 2023, in Utah’s Great Salt Lake Desert at "
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "MMX spacecraft",
+   "box": [
+    363,
+    207,
+    450,
+    254
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "MEGANE spectrograph",
+   "box": [
+    515,
+    300,
+    860,
+    650
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 2028
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+  "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T01:30:28Z",
+ "trimmed": true
+}
