@@ -1,0 +1,436 @@
+{
+ "id": "en-c448c05c",
+ "lang": "en",
+ "title": "The Forgotten Byzantine Ruler",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "He ruled Epirus and Thessaly from 1215 to 1230.",
+  "Theodore came from a distinguished Byzantine aristocratic family.",
+  "Before 1204, his early life remains totally unknown.",
+  "He first served the founder of the Empire of Nicaea.",
+  "Then he took over Epirus by sidelining his brother's son.",
+  "He later ruled Thessalonica and Macedonia until 1230.",
+  "He was also the power behind his sons until 1246."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.2,
+    0.28
+   ],
+   [
+    "ruled",
+    0.28,
+    0.52
+   ],
+   [
+    "Epirus",
+    0.52,
+    1.08
+   ],
+   [
+    "and",
+    1.08,
+    1.28
+   ],
+   [
+    "Thessaly",
+    1.28,
+    1.72
+   ],
+   [
+    "from",
+    1.72,
+    1.94
+   ],
+   [
+    "1215",
+    1.94,
+    2.74
+   ],
+   [
+    "to",
+    2.74,
+    2.98
+   ],
+   [
+    "1230.",
+    2.98,
+    4.1
+   ],
+   [
+    "Theodore",
+    4.1,
+    4.32
+   ],
+   [
+    "came",
+    4.32,
+    4.56
+   ],
+   [
+    "from",
+    4.56,
+    4.76
+   ],
+   [
+    "a",
+    4.76,
+    4.86
+   ],
+   [
+    "distinguished",
+    4.86,
+    5.24
+   ],
+   [
+    "Byzantine",
+    5.24,
+    5.88
+   ],
+   [
+    "aristocratic",
+    5.88,
+    6.48
+   ],
+   [
+    "family.",
+    6.48,
+    7.3
+   ],
+   [
+    "Before",
+    7.3,
+    7.46
+   ],
+   [
+    "1204,",
+    7.46,
+    8.64
+   ],
+   [
+    "his",
+    8.64,
+    8.72
+   ],
+   [
+    "early",
+    8.72,
+    8.96
+   ],
+   [
+    "life",
+    8.96,
+    9.26
+   ],
+   [
+    "remains",
+    9.26,
+    9.56
+   ],
+   [
+    "totally",
+    9.56,
+    9.94
+   ],
+   [
+    "unknown.",
+    9.94,
+    10.6
+   ],
+   [
+    "He",
+    10.84,
+    10.92
+   ],
+   [
+    "first",
+    10.92,
+    11.16
+   ],
+   [
+    "served",
+    11.16,
+    11.4
+   ],
+   [
+    "the",
+    11.4,
+    11.54
+   ],
+   [
+    "founder",
+    11.54,
+    11.82
+   ],
+   [
+    "of",
+    11.82,
+    12.0
+   ],
+   [
+    "the",
+    12.0,
+    12.1
+   ],
+   [
+    "Empire",
+    12.1,
+    12.44
+   ],
+   [
+    "of",
+    12.44,
+    12.66
+   ],
+   [
+    "Nicaea.",
+    12.66,
+    13.16
+   ],
+   [
+    "Then",
+    13.52,
+    13.66
+   ],
+   [
+    "he",
+    13.66,
+    13.84
+   ],
+   [
+    "took",
+    13.84,
+    13.98
+   ],
+   [
+    "over",
+    13.98,
+    14.2
+   ],
+   [
+    "Epirus",
+    14.2,
+    14.74
+   ],
+   [
+    "by",
+    14.76,
+    14.86
+   ],
+   [
+    "sidelining",
+    14.86,
+    15.38
+   ],
+   [
+    "his",
+    15.38,
+    15.58
+   ],
+   [
+    "brother's",
+    15.58,
+    15.94
+   ],
+   [
+    "son.",
+    15.94,
+    16.16
+   ],
+   [
+    "He",
+    16.52,
+    16.6
+   ],
+   [
+    "later",
+    16.6,
+    16.8
+   ],
+   [
+    "ruled",
+    16.8,
+    17.08
+   ],
+   [
+    "Thessalonica",
+    17.08,
+    17.8
+   ],
+   [
+    "and",
+    17.8,
+    17.96
+   ],
+   [
+    "Macedonia",
+    17.96,
+    18.56
+   ],
+   [
+    "until",
+    18.56,
+    18.82
+   ],
+   [
+    "1230.",
+    18.82,
+    19.6
+   ],
+   [
+    "He",
+    19.88,
+    19.96
+   ],
+   [
+    "was",
+    19.96,
+    20.1
+   ],
+   [
+    "also",
+    20.1,
+    20.36
+   ],
+   [
+    "the",
+    20.36,
+    20.5
+   ],
+   [
+    "power",
+    20.5,
+    20.76
+   ],
+   [
+    "behind",
+    20.76,
+    21.1
+   ],
+   [
+    "his",
+    21.1,
+    21.26
+   ],
+   [
+    "sons",
+    21.26,
+    21.52
+   ],
+   [
+    "until",
+    21.52,
+    21.78
+   ],
+   [
+    "1246.",
+    21.78,
+    22.38
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   17,
+   25,
+   35,
+   45,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/LatinEmpire-fr.png/960px-LatinEmpire-fr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 399,
+   "license": "CC BY-SA 4.0",
+   "artist": "original work: Varana derivative works: LatinEmpire, Rowanwindwhistler, GrandEsc",
+   "page": "https://commons.wikimedia.org/wiki/File:LatinEmpire-fr.png",
+   "desc": "LatinEmpire-fr — États successeurs de l'empire byzantin après la quatrième croisade (1204) : États latins catholiques Empire latin de Constantinople Royaume de Thessalonique Seigneurie de Négrepont Duché d'Athènes Principauté de Achaïe D"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Theodore_Comnenus-Ducas_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 674,
+   "license": "CC BY-SA 3.0",
+   "artist": "[1] (cropped and uploaded by Odysses)",
+   "page": "https://commons.wikimedia.org/wiki/File:Theodore_Comnenus-Ducas_cropped.jpg",
+   "desc": "Theodore Comnenus-Ducas cropped — Theodore Comnenus-Ducas. Silver Trachy (2.60 g, 6h), struck circa 1227. ΦI/AC/O/(star) to right; PH/TH/CΔ/(star) to left / ΘEOΔΩPOC ΔECΠOT OΛIOC ΔIMTPI, Theodore, wearing crown and loros, and St. Demetrius, nimbate, stan"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Empire_of_Nicaea.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1011,
+   "license": "CC BY-SA 4.0",
+   "artist": "Byzantium1204.svg: Odejea",
+   "page": "https://commons.wikimedia.org/wiki/File:Empire_of_Nicaea.png",
+   "desc": "Empire of Nicaea — Empire of Nicaea (1204)"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trachy_of_Theodore_Komnenos_Doukas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 369,
+   "license": "CC BY-SA 2.5",
+   "artist": "Unknown 13th-century author; photos by CNG coins; uploaded by Constantine",
+   "page": "https://commons.wikimedia.org/wiki/File:Trachy_of_Theodore_Komnenos_Doukas.jpg",
+   "desc": "Trachy of Theodore Komnenos Doukas — Billon trachy of en:Theodore Komnenos Doukas, Emperor of Thessalonica, ca.1225/7-1230. Original description: Theodore Comnenus-Ducas. As emperor of Thessalonica, 1225/7-1230. AR Trachy (22mm, 1.71 g, 6h). Type B. Thessal"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1215
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1204
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1230
+  },
+  {
+   "type": "timeline",
+   "year": 1246
+  }
+ ],
+ "geo": null,
+ "qid": "Q371668",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "Theodore Komnenos Doukas",
+  "url": "https://en.wikipedia.org/wiki/Theodore_Komnenos_Doukas",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T05:14:03Z",
+ "trimmed": true
+}
