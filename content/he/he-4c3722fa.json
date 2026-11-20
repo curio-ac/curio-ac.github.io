@@ -1,0 +1,342 @@
+{
+ "id": "he-4c3722fa",
+ "lang": "he",
+ "title": "שריפות הכבול שמחשיכות את אינדונזיה",
+ "cat": "geography",
+ "emoji": "🔥",
+ "sentences": [
+  "יש שריפות שיכולות לבעור מתחת לאדמה.",
+  "שריפות כבול באינדונזיה הן מסוכנות, מזהמות וקשות לכיבוי.",
+  "הן פולטות פי 3 יותר חלקיקים מזיקים משריפות יער רגילות.",
+  "תנאי בצורת ואל ניניו הופכים את האדמה ליבשה ודליקה.",
+  "האש ממשיכה לבעור מתחת לפני השטח עד שמגיעים הגשמים.",
+  "קשה לזהות אותן מהחלל בגלל עשן כבד."
+ ],
+ "tim": {
+  "w": [
+   [
+    "יש",
+    0,
+    0.22
+   ],
+   [
+    "שריפות",
+    0.22,
+    0.74
+   ],
+   [
+    "שיכולות",
+    0.74,
+    1.24
+   ],
+   [
+    "לבעור",
+    1.24,
+    1.68
+   ],
+   [
+    "מתחת",
+    1.68,
+    2.22
+   ],
+   [
+    "לאדמה.",
+    2.22,
+    2.76
+   ],
+   [
+    "שריפות",
+    3.16,
+    3.58
+   ],
+   [
+    "כבול",
+    3.68,
+    3.92
+   ],
+   [
+    "באינדונזיה",
+    3.92,
+    4.7
+   ],
+   [
+    "הן",
+    4.7,
+    4.94
+   ],
+   [
+    "מסוכנות,",
+    4.94,
+    5.8
+   ],
+   [
+    "מזהמות",
+    5.8,
+    6.42
+   ],
+   [
+    "וקשות",
+    6.5,
+    7.0
+   ],
+   [
+    "לכיבוי.",
+    7.0,
+    7.62
+   ],
+   [
+    "הן",
+    8.16,
+    8.24
+   ],
+   [
+    "פולטות",
+    8.24,
+    8.64
+   ],
+   [
+    "פי",
+    8.7,
+    8.86
+   ],
+   [
+    "3",
+    8.86,
+    9.06
+   ],
+   [
+    "יותר",
+    9.06,
+    9.42
+   ],
+   [
+    "חלקיקים",
+    9.44,
+    10.1
+   ],
+   [
+    "מזיקים",
+    10.1,
+    10.6
+   ],
+   [
+    "משריפות",
+    10.6,
+    11.26
+   ],
+   [
+    "יער",
+    11.26,
+    11.56
+   ],
+   [
+    "רגילות.",
+    11.56,
+    11.94
+   ],
+   [
+    "תנאי",
+    12.76,
+    13.02
+   ],
+   [
+    "בצורת",
+    13.02,
+    13.56
+   ],
+   [
+    "ואל",
+    13.56,
+    13.88
+   ],
+   [
+    "ניניו",
+    13.88,
+    14.36
+   ],
+   [
+    "הופכים",
+    14.72,
+    14.9
+   ],
+   [
+    "את",
+    14.9,
+    15.04
+   ],
+   [
+    "האדמה",
+    15.04,
+    15.46
+   ],
+   [
+    "ליבשה",
+    15.46,
+    16.1
+   ],
+   [
+    "ודליקה.",
+    16.1,
+    16.7
+   ],
+   [
+    "האש",
+    17.32,
+    17.6
+   ],
+   [
+    "ממשיכה",
+    17.6,
+    18.2
+   ],
+   [
+    "לבעור",
+    18.2,
+    18.58
+   ],
+   [
+    "מתחת",
+    18.58,
+    19.06
+   ],
+   [
+    "לפני",
+    19.06,
+    19.36
+   ],
+   [
+    "השטח",
+    19.36,
+    19.92
+   ],
+   [
+    "עד",
+    20.18,
+    20.34
+   ],
+   [
+    "שמגיעים",
+    20.34,
+    20.84
+   ],
+   [
+    "הגשמים.",
+    20.84,
+    21.4
+   ],
+   [
+    "קשה",
+    22.04,
+    22.28
+   ],
+   [
+    "לזהות",
+    22.28,
+    22.68
+   ],
+   [
+    "אותן",
+    22.68,
+    22.94
+   ],
+   [
+    "מהחלל",
+    22.94,
+    23.4
+   ],
+   [
+    "בגלל",
+    23.4,
+    23.88
+   ],
+   [
+    "עשן",
+    23.88,
+    24.34
+   ],
+   [
+    "כבד.",
+    24.34,
+    24.74
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   24,
+   33,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Peatland_Fires_Darken_Skies_in_Indonesia_%281283342_-_s_amo_20260901%29.jpg/960px-Peatland_Fires_Darken_Skies_in_Indonesia_%281283342_-_s_amo_20260901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Peatland_Fires_Darken_Skies_in_Indonesia_(1283342_-_s_amo_20260901).jpg",
+   "desc": "Peatland Fires Darken Skies in Indonesia (1283342 - s amo 20260901) — Thick gray plumes of smoke stream from large numbers of fires scattered across the island of Borneo."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Peatland_Fires_Darken_Skies_in_Indonesia_%281283342_-_detect_amo_20260901%29.jpg/960px-Peatland_Fires_Darken_Skies_in_Indonesia_%281283342_-_detect_amo_20260901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Peatland_Fires_Darken_Skies_in_Indonesia_(1283342_-_detect_amo_20260901).jpg",
+   "desc": "Peatland Fires Darken Skies in Indonesia (1283342 - detect amo 20260901) — NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "times more",
+   "label": "fine particulate matter"
+  },
+  {
+   "type": "timeline",
+   "year": 2015
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+ "pron_wer": 0.02,
+ "angle": 0,
+ "source": {
+  "title": "Peatland Fires Darken Skies in Indonesia",
+  "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T13:14:04Z",
+ "trimmed": true
+}
