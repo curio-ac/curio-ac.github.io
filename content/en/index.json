@@ -247,7 +247,8 @@
   "Sid Barnes",
   "USS Chesapeake (1799)",
   "nasa:1456728",
-  "The Boat Race 2021"
+  "The Boat Race 2021",
+  "Walt Disney"
  ],
  "rejected": [
   "Chameleon",
@@ -1128,6 +1129,9 @@
   ],
   "The Boat Race 2021": [
    "A Rare Boat Race: The 2021 Boat Race moved locations."
+  ],
+  "Walt Disney": [
+   "Walt Disney's Record-Breaking Career: Walt Disney won 22 Academy Awards."
   ]
  },
  "exhausted": []

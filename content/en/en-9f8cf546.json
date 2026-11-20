@@ -1,0 +1,491 @@
+{
+ "id": "en-9f8cf546",
+ "lang": "en",
+ "title": "November 2026 Skywatching Tips",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Voyager 1 reaches one light-day away!",
+  "It takes light 24 hours to reach the spacecraft.",
+  "Catch Southern Taurids on November 5 and Northern Taurids on November 12.",
+  "Spot Mars and Jupiter close together before sunrise on November 15 and 16.",
+  "Watch the Leonids peak with up to 15 meteors per hour on November 17 and 18.",
+  "End the month by seeing the first of three consecutive supermoons on November 24."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Voyager",
+    0.06,
+    0.44
+   ],
+   [
+    "1",
+    0.44,
+    0.82
+   ],
+   [
+    "reaches",
+    0.82,
+    1.28
+   ],
+   [
+    "one",
+    1.28,
+    1.72
+   ],
+   [
+    "light-day",
+    1.72,
+    2.66
+   ],
+   [
+    "away!",
+    2.66,
+    3.7
+   ],
+   [
+    "It",
+    3.78,
+    3.8
+   ],
+   [
+    "takes",
+    3.8,
+    4.04
+   ],
+   [
+    "light",
+    4.04,
+    4.34
+   ],
+   [
+    "24",
+    4.62,
+    4.96
+   ],
+   [
+    "hours",
+    4.98,
+    5.46
+   ],
+   [
+    "to",
+    5.46,
+    5.74
+   ],
+   [
+    "reach",
+    5.74,
+    5.96
+   ],
+   [
+    "the",
+    6.02,
+    6.12
+   ],
+   [
+    "spacecraft.",
+    6.12,
+    6.58
+   ],
+   [
+    "Catch",
+    7.38,
+    7.48
+   ],
+   [
+    "Southern",
+    7.48,
+    7.9
+   ],
+   [
+    "Taurids",
+    7.9,
+    8.42
+   ],
+   [
+    "on",
+    8.42,
+    8.58
+   ],
+   [
+    "November",
+    8.58,
+    8.8
+   ],
+   [
+    "5",
+    8.8,
+    9.24
+   ],
+   [
+    "and",
+    9.24,
+    9.78
+   ],
+   [
+    "Northern",
+    9.78,
+    10.06
+   ],
+   [
+    "Taurids",
+    10.06,
+    10.64
+   ],
+   [
+    "on",
+    10.72,
+    10.82
+   ],
+   [
+    "November",
+    10.82,
+    11.06
+   ],
+   [
+    "12.",
+    11.06,
+    11.54
+   ],
+   [
+    "Spot",
+    12.34,
+    12.44
+   ],
+   [
+    "Mars",
+    12.44,
+    12.82
+   ],
+   [
+    "and",
+    12.82,
+    13.16
+   ],
+   [
+    "Jupiter",
+    13.16,
+    13.48
+   ],
+   [
+    "close",
+    13.48,
+    13.92
+   ],
+   [
+    "together",
+    13.92,
+    14.38
+   ],
+   [
+    "before",
+    14.38,
+    14.74
+   ],
+   [
+    "sunrise",
+    14.76,
+    15.22
+   ],
+   [
+    "on",
+    15.22,
+    15.56
+   ],
+   [
+    "November",
+    15.56,
+    15.82
+   ],
+   [
+    "15",
+    15.82,
+    16.26
+   ],
+   [
+    "and",
+    16.26,
+    16.62
+   ],
+   [
+    "16.",
+    16.62,
+    16.94
+   ],
+   [
+    "Watch",
+    17.8,
+    17.94
+   ],
+   [
+    "the",
+    17.94,
+    18.14
+   ],
+   [
+    "Leonids",
+    18.14,
+    18.64
+   ],
+   [
+    "peak",
+    18.64,
+    18.9
+   ],
+   [
+    "with",
+    19.1,
+    19.2
+   ],
+   [
+    "up",
+    19.2,
+    19.36
+   ],
+   [
+    "to",
+    19.36,
+    19.5
+   ],
+   [
+    "15",
+    19.68,
+    20.0
+   ],
+   [
+    "meteors",
+    20.0,
+    20.52
+   ],
+   [
+    "per",
+    20.52,
+    20.74
+   ],
+   [
+    "hour",
+    20.74,
+    21.04
+   ],
+   [
+    "on",
+    21.04,
+    21.3
+   ],
+   [
+    "November",
+    21.3,
+    21.56
+   ],
+   [
+    "17",
+    21.56,
+    22.02
+   ],
+   [
+    "and",
+    22.06,
+    22.4
+   ],
+   [
+    "18.",
+    22.4,
+    23.36
+   ],
+   [
+    "End",
+    23.62,
+    23.72
+   ],
+   [
+    "the",
+    23.72,
+    23.86
+   ],
+   [
+    "month",
+    23.86,
+    24.0
+   ],
+   [
+    "by",
+    24.0,
+    24.28
+   ],
+   [
+    "seeing",
+    24.28,
+    24.52
+   ],
+   [
+    "the",
+    24.52,
+    24.72
+   ],
+   [
+    "first",
+    24.72,
+    25.0
+   ],
+   [
+    "of",
+    25.0,
+    25.24
+   ],
+   [
+    "three",
+    25.38,
+    25.66
+   ],
+   [
+    "consecutive",
+    25.66,
+    26.4
+   ],
+   [
+    "supermoons",
+    26.4,
+    27.12
+   ],
+   [
+    "on",
+    27.26,
+    27.36
+   ],
+   [
+    "November",
+    27.54,
+    27.64
+   ],
+   [
+    "24.",
+    27.64,
+    27.84
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   27,
+   40,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/960px-Voyager_spacecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 595,
+   "license": "Public domain",
+   "artist": "NASA/JPL",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg",
+   "desc": "Voyager spacecraft — Artist's concept of Voyager in flight"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Solar_System%2C_in_Perspective_%2813388930593%29.jpg/960px-Solar_System%2C_in_Perspective_%2813388930593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Solar_System,_in_Perspective_(13388930593).jpg",
+   "desc": "Solar System, in Perspective (13388930593) — This artist's concept puts solar system distances in perspective. The scale bar is in astronomical units, with each set distance beyond 1 AU representing 10 times the previous distance. One AU is the distance from t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Taurid_Meteor_Shower_-_Joshua_Tree%2C_California_-_6_Nov._2015.jpg/960px-Taurid_Meteor_Shower_-_Joshua_Tree%2C_California_-_6_Nov._2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 2.0",
+   "artist": "Channone Arif",
+   "page": "https://commons.wikimedia.org/wiki/File:Taurid_Meteor_Shower_-_Joshua_Tree,_California_-_6_Nov._2015.jpg",
+   "desc": "Taurid Meteor Shower - Joshua Tree, California - 6 Nov. 2015 — Canon 6d - Rokinon 14mm - F2.8 - ISO 6400 - 30s Exposure"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Conjunction_%28Mars%2C_the_Moon%2C_Saturn_and_Jupiter%29_-_May_13%2C_2020_-_03%CB%9038_AM.jpg/960px-Conjunction_%28Mars%2C_the_Moon%2C_Saturn_and_Jupiter%29_-_May_13%2C_2020_-_03%CB%9038_AM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Juan Carlos Fonseca Mata",
+   "page": "https://commons.wikimedia.org/wiki/File:Conjunction_(Mars,_the_Moon,_Saturn_and_Jupiter)_-_May_13,_2020_-_03%CB%9038_AM.jpg",
+   "desc": "Conjunction (Mars, the Moon, Saturn and Jupiter) - May 13, 2020 - 03ː38 AM — Conjunction (Mars, the Moon, Saturn and Jupiter) - May 13, 2020 - 03ː38 AM. Seen from Dolores Hidalgo, Mexico."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Leonid_Meteor_Shower_Composite_%2850615053747%29.jpg/960px-Leonid_Meteor_Shower_Composite_%2850615053747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 900,
+   "license": "CC BY 2.0",
+   "artist": "Jim Vajda from Oxford, Ohio, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Leonid_Meteor_Shower_Composite_(50615053747).jpg",
+   "desc": "Leonid Meteor Shower Composite (50615053747) — A composite of five Leonid meteors captured during an overnight timelapse. The brightest meteor had a persistent trail that lasted for 20 minutes. Meteors: 11 frames at 15 second shutter, ISO 800, f/2.2 Background"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Supermoon_in_Cocoa_Beach.jpg/960px-Supermoon_in_Cocoa_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mitch199811",
+   "page": "https://commons.wikimedia.org/wiki/File:Supermoon_in_Cocoa_Beach.jpg",
+   "desc": "Supermoon in Cocoa Beach — 2023 July Supermoon rising over the Atlantic in Cocoa Beach, Florida."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "light-day",
+   "label": "Voyager 1 milestone"
+  },
+  {
+   "type": "stat",
+   "value": 24,
+   "unit": "hours",
+   "label": "light travel time"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "Nov",
+   "label": "Southern Taurids peak"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 15,
+   "unit": "meteors/hr",
+   "label": "Leonids peak"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+ "pron_wer": 0.07,
+ "angle": 0,
+ "source": {
+  "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+  "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T02:37:30Z",
+ "trimmed": true
+}
