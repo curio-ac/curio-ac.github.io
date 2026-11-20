@@ -306,7 +306,8 @@
   "Sophie Blanchard",
   "nasa:481009",
   "The Boat Race 2019",
-  "nasa:1480026"
+  "nasa:1480026",
+  "Rudolph Cartier"
  ],
  "rejected": [
   "Chameleon",
@@ -1383,6 +1384,9 @@
   ],
   "nasa:1480026": [
    "Spider Crater's Leaky Legs: This bizarre crater's appearance causes a fright."
+  ],
+  "Rudolph Cartier": [
+   "The BBC Mastermind Director: He was credited under a different name first!"
   ]
  },
  "exhausted": []

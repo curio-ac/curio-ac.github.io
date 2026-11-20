@@ -1,0 +1,412 @@
+{
+ "id": "en-6c937e12",
+ "lang": "en",
+ "title": "The Tree Of Heaven",
+ "cat": "biology",
+ "emoji": "🌳",
+ "sentences": [
+  "Meet the fast-growing tree of heaven!",
+  "It can reach 15 metres in 25 years.",
+  "It is native to northeast and central China and Taiwan.",
+  "It is a vigorous invasive species in Europe and North America.",
+  "While it rarely lives past 50 years, some specimens exceed 100 years.",
+  "In North America, its invasiveness is compounded by the destructive spotted lanternfly."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.2,
+    0.2
+   ],
+   [
+    "the",
+    0.2,
+    0.4
+   ],
+   [
+    "fast-growing",
+    0.52,
+    1.14
+   ],
+   [
+    "tree",
+    1.14,
+    1.44
+   ],
+   [
+    "of",
+    1.44,
+    1.64
+   ],
+   [
+    "heaven!",
+    1.64,
+    1.94
+   ],
+   [
+    "It",
+    2.38,
+    2.48
+   ],
+   [
+    "can",
+    2.48,
+    2.62
+   ],
+   [
+    "reach",
+    2.62,
+    2.84
+   ],
+   [
+    "15",
+    2.84,
+    3.38
+   ],
+   [
+    "metres",
+    3.38,
+    3.76
+   ],
+   [
+    "in",
+    3.76,
+    4.1
+   ],
+   [
+    "25",
+    4.26,
+    4.52
+   ],
+   [
+    "years.",
+    4.52,
+    5.16
+   ],
+   [
+    "It",
+    5.54,
+    5.64
+   ],
+   [
+    "is",
+    5.64,
+    5.76
+   ],
+   [
+    "native",
+    5.76,
+    5.98
+   ],
+   [
+    "to",
+    5.98,
+    6.22
+   ],
+   [
+    "northeast",
+    6.22,
+    6.64
+   ],
+   [
+    "and",
+    6.64,
+    7.02
+   ],
+   [
+    "central",
+    7.02,
+    7.36
+   ],
+   [
+    "China",
+    7.36,
+    7.74
+   ],
+   [
+    "and",
+    7.74,
+    7.98
+   ],
+   [
+    "Taiwan.",
+    7.98,
+    8.42
+   ],
+   [
+    "It",
+    9.0,
+    9.08
+   ],
+   [
+    "is",
+    9.08,
+    9.18
+   ],
+   [
+    "a",
+    9.18,
+    9.3
+   ],
+   [
+    "vigorous",
+    9.4,
+    9.76
+   ],
+   [
+    "invasive",
+    9.76,
+    10.1
+   ],
+   [
+    "species",
+    10.1,
+    10.72
+   ],
+   [
+    "in",
+    10.72,
+    11.02
+   ],
+   [
+    "Europe",
+    11.02,
+    11.32
+   ],
+   [
+    "and",
+    11.32,
+    11.54
+   ],
+   [
+    "North",
+    11.54,
+    11.72
+   ],
+   [
+    "America.",
+    11.72,
+    12.1
+   ],
+   [
+    "While",
+    12.68,
+    12.8
+   ],
+   [
+    "it",
+    12.8,
+    12.94
+   ],
+   [
+    "rarely",
+    12.94,
+    13.2
+   ],
+   [
+    "lives",
+    13.2,
+    13.58
+   ],
+   [
+    "past",
+    13.58,
+    13.86
+   ],
+   [
+    "50",
+    13.86,
+    14.18
+   ],
+   [
+    "years,",
+    14.18,
+    14.88
+   ],
+   [
+    "some",
+    15.08,
+    15.14
+   ],
+   [
+    "specimens",
+    15.14,
+    15.52
+   ],
+   [
+    "exceed",
+    15.52,
+    15.96
+   ],
+   [
+    "100",
+    15.96,
+    16.56
+   ],
+   [
+    "years.",
+    16.56,
+    16.74
+   ],
+   [
+    "In",
+    17.58,
+    17.66
+   ],
+   [
+    "North",
+    17.66,
+    17.86
+   ],
+   [
+    "America,",
+    17.86,
+    18.36
+   ],
+   [
+    "its",
+    18.66,
+    18.72
+   ],
+   [
+    "invasiveness",
+    18.72,
+    19.3
+   ],
+   [
+    "is",
+    19.3,
+    19.56
+   ],
+   [
+    "compounded",
+    19.88,
+    20.26
+   ],
+   [
+    "by",
+    20.28,
+    20.38
+   ],
+   [
+    "the",
+    20.38,
+    20.52
+   ],
+   [
+    "destructive",
+    20.54,
+    20.94
+   ],
+   [
+    "spotted",
+    21.04,
+    21.5
+   ],
+   [
+    "lanternfly.",
+    21.5,
+    21.84
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   24,
+   35,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ailante_MHNT.jpg/960px-Ailante_MHNT.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Roger Culos",
+   "page": "https://commons.wikimedia.org/wiki/File:Ailante_MHNT.jpg",
+   "desc": "Ailante MHNT — tree of heaven"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ailanthus_altissima_tree_%2817506220920%29.jpg/960px-Ailanthus_altissima_tree_%2817506220920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 964,
+   "license": "CC BY 2.0",
+   "artist": "Wayne National Forest",
+   "page": "https://commons.wikimedia.org/wiki/File:Ailanthus_altissima_tree_(17506220920).jpg",
+   "desc": "Ailanthus altissima tree (17506220920) — Sapling growth can reach 3-4 feet in one year, thus out growing nearly any native tree species. Mature trees can reach 80 feet in height. Ailanthus has male and female flowers on separate trees. Ailanthus trees are very"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/TreeOldAilanthus027.jpg/960px-TreeOldAilanthus027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Velocicaptor",
+   "page": "https://commons.wikimedia.org/wiki/File:TreeOldAilanthus027.jpg",
+   "desc": "TreeOldAilanthus027 — Old Ailanthus tree"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Spotted_lanternflies_on_a_tree_of_heaven_in_Baltimore.jpg/960px-Spotted_lanternflies_on_a_tree_of_heaven_in_Baltimore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Superraptor123",
+   "page": "https://commons.wikimedia.org/wiki/File:Spotted_lanternflies_on_a_tree_of_heaven_in_Baltimore.jpg",
+   "desc": "Spotted lanternflies on a tree of heaven in Baltimore — A gathering of invasive spotted lanternflies on a tree of heaven in Baltimore, Maryland"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 15,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 100,
+   "unit": "years",
+   "label": "specimen age"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q159570",
+ "pron_wer": 0.05,
+ "angle": 0,
+ "source": {
+  "title": "Ailanthus altissima",
+  "url": "https://en.wikipedia.org/wiki/Ailanthus_altissima",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T22:40:47Z",
+ "trimmed": true
+}
