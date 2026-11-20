@@ -1,0 +1,424 @@
+{
+ "id": "en-364c2996",
+ "lang": "en",
+ "title": "Pacific Northwest Cloud Cloak",
+ "cat": "geography",
+ "emoji": "☁️",
+ "sentences": [
+  "Mountains looked like islands in the clouds.",
+  "On September 19, 2026, cool marine air rolled off the Pacific Ocean.",
+  "This created a thick layer of stratus clouds over Washington and Oregon.",
+  "Taller peaks poked through the cloud layer like islands.",
+  "These clouds form when moist air gets trapped beneath warmer air.",
+  "By that afternoon, NASA satellites showed the skies had cleared."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Mountains",
+    0.34,
+    0.34
+   ],
+   [
+    "looked",
+    0.34,
+    0.74
+   ],
+   [
+    "like",
+    0.74,
+    0.94
+   ],
+   [
+    "islands",
+    0.94,
+    1.46
+   ],
+   [
+    "in",
+    1.46,
+    1.74
+   ],
+   [
+    "the",
+    1.74,
+    1.84
+   ],
+   [
+    "clouds.",
+    1.84,
+    2.54
+   ],
+   [
+    "On",
+    3.12,
+    3.14
+   ],
+   [
+    "September",
+    3.14,
+    3.4
+   ],
+   [
+    "19,",
+    3.4,
+    4.05
+   ],
+   [
+    "2026,",
+    4.52,
+    5.66
+   ],
+   [
+    "cool",
+    5.72,
+    5.94
+   ],
+   [
+    "marine",
+    5.94,
+    6.24
+   ],
+   [
+    "air",
+    6.24,
+    6.62
+   ],
+   [
+    "rolled",
+    6.62,
+    7.0
+   ],
+   [
+    "off",
+    7.0,
+    7.3
+   ],
+   [
+    "the",
+    7.3,
+    7.46
+   ],
+   [
+    "Pacific",
+    7.46,
+    7.72
+   ],
+   [
+    "Ocean.",
+    7.72,
+    8.18
+   ],
+   [
+    "This",
+    8.96,
+    9.08
+   ],
+   [
+    "created",
+    9.08,
+    9.44
+   ],
+   [
+    "a",
+    9.44,
+    9.68
+   ],
+   [
+    "thick",
+    9.68,
+    9.96
+   ],
+   [
+    "layer",
+    10.02,
+    10.26
+   ],
+   [
+    "of",
+    10.26,
+    10.5
+   ],
+   [
+    "stratus",
+    10.5,
+    10.92
+   ],
+   [
+    "clouds",
+    10.92,
+    11.14
+   ],
+   [
+    "over",
+    11.14,
+    11.44
+   ],
+   [
+    "Washington",
+    11.44,
+    11.92
+   ],
+   [
+    "and",
+    11.92,
+    12.24
+   ],
+   [
+    "Oregon.",
+    12.24,
+    12.56
+   ],
+   [
+    "Taller",
+    13.46,
+    13.72
+   ],
+   [
+    "peaks",
+    13.72,
+    13.98
+   ],
+   [
+    "poked",
+    13.98,
+    14.48
+   ],
+   [
+    "through",
+    14.64,
+    14.74
+   ],
+   [
+    "the",
+    14.74,
+    14.86
+   ],
+   [
+    "cloud",
+    14.86,
+    15.14
+   ],
+   [
+    "layer",
+    15.14,
+    15.38
+   ],
+   [
+    "like",
+    15.38,
+    15.6
+   ],
+   [
+    "islands.",
+    15.6,
+    16.0
+   ],
+   [
+    "These",
+    16.88,
+    16.98
+   ],
+   [
+    "clouds",
+    16.98,
+    17.28
+   ],
+   [
+    "form",
+    17.28,
+    17.6
+   ],
+   [
+    "when",
+    17.6,
+    17.78
+   ],
+   [
+    "moist",
+    17.78,
+    18.06
+   ],
+   [
+    "air",
+    18.06,
+    18.38
+   ],
+   [
+    "gets",
+    18.38,
+    18.64
+   ],
+   [
+    "trapped",
+    18.64,
+    18.92
+   ],
+   [
+    "beneath",
+    18.92,
+    19.24
+   ],
+   [
+    "warmer",
+    19.24,
+    19.58
+   ],
+   [
+    "air.",
+    19.58,
+    19.68
+   ],
+   [
+    "By",
+    20.54,
+    20.64
+   ],
+   [
+    "that",
+    20.64,
+    20.76
+   ],
+   [
+    "afternoon,",
+    20.76,
+    21.06
+   ],
+   [
+    "NASA",
+    21.74,
+    21.96
+   ],
+   [
+    "satellites",
+    21.96,
+    22.4
+   ],
+   [
+    "showed",
+    22.4,
+    22.68
+   ],
+   [
+    "the",
+    22.68,
+    22.84
+   ],
+   [
+    "skies",
+    22.84,
+    23.14
+   ],
+   [
+    "had",
+    23.14,
+    23.36
+   ],
+   [
+    "cleared.",
+    23.36,
+    23.74
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   31,
+   40,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Cloudy_Cloak_Over_the_Northwest_%281393311%29.jpg/960px-Cloudy_Cloak_Over_the_Northwest_%281393311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 788,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloudy_Cloak_Over_the_Northwest_(1393311).jpg",
+   "desc": "Cloudy Cloak Over the Northwest (1393311) — NASA Earth Observatory image by Michala Garrison, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Lindsey Doermann."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Pacific_Coast_Scenic_Byway_-_Oregon_-_The_Pacific_Ocean_Along_the_Oregon_Coast_-_NARA_-_7720943.jpg/960px-Pacific_Coast_Scenic_Byway_-_Oregon_-_The_Pacific_Ocean_Along_the_Oregon_Coast_-_NARA_-_7720943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Brett Hansen, U.S. Department of Transportation",
+   "page": "https://commons.wikimedia.org/wiki/File:Pacific_Coast_Scenic_Byway_-_Oregon_-_The_Pacific_Ocean_Along_the_Oregon_Coast_-_NARA_-_7720943.jpg",
+   "desc": "Pacific Coast Scenic Byway - Oregon - The Pacific Ocean Along the Oregon Coast - NARA - 7720943 — Scope and content: The original finding aid described this photograph as: Original Caption: The mighty Pacific Ocean crashes against the rocks along the Pacific C"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Freezing_rain_and_inversion.png/960px-Freezing_rain_and_inversion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 396,
+   "license": "Public domain",
+   "artist": "Pekachu",
+   "page": "https://commons.wikimedia.org/wiki/File:Freezing_rain_and_inversion.png",
+   "desc": "Freezing rain and inversion — English:This figure shows the cause of freezing rain(temperature inversion). 日本語:過冷却の雨（雨氷）の発生原因を示した図。降水の形態と逆転層の位置によって雨氷の発生地域が決まる。"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Clear_Skies_over_the_Pacific_Northwest_%28MODIS_2024-03-24%29.jpg/960px-Clear_Skies_over_the_Pacific_Northwest_%28MODIS_2024-03-24%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 582,
+   "license": "Public domain",
+   "artist": "MODIS Land Rapid Response Team, NASA GSFC",
+   "page": "https://commons.wikimedia.org/wiki/File:Clear_Skies_over_the_Pacific_Northwest_(MODIS_2024-03-24).jpg",
+   "desc": "Clear Skies over the Pacific Northwest (MODIS 2024-03-24) — On March 17, 2024, the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Aqua satellite acquired a true-color image of a portion of the Pacific Northwest that is shared by both Canada an"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  0,
+  0,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "Olympic Mountains",
+   "box": [
+    218,
+    352,
+    265,
+    454
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Cloudy Cloak Over the Northwest",
+  "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T12:59:26Z",
+ "trimmed": true
+}
