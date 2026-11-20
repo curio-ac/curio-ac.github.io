@@ -297,7 +297,8 @@
   "Bryce Canyon National Park",
   "nasa:1510412",
   "nasa:1280207",
-  "City of Angels (Thirty Seconds to Mars song)"
+  "City of Angels (Thirty Seconds to Mars song)",
+  "nasa:1285115"
  ],
  "rejected": [
   "Chameleon",
@@ -1344,6 +1345,9 @@
   ],
   "City of Angels (Thirty Seconds to Mars song)": [
    "Thirty Seconds to Mars Hit: One song took forever to record."
+  ],
+  "nasa:1285115": [
+   "Hollywood's Favorite Alien Landscape: These rocks look like they point toward stars."
   ]
  },
  "exhausted": []

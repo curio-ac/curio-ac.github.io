@@ -1,0 +1,410 @@
+{
+ "id": "en-25ffa713",
+ "lang": "en",
+ "title": "This Bird Loves The Lowlands",
+ "cat": "biology",
+ "emoji": "🐦",
+ "sentences": [
+  "This bird thrives in forest swamps.",
+  "The black-and-yellow broadbill lives across Southeast Asia.",
+  "It sticks to lowlands but reaches 1,220 m high.",
+  "You can find them in evergreen and dipterocarp forests.",
+  "These birds also frequent plantations with large trees.",
+  "They mostly eat insects but sometimes snack on molluscs.",
+  "It even eats fruit when it happens to find some."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.22
+   ],
+   [
+    "bird",
+    0.22,
+    0.5
+   ],
+   [
+    "thrives",
+    0.5,
+    1.16
+   ],
+   [
+    "in",
+    1.16,
+    1.36
+   ],
+   [
+    "forest",
+    1.36,
+    1.76
+   ],
+   [
+    "swamps.",
+    1.76,
+    2.46
+   ],
+   [
+    "The",
+    2.86,
+    2.94
+   ],
+   [
+    "black-and-yellow",
+    2.94,
+    3.56
+   ],
+   [
+    "broadbill",
+    3.56,
+    4.1
+   ],
+   [
+    "lives",
+    4.1,
+    4.44
+   ],
+   [
+    "across",
+    4.44,
+    4.8
+   ],
+   [
+    "Southeast",
+    4.8,
+    5.28
+   ],
+   [
+    "Asia.",
+    5.28,
+    6.18
+   ],
+   [
+    "It",
+    6.18,
+    6.24
+   ],
+   [
+    "sticks",
+    6.24,
+    6.44
+   ],
+   [
+    "to",
+    6.44,
+    6.68
+   ],
+   [
+    "lowlands",
+    6.68,
+    7.1
+   ],
+   [
+    "but",
+    7.14,
+    7.38
+   ],
+   [
+    "reaches",
+    7.48,
+    7.72
+   ],
+   [
+    "1,220",
+    7.72,
+    8.82
+   ],
+   [
+    "m",
+    8.82,
+    8.98
+   ],
+   [
+    "high.",
+    8.98,
+    9.4
+   ],
+   [
+    "You",
+    10.02,
+    10.1
+   ],
+   [
+    "can",
+    10.1,
+    10.24
+   ],
+   [
+    "find",
+    10.24,
+    10.44
+   ],
+   [
+    "them",
+    10.44,
+    10.62
+   ],
+   [
+    "in",
+    10.62,
+    10.8
+   ],
+   [
+    "evergreen",
+    10.8,
+    11.34
+   ],
+   [
+    "and",
+    11.34,
+    11.62
+   ],
+   [
+    "dipterocarp",
+    11.62,
+    12.24
+   ],
+   [
+    "forests.",
+    12.24,
+    12.54
+   ],
+   [
+    "These",
+    13.32,
+    13.42
+   ],
+   [
+    "birds",
+    13.42,
+    13.62
+   ],
+   [
+    "also",
+    13.62,
+    14.0
+   ],
+   [
+    "frequent",
+    14.0,
+    14.36
+   ],
+   [
+    "plantations",
+    14.58,
+    15.1
+   ],
+   [
+    "with",
+    15.1,
+    15.28
+   ],
+   [
+    "large",
+    15.28,
+    15.5
+   ],
+   [
+    "trees.",
+    15.5,
+    15.88
+   ],
+   [
+    "They",
+    16.54,
+    16.64
+   ],
+   [
+    "mostly",
+    16.64,
+    16.92
+   ],
+   [
+    "eat",
+    16.92,
+    17.24
+   ],
+   [
+    "insects",
+    17.24,
+    17.64
+   ],
+   [
+    "but",
+    17.64,
+    18.04
+   ],
+   [
+    "sometimes",
+    18.04,
+    18.48
+   ],
+   [
+    "snack",
+    18.48,
+    18.78
+   ],
+   [
+    "on",
+    18.78,
+    18.98
+   ],
+   [
+    "molluscs.",
+    18.98,
+    19.58
+   ],
+   [
+    "It",
+    19.98,
+    20.06
+   ],
+   [
+    "even",
+    20.06,
+    20.28
+   ],
+   [
+    "eats",
+    20.28,
+    20.44
+   ],
+   [
+    "fruit",
+    20.44,
+    20.78
+   ],
+   [
+    "when",
+    20.78,
+    21.0
+   ],
+   [
+    "it",
+    21.0,
+    21.1
+   ],
+   [
+    "happens",
+    21.1,
+    21.28
+   ],
+   [
+    "to",
+    21.28,
+    21.46
+   ],
+   [
+    "find",
+    21.52,
+    21.62
+   ],
+   [
+    "some.",
+    21.62,
+    21.8
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   22,
+   31,
+   39,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Black-and-yellow_Broadbill_-_Krung_Ching_-_Thailand_S4E3736_%2814071771530%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1079,
+   "license": "CC BY-SA 2.0",
+   "artist": "Francesco Veronesi from Italy",
+   "page": "https://commons.wikimedia.org/wiki/File:Black-and-yellow_Broadbill_-_Krung_Ching_-_Thailand_S4E3736_(14071771530).jpg",
+   "desc": "Black-and-yellow Broadbill - Krung Ching - Thailand S4E3736 (14071771530) — Black-and-yellow Broadbill - Krung Ching - Thailand_S4E3736"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Lowland_forest_in_Mt._Leuser_NP_%288187201955%29.jpg/960px-Lowland_forest_in_Mt._Leuser_NP_%288187201955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "gbohne from Berlin, Germany",
+   "page": "https://commons.wikimedia.org/wiki/File:Lowland_forest_in_Mt._Leuser_NP_(8187201955).jpg",
+   "desc": "Lowland forest in Mt. Leuser NP (8187201955) — ca. 360m asl., vic. Ketambe Friendship Guesthouse, north of Kutacane"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Kuamut_Forest_Reserve_Sabah_-_Dipterocarp_forest_on_steep_slopes.jpg/960px-Kuamut_Forest_Reserve_Sabah_-_Dipterocarp_forest_on_steep_slopes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY-SA 4.0",
+   "artist": "K. Yoganand",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuamut_Forest_Reserve_Sabah_-_Dipterocarp_forest_on_steep_slopes.jpg",
+   "desc": "Kuamut Forest Reserve Sabah - Dipterocarp forest on steep slopes — Kuamut Forest Reserve Sabah - Dipterocarp forest on steep slopes; allocated for helicopter logging in 2017 - 2018. South-western part of the reserve."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Agro-Forestry_Plantation-3.jpg/960px-Agro-Forestry_Plantation-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC0",
+   "artist": "S.K. Gawali",
+   "page": "https://commons.wikimedia.org/wiki/File:Agro-Forestry_Plantation-3.jpg",
+   "desc": "Agro-Forestry Plantation-3 — Green India initiative through tree planting outside forests"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1220,
+   "unit": "m",
+   "label": "elevation reached"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1060483",
+ "pron_wer": 0.067,
+ "angle": 2,
+ "source": {
+  "title": "Black-and-yellow broadbill",
+  "url": "https://en.wikipedia.org/wiki/Black-and-yellow_broadbill",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T19:44:49Z",
+ "trimmed": true
+}
