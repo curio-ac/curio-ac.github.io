@@ -1,0 +1,471 @@
+{
+ "id": "en-41364a89",
+ "lang": "en",
+ "title": "The Plant With Eternal Leaves",
+ "cat": "biology",
+ "emoji": "🌿",
+ "sentences": [
+  "This plant grows leaves that last 13 years.",
+  "That is the longest lifespan recorded for any flowering plant's leaf.",
+  "Banksia petiolaris is a rare prostrate shrub native to Western Australia.",
+  "It features horizontal stems with thick, leathery upright leaves.",
+  "In spring, it produces yellow cylindrical flower spikes up to 16 cm high.",
+  "These flowers rely on insects like bees and ants for pollination.",
+  "After bushfires, it regenerates solely through seeds."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.35,
+    0.35
+   ],
+   [
+    "plant",
+    0.35,
+    0.61
+   ],
+   [
+    "grows",
+    0.61,
+    0.91
+   ],
+   [
+    "leaves",
+    0.91,
+    1.29
+   ],
+   [
+    "that",
+    1.29,
+    1.55
+   ],
+   [
+    "last",
+    1.55,
+    1.89
+   ],
+   [
+    "13",
+    1.97,
+    2.11
+   ],
+   [
+    "years.",
+    2.11,
+    2.86
+   ],
+   [
+    "That",
+    3.39,
+    3.43
+   ],
+   [
+    "is",
+    3.43,
+    3.69
+   ],
+   [
+    "the",
+    3.69,
+    3.81
+   ],
+   [
+    "longest",
+    3.81,
+    4.09
+   ],
+   [
+    "lifespan",
+    4.09,
+    4.49
+   ],
+   [
+    "recorded",
+    4.53,
+    5.09
+   ],
+   [
+    "for",
+    5.09,
+    5.37
+   ],
+   [
+    "any",
+    5.37,
+    5.57
+   ],
+   [
+    "flowering",
+    5.57,
+    6.05
+   ],
+   [
+    "plant's",
+    6.05,
+    6.49
+   ],
+   [
+    "leaf.",
+    6.49,
+    6.73
+   ],
+   [
+    "Banksia",
+    7.17,
+    7.59
+   ],
+   [
+    "petiolaris",
+    7.59,
+    8.35
+   ],
+   [
+    "is",
+    8.41,
+    8.51
+   ],
+   [
+    "a",
+    8.51,
+    8.63
+   ],
+   [
+    "rare",
+    8.67,
+    8.77
+   ],
+   [
+    "prostrate",
+    8.77,
+    9.29
+   ],
+   [
+    "shrub",
+    9.29,
+    9.71
+   ],
+   [
+    "native",
+    9.77,
+    9.97
+   ],
+   [
+    "to",
+    9.97,
+    10.23
+   ],
+   [
+    "Western",
+    10.23,
+    10.45
+   ],
+   [
+    "Australia.",
+    10.45,
+    10.55
+   ],
+   [
+    "It",
+    11.35,
+    11.39
+   ],
+   [
+    "features",
+    11.49,
+    11.67
+   ],
+   [
+    "horizontal",
+    11.67,
+    12.17
+   ],
+   [
+    "stems",
+    12.17,
+    12.53
+   ],
+   [
+    "with",
+    12.53,
+    12.91
+   ],
+   [
+    "thick,",
+    12.91,
+    13.01
+   ],
+   [
+    "leathery",
+    13.33,
+    13.77
+   ],
+   [
+    "upright",
+    13.77,
+    13.99
+   ],
+   [
+    "leaves.",
+    13.99,
+    14.55
+   ],
+   [
+    "In",
+    14.81,
+    14.89
+   ],
+   [
+    "spring,",
+    14.89,
+    15.43
+   ],
+   [
+    "it",
+    15.43,
+    15.49
+   ],
+   [
+    "produces",
+    15.49,
+    15.85
+   ],
+   [
+    "yellow",
+    15.85,
+    16.23
+   ],
+   [
+    "cylindrical",
+    16.23,
+    16.79
+   ],
+   [
+    "flower",
+    16.79,
+    17.09
+   ],
+   [
+    "spikes",
+    17.09,
+    17.45
+   ],
+   [
+    "up",
+    17.45,
+    17.69
+   ],
+   [
+    "to",
+    17.73,
+    17.83
+   ],
+   [
+    "16",
+    17.83,
+    18.25
+   ],
+   [
+    "cm",
+    18.25,
+    18.55
+   ],
+   [
+    "high.",
+    18.55,
+    19.21
+   ],
+   [
+    "These",
+    19.45,
+    19.57
+   ],
+   [
+    "flowers",
+    19.57,
+    19.93
+   ],
+   [
+    "rely",
+    19.93,
+    20.21
+   ],
+   [
+    "on",
+    20.21,
+    20.45
+   ],
+   [
+    "insects",
+    20.45,
+    20.81
+   ],
+   [
+    "like",
+    20.81,
+    21.09
+   ],
+   [
+    "bees",
+    21.09,
+    21.31
+   ],
+   [
+    "and",
+    21.31,
+    21.51
+   ],
+   [
+    "ants",
+    21.51,
+    21.77
+   ],
+   [
+    "for",
+    21.77,
+    21.95
+   ],
+   [
+    "pollination.",
+    21.95,
+    22.6
+   ],
+   [
+    "After",
+    22.89,
+    23.07
+   ],
+   [
+    "bushfires,",
+    23.07,
+    23.77
+   ],
+   [
+    "it",
+    23.87,
+    23.93
+   ],
+   [
+    "regenerates",
+    23.93,
+    24.53
+   ],
+   [
+    "solely",
+    24.59,
+    24.89
+   ],
+   [
+    "through",
+    25.01,
+    25.17
+   ],
+   [
+    "seeds.",
+    25.17,
+    25.57
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   30,
+   39,
+   52,
+   63
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Banksia_petiolaris_foliage.jpg/960px-Banksia_petiolaris_foliage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 686,
+   "license": "CC BY-SA 3.0",
+   "artist": "Hesperian",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_petiolaris_foliage.jpg",
+   "desc": "Banksia petiolaris foliage — Foliage of Banksia petiolaris, in cultivation, Kings Park, Perth, Western Australia"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Banksia_petiolaris.jpg/960px-Banksia_petiolaris.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 362,
+   "license": "CC BY-SA 3.0",
+   "artist": "Hesperian",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_petiolaris.jpg",
+   "desc": "Banksia petiolaris — Banksia petiolaris, in cultivation, Kings Park, Perth, Western Australia"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Banksia_petiolaris_flower_and_foliage_01.jpg/960px-Banksia_petiolaris_flower_and_foliage_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Allthingsnative",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_petiolaris_flower_and_foliage_01.jpg",
+   "desc": "Banksia petiolaris flower and foliage 01 — Banksia petiolaris cultivated plant growing in the Australian National Botanic Gardens"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  0,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 13,
+   "unit": "years",
+   "label": "leaf lifespan"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "leathery upright leaves",
+   "box": [
+    66,
+    346,
+    488,
+    478
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 0.16,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4856668",
+ "pron_wer": 0.07,
+ "angle": 0,
+ "source": {
+  "title": "Banksia petiolaris",
+  "url": "https://en.wikipedia.org/wiki/Banksia_petiolaris",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T16:35:43Z",
+ "trimmed": true
+}

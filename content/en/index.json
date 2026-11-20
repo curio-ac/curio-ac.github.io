@@ -288,7 +288,8 @@
   "270 Park Avenue (1960–2021)",
   "nasa:1505059",
   "Bharattherium",
-  "Coventry ring road"
+  "Coventry ring road",
+  "nasa:1504151"
  ],
  "rejected": [
   "Chameleon",
@@ -1304,6 +1305,9 @@
   ],
   "Coventry ring road": [
    "Coventry's Tricky Ring Road: This road is notoriously hard to drive."
+  ],
+  "nasa:1504151": [
+   "NASA's Secret Asteroid Hunter: NASA is hunting asteroids hiding near the Sun."
   ]
  },
  "exhausted": []
