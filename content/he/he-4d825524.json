@@ -1,0 +1,336 @@
+{
+ "id": "he-4d825524",
+ "lang": "he",
+ "title": "הגרנד קניון של פנסילבניה",
+ "cat": "geography",
+ "emoji": "🌲",
+ "sentences": [
+  "בפנסילבניה מסתתר קניון מפתיע ומיוער.",
+  "ערוץ פיין קריק מגיע לעומק של 460 מטרים.",
+  "הוא נוצר כאשר קרחונים חסמו זרימת נהר עתיקה.",
+  "בעבר האזור כונה מדבר בגלל כריתת עצים מאסיבית.",
+  "כיום היערות השתקמו ומציגים שלכת אדומה וזהובה.",
+  "זהו אתר טבע לאומי מרהיב בארצות הברית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "בפנסילבניה",
+    0,
+    0.96
+   ],
+   [
+    "מסתתר",
+    0.96,
+    1.7
+   ],
+   [
+    "קניון",
+    1.7,
+    2.18
+   ],
+   [
+    "מפתיע",
+    2.18,
+    2.8
+   ],
+   [
+    "ומיוער.",
+    2.8,
+    3.38
+   ],
+   [
+    "ערוץ",
+    4.12,
+    4.42
+   ],
+   [
+    "פיין",
+    4.58,
+    4.8
+   ],
+   [
+    "קריק",
+    4.8,
+    5.14
+   ],
+   [
+    "מגיע",
+    5.3,
+    5.58
+   ],
+   [
+    "לעומק",
+    5.58,
+    6.04
+   ],
+   [
+    "של",
+    6.04,
+    6.22
+   ],
+   [
+    "460",
+    6.22,
+    7.02
+   ],
+   [
+    "מטרים.",
+    7.02,
+    7.8
+   ],
+   [
+    "הוא",
+    8.46,
+    8.56
+   ],
+   [
+    "נוצר",
+    8.56,
+    8.98
+   ],
+   [
+    "כאשר",
+    8.98,
+    9.42
+   ],
+   [
+    "קרחונים",
+    9.72,
+    9.98
+   ],
+   [
+    "חסמו",
+    9.98,
+    10.54
+   ],
+   [
+    "זרימת",
+    10.54,
+    10.96
+   ],
+   [
+    "נהר",
+    10.96,
+    11.4
+   ],
+   [
+    "עתיקה.",
+    11.4,
+    11.5
+   ],
+   [
+    "בעבר",
+    12.56,
+    12.98
+   ],
+   [
+    "האזור",
+    12.98,
+    13.54
+   ],
+   [
+    "כונה",
+    13.54,
+    13.86
+   ],
+   [
+    "מדבר",
+    13.86,
+    14.4
+   ],
+   [
+    "בגלל",
+    14.4,
+    14.84
+   ],
+   [
+    "כריתת",
+    14.84,
+    15.38
+   ],
+   [
+    "עצים",
+    15.56,
+    15.76
+   ],
+   [
+    "מאסיבית.",
+    15.76,
+    16.14
+   ],
+   [
+    "כיום",
+    17.06,
+    17.34
+   ],
+   [
+    "היערות",
+    17.34,
+    17.96
+   ],
+   [
+    "השתקמו",
+    17.98,
+    18.52
+   ],
+   [
+    "ומציגים",
+    18.52,
+    19.24
+   ],
+   [
+    "שלכת",
+    19.24,
+    19.8
+   ],
+   [
+    "אדומה",
+    19.86,
+    20.38
+   ],
+   [
+    "וזהובה.",
+    20.38,
+    20.96
+   ],
+   [
+    "זהו",
+    21.64,
+    21.82
+   ],
+   [
+    "אתר",
+    21.82,
+    22.14
+   ],
+   [
+    "טבע",
+    22.14,
+    22.42
+   ],
+   [
+    "לאומי",
+    22.42,
+    22.88
+   ],
+   [
+    "מרהיב",
+    22.88,
+    23.42
+   ],
+   [
+    "בארצות",
+    23.42,
+    23.86
+   ],
+   [
+    "הברית.",
+    23.86,
+    24.36
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   13,
+   21,
+   29,
+   36
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pine_Creek_Gorge%2C_north_from_Leonard_Harrison_State_Park.JPG/960px-Pine_Creek_Gorge%2C_north_from_Leonard_Harrison_State_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ruhrfisch",
+   "page": "https://commons.wikimedia.org/wiki/File:Pine_Creek_Gorge,_north_from_Leonard_Harrison_State_Park.JPG",
+   "desc": "Pine Creek Gorge, north from Leonard Harrison State Park — Pine Creek Gorge with Pine Creek and Pine Creek Rail Trail, looking north from the main vista in Leonard Harrison State Park in Shippen Township, Tioga County, Pennsylvania, United States"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pine_Creek_Gorge_Panorama.jpg/960px-Pine_Creek_Gorge_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 175,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ruhrfisch",
+   "page": "https://commons.wikimedia.org/wiki/File:Pine_Creek_Gorge_Panorama.jpg",
+   "desc": "Pine Creek Gorge Panorama — Pine Creek Gorge Panorama, taken from West Rim Trail in Tioga County, Pennsylvania, USA. View is of the \"Grand Canyon of Pennsylvania\" looking south, Pine Creek and the rail-trail are visible."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/PA-grandcanyon-autumn.JPG/960px-PA-grandcanyon-autumn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 854,
+   "license": "CC BY 3.0",
+   "artist": "Snottywong",
+   "page": "https://commons.wikimedia.org/wiki/File:PA-grandcanyon-autumn.JPG",
+   "desc": "PA-grandcanyon-autumn — A view of Pine Creek Gorge (a.k.a. Pennsylvania Grand Canyon) in autumn."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pine-creek-gorge-aerial-3.jpg/960px-Pine-creek-gorge-aerial-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Jane Rainsford",
+   "page": "https://commons.wikimedia.org/wiki/File:Pine-creek-gorge-aerial-3.jpg",
+   "desc": "Pine-creek-gorge-aerial-3 — Aerial view of Pine Creek Gorge in Pennsylvania, near Ansonia"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 460,
+   "unit": "מטר",
+   "label": "עומק הערוץ"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "autumn forest canopy",
+   "box": [
+    141,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+ "pron_wer": 0.023,
+ "angle": 0,
+ "source": {
+  "title": "Pennsylvania’s Grand Canyon",
+  "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T15:12:34Z",
+ "trimmed": true
+}
