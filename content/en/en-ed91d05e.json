@@ -1,0 +1,455 @@
+{
+ "id": "en-ed91d05e",
+ "lang": "en",
+ "title": "The Frightful Lizard",
+ "cat": "biology",
+ "emoji": "🦖",
+ "sentences": [
+  "Meet the frightful lizard, Daspletosaurus!",
+  "This tyrannosaurid lived in Laramidia between 77 and 74.4 million years ago.",
+  "An average adult measured 8.5 to 9 meters long.",
+  "It weighed up to 3 metric tons as a bipedal predator.",
+  "Its fossils have been found in Alberta and Montana.",
+  "This creature is closely related to Tyrannosaurus.",
+  "Multiple unnamed specimens may even represent new species."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.35,
+    0.49
+   ],
+   [
+    "the",
+    0.49,
+    0.67
+   ],
+   [
+    "frightful",
+    0.71,
+    1.03
+   ],
+   [
+    "lizard,",
+    1.03,
+    1.59
+   ],
+   [
+    "Daspletosaurus!",
+    2.41,
+    2.91
+   ],
+   [
+    "This",
+    2.91,
+    3.07
+   ],
+   [
+    "tyrannosaurid",
+    3.07,
+    3.89
+   ],
+   [
+    "lived",
+    3.89,
+    4.07
+   ],
+   [
+    "in",
+    4.07,
+    4.27
+   ],
+   [
+    "Laramidia",
+    4.27,
+    4.83
+   ],
+   [
+    "between",
+    4.83,
+    5.13
+   ],
+   [
+    "77",
+    5.13,
+    5.79
+   ],
+   [
+    "and",
+    5.79,
+    6.13
+   ],
+   [
+    "74.4",
+    6.13,
+    7.15
+   ],
+   [
+    "million",
+    7.15,
+    7.41
+   ],
+   [
+    "years",
+    7.41,
+    7.69
+   ],
+   [
+    "ago.",
+    7.69,
+    7.97
+   ],
+   [
+    "An",
+    8.31,
+    8.41
+   ],
+   [
+    "average",
+    8.41,
+    8.71
+   ],
+   [
+    "adult",
+    8.71,
+    9.01
+   ],
+   [
+    "measured",
+    9.01,
+    9.35
+   ],
+   [
+    "8.5",
+    9.35,
+    10.11
+   ],
+   [
+    "to",
+    10.11,
+    10.21
+   ],
+   [
+    "9",
+    10.21,
+    10.43
+   ],
+   [
+    "meters",
+    10.43,
+    10.61
+   ],
+   [
+    "long.",
+    10.61,
+    11.09
+   ],
+   [
+    "It",
+    11.37,
+    11.47
+   ],
+   [
+    "weighed",
+    11.47,
+    11.61
+   ],
+   [
+    "up",
+    11.61,
+    11.75
+   ],
+   [
+    "to",
+    11.75,
+    11.87
+   ],
+   [
+    "3",
+    11.87,
+    12.11
+   ],
+   [
+    "metric",
+    12.11,
+    12.39
+   ],
+   [
+    "tons",
+    12.55,
+    12.69
+   ],
+   [
+    "as",
+    12.69,
+    12.97
+   ],
+   [
+    "a",
+    12.97,
+    13.07
+   ],
+   [
+    "bipedal",
+    13.07,
+    13.51
+   ],
+   [
+    "predator.",
+    13.51,
+    13.86
+   ],
+   [
+    "Its",
+    14.25,
+    14.35
+   ],
+   [
+    "fossils",
+    14.35,
+    14.67
+   ],
+   [
+    "have",
+    14.67,
+    14.93
+   ],
+   [
+    "been",
+    14.93,
+    15.03
+   ],
+   [
+    "found",
+    15.03,
+    15.25
+   ],
+   [
+    "in",
+    15.25,
+    15.47
+   ],
+   [
+    "Alberta",
+    15.47,
+    15.75
+   ],
+   [
+    "and",
+    15.75,
+    16.07
+   ],
+   [
+    "Montana.",
+    16.07,
+    16.72
+   ],
+   [
+    "This",
+    16.91,
+    17.05
+   ],
+   [
+    "creature",
+    17.05,
+    17.35
+   ],
+   [
+    "is",
+    17.35,
+    17.57
+   ],
+   [
+    "closely",
+    17.57,
+    17.83
+   ],
+   [
+    "related",
+    17.83,
+    18.21
+   ],
+   [
+    "to",
+    18.21,
+    18.41
+   ],
+   [
+    "Tyrannosaurus.",
+    18.41,
+    19.06
+   ],
+   [
+    "Multiple",
+    19.55,
+    19.79
+   ],
+   [
+    "unnamed",
+    19.79,
+    20.27
+   ],
+   [
+    "specimens",
+    20.27,
+    20.73
+   ],
+   [
+    "may",
+    20.73,
+    21.07
+   ],
+   [
+    "even",
+    21.07,
+    21.31
+   ],
+   [
+    "represent",
+    21.31,
+    21.69
+   ],
+   [
+    "new",
+    21.69,
+    21.99
+   ],
+   [
+    "species.",
+    21.99,
+    22.49
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   17,
+   26,
+   37,
+   46,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Daspletosaurus_torDB.jpg/960px-Daspletosaurus_torDB.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "CC BY-SA 3.0",
+   "artist": "ru:Creator:Dmitry Bogdanov}. The original uploader was ДиБгд at Russian Wikipedi",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_torDB.jpg",
+   "desc": "Daspletosaurus torDB — Daspletosaurus torosus"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/North_America_Late_Cretaceous_%28~75mya%29_Western_Interoir_Seaway_map_PLoS_ONE.png/960px-North_America_Late_Cretaceous_%28~75mya%29_Western_Interoir_Seaway_map_PLoS_ONE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 884,
+   "license": "CC BY 2.5",
+   "artist": "Scott D. Sampson, Mark A. Loewen, Andrew A. Farke, Eric M. Roberts, Catherine A.",
+   "page": "https://commons.wikimedia.org/wiki/File:North_America_Late_Cretaceous_(~75mya)_Western_Interoir_Seaway_map_PLoS_ONE.png",
+   "desc": "North America Late Cretaceous (~75mya) Western Interoir Seaway map PLoS ONE — Paleogeography of North America during the late Campanian Stage of the Late Cretaceous (~75 Ma). Modified after Blakey."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Daspletosaurusscale.png/960px-Daspletosaurusscale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 288,
+   "license": "CC BY-SA 3.0",
+   "artist": "Matt Martyniuk",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurusscale.png",
+   "desc": "Daspletosaurusscale — Scale chart for Daspletosaurus torosus"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tyrannosauroid_growth_curves_unlabelled.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 519,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Tyrannosauroid_growth_curves_unlabelled.png",
+   "desc": "Tyrannosauroid growth curves unlabelled — Tyrannosauroid growth curves - unlabelled, use Template:Annotated image Legend: Horiz axis: Age (yrs) 0-30, steps of 5; Vert axis: Weight (kg), 0-6000, steps of 1000; Black = Tyrannosaurus, Green = Daspletosaurus, Blue"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Fig_4_Map_of_portions_of_southern_Alberta_and_Northern_Montana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 774,
+   "license": "Public domain",
+   "artist": "William C. Alden",
+   "page": "https://commons.wikimedia.org/wiki/File:Fig_4_Map_of_portions_of_southern_Alberta_and_Northern_Montana.jpg",
+   "desc": "Fig 4 Map of portions of southern Alberta and Northern Montana — Fig 4 Map of portions of southern Alberta and Northern Montana"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tyrannosauridae_skull_comparison_01.JPG/960px-Tyrannosauridae_skull_comparison_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 689,
+   "license": "CC BY 3.0",
+   "artist": "Conty",
+   "page": "https://commons.wikimedia.org/wiki/File:Tyrannosauridae_skull_comparison_01.JPG",
+   "desc": "Tyrannosauridae skull comparison 01 — Comparison of skulls from 3 dfferent genera of tyrannosauridae dinosaurs. The skulls of Tyrannosauridae are very caractheristic, with fused bones, special muscle attachment, and sharp teeth shaped like bananas, and deepl"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Daspletosaurus_skull_anagenesis.png/960px-Daspletosaurus_skull_anagenesis.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 828,
+   "license": "CC BY 4.0",
+   "artist": "Elías A. Warshaw​ &amp; Denver W. Fowler",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_skull_anagenesis.png",
+   "desc": "Daspletosaurus skull anagenesis — Time-calibrated sequence of Daspletosaurus chronospecies. Ages (left) are in Ma and are based on Carr et al. (2017) and Fowler (2017) for D. torosus and D. horneri. Representative skulls are, from top to bottom: D. horne"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 9,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "metric tons",
+   "label": "bipedal predator"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q18511071",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Daspletosaurus",
+  "url": "https://en.wikipedia.org/wiki/Daspletosaurus",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T05:33:22Z",
+ "trimmed": true
+}

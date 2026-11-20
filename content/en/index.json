@@ -256,7 +256,8 @@
   "Battle of Barnet",
   "Battle of the Aegates",
   "Albertosaurus",
-  "nasa:1301623"
+  "nasa:1301623",
+  "Theodore Komnenos Doukas"
  ],
  "rejected": [
   "Chameleon",
@@ -1166,6 +1167,9 @@
   ],
   "nasa:1301623": [
    "NASA Sandbox Sea Level Science: Over 1,000 visitors dived into NASA sea level science."
+  ],
+  "Theodore Komnenos Doukas": [
+   "The Forgotten Byzantine Ruler: He ruled Epirus and Thessaly from 1215 to 1230."
   ]
  },
  "exhausted": []
