@@ -1,0 +1,398 @@
+{
+ "id": "he-d73bc37a",
+ "lang": "he",
+ "title": "הקיסר שרצח את אחיו",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "הקיסר הרומי קרקלה רצח את אחיו.",
+  "הוא עלה לשלטון בשנת 211 כשותף לאחיו גטה.",
+  "בפברואר 212 גטה נרצח בפקודתו הישירה של קרקלה.",
+  "כך הפך קרקלה לשליט יחיד ומוחלט באימפריה.",
+  "הוא העניק אזרחות לכל תושבי האימפריה החופשיים.",
+  "קרקלה גם הטביע מטבע חדש בשם אנטוניניאנוס.",
+  "הוא שמר על כסאו בזכות הטבות מפליגות לצבא."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הקיסר",
+    0,
+    0.5
+   ],
+   [
+    "הרומי",
+    0.5,
+    0.88
+   ],
+   [
+    "קרקלה",
+    0.88,
+    1.54
+   ],
+   [
+    "רצח",
+    1.54,
+    2.22
+   ],
+   [
+    "את",
+    2.22,
+    2.38
+   ],
+   [
+    "אחיו.",
+    2.38,
+    2.66
+   ],
+   [
+    "הוא",
+    3.34,
+    3.38
+   ],
+   [
+    "עלה",
+    3.38,
+    3.58
+   ],
+   [
+    "לשלטון",
+    3.58,
+    4.06
+   ],
+   [
+    "בשנת",
+    4.06,
+    4.4
+   ],
+   [
+    "211",
+    4.4,
+    5.44
+   ],
+   [
+    "כשותף",
+    5.44,
+    6.18
+   ],
+   [
+    "לאחיו",
+    6.2,
+    6.62
+   ],
+   [
+    "גטה.",
+    6.62,
+    6.72
+   ],
+   [
+    "בפברואר",
+    7.94,
+    8.3
+   ],
+   [
+    "212",
+    8.3,
+    8.92
+   ],
+   [
+    "גטה",
+    8.92,
+    9.86
+   ],
+   [
+    "נרצח",
+    9.86,
+    10.36
+   ],
+   [
+    "בפקודתו",
+    10.36,
+    11.02
+   ],
+   [
+    "הישירה",
+    11.02,
+    11.66
+   ],
+   [
+    "של",
+    11.66,
+    11.84
+   ],
+   [
+    "קרקלה.",
+    11.84,
+    11.94
+   ],
+   [
+    "כך",
+    13.08,
+    13.26
+   ],
+   [
+    "הפך",
+    13.26,
+    13.44
+   ],
+   [
+    "קרקלה",
+    13.5,
+    13.98
+   ],
+   [
+    "לשליט",
+    13.98,
+    14.44
+   ],
+   [
+    "יחיד",
+    14.48,
+    14.96
+   ],
+   [
+    "ומוחלט",
+    14.96,
+    15.62
+   ],
+   [
+    "באימפריה.",
+    15.62,
+    15.72
+   ],
+   [
+    "הוא",
+    17.16,
+    17.16
+   ],
+   [
+    "העניק",
+    17.16,
+    17.44
+   ],
+   [
+    "אזרחות",
+    17.44,
+    17.88
+   ],
+   [
+    "לכל",
+    17.88,
+    18.32
+   ],
+   [
+    "תושבי",
+    18.32,
+    18.78
+   ],
+   [
+    "האימפריה",
+    18.78,
+    19.22
+   ],
+   [
+    "החופשיים.",
+    19.22,
+    19.72
+   ],
+   [
+    "קרקלה",
+    20.72,
+    21.12
+   ],
+   [
+    "גם",
+    21.12,
+    21.24
+   ],
+   [
+    "הטביע",
+    21.24,
+    21.6
+   ],
+   [
+    "מטבע",
+    21.6,
+    21.96
+   ],
+   [
+    "חדש",
+    21.96,
+    22.48
+   ],
+   [
+    "בשם",
+    22.48,
+    22.86
+   ],
+   [
+    "אנטוניניאנוס.",
+    22.86,
+    23.72
+   ],
+   [
+    "הוא",
+    24.52,
+    24.6
+   ],
+   [
+    "שמר",
+    24.6,
+    24.88
+   ],
+   [
+    "על",
+    24.88,
+    24.98
+   ],
+   [
+    "כסאו",
+    24.98,
+    25.48
+   ],
+   [
+    "בזכות",
+    25.48,
+    25.88
+   ],
+   [
+    "הטבות",
+    26.04,
+    26.34
+   ],
+   [
+    "מפליגות",
+    26.36,
+    27.04
+   ],
+   [
+    "לצבא.",
+    27.04,
+    27.4
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   22,
+   29,
+   36,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Geta_Dying_in_his_Mother%27s_Arms_by_Jacques_Pajou_-_Staatsgalerie_-_Stuttgart_-_Germany_2017.jpg/960px-Geta_Dying_in_his_Mother%27s_Arms_by_Jacques_Pajou_-_Staatsgalerie_-_Stuttgart_-_Germany_2017.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 495,
+   "license": "Public domain",
+   "artist": "José Luiz",
+   "page": "https://commons.wikimedia.org/wiki/File:Geta_Dying_in_his_Mother%27s_Arms_by_Jacques_Pajou_-_Staatsgalerie_-_Stuttgart_-_Germany_2017.jpg",
+   "desc": "Geta Dying in his Mother's Arms by Jacques Pajou - Staatsgalerie - Stuttgart - Germany 2017 — Staatsgalerie - Stuttgart - Germany"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/JuliaDomna-Caracalla-Geta.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 343,
+   "license": "CC BY-SA 3.0",
+   "artist": "originally uploaded by CharlesS in 2004",
+   "page": "https://commons.wikimedia.org/wiki/File:JuliaDomna-Caracalla-Geta.jpg",
+   "desc": "JuliaDomna-Caracalla-Geta — Zeldzame gouden munt (een aureus, 7.47g, geslagen in Rome, 201) met de portretten van de Romeinse keizerin Julia Domna en haar twee zoons de medekeizer Caracalla (gelauerd portret) en kroonprins Geta."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Caracalla_Farnese.jpg/960px-Caracalla_Farnese.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1142,
+   "license": "CC BY-SA 4.0",
+   "artist": "Yair Haklai",
+   "page": "https://commons.wikimedia.org/wiki/File:Caracalla_Farnese.jpg",
+   "desc": "Caracalla Farnese — Caracalla Farnese, Naples"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Constitutio_Antoniniana.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 520,
+   "license": "CC BY-SA 4.0",
+   "artist": "Frank Waldschmidt-Dietz",
+   "page": "https://commons.wikimedia.org/wiki/File:Constitutio_Antoniniana.png",
+   "desc": "Constitutio Antoniniana — Photo of the Constitutio Antoniniana under an air-conditioned window."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Caracalla_Antoninianus_215_815822.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 363,
+   "license": "CC BY-SA 2.5",
+   "artist": "Classical Numismatic Group",
+   "page": "https://commons.wikimedia.org/wiki/File:Caracalla_Antoninianus_215_815822.jpg",
+   "desc": "Caracalla Antoninianus 215 815822 — Caracalla. AD 198-217. AR Antoninianus (23mm, 5.37 g, 7h). Rome mint. Struck AD 215. ANTONINVS PIVS AVG GERM Radiate and draped bust right VENVS VICTRIX Venus standing facing, head left, leaning upon shield, holding scep"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Roman_marble_relief%2C_early_3rd_century_AD%2C_World_Museum_Liverpool.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 3.0",
+   "artist": "Reptonix free Creative Commons licensed photos",
+   "page": "https://commons.wikimedia.org/wiki/File:Roman_marble_relief,_early_3rd_century_AD,_World_Museum_Liverpool.jpg",
+   "desc": "Roman marble relief, early 3rd century AD, World Museum Liverpool — Roman marble relief, early 3rd century AD, World Museum Liverpool, England. Depicting a general in the Roman Army, possibly emporer Caracalla who ruled from 198 to 217AD."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  0,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 211
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Antoninianus coin",
+   "box": [
+    42,
+    0,
+    956,
+    994
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1446",
+ "pron_wer": 0.02,
+ "angle": 0,
+ "source": {
+  "title": "קרקלה",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%A7%D7%9C%D7%94",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T15:58:43Z",
+ "trimmed": true
+}
