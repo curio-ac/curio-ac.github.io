@@ -271,7 +271,8 @@
   "Assassination of Talaat Pasha",
   "Cycling at the 2008 Summer Olympics – Men's individual road race",
   "Ashford v Thornton",
-  "Broad Ripple Park Carousel"
+  "Broad Ripple Park Carousel",
+  "AMX-30E"
  ],
  "rejected": [
   "Chameleon",
@@ -1229,6 +1230,9 @@
   ],
   "Broad Ripple Park Carousel": [
    "Saved from the Rubble: This antique carousel survived a building collapse."
+  ],
+  "AMX-30E": [
+   "Spain's French Tank Secret: Spain once built its own French tank."
   ]
  },
  "exhausted": []

@@ -1,0 +1,438 @@
+{
+ "id": "en-711d02d6",
+ "lang": "en",
+ "title": "Nashville's 19-Acre Outdoor Museum",
+ "cat": "history",
+ "emoji": "🏛️",
+ "sentences": [
+  "Nashville hides Tennessee's most visited state park.",
+  "Bicentennial Capitol Mall sits on 19 acres downtown.",
+  "It functions as an outdoor museum showcasing Tennessee history.",
+  "The site incorporates Classical Greek, Baroque, and Beaux-Arts architecture.",
+  "Native Tennessee plants landscape the park.",
+  "Over 2.5 million people visit this popular public space annually.",
+  "It even sits on land once used by Native Americans for hunting."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Nashville",
+    0.32,
+    0.44
+   ],
+   [
+    "hides",
+    0.44,
+    0.88
+   ],
+   [
+    "Tennessee's",
+    0.88,
+    1.66
+   ],
+   [
+    "most",
+    1.66,
+    1.84
+   ],
+   [
+    "visited",
+    1.84,
+    2.34
+   ],
+   [
+    "state",
+    2.34,
+    2.66
+   ],
+   [
+    "park.",
+    2.66,
+    3.54
+   ],
+   [
+    "Bicentennial",
+    3.54,
+    4.14
+   ],
+   [
+    "Capitol",
+    4.14,
+    4.46
+   ],
+   [
+    "Mall",
+    4.46,
+    4.8
+   ],
+   [
+    "sits",
+    4.8,
+    5.06
+   ],
+   [
+    "on",
+    5.14,
+    5.26
+   ],
+   [
+    "19",
+    5.26,
+    5.76
+   ],
+   [
+    "acres",
+    5.76,
+    6.12
+   ],
+   [
+    "downtown.",
+    6.12,
+    7.02
+   ],
+   [
+    "It",
+    7.18,
+    7.26
+   ],
+   [
+    "functions",
+    7.26,
+    7.5
+   ],
+   [
+    "as",
+    7.5,
+    7.8
+   ],
+   [
+    "an",
+    7.8,
+    7.9
+   ],
+   [
+    "outdoor",
+    7.9,
+    8.22
+   ],
+   [
+    "museum",
+    8.22,
+    8.84
+   ],
+   [
+    "showcasing",
+    9.06,
+    9.56
+   ],
+   [
+    "Tennessee",
+    9.56,
+    9.9
+   ],
+   [
+    "history.",
+    9.9,
+    10.7
+   ],
+   [
+    "The",
+    11.0,
+    11.06
+   ],
+   [
+    "site",
+    11.06,
+    11.26
+   ],
+   [
+    "incorporates",
+    11.26,
+    11.7
+   ],
+   [
+    "Classical",
+    11.7,
+    12.36
+   ],
+   [
+    "Greek,",
+    12.36,
+    12.76
+   ],
+   [
+    "Baroque,",
+    13.0,
+    13.38
+   ],
+   [
+    "and",
+    13.62,
+    13.78
+   ],
+   [
+    "Beaux-Arts",
+    13.78,
+    14.26
+   ],
+   [
+    "architecture.",
+    14.26,
+    14.44
+   ],
+   [
+    "Native",
+    15.4,
+    15.66
+   ],
+   [
+    "Tennessee",
+    15.66,
+    15.98
+   ],
+   [
+    "plants",
+    15.98,
+    16.44
+   ],
+   [
+    "landscape",
+    16.44,
+    16.96
+   ],
+   [
+    "the",
+    16.96,
+    17.22
+   ],
+   [
+    "park.",
+    17.22,
+    18.02
+   ],
+   [
+    "Over",
+    18.04,
+    18.16
+   ],
+   [
+    "2.5",
+    18.16,
+    19.04
+   ],
+   [
+    "million",
+    19.04,
+    19.5
+   ],
+   [
+    "people",
+    19.5,
+    19.92
+   ],
+   [
+    "visit",
+    19.92,
+    20.24
+   ],
+   [
+    "this",
+    20.24,
+    20.44
+   ],
+   [
+    "popular",
+    20.44,
+    20.88
+   ],
+   [
+    "public",
+    20.88,
+    21.22
+   ],
+   [
+    "space",
+    21.22,
+    21.58
+   ],
+   [
+    "annually.",
+    21.58,
+    22.08
+   ],
+   [
+    "It",
+    22.74,
+    22.8
+   ],
+   [
+    "even",
+    22.8,
+    22.98
+   ],
+   [
+    "sits",
+    22.98,
+    23.18
+   ],
+   [
+    "on",
+    23.18,
+    23.38
+   ],
+   [
+    "land",
+    23.38,
+    23.64
+   ],
+   [
+    "once",
+    23.64,
+    23.9
+   ],
+   [
+    "used",
+    23.9,
+    24.18
+   ],
+   [
+    "by",
+    24.18,
+    24.38
+   ],
+   [
+    "Native",
+    24.38,
+    24.6
+   ],
+   [
+    "Americans",
+    24.6,
+    25.06
+   ],
+   [
+    "for",
+    25.06,
+    25.36
+   ],
+   [
+    "hunting.",
+    25.36,
+    25.62
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   33,
+   39,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/TN_Bicentennial_Capitol_Mall_State_Park_Nashville_TN_2013-12-28_007.jpg/960px-TN_Bicentennial_Capitol_Mall_State_Park_Nashville_TN_2013-12-28_007.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "Thomas R Machnitzki (thomasmachnitzki.com)",
+   "page": "https://commons.wikimedia.org/wiki/File:TN_Bicentennial_Capitol_Mall_State_Park_Nashville_TN_2013-12-28_007.jpg",
+   "desc": "TN Bicentennial Capitol Mall State Park Nashville TN 2013-12-28 007 — Bicentennial Capitol Mall State Park, Nashville, Tennessee."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Downtown_Nashville%2C_Tennessee_State_Capitol_1974.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 731,
+   "license": "Public domain",
+   "artist": "Frank Empson",
+   "page": "https://commons.wikimedia.org/wiki/File:Downtown_Nashville,_Tennessee_State_Capitol_1974.png",
+   "desc": "Downtown Nashville, Tennessee State Capitol 1974 — An aerial view of downtown Nashville, showing the Tennessee State Capitol, War Memorial Building, Legislative Plaza (nearing completion), Tennessee Tower, Cordell Hull State Office Building, John Sevier State "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Bicentennial_Capitol_Mall_History_Wall_2.jpg/960px-Bicentennial_Capitol_Mall_History_Wall_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "Bneu2013",
+   "page": "https://commons.wikimedia.org/wiki/File:Bicentennial_Capitol_Mall_History_Wall_2.jpg",
+   "desc": "Bicentennial Capitol Mall History Wall 2 — The History Wall at Bicentennial Capitol Mall State Park in Nashville, Tennessee"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Tennessee_Bicentennial_Mall_-_central_lawn_facing_the_Capitol_Building.jpg/960px-Tennessee_Bicentennial_Mall_-_central_lawn_facing_the_Capitol_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Stephen Yeargin",
+   "page": "https://commons.wikimedia.org/wiki/File:Tennessee_Bicentennial_Mall_-_central_lawn_facing_the_Capitol_Building.jpg",
+   "desc": "Tennessee Bicentennial Mall - central lawn facing the Capitol Building — This is the central lawn of the Bicentennial Capitol Mall State Park in Nashville, Tennessee. At the far end the State Capitol Building can be seen."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "map"
+  },
+  {
+   "type": "stat",
+   "value": 19,
+   "unit": "acres",
+   "label": "park size"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "monuments",
+   "box": [
+    477,
+    464,
+    571,
+    552
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2.5,
+   "unit": "million",
+   "label": "annual visitors"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  36.171,
+  -86.788
+ ],
+ "qid": "Q856742",
+ "pron_wer": 0.031,
+ "angle": 0,
+ "source": {
+  "title": "Bicentennial Capitol Mall State Park",
+  "url": "https://en.wikipedia.org/wiki/Bicentennial_Capitol_Mall_State_Park",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T10:18:55Z",
+ "trimmed": true
+}
