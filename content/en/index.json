@@ -246,7 +246,8 @@
   "Æthelberht of Kent",
   "Sid Barnes",
   "USS Chesapeake (1799)",
-  "nasa:1456728"
+  "nasa:1456728",
+  "The Boat Race 2021"
  ],
  "rejected": [
   "Chameleon",
@@ -1124,6 +1125,9 @@
   ],
   "nasa:1456728": [
    "Curiosity's New Martian Target: Curiosity is exploring a new Martian region."
+  ],
+  "The Boat Race 2021": [
+   "A Rare Boat Race: The 2021 Boat Race moved locations."
   ]
  },
  "exhausted": []

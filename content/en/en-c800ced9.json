@@ -1,0 +1,444 @@
+{
+ "id": "en-c800ced9",
+ "lang": "en",
+ "title": "Walt Disney's Record-Breaking Career",
+ "cat": "history",
+ "emoji": "🐭",
+ "sentences": [
+  "Walt Disney won 22 Academy Awards.",
+  "Born in 1901, he started as a commercial illustrator at 18.",
+  "He moved to California and founded the Disney Brothers Studio with his brother Roy.",
+  "In 1928, he created Mickey Mouse alongside Ub Iwerks.",
+  "Disney even provided the voice for his famous mouse character.",
+  "He holds the record for the most Academy Award nominations ever received by an individual."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Walt",
+    0.06,
+    0.2
+   ],
+   [
+    "Disney",
+    0.2,
+    0.58
+   ],
+   [
+    "won",
+    0.58,
+    0.98
+   ],
+   [
+    "22",
+    0.98,
+    1.62
+   ],
+   [
+    "Academy",
+    1.62,
+    1.98
+   ],
+   [
+    "Awards.",
+    1.98,
+    2.98
+   ],
+   [
+    "Born",
+    3.12,
+    3.26
+   ],
+   [
+    "in",
+    3.26,
+    3.44
+   ],
+   [
+    "1901,",
+    3.44,
+    4.44
+   ],
+   [
+    "he",
+    4.44,
+    4.5
+   ],
+   [
+    "started",
+    4.5,
+    4.8
+   ],
+   [
+    "as",
+    4.8,
+    5.04
+   ],
+   [
+    "a",
+    5.04,
+    5.12
+   ],
+   [
+    "commercial",
+    5.12,
+    5.46
+   ],
+   [
+    "illustrator",
+    6.06,
+    6.16
+   ],
+   [
+    "at",
+    6.16,
+    6.3
+   ],
+   [
+    "18.",
+    6.3,
+    6.72
+   ],
+   [
+    "He",
+    7.34,
+    7.42
+   ],
+   [
+    "moved",
+    7.42,
+    7.62
+   ],
+   [
+    "to",
+    7.62,
+    7.76
+   ],
+   [
+    "California",
+    7.78,
+    8.16
+   ],
+   [
+    "and",
+    8.16,
+    8.6
+   ],
+   [
+    "founded",
+    8.72,
+    8.92
+   ],
+   [
+    "the",
+    8.92,
+    9.1
+   ],
+   [
+    "Disney",
+    9.1,
+    9.4
+   ],
+   [
+    "Brothers",
+    9.4,
+    9.7
+   ],
+   [
+    "Studio",
+    9.7,
+    10.12
+   ],
+   [
+    "with",
+    10.12,
+    10.46
+   ],
+   [
+    "his",
+    10.46,
+    10.56
+   ],
+   [
+    "brother",
+    10.62,
+    10.78
+   ],
+   [
+    "Roy.",
+    10.78,
+    11.1
+   ],
+   [
+    "In",
+    11.74,
+    11.84
+   ],
+   [
+    "1928,",
+    11.84,
+    12.59
+   ],
+   [
+    "he",
+    13.0,
+    13.0
+   ],
+   [
+    "created",
+    13.14,
+    13.44
+   ],
+   [
+    "Mickey",
+    13.44,
+    13.68
+   ],
+   [
+    "Mouse",
+    13.68,
+    14.1
+   ],
+   [
+    "alongside",
+    14.12,
+    14.54
+   ],
+   [
+    "Ub",
+    14.54,
+    14.94
+   ],
+   [
+    "Iwerks.",
+    14.94,
+    15.22
+   ],
+   [
+    "Disney",
+    16.14,
+    16.34
+   ],
+   [
+    "even",
+    16.34,
+    16.68
+   ],
+   [
+    "provided",
+    16.68,
+    17.08
+   ],
+   [
+    "the",
+    17.08,
+    17.26
+   ],
+   [
+    "voice",
+    17.26,
+    17.56
+   ],
+   [
+    "for",
+    17.56,
+    17.82
+   ],
+   [
+    "his",
+    17.84,
+    17.94
+   ],
+   [
+    "famous",
+    17.94,
+    18.18
+   ],
+   [
+    "mouse",
+    18.18,
+    18.46
+   ],
+   [
+    "character.",
+    18.46,
+    18.72
+   ],
+   [
+    "He",
+    19.54,
+    19.64
+   ],
+   [
+    "holds",
+    19.64,
+    19.86
+   ],
+   [
+    "the",
+    19.86,
+    20.04
+   ],
+   [
+    "record",
+    20.04,
+    20.26
+   ],
+   [
+    "for",
+    20.36,
+    20.46
+   ],
+   [
+    "the",
+    20.46,
+    20.54
+   ],
+   [
+    "most",
+    20.54,
+    20.86
+   ],
+   [
+    "Academy",
+    20.86,
+    21.26
+   ],
+   [
+    "Award",
+    21.26,
+    21.6
+   ],
+   [
+    "nominations",
+    21.6,
+    22.12
+   ],
+   [
+    "ever",
+    22.12,
+    22.68
+   ],
+   [
+    "received",
+    22.68,
+    23.12
+   ],
+   [
+    "by",
+    23.24,
+    23.34
+   ],
+   [
+    "an",
+    23.34,
+    23.42
+   ],
+   [
+    "individual.",
+    23.42,
+    23.76
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   31,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Walt_Disney%27s_Oscars_%2815666173008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 2.0",
+   "artist": "Christopher Michel",
+   "page": "https://commons.wikimedia.org/wiki/File:Walt_Disney%27s_Oscars_(15666173008).jpg",
+   "desc": "Walt Disney's Oscars (15666173008) — Walt Disney's Oscars."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Walt_Disney_envelope_ca._1921.jpg/960px-Walt_Disney_envelope_ca._1921.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 496,
+   "license": "Public domain",
+   "artist": "Walt Disney",
+   "page": "https://commons.wikimedia.org/wiki/File:Walt_Disney_envelope_ca._1921.jpg",
+   "desc": "Walt Disney envelope ca. 1921 — Return address of a business envelope featuring a self portrait, used by Walt Disney in approximately 1921, on display at the Walt Disney Family Museum in San Francisco."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Walt_Disney_with_film_roll_and_Mickey_Mouse_on_his_right_arm%2C_year_1935.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 893,
+   "license": "CC0",
+   "artist": "not listed. New York World-Telegram and the Sun Newspaper Photograph Collection",
+   "page": "https://commons.wikimedia.org/wiki/File:Walt_Disney_with_film_roll_and_Mickey_Mouse_on_his_right_arm,_year_1935.jpg",
+   "desc": "Walt Disney with film roll and Mickey Mouse on his right arm, year 1935 — \"Walt Disney, seated, examines film with Mickey Mouse perched on his right arm.\" Library of Congress file."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Disney_Display_Case.JPG/960px-Disney_Display_Case.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1130,
+   "license": "CC BY-SA 3.0",
+   "artist": "Cullen328 by Jim Heaphy",
+   "page": "https://commons.wikimedia.org/wiki/File:Disney_Display_Case.JPG",
+   "desc": "Disney Display Case — This display case in the lobby of the Walt Disney Family Museum in San Francisco is one of several cases showing hundreds of awards won by Walt Disney. This case displays many of the Academy Awards that Disney won, inclu"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 22,
+   "unit": "awards",
+   "label": "Academy Awards"
+  },
+  {
+   "type": "timeline",
+   "year": 1901
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1928
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 59,
+   "unit": "nominations",
+   "label": "Academy Award nominations"
+  }
+ ],
+ "geo": null,
+ "qid": "Q8704",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Walt Disney",
+  "url": "https://en.wikipedia.org/wiki/Walt_Disney",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T02:21:42Z",
+ "trimmed": true
+}
