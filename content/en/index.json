@@ -284,7 +284,8 @@
   "Siege of Baghdad",
   "Delicate (Taylor Swift song)",
   "Alexander II Zabinas",
-  "nasa:1506532"
+  "nasa:1506532",
+  "270 Park Avenue (1960–2021)"
  ],
  "rejected": [
   "Chameleon",
@@ -1288,6 +1289,9 @@
   ],
   "nasa:1506532": [
    "Pennsylvania's Hidden Canyon: Pennsylvania has its own 1,500-foot-deep canyon."
+  ],
+  "270 Park Avenue (1960–2021)": [
+   "The Tallest Demolished Skyscraper: This skyscraper was demolished on purpose."
   ]
  },
  "exhausted": []

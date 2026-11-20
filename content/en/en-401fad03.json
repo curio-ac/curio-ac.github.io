@@ -1,0 +1,453 @@
+{
+ "id": "en-401fad03",
+ "lang": "en",
+ "title": "Gillingham's Worst Season",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "One player scored six goals in one match!",
+  "During the 1929–30 season, Gillingham struggled immensely in the Third Division South.",
+  "The team endured a brutal stretch where they won just once in 17 games.",
+  "By year's end, they sat 21st out of 22 teams.",
+  "They even suffered a shocking FA Cup loss to Margate.",
+  "Despite a late rally, they barely avoided being kicked out of the league."
+ ],
+ "tim": {
+  "w": [
+   [
+    "One",
+    0.35,
+    0.35
+   ],
+   [
+    "player",
+    0.35,
+    0.61
+   ],
+   [
+    "scored",
+    0.61,
+    0.89
+   ],
+   [
+    "six",
+    0.89,
+    1.19
+   ],
+   [
+    "goals",
+    1.19,
+    1.57
+   ],
+   [
+    "in",
+    1.57,
+    1.83
+   ],
+   [
+    "one",
+    1.83,
+    2.05
+   ],
+   [
+    "match!",
+    2.05,
+    2.57
+   ],
+   [
+    "During",
+    2.93,
+    3.05
+   ],
+   [
+    "the",
+    3.05,
+    3.21
+   ],
+   [
+    "1929–30",
+    3.21,
+    4.21
+   ],
+   [
+    "season,",
+    4.21,
+    4.85
+   ],
+   [
+    "Gillingham",
+    4.85,
+    5.23
+   ],
+   [
+    "struggled",
+    5.23,
+    5.55
+   ],
+   [
+    "immensely",
+    5.55,
+    6.05
+   ],
+   [
+    "in",
+    6.07,
+    6.27
+   ],
+   [
+    "the",
+    6.27,
+    6.35
+   ],
+   [
+    "Third",
+    6.35,
+    6.53
+   ],
+   [
+    "Division",
+    6.53,
+    6.83
+   ],
+   [
+    "South.",
+    6.83,
+    7.19
+   ],
+   [
+    "The",
+    7.69,
+    7.77
+   ],
+   [
+    "team",
+    7.77,
+    8.03
+   ],
+   [
+    "endured",
+    8.03,
+    8.19
+   ],
+   [
+    "a",
+    8.19,
+    8.37
+   ],
+   [
+    "brutal",
+    8.37,
+    8.65
+   ],
+   [
+    "stretch",
+    8.65,
+    9.05
+   ],
+   [
+    "where",
+    9.07,
+    9.27
+   ],
+   [
+    "they",
+    9.27,
+    9.37
+   ],
+   [
+    "won",
+    9.37,
+    9.57
+   ],
+   [
+    "just",
+    9.57,
+    9.79
+   ],
+   [
+    "once",
+    9.79,
+    10.09
+   ],
+   [
+    "in",
+    10.09,
+    10.27
+   ],
+   [
+    "17",
+    10.27,
+    10.59
+   ],
+   [
+    "games.",
+    10.59,
+    11.13
+   ],
+   [
+    "By",
+    11.61,
+    11.73
+   ],
+   [
+    "year's",
+    11.73,
+    12.07
+   ],
+   [
+    "end,",
+    12.07,
+    12.41
+   ],
+   [
+    "they",
+    12.43,
+    12.49
+   ],
+   [
+    "sat",
+    12.49,
+    12.63
+   ],
+   [
+    "21st",
+    12.63,
+    13.33
+   ],
+   [
+    "out",
+    13.35,
+    13.45
+   ],
+   [
+    "of",
+    13.45,
+    13.55
+   ],
+   [
+    "22",
+    13.55,
+    13.87
+   ],
+   [
+    "teams.",
+    13.87,
+    14.31
+   ],
+   [
+    "They",
+    14.71,
+    14.81
+   ],
+   [
+    "even",
+    14.81,
+    15.03
+   ],
+   [
+    "suffered",
+    15.03,
+    15.33
+   ],
+   [
+    "a",
+    15.33,
+    15.47
+   ],
+   [
+    "shocking",
+    15.47,
+    15.73
+   ],
+   [
+    "FA",
+    15.73,
+    16.03
+   ],
+   [
+    "Cup",
+    16.03,
+    16.33
+   ],
+   [
+    "loss",
+    16.33,
+    16.55
+   ],
+   [
+    "to",
+    16.55,
+    16.73
+   ],
+   [
+    "Margate.",
+    16.73,
+    17.21
+   ],
+   [
+    "Despite",
+    17.55,
+    17.73
+   ],
+   [
+    "a",
+    17.73,
+    17.95
+   ],
+   [
+    "late",
+    17.95,
+    18.09
+   ],
+   [
+    "rally,",
+    18.09,
+    18.57
+   ],
+   [
+    "they",
+    18.59,
+    18.63
+   ],
+   [
+    "barely",
+    18.63,
+    18.91
+   ],
+   [
+    "avoided",
+    18.91,
+    19.31
+   ],
+   [
+    "being",
+    19.31,
+    19.57
+   ],
+   [
+    "kicked",
+    19.57,
+    19.77
+   ],
+   [
+    "out",
+    19.77,
+    19.97
+   ],
+   [
+    "of",
+    19.97,
+    20.07
+   ],
+   [
+    "the",
+    20.07,
+    20.15
+   ],
+   [
+    "league.",
+    20.15,
+    20.47
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   20,
+   34,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Nazry_Aiman_Azaman_goal_and_celebration_14.jpg/960px-Nazry_Aiman_Azaman_goal_and_celebration_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY-SA 4.0",
+   "artist": "Pangalau",
+   "page": "https://commons.wikimedia.org/wiki/File:Nazry_Aiman_Azaman_goal_and_celebration_14.jpg",
+   "desc": "Nazry Aiman Azaman goal and celebration 14 — Nazry Aiman Azaman goal and celebration on 6 September 2024."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2026_Ball_Hockey_World_Championship_medal_ceremony_-_Czech_players_dejected_after_the_final_33.jpg/960px-2026_Ball_Hockey_World_Championship_medal_ceremony_-_Czech_players_dejected_after_the_final_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Tadeáš Bednarz",
+   "page": "https://commons.wikimedia.org/wiki/File:2026_Ball_Hockey_World_Championship_medal_ceremony_-_Czech_players_dejected_after_the_final_33.jpg",
+   "desc": "2026 Ball Hockey World Championship medal ceremony - Czech players dejected after the final 33 — Dejected Czech players immediately after the final. Final of the 2026 Ball Hockey World Championship, Ostrava, 28 June 2026."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Wasquehal_Football_League_Performance.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 840,
+   "license": "CC BY-SA 4.0",
+   "artist": "Sviraman",
+   "page": "https://commons.wikimedia.org/wiki/File:Wasquehal_Football_League_Performance.png",
+   "desc": "Wasquehal Football League Performance — Historical chart of end-season table rankings of Wasquehal Football in the football league system of France. Data sources: wiki, RSSSF, fff.fr, statfootballclubfrance.fr, pari-et-gagne.com, footballdatabase.eu, leballonr"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/The_FA_Cup_Trophy.jpg/960px-The_FA_Cup_Trophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Carlos yo",
+   "page": "https://commons.wikimedia.org/wiki/File:The_FA_Cup_Trophy.jpg",
+   "desc": "The FA Cup Trophy — The FA Cup Trophy at Wembley Stadium"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1929
+  },
+  {
+   "type": "stat",
+   "value": 17,
+   "unit": "games",
+   "label": "winless run"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 21,
+   "unit": "place",
+   "label": "final position"
+  }
+ ],
+ "geo": null,
+ "qid": "Q109409482",
+ "pron_wer": 0.043,
+ "angle": 0,
+ "source": {
+  "title": "1929–30 Gillingham F.C. season",
+  "url": "https://en.wikipedia.org/wiki/1929%E2%80%9330_Gillingham_F.C._season",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T15:15:13Z",
+ "trimmed": true
+}
