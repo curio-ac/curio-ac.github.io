@@ -1,0 +1,424 @@
+{
+ "id": "en-411c8c9b",
+ "lang": "en",
+ "title": "NASA's Goldstone Complex Antennas",
+ "cat": "space",
+ "emoji": "📡",
+ "sentences": [
+  "Five antennas soak in the summer sun.",
+  "They are located at the Deep Space Network's Goldstone complex in California.",
+  "The new Deep Space Station 23 was added in August 2026.",
+  "It is part of the Aperture Enhancement Project that began in 2009.",
+  "A retired 26-meter Apollo Antenna is also at the far right.",
+  "The network helps NASA track and communicate with faraway spacecraft."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Five",
+    0.3,
+    0.36
+   ],
+   [
+    "antennas",
+    0.36,
+    0.84
+   ],
+   [
+    "soak",
+    0.84,
+    1.06
+   ],
+   [
+    "in",
+    1.06,
+    1.32
+   ],
+   [
+    "the",
+    1.32,
+    1.4
+   ],
+   [
+    "summer",
+    1.4,
+    1.62
+   ],
+   [
+    "sun.",
+    1.62,
+    1.94
+   ],
+   [
+    "They",
+    2.46,
+    2.52
+   ],
+   [
+    "are",
+    2.52,
+    2.62
+   ],
+   [
+    "located",
+    2.62,
+    2.94
+   ],
+   [
+    "at",
+    2.94,
+    3.18
+   ],
+   [
+    "the",
+    3.18,
+    3.28
+   ],
+   [
+    "Deep",
+    3.28,
+    3.42
+   ],
+   [
+    "Space",
+    3.42,
+    3.62
+   ],
+   [
+    "Network's",
+    3.62,
+    4.18
+   ],
+   [
+    "Goldstone",
+    4.18,
+    4.6
+   ],
+   [
+    "complex",
+    4.6,
+    5.02
+   ],
+   [
+    "in",
+    5.02,
+    5.24
+   ],
+   [
+    "California.",
+    5.24,
+    5.8
+   ],
+   [
+    "The",
+    6.26,
+    6.32
+   ],
+   [
+    "new",
+    6.32,
+    6.46
+   ],
+   [
+    "Deep",
+    6.46,
+    6.64
+   ],
+   [
+    "Space",
+    6.64,
+    6.84
+   ],
+   [
+    "Station",
+    6.84,
+    7.18
+   ],
+   [
+    "23",
+    7.18,
+    7.52
+   ],
+   [
+    "was",
+    7.52,
+    7.84
+   ],
+   [
+    "added",
+    7.84,
+    8.08
+   ],
+   [
+    "in",
+    8.08,
+    8.26
+   ],
+   [
+    "August",
+    8.26,
+    8.5
+   ],
+   [
+    "2026.",
+    8.5,
+    9.36
+   ],
+   [
+    "It",
+    9.8,
+    9.9
+   ],
+   [
+    "is",
+    9.9,
+    9.98
+   ],
+   [
+    "part",
+    9.98,
+    10.16
+   ],
+   [
+    "of",
+    10.16,
+    10.3
+   ],
+   [
+    "the",
+    10.3,
+    10.38
+   ],
+   [
+    "Aperture",
+    10.38,
+    10.78
+   ],
+   [
+    "Enhancement",
+    10.78,
+    11.22
+   ],
+   [
+    "Project",
+    11.22,
+    11.5
+   ],
+   [
+    "that",
+    11.5,
+    11.8
+   ],
+   [
+    "began",
+    11.8,
+    12.06
+   ],
+   [
+    "in",
+    12.06,
+    12.3
+   ],
+   [
+    "2009.",
+    12.3,
+    13.02
+   ],
+   [
+    "A",
+    13.48,
+    13.54
+   ],
+   [
+    "retired",
+    13.54,
+    13.8
+   ],
+   [
+    "26-meter",
+    13.8,
+    14.64
+   ],
+   [
+    "Apollo",
+    14.64,
+    14.98
+   ],
+   [
+    "Antenna",
+    14.98,
+    15.54
+   ],
+   [
+    "is",
+    15.54,
+    15.74
+   ],
+   [
+    "also",
+    15.74,
+    16.0
+   ],
+   [
+    "at",
+    16.0,
+    16.18
+   ],
+   [
+    "the",
+    16.18,
+    16.26
+   ],
+   [
+    "far",
+    16.3,
+    16.44
+   ],
+   [
+    "right.",
+    16.44,
+    16.72
+   ],
+   [
+    "The",
+    17.2,
+    17.28
+   ],
+   [
+    "network",
+    17.28,
+    17.5
+   ],
+   [
+    "helps",
+    17.5,
+    17.8
+   ],
+   [
+    "NASA",
+    17.8,
+    18.04
+   ],
+   [
+    "track",
+    18.04,
+    18.44
+   ],
+   [
+    "and",
+    18.44,
+    18.64
+   ],
+   [
+    "communicate",
+    18.64,
+    19.02
+   ],
+   [
+    "with",
+    19.02,
+    19.28
+   ],
+   [
+    "faraway",
+    19.36,
+    19.68
+   ],
+   [
+    "spacecraft.",
+    19.68,
+    20.24
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   19,
+   30,
+   42,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Panorama_Showcasing_the_34-Meter_Antennas_of_the_DSN%E2%80%99s_Goldstone_Complex_%28PIA26777%29.jpg/960px-Panorama_Showcasing_the_34-Meter_Antennas_of_the_DSN%E2%80%99s_Goldstone_Complex_%28PIA26777%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 321,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Panorama_Showcasing_the_34-Meter_Antennas_of_the_DSN%E2%80%99s_Goldstone_Complex_(PIA26777).jpg",
+   "desc": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex (PIA26777) — Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The recently completed Deep Space Station 23, a 3"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/NASA%27s_Deep_Space_Antenna_Upgrade_to_Affect_Voyager.jpg/960px-NASA%27s_Deep_Space_Antenna_Upgrade_to_Affect_Voyager.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA/Canberra Deep Space Communication Complex",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Deep_Space_Antenna_Upgrade_to_Affect_Voyager.jpg",
+   "desc": "NASA's Deep Space Antenna Upgrade to Affect Voyager — DSS43 is a 70-meter-wide radio antenna at the Deep Space Network's Canberra facility in Australia. It is the only antenna that can send commands to the Voyager 2 spacecraft."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  null,
+  0,
+  1
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "Five antennas",
+   "box": [
+    503,
+    126,
+    710,
+    953
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "timeline",
+   "year": 2009
+  },
+  {
+   "type": "focus",
+   "target": "Apollo Antenna",
+   "box": [
+    585,
+    905,
+    652,
+    953
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
+  "url": "https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T04:14:16Z",
+ "trimmed": true
+}

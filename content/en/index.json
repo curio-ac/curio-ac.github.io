@@ -253,7 +253,8 @@
   "Diamonds Are Forever (novel)",
   "Apollo 7",
   "nasa:1510608",
-  "Battle of Barnet"
+  "Battle of Barnet",
+  "Battle of the Aegates"
  ],
  "rejected": [
   "Chameleon",
@@ -1153,6 +1154,9 @@
   ],
   "Battle of Barnet": [
    "Easter Day Battle: Fought on Easter Day!"
+  ],
+  "Battle of the Aegates": [
+   "Rome's Bankruptcy Battle: Rome borrowed money to build a fleet!"
   ]
  },
  "exhausted": []
