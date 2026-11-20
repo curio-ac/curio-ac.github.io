@@ -294,7 +294,8 @@
   "1912 suspension of Ty Cobb",
   "Dhoby Ghaut MRT station",
   "Charles Edward, Duke of Saxe-Coburg and Gotha",
-  "Bryce Canyon National Park"
+  "Bryce Canyon National Park",
+  "nasa:1510412"
  ],
  "rejected": [
   "Chameleon",
@@ -368,7 +369,8 @@
   "nasa:1277845",
   "Stan Coveleski",
   "nasa:1391338",
-  "Abu Nidal"
+  "Abu Nidal",
+  "Isabella Beeton"
  ],
  "angles": {
   "Blue whale": [
@@ -1330,6 +1332,9 @@
   ],
   "Bryce Canyon National Park": [
    "Bryce Canyon Is Not A Canyon: Bryce Canyon is actually not a canyon."
+  ],
+  "nasa:1510412": [
+   "Earth's Secret Carbon Superpower: Scotland's soggy bogs store massive carbon."
   ]
  },
  "exhausted": []

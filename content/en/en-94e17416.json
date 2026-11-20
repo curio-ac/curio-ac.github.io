@@ -1,0 +1,445 @@
+{
+ "id": "en-94e17416",
+ "lang": "en",
+ "title": "The First Machinima Movie",
+ "cat": "technology",
+ "emoji": "🎮",
+ "sentences": [
+  "The world's first machinima film was made inside Quake.",
+  "Released in 1996, this short film was created by a gaming clan called the Rangers.",
+  "It was distributed online as a non-interactive game demo file.",
+  "The story features five players battling a lone camper in a deathmatch.",
+  "Unlike earlier gameplay recordings, this was the first to use a narrative.",
+  "It proved video games could be used for filmmaking."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.26,
+    0.28
+   ],
+   [
+    "world's",
+    0.28,
+    0.6
+   ],
+   [
+    "first",
+    0.6,
+    0.7
+   ],
+   [
+    "machinima",
+    0.7,
+    1.14
+   ],
+   [
+    "film",
+    1.14,
+    1.36
+   ],
+   [
+    "was",
+    1.36,
+    1.52
+   ],
+   [
+    "made",
+    1.52,
+    1.66
+   ],
+   [
+    "inside",
+    1.66,
+    1.88
+   ],
+   [
+    "Quake.",
+    1.88,
+    2.22
+   ],
+   [
+    "Released",
+    2.88,
+    3.12
+   ],
+   [
+    "in",
+    3.12,
+    3.28
+   ],
+   [
+    "1996,",
+    3.28,
+    3.88
+   ],
+   [
+    "this",
+    4.38,
+    4.4
+   ],
+   [
+    "short",
+    4.4,
+    4.62
+   ],
+   [
+    "film",
+    4.62,
+    4.88
+   ],
+   [
+    "was",
+    4.88,
+    5.0
+   ],
+   [
+    "created",
+    5.08,
+    5.24
+   ],
+   [
+    "by",
+    5.24,
+    5.46
+   ],
+   [
+    "a",
+    5.46,
+    5.56
+   ],
+   [
+    "gaming",
+    5.56,
+    5.78
+   ],
+   [
+    "clan",
+    5.78,
+    6.08
+   ],
+   [
+    "called",
+    6.08,
+    6.42
+   ],
+   [
+    "the",
+    6.42,
+    6.66
+   ],
+   [
+    "Rangers.",
+    6.66,
+    7.02
+   ],
+   [
+    "It",
+    7.76,
+    7.78
+   ],
+   [
+    "was",
+    7.78,
+    7.86
+   ],
+   [
+    "distributed",
+    7.86,
+    8.2
+   ],
+   [
+    "online",
+    8.2,
+    8.68
+   ],
+   [
+    "as",
+    8.68,
+    8.98
+   ],
+   [
+    "a",
+    8.98,
+    9.06
+   ],
+   [
+    "non-interactive",
+    9.06,
+    9.72
+   ],
+   [
+    "game",
+    9.72,
+    9.96
+   ],
+   [
+    "demo",
+    9.96,
+    10.24
+   ],
+   [
+    "file.",
+    10.24,
+    10.48
+   ],
+   [
+    "The",
+    11.18,
+    11.26
+   ],
+   [
+    "story",
+    11.26,
+    11.48
+   ],
+   [
+    "features",
+    11.48,
+    11.78
+   ],
+   [
+    "five",
+    11.78,
+    12.08
+   ],
+   [
+    "players",
+    12.08,
+    12.48
+   ],
+   [
+    "battling",
+    12.48,
+    12.78
+   ],
+   [
+    "a",
+    12.78,
+    13.02
+   ],
+   [
+    "lone",
+    13.02,
+    13.2
+   ],
+   [
+    "camper",
+    13.2,
+    13.52
+   ],
+   [
+    "in",
+    13.52,
+    13.72
+   ],
+   [
+    "a",
+    13.72,
+    13.8
+   ],
+   [
+    "deathmatch.",
+    13.8,
+    14.16
+   ],
+   [
+    "Unlike",
+    14.72,
+    14.92
+   ],
+   [
+    "earlier",
+    14.92,
+    15.28
+   ],
+   [
+    "gameplay",
+    15.28,
+    15.64
+   ],
+   [
+    "recordings,",
+    15.64,
+    16.3
+   ],
+   [
+    "this",
+    16.54,
+    16.64
+   ],
+   [
+    "was",
+    16.64,
+    16.78
+   ],
+   [
+    "the",
+    16.78,
+    16.88
+   ],
+   [
+    "first",
+    16.92,
+    17.04
+   ],
+   [
+    "to",
+    17.04,
+    17.22
+   ],
+   [
+    "use",
+    17.22,
+    17.36
+   ],
+   [
+    "a",
+    17.36,
+    17.44
+   ],
+   [
+    "narrative.",
+    17.44,
+    17.78
+   ],
+   [
+    "It",
+    18.32,
+    18.4
+   ],
+   [
+    "proved",
+    18.4,
+    18.64
+   ],
+   [
+    "video",
+    18.64,
+    18.92
+   ],
+   [
+    "games",
+    18.92,
+    19.24
+   ],
+   [
+    "could",
+    19.24,
+    19.42
+   ],
+   [
+    "be",
+    19.42,
+    19.56
+   ],
+   [
+    "used",
+    19.56,
+    19.74
+   ],
+   [
+    "for",
+    19.74,
+    19.9
+   ],
+   [
+    "filmmaking.",
+    19.9,
+    20.35
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   24,
+   34,
+   46,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Quake_big_box.jpg/960px-Quake_big_box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 780,
+   "license": "CC BY-SA 4.0",
+   "artist": "Krigore",
+   "page": "https://commons.wikimedia.org/wiki/File:Quake_big_box.jpg",
+   "desc": "Quake big box — Quake big box"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Storyboard_-_Iv%C3%A1n_L%C3%B3pez_Fuente.jpg/960px-Storyboard_-_Iv%C3%A1n_L%C3%B3pez_Fuente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 505,
+   "license": "CC BY-SA 4.0",
+   "artist": "Iván López Fuente",
+   "page": "https://commons.wikimedia.org/wiki/File:Storyboard_-_Iv%C3%A1n_L%C3%B3pez_Fuente.jpg",
+   "desc": "Storyboard - Iván López Fuente — Se trata de la elaboración a mano de un storyboard con el fin educativo de mostrar como se realizaría uno."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Vancouver_Film_School_production_site_2011-02-24.jpg/960px-Vancouver_Film_School_production_site_2011-02-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 2.0",
+   "artist": "vancouverfilmschool",
+   "page": "https://commons.wikimedia.org/wiki/File:Vancouver_Film_School_production_site_2011-02-24.jpg",
+   "desc": "Vancouver Film School production site 2011-02-24 — Vancouver Film School. This picture gives an idea on what film production sites look like when projects are being worked on."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "Quake game engine",
+   "box": [
+    38,
+    108,
+    963,
+    889
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1996
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1054061",
+ "pron_wer": 0.072,
+ "angle": 0,
+ "source": {
+  "title": "Diary of a Camper",
+  "url": "https://en.wikipedia.org/wiki/Diary_of_a_Camper",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T18:37:57Z",
+ "trimmed": true
+}
