@@ -285,7 +285,7 @@
  "qid": "Q7386",
  "pron_wer": 0.108,
  "hidden": true,
- "needs_voice": true,
+ "needs_voice": false,
  "hidden_reason": [
   "pronunciation 10.8%",
   "voice gemini-3.1-flash-tts-preview/Puck"
