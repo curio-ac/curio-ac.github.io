@@ -287,7 +287,8 @@
   "nasa:1506532",
   "270 Park Avenue (1960–2021)",
   "nasa:1505059",
-  "Bharattherium"
+  "Bharattherium",
+  "Coventry ring road"
  ],
  "rejected": [
   "Chameleon",
@@ -1300,6 +1301,9 @@
   ],
   "Bharattherium": [
    "India's Mystery Cretaceous Mammal: This animal is known only from eight teeth."
+  ],
+  "Coventry ring road": [
+   "Coventry's Tricky Ring Road: This road is notoriously hard to drive."
   ]
  },
  "exhausted": []

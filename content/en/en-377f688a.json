@@ -1,0 +1,433 @@
+{
+ "id": "en-377f688a",
+ "lang": "en",
+ "title": "NASA's Secret Asteroid Hunter",
+ "cat": "space",
+ "emoji": "☀️",
+ "sentences": [
+  "NASA is hunting asteroids hiding near the Sun.",
+  "The NEO Surveyor mission uses a massive sunshade to see in that direction.",
+  "Technicians in Colorado recently inspected its solar cells.",
+  "These panels were built in New Mexico and tested in California.",
+  "This mission spots dangerous space rocks that ground telescopes often miss.",
+  "It is preparing to scan the sky for elusive comets and asteroids."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.3,
+    0.3
+   ],
+   [
+    "is",
+    0.3,
+    0.6
+   ],
+   [
+    "hunting",
+    0.6,
+    0.82
+   ],
+   [
+    "asteroids",
+    0.82,
+    1.42
+   ],
+   [
+    "hiding",
+    1.42,
+    1.82
+   ],
+   [
+    "near",
+    1.82,
+    2.1
+   ],
+   [
+    "the",
+    2.1,
+    2.22
+   ],
+   [
+    "Sun.",
+    2.22,
+    2.94
+   ],
+   [
+    "The",
+    3.0,
+    3.0
+   ],
+   [
+    "NEO",
+    3.0,
+    3.38
+   ],
+   [
+    "Surveyor",
+    3.38,
+    3.88
+   ],
+   [
+    "mission",
+    3.88,
+    4.14
+   ],
+   [
+    "uses",
+    4.14,
+    4.48
+   ],
+   [
+    "a",
+    4.48,
+    4.72
+   ],
+   [
+    "massive",
+    4.72,
+    5.12
+   ],
+   [
+    "sunshade",
+    5.12,
+    5.74
+   ],
+   [
+    "to",
+    5.74,
+    5.88
+   ],
+   [
+    "see",
+    5.88,
+    6.06
+   ],
+   [
+    "in",
+    6.06,
+    6.22
+   ],
+   [
+    "that",
+    6.22,
+    6.34
+   ],
+   [
+    "direction.",
+    6.34,
+    6.88
+   ],
+   [
+    "Technicians",
+    7.34,
+    7.64
+   ],
+   [
+    "in",
+    7.64,
+    7.82
+   ],
+   [
+    "Colorado",
+    7.82,
+    8.18
+   ],
+   [
+    "recently",
+    8.18,
+    8.68
+   ],
+   [
+    "inspected",
+    8.68,
+    9.26
+   ],
+   [
+    "its",
+    9.26,
+    9.44
+   ],
+   [
+    "solar",
+    9.5,
+    9.68
+   ],
+   [
+    "cells.",
+    9.68,
+    10.04
+   ],
+   [
+    "These",
+    10.54,
+    10.64
+   ],
+   [
+    "panels",
+    10.64,
+    10.98
+   ],
+   [
+    "were",
+    10.98,
+    11.2
+   ],
+   [
+    "built",
+    11.2,
+    11.38
+   ],
+   [
+    "in",
+    11.38,
+    11.54
+   ],
+   [
+    "New",
+    11.54,
+    11.64
+   ],
+   [
+    "Mexico",
+    11.64,
+    11.96
+   ],
+   [
+    "and",
+    11.96,
+    12.3
+   ],
+   [
+    "tested",
+    12.3,
+    12.56
+   ],
+   [
+    "in",
+    12.58,
+    12.74
+   ],
+   [
+    "California.",
+    12.74,
+    13.29
+   ],
+   [
+    "This",
+    13.76,
+    13.9
+   ],
+   [
+    "mission",
+    13.9,
+    14.22
+   ],
+   [
+    "spots",
+    14.22,
+    14.48
+   ],
+   [
+    "dangerous",
+    14.48,
+    15.02
+   ],
+   [
+    "space",
+    15.02,
+    15.34
+   ],
+   [
+    "rocks",
+    15.34,
+    15.7
+   ],
+   [
+    "that",
+    15.8,
+    15.9
+   ],
+   [
+    "ground",
+    15.9,
+    16.18
+   ],
+   [
+    "telescopes",
+    16.18,
+    16.68
+   ],
+   [
+    "often",
+    16.68,
+    17.1
+   ],
+   [
+    "miss.",
+    17.1,
+    17.48
+   ],
+   [
+    "It",
+    17.8,
+    17.88
+   ],
+   [
+    "is",
+    17.88,
+    17.98
+   ],
+   [
+    "preparing",
+    17.98,
+    18.34
+   ],
+   [
+    "to",
+    18.34,
+    18.56
+   ],
+   [
+    "scan",
+    18.56,
+    18.8
+   ],
+   [
+    "the",
+    18.8,
+    18.96
+   ],
+   [
+    "sky",
+    18.96,
+    19.2
+   ],
+   [
+    "for",
+    19.2,
+    19.4
+   ],
+   [
+    "elusive",
+    19.4,
+    19.74
+   ],
+   [
+    "comets",
+    19.74,
+    20.22
+   ],
+   [
+    "and",
+    20.22,
+    20.32
+   ],
+   [
+    "asteroids.",
+    20.32,
+    20.88
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   21,
+   29,
+   40,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/NRL-camera_aboard_NASA_spacecraft_confirms_asteroid_phenomenon_%285972950%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 481,
+   "license": "Public domain",
+   "artist": "U.S. Navy photo by Daniel Parry",
+   "page": "https://commons.wikimedia.org/wiki/File:NRL-camera_aboard_NASA_spacecraft_confirms_asteroid_phenomenon_(5972950).jpg",
+   "desc": "NRL-camera aboard NASA spacecraft confirms asteroid phenomenon (5972950) — An image from the Wide-Field Imager for Solar Probe (WISPR), a U.S. Naval Research Laboratory-built camera, displays the dust trail of asteroid 3200 Phaethon near the Sun on Nov. 5, 201"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/NEO_Surveyor_spacecraft_scheme.jpg/960px-NEO_Surveyor_spacecraft_scheme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 570,
+   "license": "CC BY 4.0",
+   "artist": "A. K. Mainzer, J. R. Masiero, Paul A. Abell, J. M. Bauer, William Bottke, Bonnie",
+   "page": "https://commons.wikimedia.org/wiki/File:NEO_Surveyor_spacecraft_scheme.jpg",
+   "desc": "NEO Surveyor spacecraft scheme — The NEO Surveyor mission consists of a single infrared instrument operating at two infrared channels. The instrument is shielded from the Sun by its sunshade, and the black-painted radiator surfaces on the back of the in"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/PIA26451_-_NASA%27s_Planetary_Radar_Spies_%28Another%29_Peanut-Shaped_Asteroid.jpg/960px-PIA26451_-_NASA%27s_Planetary_Radar_Spies_%28Another%29_Peanut-Shaped_Asteroid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 494,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA26451_-_NASA%27s_Planetary_Radar_Spies_(Another)_Peanut-Shaped_Asteroid.jpg",
+   "desc": "PIA26451 - NASA's Planetary Radar Spies (Another) Peanut-Shaped Asteroid — This series of radar images obtained by the Deep Space Network's Goldstone Solar System Radar near Barstow, California, on Sept. 16, 2024, shows the near-Earth asteroid 2024 ON a day be"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Illustration_of_NEO_Surveyor_against_an_infrared_starfield_%28PIA25253%29.jpg/960px-Illustration_of_NEO_Surveyor_against_an_infrared_starfield_%28PIA25253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/University of Arizona",
+   "page": "https://commons.wikimedia.org/wiki/File:Illustration_of_NEO_Surveyor_against_an_infrared_starfield_(PIA25253).jpg",
+   "desc": "Illustration of NEO Surveyor against an infrared starfield (PIA25253) — In this illustration showing NEO Surveyor, NASA's next-generation near-Earth object hunter, the spacecraft floats in an infrared starfield containing stars, star clusters, gas, and dust. M"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "large sunshade",
+   "box": [
+    25,
+    595,
+    785,
+    760
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+  "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T16:21:16Z",
+ "trimmed": true
+}
