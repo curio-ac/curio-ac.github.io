@@ -1,0 +1,421 @@
+{
+ "id": "en-3fdb8f87",
+ "lang": "en",
+ "title": "Burnley's 1973 Charity Shield Win",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Top teams chose not to compete in 1973!",
+  "The FA invited Manchester City and Burnley instead.",
+  "They played on 18 August 1973 at Maine Road.",
+  "Alan Oakes hit the crossbar for City in a scoreless first half.",
+  "Burnley took control around the 60th minute.",
+  "Colin Waldron scored a powerful header from a free-kick routine.",
+  "Burnley won 1 to 0 for their second title."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Top",
+    0.24,
+    0.24
+   ],
+   [
+    "teams",
+    0.24,
+    0.62
+   ],
+   [
+    "chose",
+    0.62,
+    0.96
+   ],
+   [
+    "not",
+    0.96,
+    1.32
+   ],
+   [
+    "to",
+    1.32,
+    1.54
+   ],
+   [
+    "compete",
+    1.58,
+    1.9
+   ],
+   [
+    "in",
+    1.9,
+    2.14
+   ],
+   [
+    "1973!",
+    2.14,
+    3.66
+   ],
+   [
+    "The",
+    3.72,
+    3.74
+   ],
+   [
+    "FA",
+    3.74,
+    3.98
+   ],
+   [
+    "invited",
+    3.98,
+    4.48
+   ],
+   [
+    "Manchester",
+    4.48,
+    4.92
+   ],
+   [
+    "City",
+    4.92,
+    5.38
+   ],
+   [
+    "and",
+    5.38,
+    5.68
+   ],
+   [
+    "Burnley",
+    5.68,
+    6.14
+   ],
+   [
+    "instead.",
+    6.14,
+    7.2
+   ],
+   [
+    "They",
+    7.2,
+    7.28
+   ],
+   [
+    "played",
+    7.28,
+    7.48
+   ],
+   [
+    "on",
+    7.48,
+    7.7
+   ],
+   [
+    "18",
+    7.7,
+    8.06
+   ],
+   [
+    "August",
+    8.06,
+    8.5
+   ],
+   [
+    "1973",
+    8.5,
+    9.4
+   ],
+   [
+    "at",
+    9.4,
+    9.92
+   ],
+   [
+    "Maine",
+    9.96,
+    10.2
+   ],
+   [
+    "Road.",
+    10.2,
+    10.5
+   ],
+   [
+    "Alan",
+    11.12,
+    11.32
+   ],
+   [
+    "Oakes",
+    11.32,
+    11.72
+   ],
+   [
+    "hit",
+    11.72,
+    11.92
+   ],
+   [
+    "the",
+    11.92,
+    12.02
+   ],
+   [
+    "crossbar",
+    12.16,
+    12.48
+   ],
+   [
+    "for",
+    12.48,
+    12.66
+   ],
+   [
+    "City",
+    12.66,
+    12.9
+   ],
+   [
+    "in",
+    13.0,
+    13.1
+   ],
+   [
+    "a",
+    13.1,
+    13.18
+   ],
+   [
+    "scoreless",
+    13.18,
+    13.64
+   ],
+   [
+    "first",
+    13.64,
+    13.86
+   ],
+   [
+    "half.",
+    13.86,
+    13.96
+   ],
+   [
+    "Burnley",
+    14.88,
+    15.22
+   ],
+   [
+    "took",
+    15.22,
+    15.38
+   ],
+   [
+    "control",
+    15.38,
+    15.74
+   ],
+   [
+    "around",
+    15.74,
+    16.06
+   ],
+   [
+    "the",
+    16.06,
+    16.22
+   ],
+   [
+    "60th",
+    16.22,
+    16.74
+   ],
+   [
+    "minute.",
+    16.74,
+    17.48
+   ],
+   [
+    "Colin",
+    17.48,
+    17.68
+   ],
+   [
+    "Waldron",
+    17.68,
+    18.16
+   ],
+   [
+    "scored",
+    18.16,
+    18.42
+   ],
+   [
+    "a",
+    18.42,
+    18.64
+   ],
+   [
+    "powerful",
+    18.7,
+    19.08
+   ],
+   [
+    "header",
+    19.08,
+    19.4
+   ],
+   [
+    "from",
+    19.4,
+    19.64
+   ],
+   [
+    "a",
+    19.64,
+    19.76
+   ],
+   [
+    "free-kick",
+    19.8,
+    20.04
+   ],
+   [
+    "routine.",
+    20.04,
+    20.69
+   ],
+   [
+    "Burnley",
+    21.02,
+    21.32
+   ],
+   [
+    "won",
+    21.32,
+    21.6
+   ],
+   [
+    "1",
+    21.6,
+    21.96
+   ],
+   [
+    "to",
+    21.96,
+    22.1
+   ],
+   [
+    "0",
+    22.1,
+    22.44
+   ],
+   [
+    "for",
+    22.6,
+    22.7
+   ],
+   [
+    "their",
+    22.7,
+    22.82
+   ],
+   [
+    "second",
+    22.82,
+    23.12
+   ],
+   [
+    "title.",
+    23.12,
+    23.7
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   25,
+   37,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Manchester_City_-_Burnley_31_Jan_2024.jpg/960px-Manchester_City_-_Burnley_31_Jan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC0",
+   "artist": "Fra Casa",
+   "page": "https://commons.wikimedia.org/wiki/File:Manchester_City_-_Burnley_31_Jan_2024.jpg",
+   "desc": "Manchester City - Burnley 31 Jan 2024 — Manchester City and Burnley F.C. on the pitch (Premier League, 31 January 2024)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Maine_road_prior_to_last_game.jpg/960px-Maine_road_prior_to_last_game.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 447,
+   "license": "CC BY-SA 3.0",
+   "artist": "User:Oldelpaso",
+   "page": "https://commons.wikimedia.org/wiki/File:Maine_road_prior_to_last_game.jpg",
+   "desc": "Maine road prior to last game — Maine Road, Manchester, shortly before the final game at the stadium."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1973
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 60,
+   "unit": "min",
+   "label": "60th minute"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "to 0",
+   "label": "second title"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3736653",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "1973 FA Charity Shield",
+  "url": "https://en.wikipedia.org/wiki/1973_FA_Charity_Shield",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T20:04:23Z",
+ "trimmed": true
+}
