@@ -1,0 +1,439 @@
+{
+ "id": "en-792189eb",
+ "lang": "en",
+ "title": "NASA Sandbox Sea Level Science",
+ "cat": "geography",
+ "emoji": "🌊",
+ "sentences": [
+  "Over 1,000 visitors dived into NASA sea level science.",
+  "This happened on World Ocean Day at the UGA Aquarium.",
+  "Guests played a tumbling tower game to show rising sea impacts.",
+  "They also made friendship bracelets with beads representing local sea level rise.",
+  "A new augmented reality sandbox let users test coastal resilience strategies.",
+  "People shaped sand while NASA projections transformed their landscapes in real time."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Over",
+    0.35,
+    0.37
+   ],
+   [
+    "1,000",
+    0.37,
+    0.83
+   ],
+   [
+    "visitors",
+    0.83,
+    1.23
+   ],
+   [
+    "dived",
+    1.23,
+    1.67
+   ],
+   [
+    "into",
+    1.67,
+    1.95
+   ],
+   [
+    "NASA",
+    1.95,
+    2.25
+   ],
+   [
+    "sea",
+    2.25,
+    2.53
+   ],
+   [
+    "level",
+    2.53,
+    2.73
+   ],
+   [
+    "science.",
+    2.73,
+    3.19
+   ],
+   [
+    "This",
+    3.65,
+    3.71
+   ],
+   [
+    "happened",
+    3.71,
+    4.03
+   ],
+   [
+    "on",
+    4.03,
+    4.27
+   ],
+   [
+    "World",
+    4.27,
+    4.51
+   ],
+   [
+    "Ocean",
+    4.51,
+    4.81
+   ],
+   [
+    "Day",
+    4.81,
+    5.05
+   ],
+   [
+    "at",
+    5.05,
+    5.25
+   ],
+   [
+    "the",
+    5.25,
+    5.35
+   ],
+   [
+    "UGA",
+    5.35,
+    5.75
+   ],
+   [
+    "Aquarium.",
+    5.75,
+    6.35
+   ],
+   [
+    "Guests",
+    6.95,
+    7.19
+   ],
+   [
+    "played",
+    7.33,
+    7.43
+   ],
+   [
+    "a",
+    7.43,
+    7.57
+   ],
+   [
+    "tumbling",
+    7.57,
+    7.87
+   ],
+   [
+    "tower",
+    7.87,
+    8.13
+   ],
+   [
+    "game",
+    8.13,
+    8.43
+   ],
+   [
+    "to",
+    8.43,
+    8.59
+   ],
+   [
+    "show",
+    8.59,
+    8.75
+   ],
+   [
+    "rising",
+    8.75,
+    9.05
+   ],
+   [
+    "sea",
+    9.05,
+    9.33
+   ],
+   [
+    "impacts.",
+    9.33,
+    9.73
+   ],
+   [
+    "They",
+    10.15,
+    10.23
+   ],
+   [
+    "also",
+    10.23,
+    10.47
+   ],
+   [
+    "made",
+    10.47,
+    10.73
+   ],
+   [
+    "friendship",
+    10.73,
+    11.03
+   ],
+   [
+    "bracelets",
+    11.03,
+    11.45
+   ],
+   [
+    "with",
+    11.45,
+    11.73
+   ],
+   [
+    "beads",
+    11.87,
+    11.99
+   ],
+   [
+    "representing",
+    11.99,
+    12.47
+   ],
+   [
+    "local",
+    12.47,
+    12.81
+   ],
+   [
+    "sea",
+    12.81,
+    13.09
+   ],
+   [
+    "level",
+    13.09,
+    13.29
+   ],
+   [
+    "rise.",
+    13.29,
+    13.67
+   ],
+   [
+    "A",
+    14.11,
+    14.21
+   ],
+   [
+    "new",
+    14.21,
+    14.37
+   ],
+   [
+    "augmented",
+    14.37,
+    14.77
+   ],
+   [
+    "reality",
+    14.77,
+    15.07
+   ],
+   [
+    "sandbox",
+    15.07,
+    15.65
+   ],
+   [
+    "let",
+    15.65,
+    15.93
+   ],
+   [
+    "users",
+    15.93,
+    16.21
+   ],
+   [
+    "test",
+    16.21,
+    16.55
+   ],
+   [
+    "coastal",
+    16.55,
+    16.95
+   ],
+   [
+    "resilience",
+    16.95,
+    17.41
+   ],
+   [
+    "strategies.",
+    17.41,
+    18.05
+   ],
+   [
+    "People",
+    18.51,
+    18.65
+   ],
+   [
+    "shaped",
+    18.65,
+    18.95
+   ],
+   [
+    "sand",
+    18.95,
+    19.33
+   ],
+   [
+    "while",
+    19.33,
+    19.53
+   ],
+   [
+    "NASA",
+    19.53,
+    19.81
+   ],
+   [
+    "projections",
+    19.81,
+    20.21
+   ],
+   [
+    "transformed",
+    20.21,
+    20.81
+   ],
+   [
+    "their",
+    20.81,
+    21.07
+   ],
+   [
+    "landscapes",
+    21.07,
+    21.47
+   ],
+   [
+    "in",
+    21.47,
+    21.71
+   ],
+   [
+    "real",
+    21.71,
+    21.89
+   ],
+   [
+    "time.",
+    21.89,
+    22.29
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   19,
+   30,
+   42,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jenga_2.jpg/960px-Jenga_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 982,
+   "license": "CC BY-SA 4.0",
+   "artist": "3steph14",
+   "page": "https://commons.wikimedia.org/wiki/File:Jenga_2.jpg",
+   "desc": "Jenga 2 — jenga"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Friendship_Bracelets.jpg/960px-Friendship_Bracelets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 739,
+   "license": "CC BY-SA 4.0",
+   "artist": "Wilson0204",
+   "page": "https://commons.wikimedia.org/wiki/File:Friendship_Bracelets.jpg",
+   "desc": "Friendship Bracelets — There are many different types of friendship bracelets, as seen in the assortment above. Making a trading friendship bracelets became a large part of Taylor Swift's Eras Tour concerts as seen in the photo."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Augmented_Reality_Sandbox_at_Perot_Museum.jpg/960px-Augmented_Reality_Sandbox_at_Perot_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Henrysz",
+   "page": "https://commons.wikimedia.org/wiki/File:Augmented_Reality_Sandbox_at_Perot_Museum.jpg",
+   "desc": "Augmented Reality Sandbox at Perot Museum — Augmented reality sandbox at Perot museum in Dallas; different heights of sand are lighted different colors. several hands of museum goers are visible."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Augmented_Reality_Sandbox_tested_in_Greenland.jpg/960px-Augmented_Reality_Sandbox_tested_in_Greenland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1280,
+   "license": "CC BY-SA 3.0",
+   "artist": "Karlbrix",
+   "page": "https://commons.wikimedia.org/wiki/File:Augmented_Reality_Sandbox_tested_in_Greenland.jpg",
+   "desc": "Augmented Reality Sandbox tested in Greenland — Greenland Institute of Natural Resources displays the Augmented Reality Sandbox at Culture Night in Nuuk. The sandbox was constructed by technical engineer Jukka Wagnholt."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1000,
+   "unit": "visitors",
+   "label": "Museum Visitors"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
+ "pron_wer": 0.077,
+ "angle": 0,
+ "source": {
+  "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
+  "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T04:58:35Z",
+ "trimmed": true
+}

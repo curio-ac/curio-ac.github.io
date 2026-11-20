@@ -254,7 +254,8 @@
   "Apollo 7",
   "nasa:1510608",
   "Battle of Barnet",
-  "Battle of the Aegates"
+  "Battle of the Aegates",
+  "Albertosaurus"
  ],
  "rejected": [
   "Chameleon",
@@ -1158,6 +1159,9 @@
   ],
   "Battle of the Aegates": [
    "Rome's Bankruptcy Battle: Rome borrowed money to build a fleet!"
+  ],
+  "Albertosaurus": [
+   "Meet Albertosaurus!: Meet Albertosaurus, the Alberta lizard!"
   ]
  },
  "exhausted": []
