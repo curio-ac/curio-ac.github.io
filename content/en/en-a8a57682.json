@@ -1,0 +1,405 @@
+{
+ "id": "en-a8a57682",
+ "lang": "en",
+ "title": "The Brutal Bone Wars",
+ "cat": "history",
+ "emoji": "🦖",
+ "sentences": [
+  "Paleontologists fought a brutal dinosaur war.",
+  "Edward Drinker Cope and Othniel Charles Marsh were bitter rivals.",
+  "They used bribery, theft, and the destruction of valuable bones.",
+  "Both men constantly attacked each other in publications to cut funding.",
+  "From 1877 to 1892, they heavily financed rival western expeditions.",
+  "They completely ruined themselves financially while making massive contributions to science."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Paleontologists",
+    0.16,
+    0.82
+   ],
+   [
+    "fought",
+    0.82,
+    1.12
+   ],
+   [
+    "a",
+    1.12,
+    1.32
+   ],
+   [
+    "brutal",
+    1.32,
+    1.62
+   ],
+   [
+    "dinosaur",
+    1.62,
+    2.08
+   ],
+   [
+    "war.",
+    2.08,
+    2.56
+   ],
+   [
+    "Edward",
+    2.72,
+    2.9
+   ],
+   [
+    "Drinker",
+    2.9,
+    3.3
+   ],
+   [
+    "Cope",
+    3.3,
+    3.6
+   ],
+   [
+    "and",
+    3.7,
+    3.8
+   ],
+   [
+    "Othniel",
+    3.8,
+    4.24
+   ],
+   [
+    "Charles",
+    4.24,
+    4.56
+   ],
+   [
+    "Marsh",
+    4.56,
+    4.9
+   ],
+   [
+    "were",
+    4.9,
+    5.2
+   ],
+   [
+    "bitter",
+    5.2,
+    5.44
+   ],
+   [
+    "rivals.",
+    5.44,
+    6.18
+   ],
+   [
+    "They",
+    6.2,
+    6.26
+   ],
+   [
+    "used",
+    6.26,
+    6.44
+   ],
+   [
+    "bribery,",
+    6.44,
+    6.89
+   ],
+   [
+    "theft,",
+    7.14,
+    7.44
+   ],
+   [
+    "and",
+    7.58,
+    7.66
+   ],
+   [
+    "the",
+    7.66,
+    7.74
+   ],
+   [
+    "destruction",
+    7.74,
+    8.06
+   ],
+   [
+    "of",
+    8.06,
+    8.34
+   ],
+   [
+    "valuable",
+    8.34,
+    8.68
+   ],
+   [
+    "bones.",
+    8.68,
+    9.16
+   ],
+   [
+    "Both",
+    9.42,
+    9.54
+   ],
+   [
+    "men",
+    9.54,
+    9.78
+   ],
+   [
+    "constantly",
+    9.78,
+    10.22
+   ],
+   [
+    "attacked",
+    10.24,
+    10.6
+   ],
+   [
+    "each",
+    10.6,
+    10.82
+   ],
+   [
+    "other",
+    10.82,
+    11.0
+   ],
+   [
+    "in",
+    11.0,
+    11.16
+   ],
+   [
+    "publications",
+    11.16,
+    11.52
+   ],
+   [
+    "to",
+    11.52,
+    11.94
+   ],
+   [
+    "cut",
+    11.98,
+    12.08
+   ],
+   [
+    "funding.",
+    12.08,
+    12.62
+   ],
+   [
+    "From",
+    12.68,
+    12.76
+   ],
+   [
+    "1877",
+    12.76,
+    13.62
+   ],
+   [
+    "to",
+    13.62,
+    13.92
+   ],
+   [
+    "1892,",
+    13.92,
+    14.92
+   ],
+   [
+    "they",
+    14.98,
+    15.06
+   ],
+   [
+    "heavily",
+    15.06,
+    15.36
+   ],
+   [
+    "financed",
+    15.36,
+    15.94
+   ],
+   [
+    "rival",
+    15.98,
+    16.2
+   ],
+   [
+    "western",
+    16.2,
+    16.54
+   ],
+   [
+    "expeditions.",
+    16.54,
+    17.26
+   ],
+   [
+    "They",
+    17.5,
+    17.56
+   ],
+   [
+    "completely",
+    17.56,
+    17.9
+   ],
+   [
+    "ruined",
+    17.9,
+    18.32
+   ],
+   [
+    "themselves",
+    18.32,
+    18.6
+   ],
+   [
+    "financially",
+    18.6,
+    19.28
+   ],
+   [
+    "while",
+    19.28,
+    19.56
+   ],
+   [
+    "making",
+    19.56,
+    19.8
+   ],
+   [
+    "massive",
+    19.8,
+    20.16
+   ],
+   [
+    "contributions",
+    20.16,
+    20.78
+   ],
+   [
+    "to",
+    20.78,
+    21.06
+   ],
+   [
+    "science.",
+    21.06,
+    21.42
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   26,
+   37,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 465,
+   "license": "Public domain",
+   "artist": "Frederick Gutekunst",
+   "page": "https://commons.wikimedia.org/wiki/File:Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg",
+   "desc": "Othniel Charles Marsh & Edward Drinker Cope bw — Othniel Charles Marsh (1831–1899) plus Edward Drinker Cope (1840-1897), rival American paleontologists Uploader's notes: The uploader cropped and reduced the pixel density of the Marsh image, removed color from "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 465,
+   "license": "Public domain",
+   "artist": "Frederick Gutekunst",
+   "page": "https://commons.wikimedia.org/wiki/File:Othniel_Charles_Marsh_%26_Edward_Drinker_Cope_bw.jpg",
+   "desc": "Othniel Charles Marsh & Edward Drinker Cope bw — Othniel Charles Marsh (1831–1899) plus Edward Drinker Cope (1840-1897), rival American paleontologists Uploader's notes: The uploader cropped and reduced the pixel density of the Marsh image, removed color from "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cope_Elasmosaurus.jpg/960px-Cope_Elasmosaurus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 113,
+   "license": "Public domain",
+   "artist": "Edward Cope.",
+   "page": "https://commons.wikimedia.org/wiki/File:Cope_Elasmosaurus.jpg",
+   "desc": "Cope Elasmosaurus — The \"head-on-the-wrong-end\" version of Elasmosaurus platyurus published by Cope (1869, Pl. II, Fig. 1). The ten dorsal vertebrae shown in black approximate those noted by Cope to be missing from the type specimen. Note t"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/OCmarsh.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Unknown; Lambert lists \"John Ostrom/Peabody Museum\" as picture credits and sourc",
+   "page": "https://commons.wikimedia.org/wiki/File:OCmarsh.jpg",
+   "desc": "OCmarsh — American paleontologist Othniel Charles Marsh (center, back row) and assistants ready for digging; from an 1872 expedition, part of the \"Bone Wars\". Pictured: (front row, seated at far left) Thomas H. Russell, '72 S, M.D"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1877
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  39.828,
+  -98.579
+ ],
+ "qid": "Q152646",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Bone Wars",
+  "url": "https://en.wikipedia.org/wiki/Bone_Wars",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T20:37:13Z",
+ "trimmed": true
+}

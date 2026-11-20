@@ -299,7 +299,8 @@
   "nasa:1280207",
   "City of Angels (Thirty Seconds to Mars song)",
   "nasa:1285115",
-  "1973 FA Charity Shield"
+  "1973 FA Charity Shield",
+  "nasa:1500914"
  ],
  "rejected": [
   "Chameleon",
@@ -1353,6 +1354,9 @@
   ],
   "1973 FA Charity Shield": [
    "Burnley's 1973 Charity Shield Win: Top teams chose not to compete in 1973!"
+  ],
+  "nasa:1500914": [
+   "El Niño Then and Now: Spot higher Pacific sea levels."
   ]
  },
  "exhausted": []
