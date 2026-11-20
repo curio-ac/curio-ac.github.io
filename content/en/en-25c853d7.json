@@ -1,0 +1,449 @@
+{
+ "id": "en-25c853d7",
+ "lang": "en",
+ "title": "Easter Day Battle",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "Fought on Easter Day!",
+  "On April 14, 1471, Edward IV led the House of York near Barnet.",
+  "They fought the House of Lancaster, backed by Henry VI.",
+  "Richard Neville, Earl of Warwick, led the Lancastrian army against his former allies.",
+  "Warwick had previously defected over disagreements with Edward.",
+  "Edward's decisive victory secured the English throne and led to 14 years of Yorkist rule."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Fought",
+    0.12,
+    0.3
+   ],
+   [
+    "on",
+    0.3,
+    0.52
+   ],
+   [
+    "Easter",
+    0.64,
+    0.88
+   ],
+   [
+    "Day!",
+    0.88,
+    1.24
+   ],
+   [
+    "On",
+    1.82,
+    1.84
+   ],
+   [
+    "April",
+    1.84,
+    2.12
+   ],
+   [
+    "14,",
+    2.12,
+    2.68
+   ],
+   [
+    "1471,",
+    3.08,
+    4.32
+   ],
+   [
+    "Edward",
+    4.32,
+    4.5
+   ],
+   [
+    "IV",
+    4.5,
+    4.84
+   ],
+   [
+    "led",
+    4.84,
+    5.24
+   ],
+   [
+    "the",
+    5.24,
+    5.38
+   ],
+   [
+    "House",
+    5.38,
+    5.58
+   ],
+   [
+    "of",
+    5.58,
+    5.76
+   ],
+   [
+    "York",
+    5.76,
+    5.94
+   ],
+   [
+    "near",
+    5.94,
+    6.22
+   ],
+   [
+    "Barnet.",
+    6.22,
+    6.62
+   ],
+   [
+    "They",
+    7.2,
+    7.28
+   ],
+   [
+    "fought",
+    7.28,
+    7.5
+   ],
+   [
+    "the",
+    7.5,
+    7.66
+   ],
+   [
+    "House",
+    7.66,
+    7.88
+   ],
+   [
+    "of",
+    7.88,
+    8.04
+   ],
+   [
+    "Lancaster,",
+    8.04,
+    8.59
+   ],
+   [
+    "backed",
+    8.9,
+    9.04
+   ],
+   [
+    "by",
+    9.04,
+    9.26
+   ],
+   [
+    "Henry",
+    9.26,
+    9.52
+   ],
+   [
+    "VI.",
+    9.52,
+    9.84
+   ],
+   [
+    "Richard",
+    10.68,
+    10.9
+   ],
+   [
+    "Neville,",
+    10.9,
+    11.4
+   ],
+   [
+    "Earl",
+    11.58,
+    11.7
+   ],
+   [
+    "of",
+    11.7,
+    11.86
+   ],
+   [
+    "Warwick,",
+    11.86,
+    12.22
+   ],
+   [
+    "led",
+    12.56,
+    12.66
+   ],
+   [
+    "the",
+    12.66,
+    12.82
+   ],
+   [
+    "Lancastrian",
+    12.82,
+    13.4
+   ],
+   [
+    "army",
+    13.4,
+    13.72
+   ],
+   [
+    "against",
+    13.72,
+    14.12
+   ],
+   [
+    "his",
+    14.12,
+    14.38
+   ],
+   [
+    "former",
+    14.38,
+    14.64
+   ],
+   [
+    "allies.",
+    14.64,
+    15.2
+   ],
+   [
+    "Warwick",
+    15.9,
+    16.22
+   ],
+   [
+    "had",
+    16.22,
+    16.34
+   ],
+   [
+    "previously",
+    16.34,
+    16.66
+   ],
+   [
+    "defected",
+    16.66,
+    17.34
+   ],
+   [
+    "over",
+    17.34,
+    17.52
+   ],
+   [
+    "disagreements",
+    17.52,
+    18.16
+   ],
+   [
+    "with",
+    18.16,
+    18.3
+   ],
+   [
+    "Edward.",
+    18.3,
+    18.68
+   ],
+   [
+    "Edward's",
+    19.36,
+    19.7
+   ],
+   [
+    "decisive",
+    19.7,
+    20.14
+   ],
+   [
+    "victory",
+    20.14,
+    20.52
+   ],
+   [
+    "secured",
+    20.52,
+    21.0
+   ],
+   [
+    "the",
+    21.0,
+    21.22
+   ],
+   [
+    "English",
+    21.22,
+    21.48
+   ],
+   [
+    "throne",
+    21.48,
+    21.78
+   ],
+   [
+    "and",
+    21.78,
+    22.2
+   ],
+   [
+    "led",
+    22.2,
+    22.34
+   ],
+   [
+    "to",
+    22.34,
+    22.48
+   ],
+   [
+    "14",
+    22.48,
+    22.82
+   ],
+   [
+    "years",
+    22.82,
+    23.18
+   ],
+   [
+    "of",
+    23.3,
+    23.4
+   ],
+   [
+    "Yorkist",
+    23.4,
+    23.78
+   ],
+   [
+    "rule.",
+    23.78,
+    24.1
+   ]
+  ],
+  "b": [
+   0,
+   4,
+   17,
+   27,
+   40,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Battle_of_Barnet_lithograph.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 473,
+   "license": "Public domain",
+   "artist": "M. &amp; N. Hanhart (floruit 1839-1865)[1] [dead link]",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Barnet_lithograph.jpg",
+   "desc": "Battle of Barnet lithograph — An imagining of the Battle of Barnet. Cromolithograph by M. &amp; N. Hanhart"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Edward_IV%2C_Father_of_Elizabeth_of_York%2C_maternal_grandfather_of_Henry_VIII%2C_Arthur%2C_Margaret%2C_and_Mary_Tudor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1207,
+   "license": "Public domain",
+   "artist": "Ann Longmore-Etheridge",
+   "page": "https://commons.wikimedia.org/wiki/File:Edward_IV,_Father_of_Elizabeth_of_York,_maternal_grandfather_of_Henry_VIII,_Arthur,_Margaret,_and_Mary_Tudor.jpg",
+   "desc": "Edward IV, Father of Elizabeth of York, maternal grandfather of Henry VIII, Arthur, Margaret, and Mary Tudor — Portrait of King Edward IV (1442 - 1483) from a set of medieval Kings 1618c. https://philipmould.com/ http://www.historicalportraits.com/Gallery.asp?"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Warwick_prepping_for_Barnet.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "mrpbps",
+   "page": "https://commons.wikimedia.org/wiki/File:Warwick_prepping_for_Barnet.jpg",
+   "desc": "Warwick prepping for Barnet — Diorama in Warwick Castle, depicting Richard Neville, 16th Earl of Warwick, (1428–71) as he prepares for the Battle of Barnet, 14 April 1471. This is part of \"Kingmaker—A Preparation for Battle\" exhibit set up since 1994"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Richard_Neville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 918,
+   "license": "Public domain",
+   "artist": "John Rous",
+   "page": "https://commons.wikimedia.org/wiki/File:Richard_Neville.jpg",
+   "desc": "Richard Neville — Richard Neville, 16th Earl of Warwick (\"Warwick the Kingmaker\"), from the Rous Roll. He displays on his shield the arms of Montagu quartering Monthermer. The bull's head is the crest of the Neville family, the eagle is t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/MS_Ghent_-_Battle_of_Barnet_retouched.jpg/960px-MS_Ghent_-_Battle_of_Barnet_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 901,
+   "license": "Public domain",
+   "artist": "Original: Unknown Derivative: Jappalang (talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:MS_Ghent_-_Battle_of_Barnet_retouched.jpg",
+   "desc": "MS Ghent - Battle of Barnet retouched — Illustration of the Battle of Barnet (14 April 1471) on the Ghent manuscript"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1471
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Earl of Warwick",
+   "box": [
+    190,
+    312,
+    850,
+    755
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 14,
+   "unit": "years",
+   "label": "Yorkist rule"
+  }
+ ],
+ "geo": [
+  51.666,
+  -0.199
+ ],
+ "qid": "Q1428169",
+ "pron_wer": 0.047,
+ "angle": 0,
+ "source": {
+  "title": "Battle of Barnet",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_Barnet",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T03:33:48Z",
+ "trimmed": true
+}

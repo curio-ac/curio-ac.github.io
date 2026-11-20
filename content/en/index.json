@@ -251,7 +251,8 @@
   "Walt Disney",
   "nasa:1506034",
   "Diamonds Are Forever (novel)",
-  "Apollo 7"
+  "Apollo 7",
+  "nasa:1510608"
  ],
  "rejected": [
   "Chameleon",
@@ -1145,6 +1146,9 @@
   ],
   "Apollo 7": [
    "Apollo 7's Historic Return: Human spaceflight returned after tragedy."
+  ],
+  "nasa:1510608": [
+   "Potato Chip Rocks on Mars!: Mars has potato chip rocks!"
   ]
  },
  "exhausted": []
