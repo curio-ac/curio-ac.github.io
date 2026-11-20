@@ -1,0 +1,376 @@
+{
+ "id": "he-73759c79",
+ "lang": "he",
+ "title": "התרופה ששינתה את העולם",
+ "cat": "medicine",
+ "emoji": "💊",
+ "sentences": [
+  "פניצילין הצילה מיליוני אנשים מזיהומים קטלניים.",
+  "היא מופרשת באופן טבעי על ידי פטריית עובש.",
+  "אלכסנדר פלמינג גילה אותה בשנת 1928.",
+  "הווארד פלורי וארנסט בוריס צ'יין פיתחו אותה כתרופה.",
+  "זו הייתה האנטיביוטיקה הראשונה שהתגלתה אי פעם.",
+  "היא הורסת חיידקים על ידי פגיעה בדופן התא שלהם.",
+  "הפיתוח הזה חולל מהפכה של ממש ברפואה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "פניצילין",
+    0,
+    0.7
+   ],
+   [
+    "הצילה",
+    0.7,
+    1.2
+   ],
+   [
+    "מיליוני",
+    1.2,
+    1.78
+   ],
+   [
+    "אנשים",
+    1.78,
+    2.16
+   ],
+   [
+    "מזיהומים",
+    2.16,
+    2.76
+   ],
+   [
+    "קטלניים.",
+    2.76,
+    3.56
+   ],
+   [
+    "היא",
+    3.9,
+    4.0
+   ],
+   [
+    "מופרשת",
+    4.0,
+    4.6
+   ],
+   [
+    "באופן",
+    4.64,
+    5.08
+   ],
+   [
+    "טבעי",
+    5.1,
+    5.6
+   ],
+   [
+    "על",
+    5.6,
+    5.8
+   ],
+   [
+    "ידי",
+    5.8,
+    5.98
+   ],
+   [
+    "פטריית",
+    5.98,
+    6.58
+   ],
+   [
+    "עובש.",
+    6.58,
+    7.18
+   ],
+   [
+    "אלכסנדר",
+    7.74,
+    8.34
+   ],
+   [
+    "פלמינג",
+    8.34,
+    8.98
+   ],
+   [
+    "גילה",
+    8.98,
+    9.38
+   ],
+   [
+    "אותה",
+    9.38,
+    9.6
+   ],
+   [
+    "בשנת",
+    9.6,
+    10.04
+   ],
+   [
+    "1928.",
+    10.04,
+    11.68
+   ],
+   [
+    "הווארד",
+    12.42,
+    12.78
+   ],
+   [
+    "פלורי",
+    12.88,
+    13.26
+   ],
+   [
+    "וארנסט",
+    13.26,
+    14.1
+   ],
+   [
+    "בוריס",
+    14.1,
+    14.4
+   ],
+   [
+    "צ'יין",
+    14.4,
+    14.86
+   ],
+   [
+    "פיתחו",
+    14.86,
+    15.52
+   ],
+   [
+    "אותה",
+    15.68,
+    15.78
+   ],
+   [
+    "כתרופה.",
+    15.78,
+    16.36
+   ],
+   [
+    "זו",
+    17.0,
+    17.08
+   ],
+   [
+    "הייתה",
+    17.08,
+    17.32
+   ],
+   [
+    "האנטיביוטיקה",
+    17.32,
+    18.12
+   ],
+   [
+    "הראשונה",
+    18.12,
+    18.6
+   ],
+   [
+    "שהתגלתה",
+    18.6,
+    19.38
+   ],
+   [
+    "אי",
+    19.38,
+    19.58
+   ],
+   [
+    "פעם.",
+    19.58,
+    19.8
+   ],
+   [
+    "היא",
+    20.48,
+    20.54
+   ],
+   [
+    "הורסת",
+    20.54,
+    20.98
+   ],
+   [
+    "חיידקים",
+    20.98,
+    21.58
+   ],
+   [
+    "על",
+    21.58,
+    21.74
+   ],
+   [
+    "ידי",
+    21.74,
+    21.92
+   ],
+   [
+    "פגיעה",
+    21.92,
+    22.44
+   ],
+   [
+    "בדופן",
+    22.44,
+    22.96
+   ],
+   [
+    "התא",
+    22.96,
+    23.28
+   ],
+   [
+    "שלהם.",
+    23.28,
+    23.56
+   ],
+   [
+    "הפיתוח",
+    24.54,
+    24.72
+   ],
+   [
+    "הזה",
+    24.72,
+    24.98
+   ],
+   [
+    "חולל",
+    24.98,
+    25.34
+   ],
+   [
+    "מהפכה",
+    25.34,
+    25.94
+   ],
+   [
+    "של",
+    25.94,
+    26.06
+   ],
+   [
+    "ממש",
+    26.06,
+    26.42
+   ],
+   [
+    "ברפואה.",
+    26.42,
+    26.98
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   20,
+   28,
+   35,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nobelpristagare_Fleming_Midi.jpg/960px-Nobelpristagare_Fleming_Midi.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "לא ידועUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Nobelpristagare_Fleming_Midi.jpg",
+   "desc": "Nobelpristagare Fleming Midi — Alexander Fleming receives the Nobel Prize from King Gustaf V of Sweden."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Howard_Florey_in_Oxford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 912,
+   "license": "CC BY 4.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Howard_Florey_in_Oxford.jpg",
+   "desc": "Howard Florey in Oxford — Group portrait(back row, left to right) Selman Waksman, Howard Florey, Jacques Tréfouël, Ernst Boris Chain, Andre Gratia, (front row left to right) Pierre Fredericq and Maurice Welsch. Taken by unknown photographer at Ox"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Stamp_of_Moldova_-_2018_-_Colnect_800839_-_Alexander_Fleming_1881-1955_Penicillin.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1045,
+   "license": "Public domain",
+   "artist": "Post of Moldova",
+   "page": "https://commons.wikimedia.org/wiki/File:Stamp_of_Moldova_-_2018_-_Colnect_800839_-_Alexander_Fleming_1881-1955_Penicillin.jpeg",
+   "desc": "Stamp of Moldova - 2018 - Colnect 800839 - Alexander Fleming 1881-1955 Penicillin — Sir Alexander Fleming (6 August 1881 – 11 March 1955) was a Scottish physician, microbiologist, and pharmacologist. His best-known discoveries are the enzyme lysozyme in 1923 a"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Mechanism_of_FDAA_labeling.png/960px-Mechanism_of_FDAA_labeling.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 607,
+   "license": "CC BY-SA 3.0",
+   "artist": "The Royal Society of Chemistry",
+   "page": "https://commons.wikimedia.org/wiki/File:Mechanism_of_FDAA_labeling.png",
+   "desc": "Mechanism of FDAA labeling — FDAAs incorporate into peptidoglycan through a transpeptidation-mimicking process catalyzed by Penicillin-binding proteins."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1928
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "ראשונה",
+   "label": "אנטיביוטיקה ראשונה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q12190",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "פניצילין",
+  "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A0%D7%99%D7%A6%D7%99%D7%9C%D7%99%D7%9F",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T17:01:46Z",
+ "trimmed": true
+}
