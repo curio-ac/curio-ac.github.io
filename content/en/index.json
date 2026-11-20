@@ -296,7 +296,8 @@
   "Charles Edward, Duke of Saxe-Coburg and Gotha",
   "Bryce Canyon National Park",
   "nasa:1510412",
-  "nasa:1280207"
+  "nasa:1280207",
+  "City of Angels (Thirty Seconds to Mars song)"
  ],
  "rejected": [
   "Chameleon",
@@ -371,7 +372,8 @@
   "Stan Coveleski",
   "nasa:1391338",
   "Abu Nidal",
-  "Isabella Beeton"
+  "Isabella Beeton",
+  "2022–23 Notts County F.C. season"
  ],
  "angles": {
   "Blue whale": [
@@ -1339,6 +1341,9 @@
   ],
   "nasa:1280207": [
    "Emperor Penguins' Secret Resilience: Emperor penguins are surprisingly flexible survivors."
+  ],
+  "City of Angels (Thirty Seconds to Mars song)": [
+   "Thirty Seconds to Mars Hit: One song took forever to record."
   ]
  },
  "exhausted": []
