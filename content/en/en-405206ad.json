@@ -1,0 +1,372 @@
+{
+ "id": "en-405206ad",
+ "lang": "en",
+ "title": "Australia's Unlikely Winter Olympics",
+ "cat": "history",
+ "emoji": "⛷️",
+ "sentences": [
+  "Australia debuted at the Winter Olympics in 1936.",
+  "Early athletes struggled badly, with most placing in the bottom quarter.",
+  "Administrators initially viewed investing in winter sports as futile.",
+  "Everything changed after Geoff Henke became team manager in 1976.",
+  "Government funding grew and an Austrian training base was purchased.",
+  "Australia finally won its first medal in 1994."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Australia",
+    0.35,
+    0.35
+   ],
+   [
+    "debuted",
+    0.35,
+    0.89
+   ],
+   [
+    "at",
+    0.89,
+    1.27
+   ],
+   [
+    "the",
+    1.27,
+    1.37
+   ],
+   [
+    "Winter",
+    1.37,
+    1.65
+   ],
+   [
+    "Olympics",
+    1.65,
+    2.09
+   ],
+   [
+    "in",
+    2.09,
+    2.33
+   ],
+   [
+    "1936.",
+    2.33,
+    3.83
+   ],
+   [
+    "Early",
+    3.87,
+    4.03
+   ],
+   [
+    "athletes",
+    4.03,
+    4.41
+   ],
+   [
+    "struggled",
+    4.41,
+    4.85
+   ],
+   [
+    "badly,",
+    4.85,
+    5.55
+   ],
+   [
+    "with",
+    5.55,
+    5.65
+   ],
+   [
+    "most",
+    5.73,
+    5.93
+   ],
+   [
+    "placing",
+    5.93,
+    6.25
+   ],
+   [
+    "in",
+    6.25,
+    6.43
+   ],
+   [
+    "the",
+    6.43,
+    6.45
+   ],
+   [
+    "bottom",
+    6.45,
+    6.65
+   ],
+   [
+    "quarter.",
+    6.65,
+    6.99
+   ],
+   [
+    "Administrators",
+    7.51,
+    8.03
+   ],
+   [
+    "initially",
+    8.03,
+    8.37
+   ],
+   [
+    "viewed",
+    8.37,
+    8.77
+   ],
+   [
+    "investing",
+    8.77,
+    9.27
+   ],
+   [
+    "in",
+    9.27,
+    9.45
+   ],
+   [
+    "winter",
+    9.45,
+    9.67
+   ],
+   [
+    "sports",
+    9.67,
+    10.07
+   ],
+   [
+    "as",
+    10.07,
+    10.25
+   ],
+   [
+    "futile.",
+    10.25,
+    10.71
+   ],
+   [
+    "Everything",
+    11.33,
+    11.55
+   ],
+   [
+    "changed",
+    11.55,
+    11.95
+   ],
+   [
+    "after",
+    11.95,
+    12.31
+   ],
+   [
+    "Geoff",
+    12.31,
+    12.57
+   ],
+   [
+    "Henke",
+    12.57,
+    12.97
+   ],
+   [
+    "became",
+    12.97,
+    13.31
+   ],
+   [
+    "team",
+    13.31,
+    13.61
+   ],
+   [
+    "manager",
+    13.61,
+    13.97
+   ],
+   [
+    "in",
+    13.99,
+    14.25
+   ],
+   [
+    "1976.",
+    14.25,
+    15.11
+   ],
+   [
+    "Government",
+    15.63,
+    15.91
+   ],
+   [
+    "funding",
+    15.91,
+    16.19
+   ],
+   [
+    "grew",
+    16.19,
+    16.57
+   ],
+   [
+    "and",
+    16.57,
+    17.03
+   ],
+   [
+    "an",
+    17.03,
+    17.13
+   ],
+   [
+    "Austrian",
+    17.13,
+    17.45
+   ],
+   [
+    "training",
+    17.45,
+    17.79
+   ],
+   [
+    "base",
+    17.79,
+    18.07
+   ],
+   [
+    "was",
+    18.07,
+    18.27
+   ],
+   [
+    "purchased.",
+    18.27,
+    18.51
+   ],
+   [
+    "Australia",
+    19.57,
+    19.57
+   ],
+   [
+    "finally",
+    19.57,
+    19.95
+   ],
+   [
+    "won",
+    19.95,
+    20.31
+   ],
+   [
+    "its",
+    20.31,
+    20.51
+   ],
+   [
+    "first",
+    20.63,
+    20.73
+   ],
+   [
+    "medal",
+    20.73,
+    21.03
+   ],
+   [
+    "in",
+    21.03,
+    21.23
+   ],
+   [
+    "1994.",
+    21.23,
+    21.77
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   28,
+   38,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/David_Morris.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 962,
+   "license": "CC BY-SA 1.0",
+   "artist": "Drpete00",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Morris.jpg",
+   "desc": "David Morris — Picture of Aerial Skier David Morris"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1936
+  },
+  {
+   "type": "stat",
+   "value": 1976,
+   "unit": "yr",
+   "label": "Early athletes struggled"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1976
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1994,
+   "unit": "yr",
+   "label": "First medal won"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2872217",
+ "pron_wer": 0.036,
+ "angle": 0,
+ "source": {
+  "title": "Australia at the Winter Olympics",
+  "url": "https://en.wikipedia.org/wiki/Australia_at_the_Winter_Olympics",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T23:50:50Z",
+ "trimmed": true
+}

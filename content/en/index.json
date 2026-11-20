@@ -309,7 +309,8 @@
   "nasa:1480026",
   "Rudolph Cartier",
   "Ailanthus altissima",
-  "DNA nanotechnology"
+  "DNA nanotechnology",
+  "1995 Pacific Grand Prix"
  ],
  "rejected": [
   "Chameleon",
@@ -1397,6 +1398,9 @@
   ],
   "DNA nanotechnology": [
    "DNA Engineering: DNA used as a non-biological engineering material."
+  ],
+  "1995 Pacific Grand Prix": [
+   "Schumacher Wins 1995 Championship: Schumacher clinched the championship!"
   ]
  },
  "exhausted": []
