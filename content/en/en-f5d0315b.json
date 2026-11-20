@@ -1,0 +1,407 @@
+{
+ "id": "en-f5d0315b",
+ "lang": "en",
+ "title": "Vietnam's Republic or Monarchy Vote",
+ "cat": "history",
+ "emoji": "🗳️",
+ "sentences": [
+  "A referendum once decided Vietnam’s government.",
+  "The country chose between a republic and monarchy.",
+  "Prime Minister Ngô Đình Diệm proposed a republic.",
+  "Former emperor Bảo Đại held the title of chief of state.",
+  "This was the last phase in their power struggle.",
+  "Vietnam was partitioned after the 1954 Geneva Accords.",
+  "Religious sects and crime syndicates controlled parts of the country."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.08,
+    0.08
+   ],
+   [
+    "referendum",
+    0.08,
+    0.5
+   ],
+   [
+    "once",
+    0.5,
+    0.94
+   ],
+   [
+    "decided",
+    0.94,
+    1.44
+   ],
+   [
+    "Vietnam’s",
+    1.44,
+    2.14
+   ],
+   [
+    "government.",
+    2.14,
+    2.44
+   ],
+   [
+    "The",
+    3.14,
+    3.2
+   ],
+   [
+    "country",
+    3.2,
+    3.48
+   ],
+   [
+    "chose",
+    3.48,
+    3.76
+   ],
+   [
+    "between",
+    3.76,
+    4.12
+   ],
+   [
+    "a",
+    4.12,
+    4.36
+   ],
+   [
+    "republic",
+    4.36,
+    4.76
+   ],
+   [
+    "and",
+    4.76,
+    5.16
+   ],
+   [
+    "monarchy.",
+    5.16,
+    5.5
+   ],
+   [
+    "Prime",
+    6.42,
+    6.52
+   ],
+   [
+    "Minister",
+    6.52,
+    6.86
+   ],
+   [
+    "Ngô",
+    6.86,
+    7.22
+   ],
+   [
+    "Đình",
+    7.22,
+    7.52
+   ],
+   [
+    "Diệm",
+    7.52,
+    7.86
+   ],
+   [
+    "proposed",
+    8.2,
+    8.32
+   ],
+   [
+    "a",
+    8.32,
+    8.56
+   ],
+   [
+    "republic.",
+    8.56,
+    8.88
+   ],
+   [
+    "Former",
+    9.72,
+    9.9
+   ],
+   [
+    "emperor",
+    9.9,
+    10.28
+   ],
+   [
+    "Bảo",
+    10.28,
+    10.6
+   ],
+   [
+    "Đại",
+    10.6,
+    10.94
+   ],
+   [
+    "held",
+    10.94,
+    11.24
+   ],
+   [
+    "the",
+    11.24,
+    11.36
+   ],
+   [
+    "title",
+    11.42,
+    11.62
+   ],
+   [
+    "of",
+    11.62,
+    11.82
+   ],
+   [
+    "chief",
+    11.92,
+    12.04
+   ],
+   [
+    "of",
+    12.04,
+    12.22
+   ],
+   [
+    "state.",
+    12.22,
+    12.52
+   ],
+   [
+    "This",
+    13.28,
+    13.38
+   ],
+   [
+    "was",
+    13.38,
+    13.52
+   ],
+   [
+    "the",
+    13.52,
+    13.66
+   ],
+   [
+    "last",
+    13.66,
+    14.02
+   ],
+   [
+    "phase",
+    14.02,
+    14.34
+   ],
+   [
+    "in",
+    14.34,
+    14.52
+   ],
+   [
+    "their",
+    14.54,
+    14.64
+   ],
+   [
+    "power",
+    14.64,
+    14.86
+   ],
+   [
+    "struggle.",
+    14.86,
+    15.14
+   ],
+   [
+    "Vietnam",
+    16.3,
+    16.3
+   ],
+   [
+    "was",
+    16.3,
+    16.56
+   ],
+   [
+    "partitioned",
+    16.56,
+    17.2
+   ],
+   [
+    "after",
+    17.3,
+    17.4
+   ],
+   [
+    "the",
+    17.4,
+    17.54
+   ],
+   [
+    "1954",
+    17.54,
+    18.08
+   ],
+   [
+    "Geneva",
+    18.08,
+    18.72
+   ],
+   [
+    "Accords.",
+    18.72,
+    18.96
+   ],
+   [
+    "Religious",
+    19.98,
+    20.3
+   ],
+   [
+    "sects",
+    20.3,
+    20.82
+   ],
+   [
+    "and",
+    20.82,
+    20.92
+   ],
+   [
+    "crime",
+    20.92,
+    21.24
+   ],
+   [
+    "syndicates",
+    21.24,
+    21.74
+   ],
+   [
+    "controlled",
+    21.9,
+    22.2
+   ],
+   [
+    "parts",
+    22.2,
+    22.52
+   ],
+   [
+    "of",
+    22.52,
+    22.68
+   ],
+   [
+    "the",
+    22.68,
+    22.76
+   ],
+   [
+    "country.",
+    22.76,
+    23.0
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   22,
+   33,
+   42,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Emperor_B%E1%BA%A3o_%C4%90%E1%BA%A1i_in_a_European_suit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 991,
+   "license": "Public domain",
+   "artist": "Tang Vinh, Huê",
+   "page": "https://commons.wikimedia.org/wiki/File:Emperor_B%E1%BA%A3o_%C4%90%E1%BA%A1i_in_a_European_suit.jpg",
+   "desc": "Emperor Bảo Đại in a European suit — Sa Majesté l' empereur habillé à l'européenne Bao Dai, empereur d'Annam. 1933 Auteur: Tang Vinh, Huê Territoire: Annam, Indochine Lieu: Hué (Vietnam) Type de document: Photographie Support et dimensions: Tirage argentiqu"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Accord_de_Gen%C3%A8ve_1954_Vi%C3%AAt_Nam.jpg/960px-Accord_de_Gen%C3%A8ve_1954_Vi%C3%AAt_Nam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Marc Baronnet",
+   "page": "https://commons.wikimedia.org/wiki/File:Accord_de_Gen%C3%A8ve_1954_Vi%C3%AAt_Nam.jpg",
+   "desc": "Accord de Genève 1954 Viêt Nam — Accord sur la cessation des hostilités au Viêt Nam. Genève, 20 juillet 1954."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Bảo Đại",
+   "box": [
+    127,
+    255,
+    723,
+    723
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1954
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1257296",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "1955 State of Vietnam referendum",
+  "url": "https://en.wikipedia.org/wiki/1955_State_of_Vietnam_referendum",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T10:49:55Z",
+ "trimmed": true
+}

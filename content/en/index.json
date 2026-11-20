@@ -273,7 +273,8 @@
   "Ashford v Thornton",
   "Broad Ripple Park Carousel",
   "AMX-30E",
-  "Bicentennial Capitol Mall State Park"
+  "Bicentennial Capitol Mall State Park",
+  "nasa:1351363"
  ],
  "rejected": [
   "Chameleon",
@@ -339,7 +340,8 @@
   "Arsenal Women 11–1 Bristol City Women",
   "nasa:1279590",
   "Action of 1 January 1800",
-  "nasa:1282389"
+  "nasa:1282389",
+  "The All-Story Magazine"
  ],
  "angles": {
   "Blue whale": [
@@ -1237,6 +1239,9 @@
   ],
   "Bicentennial Capitol Mall State Park": [
    "Nashville's 19-Acre Outdoor Museum: Nashville hides Tennessee's most visited state park."
+  ],
+  "nasa:1351363": [
+   "Arctic Melt Season Levels Off: The Arctic melt season has hit a plateau."
   ]
  },
  "exhausted": []
