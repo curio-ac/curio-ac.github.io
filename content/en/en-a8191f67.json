@@ -1,0 +1,386 @@
+{
+ "id": "en-a8191f67",
+ "lang": "en",
+ "title": "Mars Crystals Reveal Secrets",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Mars rocks are hiding mysterious crystal shapes.",
+  "Curiosity is drilling into a site called Nazca.",
+  "The rocks contain strange disc and needle lumps.",
+  "These crystals suggest ancient salt and fluid levels.",
+  "Some crystals may be pseudomorphs, changing their chemistry.",
+  "Scientists are even using lasers to see inside.",
+  "This helps us understand Mars' history."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Mars",
+    0.3,
+    0.52
+   ],
+   [
+    "rocks",
+    0.52,
+    0.88
+   ],
+   [
+    "are",
+    0.88,
+    1.16
+   ],
+   [
+    "hiding",
+    1.16,
+    1.42
+   ],
+   [
+    "mysterious",
+    1.42,
+    1.94
+   ],
+   [
+    "crystal",
+    1.94,
+    2.46
+   ],
+   [
+    "shapes.",
+    2.46,
+    2.64
+   ],
+   [
+    "Curiosity",
+    3.52,
+    3.9
+   ],
+   [
+    "is",
+    3.9,
+    4.16
+   ],
+   [
+    "drilling",
+    4.16,
+    4.36
+   ],
+   [
+    "into",
+    4.5,
+    4.6
+   ],
+   [
+    "a",
+    4.6,
+    4.72
+   ],
+   [
+    "site",
+    4.72,
+    4.9
+   ],
+   [
+    "called",
+    4.9,
+    5.16
+   ],
+   [
+    "Nazca.",
+    5.16,
+    5.62
+   ],
+   [
+    "The",
+    6.36,
+    6.36
+   ],
+   [
+    "rocks",
+    6.36,
+    6.6
+   ],
+   [
+    "contain",
+    6.76,
+    6.94
+   ],
+   [
+    "strange",
+    6.94,
+    7.42
+   ],
+   [
+    "disc",
+    7.42,
+    8.0
+   ],
+   [
+    "and",
+    8.0,
+    8.3
+   ],
+   [
+    "needle",
+    8.3,
+    8.62
+   ],
+   [
+    "lumps.",
+    8.62,
+    8.8
+   ],
+   [
+    "These",
+    9.78,
+    9.86
+   ],
+   [
+    "crystals",
+    9.86,
+    10.12
+   ],
+   [
+    "suggest",
+    10.12,
+    10.54
+   ],
+   [
+    "ancient",
+    10.54,
+    10.88
+   ],
+   [
+    "salt",
+    10.88,
+    11.26
+   ],
+   [
+    "and",
+    11.26,
+    11.58
+   ],
+   [
+    "fluid",
+    11.58,
+    11.82
+   ],
+   [
+    "levels.",
+    11.82,
+    12.02
+   ],
+   [
+    "Some",
+    12.98,
+    13.1
+   ],
+   [
+    "crystals",
+    13.1,
+    13.36
+   ],
+   [
+    "may",
+    13.36,
+    13.7
+   ],
+   [
+    "be",
+    13.7,
+    13.8
+   ],
+   [
+    "pseudomorphs,",
+    13.8,
+    14.28
+   ],
+   [
+    "changing",
+    14.92,
+    14.92
+   ],
+   [
+    "their",
+    14.92,
+    15.12
+   ],
+   [
+    "chemistry.",
+    15.12,
+    15.52
+   ],
+   [
+    "Scientists",
+    16.3,
+    16.44
+   ],
+   [
+    "are",
+    16.44,
+    16.72
+   ],
+   [
+    "even",
+    16.72,
+    16.9
+   ],
+   [
+    "using",
+    16.9,
+    17.1
+   ],
+   [
+    "lasers",
+    17.1,
+    17.46
+   ],
+   [
+    "to",
+    17.46,
+    17.76
+   ],
+   [
+    "see",
+    17.76,
+    17.96
+   ],
+   [
+    "inside.",
+    17.96,
+    18.46
+   ],
+   [
+    "This",
+    19.18,
+    19.28
+   ],
+   [
+    "helps",
+    19.28,
+    19.44
+   ],
+   [
+    "us",
+    19.44,
+    19.6
+   ],
+   [
+    "understand",
+    19.6,
+    19.94
+   ],
+   [
+    "Mars'",
+    19.94,
+    20.22
+   ],
+   [
+    "history.",
+    20.64,
+    20.9
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   39,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/PIA21252_-_Boron%2C_Sodium_and_Chlorine_in_Mineral_Vein_%27Diyogha%2C%27_Mars.jpg/960px-PIA21252_-_Boron%2C_Sodium_and_Chlorine_in_Mineral_Vein_%27Diyogha%2C%27_Mars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 292,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/MSSS/LANL/CNES/IRAP/LPGNantes/CNRS/IAS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA21252_-_Boron,_Sodium_and_Chlorine_in_Mineral_Vein_%27Diyogha,%27_Mars.jpg",
+   "desc": "PIA21252 - Boron, Sodium and Chlorine in Mineral Vein 'Diyogha,' Mars — Examination of a calcium sulfate vein called \"Diyogha\" by the Chemical and Camera (ChemCam) instrument on NASA's Curiosity Mars rover found boron, sodium and chlorine. At left, an image fr"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pseudomorph.jpg/960px-Pseudomorph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 4.0",
+   "artist": "Masha Milshina",
+   "page": "https://commons.wikimedia.org/wiki/File:Pseudomorph.jpg",
+   "desc": "Pseudomorph — Complete and partial pseudomorphs of malachite over azurite spherical crystals. Mine named after XIX Party Congress, Mezhozerny, South Ural, Russia. Specimen size 43x29x16 mm."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Curiosity_at_Work_on_Mars_%28Artist%27s_Concept%29.jpg/960px-Curiosity_at_Work_on_Mars_%28Artist%27s_Concept%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 426,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Curiosity_at_Work_on_Mars_(Artist%27s_Concept).jpg",
+   "desc": "Curiosity at Work on Mars (Artist's Concept) — This artist's concept depicts the rover Curiosity, of NASA's Mars Science Laboratory mission, as it uses its Chemistry and Camera (ChemCam) instrument to investigate the composition of a rock surface. ChemCam fire"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Geological_history_of_Mars.png/960px-Geological_history_of_Mars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 45,
+   "license": "CC BY-SA 4.0",
+   "artist": "Robertinventor",
+   "page": "https://commons.wikimedia.org/wiki/File:Geological_history_of_Mars.png",
+   "desc": "Geological history of Mars — This is a higher resolution remake of an image from the wikipedia page . It must be a very old image as it doesn't have any author information on it, just embedded in the page. I just doubled the resolution and fixed the"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 150,
+   "unit": "laser shots",
+   "label": "laser shots"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T15:40:39Z",
+ "trimmed": true
+}
