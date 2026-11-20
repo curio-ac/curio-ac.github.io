@@ -1,0 +1,447 @@
+{
+ "id": "en-7dc4582e",
+ "lang": "en",
+ "title": "Giant Ancient Predators",
+ "cat": "biology",
+ "emoji": "🦖",
+ "sentences": [
+  "These massive predators weighed up to 3 metric tons!",
+  "Adults regularly grew 8.5 to 9 meters long in Laramidia.",
+  "They roamed between 77 and 74.4 million years ago.",
+  "Fossils have been unearthed across Alberta and Montana.",
+  "The genus officially contains 3 named species.",
+  "D. wilsoni might even be an evolutionary intermediate.",
+  "They were closely related to the mighty Tyrannosaurus."
+ ],
+ "tim": {
+  "w": [
+   [
+    "These",
+    0.04,
+    0.22
+   ],
+   [
+    "massive",
+    0.22,
+    0.58
+   ],
+   [
+    "predators",
+    0.58,
+    1.04
+   ],
+   [
+    "weighed",
+    1.04,
+    1.36
+   ],
+   [
+    "up",
+    1.36,
+    1.54
+   ],
+   [
+    "to",
+    1.54,
+    1.66
+   ],
+   [
+    "3",
+    1.82,
+    1.92
+   ],
+   [
+    "metric",
+    1.92,
+    2.24
+   ],
+   [
+    "tons!",
+    2.24,
+    3.0
+   ],
+   [
+    "Adults",
+    3.0,
+    3.32
+   ],
+   [
+    "regularly",
+    3.32,
+    3.74
+   ],
+   [
+    "grew",
+    3.74,
+    4.08
+   ],
+   [
+    "8.5",
+    4.08,
+    4.88
+   ],
+   [
+    "to",
+    4.88,
+    5.02
+   ],
+   [
+    "9",
+    5.02,
+    5.26
+   ],
+   [
+    "meters",
+    5.26,
+    5.46
+   ],
+   [
+    "long",
+    5.46,
+    5.74
+   ],
+   [
+    "in",
+    5.74,
+    5.92
+   ],
+   [
+    "Laramidia.",
+    5.92,
+    6.64
+   ],
+   [
+    "They",
+    6.82,
+    6.9
+   ],
+   [
+    "roamed",
+    6.9,
+    7.22
+   ],
+   [
+    "between",
+    7.22,
+    7.44
+   ],
+   [
+    "77",
+    7.44,
+    8.08
+   ],
+   [
+    "and",
+    8.08,
+    8.42
+   ],
+   [
+    "74.4",
+    8.42,
+    9.44
+   ],
+   [
+    "million",
+    9.44,
+    9.72
+   ],
+   [
+    "years",
+    9.72,
+    10.02
+   ],
+   [
+    "ago.",
+    10.02,
+    10.38
+   ],
+   [
+    "Fossils",
+    10.66,
+    10.98
+   ],
+   [
+    "have",
+    10.98,
+    11.16
+   ],
+   [
+    "been",
+    11.16,
+    11.3
+   ],
+   [
+    "unearthed",
+    11.3,
+    11.82
+   ],
+   [
+    "across",
+    11.82,
+    11.98
+   ],
+   [
+    "Alberta",
+    11.98,
+    12.48
+   ],
+   [
+    "and",
+    12.48,
+    12.78
+   ],
+   [
+    "Montana.",
+    12.78,
+    13.28
+   ],
+   [
+    "The",
+    13.58,
+    13.62
+   ],
+   [
+    "genus",
+    13.62,
+    13.98
+   ],
+   [
+    "officially",
+    14.12,
+    14.26
+   ],
+   [
+    "contains",
+    14.26,
+    14.84
+   ],
+   [
+    "3",
+    14.84,
+    15.14
+   ],
+   [
+    "named",
+    15.14,
+    15.38
+   ],
+   [
+    "species.",
+    15.38,
+    15.9
+   ],
+   [
+    "D.",
+    16.26,
+    16.44
+   ],
+   [
+    "wilsoni",
+    16.48,
+    16.9
+   ],
+   [
+    "might",
+    16.9,
+    17.1
+   ],
+   [
+    "even",
+    17.1,
+    17.38
+   ],
+   [
+    "be",
+    17.38,
+    17.54
+   ],
+   [
+    "an",
+    17.54,
+    17.64
+   ],
+   [
+    "evolutionary",
+    17.64,
+    18.04
+   ],
+   [
+    "intermediate.",
+    18.04,
+    18.74
+   ],
+   [
+    "They",
+    19.24,
+    19.3
+   ],
+   [
+    "were",
+    19.3,
+    19.42
+   ],
+   [
+    "closely",
+    19.42,
+    19.72
+   ],
+   [
+    "related",
+    19.72,
+    20.12
+   ],
+   [
+    "to",
+    20.12,
+    20.32
+   ],
+   [
+    "the",
+    20.32,
+    20.42
+   ],
+   [
+    "mighty",
+    20.42,
+    20.62
+   ],
+   [
+    "Tyrannosaurus.",
+    20.62,
+    21.12
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   19,
+   28,
+   36,
+   43,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Daspletosaurus_torDB.jpg/960px-Daspletosaurus_torDB.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "CC BY-SA 3.0",
+   "artist": "ru:Creator:Dmitry Bogdanov}. The original uploader was ДиБгд at Russian Wikipedi",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_torDB.jpg",
+   "desc": "Daspletosaurus torDB — Daspletosaurus torosus"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Daspletosaurus_sp._%28CMC_VP15826%29_skeletal.png/960px-Daspletosaurus_sp._%28CMC_VP15826%29_skeletal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 240,
+   "license": "CC BY 4.0",
+   "artist": "Ethan Warner-Cowgill, Glenn W. Storrs, Raymond R. Rogers, and Anthony E. Maltese",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_sp._(CMC_VP15826)_skeletal.png",
+   "desc": "Daspletosaurus sp. (CMC VP15826) skeletal — Skeletal recnstruction of Daspletosaurus sp. (CMC VP15826). Known bones are marked in white, missing in maroon."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Daspletosaurus-Triebold-800px.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 336,
+   "license": "CC BY-SA 4.0",
+   "artist": "MCDinosaurhunter",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus-Triebold-800px.png",
+   "desc": "Daspletosaurus-Triebold-800px — \"Daspletosaurus torosus\" skeleton cast, reconstructed and mounted by Triebold Paleontology based on a nearly complete specimen from Montana's Judith River Formation"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Daspletosaurus_horneri.jpg/960px-Daspletosaurus_horneri.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 524,
+   "license": "CC BY 2.0",
+   "artist": "James St. John",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_horneri.jpg",
+   "desc": "Daspletosaurus horneri — Daspletosaurus horneri theropod dinosaur skull from the Cretaceous of Montana, USA (public display, MOR 590, Museum of the Rockies, Bozeman, Montana, USA). This complete skull has been identified as a new species of Dasp"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Daspletosaurus_skull_anagenesis.png/960px-Daspletosaurus_skull_anagenesis.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 828,
+   "license": "CC BY 4.0",
+   "artist": "Elías A. Warshaw​ &amp; Denver W. Fowler",
+   "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_skull_anagenesis.png",
+   "desc": "Daspletosaurus skull anagenesis — Time-calibrated sequence of Daspletosaurus chronospecies. Ages (left) are in Ma and are based on Carr et al. (2017) and Fowler (2017) for D. torosus and D. horneri. Representative skulls are, from top to bottom: D. horne"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Palais_de_la_Decouverte_Tyrannosaurus_rex_p1050042.jpg/960px-Palais_de_la_Decouverte_Tyrannosaurus_rex_p1050042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 466,
+   "license": "CC BY-SA 3.0",
+   "artist": "Copyright © 2005 David Monniaux",
+   "page": "https://commons.wikimedia.org/wiki/File:Palais_de_la_Decouverte_Tyrannosaurus_rex_p1050042.jpg",
+   "desc": "Palais de la Decouverte Tyrannosaurus rex p1050042 — Tyrannosaurus rex, Palais de la Découverte, Paris"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "metric tons",
+   "label": "weighed up to"
+  },
+  {
+   "type": "compare",
+   "value": 9,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "timeline",
+   "year": 77
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "named species",
+   "label": "contains"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Tyrannosaurus",
+   "box": [
+    30,
+    30,
+    950,
+    990
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q18511071",
+ "pron_wer": 0.066,
+ "angle": 1,
+ "source": {
+  "title": "Daspletosaurus",
+  "url": "https://en.wikipedia.org/wiki/Daspletosaurus",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T22:54:30Z",
+ "trimmed": true
+}
