@@ -1,0 +1,456 @@
+{
+ "id": "en-55fa7b80",
+ "lang": "en",
+ "title": "The Assassin Who Was Acquitted",
+ "cat": "history",
+ "emoji": "⚖️",
+ "sentences": [
+  "A jury acquitted an assassin in 1921.",
+  "On 15 March 1921, Soghomon Tehlirian killed Talaat Pasha in Berlin.",
+  "Talaat was the main architect of the Armenian genocide and a former grand vizier.",
+  "Tehlirian lost most of his family in the genocide and joined Operation Nemesis.",
+  "Talaat had already been sentenced to death by an Ottoman court-martial.",
+  "He successfully argued he killed a man but was not a murderer."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.24,
+    0.34
+   ],
+   [
+    "jury",
+    0.34,
+    0.56
+   ],
+   [
+    "acquitted",
+    0.56,
+    1.12
+   ],
+   [
+    "an",
+    1.12,
+    1.28
+   ],
+   [
+    "assassin",
+    1.28,
+    1.7
+   ],
+   [
+    "in",
+    1.7,
+    1.92
+   ],
+   [
+    "1921.",
+    1.92,
+    2.14
+   ],
+   [
+    "On",
+    3.42,
+    3.5
+   ],
+   [
+    "15",
+    3.5,
+    3.76
+   ],
+   [
+    "March",
+    3.78,
+    4.08
+   ],
+   [
+    "1921,",
+    4.08,
+    4.63
+   ],
+   [
+    "Soghomon",
+    5.32,
+    5.76
+   ],
+   [
+    "Tehlirian",
+    5.76,
+    6.44
+   ],
+   [
+    "killed",
+    6.6,
+    6.7
+   ],
+   [
+    "Talaat",
+    6.7,
+    7.12
+   ],
+   [
+    "Pasha",
+    7.22,
+    7.46
+   ],
+   [
+    "in",
+    7.46,
+    7.7
+   ],
+   [
+    "Berlin.",
+    7.7,
+    8.04
+   ],
+   [
+    "Talaat",
+    8.8,
+    9.02
+   ],
+   [
+    "was",
+    9.02,
+    9.12
+   ],
+   [
+    "the",
+    9.12,
+    9.26
+   ],
+   [
+    "main",
+    9.26,
+    9.46
+   ],
+   [
+    "architect",
+    9.46,
+    9.88
+   ],
+   [
+    "of",
+    10.1,
+    10.2
+   ],
+   [
+    "the",
+    10.2,
+    10.28
+   ],
+   [
+    "Armenian",
+    10.28,
+    10.58
+   ],
+   [
+    "genocide",
+    10.58,
+    11.14
+   ],
+   [
+    "and",
+    11.14,
+    11.42
+   ],
+   [
+    "a",
+    11.42,
+    11.54
+   ],
+   [
+    "former",
+    11.6,
+    11.74
+   ],
+   [
+    "grand",
+    11.74,
+    12.04
+   ],
+   [
+    "vizier.",
+    12.04,
+    12.46
+   ],
+   [
+    "Tehlirian",
+    13.2,
+    13.54
+   ],
+   [
+    "lost",
+    13.54,
+    13.78
+   ],
+   [
+    "most",
+    13.78,
+    14.08
+   ],
+   [
+    "of",
+    14.08,
+    14.24
+   ],
+   [
+    "his",
+    14.24,
+    14.34
+   ],
+   [
+    "family",
+    14.34,
+    14.64
+   ],
+   [
+    "in",
+    14.64,
+    14.78
+   ],
+   [
+    "the",
+    14.78,
+    14.84
+   ],
+   [
+    "genocide",
+    15.1,
+    15.2
+   ],
+   [
+    "and",
+    15.2,
+    15.72
+   ],
+   [
+    "joined",
+    15.78,
+    15.92
+   ],
+   [
+    "Operation",
+    15.92,
+    16.48
+   ],
+   [
+    "Nemesis.",
+    16.48,
+    16.8
+   ],
+   [
+    "Talaat",
+    17.68,
+    17.92
+   ],
+   [
+    "had",
+    17.92,
+    18.0
+   ],
+   [
+    "already",
+    18.0,
+    18.3
+   ],
+   [
+    "been",
+    18.3,
+    18.52
+   ],
+   [
+    "sentenced",
+    18.52,
+    18.72
+   ],
+   [
+    "to",
+    18.72,
+    19.04
+   ],
+   [
+    "death",
+    19.06,
+    19.22
+   ],
+   [
+    "by",
+    19.22,
+    19.46
+   ],
+   [
+    "an",
+    19.46,
+    19.56
+   ],
+   [
+    "Ottoman",
+    19.6,
+    19.8
+   ],
+   [
+    "court-martial.",
+    19.8,
+    20.28
+   ],
+   [
+    "He",
+    21.18,
+    21.26
+   ],
+   [
+    "successfully",
+    21.54,
+    21.7
+   ],
+   [
+    "argued",
+    21.7,
+    22.16
+   ],
+   [
+    "he",
+    22.16,
+    22.4
+   ],
+   [
+    "killed",
+    22.54,
+    22.64
+   ],
+   [
+    "a",
+    22.64,
+    22.76
+   ],
+   [
+    "man",
+    22.76,
+    22.96
+   ],
+   [
+    "but",
+    22.96,
+    23.36
+   ],
+   [
+    "was",
+    23.36,
+    23.48
+   ],
+   [
+    "not",
+    23.48,
+    23.64
+   ],
+   [
+    "a",
+    23.64,
+    23.76
+   ],
+   [
+    "murderer.",
+    23.76,
+    23.86
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   32,
+   45,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Soghomon_Tehlirian%27s_release_from_prison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 356,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Soghomon_Tehlirian%27s_release_from_prison.jpg",
+   "desc": "Soghomon Tehlirian's release from prison — Official document"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Talaat_Pasha_%2835663715211%29.png/960px-Talaat_Pasha_%2835663715211%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 2.0",
+   "artist": "Cassowary Colorizations",
+   "page": "https://commons.wikimedia.org/wiki/File:Talaat_Pasha_(35663715211).png",
+   "desc": "Talaat Pasha (35663715211) — First part of The Three Pashas series: Talaat Pasha (1874 –1921) Talaat Pasha, born Mehmed Talaat, was one of the “Three Pashas”, a triumvirate of senior officials who ruled the Ottoman Empire during World War I. He beca"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Talat_Pasha_cropped.jpg/960px-Talat_Pasha_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 889,
+   "license": "Public domain",
+   "artist": "Neue Photographische Gesellschaft Berlin and Bain News Service, publisher",
+   "page": "https://commons.wikimedia.org/wiki/File:Talat_Pasha_cropped.jpg",
+   "desc": "Talat Pasha cropped — Talaat Pasha, (1874-1921)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Soghomon%2C_Sahak%2C_and_Misaq_Tehlirian_as_volunteers_in_the_Russian_army.jpg/960px-Soghomon%2C_Sahak%2C_and_Misaq_Tehlirian_as_volunteers_in_the_Russian_army.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 794,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Soghomon,_Sahak,_and_Misaq_Tehlirian_as_volunteers_in_the_Russian_army.jpg",
+   "desc": "Soghomon, Sahak, and Misaq Tehlirian as volunteers in the Russian army — See title"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1921
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1921
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  52.506,
+  13.333
+ ],
+ "qid": "Q105987834",
+ "pron_wer": 0.058,
+ "angle": 0,
+ "source": {
+  "title": "Assassination of Talaat Pasha",
+  "url": "https://en.wikipedia.org/wiki/Assassination_of_Talaat_Pasha",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T08:46:18Z",
+ "trimmed": true
+}

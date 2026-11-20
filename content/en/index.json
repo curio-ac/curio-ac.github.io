@@ -266,7 +266,8 @@
   "Bastion (video game)",
   "Dime Mystery Magazine",
   "nasa:1282051",
-  "Birth control movement in the United States"
+  "Birth control movement in the United States",
+  "nasa:1283107"
  ],
  "rejected": [
   "Chameleon",
@@ -1207,6 +1208,9 @@
   ],
   "Birth control movement in the United States": [
    "The Birth Control Movement: Contraception was once considered obscene!"
+  ],
+  "nasa:1283107": [
+   "Wildfires Make Their Own Weather: Wildfires can actually create their own thunderstorms."
   ]
  },
  "exhausted": []
