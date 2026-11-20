@@ -252,7 +252,8 @@
   "nasa:1506034",
   "Diamonds Are Forever (novel)",
   "Apollo 7",
-  "nasa:1510608"
+  "nasa:1510608",
+  "Battle of Barnet"
  ],
  "rejected": [
   "Chameleon",
@@ -1149,6 +1150,9 @@
   ],
   "nasa:1510608": [
    "Potato Chip Rocks on Mars!: Mars has potato chip rocks!"
+  ],
+  "Battle of Barnet": [
+   "Easter Day Battle: Fought on Easter Day!"
   ]
  },
  "exhausted": []

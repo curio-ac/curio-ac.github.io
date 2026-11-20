@@ -1,0 +1,430 @@
+{
+ "id": "en-d1352e72",
+ "lang": "en",
+ "title": "Rome's Bankruptcy Battle",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "Rome borrowed money to build a fleet!",
+  "It happened on 10 March 241 BC.",
+  "This was the final battle of the 23-year-long First Punic War.",
+  "The battle took place near the Aegates Islands off Sicily.",
+  "Better-trained Romans intercepted the larger Carthaginian supply fleet.",
+  "The undermanned Carthaginian ships were laden with supplies.",
+  "As a direct result, Carthage sued."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Rome",
+    0.35,
+    0.35
+   ],
+   [
+    "borrowed",
+    0.35,
+    0.61
+   ],
+   [
+    "money",
+    0.61,
+    0.87
+   ],
+   [
+    "to",
+    0.87,
+    1.03
+   ],
+   [
+    "build",
+    1.03,
+    1.15
+   ],
+   [
+    "a",
+    1.15,
+    1.27
+   ],
+   [
+    "fleet!",
+    1.27,
+    1.55
+   ],
+   [
+    "It",
+    1.97,
+    2.03
+   ],
+   [
+    "happened",
+    2.03,
+    2.27
+   ],
+   [
+    "on",
+    2.27,
+    2.45
+   ],
+   [
+    "10",
+    2.45,
+    2.67
+   ],
+   [
+    "March",
+    2.67,
+    2.89
+   ],
+   [
+    "241",
+    2.89,
+    3.59
+   ],
+   [
+    "BC.",
+    3.59,
+    4.03
+   ],
+   [
+    "This",
+    4.53,
+    4.69
+   ],
+   [
+    "was",
+    4.69,
+    4.85
+   ],
+   [
+    "the",
+    4.85,
+    4.99
+   ],
+   [
+    "final",
+    4.99,
+    5.23
+   ],
+   [
+    "battle",
+    5.23,
+    5.55
+   ],
+   [
+    "of",
+    5.55,
+    5.77
+   ],
+   [
+    "the",
+    5.77,
+    5.87
+   ],
+   [
+    "23-year-long",
+    5.95,
+    6.77
+   ],
+   [
+    "First",
+    6.77,
+    7.07
+   ],
+   [
+    "Punic",
+    7.07,
+    7.51
+   ],
+   [
+    "War.",
+    7.51,
+    7.91
+   ],
+   [
+    "The",
+    8.39,
+    8.49
+   ],
+   [
+    "battle",
+    8.49,
+    8.69
+   ],
+   [
+    "took",
+    8.69,
+    8.91
+   ],
+   [
+    "place",
+    8.91,
+    9.21
+   ],
+   [
+    "near",
+    9.21,
+    9.39
+   ],
+   [
+    "the",
+    9.39,
+    9.51
+   ],
+   [
+    "Aegates",
+    9.51,
+    9.89
+   ],
+   [
+    "Islands",
+    9.93,
+    10.17
+   ],
+   [
+    "off",
+    10.17,
+    10.39
+   ],
+   [
+    "Sicily.",
+    10.39,
+    10.94
+   ],
+   [
+    "Better-trained",
+    11.31,
+    11.73
+   ],
+   [
+    "Romans",
+    11.73,
+    12.01
+   ],
+   [
+    "intercepted",
+    12.01,
+    12.69
+   ],
+   [
+    "the",
+    12.69,
+    12.77
+   ],
+   [
+    "larger",
+    12.77,
+    13.03
+   ],
+   [
+    "Carthaginian",
+    13.03,
+    13.77
+   ],
+   [
+    "supply",
+    13.77,
+    14.03
+   ],
+   [
+    "fleet.",
+    14.03,
+    14.68
+   ],
+   [
+    "The",
+    14.85,
+    14.87
+   ],
+   [
+    "undermanned",
+    14.87,
+    15.33
+   ],
+   [
+    "Carthaginian",
+    15.33,
+    15.99
+   ],
+   [
+    "ships",
+    15.99,
+    16.19
+   ],
+   [
+    "were",
+    16.19,
+    16.45
+   ],
+   [
+    "laden",
+    16.45,
+    16.77
+   ],
+   [
+    "with",
+    16.77,
+    16.87
+   ],
+   [
+    "supplies.",
+    16.87,
+    17.35
+   ],
+   [
+    "As",
+    17.85,
+    17.97
+   ],
+   [
+    "a",
+    17.97,
+    18.03
+   ],
+   [
+    "direct",
+    18.03,
+    18.27
+   ],
+   [
+    "result,",
+    18.27,
+    18.69
+   ],
+   [
+    "Carthage",
+    18.91,
+    19.25
+   ],
+   [
+    "sued.",
+    19.25,
+    19.61
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   25,
+   35,
+   43,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Roman_Coin%2C_Irregular_maiorina_Constans_-_FEL_TEMP_REPARATIO%3B_galley_type_%28FindID_645553%29.jpg/960px-Roman_Coin%2C_Irregular_maiorina_Constans_-_FEL_TEMP_REPARATIO%3B_galley_type_%28FindID_645553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 394,
+   "license": "CC BY-SA 2.0",
+   "artist": "All rights reserved, Wenke Domscheit, 2014-10-29 16:45:49",
+   "page": "https://commons.wikimedia.org/wiki/File:Roman_Coin,_Irregular_maiorina_Constans_-_FEL_TEMP_REPARATIO;_galley_type_(FindID_645553).jpg",
+   "desc": "Roman Coin, Irregular maiorina Constans - FEL TEMP REPARATIO; galley type (FindID 645553) — Roman Coin: Irregular maiorina Constans / FEL TEMP REPARATIO; galley type"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Carthaginian_naval_ram.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Sb2s3",
+   "page": "https://commons.wikimedia.org/wiki/File:Carthaginian_naval_ram.jpg",
+   "desc": "Carthaginian naval ram — Bronze Carthaginian naval ram dated from or before the Battle of the Egadi Islands, First Punic War (241 B.C.). Discovered in 2010 at a depth of 80 meters. Shows damage in the form of V-shaped scratches, attributed to fr"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/First_Punic_War_264_BC_v3.png/960px-First_Punic_War_264_BC_v3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 424,
+   "license": "CC BY-SA 4.0",
+   "artist": "Harrias",
+   "page": "https://commons.wikimedia.org/wiki/File:First_Punic_War_264_BC_v3.png",
+   "desc": "First Punic War 264 BC v3 — Map of the western Mediterranean Sea in 264 BC, focusing on the states involved in the First Punic War."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Aegadian_Islands_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 551,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Aegadian_Islands_map.png",
+   "desc": "Aegadian Islands map — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Q._Lutatius_Cerco%2C_denarius%2C_109-108_BC%2C_RRC_305-1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 700,
+   "license": "Public domain",
+   "artist": "CNG",
+   "page": "https://commons.wikimedia.org/wiki/File:Q._Lutatius_Cerco,_denarius,_109-108_BC,_RRC_305-1_(cropped).jpg",
+   "desc": "Q. Lutatius Cerco, denarius, 109-108 BC, RRC 305-1 (cropped) — Q. Lutatius Cerco. 109-108 BC AR Denarius (18mm, 3.82 g, 12h). Rome mint. Helmeted head of Roma (or Mars) right; mark of value to left / Galley right with head of Roma on prow; all within oak wreat"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Carthaginian_naval_ram_%282%29.jpg/960px-Carthaginian_naval_ram_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Sb2s3",
+   "page": "https://commons.wikimedia.org/wiki/File:Carthaginian_naval_ram_(2).jpg",
+   "desc": "Carthaginian naval ram (2) — Lateral view of a bronze Carthaginian naval ram dated from or before the Battle of the Egadi Islands, First Punic War (241 B.C.). in 2010 at a depth of 80 meters. Shows damage in the form of V-shaped scratches, attribute"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 241,
+   "unit": "BC",
+   "label": "Battle year"
+  },
+  {
+   "type": "timeline",
+   "year": -241
+  },
+  {
+   "type": "stat",
+   "value": 23,
+   "unit": "years",
+   "label": "First Punic War"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  37.967,
+  12.2
+ ],
+ "qid": "Q1134649",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Battle of the Aegates",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_the_Aegates",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T03:53:42Z",
+ "trimmed": true
+}
