@@ -281,7 +281,8 @@
   "Alexandra of Denmark",
   "Martha Bradley",
   "nasa:1393311",
-  "Siege of Baghdad"
+  "Siege of Baghdad",
+  "Delicate (Taylor Swift song)"
  ],
  "rejected": [
   "Chameleon",
@@ -351,7 +352,9 @@
   "The All-Story Magazine",
   "Cyclone Chapala",
   "Bronwyn Bancroft",
-  "nasa:1507747"
+  "nasa:1507747",
+  "nasa:1277845",
+  "Stan Coveleski"
  ],
  "angles": {
   "Blue whale": [
@@ -1274,6 +1277,9 @@
   ],
   "Siege of Baghdad": [
    "The Fall of Baghdad: Baghdad fell in just a few weeks."
+  ],
+  "Delicate (Taylor Swift song)": [
+   "Taylor Swift's Invisible Dance: Taylor Swift once became invisible in her music video."
   ]
  },
  "exhausted": []

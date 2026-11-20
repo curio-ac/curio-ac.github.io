@@ -1,0 +1,424 @@
+{
+ "id": "en-81daba2d",
+ "lang": "en",
+ "title": "The King Called 'Bought One'",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "Alexander II was a king named 'the bought one'.",
+  "He ruled Syria as a Seleucid monarch from 128 BC to 123 BC.",
+  "Historians debate if he was actually royalty or an imposter.",
+  "Some believe he was an adopted son of Antiochus VII.",
+  "His coins claimed he descended from Antiochus IV.",
+  "Ultimately, most historians agree his claim to the throne was false."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Alexander",
+    0.35,
+    0.35
+   ],
+   [
+    "II",
+    0.35,
+    0.89
+   ],
+   [
+    "was",
+    0.89,
+    1.27
+   ],
+   [
+    "a",
+    1.27,
+    1.43
+   ],
+   [
+    "king",
+    1.47,
+    1.61
+   ],
+   [
+    "named",
+    1.61,
+    1.99
+   ],
+   [
+    "'the",
+    1.99,
+    2.29
+   ],
+   [
+    "bought",
+    2.29,
+    2.65
+   ],
+   [
+    "one'.",
+    2.65,
+    2.87
+   ],
+   [
+    "He",
+    3.47,
+    3.47
+   ],
+   [
+    "ruled",
+    3.47,
+    3.71
+   ],
+   [
+    "Syria",
+    3.71,
+    4.13
+   ],
+   [
+    "as",
+    4.13,
+    4.45
+   ],
+   [
+    "a",
+    4.45,
+    4.53
+   ],
+   [
+    "Seleucid",
+    4.53,
+    5.03
+   ],
+   [
+    "monarch",
+    5.03,
+    5.33
+   ],
+   [
+    "from",
+    5.33,
+    5.69
+   ],
+   [
+    "128",
+    5.69,
+    6.21
+   ],
+   [
+    "BC",
+    6.21,
+    6.67
+   ],
+   [
+    "to",
+    6.67,
+    7.07
+   ],
+   [
+    "123",
+    7.07,
+    7.55
+   ],
+   [
+    "BC.",
+    7.55,
+    8.15
+   ],
+   [
+    "Historians",
+    8.77,
+    9.27
+   ],
+   [
+    "debate",
+    9.27,
+    9.59
+   ],
+   [
+    "if",
+    9.59,
+    9.95
+   ],
+   [
+    "he",
+    9.97,
+    10.07
+   ],
+   [
+    "was",
+    10.07,
+    10.21
+   ],
+   [
+    "actually",
+    10.33,
+    10.65
+   ],
+   [
+    "royalty",
+    10.65,
+    11.15
+   ],
+   [
+    "or",
+    11.23,
+    11.65
+   ],
+   [
+    "an",
+    11.65,
+    11.75
+   ],
+   [
+    "imposter.",
+    11.75,
+    12.65
+   ],
+   [
+    "Some",
+    12.85,
+    12.99
+   ],
+   [
+    "believe",
+    12.99,
+    13.27
+   ],
+   [
+    "he",
+    13.27,
+    13.47
+   ],
+   [
+    "was",
+    13.47,
+    13.61
+   ],
+   [
+    "an",
+    13.61,
+    13.69
+   ],
+   [
+    "adopted",
+    13.69,
+    14.05
+   ],
+   [
+    "son",
+    14.09,
+    14.49
+   ],
+   [
+    "of",
+    14.49,
+    14.67
+   ],
+   [
+    "Antiochus",
+    14.77,
+    15.27
+   ],
+   [
+    "VII.",
+    15.27,
+    15.65
+   ],
+   [
+    "His",
+    16.27,
+    16.37
+   ],
+   [
+    "coins",
+    16.37,
+    16.69
+   ],
+   [
+    "claimed",
+    16.69,
+    17.07
+   ],
+   [
+    "he",
+    17.07,
+    17.27
+   ],
+   [
+    "descended",
+    17.31,
+    17.59
+   ],
+   [
+    "from",
+    17.59,
+    17.81
+   ],
+   [
+    "Antiochus",
+    17.91,
+    18.41
+   ],
+   [
+    "IV.",
+    18.41,
+    18.83
+   ],
+   [
+    "Ultimately,",
+    19.57,
+    20.25
+   ],
+   [
+    "most",
+    20.37,
+    20.49
+   ],
+   [
+    "historians",
+    20.49,
+    20.99
+   ],
+   [
+    "agree",
+    20.99,
+    21.35
+   ],
+   [
+    "his",
+    21.35,
+    21.61
+   ],
+   [
+    "claim",
+    21.61,
+    21.91
+   ],
+   [
+    "to",
+    21.91,
+    22.09
+   ],
+   [
+    "the",
+    22.09,
+    22.21
+   ],
+   [
+    "throne",
+    22.21,
+    22.51
+   ],
+   [
+    "was",
+    22.51,
+    22.87
+   ],
+   [
+    "false.",
+    22.87,
+    23.47
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   22,
+   32,
+   42,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Alex_zabina.png/960px-Alex_zabina.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 336,
+   "license": "Public domain",
+   "artist": "Classical Numismatic Group",
+   "page": "https://commons.wikimedia.org/wiki/File:Alex_zabina.png",
+   "desc": "Alex zabina — rare gold stater of Alexander II. SC II 2216. 125 BC"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Syria_in_124_BC.png/960px-Syria_in_124_BC.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 375,
+   "license": "CC BY-SA 4.0",
+   "artist": "Attar-Aram syria",
+   "page": "https://commons.wikimedia.org/wiki/File:Syria_in_124_BC.png",
+   "desc": "Syria in 124 BC — Following the defeath of Antiochus VII (died 129 BC) against Pathia, Syria contracted to the west of the Euphrates.[1] Parthia established the river as its western border and included Osroene.[2] To the north, the kingdo"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Coin_of_Antiochus_VII_Euergetes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 348,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Coin_of_Antiochus_VII_Euergetes.jpg",
+   "desc": "Coin of Antiochus VII Euergetes — Coin of Antiochos VII Euergetes (Sidetes). 138-129 BC. AR Tetradrachm (32mm, 16.49 g, 2h). Antioch on the Orontes mint. Diademed head right / Athena Nikephoros standing left, resting hand on shield, and propping spear on"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Reverse_of_Antiochus_IV_and_Alexander_II_coins.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 381,
+   "license": "Public domain",
+   "artist": "cngcoins and Newell, Edward Theodore",
+   "page": "https://commons.wikimedia.org/wiki/File:Reverse_of_Antiochus_IV_and_Alexander_II_coins.jpg",
+   "desc": "Reverse of Antiochus IV and Alexander II coins — For Antiochus IV: 782043. Sold For $1500 SELEUKID KINGS of SYRIA. Antiochos IV Epiphanes. 175-164 BC. AR Tetradrachm (29mm, 16.89 g, 12h). Antioch mint. Diademed head right / BASILEWS ANTIOCOU QEOU EPIFANOUS NIK"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": -128
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "coin",
+   "box": [
+    10,
+    10,
+    960,
+    980
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q315006",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Alexander II Zabinas",
+  "url": "https://en.wikipedia.org/wiki/Alexander_II_Zabinas",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T14:16:30Z",
+ "trimmed": true
+}
