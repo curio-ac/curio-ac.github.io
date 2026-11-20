@@ -1,7 +1,20 @@
 {
  "lang": "he",
- "exhausted_day": null,
+ "exhausted_day": "2026-11-20",
  "runs": [
+  {
+   "at": "2026-11-20T17:38:26Z",
+   "made": 1,
+   "rejected": 3,
+   "repaired": 0,
+   "calls": 31,
+   "notes": [
+    "טוני בנט: pronunciation 9.4% of words misheard",
+    "nasa:1282389: pronunciation 15.6% of words misheard",
+    "תומאס ביצ'ם: pronunciation 11.5% of words misheard",
+    "quota: Hebrew voices exhausted for today"
+   ]
+  },
   {
    "at": "2026-11-20T11:59:07Z",
    "made": 2,
