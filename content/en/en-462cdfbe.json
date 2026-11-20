@@ -1,0 +1,379 @@
+{
+ "id": "en-462cdfbe",
+ "lang": "en",
+ "title": "Schumacher Wins 1995 Championship",
+ "cat": "history",
+ "emoji": "🏎️",
+ "sentences": [
+  "Schumacher clinched the championship!",
+  "The 1995 Pacific Grand Prix happened on 22 October 1995 in Japan.",
+  "Coulthard started on pole position in a Williams car.",
+  "Alesi got past both Hill and Schumacher on the first corner.",
+  "Schumacher passed Alesi and Hill during his pit stops.",
+  "This was also the last race for Jean-Christophe Boullion."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Schumacher",
+    0.3,
+    0.72
+   ],
+   [
+    "clinched",
+    0.72,
+    1.12
+   ],
+   [
+    "the",
+    1.12,
+    1.28
+   ],
+   [
+    "championship!",
+    1.28,
+    2.04
+   ],
+   [
+    "The",
+    2.6,
+    2.6
+   ],
+   [
+    "1995",
+    2.6,
+    3.12
+   ],
+   [
+    "Pacific",
+    3.12,
+    3.78
+   ],
+   [
+    "Grand",
+    3.78,
+    4.12
+   ],
+   [
+    "Prix",
+    4.12,
+    4.36
+   ],
+   [
+    "happened",
+    4.36,
+    4.62
+   ],
+   [
+    "on",
+    4.62,
+    4.86
+   ],
+   [
+    "22",
+    5.2,
+    5.3
+   ],
+   [
+    "October",
+    5.3,
+    5.72
+   ],
+   [
+    "1995",
+    5.72,
+    6.3
+   ],
+   [
+    "in",
+    6.3,
+    7.08
+   ],
+   [
+    "Japan.",
+    7.08,
+    8.13
+   ],
+   [
+    "Coulthard",
+    8.14,
+    8.4
+   ],
+   [
+    "started",
+    8.4,
+    8.66
+   ],
+   [
+    "on",
+    8.66,
+    8.86
+   ],
+   [
+    "pole",
+    8.98,
+    9.08
+   ],
+   [
+    "position",
+    9.08,
+    9.4
+   ],
+   [
+    "in",
+    9.4,
+    9.62
+   ],
+   [
+    "a",
+    9.62,
+    9.7
+   ],
+   [
+    "Williams",
+    9.7,
+    9.96
+   ],
+   [
+    "car.",
+    9.96,
+    10.32
+   ],
+   [
+    "Alesi",
+    10.78,
+    11.1
+   ],
+   [
+    "got",
+    11.1,
+    11.26
+   ],
+   [
+    "past",
+    11.26,
+    11.52
+   ],
+   [
+    "both",
+    11.52,
+    11.8
+   ],
+   [
+    "Hill",
+    11.8,
+    12.06
+   ],
+   [
+    "and",
+    12.06,
+    12.3
+   ],
+   [
+    "Schumacher",
+    12.3,
+    12.72
+   ],
+   [
+    "on",
+    12.72,
+    12.88
+   ],
+   [
+    "the",
+    12.88,
+    12.98
+   ],
+   [
+    "first",
+    12.98,
+    13.24
+   ],
+   [
+    "corner.",
+    13.24,
+    13.74
+   ],
+   [
+    "Schumacher",
+    14.3,
+    14.56
+   ],
+   [
+    "passed",
+    14.56,
+    14.86
+   ],
+   [
+    "Alesi",
+    14.86,
+    15.34
+   ],
+   [
+    "and",
+    15.34,
+    15.52
+   ],
+   [
+    "Hill",
+    15.52,
+    15.7
+   ],
+   [
+    "during",
+    15.7,
+    16.0
+   ],
+   [
+    "his",
+    16.0,
+    16.2
+   ],
+   [
+    "pit",
+    16.2,
+    16.38
+   ],
+   [
+    "stops.",
+    16.38,
+    16.64
+   ],
+   [
+    "This",
+    17.44,
+    17.56
+   ],
+   [
+    "was",
+    17.56,
+    17.68
+   ],
+   [
+    "also",
+    17.68,
+    17.92
+   ],
+   [
+    "the",
+    17.92,
+    18.06
+   ],
+   [
+    "last",
+    18.06,
+    18.36
+   ],
+   [
+    "race",
+    18.36,
+    18.6
+   ],
+   [
+    "for",
+    18.6,
+    18.98
+   ],
+   [
+    "Jean-Christophe",
+    19.0,
+    19.68
+   ],
+   [
+    "Boullion.",
+    19.68,
+    19.82
+   ]
+  ],
+  "b": [
+   0,
+   4,
+   16,
+   25,
+   36,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Circuit_TI_%28Aida%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 751,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Circuit_TI_(Aida).png",
+   "desc": "Circuit TI (Aida) — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/David_Coulthard_-_Williams_FW17_at_Silverstone%2C_British_GP_1995_%2849684647771%29.jpg/960px-David_Coulthard_-_Williams_FW17_at_Silverstone%2C_British_GP_1995_%2849684647771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 354,
+   "license": "CC BY-SA 2.0",
+   "artist": "Martin Lee from London, UK",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Coulthard_-_Williams_FW17_at_Silverstone,_British_GP_1995_(49684647771).jpg",
+   "desc": "David Coulthard - Williams FW17 at Silverstone, British GP 1995 (49684647771) — 1995 British Grand Prix"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Jean-Christophe_Boullion_Integralhelm_1995.png/960px-Jean-Christophe_Boullion_Integralhelm_1995.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 662,
+   "license": "CC BY-SA 4.0",
+   "artist": "Auge=mit",
+   "page": "https://commons.wikimedia.org/wiki/File:Jean-Christophe_Boullion_Integralhelm_1995.png",
+   "desc": "Jean-Christophe Boullion Integralhelm 1995 — Jean-Christophe Boullion Integralhelm 1995 (F1 / Sauber)"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1995,
+   "unit": "season",
+   "label": "Drivers' Champion"
+  },
+  {
+   "type": "timeline",
+   "year": 1995
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  34.915,
+  134.221
+ ],
+ "qid": "Q424187",
+ "pron_wer": 0.055,
+ "angle": 0,
+ "source": {
+  "title": "1995 Pacific Grand Prix",
+  "url": "https://en.wikipedia.org/wiki/1995_Pacific_Grand_Prix",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T23:38:18Z",
+ "trimmed": true
+}
