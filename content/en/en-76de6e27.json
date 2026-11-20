@@ -1,0 +1,327 @@
+{
+ "id": "en-76de6e27",
+ "lang": "en",
+ "title": "Mysterious Star Outbursts Solved",
+ "cat": "space",
+ "emoji": "✨",
+ "sentences": [
+  "A giant star keeps faking supernova explosions!",
+  "AT 2016blu brightens every 113 days without dying.",
+  "Astronomers used NASA’s Chandra X-ray Observatory to investigate.",
+  "A hidden black hole or neutron star steals its material.",
+  "This cosmic feeding frenzy powers the bright repeating flashes."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.35,
+    0.35
+   ],
+   [
+    "giant",
+    0.35,
+    0.63
+   ],
+   [
+    "star",
+    0.63,
+    0.95
+   ],
+   [
+    "keeps",
+    0.95,
+    1.25
+   ],
+   [
+    "faking",
+    1.25,
+    1.63
+   ],
+   [
+    "supernova",
+    1.63,
+    2.15
+   ],
+   [
+    "explosions!",
+    2.15,
+    2.77
+   ],
+   [
+    "AT",
+    3.39,
+    3.61
+   ],
+   [
+    "2016blu",
+    3.61,
+    4.75
+   ],
+   [
+    "brightens",
+    4.75,
+    5.15
+   ],
+   [
+    "every",
+    5.15,
+    5.41
+   ],
+   [
+    "113",
+    5.41,
+    6.07
+   ],
+   [
+    "days",
+    6.07,
+    6.47
+   ],
+   [
+    "without",
+    6.47,
+    6.71
+   ],
+   [
+    "dying.",
+    6.71,
+    7.05
+   ],
+   [
+    "Astronomers",
+    7.67,
+    8.23
+   ],
+   [
+    "used",
+    8.23,
+    8.41
+   ],
+   [
+    "NASA’s",
+    8.41,
+    8.89
+   ],
+   [
+    "Chandra",
+    8.89,
+    9.19
+   ],
+   [
+    "X-ray",
+    9.19,
+    9.53
+   ],
+   [
+    "Observatory",
+    9.53,
+    10.11
+   ],
+   [
+    "to",
+    10.11,
+    10.25
+   ],
+   [
+    "investigate.",
+    10.25,
+    10.57
+   ],
+   [
+    "A",
+    11.33,
+    11.41
+   ],
+   [
+    "hidden",
+    11.45,
+    11.59
+   ],
+   [
+    "black",
+    11.59,
+    11.83
+   ],
+   [
+    "hole",
+    11.83,
+    12.13
+   ],
+   [
+    "or",
+    12.13,
+    12.35
+   ],
+   [
+    "neutron",
+    12.35,
+    12.63
+   ],
+   [
+    "star",
+    12.63,
+    12.99
+   ],
+   [
+    "steals",
+    12.99,
+    13.33
+   ],
+   [
+    "its",
+    13.33,
+    13.49
+   ],
+   [
+    "material.",
+    13.49,
+    14.05
+   ],
+   [
+    "This",
+    14.59,
+    14.69
+   ],
+   [
+    "cosmic",
+    14.69,
+    15.11
+   ],
+   [
+    "feeding",
+    15.11,
+    15.41
+   ],
+   [
+    "frenzy",
+    15.41,
+    15.87
+   ],
+   [
+    "powers",
+    15.87,
+    16.23
+   ],
+   [
+    "the",
+    16.23,
+    16.45
+   ],
+   [
+    "bright",
+    16.45,
+    16.65
+   ],
+   [
+    "repeating",
+    16.65,
+    16.97
+   ],
+   [
+    "flashes.",
+    16.97,
+    17.47
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   33
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/NASA%27s_Chandra_Finds_Source_of_Star%27s_Mysterious_Outbursts_%28X-ray_%26_Optical_Images_of_AT_2016blu_in_Quiescence_%26_Outburst%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/Univ. of Virgina/M. Aghakhanloo et al; Optical: NSF/KAIT",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Chandra_Finds_Source_of_Star%27s_Mysterious_Outbursts_(X-ray_%26_Optical_Images_of_AT_2016blu_in_Quiescence_%26_Outburst).jpg",
+   "desc": "NASA's Chandra Finds Source of Star's Mysterious Outbursts (X-ray & Optical Images of AT 2016blu in Quiescence & Outburst) — Images showing AT 2016blu in outburst and quiescence. The top-left image in the mosaic of four images shows optical data obtained March"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/NASA%27s_Chandra_Finds_Source_of_Star%27s_Mysterious_Outbursts_%28X-ray_image_of_AT_2016blu_in_Outburst%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/Univ. of Virgina/M. Aghakhanloo et al; Optical: NSF/KAIT",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Chandra_Finds_Source_of_Star%27s_Mysterious_Outbursts_(X-ray_image_of_AT_2016blu_in_Outburst).jpg",
+   "desc": "NASA's Chandra Finds Source of Star's Mysterious Outbursts (X-ray image of AT 2016blu in Outburst) — Images showing AT 2016blu in outburst and quiescence. The top-left image in the mosaic of four images shows optical data obtained March 14, 2026, by the Katzma"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Chandra_X-Ray_Observatory_%28noirlab2427c%29.jpg/960px-Chandra_X-Ray_Observatory_%28noirlab2427c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 4.0",
+   "artist": "NASA/CXC &amp; J.Vaughan",
+   "page": "https://commons.wikimedia.org/wiki/File:Chandra_X-Ray_Observatory_(noirlab2427c).jpg",
+   "desc": "Chandra X-Ray Observatory (noirlab2427c) — Artist’s illustration of NASA’s Chandra X-Ray Observatory."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Low-mass_X-ray_binary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 3.0",
+   "artist": "Vdsluys",
+   "page": "https://commons.wikimedia.org/wiki/File:Low-mass_X-ray_binary.jpg",
+   "desc": "Low-mass X-ray binary — Artist's impression of a low-mass X-ray binary (LMXB): an evolved low-mass yellow sub-giant star transfers mass to a neutron star. Because the accretor is a compact object, an accretion disc forms, which is the source of"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/A%D1%81%D1%81retion_Spins_Pulsar_to_Millisecond_Range.jpg/960px-A%D1%81%D1%81retion_Spins_Pulsar_to_Millisecond_Range.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 486,
+   "license": "Public domain",
+   "artist": "Dana Berry/NASA Goddard Space Flight Center",
+   "page": "https://commons.wikimedia.org/wiki/File:A%D1%81%D1%81retion_Spins_Pulsar_to_Millisecond_Range.jpg",
+   "desc": "Aссretion Spins Pulsar to Millisecond Range — About 20 km. around, the density of a neutron star attracts matter from a companion star. Inward flowing material causes x-ray bursts and also causes the star's rotation to speed up."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 113,
+   "unit": "days",
+   "label": "brightens every"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+ "pron_wer": 0.068,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+  "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T05:45:26Z",
+ "trimmed": true
+}

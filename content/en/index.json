@@ -257,7 +257,8 @@
   "Battle of the Aegates",
   "Albertosaurus",
   "nasa:1301623",
-  "Theodore Komnenos Doukas"
+  "Theodore Komnenos Doukas",
+  "Daspletosaurus"
  ],
  "rejected": [
   "Chameleon",
@@ -1170,6 +1171,9 @@
   ],
   "Theodore Komnenos Doukas": [
    "The Forgotten Byzantine Ruler: He ruled Epirus and Thessaly from 1215 to 1230."
+  ],
+  "Daspletosaurus": [
+   "The Frightful Lizard: Meet the frightful lizard, Daspletosaurus!"
   ]
  },
  "exhausted": []
