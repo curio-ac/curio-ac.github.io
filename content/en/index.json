@@ -290,7 +290,8 @@
   "Bharattherium",
   "Coventry ring road",
   "nasa:1504151",
-  "Banksia petiolaris"
+  "Banksia petiolaris",
+  "1912 suspension of Ty Cobb"
  ],
  "rejected": [
   "Chameleon",
@@ -1312,6 +1313,9 @@
   ],
   "Banksia petiolaris": [
    "The Plant With Eternal Leaves: This plant grows leaves that last 13 years."
+  ],
+  "1912 suspension of Ty Cobb": [
+   "Ty Cobb's Violent Stand: A baseball legend once attacked a fan."
   ]
  },
  "exhausted": []

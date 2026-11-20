@@ -1,0 +1,390 @@
+{
+ "id": "en-49f413bd",
+ "lang": "en",
+ "title": "Singapore's Deepest Subway Giant",
+ "cat": "geography",
+ "emoji": "🚇",
+ "sentences": [
+  "This massive subway station goes 28 meters deep.",
+  "Dhoby Ghaut is a major interchange for 3 different train lines.",
+  "It sits right beneath the busy Orchard Road shopping belt.",
+  "Construction was huge, even requiring the diversion of Stamford Canal.",
+  "The station spans 5 underground levels total.",
+  "It is also packed with unique public artwork throughout."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0,
+    0.28
+   ],
+   [
+    "massive",
+    0.28,
+    0.88
+   ],
+   [
+    "subway",
+    0.88,
+    1.26
+   ],
+   [
+    "station",
+    1.26,
+    1.66
+   ],
+   [
+    "goes",
+    1.66,
+    2.04
+   ],
+   [
+    "28",
+    2.04,
+    2.68
+   ],
+   [
+    "meters",
+    2.68,
+    3.0
+   ],
+   [
+    "deep.",
+    3.0,
+    3.5
+   ],
+   [
+    "Dhoby",
+    4.12,
+    4.32
+   ],
+   [
+    "Ghaut",
+    4.32,
+    4.66
+   ],
+   [
+    "is",
+    4.7,
+    4.82
+   ],
+   [
+    "a",
+    4.82,
+    4.92
+   ],
+   [
+    "major",
+    4.92,
+    5.3
+   ],
+   [
+    "interchange",
+    5.3,
+    5.76
+   ],
+   [
+    "for",
+    5.76,
+    6.06
+   ],
+   [
+    "3",
+    6.3,
+    6.44
+   ],
+   [
+    "different",
+    6.44,
+    6.88
+   ],
+   [
+    "train",
+    6.96,
+    7.14
+   ],
+   [
+    "lines.",
+    7.14,
+    7.89
+   ],
+   [
+    "It",
+    7.96,
+    8.0
+   ],
+   [
+    "sits",
+    8.0,
+    8.18
+   ],
+   [
+    "right",
+    8.18,
+    8.58
+   ],
+   [
+    "beneath",
+    8.58,
+    8.92
+   ],
+   [
+    "the",
+    8.92,
+    9.18
+   ],
+   [
+    "busy",
+    9.18,
+    9.48
+   ],
+   [
+    "Orchard",
+    9.48,
+    10.0
+   ],
+   [
+    "Road",
+    10.0,
+    10.2
+   ],
+   [
+    "shopping",
+    10.2,
+    10.5
+   ],
+   [
+    "belt.",
+    10.5,
+    10.6
+   ],
+   [
+    "Construction",
+    11.46,
+    11.86
+   ],
+   [
+    "was",
+    11.86,
+    12.28
+   ],
+   [
+    "huge,",
+    12.28,
+    12.38
+   ],
+   [
+    "even",
+    13.22,
+    13.4
+   ],
+   [
+    "requiring",
+    13.4,
+    13.84
+   ],
+   [
+    "the",
+    13.84,
+    14.04
+   ],
+   [
+    "diversion",
+    14.04,
+    14.4
+   ],
+   [
+    "of",
+    14.58,
+    14.68
+   ],
+   [
+    "Stamford",
+    14.68,
+    15.18
+   ],
+   [
+    "Canal.",
+    15.18,
+    15.54
+   ],
+   [
+    "The",
+    16.18,
+    16.26
+   ],
+   [
+    "station",
+    16.26,
+    16.56
+   ],
+   [
+    "spans",
+    16.56,
+    16.96
+   ],
+   [
+    "5",
+    16.96,
+    17.42
+   ],
+   [
+    "underground",
+    17.42,
+    17.88
+   ],
+   [
+    "levels",
+    17.88,
+    18.32
+   ],
+   [
+    "total.",
+    18.32,
+    18.76
+   ],
+   [
+    "It",
+    19.3,
+    19.36
+   ],
+   [
+    "is",
+    19.36,
+    19.46
+   ],
+   [
+    "also",
+    19.46,
+    19.68
+   ],
+   [
+    "packed",
+    19.68,
+    19.98
+   ],
+   [
+    "with",
+    19.98,
+    20.18
+   ],
+   [
+    "unique",
+    20.24,
+    20.56
+   ],
+   [
+    "public",
+    20.56,
+    20.96
+   ],
+   [
+    "artwork",
+    20.96,
+    21.34
+   ],
+   [
+    "throughout.",
+    21.34,
+    21.8
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   29,
+   39,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/NS24_NE6_CC1_Dhoby_Ghaut_MRT_Exit_E_20210331_145844.jpg/960px-NS24_NE6_CC1_Dhoby_Ghaut_MRT_Exit_E_20210331_145844.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "ZKang123",
+   "page": "https://commons.wikimedia.org/wiki/File:NS24_NE6_CC1_Dhoby_Ghaut_MRT_Exit_E_20210331_145844.jpg",
+   "desc": "NS24 NE6 CC1 Dhoby Ghaut MRT Exit E 20210331 145844 — NS24 NE6 CC1 Dhoby Ghaut MRT Exit E"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Glass_facade_of_an_illuminated_shopping_mall_at_blue_hour_with_vertical_symmetry_impression%2C_Orchard_Road%2C_Singapore.jpg/960px-Glass_facade_of_an_illuminated_shopping_mall_at_blue_hour_with_vertical_symmetry_impression%2C_Orchard_Road%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "CC BY-SA 4.0",
+   "artist": "Basile Morin",
+   "page": "https://commons.wikimedia.org/wiki/File:Glass_facade_of_an_illuminated_shopping_mall_at_blue_hour_with_vertical_symmetry_impression,_Orchard_Road,_Singapore.jpg",
+   "desc": "Glass facade of an illuminated shopping mall at blue hour with vertical symmetry impression, Orchard Road, Singapore — Shiny glass facade of an illuminated shopping mall, located 268 Orchard Road, Singapore, at blue hour. Exterior view with vertical symmetry i"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/CC1_Dhoby_Ghaut_Art_in_Transit.jpg/960px-CC1_Dhoby_Ghaut_Art_in_Transit.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "zhenkang",
+   "page": "https://commons.wikimedia.org/wiki/File:CC1_Dhoby_Ghaut_Art_in_Transit.jpg",
+   "desc": "CC1 Dhoby Ghaut Art in Transit — Art in Transit at Dhoby Ghaut station"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 28,
+   "unit": "meters",
+   "label": "station depth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "public artwork",
+   "box": [
+    146,
+    117,
+    835,
+    277
+   ]
+  }
+ ],
+ "geo": [
+  1.299,
+  103.846
+ ],
+ "qid": "Q3234475",
+ "pron_wer": 0.073,
+ "angle": 0,
+ "source": {
+  "title": "Dhoby Ghaut MRT station",
+  "url": "https://en.wikipedia.org/wiki/Dhoby_Ghaut_MRT_station",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T17:36:57Z",
+ "trimmed": true
+}
