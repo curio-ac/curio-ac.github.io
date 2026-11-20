@@ -1,0 +1,448 @@
+{
+ "id": "en-0f89b0e7",
+ "lang": "en",
+ "title": "The Origin of Diamonds",
+ "cat": "history",
+ "emoji": "💎",
+ "sentences": [
+  "A newspaper article inspired this Bond novel.",
+  "Ian Fleming wrote it at his Goldeneye estate in Jamaica.",
+  "The plot follows a diamond smuggling ring from Sierra Leone to Las Vegas.",
+  "Bond falls for a member of the gang named Tiffany Case.",
+  "Fleming used his research for this book to write his non-fiction work, The Diamond Smugglers.",
+  "It was later adapted into a 1971 film starring Sean Connery."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.34,
+    0.34
+   ],
+   [
+    "newspaper",
+    0.34,
+    0.58
+   ],
+   [
+    "article",
+    0.6,
+    1.14
+   ],
+   [
+    "inspired",
+    1.14,
+    1.66
+   ],
+   [
+    "this",
+    1.66,
+    2.02
+   ],
+   [
+    "Bond",
+    2.02,
+    2.24
+   ],
+   [
+    "novel.",
+    2.24,
+    2.5
+   ],
+   [
+    "Ian",
+    3.08,
+    3.18
+   ],
+   [
+    "Fleming",
+    3.18,
+    3.5
+   ],
+   [
+    "wrote",
+    3.5,
+    3.74
+   ],
+   [
+    "it",
+    3.74,
+    3.86
+   ],
+   [
+    "at",
+    3.86,
+    4.04
+   ],
+   [
+    "his",
+    4.04,
+    4.2
+   ],
+   [
+    "Goldeneye",
+    4.28,
+    4.72
+   ],
+   [
+    "estate",
+    4.88,
+    4.98
+   ],
+   [
+    "in",
+    4.98,
+    5.2
+   ],
+   [
+    "Jamaica.",
+    5.2,
+    5.44
+   ],
+   [
+    "The",
+    6.2,
+    6.2
+   ],
+   [
+    "plot",
+    6.2,
+    6.4
+   ],
+   [
+    "follows",
+    6.4,
+    6.74
+   ],
+   [
+    "a",
+    6.74,
+    6.92
+   ],
+   [
+    "diamond",
+    6.92,
+    7.2
+   ],
+   [
+    "smuggling",
+    7.2,
+    7.62
+   ],
+   [
+    "ring",
+    7.62,
+    7.88
+   ],
+   [
+    "from",
+    8.02,
+    8.12
+   ],
+   [
+    "Sierra",
+    8.12,
+    8.4
+   ],
+   [
+    "Leone",
+    8.4,
+    8.9
+   ],
+   [
+    "to",
+    8.9,
+    9.1
+   ],
+   [
+    "Las",
+    9.1,
+    9.26
+   ],
+   [
+    "Vegas.",
+    9.26,
+    9.36
+   ],
+   [
+    "Bond",
+    10.24,
+    10.38
+   ],
+   [
+    "falls",
+    10.38,
+    10.64
+   ],
+   [
+    "for",
+    10.64,
+    10.84
+   ],
+   [
+    "a",
+    10.84,
+    10.92
+   ],
+   [
+    "member",
+    10.92,
+    11.08
+   ],
+   [
+    "of",
+    11.08,
+    11.24
+   ],
+   [
+    "the",
+    11.24,
+    11.36
+   ],
+   [
+    "gang",
+    11.42,
+    11.6
+   ],
+   [
+    "named",
+    11.6,
+    12.0
+   ],
+   [
+    "Tiffany",
+    12.32,
+    12.42
+   ],
+   [
+    "Case.",
+    12.42,
+    12.56
+   ],
+   [
+    "Fleming",
+    13.5,
+    13.7
+   ],
+   [
+    "used",
+    13.7,
+    13.92
+   ],
+   [
+    "his",
+    13.92,
+    14.1
+   ],
+   [
+    "research",
+    14.1,
+    14.48
+   ],
+   [
+    "for",
+    14.48,
+    14.66
+   ],
+   [
+    "this",
+    14.66,
+    14.8
+   ],
+   [
+    "book",
+    14.8,
+    14.96
+   ],
+   [
+    "to",
+    14.96,
+    15.16
+   ],
+   [
+    "write",
+    15.18,
+    15.3
+   ],
+   [
+    "his",
+    15.3,
+    15.5
+   ],
+   [
+    "non-fiction",
+    15.52,
+    16.04
+   ],
+   [
+    "work,",
+    16.04,
+    16.54
+   ],
+   [
+    "The",
+    16.56,
+    16.62
+   ],
+   [
+    "Diamond",
+    16.82,
+    16.92
+   ],
+   [
+    "Smugglers.",
+    16.92,
+    17.17
+   ],
+   [
+    "It",
+    18.14,
+    18.14
+   ],
+   [
+    "was",
+    18.14,
+    18.26
+   ],
+   [
+    "later",
+    18.26,
+    18.44
+   ],
+   [
+    "adapted",
+    18.44,
+    18.84
+   ],
+   [
+    "into",
+    18.9,
+    19.1
+   ],
+   [
+    "a",
+    19.12,
+    19.22
+   ],
+   [
+    "1971",
+    19.22,
+    19.74
+   ],
+   [
+    "film",
+    19.74,
+    20.26
+   ],
+   [
+    "starring",
+    20.26,
+    20.54
+   ],
+   [
+    "Sean",
+    20.54,
+    20.86
+   ],
+   [
+    "Connery.",
+    20.86,
+    21.28
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   30,
+   41,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/World_War_II_vintage_newspaper_%2851113577343%29.jpg/960px-World_War_II_vintage_newspaper_%2851113577343%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 498,
+   "license": "CC BY-SA 2.0",
+   "artist": "Ross Dunn",
+   "page": "https://commons.wikimedia.org/wiki/File:World_War_II_vintage_newspaper_(51113577343).jpg",
+   "desc": "World War II vintage newspaper (51113577343) — Ottawa Citizen 1941 with war coverage. Also, 1941 census article with Leduc family of 14 children."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sierra_Leone_miners_panning.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 777,
+   "license": "Public domain",
+   "artist": "USAID",
+   "page": "https://commons.wikimedia.org/wiki/File:Sierra_Leone_miners_panning.jpg",
+   "desc": "Sierra Leone miners panning — Diamond miners panning in the Kono District of Sierra Leone"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ian_Fleming_c._1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 788,
+   "license": "Public domain",
+   "artist": "Erich Hartmann",
+   "page": "https://commons.wikimedia.org/wiki/File:Ian_Fleming_c._1958.jpg",
+   "desc": "Ian Fleming c. 1958 — Photo of Ian Fleming used for the dust jacket of the first US edition of The Diamond Smugglers."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Sean_Connery_as_James_Bond_%281971%29.jpg/960px-Sean_Connery_as_James_Bond_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 527,
+   "license": "CC BY-SA 3.0 nl",
+   "artist": "Rob Mieremet",
+   "page": "https://commons.wikimedia.org/wiki/File:Sean_Connery_as_James_Bond_(1971).jpg",
+   "desc": "Sean Connery as James Bond (1971) — Opnamen in Amsterdam voor James Bond film \"Diamonds are Forever\", Sean Connery bij de Amstel."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1957
+  },
+  {
+   "type": "timeline",
+   "year": 1971
+  }
+ ],
+ "geo": null,
+ "qid": "Q659731",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Diamonds Are Forever (novel)",
+  "url": "https://en.wikipedia.org/wiki/Diamonds_Are_Forever_%28novel%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T02:56:03Z",
+ "trimmed": true
+}
