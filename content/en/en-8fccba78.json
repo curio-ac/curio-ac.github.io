@@ -1,0 +1,444 @@
+{
+ "id": "en-8fccba78",
+ "lang": "en",
+ "title": "Coventry's Tricky Ring Road",
+ "cat": "geography",
+ "emoji": "🚗",
+ "sentences": [
+  "This road is notoriously hard to drive.",
+  "The A4053 is a 2.25-mile loop circling Coventry’s city centre.",
+  "It wraps around the old and new Cathedrals plus the university.",
+  "Nine junctions are packed so tightly that some weaving sections are just 300 feet long.",
+  "Construction began in 1959 after WWII bombs destroyed much of the city.",
+  "It’s a modern solution to medieval streets."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.22
+   ],
+   [
+    "road",
+    0.22,
+    0.48
+   ],
+   [
+    "is",
+    0.48,
+    0.72
+   ],
+   [
+    "notoriously",
+    0.72,
+    1.6
+   ],
+   [
+    "hard",
+    1.6,
+    1.88
+   ],
+   [
+    "to",
+    1.88,
+    2.04
+   ],
+   [
+    "drive.",
+    2.04,
+    2.32
+   ],
+   [
+    "The",
+    2.84,
+    2.94
+   ],
+   [
+    "A4053",
+    2.94,
+    4.06
+   ],
+   [
+    "is",
+    4.06,
+    4.44
+   ],
+   [
+    "a",
+    4.44,
+    4.54
+   ],
+   [
+    "2.25-mile",
+    4.6,
+    5.8
+   ],
+   [
+    "loop",
+    5.8,
+    6.18
+   ],
+   [
+    "circling",
+    6.18,
+    6.72
+   ],
+   [
+    "Coventry’s",
+    6.72,
+    7.3
+   ],
+   [
+    "city",
+    7.3,
+    7.46
+   ],
+   [
+    "centre.",
+    7.46,
+    8.34
+   ],
+   [
+    "It",
+    8.34,
+    8.4
+   ],
+   [
+    "wraps",
+    8.4,
+    8.64
+   ],
+   [
+    "around",
+    8.64,
+    8.92
+   ],
+   [
+    "the",
+    8.92,
+    9.08
+   ],
+   [
+    "old",
+    9.18,
+    9.4
+   ],
+   [
+    "and",
+    9.4,
+    9.58
+   ],
+   [
+    "new",
+    9.58,
+    9.78
+   ],
+   [
+    "Cathedrals",
+    9.78,
+    10.36
+   ],
+   [
+    "plus",
+    10.36,
+    10.74
+   ],
+   [
+    "the",
+    10.74,
+    10.94
+   ],
+   [
+    "university.",
+    10.94,
+    11.49
+   ],
+   [
+    "Nine",
+    12.06,
+    12.26
+   ],
+   [
+    "junctions",
+    12.26,
+    12.74
+   ],
+   [
+    "are",
+    12.74,
+    12.9
+   ],
+   [
+    "packed",
+    13.02,
+    13.16
+   ],
+   [
+    "so",
+    13.16,
+    13.52
+   ],
+   [
+    "tightly",
+    13.52,
+    13.92
+   ],
+   [
+    "that",
+    14.12,
+    14.22
+   ],
+   [
+    "some",
+    14.22,
+    14.48
+   ],
+   [
+    "weaving",
+    14.48,
+    14.76
+   ],
+   [
+    "sections",
+    14.76,
+    15.12
+   ],
+   [
+    "are",
+    15.12,
+    15.42
+   ],
+   [
+    "just",
+    15.42,
+    15.64
+   ],
+   [
+    "300",
+    15.64,
+    16.12
+   ],
+   [
+    "feet",
+    16.14,
+    16.54
+   ],
+   [
+    "long.",
+    16.54,
+    16.88
+   ],
+   [
+    "Construction",
+    17.54,
+    17.82
+   ],
+   [
+    "began",
+    17.82,
+    18.2
+   ],
+   [
+    "in",
+    18.2,
+    18.46
+   ],
+   [
+    "1959",
+    18.46,
+    19.3
+   ],
+   [
+    "after",
+    19.64,
+    19.74
+   ],
+   [
+    "WWII",
+    19.74,
+    20.4
+   ],
+   [
+    "bombs",
+    20.4,
+    20.74
+   ],
+   [
+    "destroyed",
+    20.76,
+    21.08
+   ],
+   [
+    "much",
+    21.08,
+    21.42
+   ],
+   [
+    "of",
+    21.42,
+    21.56
+   ],
+   [
+    "the",
+    21.56,
+    21.66
+   ],
+   [
+    "city.",
+    21.66,
+    21.76
+   ],
+   [
+    "It’s",
+    22.38,
+    22.62
+   ],
+   [
+    "a",
+    22.62,
+    22.68
+   ],
+   [
+    "modern",
+    22.68,
+    22.98
+   ],
+   [
+    "solution",
+    22.98,
+    23.5
+   ],
+   [
+    "to",
+    23.5,
+    23.68
+   ],
+   [
+    "medieval",
+    23.68,
+    23.94
+   ],
+   [
+    "streets.",
+    23.94,
+    24.38
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   28,
+   43,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Coventry_ring_road_%28A4053%29.jpg/960px-Coventry_ring_road_%28A4053%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "mintchocicecream",
+   "page": "https://commons.wikimedia.org/wiki/File:Coventry_ring_road_(A4053).jpg",
+   "desc": "Coventry ring road (A4053) — Coventry ring road (A4053) View of Junction 6 of the A4053, more commonly known as the Coventry ring road, taken from the balcony of One Friargate in Coventry, United Kingdom on 23 October 2018 18:28:54. Photography by S"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Coventry_city_centre_and_ring_road_%28cropped%29.jpg/960px-Coventry_city_centre_and_ring_road_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 2.0",
+   "artist": "Mike McBey",
+   "page": "https://commons.wikimedia.org/wiki/File:Coventry_city_centre_and_ring_road_(cropped).jpg",
+   "desc": "Coventry city centre and ring road (cropped) — Aerial view of Coventry city centre, with the A4053 ring road visible encircling it"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Coventry_Council_House.jpg/960px-Coventry_Council_House.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 425,
+   "license": "CC BY-SA 4.0",
+   "artist": "DeFacto",
+   "page": "https://commons.wikimedia.org/wiki/File:Coventry_Council_House.jpg",
+   "desc": "Coventry Council House — The Council House, Coventry with the 90-metre spire of the war-ruined 14th-century St Michael's Cathedral visible behind. This building, built 1913-17, is a Grade II Listed Building in England."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Coventry_Ring_Road_Junction_Map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 612,
+   "license": "CC BY-SA 4.0",
+   "artist": "Amakuru",
+   "page": "https://commons.wikimedia.org/wiki/File:Coventry_Ring_Road_Junction_Map.png",
+   "desc": "Coventry Ring Road Junction Map — Map of the Coventry ring road, showing junction layouts, junction numbers and connecting roads.Key to road status colours:Green = Primary routeRed = Non-primary A roadOrange = B roadYellow = Unclassified road"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coventry_ring_road_London_Road_roundabout_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Richard Warren",
+   "page": "https://commons.wikimedia.org/wiki/File:Coventry_ring_road_London_Road_roundabout_1967.jpg",
+   "desc": "Coventry ring road London Road roundabout 1967 — Coventry ring road London Road roundabout 1967"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "focus",
+   "target": "Coventry Cathedrals",
+   "box": [
+    42,
+    204,
+    610,
+    283
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 91.44,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "timeline",
+   "year": 1959
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  52.403,
+  -1.51
+ ],
+ "qid": "Q4649229",
+ "pron_wer": 0.061,
+ "angle": 0,
+ "source": {
+  "title": "Coventry ring road",
+  "url": "https://en.wikipedia.org/wiki/Coventry_ring_road",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T16:04:23Z",
+ "trimmed": true
+}

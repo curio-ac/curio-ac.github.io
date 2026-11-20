@@ -286,7 +286,8 @@
   "Alexander II Zabinas",
   "nasa:1506532",
   "270 Park Avenue (1960–2021)",
-  "nasa:1505059"
+  "nasa:1505059",
+  "Bharattherium"
  ],
  "rejected": [
   "Chameleon",
@@ -1296,6 +1297,9 @@
   ],
   "nasa:1505059": [
    "Mars Crystals Reveal Secrets: Mars rocks are hiding mysterious crystal shapes."
+  ],
+  "Bharattherium": [
+   "India's Mystery Cretaceous Mammal: This animal is known only from eight teeth."
   ]
  },
  "exhausted": []
