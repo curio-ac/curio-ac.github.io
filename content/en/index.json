@@ -260,7 +260,8 @@
   "Theodore Komnenos Doukas",
   "Daspletosaurus",
   "Cygnus X-1",
-  "Caversham, New Zealand"
+  "Caversham, New Zealand",
+  "nasa:1389133"
  ],
  "rejected": [
   "Chameleon",
@@ -1182,6 +1183,9 @@
   ],
   "Caversham, New Zealand": [
    "Historic New Zealand Suburb: An 1860s gold rush made this suburb grow rapidly!"
+  ],
+  "nasa:1389133": [
+   "Curiosity's Martian Bands: Curiosity spotted subtle bands on Mars!"
   ]
  },
  "exhausted": []

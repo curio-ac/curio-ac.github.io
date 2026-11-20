@@ -1,0 +1,437 @@
+{
+ "id": "en-8039d87f",
+ "lang": "en",
+ "title": "The Biddenden Maids Legend",
+ "cat": "history",
+ "emoji": "🍞",
+ "sentences": [
+  "Conjoined twins left land for free food!",
+  "Mary and Eliza supposedly lived for 34 years joined at the shoulder and hip.",
+  "Upon death, they bequeathed 5 plots of land to Biddenden.",
+  "This income paid for an annual Easter food and drink dole for the poor.",
+  "Since 1775, the dole includes hard biscuits imprinted with two conjoined women.",
+  "A historian later dismissed the entire story as a folk myth!"
+ ],
+ "tim": {
+  "w": [
+   [
+    "Conjoined",
+    0.14,
+    0.54
+   ],
+   [
+    "twins",
+    0.54,
+    0.8
+   ],
+   [
+    "left",
+    0.8,
+    1.3
+   ],
+   [
+    "land",
+    1.3,
+    1.72
+   ],
+   [
+    "for",
+    1.72,
+    1.94
+   ],
+   [
+    "free",
+    2.14,
+    2.24
+   ],
+   [
+    "food!",
+    2.24,
+    3.28
+   ],
+   [
+    "Mary",
+    3.28,
+    3.44
+   ],
+   [
+    "and",
+    3.44,
+    3.68
+   ],
+   [
+    "Eliza",
+    3.68,
+    4.12
+   ],
+   [
+    "supposedly",
+    4.12,
+    4.58
+   ],
+   [
+    "lived",
+    4.58,
+    5.04
+   ],
+   [
+    "for",
+    5.04,
+    5.28
+   ],
+   [
+    "34",
+    5.28,
+    5.76
+   ],
+   [
+    "years",
+    5.78,
+    6.32
+   ],
+   [
+    "joined",
+    6.32,
+    6.76
+   ],
+   [
+    "at",
+    6.76,
+    7.0
+   ],
+   [
+    "the",
+    7.0,
+    7.12
+   ],
+   [
+    "shoulder",
+    7.12,
+    7.4
+   ],
+   [
+    "and",
+    7.4,
+    7.7
+   ],
+   [
+    "hip.",
+    7.7,
+    8.68
+   ],
+   [
+    "Upon",
+    8.68,
+    8.84
+   ],
+   [
+    "death,",
+    8.84,
+    9.62
+   ],
+   [
+    "they",
+    9.62,
+    9.68
+   ],
+   [
+    "bequeathed",
+    9.68,
+    10.18
+   ],
+   [
+    "5",
+    10.32,
+    10.48
+   ],
+   [
+    "plots",
+    10.48,
+    10.8
+   ],
+   [
+    "of",
+    10.8,
+    11.0
+   ],
+   [
+    "land",
+    11.0,
+    11.28
+   ],
+   [
+    "to",
+    11.28,
+    11.48
+   ],
+   [
+    "Biddenden.",
+    11.48,
+    11.92
+   ],
+   [
+    "This",
+    12.52,
+    12.64
+   ],
+   [
+    "income",
+    12.64,
+    12.92
+   ],
+   [
+    "paid",
+    12.92,
+    13.28
+   ],
+   [
+    "for",
+    13.28,
+    13.46
+   ],
+   [
+    "an",
+    13.46,
+    13.56
+   ],
+   [
+    "annual",
+    13.66,
+    13.92
+   ],
+   [
+    "Easter",
+    13.92,
+    14.34
+   ],
+   [
+    "food",
+    14.34,
+    14.72
+   ],
+   [
+    "and",
+    14.72,
+    14.92
+   ],
+   [
+    "drink",
+    14.92,
+    15.2
+   ],
+   [
+    "dole",
+    15.2,
+    15.46
+   ],
+   [
+    "for",
+    15.46,
+    15.58
+   ],
+   [
+    "the",
+    15.58,
+    15.68
+   ],
+   [
+    "poor.",
+    15.68,
+    16.0
+   ],
+   [
+    "Since",
+    16.7,
+    16.8
+   ],
+   [
+    "1775,",
+    16.8,
+    18.22
+   ],
+   [
+    "the",
+    18.56,
+    18.58
+   ],
+   [
+    "dole",
+    18.58,
+    18.88
+   ],
+   [
+    "includes",
+    18.88,
+    19.18
+   ],
+   [
+    "hard",
+    19.18,
+    19.6
+   ],
+   [
+    "biscuits",
+    19.6,
+    20.02
+   ],
+   [
+    "imprinted",
+    20.02,
+    20.7
+   ],
+   [
+    "with",
+    20.7,
+    20.82
+   ],
+   [
+    "two",
+    20.82,
+    21.08
+   ],
+   [
+    "conjoined",
+    21.08,
+    21.6
+   ],
+   [
+    "women.",
+    21.6,
+    21.92
+   ],
+   [
+    "A",
+    22.54,
+    22.6
+   ],
+   [
+    "historian",
+    22.6,
+    22.94
+   ],
+   [
+    "later",
+    22.94,
+    23.32
+   ],
+   [
+    "dismissed",
+    23.32,
+    23.72
+   ],
+   [
+    "the",
+    23.72,
+    24.0
+   ],
+   [
+    "entire",
+    24.0,
+    24.4
+   ],
+   [
+    "story",
+    24.4,
+    24.8
+   ],
+   [
+    "as",
+    24.8,
+    25.04
+   ],
+   [
+    "a",
+    25.04,
+    25.12
+   ],
+   [
+    "folk",
+    25.12,
+    25.36
+   ],
+   [
+    "myth!",
+    25.36,
+    25.64
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   21,
+   31,
+   45,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_Biddenden_Maids_-_geograph.org.uk_-_220926.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Dave Skinner",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Biddenden_Maids_-_geograph.org.uk_-_220926.jpg",
+   "desc": "The Biddenden Maids - geograph.org.uk - 220926 — The Biddenden Maids. Plaques attached to the sign read: Eliza and Mary Chulkhurst the famous twins known as the Biddenden Maids were born in the year 1100 joined together at hips and shoulders. They lived togeth"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/BiddendenMaidsCake2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 631,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:BiddendenMaidsCake2.jpg",
+   "desc": "BiddendenMaidsCake2 — "
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 34,
+   "unit": "years",
+   "label": "lived for"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1775
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1282404",
+ "pron_wer": 0.059,
+ "angle": 0,
+ "source": {
+  "title": "Biddenden Maids",
+  "url": "https://en.wikipedia.org/wiki/Biddenden_Maids",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T07:06:38Z",
+ "trimmed": true
+}
