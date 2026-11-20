@@ -1,0 +1,416 @@
+{
+ "id": "en-49b7175c",
+ "lang": "en",
+ "title": "DNA Engineering",
+ "cat": "biology",
+ "emoji": "🧬",
+ "sentences": [
+  "DNA used as a non-biological engineering material.",
+  "It serves technological uses rather than carrying genes.",
+  "Researchers build nanotubes, polyhedra, and 2D crystal lattices.",
+  "They also make molecular machines and DNA computers.",
+  "Nadrian Seeman laid the foundation in the early 1980s.",
+  "Strict base pairing rules bind complementary strands together.",
+  "This helps solve basic problems in structural biology."
+ ],
+ "tim": {
+  "w": [
+   [
+    "DNA",
+    0.35,
+    0.35
+   ],
+   [
+    "used",
+    0.35,
+    0.81
+   ],
+   [
+    "as",
+    0.81,
+    1.13
+   ],
+   [
+    "a",
+    1.13,
+    1.25
+   ],
+   [
+    "non-biological",
+    1.25,
+    2.21
+   ],
+   [
+    "engineering",
+    2.21,
+    2.67
+   ],
+   [
+    "material.",
+    2.67,
+    2.85
+   ],
+   [
+    "It",
+    3.87,
+    3.87
+   ],
+   [
+    "serves",
+    3.91,
+    4.15
+   ],
+   [
+    "technological",
+    4.15,
+    4.69
+   ],
+   [
+    "uses",
+    4.69,
+    5.11
+   ],
+   [
+    "rather",
+    5.11,
+    5.51
+   ],
+   [
+    "than",
+    5.51,
+    5.83
+   ],
+   [
+    "carrying",
+    5.83,
+    6.15
+   ],
+   [
+    "genes.",
+    6.15,
+    6.49
+   ],
+   [
+    "Researchers",
+    7.25,
+    7.49
+   ],
+   [
+    "build",
+    7.49,
+    7.85
+   ],
+   [
+    "nanotubes,",
+    7.85,
+    8.19
+   ],
+   [
+    "polyhedra,",
+    8.73,
+    9.43
+   ],
+   [
+    "and",
+    9.67,
+    9.79
+   ],
+   [
+    "2D",
+    9.79,
+    10.21
+   ],
+   [
+    "crystal",
+    10.21,
+    10.51
+   ],
+   [
+    "lattices.",
+    10.51,
+    10.89
+   ],
+   [
+    "They",
+    11.51,
+    11.59
+   ],
+   [
+    "also",
+    11.59,
+    11.83
+   ],
+   [
+    "make",
+    11.83,
+    12.03
+   ],
+   [
+    "molecular",
+    12.03,
+    12.43
+   ],
+   [
+    "machines",
+    12.43,
+    12.91
+   ],
+   [
+    "and",
+    12.91,
+    13.23
+   ],
+   [
+    "DNA",
+    13.23,
+    13.59
+   ],
+   [
+    "computers.",
+    13.59,
+    14.19
+   ],
+   [
+    "Nadrian",
+    14.81,
+    15.15
+   ],
+   [
+    "Seeman",
+    15.15,
+    15.51
+   ],
+   [
+    "laid",
+    15.51,
+    15.79
+   ],
+   [
+    "the",
+    15.79,
+    15.95
+   ],
+   [
+    "foundation",
+    16.01,
+    16.37
+   ],
+   [
+    "in",
+    16.43,
+    16.83
+   ],
+   [
+    "the",
+    16.83,
+    16.91
+   ],
+   [
+    "early",
+    16.91,
+    17.15
+   ],
+   [
+    "1980s.",
+    17.15,
+    17.69
+   ],
+   [
+    "Strict",
+    18.55,
+    18.75
+   ],
+   [
+    "base",
+    18.75,
+    19.01
+   ],
+   [
+    "pairing",
+    19.17,
+    19.27
+   ],
+   [
+    "rules",
+    19.27,
+    19.59
+   ],
+   [
+    "bind",
+    19.59,
+    20.11
+   ],
+   [
+    "complementary",
+    20.11,
+    20.63
+   ],
+   [
+    "strands",
+    20.63,
+    21.11
+   ],
+   [
+    "together.",
+    21.11,
+    21.21
+   ],
+   [
+    "This",
+    22.13,
+    22.23
+   ],
+   [
+    "helps",
+    22.23,
+    22.41
+   ],
+   [
+    "solve",
+    22.41,
+    22.69
+   ],
+   [
+    "basic",
+    22.69,
+    23.03
+   ],
+   [
+    "problems",
+    23.03,
+    23.49
+   ],
+   [
+    "in",
+    23.49,
+    23.75
+   ],
+   [
+    "structural",
+    23.75,
+    24.07
+   ],
+   [
+    "biology.",
+    24.07,
+    24.51
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   40,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/DNA_nanostructures.png/960px-DNA_nanostructures.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 396,
+   "license": "CC BY 2.5",
+   "artist": "(Images were kindly provided by Thomas H. LaBean and Hao Yan.)",
+   "page": "https://commons.wikimedia.org/wiki/File:DNA_nanostructures.png",
+   "desc": "DNA nanostructures — Self-Assembled DNA Nanostructures. (A) DNA “tile” structure consisting of four branched junctions oriented at 90° intervals. These tiles serve as the primary “building block” for the assembly of the DNA nanogrids shown i"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/DNA_tetrahedron_white.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 3.0",
+   "artist": "Antony-22",
+   "page": "https://commons.wikimedia.org/wiki/File:DNA_tetrahedron_white.png",
+   "desc": "DNA tetrahedron white — A model of a DNA tetrahedron. Each edge of the tetrahedron is a 20bp DNA duplex, and each vertex is a three-arm junction. In this model each basepair is represented by five pseudo-atoms, representing the two sugars, the "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/DX_DNA_array.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 693,
+   "license": "CC BY-SA 3.0",
+   "artist": "Antony-22",
+   "page": "https://commons.wikimedia.org/wiki/File:DX_DNA_array.png",
+   "desc": "DX DNA array — Atomic force micrograph of a two-dimensional DX DNA array on a mica surface, of the type used in DNA nanotechnology. Individual DX molecules are visible within the array. The field width is 150 nm."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Nadrian_Seeman.jpg/960px-Nadrian_Seeman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1047,
+   "license": "CC BY-SA 3.0",
+   "artist": "Antony-22",
+   "page": "https://commons.wikimedia.org/wiki/File:Nadrian_Seeman.jpg",
+   "desc": "Nadrian Seeman — Nadrian Seeman, the founder of the field of DNA nanotechnology, in 2002."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/DNA_base-pair_diagram.jpg/960px-DNA_base-pair_diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "Darryl Leja for the National Human Genome Research Institute",
+   "page": "https://commons.wikimedia.org/wiki/File:DNA_base-pair_diagram.jpg",
+   "desc": "DNA base-pair diagram — A diagram showing the structure of DNA base-pairs"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/BmrR-DNA-TPP_side_view_1R8E.jpg/960px-BmrR-DNA-TPP_side_view_1R8E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 450,
+   "license": "CC BY-SA 3.0",
+   "artist": "Dcrjsr",
+   "page": "https://commons.wikimedia.org/wiki/File:BmrR-DNA-TPP_side_view_1R8E.jpg",
+   "desc": "BmrR-DNA-TPP side view 1R8E — Bacterial multi-drug resistance system: complex of dimeric transcription-activator protein BmrR with bound TPP, untwisting the DNA to position the two promoter sites (top) for transcription. Coordinates from PDB file 1R8"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1980
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q602847",
+ "pron_wer": 0.035,
+ "angle": 0,
+ "source": {
+  "title": "DNA nanotechnology",
+  "url": "https://en.wikipedia.org/wiki/DNA_nanotechnology",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T23:25:43Z",
+ "trimmed": true
+}
