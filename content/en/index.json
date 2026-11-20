@@ -275,7 +275,8 @@
   "AMX-30E",
   "Bicentennial Capitol Mall State Park",
   "nasa:1351363",
-  "nasa:1487818"
+  "nasa:1487818",
+  "Brooklyn Dodgers 1, Boston Braves 1 (26 innings)"
  ],
  "rejected": [
   "Chameleon",
@@ -342,7 +343,8 @@
   "nasa:1279590",
   "Action of 1 January 1800",
   "nasa:1282389",
-  "The All-Story Magazine"
+  "The All-Story Magazine",
+  "Cyclone Chapala"
  ],
  "angles": {
   "Blue whale": [
@@ -1246,6 +1248,9 @@
   ],
   "nasa:1487818": [
    "Perseverance Breaks Mars Record: Perseverance just beat Opportunity’s total Mars driving distance."
+  ],
+  "Brooklyn Dodgers 1, Boston Braves 1 (26 innings)": [
+   "Baseball's Unbreakable Record: One baseball game lasted 26 innings."
   ]
  },
  "exhausted": []
