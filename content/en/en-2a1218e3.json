@@ -1,0 +1,285 @@
+{
+ "id": "en-2a1218e3",
+ "lang": "en",
+ "title": "Curiosity's Martian Bands",
+ "cat": "space",
+ "emoji": "🪐",
+ "sentences": [
+  "Curiosity spotted subtle bands on Mars!",
+  "The rover passed its 5000th Martian day.",
+  "It is driving up a valley called Valle Grande.",
+  "Scientists are analyzing rocks with lasers and cameras.",
+  "The team also films dust devils from the surface."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Curiosity",
+    0.35,
+    0.41
+   ],
+   [
+    "spotted",
+    0.41,
+    0.85
+   ],
+   [
+    "subtle",
+    0.85,
+    1.31
+   ],
+   [
+    "bands",
+    1.31,
+    1.79
+   ],
+   [
+    "on",
+    1.79,
+    2.07
+   ],
+   [
+    "Mars!",
+    2.07,
+    2.41
+   ],
+   [
+    "The",
+    3.09,
+    3.11
+   ],
+   [
+    "rover",
+    3.11,
+    3.33
+   ],
+   [
+    "passed",
+    3.33,
+    3.79
+   ],
+   [
+    "its",
+    3.79,
+    3.97
+   ],
+   [
+    "5000th",
+    4.13,
+    5.15
+   ],
+   [
+    "Martian",
+    5.15,
+    5.53
+   ],
+   [
+    "day.",
+    5.53,
+    5.83
+   ],
+   [
+    "It",
+    6.37,
+    6.41
+   ],
+   [
+    "is",
+    6.41,
+    6.51
+   ],
+   [
+    "driving",
+    6.51,
+    6.79
+   ],
+   [
+    "up",
+    6.79,
+    7.03
+   ],
+   [
+    "a",
+    7.03,
+    7.11
+   ],
+   [
+    "valley",
+    7.11,
+    7.45
+   ],
+   [
+    "called",
+    7.45,
+    7.73
+   ],
+   [
+    "Valle",
+    7.93,
+    8.21
+   ],
+   [
+    "Grande.",
+    8.21,
+    8.69
+   ],
+   [
+    "Scientists",
+    9.49,
+    9.67
+   ],
+   [
+    "are",
+    9.67,
+    10.05
+   ],
+   [
+    "analyzing",
+    10.05,
+    10.47
+   ],
+   [
+    "rocks",
+    10.47,
+    10.93
+   ],
+   [
+    "with",
+    10.93,
+    11.23
+   ],
+   [
+    "lasers",
+    11.37,
+    11.67
+   ],
+   [
+    "and",
+    11.67,
+    11.99
+   ],
+   [
+    "cameras.",
+    11.99,
+    12.61
+   ],
+   [
+    "The",
+    13.07,
+    13.13
+   ],
+   [
+    "team",
+    13.13,
+    13.29
+   ],
+   [
+    "also",
+    13.29,
+    13.63
+   ],
+   [
+    "films",
+    13.63,
+    13.97
+   ],
+   [
+    "dust",
+    13.97,
+    14.33
+   ],
+   [
+    "devils",
+    14.33,
+    14.77
+   ],
+   [
+    "from",
+    14.81,
+    14.91
+   ],
+   [
+    "the",
+    14.91,
+    15.03
+   ],
+   [
+    "surface.",
+    15.03,
+    15.27
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   22,
+   30
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/PIA16150_fig1-Mars_Curiosity_Rover-Glenelg_Terrain.jpg/960px-PIA16150_fig1-Mars_Curiosity_Rover-Glenelg_Terrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 439,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA16150_fig1-Mars_Curiosity_Rover-Glenelg_Terrain.jpg",
+   "desc": "PIA16150 fig1-Mars Curiosity Rover-Glenelg Terrain — 09.19.2012 Dark Bands Run Through Light Layers (Annotated) This mosaic from the Mast Camera on NASA's Curiosity rover shows a close-up view looking toward the \"Glenelg\" area, where three different terrain ty"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/PIA16075-Curiosity_Rover_ChemCam-20120819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 713,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/LANL/CNES/IRAP",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA16075-Curiosity_Rover_ChemCam-20120819.jpg",
+   "desc": "PIA16075-Curiosity Rover ChemCam-20120819 — 08.19.2012 First Laser-Zapped Rock on Mars This composite image, with magnified insets, depicts the first laser test by the Chemistry and Camera, or ChemCam, instrument aboard NASA’s Curiosity Mars rover. The composi"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 5000,
+   "unit": "sols",
+   "label": "Martian day"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
+ "pron_wer": 0.026,
+ "angle": 0,
+ "source": {
+  "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T06:53:15Z",
+ "trimmed": true
+}

@@ -259,7 +259,8 @@
   "nasa:1301623",
   "Theodore Komnenos Doukas",
   "Daspletosaurus",
-  "Cygnus X-1"
+  "Cygnus X-1",
+  "Caversham, New Zealand"
  ],
  "rejected": [
   "Chameleon",
@@ -1178,6 +1179,9 @@
   ],
   "Cygnus X-1": [
    "Cygnus X-1: The First Black Hole: Cygnus X-1 is history's first accepted black hole."
+  ],
+  "Caversham, New Zealand": [
+   "Historic New Zealand Suburb: An 1860s gold rush made this suburb grow rapidly!"
   ]
  },
  "exhausted": []
