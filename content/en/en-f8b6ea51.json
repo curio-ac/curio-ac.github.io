@@ -1,0 +1,417 @@
+{
+ "id": "en-f8b6ea51",
+ "lang": "en",
+ "title": "The Truth About Equinoxes",
+ "cat": "space",
+ "emoji": "☀️",
+ "sentences": [
+  "Equinoxes don't actually give you equal daylight.",
+  "The word equinox comes from Latin for equal night.",
+  "It happens twice a year when the Sun crosses Earth’s equator.",
+  "At this moment, the Sun shines equally on both hemispheres.",
+  "Atmospheric refraction adds extra minutes of light, preventing a perfect 12-hour split.",
+  "The date of equal day and night actually depends on your latitude."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Equinoxes",
+    0.35,
+    0.71
+   ],
+   [
+    "don't",
+    0.71,
+    1.25
+   ],
+   [
+    "actually",
+    1.31,
+    1.59
+   ],
+   [
+    "give",
+    1.59,
+    1.85
+   ],
+   [
+    "you",
+    1.85,
+    1.99
+   ],
+   [
+    "equal",
+    1.99,
+    2.47
+   ],
+   [
+    "daylight.",
+    2.47,
+    3.01
+   ],
+   [
+    "The",
+    3.87,
+    3.87
+   ],
+   [
+    "word",
+    3.87,
+    4.03
+   ],
+   [
+    "equinox",
+    4.03,
+    4.59
+   ],
+   [
+    "comes",
+    4.59,
+    4.75
+   ],
+   [
+    "from",
+    4.75,
+    4.95
+   ],
+   [
+    "Latin",
+    4.95,
+    5.23
+   ],
+   [
+    "for",
+    5.23,
+    5.55
+   ],
+   [
+    "equal",
+    5.81,
+    5.91
+   ],
+   [
+    "night.",
+    5.91,
+    6.25
+   ],
+   [
+    "It",
+    6.85,
+    6.85
+   ],
+   [
+    "happens",
+    6.85,
+    7.07
+   ],
+   [
+    "twice",
+    7.07,
+    7.29
+   ],
+   [
+    "a",
+    7.29,
+    7.47
+   ],
+   [
+    "year",
+    7.47,
+    7.63
+   ],
+   [
+    "when",
+    7.63,
+    7.75
+   ],
+   [
+    "the",
+    7.75,
+    7.85
+   ],
+   [
+    "Sun",
+    7.85,
+    8.03
+   ],
+   [
+    "crosses",
+    8.03,
+    8.39
+   ],
+   [
+    "Earth’s",
+    8.39,
+    8.85
+   ],
+   [
+    "equator.",
+    8.85,
+    9.25
+   ],
+   [
+    "At",
+    9.85,
+    9.95
+   ],
+   [
+    "this",
+    9.95,
+    10.07
+   ],
+   [
+    "moment,",
+    10.07,
+    10.33
+   ],
+   [
+    "the",
+    10.43,
+    10.43
+   ],
+   [
+    "Sun",
+    10.43,
+    10.63
+   ],
+   [
+    "shines",
+    10.63,
+    10.85
+   ],
+   [
+    "equally",
+    10.85,
+    11.25
+   ],
+   [
+    "on",
+    11.25,
+    11.53
+   ],
+   [
+    "both",
+    11.53,
+    11.73
+   ],
+   [
+    "hemispheres.",
+    11.73,
+    12.09
+   ],
+   [
+    "Atmospheric",
+    13.15,
+    13.55
+   ],
+   [
+    "refraction",
+    13.55,
+    14.13
+   ],
+   [
+    "adds",
+    14.13,
+    14.45
+   ],
+   [
+    "extra",
+    14.69,
+    14.79
+   ],
+   [
+    "minutes",
+    14.79,
+    14.95
+   ],
+   [
+    "of",
+    14.95,
+    15.13
+   ],
+   [
+    "light,",
+    15.13,
+    15.35
+   ],
+   [
+    "preventing",
+    15.65,
+    15.83
+   ],
+   [
+    "a",
+    15.83,
+    16.07
+   ],
+   [
+    "perfect",
+    16.07,
+    16.35
+   ],
+   [
+    "12-hour",
+    16.35,
+    16.83
+   ],
+   [
+    "split.",
+    16.83,
+    16.99
+   ],
+   [
+    "The",
+    17.65,
+    17.75
+   ],
+   [
+    "date",
+    17.75,
+    17.91
+   ],
+   [
+    "of",
+    17.91,
+    18.05
+   ],
+   [
+    "equal",
+    18.27,
+    18.37
+   ],
+   [
+    "day",
+    18.37,
+    18.63
+   ],
+   [
+    "and",
+    18.63,
+    18.83
+   ],
+   [
+    "night",
+    18.83,
+    19.07
+   ],
+   [
+    "actually",
+    19.07,
+    19.55
+   ],
+   [
+    "depends",
+    19.55,
+    19.85
+   ],
+   [
+    "on",
+    19.85,
+    20.07
+   ],
+   [
+    "your",
+    20.07,
+    20.19
+   ],
+   [
+    "latitude.",
+    20.19,
+    20.51
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   27,
+   37,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Earth-lighting-equinox_af.png/960px-Earth-lighting-equinox_af.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 473,
+   "license": "CC BY-SA 3.0",
+   "artist": "Przemyslaw \"Blueshade\" Idzkiewicz",
+   "page": "https://commons.wikimedia.org/wiki/File:Earth-lighting-equinox_af.png",
+   "desc": "Earth-lighting-equinox af — Dag-en-nag-ewening"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/ChangingSeasons_NH_01.png/960px-ChangingSeasons_NH_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 467,
+   "license": "Public domain",
+   "artist": "NOAA Office of Education",
+   "page": "https://commons.wikimedia.org/wiki/File:ChangingSeasons_NH_01.png",
+   "desc": "ChangingSeasons NH 01 — The astronomical and meteorological periods of the system of four seasons across the year at the Northern Hemisphere, displayed as segments of Earth's orbit. Astronomically a season encompasses the time between an equino"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sun_Refraction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 411,
+   "license": "CC BY-SA 3.0",
+   "artist": "AdmiralHood",
+   "page": "https://commons.wikimedia.org/wiki/File:Sun_Refraction.jpg",
+   "desc": "Sun Refraction — Взаимное расположение истинного и видимого солнце на восходе и закате"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  0,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "times",
+   "label": "every year"
+  },
+  {
+   "type": "focus",
+   "target": "Earth's equator",
+   "box": [
+    496,
+    241,
+    508,
+    711
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Embracing the Equinox",
+  "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T21:54:10Z",
+ "trimmed": true
+}

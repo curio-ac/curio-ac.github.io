@@ -302,7 +302,8 @@
   "1973 FA Charity Shield",
   "nasa:1500914",
   "Bone Wars",
-  "nasa:1441735"
+  "nasa:1441735",
+  "Sophie Blanchard"
  ],
  "rejected": [
   "Chameleon",
@@ -1367,6 +1368,9 @@
   ],
   "nasa:1441735": [
    "Fantastic Minerals on Mars: Curiosity found disc-shaped rocks."
+  ],
+  "Sophie Blanchard": [
+   "The First Female Aeronaut: She was history's first professional female balloonist."
   ]
  },
  "exhausted": []
