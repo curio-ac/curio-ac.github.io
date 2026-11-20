@@ -1,0 +1,436 @@
+{
+ "id": "en-7e037095",
+ "lang": "en",
+ "title": "Taylor Swift's Invisible Dance",
+ "cat": "art",
+ "emoji": "💃",
+ "sentences": [
+  "Taylor Swift once became invisible in her music video.",
+  "This track from her album Reputation is called Delicate.",
+  "She wrote the song with producers Max Martin and Shellback.",
+  "It features unique vocoder vocals and tropical house beats.",
+  "The video shows her dancing barefoot through public places.",
+  "Critics saw her invisibility as a metaphor for hiding from the press.",
+  "She finally reappears after dancing in the pouring rain."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Taylor",
+    0.35,
+    0.35
+   ],
+   [
+    "Swift",
+    0.35,
+    0.65
+   ],
+   [
+    "once",
+    0.65,
+    0.95
+   ],
+   [
+    "became",
+    0.95,
+    1.29
+   ],
+   [
+    "invisible",
+    1.29,
+    1.81
+   ],
+   [
+    "in",
+    1.81,
+    2.15
+   ],
+   [
+    "her",
+    2.15,
+    2.23
+   ],
+   [
+    "music",
+    2.23,
+    2.47
+   ],
+   [
+    "video.",
+    2.47,
+    3.22
+   ],
+   [
+    "This",
+    3.39,
+    3.39
+   ],
+   [
+    "track",
+    3.39,
+    3.59
+   ],
+   [
+    "from",
+    3.59,
+    3.77
+   ],
+   [
+    "her",
+    3.77,
+    3.91
+   ],
+   [
+    "album",
+    3.91,
+    4.15
+   ],
+   [
+    "Reputation",
+    4.15,
+    4.75
+   ],
+   [
+    "is",
+    4.75,
+    5.09
+   ],
+   [
+    "called",
+    5.09,
+    5.31
+   ],
+   [
+    "Delicate.",
+    5.31,
+    5.86
+   ],
+   [
+    "She",
+    6.41,
+    6.41
+   ],
+   [
+    "wrote",
+    6.41,
+    6.55
+   ],
+   [
+    "the",
+    6.55,
+    6.67
+   ],
+   [
+    "song",
+    6.67,
+    6.83
+   ],
+   [
+    "with",
+    6.83,
+    6.97
+   ],
+   [
+    "producers",
+    7.03,
+    7.31
+   ],
+   [
+    "Max",
+    7.31,
+    7.63
+   ],
+   [
+    "Martin",
+    7.63,
+    7.97
+   ],
+   [
+    "and",
+    7.97,
+    8.17
+   ],
+   [
+    "Shellback.",
+    8.17,
+    8.57
+   ],
+   [
+    "It",
+    9.21,
+    9.23
+   ],
+   [
+    "features",
+    9.29,
+    9.45
+   ],
+   [
+    "unique",
+    9.45,
+    9.87
+   ],
+   [
+    "vocoder",
+    9.87,
+    10.39
+   ],
+   [
+    "vocals",
+    10.39,
+    10.69
+   ],
+   [
+    "and",
+    10.71,
+    11.09
+   ],
+   [
+    "tropical",
+    11.09,
+    11.41
+   ],
+   [
+    "house",
+    11.43,
+    11.69
+   ],
+   [
+    "beats.",
+    11.69,
+    11.79
+   ],
+   [
+    "The",
+    12.63,
+    12.69
+   ],
+   [
+    "video",
+    12.69,
+    12.87
+   ],
+   [
+    "shows",
+    12.87,
+    13.13
+   ],
+   [
+    "her",
+    13.13,
+    13.27
+   ],
+   [
+    "dancing",
+    13.27,
+    13.59
+   ],
+   [
+    "barefoot",
+    13.59,
+    14.09
+   ],
+   [
+    "through",
+    14.09,
+    14.29
+   ],
+   [
+    "public",
+    14.29,
+    14.59
+   ],
+   [
+    "places.",
+    14.59,
+    15.13
+   ],
+   [
+    "Critics",
+    15.73,
+    15.93
+   ],
+   [
+    "saw",
+    15.93,
+    16.09
+   ],
+   [
+    "her",
+    16.09,
+    16.25
+   ],
+   [
+    "invisibility",
+    16.25,
+    16.81
+   ],
+   [
+    "as",
+    16.81,
+    17.03
+   ],
+   [
+    "a",
+    17.03,
+    17.11
+   ],
+   [
+    "metaphor",
+    17.11,
+    17.33
+   ],
+   [
+    "for",
+    17.35,
+    17.57
+   ],
+   [
+    "hiding",
+    17.57,
+    17.83
+   ],
+   [
+    "from",
+    17.83,
+    18.03
+   ],
+   [
+    "the",
+    18.03,
+    18.13
+   ],
+   [
+    "press.",
+    18.13,
+    18.53
+   ],
+   [
+    "She",
+    18.95,
+    19.01
+   ],
+   [
+    "finally",
+    19.11,
+    19.29
+   ],
+   [
+    "reappears",
+    19.29,
+    19.81
+   ],
+   [
+    "after",
+    19.81,
+    20.13
+   ],
+   [
+    "dancing",
+    20.17,
+    20.47
+   ],
+   [
+    "in",
+    20.49,
+    20.71
+   ],
+   [
+    "the",
+    20.71,
+    20.79
+   ],
+   [
+    "pouring",
+    20.85,
+    20.97
+   ],
+   [
+    "rain.",
+    20.97,
+    21.21
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   28,
+   37,
+   46,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eras_Tour_-_Arlington%2C_TX_-_Reputation_act_1_%28cropped%29.jpg/960px-Eras_Tour_-_Arlington%2C_TX_-_Reputation_act_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1027,
+   "license": "CC BY-SA 2.0",
+   "artist": "Ronald Woan from Redmond, WA, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Eras_Tour_-_Arlington,_TX_-_Reputation_act_1_(cropped).jpg",
+   "desc": "Eras Tour - Arlington, TX - Reputation act 1 (cropped) — Taylor Swift Eras Tour - Arlington TX American singer-songwriter Taylor Swift on the Eras Tour in Arlington, Texas, April 2, 2023"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Studio_BEA_5_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "Les Hutchins from Berkeley, California",
+   "page": "https://commons.wikimedia.org/wiki/File:Studio_BEA_5_(3).jpg",
+   "desc": "Studio BEA 5 (3) — 8 September 2006 A few racks of analog gear in BEA 5 at Sonology in the Royal Conservatory of the Netherlands in The Hague. At the far left are AM modules, ring modulators and some unusual custom stuff. Then, an oscillos"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2017
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2018
+  }
+ ],
+ "geo": null,
+ "qid": "Q50413227",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Delicate (Taylor Swift song)",
+  "url": "https://en.wikipedia.org/wiki/Delicate_%28Taylor_Swift_song%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T14:00:08Z",
+ "trimmed": true
+}
