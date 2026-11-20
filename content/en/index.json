@@ -298,7 +298,8 @@
   "nasa:1510412",
   "nasa:1280207",
   "City of Angels (Thirty Seconds to Mars song)",
-  "nasa:1285115"
+  "nasa:1285115",
+  "1973 FA Charity Shield"
  ],
  "rejected": [
   "Chameleon",
@@ -1349,6 +1350,9 @@
   ],
   "nasa:1285115": [
    "Hollywood's Favorite Alien Landscape: These rocks look like they point toward stars."
+  ],
+  "1973 FA Charity Shield": [
+   "Burnley's 1973 Charity Shield Win: Top teams chose not to compete in 1973!"
   ]
  },
  "exhausted": []

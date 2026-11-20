@@ -1,0 +1,350 @@
+{
+ "id": "en-e0fdacb1",
+ "lang": "en",
+ "title": "El Niño Then and Now",
+ "cat": "geography",
+ "emoji": "🌊",
+ "sentences": [
+  "Spot higher Pacific sea levels.",
+  "El Niño brings warmer water every 2 to 7 years.",
+  "Weakening trade winds push warm water eastward.",
+  "Satellites track these changes by measuring sea surface height.",
+  "The 2026 event closely resembles October 1997.",
+  "Both show high, warm water extending to South America."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Spot",
+    0.28,
+    0.28
+   ],
+   [
+    "higher",
+    0.28,
+    0.74
+   ],
+   [
+    "Pacific",
+    0.74,
+    1.2
+   ],
+   [
+    "sea",
+    1.2,
+    1.52
+   ],
+   [
+    "levels.",
+    1.52,
+    1.8
+   ],
+   [
+    "El",
+    2.54,
+    2.66
+   ],
+   [
+    "Niño",
+    2.66,
+    3.08
+   ],
+   [
+    "brings",
+    3.22,
+    3.38
+   ],
+   [
+    "warmer",
+    3.38,
+    3.72
+   ],
+   [
+    "water",
+    3.72,
+    4.1
+   ],
+   [
+    "every",
+    4.1,
+    4.5
+   ],
+   [
+    "2",
+    4.5,
+    4.84
+   ],
+   [
+    "to",
+    4.84,
+    5.0
+   ],
+   [
+    "7",
+    5.0,
+    5.28
+   ],
+   [
+    "years.",
+    5.28,
+    5.52
+   ],
+   [
+    "Weakening",
+    6.36,
+    6.66
+   ],
+   [
+    "trade",
+    6.66,
+    6.94
+   ],
+   [
+    "winds",
+    6.94,
+    7.24
+   ],
+   [
+    "push",
+    7.24,
+    7.62
+   ],
+   [
+    "warm",
+    7.62,
+    7.94
+   ],
+   [
+    "water",
+    7.94,
+    8.28
+   ],
+   [
+    "eastward.",
+    8.28,
+    8.8
+   ],
+   [
+    "Satellites",
+    9.62,
+    10.08
+   ],
+   [
+    "track",
+    10.14,
+    10.34
+   ],
+   [
+    "these",
+    10.34,
+    10.56
+   ],
+   [
+    "changes",
+    10.56,
+    10.92
+   ],
+   [
+    "by",
+    10.92,
+    11.14
+   ],
+   [
+    "measuring",
+    11.14,
+    11.54
+   ],
+   [
+    "sea",
+    11.54,
+    11.86
+   ],
+   [
+    "surface",
+    11.86,
+    12.16
+   ],
+   [
+    "height.",
+    12.16,
+    12.5
+   ],
+   [
+    "The",
+    13.28,
+    13.34
+   ],
+   [
+    "2026",
+    13.34,
+    13.94
+   ],
+   [
+    "event",
+    13.94,
+    14.44
+   ],
+   [
+    "closely",
+    14.68,
+    14.88
+   ],
+   [
+    "resembles",
+    14.88,
+    15.38
+   ],
+   [
+    "October",
+    15.38,
+    15.92
+   ],
+   [
+    "1997.",
+    15.92,
+    16.94
+   ],
+   [
+    "Both",
+    17.7,
+    17.84
+   ],
+   [
+    "show",
+    17.84,
+    18.16
+   ],
+   [
+    "high,",
+    18.16,
+    18.74
+   ],
+   [
+    "warm",
+    18.82,
+    18.96
+   ],
+   [
+    "water",
+    18.96,
+    19.3
+   ],
+   [
+    "extending",
+    19.3,
+    19.76
+   ],
+   [
+    "to",
+    19.76,
+    20.06
+   ],
+   [
+    "South",
+    20.06,
+    20.24
+   ],
+   [
+    "America.",
+    20.24,
+    20.58
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   15,
+   22,
+   31,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/El_Ni%C3%B1o_Then_and_Now_%281500914_-_cq5dam_web_1280_1280%29.jpg/960px-El_Ni%C3%B1o_Then_and_Now_%281500914_-_cq5dam_web_1280_1280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 545,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Ni%C3%B1o_Then_and_Now_(1500914_-_cq5dam_web_1280_1280).jpg",
+   "desc": "El Niño Then and Now (1500914 - cq5dam web 1280 1280) — Sea levels are higher than normal across the central and eastern equatorial Pacific in October 2026 (right), a hallmark of El Niño. The pattern closely resembles October 1997 (left), during another one of"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Enso_elnino.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 489,
+   "license": "Public domain",
+   "artist": "NOAA/PMEL/TAO",
+   "page": "https://commons.wikimedia.org/wiki/File:Enso_elnino.png",
+   "desc": "Enso elnino — ENSO/El Niño state. Sea surface is warm in central and eastern Pacific. Less cold water is pulled up along west coast of South America. Hot air rises in central Pacific, travels east and west before cooling and descendin"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Movement_of_surface_waters_during_El_Nino.jpg/960px-Movement_of_surface_waters_during_El_Nino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 369,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Movement_of_surface_waters_during_El_Nino.jpg",
+   "desc": "Movement of surface waters during El Nino — For reasons not completely understood, in some years the anti-cyclone is less powerful than normal. The weaker winds it produces fail to draw cold waters up to the ocean's surface, thus opening the way for warm, nutr"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jason-3-in-orbit.jpg/960px-Jason-3-in-orbit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Jason-3-in-orbit.jpg",
+   "desc": "Jason-3-in-orbit — Artist's concept of the U.S./European Jason-3 spacecraft over the California coast. Jason-3 is the fourth mission in U.S.-European series of satellite missions that measure the height of the ocean surface. Scheduled to l"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  0,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "years",
+   "label": "El Niño cycle"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+ "pron_wer": 0.064,
+ "angle": 0,
+ "source": {
+  "title": "El Niño Then and Now",
+  "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T20:20:04Z",
+ "trimmed": true
+}
