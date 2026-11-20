@@ -1,0 +1,408 @@
+{
+ "id": "en-c2f6b478",
+ "lang": "en",
+ "title": "Cygnus X-1: The First Black Hole",
+ "cat": "space",
+ "emoji": "🕳️",
+ "sentences": [
+  "Cygnus X-1 is history's first accepted black hole.",
+  "Discovered in 1964, it remains a top X-ray source.",
+  "This system sits 7,000 light-years away from Earth.",
+  "A massive blue supergiant star orbits the black hole.",
+  "Stellar wind feeds an accretion disk heating to millions of degrees.",
+  "This process creates powerful relativistic jets shooting into space."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Cygnus",
+    0.22,
+    0.52
+   ],
+   [
+    "X-1",
+    0.52,
+    1.1
+   ],
+   [
+    "is",
+    1.1,
+    1.4
+   ],
+   [
+    "history's",
+    1.4,
+    2.08
+   ],
+   [
+    "first",
+    2.16,
+    2.26
+   ],
+   [
+    "accepted",
+    2.26,
+    2.96
+   ],
+   [
+    "black",
+    2.96,
+    3.24
+   ],
+   [
+    "hole.",
+    3.24,
+    3.62
+   ],
+   [
+    "Discovered",
+    4.08,
+    4.58
+   ],
+   [
+    "in",
+    4.58,
+    4.68
+   ],
+   [
+    "1964,",
+    4.68,
+    5.8
+   ],
+   [
+    "it",
+    6.2,
+    6.2
+   ],
+   [
+    "remains",
+    6.2,
+    6.5
+   ],
+   [
+    "a",
+    6.5,
+    6.82
+   ],
+   [
+    "top",
+    6.82,
+    7.16
+   ],
+   [
+    "X-ray",
+    7.16,
+    7.66
+   ],
+   [
+    "source.",
+    7.66,
+    7.88
+   ],
+   [
+    "This",
+    8.58,
+    8.7
+   ],
+   [
+    "system",
+    8.7,
+    9.0
+   ],
+   [
+    "sits",
+    9.0,
+    9.26
+   ],
+   [
+    "7,000",
+    9.26,
+    10.4
+   ],
+   [
+    "light-years",
+    10.4,
+    10.84
+   ],
+   [
+    "away",
+    10.84,
+    11.08
+   ],
+   [
+    "from",
+    11.08,
+    11.28
+   ],
+   [
+    "Earth.",
+    11.28,
+    11.48
+   ],
+   [
+    "A",
+    12.08,
+    12.18
+   ],
+   [
+    "massive",
+    12.18,
+    12.58
+   ],
+   [
+    "blue",
+    12.58,
+    13.04
+   ],
+   [
+    "supergiant",
+    13.04,
+    13.82
+   ],
+   [
+    "star",
+    13.82,
+    14.12
+   ],
+   [
+    "orbits",
+    14.12,
+    14.6
+   ],
+   [
+    "the",
+    14.6,
+    14.82
+   ],
+   [
+    "black",
+    14.84,
+    15.02
+   ],
+   [
+    "hole.",
+    15.02,
+    15.12
+   ],
+   [
+    "Stellar",
+    15.96,
+    16.22
+   ],
+   [
+    "wind",
+    16.22,
+    16.48
+   ],
+   [
+    "feeds",
+    16.48,
+    16.86
+   ],
+   [
+    "an",
+    16.86,
+    17.08
+   ],
+   [
+    "accretion",
+    17.08,
+    17.58
+   ],
+   [
+    "disk",
+    17.58,
+    17.84
+   ],
+   [
+    "heating",
+    17.84,
+    18.28
+   ],
+   [
+    "to",
+    18.28,
+    18.52
+   ],
+   [
+    "millions",
+    18.52,
+    18.98
+   ],
+   [
+    "of",
+    18.98,
+    19.3
+   ],
+   [
+    "degrees.",
+    19.3,
+    19.62
+   ],
+   [
+    "This",
+    20.34,
+    20.44
+   ],
+   [
+    "process",
+    20.44,
+    20.78
+   ],
+   [
+    "creates",
+    20.78,
+    21.22
+   ],
+   [
+    "powerful",
+    21.22,
+    21.82
+   ],
+   [
+    "relativistic",
+    21.86,
+    22.62
+   ],
+   [
+    "jets",
+    22.62,
+    22.98
+   ],
+   [
+    "shooting",
+    22.98,
+    23.52
+   ],
+   [
+    "into",
+    23.52,
+    23.76
+   ],
+   [
+    "space.",
+    23.76,
+    24.26
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   34,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2259_Black_Hole_1280_English.jpg/960px-2259_Black_Hole_1280_English.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:2259_Black_Hole_1280_English.jpg",
+   "desc": "2259 Black Hole 1280 English — Cygnus X-1 Presents: It’s Dinner Time and You’re The Meal! Lurking in our galaxy, approximately 6,000 light-years from Earth, is a monster named CygnusX-1. This black hole, which has about 14.8 times the mass of our Sun,"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chandra_image_of_Cygnus_X-1.jpg/960px-Chandra_image_of_Cygnus_X-1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA's Chandra X-ray Observatory; Credits: NASA/CXC",
+   "page": "https://commons.wikimedia.org/wiki/File:Chandra_image_of_Cygnus_X-1.jpg",
+   "desc": "Chandra image of Cygnus X-1 — Since its discovery in 1964, Cygnus X-1 has been one of the most intensively studied cosmic X-ray sources. About a decade after its discovery, Cygnus X-1 secured a place in the history of astronomy when a combination of "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Cygnus_X-1.png/960px-Cygnus_X-1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 450,
+   "license": "Public domain",
+   "artist": "ESA, Hubble",
+   "page": "https://commons.wikimedia.org/wiki/File:Cygnus_X-1.png",
+   "desc": "Cygnus X-1 — An artists illustration of material being gravitationally sucked off a blue supergiant variable star designated HDE 226868 onto a black hole Cygnus X-1"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Illustration_of_a_Stellar-Mass_Black_Hole.jpg/960px-Illustration_of_a_Stellar-Mass_Black_Hole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 533,
+   "license": "Public domain",
+   "artist": "NASA/CXC/M.Weiss",
+   "page": "https://commons.wikimedia.org/wiki/File:Illustration_of_a_Stellar-Mass_Black_Hole.jpg",
+   "desc": "Illustration of a Stellar-Mass Black Hole — This is an artist's representation of GRO J1655-40, a binary star system observed in April 2005 by Chandra. This binary consists of a black hole and a normal star shown in blue. Gas is being pulled away from the star"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tulip_and_Cygnus_X1.png/960px-Tulip_and_Cygnus_X1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 608,
+   "license": "CC0",
+   "artist": "Chuck Ayoub",
+   "page": "https://commons.wikimedia.org/wiki/File:Tulip_and_Cygnus_X1.png",
+   "desc": "Tulip and Cygnus X1 — This is Tulip Nebula and Cygnus X-1. Cygnus X-1 is a well-studied X-ray source and is accepted as coming from a black hole. The picture shows a curved bow shock structure resulting from a black hole accretion disk jet in"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "black hole",
+   "box": [
+    579,
+    523,
+    787,
+    794
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 1964
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "blue supergiant star",
+   "box": [
+    138,
+    0,
+    947,
+    584
+   ]
+  },
+  {
+   "type": "stat",
+   "value": "21.2",
+   "unit": "solar masses",
+   "label": "black hole mass"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q332674",
+ "pron_wer": 0.069,
+ "angle": 0,
+ "source": {
+  "title": "Cygnus X-1",
+  "url": "https://en.wikipedia.org/wiki/Cygnus_X-1",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T06:21:36Z",
+ "trimmed": true
+}
