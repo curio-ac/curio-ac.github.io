@@ -1,0 +1,443 @@
+{
+ "id": "en-ad563086",
+ "lang": "en",
+ "title": "Emperor Penguins' Secret Resilience",
+ "cat": "biology",
+ "emoji": "🐧",
+ "sentences": [
+  "Emperor penguins are surprisingly flexible survivors.",
+  "Scientists track these birds from space by spotting their guano stains on ice.",
+  "Data reveals many colonies have existed for decades longer than we realized.",
+  "The Smyley Island colony even survived a total breeding failure in 2022.",
+  "These birds adapt by moving to icebergs when their usual habitat disappears.",
+  "One bad year doesn't mean the end for these resilient colonies."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Emperor",
+    0.35,
+    0.39
+   ],
+   [
+    "penguins",
+    0.39,
+    0.93
+   ],
+   [
+    "are",
+    0.93,
+    1.11
+   ],
+   [
+    "surprisingly",
+    1.11,
+    1.79
+   ],
+   [
+    "flexible",
+    1.79,
+    2.27
+   ],
+   [
+    "survivors.",
+    2.27,
+    2.93
+   ],
+   [
+    "Scientists",
+    3.37,
+    3.55
+   ],
+   [
+    "track",
+    3.55,
+    3.93
+   ],
+   [
+    "these",
+    3.93,
+    4.15
+   ],
+   [
+    "birds",
+    4.15,
+    4.39
+   ],
+   [
+    "from",
+    4.39,
+    4.65
+   ],
+   [
+    "space",
+    4.65,
+    4.93
+   ],
+   [
+    "by",
+    4.93,
+    5.23
+   ],
+   [
+    "spotting",
+    5.23,
+    5.59
+   ],
+   [
+    "their",
+    5.59,
+    5.69
+   ],
+   [
+    "guano",
+    5.69,
+    5.99
+   ],
+   [
+    "stains",
+    5.99,
+    6.27
+   ],
+   [
+    "on",
+    6.27,
+    6.61
+   ],
+   [
+    "ice.",
+    6.61,
+    7.09
+   ],
+   [
+    "Data",
+    7.63,
+    7.75
+   ],
+   [
+    "reveals",
+    7.75,
+    8.11
+   ],
+   [
+    "many",
+    8.11,
+    8.43
+   ],
+   [
+    "colonies",
+    8.43,
+    8.77
+   ],
+   [
+    "have",
+    8.77,
+    9.01
+   ],
+   [
+    "existed",
+    9.01,
+    9.39
+   ],
+   [
+    "for",
+    9.39,
+    9.61
+   ],
+   [
+    "decades",
+    9.77,
+    9.97
+   ],
+   [
+    "longer",
+    9.97,
+    10.35
+   ],
+   [
+    "than",
+    10.35,
+    10.57
+   ],
+   [
+    "we",
+    10.57,
+    10.69
+   ],
+   [
+    "realized.",
+    10.69,
+    11.03
+   ],
+   [
+    "The",
+    11.67,
+    11.75
+   ],
+   [
+    "Smyley",
+    11.75,
+    12.15
+   ],
+   [
+    "Island",
+    12.15,
+    12.31
+   ],
+   [
+    "colony",
+    12.31,
+    12.75
+   ],
+   [
+    "even",
+    12.75,
+    13.13
+   ],
+   [
+    "survived",
+    13.13,
+    13.47
+   ],
+   [
+    "a",
+    13.47,
+    13.61
+   ],
+   [
+    "total",
+    13.61,
+    13.89
+   ],
+   [
+    "breeding",
+    13.89,
+    14.19
+   ],
+   [
+    "failure",
+    14.19,
+    14.59
+   ],
+   [
+    "in",
+    14.59,
+    14.79
+   ],
+   [
+    "2022.",
+    14.79,
+    15.57
+   ],
+   [
+    "These",
+    16.05,
+    16.11
+   ],
+   [
+    "birds",
+    16.11,
+    16.33
+   ],
+   [
+    "adapt",
+    16.33,
+    16.69
+   ],
+   [
+    "by",
+    16.69,
+    16.95
+   ],
+   [
+    "moving",
+    16.95,
+    17.13
+   ],
+   [
+    "to",
+    17.13,
+    17.29
+   ],
+   [
+    "icebergs",
+    17.29,
+    17.87
+   ],
+   [
+    "when",
+    17.87,
+    17.97
+   ],
+   [
+    "their",
+    17.97,
+    18.09
+   ],
+   [
+    "usual",
+    18.09,
+    18.33
+   ],
+   [
+    "habitat",
+    18.33,
+    18.77
+   ],
+   [
+    "disappears.",
+    18.77,
+    19.37
+   ],
+   [
+    "One",
+    19.97,
+    20.07
+   ],
+   [
+    "bad",
+    20.07,
+    20.27
+   ],
+   [
+    "year",
+    20.27,
+    20.53
+   ],
+   [
+    "doesn't",
+    20.53,
+    20.93
+   ],
+   [
+    "mean",
+    20.93,
+    21.05
+   ],
+   [
+    "the",
+    21.05,
+    21.19
+   ],
+   [
+    "end",
+    21.19,
+    21.43
+   ],
+   [
+    "for",
+    21.43,
+    21.57
+   ],
+   [
+    "these",
+    21.59,
+    21.71
+   ],
+   [
+    "resilient",
+    21.71,
+    22.11
+   ],
+   [
+    "colonies.",
+    22.11,
+    22.61
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   19,
+   31,
+   43,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Emperor_Penguins_%2815885611526%29.jpg/960px-Emperor_Penguins_%2815885611526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 950,
+   "license": "CC BY 2.0",
+   "artist": "Christopher Michel",
+   "page": "https://commons.wikimedia.org/wiki/File:Emperor_Penguins_(15885611526).jpg",
+   "desc": "Emperor Penguins (15885611526) — Emperor Penguins"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Emperor-iceberg_hg.jpg/960px-Emperor-iceberg_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 485,
+   "license": "CC BY 3.0",
+   "artist": "Hannes Grobe/AWI",
+   "page": "https://commons.wikimedia.org/wiki/File:Emperor-iceberg_hg.jpg",
+   "desc": "Emperor-iceberg hg — Emperor Penguin, Atka Bay, Weddell Sea, Antarctica"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Emperor%28Aptenodytes_forsteri%29_chick_with_parent_edit.jpg/960px-Emperor%28Aptenodytes_forsteri%29_chick_with_parent_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 565,
+   "license": "CC BY-SA 4.0",
+   "artist": "Brocken Inaglory",
+   "page": "https://commons.wikimedia.org/wiki/File:Emperor(Aptenodytes_forsteri)_chick_with_parent_edit.jpg",
+   "desc": "Emperor(Aptenodytes forsteri) chick with parent edit — Emperor penguins a parent and a chick at sea ice in Ross Sea, Antarctica with an iceberg at background. The image is a scan of my old print."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": "17",
+   "unit": "years",
+   "label": "earlier identification"
+  },
+  {
+   "type": "timeline",
+   "year": 2022
+  },
+  {
+   "type": "focus",
+   "target": "icebergs",
+   "box": [
+    341,
+    271,
+    431,
+    732
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "A Changing World for Emperor Penguins",
+  "url": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T19:01:22Z",
+ "trimmed": true
+}
