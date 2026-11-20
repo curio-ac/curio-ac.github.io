@@ -1,0 +1,388 @@
+{
+ "id": "en-4bf8611a",
+ "lang": "en",
+ "title": "The Making of Bastion",
+ "cat": "art",
+ "emoji": "🎮",
+ "sentences": [
+  "Seven people built a 2011 video game.",
+  "It is an action role-playing game called Bastion.",
+  "Players control the Kid moving through floating fantasy environments.",
+  "He fights enemies and collects rock shards after an apocalyptic Calamity.",
+  "It features a dynamic voiceover from a narrator.",
+  "The game uses a hand-painted art style.",
+  "The team was split between 2 cities."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Seven",
+    0.26,
+    0.3
+   ],
+   [
+    "people",
+    0.3,
+    0.68
+   ],
+   [
+    "built",
+    0.68,
+    0.94
+   ],
+   [
+    "a",
+    0.94,
+    1.12
+   ],
+   [
+    "2011",
+    1.14,
+    1.68
+   ],
+   [
+    "video",
+    1.68,
+    2.1
+   ],
+   [
+    "game.",
+    2.1,
+    2.96
+   ],
+   [
+    "It",
+    3.02,
+    3.04
+   ],
+   [
+    "is",
+    3.04,
+    3.14
+   ],
+   [
+    "an",
+    3.2,
+    3.3
+   ],
+   [
+    "action",
+    3.3,
+    3.62
+   ],
+   [
+    "role-playing",
+    3.62,
+    4.22
+   ],
+   [
+    "game",
+    4.22,
+    4.5
+   ],
+   [
+    "called",
+    4.5,
+    4.76
+   ],
+   [
+    "Bastion.",
+    4.76,
+    5.28
+   ],
+   [
+    "Players",
+    6.02,
+    6.2
+   ],
+   [
+    "control",
+    6.2,
+    6.68
+   ],
+   [
+    "the",
+    6.68,
+    6.84
+   ],
+   [
+    "Kid",
+    6.92,
+    7.1
+   ],
+   [
+    "moving",
+    7.1,
+    7.54
+   ],
+   [
+    "through",
+    7.54,
+    7.86
+   ],
+   [
+    "floating",
+    7.86,
+    8.2
+   ],
+   [
+    "fantasy",
+    8.2,
+    8.7
+   ],
+   [
+    "environments.",
+    8.7,
+    9.54
+   ],
+   [
+    "He",
+    10.06,
+    10.16
+   ],
+   [
+    "fights",
+    10.16,
+    10.4
+   ],
+   [
+    "enemies",
+    10.4,
+    10.72
+   ],
+   [
+    "and",
+    10.72,
+    11.04
+   ],
+   [
+    "collects",
+    11.04,
+    11.32
+   ],
+   [
+    "rock",
+    11.32,
+    11.64
+   ],
+   [
+    "shards",
+    11.64,
+    12.02
+   ],
+   [
+    "after",
+    12.02,
+    12.28
+   ],
+   [
+    "an",
+    12.28,
+    12.44
+   ],
+   [
+    "apocalyptic",
+    12.44,
+    12.96
+   ],
+   [
+    "Calamity.",
+    12.96,
+    13.5
+   ],
+   [
+    "It",
+    14.22,
+    14.3
+   ],
+   [
+    "features",
+    14.3,
+    14.56
+   ],
+   [
+    "a",
+    14.56,
+    14.8
+   ],
+   [
+    "dynamic",
+    14.8,
+    15.12
+   ],
+   [
+    "voiceover",
+    15.12,
+    15.72
+   ],
+   [
+    "from",
+    15.72,
+    15.94
+   ],
+   [
+    "a",
+    15.94,
+    16.04
+   ],
+   [
+    "narrator.",
+    16.04,
+    16.5
+   ],
+   [
+    "The",
+    17.1,
+    17.2
+   ],
+   [
+    "game",
+    17.2,
+    17.38
+   ],
+   [
+    "uses",
+    17.38,
+    17.68
+   ],
+   [
+    "a",
+    17.68,
+    17.88
+   ],
+   [
+    "hand-painted",
+    17.88,
+    18.48
+   ],
+   [
+    "art",
+    18.48,
+    18.7
+   ],
+   [
+    "style.",
+    18.7,
+    19.0
+   ],
+   [
+    "The",
+    19.64,
+    19.74
+   ],
+   [
+    "team",
+    19.74,
+    19.94
+   ],
+   [
+    "was",
+    19.94,
+    20.1
+   ],
+   [
+    "split",
+    20.1,
+    20.36
+   ],
+   [
+    "between",
+    20.36,
+    20.66
+   ],
+   [
+    "2",
+    20.66,
+    20.96
+   ],
+   [
+    "cities.",
+    20.96,
+    21.52
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   35,
+   43,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Amir_Rao_GDC_2012_crop.jpg/960px-Amir_Rao_GDC_2012_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "Official GDC photostream",
+   "page": "https://commons.wikimedia.org/wiki/File:Amir_Rao_GDC_2012_crop.jpg",
+   "desc": "Amir Rao GDC 2012 crop — Crop of a photo of Amir Rao and another man at the Game Developers Conference in San Francisco in March 2012. Taken at a talk named \"The Failure Workshop\" as part of the Independent Games Summit."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Darren_Korb_GDC_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 2.0",
+   "artist": "Official GDC photostream",
+   "page": "https://commons.wikimedia.org/wiki/File:Darren_Korb_GDC_2012.jpg",
+   "desc": "Darren Korb GDC 2012 — Darren Korb at the 2012 Game Developers Conference giving the presentation Build That Wall: Creating the Audio for Bastion"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2011
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "cities",
+   "label": "split between cities"
+  }
+ ],
+ "geo": null,
+ "qid": "Q810662",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Bastion (video game)",
+  "url": "https://en.wikipedia.org/wiki/Bastion_%28video_game%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T07:18:28Z",
+ "trimmed": true
+}

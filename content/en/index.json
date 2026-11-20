@@ -261,7 +261,8 @@
   "Daspletosaurus",
   "Cygnus X-1",
   "Caversham, New Zealand",
-  "nasa:1389133"
+  "nasa:1389133",
+  "Biddenden Maids"
  ],
  "rejected": [
   "Chameleon",
@@ -1186,6 +1187,9 @@
   ],
   "nasa:1389133": [
    "Curiosity's Martian Bands: Curiosity spotted subtle bands on Mars!"
+  ],
+  "Biddenden Maids": [
+   "The Biddenden Maids Legend: Conjoined twins left land for free food!"
   ]
  },
  "exhausted": []
