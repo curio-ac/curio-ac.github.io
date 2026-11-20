@@ -263,7 +263,8 @@
   "Caversham, New Zealand",
   "nasa:1389133",
   "Biddenden Maids",
-  "Bastion (video game)"
+  "Bastion (video game)",
+  "Dime Mystery Magazine"
  ],
  "rejected": [
   "Chameleon",
@@ -1195,6 +1196,9 @@
   ],
   "Bastion (video game)": [
    "The Making of Bastion: Seven people built a 2011 video game."
+  ],
+  "Dime Mystery Magazine": [
+   "The Weird Menace Magazine: Dime Mystery Magazine launched in 1932."
   ]
  },
  "exhausted": []
