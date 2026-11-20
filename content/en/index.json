@@ -295,7 +295,8 @@
   "Dhoby Ghaut MRT station",
   "Charles Edward, Duke of Saxe-Coburg and Gotha",
   "Bryce Canyon National Park",
-  "nasa:1510412"
+  "nasa:1510412",
+  "nasa:1280207"
  ],
  "rejected": [
   "Chameleon",
@@ -1335,6 +1336,9 @@
   ],
   "nasa:1510412": [
    "Earth's Secret Carbon Superpower: Scotland's soggy bogs store massive carbon."
+  ],
+  "nasa:1280207": [
+   "Emperor Penguins' Secret Resilience: Emperor penguins are surprisingly flexible survivors."
   ]
  },
  "exhausted": []

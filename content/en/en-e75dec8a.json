@@ -1,0 +1,417 @@
+{
+ "id": "en-e75dec8a",
+ "lang": "en",
+ "title": "Thirty Seconds to Mars Hit",
+ "cat": "art",
+ "emoji": "🎸",
+ "sentences": [
+  "One song took forever to record.",
+  "City of Angels is by the rock band Thirty Seconds to Mars.",
+  "Jared Leto wrote it about his time living in Los Angeles with his family.",
+  "The track features synthrock influences from the 1980s.",
+  "Critics loved the composition and production of the song.",
+  "It eventually reached number 21 on the UK Rock Chart."
+ ],
+ "tim": {
+  "w": [
+   [
+    "One",
+    0.35,
+    0.35
+   ],
+   [
+    "song",
+    0.35,
+    0.69
+   ],
+   [
+    "took",
+    0.69,
+    1.07
+   ],
+   [
+    "forever",
+    1.07,
+    1.71
+   ],
+   [
+    "to",
+    1.71,
+    2.17
+   ],
+   [
+    "record.",
+    2.17,
+    3.21
+   ],
+   [
+    "City",
+    3.21,
+    3.33
+   ],
+   [
+    "of",
+    3.33,
+    3.47
+   ],
+   [
+    "Angels",
+    3.47,
+    3.73
+   ],
+   [
+    "is",
+    3.73,
+    3.97
+   ],
+   [
+    "by",
+    4.01,
+    4.11
+   ],
+   [
+    "the",
+    4.11,
+    4.23
+   ],
+   [
+    "rock",
+    4.23,
+    4.45
+   ],
+   [
+    "band",
+    4.53,
+    4.73
+   ],
+   [
+    "Thirty",
+    4.73,
+    4.99
+   ],
+   [
+    "Seconds",
+    4.99,
+    5.49
+   ],
+   [
+    "to",
+    5.49,
+    5.53
+   ],
+   [
+    "Mars.",
+    5.53,
+    5.71
+   ],
+   [
+    "Jared",
+    6.49,
+    6.61
+   ],
+   [
+    "Leto",
+    6.61,
+    6.91
+   ],
+   [
+    "wrote",
+    6.91,
+    7.09
+   ],
+   [
+    "it",
+    7.09,
+    7.19
+   ],
+   [
+    "about",
+    7.19,
+    7.39
+   ],
+   [
+    "his",
+    7.39,
+    7.51
+   ],
+   [
+    "time",
+    7.51,
+    7.73
+   ],
+   [
+    "living",
+    7.73,
+    7.89
+   ],
+   [
+    "in",
+    7.89,
+    8.03
+   ],
+   [
+    "Los",
+    8.03,
+    8.15
+   ],
+   [
+    "Angeles",
+    8.15,
+    8.47
+   ],
+   [
+    "with",
+    8.47,
+    8.73
+   ],
+   [
+    "his",
+    8.73,
+    8.81
+   ],
+   [
+    "family.",
+    8.81,
+    9.11
+   ],
+   [
+    "The",
+    9.79,
+    9.81
+   ],
+   [
+    "track",
+    9.85,
+    9.99
+   ],
+   [
+    "features",
+    9.99,
+    10.29
+   ],
+   [
+    "synthrock",
+    10.29,
+    10.83
+   ],
+   [
+    "influences",
+    10.83,
+    11.33
+   ],
+   [
+    "from",
+    11.33,
+    11.67
+   ],
+   [
+    "the",
+    11.67,
+    11.75
+   ],
+   [
+    "1980s.",
+    11.75,
+    12.57
+   ],
+   [
+    "Critics",
+    13.11,
+    13.31
+   ],
+   [
+    "loved",
+    13.31,
+    13.59
+   ],
+   [
+    "the",
+    13.59,
+    13.77
+   ],
+   [
+    "composition",
+    13.81,
+    14.17
+   ],
+   [
+    "and",
+    14.17,
+    14.45
+   ],
+   [
+    "production",
+    14.51,
+    14.67
+   ],
+   [
+    "of",
+    14.67,
+    14.87
+   ],
+   [
+    "the",
+    14.87,
+    14.95
+   ],
+   [
+    "song.",
+    14.95,
+    15.07
+   ],
+   [
+    "It",
+    15.55,
+    15.63
+   ],
+   [
+    "eventually",
+    15.63,
+    15.91
+   ],
+   [
+    "reached",
+    15.91,
+    16.29
+   ],
+   [
+    "number",
+    16.29,
+    16.59
+   ],
+   [
+    "21",
+    16.59,
+    17.09
+   ],
+   [
+    "on",
+    17.09,
+    17.41
+   ],
+   [
+    "the",
+    17.41,
+    17.53
+   ],
+   [
+    "UK",
+    17.53,
+    17.73
+   ],
+   [
+    "Rock",
+    17.77,
+    17.97
+   ],
+   [
+    "Chart.",
+    17.97,
+    18.47
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   32,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Keith_Brown_in_the_studio_recording_%27African_Ripples%27_at_Samurai_Recording_Studio%2C_NYC_-2020.jpg/960px-Keith_Brown_in_the_studio_recording_%27African_Ripples%27_at_Samurai_Recording_Studio%2C_NYC_-2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Jazzisbam",
+   "page": "https://commons.wikimedia.org/wiki/File:Keith_Brown_in_the_studio_recording_%27African_Ripples%27_at_Samurai_Recording_Studio,_NYC_-2020.jpg",
+   "desc": "Keith Brown in the studio recording 'African Ripples' at Samurai Recording Studio, NYC -2020 — This is a photo graph of jazz pianist Keith Brown sitting at the piano smiling."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Thirty_Seconds_to_Mars%2C_Moscow_%282%29.jpg/960px-Thirty_Seconds_to_Mars%2C_Moscow_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC BY 2.0",
+   "artist": "Pawel Maryanov",
+   "page": "https://commons.wikimedia.org/wiki/File:Thirty_Seconds_to_Mars,_Moscow_(2).jpg",
+   "desc": "Thirty Seconds to Mars, Moscow (2) — Thirty Seconds to Mars performing at the Olympic Stadium in Moscow, Russia on March 16, 2014"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/LosAngeles03.jpg/960px-LosAngeles03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Thomas Pintaric",
+   "page": "https://commons.wikimedia.org/wiki/File:LosAngeles03.jpg",
+   "desc": "LosAngeles03 — Downtown L.A. at night, as seen from the Hollywood Hills"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg/960px-Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "ChickSR",
+   "page": "https://commons.wikimedia.org/wiki/File:Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+   "desc": "Vermona Synthesizer Harmonikamuseum Zwota — Vermona Synthesizer (1983) at Harmonikamuseum Zwota, Germany"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Thirty Seconds to Mars",
+   "box": [
+    715,
+    434,
+    814,
+    957
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1980
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 21,
+   "unit": "rank",
+   "label": "UK Rock Chart"
+  }
+ ],
+ "geo": null,
+ "qid": "Q14179172",
+ "pron_wer": 0.051,
+ "angle": 0,
+ "source": {
+  "title": "City of Angels (Thirty Seconds to Mars song)",
+  "url": "https://en.wikipedia.org/wiki/City_of_Angels_%28Thirty_Seconds_to_Mars_song%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T19:18:16Z",
+ "trimmed": true
+}
