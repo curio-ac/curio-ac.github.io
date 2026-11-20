@@ -1,0 +1,393 @@
+{
+ "id": "he-344ce3d4",
+ "lang": "he",
+ "title": "גלקסיה בצורת מפתח סול",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "מבנה קוסמי נדיר נראה כמו מפתח סול.",
+  "חור שחור סופר-מסיבי יצר בתחילה גלי רדיו חזקים.",
+  "לאחר מכן, התנגשות עוצמתית בין 2 צבירי גלקסיות העצימה אותם מחדש.",
+  "המבנה הזה מוסתר כמעט לגמרי מאחורי שביל החלב שלנו.",
+  "ההתנגשות בין הצבירים התרחשה לפני מאות מיליוני שנים.",
+  "הדמיון למפתח מוזיקלי הוא רק מקרה של פריידוליה, אשליה אופטית."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מבנה",
+    0,
+    0.44
+   ],
+   [
+    "קוסמי",
+    0.44,
+    1.04
+   ],
+   [
+    "נדיר",
+    1.04,
+    1.5
+   ],
+   [
+    "נראה",
+    1.8,
+    2.18
+   ],
+   [
+    "כמו",
+    2.18,
+    2.52
+   ],
+   [
+    "מפתח",
+    2.52,
+    2.94
+   ],
+   [
+    "סול.",
+    2.94,
+    3.42
+   ],
+   [
+    "חור",
+    4.22,
+    4.46
+   ],
+   [
+    "שחור",
+    4.46,
+    4.86
+   ],
+   [
+    "סופר-מסיבי",
+    4.86,
+    5.96
+   ],
+   [
+    "יצר",
+    6.1,
+    6.46
+   ],
+   [
+    "בתחילה",
+    6.46,
+    7.02
+   ],
+   [
+    "גלי",
+    7.02,
+    7.42
+   ],
+   [
+    "רדיו",
+    7.42,
+    7.88
+   ],
+   [
+    "חזקים.",
+    7.88,
+    8.4
+   ],
+   [
+    "לאחר",
+    9.1,
+    9.42
+   ],
+   [
+    "מכן,",
+    9.42,
+    9.84
+   ],
+   [
+    "התנגשות",
+    10.16,
+    10.5
+   ],
+   [
+    "עוצמתית",
+    10.5,
+    11.3
+   ],
+   [
+    "בין",
+    11.46,
+    11.58
+   ],
+   [
+    "2",
+    11.58,
+    11.82
+   ],
+   [
+    "צבירי",
+    11.82,
+    12.24
+   ],
+   [
+    "גלקסיות",
+    12.24,
+    12.84
+   ],
+   [
+    "העצימה",
+    12.84,
+    13.66
+   ],
+   [
+    "אותם",
+    13.66,
+    13.92
+   ],
+   [
+    "מחדש.",
+    13.92,
+    14.18
+   ],
+   [
+    "המבנה",
+    15.28,
+    15.62
+   ],
+   [
+    "הזה",
+    15.62,
+    15.84
+   ],
+   [
+    "מוסתר",
+    15.84,
+    16.36
+   ],
+   [
+    "כמעט",
+    16.86,
+    16.96
+   ],
+   [
+    "לגמרי",
+    16.96,
+    17.52
+   ],
+   [
+    "מאחורי",
+    17.52,
+    18.04
+   ],
+   [
+    "שביל",
+    18.04,
+    18.4
+   ],
+   [
+    "החלב",
+    18.4,
+    18.8
+   ],
+   [
+    "שלנו.",
+    18.8,
+    19.5
+   ],
+   [
+    "ההתנגשות",
+    19.74,
+    20.22
+   ],
+   [
+    "בין",
+    20.22,
+    20.46
+   ],
+   [
+    "הצבירים",
+    20.46,
+    20.96
+   ],
+   [
+    "התרחשה",
+    20.96,
+    21.48
+   ],
+   [
+    "לפני",
+    21.48,
+    21.84
+   ],
+   [
+    "מאות",
+    21.84,
+    22.38
+   ],
+   [
+    "מיליוני",
+    22.4,
+    22.9
+   ],
+   [
+    "שנים.",
+    22.9,
+    23.18
+   ],
+   [
+    "הדמיון",
+    23.84,
+    24.24
+   ],
+   [
+    "למפתח",
+    24.24,
+    24.62
+   ],
+   [
+    "מוזיקלי",
+    24.62,
+    25.24
+   ],
+   [
+    "הוא",
+    25.24,
+    25.5
+   ],
+   [
+    "רק",
+    25.5,
+    25.76
+   ],
+   [
+    "מקרה",
+    25.86,
+    26.2
+   ],
+   [
+    "של",
+    26.2,
+    26.34
+   ],
+   [
+    "פריידוליה,",
+    26.34,
+    27.06
+   ],
+   [
+    "אשליה",
+    27.46,
+    27.74
+   ],
+   [
+    "אופטית.",
+    27.74,
+    27.84
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   26,
+   35,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Chandra_Finds_Possible_Origin_of_%E2%80%98Treble_Clef%E2%80%99_Waves.jpg/960px-Chandra_Finds_Possible_Origin_of_%E2%80%98Treble_Clef%E2%80%99_Waves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON",
+   "page": "https://commons.wikimedia.org/wiki/File:Chandra_Finds_Possible_Origin_of_%E2%80%98Treble_Clef%E2%80%99_Waves.jpg",
+   "desc": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves — A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/NASA%27s_Chandra_Breaks_Down_%27Treble_Clef%27s%27_Galaxy_Cluster_Collision_%28X-ray%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Chandra_Breaks_Down_%27Treble_Clef%27s%27_Galaxy_Cluster_Collision_(X-ray).jpg",
+   "desc": "NASA's Chandra Breaks Down 'Treble Clef's' Galaxy Cluster Collision (X-ray) — Using Chandra, astronomers have discovered that an outburst from a supermassive black hole, followed by a collision of two galaxy clusters, are the likely causes of an unusual format"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/960px-Milky_Way_IR_Spitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 519,
+   "license": "Public domain",
+   "artist": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+   "page": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+   "desc": "Milky Way IR Spitzer — The center of our Milky Way galaxy is hidden from the prying eyes of optical telescopes by clouds of obscuring dust and gas. But in this stunning vista, the Spitzer Space Telescope's infrared cameras penetrate much of th"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Camara_de_Lobos_Pareidolia_2.JPG/960px-Camara_de_Lobos_Pareidolia_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "TeWeBs",
+   "page": "https://commons.wikimedia.org/wiki/File:Camara_de_Lobos_Pareidolia_2.JPG",
+   "desc": "Camara de Lobos Pareidolia 2 — Pareidolia: disused canisters as wall decoration in Câmara de Lobos"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "Treble Clef formation",
+   "box": [
+    329,
+    382,
+    825,
+    617
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "supermassive black hole",
+   "box": [
+    413,
+    354,
+    576,
+    465
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "צבירים",
+   "label": "צבירי גלקסיות"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+  "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T14:38:04Z",
+ "trimmed": true
+}
