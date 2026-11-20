@@ -1,0 +1,387 @@
+{
+ "id": "he-4b87129d",
+ "lang": "he",
+ "title": "האמת על האקליפטוס",
+ "cat": "biology",
+ "emoji": "🌳",
+ "sentences": [
+  "יש אקליפטוס אחד שגדל בחצי הכדור הצפוני.",
+  "הסוג מונה כ-892 מינים של עצים ירוקי-עד.",
+  "רובם המוחלט, כ-800 מינים, אנדמיים לאוסטרליה בלבד.",
+  "הם צומחים כמעט בכל גומחה אקולוגית שם, חוץ מיער גשם טרופי.",
+  "בזכות צמיחה מהירה ויופי, הם התאקלמו בהצלחה כמעט בכל היבשות בעולם.",
+  "השם מגיע מיוונית עתיקה, ובעברית כותבים אותו עם י' אחרי האלף."
+ ],
+ "tim": {
+  "w": [
+   [
+    "יש",
+    0.3,
+    0.5
+   ],
+   [
+    "אקליפטוס",
+    0.5,
+    1.14
+   ],
+   [
+    "אחד",
+    1.14,
+    1.42
+   ],
+   [
+    "שגדל",
+    1.42,
+    2.08
+   ],
+   [
+    "בחצי",
+    2.08,
+    2.5
+   ],
+   [
+    "הכדור",
+    2.5,
+    2.82
+   ],
+   [
+    "הצפוני.",
+    2.82,
+    3.22
+   ],
+   [
+    "הסוג",
+    4.04,
+    4.32
+   ],
+   [
+    "מונה",
+    4.32,
+    4.64
+   ],
+   [
+    "כ-892",
+    4.64,
+    6.4
+   ],
+   [
+    "מינים",
+    6.4,
+    6.88
+   ],
+   [
+    "של",
+    6.88,
+    7.04
+   ],
+   [
+    "עצים",
+    7.04,
+    7.44
+   ],
+   [
+    "ירוקי-עד.",
+    7.44,
+    8.14
+   ],
+   [
+    "רובם",
+    8.76,
+    9.0
+   ],
+   [
+    "המוחלט,",
+    9.0,
+    9.54
+   ],
+   [
+    "כ-800",
+    9.92,
+    10.18
+   ],
+   [
+    "מינים,",
+    10.18,
+    11.2
+   ],
+   [
+    "אנדמיים",
+    11.28,
+    11.7
+   ],
+   [
+    "לאוסטרליה",
+    11.7,
+    12.32
+   ],
+   [
+    "בלבד.",
+    12.32,
+    12.72
+   ],
+   [
+    "הם",
+    13.38,
+    13.46
+   ],
+   [
+    "צומחים",
+    13.46,
+    13.82
+   ],
+   [
+    "כמעט",
+    13.94,
+    14.22
+   ],
+   [
+    "בכל",
+    14.22,
+    14.7
+   ],
+   [
+    "גומחה",
+    14.7,
+    15.1
+   ],
+   [
+    "אקולוגית",
+    15.1,
+    15.56
+   ],
+   [
+    "שם,",
+    15.56,
+    15.82
+   ],
+   [
+    "חוץ",
+    16.36,
+    16.46
+   ],
+   [
+    "מיער",
+    16.46,
+    16.84
+   ],
+   [
+    "גשם",
+    16.84,
+    17.14
+   ],
+   [
+    "טרופי.",
+    17.14,
+    17.32
+   ],
+   [
+    "בזכות",
+    18.16,
+    18.48
+   ],
+   [
+    "צמיחה",
+    18.48,
+    18.92
+   ],
+   [
+    "מהירה",
+    18.92,
+    19.32
+   ],
+   [
+    "ויופי,",
+    19.32,
+    19.68
+   ],
+   [
+    "הם",
+    20.24,
+    20.32
+   ],
+   [
+    "התאקלמו",
+    20.32,
+    20.74
+   ],
+   [
+    "בהצלחה",
+    20.74,
+    21.26
+   ],
+   [
+    "כמעט",
+    21.26,
+    21.56
+   ],
+   [
+    "בכל",
+    21.58,
+    21.94
+   ],
+   [
+    "היבשות",
+    21.94,
+    22.38
+   ],
+   [
+    "בעולם.",
+    22.38,
+    22.74
+   ],
+   [
+    "השם",
+    23.42,
+    23.66
+   ],
+   [
+    "מגיע",
+    23.66,
+    23.9
+   ],
+   [
+    "מיוונית",
+    23.9,
+    24.36
+   ],
+   [
+    "עתיקה,",
+    24.36,
+    24.46
+   ],
+   [
+    "ובעברית",
+    25.24,
+    25.8
+   ],
+   [
+    "כותבים",
+    26.04,
+    26.18
+   ],
+   [
+    "אותו",
+    26.18,
+    26.34
+   ],
+   [
+    "עם",
+    26.34,
+    26.5
+   ],
+   [
+    "י'",
+    26.5,
+    26.8
+   ],
+   [
+    "אחרי",
+    26.88,
+    27.16
+   ],
+   [
+    "האלף.",
+    27.16,
+    27.4
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   21,
+   32,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Distribution.eucalyptus.png/960px-Distribution.eucalyptus.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 333,
+   "license": "CC BY-SA 3.0",
+   "artist": "Sarefo",
+   "page": "https://commons.wikimedia.org/wiki/File:Distribution.eucalyptus.png",
+   "desc": "Distribution.eucalyptus — Natural world distribution of Eucalyptus, according to the book \"Plant\" (2005) ISBN 075660589X"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Eucalipto_%28Eucalyptus_sp.%29_no_Parque_do_Ga%C3%BAcho%2C_em_Bag%C3%A9.jpg/960px-Eucalipto_%28Eucalyptus_sp.%29_no_Parque_do_Ga%C3%BAcho%2C_em_Bag%C3%A9.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 4.0",
+   "artist": "Gabriel Collares",
+   "page": "https://commons.wikimedia.org/wiki/File:Eucalipto_(Eucalyptus_sp.)_no_Parque_do_Ga%C3%BAcho,_em_Bag%C3%A9.jpg",
+   "desc": "Eucalipto (Eucalyptus sp.) no Parque do Gaúcho, em Bagé — Eucalipto, árvore exótica muito presente na zona rural de Bagé, no pampa gaúcho."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/HURSHAT_HAEKALIPTUS.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1079,
+   "license": "CC BY-SA 3.0",
+   "artist": "אני",
+   "page": "https://commons.wikimedia.org/wiki/File:HURSHAT_HAEKALIPTUS.JPG",
+   "desc": "HURSHAT HAEKALIPTUS — אקליפטוס בפרק שלולית החורף"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eucalyptus_deglupta-trees.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.0",
+   "artist": "by *amelia*",
+   "page": "https://commons.wikimedia.org/wiki/File:Eucalyptus_deglupta-trees.jpg",
+   "desc": "Eucalyptus deglupta-trees — A grove of Rainbow Eucalyptus Eucalyptus deglupta trees, planted along the hana highway, Hawaii"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 892,
+   "unit": "מינים",
+   "label": "סוג האקליפטוס"
+  },
+  {
+   "type": "stat",
+   "value": 800,
+   "unit": "מינים",
+   "label": "אנדמיים לאוסטרליה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q45669",
+ "pron_wer": 0.035,
+ "angle": 0,
+ "source": {
+  "title": "אקליפטוס",
+  "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%9C%D7%99%D7%A4%D7%98%D7%95%D7%A1",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T12:25:11Z",
+ "trimmed": true
+}
