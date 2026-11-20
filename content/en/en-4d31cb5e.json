@@ -1,0 +1,407 @@
+{
+ "id": "en-4d31cb5e",
+ "lang": "en",
+ "title": "The 405-Run Partnership",
+ "cat": "history",
+ "emoji": "🏏",
+ "sentences": [
+  "Sid Barnes once scored 234 runs exactly.",
+  "He matched his captain Don Bradman's score perfectly.",
+  "Together, they set a world-record 405-run partnership.",
+  "Barnes played 13 Test matches between 1938 and 1948.",
+  "He was one of Australia's finest post-war batsmen.",
+  "He toured England with the undefeated 1948 Invincibles.",
+  "His career ended after that historic 1948 tour."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Sid",
+    0.24,
+    0.26
+   ],
+   [
+    "Barnes",
+    0.26,
+    0.64
+   ],
+   [
+    "once",
+    0.64,
+    1.02
+   ],
+   [
+    "scored",
+    1.02,
+    1.4
+   ],
+   [
+    "234",
+    1.4,
+    2.98
+   ],
+   [
+    "runs",
+    2.98,
+    3.34
+   ],
+   [
+    "exactly.",
+    3.34,
+    4.29
+   ],
+   [
+    "He",
+    4.66,
+    4.74
+   ],
+   [
+    "matched",
+    4.74,
+    5.02
+   ],
+   [
+    "his",
+    5.02,
+    5.2
+   ],
+   [
+    "captain",
+    5.2,
+    5.48
+   ],
+   [
+    "Don",
+    5.48,
+    5.82
+   ],
+   [
+    "Bradman's",
+    5.82,
+    6.38
+   ],
+   [
+    "score",
+    6.38,
+    6.56
+   ],
+   [
+    "perfectly.",
+    6.56,
+    6.96
+   ],
+   [
+    "Together,",
+    7.78,
+    8.32
+   ],
+   [
+    "they",
+    8.38,
+    8.38
+   ],
+   [
+    "set",
+    8.38,
+    8.6
+   ],
+   [
+    "a",
+    8.6,
+    8.74
+   ],
+   [
+    "world-record",
+    8.74,
+    9.38
+   ],
+   [
+    "405-run",
+    9.38,
+    10.78
+   ],
+   [
+    "partnership.",
+    10.78,
+    11.36
+   ],
+   [
+    "Barnes",
+    12.14,
+    12.36
+   ],
+   [
+    "played",
+    12.36,
+    12.62
+   ],
+   [
+    "13",
+    12.62,
+    13.12
+   ],
+   [
+    "Test",
+    13.12,
+    13.44
+   ],
+   [
+    "matches",
+    13.44,
+    13.78
+   ],
+   [
+    "between",
+    13.84,
+    14.12
+   ],
+   [
+    "1938",
+    14.12,
+    14.72
+   ],
+   [
+    "and",
+    14.72,
+    15.18
+   ],
+   [
+    "1948.",
+    15.18,
+    16.02
+   ],
+   [
+    "He",
+    16.52,
+    16.58
+   ],
+   [
+    "was",
+    16.58,
+    16.68
+   ],
+   [
+    "one",
+    16.68,
+    16.8
+   ],
+   [
+    "of",
+    16.8,
+    16.88
+   ],
+   [
+    "Australia's",
+    16.88,
+    17.44
+   ],
+   [
+    "finest",
+    17.44,
+    17.78
+   ],
+   [
+    "post-war",
+    17.78,
+    18.38
+   ],
+   [
+    "batsmen.",
+    18.38,
+    18.76
+   ],
+   [
+    "He",
+    19.42,
+    19.52
+   ],
+   [
+    "toured",
+    19.52,
+    19.8
+   ],
+   [
+    "England",
+    19.8,
+    20.12
+   ],
+   [
+    "with",
+    20.12,
+    20.32
+   ],
+   [
+    "the",
+    20.32,
+    20.44
+   ],
+   [
+    "undefeated",
+    20.44,
+    21.0
+   ],
+   [
+    "1948",
+    21.0,
+    21.86
+   ],
+   [
+    "Invincibles.",
+    21.86,
+    22.66
+   ],
+   [
+    "His",
+    23.2,
+    23.3
+   ],
+   [
+    "career",
+    23.3,
+    23.54
+   ],
+   [
+    "ended",
+    23.54,
+    23.84
+   ],
+   [
+    "after",
+    23.84,
+    24.1
+   ],
+   [
+    "that",
+    24.1,
+    24.3
+   ],
+   [
+    "historic",
+    24.3,
+    24.74
+   ],
+   [
+    "1948",
+    24.74,
+    25.5
+   ],
+   [
+    "tour.",
+    25.5,
+    25.98
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   22,
+   31,
+   39,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Bradman%26Bat.jpg/960px-Bradman%26Bat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 842,
+   "license": "Public domain",
+   "artist": "Sam Hood",
+   "page": "https://commons.wikimedia.org/wiki/File:Bradman%26Bat.jpg",
+   "desc": "Bradman&Bat — Portrait Don Bradman with his \"Don Bradman\" brand Sykes bat, Sydney, 1932, Sam Hood, vintage glass negative, State Library of New South Wales ON4/2389"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Don_Bradman_Testimonial_Match_%289464196680%29.jpg/960px-Don_Bradman_Testimonial_Match_%289464196680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 572,
+   "license": "CC BY 2.0",
+   "artist": "State Library of South Australia from Australia",
+   "page": "https://commons.wikimedia.org/wiki/File:Don_Bradman_Testimonial_Match_(9464196680).jpg",
+   "desc": "Don Bradman Testimonial Match (9464196680) — &lt;a href=\"http://www.catalog.slsa.sa.gov.au:80/record=b2920643~S1\" target=\"_blank\" rel=\"nofollow\"&gt;PRG682/16/130 &lt;/a&gt; Don Bradman Testimonial Match, Bradman's Team V. Hassett's Team, Melbourne, 3-7 Decembe"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/SidBarnesHeadshot.jpg/960px-SidBarnesHeadshot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1063,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:SidBarnesHeadshot.jpg",
+   "desc": "SidBarnesHeadshot — w:Sid Barnes with his Australian cap and sweater."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Sid_Barnes_1948.jpg/960px-Sid_Barnes_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 975,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Sid_Barnes_1948.jpg",
+   "desc": "Sid Barnes 1948 — SPORTING LIFE MAG 1948 MAY, SID BARNES COVER"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 234,
+   "unit": "runs",
+   "label": "Sid Barnes score"
+  },
+  {
+   "type": "focus",
+   "target": "Don Bradman",
+   "box": [
+    54,
+    89,
+    998,
+    934
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 405,
+   "unit": "runs",
+   "label": "partnership total"
+  },
+  {
+   "type": "timeline",
+   "year": 1938
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1948
+  }
+ ],
+ "geo": null,
+ "qid": "Q3483132",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Sid Barnes",
+  "url": "https://en.wikipedia.org/wiki/Sid_Barnes",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T00:58:15Z",
+ "trimmed": true
+}

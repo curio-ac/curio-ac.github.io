@@ -242,7 +242,8 @@
   "Louis Abramson",
   "nasa:1462714",
   "New York City",
-  "nasa:1504411"
+  "nasa:1504411",
+  "Æthelberht of Kent"
  ],
  "rejected": [
   "Chameleon",
@@ -1107,6 +1108,9 @@
   ],
   "nasa:1504411": [
    "High Schoolers Analyzing Lunar Missions: High schoolers modeled real lunar mission data."
+  ],
+  "Æthelberht of Kent": [
+   "The First Christian King: He was the first Anglo-Saxon king to convert to Christianity."
   ]
  },
  "exhausted": []
