@@ -1,0 +1,452 @@
+{
+ "id": "en-b6d348d3",
+ "lang": "en",
+ "title": "Spain's French Tank Secret",
+ "cat": "history",
+ "emoji": "🪖",
+ "sentences": [
+  "Spain once built its own French tank.",
+  "The AMX-30E was Spain's first mass-produced tank.",
+  "Originally, the Spanish government actually wanted to buy the German Leopard 1 instead.",
+  "They chose the AMX-30 because it was cheaper and easier to build locally.",
+  "Santa Bárbara Sistemas manufactured 280 units between 1974 and 1983.",
+  "This project eventually paved the way for Spain to produce the modern Leopard 2E."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Spain",
+    0.35,
+    0.35
+   ],
+   [
+    "once",
+    0.35,
+    0.61
+   ],
+   [
+    "built",
+    0.61,
+    0.89
+   ],
+   [
+    "its",
+    0.89,
+    1.11
+   ],
+   [
+    "own",
+    1.27,
+    1.47
+   ],
+   [
+    "French",
+    1.47,
+    1.91
+   ],
+   [
+    "tank.",
+    1.91,
+    2.03
+   ],
+   [
+    "The",
+    2.73,
+    2.75
+   ],
+   [
+    "AMX-30E",
+    2.75,
+    3.55
+   ],
+   [
+    "was",
+    3.55,
+    3.75
+   ],
+   [
+    "Spain's",
+    3.75,
+    4.19
+   ],
+   [
+    "first",
+    4.37,
+    4.49
+   ],
+   [
+    "mass-produced",
+    4.49,
+    5.13
+   ],
+   [
+    "tank.",
+    5.13,
+    5.37
+   ],
+   [
+    "Originally,",
+    5.85,
+    6.39
+   ],
+   [
+    "the",
+    6.43,
+    6.43
+   ],
+   [
+    "Spanish",
+    6.43,
+    6.67
+   ],
+   [
+    "government",
+    6.67,
+    7.09
+   ],
+   [
+    "actually",
+    7.09,
+    7.61
+   ],
+   [
+    "wanted",
+    7.61,
+    7.89
+   ],
+   [
+    "to",
+    7.89,
+    8.05
+   ],
+   [
+    "buy",
+    8.05,
+    8.19
+   ],
+   [
+    "the",
+    8.19,
+    8.31
+   ],
+   [
+    "German",
+    8.31,
+    8.57
+   ],
+   [
+    "Leopard",
+    8.57,
+    8.93
+   ],
+   [
+    "1",
+    8.93,
+    9.29
+   ],
+   [
+    "instead.",
+    9.29,
+    9.91
+   ],
+   [
+    "They",
+    10.47,
+    10.55
+   ],
+   [
+    "chose",
+    10.55,
+    10.77
+   ],
+   [
+    "the",
+    10.77,
+    10.95
+   ],
+   [
+    "AMX-30",
+    10.95,
+    11.53
+   ],
+   [
+    "because",
+    11.53,
+    11.87
+   ],
+   [
+    "it",
+    11.87,
+    12.07
+   ],
+   [
+    "was",
+    12.07,
+    12.21
+   ],
+   [
+    "cheaper",
+    12.39,
+    12.49
+   ],
+   [
+    "and",
+    12.49,
+    12.83
+   ],
+   [
+    "easier",
+    12.83,
+    13.15
+   ],
+   [
+    "to",
+    13.15,
+    13.35
+   ],
+   [
+    "build",
+    13.41,
+    13.55
+   ],
+   [
+    "locally.",
+    13.55,
+    13.77
+   ],
+   [
+    "Santa",
+    14.57,
+    14.67
+   ],
+   [
+    "Bárbara",
+    14.67,
+    15.15
+   ],
+   [
+    "Sistemas",
+    15.15,
+    15.65
+   ],
+   [
+    "manufactured",
+    15.65,
+    16.35
+   ],
+   [
+    "280",
+    16.45,
+    17.27
+   ],
+   [
+    "units",
+    17.27,
+    17.75
+   ],
+   [
+    "between",
+    17.99,
+    18.09
+   ],
+   [
+    "1974",
+    18.09,
+    18.67
+   ],
+   [
+    "and",
+    18.67,
+    19.25
+   ],
+   [
+    "1983.",
+    19.25,
+    20.03
+   ],
+   [
+    "This",
+    20.53,
+    20.63
+   ],
+   [
+    "project",
+    20.63,
+    20.97
+   ],
+   [
+    "eventually",
+    20.97,
+    21.45
+   ],
+   [
+    "paved",
+    21.45,
+    21.75
+   ],
+   [
+    "the",
+    21.75,
+    21.93
+   ],
+   [
+    "way",
+    21.93,
+    22.09
+   ],
+   [
+    "for",
+    22.09,
+    22.27
+   ],
+   [
+    "Spain",
+    22.33,
+    22.59
+   ],
+   [
+    "to",
+    22.59,
+    22.77
+   ],
+   [
+    "produce",
+    22.77,
+    23.07
+   ],
+   [
+    "the",
+    23.07,
+    23.27
+   ],
+   [
+    "modern",
+    23.27,
+    23.55
+   ],
+   [
+    "Leopard",
+    23.55,
+    24.03
+   ],
+   [
+    "2E.",
+    24.03,
+    24.57
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   27,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/AMX-30EM2.JPG/960px-AMX-30EM2.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 518,
+   "license": "CC BY-SA 3.0",
+   "artist": "Outisnn",
+   "page": "https://commons.wikimedia.org/wiki/File:AMX-30EM2.JPG",
+   "desc": "AMX-30EM2 — AMX-30EM2 of the Spanish Army."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/AMX30_afar.jpg/960px-AMX30_afar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 481,
+   "license": "CC BY 3.0",
+   "artist": "JonCatalan (talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:AMX30_afar.jpg",
+   "desc": "AMX30 afar — Spanish AMX-30EM1 at El Goloso."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Leopard_1_Tank_Canadian_Forces_College_Toronto.jpg/960px-Leopard_1_Tank_Canadian_Forces_College_Toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 481,
+   "license": "CC BY-SA 3.0",
+   "artist": "Mykola Swarnyk",
+   "page": "https://commons.wikimedia.org/wiki/File:Leopard_1_Tank_Canadian_Forces_College_Toronto.jpg",
+   "desc": "Leopard 1 Tank Canadian Forces College Toronto — Leopard 1 Tank @ Canadian Forces College in Toronto"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/AMX30_bustle.jpg/960px-AMX30_bustle.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 3.0",
+   "artist": "JonCatalÃ¡n (talk)",
+   "page": "https://commons.wikimedia.org/wiki/File:AMX30_bustle.jpg",
+   "desc": "AMX30 bustle — Turret bustle and commander's hatch of a Spanish en:AMX-30E"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Museo_de_Unidades_Acorazadas_de_El_Goloso_%288615991601%29.jpg/960px-Museo_de_Unidades_Acorazadas_de_El_Goloso_%288615991601%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Contando Estrelas from Vigo, España / Spain",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_de_Unidades_Acorazadas_de_El_Goloso_(8615991601).jpg",
+   "desc": "Museo de Unidades Acorazadas de El Goloso (8615991601) — Tanque AMX-30, con cañón de 105 mm. El Ejército español compró en mayo de 1970 19 unidades de este carro francés para usarlos en el Sáhara, con un esquema desértico. Desde 1974 fueron construidos en Espa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Museo_de_Unidades_Acorazadas_de_El_Goloso_%288617057898%29.jpg/960px-Museo_de_Unidades_Acorazadas_de_El_Goloso_%288617057898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Contando Estrelas from Vigo, España / Spain",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_de_Unidades_Acorazadas_de_El_Goloso_(8617057898).jpg",
+   "desc": "Museo de Unidades Acorazadas de El Goloso (8617057898) — De izquierda a derecha: un tanque AMX-30 (construido en Francia), un tanque M-60 (construido en Estados Unidos) y un tanque Leopard II (construido en Alemania). Los dos primeros ya no están en servicio. "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 280,
+   "unit": "units",
+   "label": "units manufactured"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q7887546",
+ "pron_wer": 0.029,
+ "angle": 0,
+ "source": {
+  "title": "AMX-30E",
+  "url": "https://en.wikipedia.org/wiki/AMX-30E",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T10:04:25Z",
+ "trimmed": true
+}

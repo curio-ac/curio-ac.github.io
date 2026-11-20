@@ -270,7 +270,8 @@
   "nasa:1283107",
   "Assassination of Talaat Pasha",
   "Cycling at the 2008 Summer Olympics – Men's individual road race",
-  "Ashford v Thornton"
+  "Ashford v Thornton",
+  "Broad Ripple Park Carousel"
  ],
  "rejected": [
   "Chameleon",
@@ -335,7 +336,8 @@
   "1984–85 Gillingham F.C. season",
   "Arsenal Women 11–1 Bristol City Women",
   "nasa:1279590",
-  "Action of 1 January 1800"
+  "Action of 1 January 1800",
+  "nasa:1282389"
  ],
  "angles": {
   "Blue whale": [
@@ -1224,6 +1226,9 @@
   ],
   "Ashford v Thornton": [
    "The Last Trial By Battle: A defendant once demanded a trial by battle."
+  ],
+  "Broad Ripple Park Carousel": [
+   "Saved from the Rubble: This antique carousel survived a building collapse."
   ]
  },
  "exhausted": []
