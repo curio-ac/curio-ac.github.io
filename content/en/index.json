@@ -291,7 +291,8 @@
   "Coventry ring road",
   "nasa:1504151",
   "Banksia petiolaris",
-  "1912 suspension of Ty Cobb"
+  "1912 suspension of Ty Cobb",
+  "Dhoby Ghaut MRT station"
  ],
  "rejected": [
   "Chameleon",
@@ -1316,6 +1317,9 @@
   ],
   "1912 suspension of Ty Cobb": [
    "Ty Cobb's Violent Stand: A baseball legend once attacked a fan."
+  ],
+  "Dhoby Ghaut MRT station": [
+   "Singapore's Deepest Subway Giant: This massive subway station goes 28 meters deep."
   ]
  },
  "exhausted": []

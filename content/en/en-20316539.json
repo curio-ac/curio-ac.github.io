@@ -1,0 +1,364 @@
+{
+ "id": "en-20316539",
+ "lang": "en",
+ "title": "The Nazi British Prince",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "A British prince became a Nazi politician.",
+  "Charles Edward was born in Surrey to Queen Victoria's son.",
+  "He was raised as a British prince until age 15.",
+  "Then, he moved to Germany to succeed to a throne.",
+  "He ruled Saxe-Coburg and Gotha until 1918.",
+  "Later, he led the German Red Cross for the Nazi regime."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.35,
+    0.35
+   ],
+   [
+    "British",
+    0.35,
+    0.35
+   ],
+   [
+    "prince",
+    0.35,
+    0.87
+   ],
+   [
+    "became",
+    0.91,
+    1.29
+   ],
+   [
+    "a",
+    1.29,
+    1.59
+   ],
+   [
+    "Nazi",
+    1.59,
+    1.99
+   ],
+   [
+    "politician.",
+    1.99,
+    2.79
+   ],
+   [
+    "Charles",
+    3.41,
+    3.63
+   ],
+   [
+    "Edward",
+    3.63,
+    4.03
+   ],
+   [
+    "was",
+    4.03,
+    4.27
+   ],
+   [
+    "born",
+    4.27,
+    4.49
+   ],
+   [
+    "in",
+    4.49,
+    4.67
+   ],
+   [
+    "Surrey",
+    4.67,
+    5.11
+   ],
+   [
+    "to",
+    5.17,
+    5.27
+   ],
+   [
+    "Queen",
+    5.27,
+    5.51
+   ],
+   [
+    "Victoria's",
+    5.51,
+    6.21
+   ],
+   [
+    "son.",
+    6.21,
+    6.31
+   ],
+   [
+    "He",
+    6.95,
+    7.03
+   ],
+   [
+    "was",
+    7.03,
+    7.17
+   ],
+   [
+    "raised",
+    7.17,
+    7.41
+   ],
+   [
+    "as",
+    7.41,
+    7.65
+   ],
+   [
+    "a",
+    7.65,
+    7.73
+   ],
+   [
+    "British",
+    7.73,
+    7.95
+   ],
+   [
+    "prince",
+    7.95,
+    8.43
+   ],
+   [
+    "until",
+    8.61,
+    8.71
+   ],
+   [
+    "age",
+    8.71,
+    9.05
+   ],
+   [
+    "15.",
+    9.05,
+    9.65
+   ],
+   [
+    "Then,",
+    10.25,
+    10.49
+   ],
+   [
+    "he",
+    10.67,
+    10.69
+   ],
+   [
+    "moved",
+    10.69,
+    10.85
+   ],
+   [
+    "to",
+    10.85,
+    11.03
+   ],
+   [
+    "Germany",
+    11.03,
+    11.33
+   ],
+   [
+    "to",
+    11.33,
+    11.63
+   ],
+   [
+    "succeed",
+    11.63,
+    11.97
+   ],
+   [
+    "to",
+    12.11,
+    12.21
+   ],
+   [
+    "a",
+    12.21,
+    12.31
+   ],
+   [
+    "throne.",
+    12.31,
+    12.65
+   ],
+   [
+    "He",
+    13.27,
+    13.37
+   ],
+   [
+    "ruled",
+    13.37,
+    13.63
+   ],
+   [
+    "Saxe-Coburg",
+    13.63,
+    14.57
+   ],
+   [
+    "and",
+    14.57,
+    14.73
+   ],
+   [
+    "Gotha",
+    14.73,
+    15.21
+   ],
+   [
+    "until",
+    15.21,
+    15.43
+   ],
+   [
+    "1918.",
+    15.43,
+    16.01
+   ],
+   [
+    "Later,",
+    17.09,
+    17.43
+   ],
+   [
+    "he",
+    17.57,
+    17.65
+   ],
+   [
+    "led",
+    17.65,
+    17.81
+   ],
+   [
+    "the",
+    17.81,
+    17.95
+   ],
+   [
+    "German",
+    17.95,
+    18.25
+   ],
+   [
+    "Red",
+    18.25,
+    18.55
+   ],
+   [
+    "Cross",
+    18.55,
+    18.89
+   ],
+   [
+    "for",
+    18.89,
+    19.17
+   ],
+   [
+    "the",
+    19.17,
+    19.25
+   ],
+   [
+    "Nazi",
+    19.25,
+    19.53
+   ],
+   [
+    "regime.",
+    19.53,
+    20.01
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   27,
+   37,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bundesarchiv_Bild_136-B0556%2C_Karl-Eduard_von_Sachsen-Coburg_und_Gotha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 479,
+   "license": "Public domain",
+   "artist": "Oscar Tellgmann",
+   "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_136-B0556,_Karl-Eduard_von_Sachsen-Coburg_und_Gotha.jpg",
+   "desc": "Bundesarchiv Bild 136-B0556, Karl-Eduard von Sachsen-Coburg und Gotha — For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Karl-Eduard von Sachsen-Cob"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  0,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1884
+  },
+  {
+   "type": "stat",
+   "value": 15,
+   "unit": "age",
+   "label": "moved to Germany"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1918
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q160467",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "Charles Edward, Duke of Saxe-Coburg and Gotha",
+  "url": "https://en.wikipedia.org/wiki/Charles_Edward%2C_Duke_of_Saxe-Coburg_and_Gotha",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T17:49:49Z",
+ "trimmed": true
+}
