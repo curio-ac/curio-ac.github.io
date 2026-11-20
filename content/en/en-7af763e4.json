@@ -1,0 +1,440 @@
+{
+ "id": "en-7af763e4",
+ "lang": "en",
+ "title": "Boston's 1689 Popular Uprising",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "Boston once arrested its own governor.",
+  "On April 18, 1689, a well-organized mob rose up against Sir Edmund Andros.",
+  "He had infuriated locals by restricting town meetings and enforcing strict Navigation Acts.",
+  "Puritans were especially angry because he promoted the Church of England.",
+  "Militia and citizens quickly took dominion officials into custody.",
+  "Amazingly, not a single person was hurt during the entire revolt.",
+  "The former government leaders simply reclaimed control."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Boston",
+    0.32,
+    0.32
+   ],
+   [
+    "once",
+    0.32,
+    0.6
+   ],
+   [
+    "arrested",
+    0.6,
+    1.0
+   ],
+   [
+    "its",
+    1.0,
+    1.2
+   ],
+   [
+    "own",
+    1.2,
+    1.4
+   ],
+   [
+    "governor.",
+    1.4,
+    1.84
+   ],
+   [
+    "On",
+    2.32,
+    2.32
+   ],
+   [
+    "April",
+    2.32,
+    2.58
+   ],
+   [
+    "18,",
+    2.58,
+    3.16
+   ],
+   [
+    "1689,",
+    3.42,
+    4.32
+   ],
+   [
+    "a",
+    4.32,
+    4.38
+   ],
+   [
+    "well-organized",
+    4.38,
+    5.14
+   ],
+   [
+    "mob",
+    5.14,
+    5.38
+   ],
+   [
+    "rose",
+    5.38,
+    5.68
+   ],
+   [
+    "up",
+    5.68,
+    5.92
+   ],
+   [
+    "against",
+    5.94,
+    6.24
+   ],
+   [
+    "Sir",
+    6.24,
+    6.56
+   ],
+   [
+    "Edmund",
+    6.56,
+    6.86
+   ],
+   [
+    "Andros.",
+    6.86,
+    7.3
+   ],
+   [
+    "He",
+    7.68,
+    7.76
+   ],
+   [
+    "had",
+    7.76,
+    7.96
+   ],
+   [
+    "infuriated",
+    7.96,
+    8.66
+   ],
+   [
+    "locals",
+    8.66,
+    8.96
+   ],
+   [
+    "by",
+    8.98,
+    9.28
+   ],
+   [
+    "restricting",
+    9.28,
+    9.78
+   ],
+   [
+    "town",
+    9.78,
+    10.0
+   ],
+   [
+    "meetings",
+    10.0,
+    10.26
+   ],
+   [
+    "and",
+    10.26,
+    10.62
+   ],
+   [
+    "enforcing",
+    10.62,
+    11.08
+   ],
+   [
+    "strict",
+    11.08,
+    11.32
+   ],
+   [
+    "Navigation",
+    11.32,
+    11.98
+   ],
+   [
+    "Acts.",
+    11.98,
+    12.2
+   ],
+   [
+    "Puritans",
+    12.76,
+    13.16
+   ],
+   [
+    "were",
+    13.16,
+    13.34
+   ],
+   [
+    "especially",
+    13.34,
+    13.74
+   ],
+   [
+    "angry",
+    13.74,
+    14.16
+   ],
+   [
+    "because",
+    14.16,
+    14.5
+   ],
+   [
+    "he",
+    14.5,
+    14.66
+   ],
+   [
+    "promoted",
+    14.66,
+    14.96
+   ],
+   [
+    "the",
+    14.96,
+    15.16
+   ],
+   [
+    "Church",
+    15.16,
+    15.32
+   ],
+   [
+    "of",
+    15.32,
+    15.5
+   ],
+   [
+    "England.",
+    15.5,
+    15.84
+   ],
+   [
+    "Militia",
+    16.2,
+    16.56
+   ],
+   [
+    "and",
+    16.56,
+    16.74
+   ],
+   [
+    "citizens",
+    16.74,
+    17.08
+   ],
+   [
+    "quickly",
+    17.08,
+    17.52
+   ],
+   [
+    "took",
+    17.54,
+    17.84
+   ],
+   [
+    "dominion",
+    17.84,
+    18.28
+   ],
+   [
+    "officials",
+    18.28,
+    18.56
+   ],
+   [
+    "into",
+    18.56,
+    18.84
+   ],
+   [
+    "custody.",
+    18.84,
+    19.12
+   ],
+   [
+    "Amazingly,",
+    19.66,
+    20.28
+   ],
+   [
+    "not",
+    20.4,
+    20.48
+   ],
+   [
+    "a",
+    20.48,
+    20.6
+   ],
+   [
+    "single",
+    20.6,
+    20.86
+   ],
+   [
+    "person",
+    20.86,
+    21.2
+   ],
+   [
+    "was",
+    21.2,
+    21.42
+   ],
+   [
+    "hurt",
+    21.42,
+    21.62
+   ],
+   [
+    "during",
+    21.62,
+    21.94
+   ],
+   [
+    "the",
+    21.94,
+    22.1
+   ],
+   [
+    "entire",
+    22.1,
+    22.42
+   ],
+   [
+    "revolt.",
+    22.42,
+    22.86
+   ],
+   [
+    "The",
+    23.32,
+    23.34
+   ],
+   [
+    "former",
+    23.4,
+    23.56
+   ],
+   [
+    "government",
+    23.56,
+    23.88
+   ],
+   [
+    "leaders",
+    23.88,
+    24.32
+   ],
+   [
+    "simply",
+    24.32,
+    24.7
+   ],
+   [
+    "reclaimed",
+    24.7,
+    25.24
+   ],
+   [
+    "control.",
+    25.24,
+    25.76
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   19,
+   32,
+   43,
+   52,
+   63
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1689
+  },
+  {
+   "type": "stat",
+   "value": 1686,
+   "unit": "year",
+   "label": "governor commissioned"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 0,
+   "unit": "casualties",
+   "label": "sustained casualties"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  42.358,
+  -71.06
+ ],
+ "qid": "Q3136592",
+ "pron_wer": 0.014,
+ "angle": 0,
+ "source": {
+  "title": "1689 Boston revolt",
+  "url": "https://en.wikipedia.org/wiki/1689_Boston_revolt",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T13:34:37Z",
+ "trimmed": true
+}

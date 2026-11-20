@@ -280,7 +280,8 @@
   "nasa:1508687",
   "Alexandra of Denmark",
   "Martha Bradley",
-  "nasa:1393311"
+  "nasa:1393311",
+  "Siege of Baghdad"
  ],
  "rejected": [
   "Chameleon",
@@ -348,7 +349,9 @@
   "Action of 1 January 1800",
   "nasa:1282389",
   "The All-Story Magazine",
-  "Cyclone Chapala"
+  "Cyclone Chapala",
+  "Bronwyn Bancroft",
+  "nasa:1507747"
  ],
  "angles": {
   "Blue whale": [
@@ -1268,6 +1271,9 @@
   ],
   "nasa:1393311": [
    "Pacific Northwest Cloud Cloak: Mountains looked like islands in the clouds."
+  ],
+  "Siege of Baghdad": [
+   "The Fall of Baghdad: Baghdad fell in just a few weeks."
   ]
  },
  "exhausted": []
