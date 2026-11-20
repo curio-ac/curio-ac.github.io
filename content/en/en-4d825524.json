@@ -1,0 +1,427 @@
+{
+ "id": "en-4d825524",
+ "lang": "en",
+ "title": "Pennsylvania's Hidden Canyon",
+ "cat": "geography",
+ "emoji": "🌲",
+ "sentences": [
+  "Pennsylvania has its own 1,500-foot-deep canyon.",
+  "Pine Creek Gorge stretches 45 miles across lush, forested slopes.",
+  "Glaciers didn't carve this gorge directly, but their melting water did.",
+  "These ice age floods forced the river to change its flow direction permanently.",
+  "Loggers once stripped the area so bare it was called the Pennsylvania Desert.",
+  "Today, the forest has returned, creating a vibrant, natural masterpiece."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Pennsylvania",
+    0.35,
+    0.35
+   ],
+   [
+    "has",
+    0.35,
+    0.85
+   ],
+   [
+    "its",
+    0.85,
+    1.01
+   ],
+   [
+    "own",
+    1.11,
+    1.29
+   ],
+   [
+    "1,500-foot-deep",
+    1.29,
+    2.87
+   ],
+   [
+    "canyon.",
+    2.87,
+    3.39
+   ],
+   [
+    "Pine",
+    4.03,
+    4.17
+   ],
+   [
+    "Creek",
+    4.17,
+    4.41
+   ],
+   [
+    "Gorge",
+    4.41,
+    4.79
+   ],
+   [
+    "stretches",
+    4.79,
+    5.29
+   ],
+   [
+    "45",
+    5.29,
+    5.89
+   ],
+   [
+    "miles",
+    5.89,
+    6.41
+   ],
+   [
+    "across",
+    6.41,
+    6.79
+   ],
+   [
+    "lush,",
+    6.79,
+    7.51
+   ],
+   [
+    "forested",
+    7.71,
+    8.17
+   ],
+   [
+    "slopes.",
+    8.17,
+    8.47
+   ],
+   [
+    "Glaciers",
+    9.27,
+    9.61
+   ],
+   [
+    "didn't",
+    9.61,
+    9.99
+   ],
+   [
+    "carve",
+    9.99,
+    10.19
+   ],
+   [
+    "this",
+    10.19,
+    10.43
+   ],
+   [
+    "gorge",
+    10.43,
+    10.69
+   ],
+   [
+    "directly,",
+    10.69,
+    11.45
+   ],
+   [
+    "but",
+    11.49,
+    11.69
+   ],
+   [
+    "their",
+    11.71,
+    11.83
+   ],
+   [
+    "melting",
+    12.11,
+    12.21
+   ],
+   [
+    "water",
+    12.21,
+    12.57
+   ],
+   [
+    "did.",
+    12.57,
+    13.01
+   ],
+   [
+    "These",
+    13.69,
+    13.83
+   ],
+   [
+    "ice",
+    13.83,
+    14.15
+   ],
+   [
+    "age",
+    14.15,
+    14.37
+   ],
+   [
+    "floods",
+    14.37,
+    14.75
+   ],
+   [
+    "forced",
+    14.75,
+    15.21
+   ],
+   [
+    "the",
+    15.21,
+    15.43
+   ],
+   [
+    "river",
+    15.43,
+    15.59
+   ],
+   [
+    "to",
+    15.59,
+    15.77
+   ],
+   [
+    "change",
+    15.77,
+    16.11
+   ],
+   [
+    "its",
+    16.11,
+    16.33
+   ],
+   [
+    "flow",
+    16.33,
+    16.59
+   ],
+   [
+    "direction",
+    16.59,
+    16.95
+   ],
+   [
+    "permanently.",
+    16.95,
+    17.67
+   ],
+   [
+    "Loggers",
+    18.57,
+    18.89
+   ],
+   [
+    "once",
+    18.89,
+    19.13
+   ],
+   [
+    "stripped",
+    19.13,
+    19.49
+   ],
+   [
+    "the",
+    19.49,
+    19.67
+   ],
+   [
+    "area",
+    19.67,
+    19.91
+   ],
+   [
+    "so",
+    19.91,
+    20.27
+   ],
+   [
+    "bare",
+    20.27,
+    20.55
+   ],
+   [
+    "it",
+    20.55,
+    20.85
+   ],
+   [
+    "was",
+    20.85,
+    20.97
+   ],
+   [
+    "called",
+    21.03,
+    21.21
+   ],
+   [
+    "the",
+    21.21,
+    21.37
+   ],
+   [
+    "Pennsylvania",
+    21.37,
+    21.95
+   ],
+   [
+    "Desert.",
+    21.95,
+    22.53
+   ],
+   [
+    "Today,",
+    23.25,
+    23.57
+   ],
+   [
+    "the",
+    23.79,
+    23.81
+   ],
+   [
+    "forest",
+    23.93,
+    24.09
+   ],
+   [
+    "has",
+    24.09,
+    24.37
+   ],
+   [
+    "returned,",
+    24.37,
+    24.79
+   ],
+   [
+    "creating",
+    25.25,
+    25.43
+   ],
+   [
+    "a",
+    25.43,
+    25.61
+   ],
+   [
+    "vibrant,",
+    25.61,
+    26.06
+   ],
+   [
+    "natural",
+    26.71,
+    26.91
+   ],
+   [
+    "masterpiece.",
+    26.91,
+    27.15
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   16,
+   27,
+   40,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pine_Creek_Gorge%2C_north_from_Leonard_Harrison_State_Park.JPG/960px-Pine_Creek_Gorge%2C_north_from_Leonard_Harrison_State_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ruhrfisch",
+   "page": "https://commons.wikimedia.org/wiki/File:Pine_Creek_Gorge,_north_from_Leonard_Harrison_State_Park.JPG",
+   "desc": "Pine Creek Gorge, north from Leonard Harrison State Park — Pine Creek Gorge with Pine Creek and Pine Creek Rail Trail, looking north from the main vista in Leonard Harrison State Park in Shippen Township, Tioga County, Pennsylvania, United States"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pine_Creek_Gorge_Panorama.jpg/960px-Pine_Creek_Gorge_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 175,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ruhrfisch",
+   "page": "https://commons.wikimedia.org/wiki/File:Pine_Creek_Gorge_Panorama.jpg",
+   "desc": "Pine Creek Gorge Panorama — Pine Creek Gorge Panorama, taken from West Rim Trail in Tioga County, Pennsylvania, USA. View is of the \"Grand Canyon of Pennsylvania\" looking south, Pine Creek and the rail-trail are visible."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/PA-grandcanyon-autumn.JPG/960px-PA-grandcanyon-autumn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 854,
+   "license": "CC BY 3.0",
+   "artist": "Snottywong",
+   "page": "https://commons.wikimedia.org/wiki/File:PA-grandcanyon-autumn.JPG",
+   "desc": "PA-grandcanyon-autumn — A view of Pine Creek Gorge (a.k.a. Pennsylvania Grand Canyon) in autumn."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1500,
+   "unit": "feet",
+   "label": "canyon depth"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "lush forest",
+   "box": [
+    142,
+    0,
+    1000,
+    1000
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Pennsylvania’s Grand Canyon",
+  "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T14:28:05Z",
+ "trimmed": true
+}
