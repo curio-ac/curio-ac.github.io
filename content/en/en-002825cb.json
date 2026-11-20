@@ -1,0 +1,396 @@
+{
+ "id": "en-002825cb",
+ "lang": "en",
+ "title": "The First Female Aeronaut",
+ "cat": "history",
+ "emoji": "🎈",
+ "sentences": [
+  "She was history's first professional female balloonist.",
+  "Sophie Blanchard made over 60 balloon ascents throughout Europe.",
+  "Napoleon Bonaparte even appointed her his official aeronaut for festivals.",
+  "But ballooning was incredibly risky for early pioneers.",
+  "She endured freezing temperatures and once nearly drowned in a marsh.",
+  "Tragically, her balloon caught fire during a 1819 exhibition, causing her fatal crash."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.26,
+    0.36
+   ],
+   [
+    "was",
+    0.36,
+    0.5
+   ],
+   [
+    "history's",
+    0.5,
+    1.06
+   ],
+   [
+    "first",
+    1.06,
+    1.3
+   ],
+   [
+    "professional",
+    1.3,
+    2.0
+   ],
+   [
+    "female",
+    2.0,
+    2.42
+   ],
+   [
+    "balloonist.",
+    2.42,
+    3.47
+   ],
+   [
+    "Sophie",
+    3.64,
+    3.74
+   ],
+   [
+    "Blanchard",
+    3.74,
+    4.22
+   ],
+   [
+    "made",
+    4.22,
+    4.42
+   ],
+   [
+    "over",
+    4.42,
+    4.64
+   ],
+   [
+    "60",
+    5.02,
+    5.12
+   ],
+   [
+    "balloon",
+    5.12,
+    5.46
+   ],
+   [
+    "ascents",
+    5.46,
+    5.84
+   ],
+   [
+    "throughout",
+    5.98,
+    6.08
+   ],
+   [
+    "Europe.",
+    6.08,
+    6.46
+   ],
+   [
+    "Napoleon",
+    7.12,
+    7.26
+   ],
+   [
+    "Bonaparte",
+    7.26,
+    7.78
+   ],
+   [
+    "even",
+    7.78,
+    8.06
+   ],
+   [
+    "appointed",
+    8.28,
+    8.38
+   ],
+   [
+    "her",
+    8.38,
+    8.62
+   ],
+   [
+    "his",
+    8.62,
+    8.8
+   ],
+   [
+    "official",
+    8.8,
+    9.22
+   ],
+   [
+    "aeronaut",
+    9.22,
+    9.82
+   ],
+   [
+    "for",
+    9.82,
+    10.0
+   ],
+   [
+    "festivals.",
+    10.0,
+    11.05
+   ],
+   [
+    "But",
+    11.44,
+    11.52
+   ],
+   [
+    "ballooning",
+    11.56,
+    11.92
+   ],
+   [
+    "was",
+    11.92,
+    12.12
+   ],
+   [
+    "incredibly",
+    12.12,
+    12.76
+   ],
+   [
+    "risky",
+    12.76,
+    13.28
+   ],
+   [
+    "for",
+    13.48,
+    13.58
+   ],
+   [
+    "early",
+    13.58,
+    13.8
+   ],
+   [
+    "pioneers.",
+    13.8,
+    14.08
+   ],
+   [
+    "She",
+    14.88,
+    14.98
+   ],
+   [
+    "endured",
+    14.98,
+    15.14
+   ],
+   [
+    "freezing",
+    15.14,
+    15.46
+   ],
+   [
+    "temperatures",
+    15.46,
+    16.06
+   ],
+   [
+    "and",
+    16.06,
+    16.44
+   ],
+   [
+    "once",
+    16.44,
+    16.66
+   ],
+   [
+    "nearly",
+    16.66,
+    17.0
+   ],
+   [
+    "drowned",
+    17.0,
+    17.36
+   ],
+   [
+    "in",
+    17.36,
+    17.54
+   ],
+   [
+    "a",
+    17.54,
+    17.6
+   ],
+   [
+    "marsh.",
+    17.6,
+    17.8
+   ],
+   [
+    "Tragically,",
+    18.58,
+    19.16
+   ],
+   [
+    "her",
+    19.46,
+    19.48
+   ],
+   [
+    "balloon",
+    19.48,
+    19.68
+   ],
+   [
+    "caught",
+    19.68,
+    19.94
+   ],
+   [
+    "fire",
+    19.94,
+    20.3
+   ],
+   [
+    "during",
+    20.3,
+    20.6
+   ],
+   [
+    "a",
+    20.6,
+    20.7
+   ],
+   [
+    "1819",
+    20.8,
+    21.38
+   ],
+   [
+    "exhibition,",
+    21.38,
+    22.06
+   ],
+   [
+    "causing",
+    22.62,
+    22.72
+   ],
+   [
+    "her",
+    22.72,
+    22.92
+   ],
+   [
+    "fatal",
+    23.1,
+    23.2
+   ],
+   [
+    "crash.",
+    23.2,
+    23.54
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   26,
+   34,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Sophie_Blanchard.jpg/960px-Sophie_Blanchard.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "Jules Porreau",
+   "page": "https://commons.wikimedia.org/wiki/File:Sophie_Blanchard.jpg",
+   "desc": "Sophie Blanchard — Sophie Blanchard early 19th century balloonist"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Blanchardballoon3.jpg/960px-Blanchardballoon3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1064,
+   "license": "Public domain",
+   "artist": "Luigi Rados",
+   "page": "https://commons.wikimedia.org/wiki/File:Blanchardballoon3.jpg",
+   "desc": "Blanchardballoon3 — Portrait of French balloonist Sophie Blanchard standing in the decorated basket of her balloon during her flight in Milan, Italy, in 1811, in the presence of the imperial and royal highness."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Blancharddeath.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1013,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Blancharddeath.jpg",
+   "desc": "Blancharddeath — Madame Blanchard falls to her death after her balloon catches fire during a display in Paris 1819"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 60,
+   "unit": "ascents",
+   "label": "balloon ascents"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1819
+  }
+ ],
+ "geo": null,
+ "qid": "Q241755",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Sophie Blanchard",
+  "url": "https://en.wikipedia.org/wiki/Sophie_Blanchard",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T21:40:22Z",
+ "trimmed": true
+}
