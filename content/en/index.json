@@ -258,7 +258,8 @@
   "Albertosaurus",
   "nasa:1301623",
   "Theodore Komnenos Doukas",
-  "Daspletosaurus"
+  "Daspletosaurus",
+  "Cygnus X-1"
  ],
  "rejected": [
   "Chameleon",
@@ -1174,6 +1175,9 @@
   ],
   "Daspletosaurus": [
    "The Frightful Lizard: Meet the frightful lizard, Daspletosaurus!"
+  ],
+  "Cygnus X-1": [
+   "Cygnus X-1: The First Black Hole: Cygnus X-1 is history's first accepted black hole."
   ]
  },
  "exhausted": []

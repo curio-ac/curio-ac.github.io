@@ -1,0 +1,467 @@
+{
+ "id": "en-0fc6db62",
+ "lang": "en",
+ "title": "Historic New Zealand Suburb",
+ "cat": "history",
+ "emoji": "🇳🇿",
+ "sentences": [
+  "An 1860s gold rush made this suburb grow rapidly!",
+  "Wealthy pioneer William Henry Valpy originally founded the area.",
+  "Its name reflects ties to an English town.",
+  "By the end of the 19th century, it was heavily industrialised.",
+  "Strong Protestant roots led to a left-leaning political stance.",
+  "The South Island Main Trunk railway runs through the suburb.",
+  "A bypass skirts its retail area connecting the southern motorway."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.08,
+    0.1
+   ],
+   [
+    "1860s",
+    0.1,
+    1.1
+   ],
+   [
+    "gold",
+    1.1,
+    1.28
+   ],
+   [
+    "rush",
+    1.28,
+    1.64
+   ],
+   [
+    "made",
+    1.74,
+    1.9
+   ],
+   [
+    "this",
+    1.9,
+    2.14
+   ],
+   [
+    "suburb",
+    2.14,
+    2.56
+   ],
+   [
+    "grow",
+    2.56,
+    2.9
+   ],
+   [
+    "rapidly!",
+    2.9,
+    4.08
+   ],
+   [
+    "Wealthy",
+    4.08,
+    4.36
+   ],
+   [
+    "pioneer",
+    4.36,
+    4.7
+   ],
+   [
+    "William",
+    4.7,
+    5.22
+   ],
+   [
+    "Henry",
+    5.22,
+    5.68
+   ],
+   [
+    "Valpy",
+    5.68,
+    6.08
+   ],
+   [
+    "originally",
+    6.34,
+    6.54
+   ],
+   [
+    "founded",
+    6.54,
+    7.0
+   ],
+   [
+    "the",
+    7.0,
+    7.2
+   ],
+   [
+    "area.",
+    7.2,
+    7.34
+   ],
+   [
+    "Its",
+    8.04,
+    8.14
+   ],
+   [
+    "name",
+    8.14,
+    8.4
+   ],
+   [
+    "reflects",
+    8.4,
+    8.78
+   ],
+   [
+    "ties",
+    8.98,
+    9.2
+   ],
+   [
+    "to",
+    9.2,
+    9.48
+   ],
+   [
+    "an",
+    9.48,
+    9.58
+   ],
+   [
+    "English",
+    9.58,
+    9.86
+   ],
+   [
+    "town.",
+    9.86,
+    9.98
+   ],
+   [
+    "By",
+    10.76,
+    10.86
+   ],
+   [
+    "the",
+    10.86,
+    10.98
+   ],
+   [
+    "end",
+    10.98,
+    11.12
+   ],
+   [
+    "of",
+    11.12,
+    11.22
+   ],
+   [
+    "the",
+    11.22,
+    11.3
+   ],
+   [
+    "19th",
+    11.3,
+    12.02
+   ],
+   [
+    "century,",
+    12.02,
+    12.26
+   ],
+   [
+    "it",
+    12.26,
+    12.32
+   ],
+   [
+    "was",
+    12.32,
+    12.46
+   ],
+   [
+    "heavily",
+    12.46,
+    12.8
+   ],
+   [
+    "industrialised.",
+    12.8,
+    13.26
+   ],
+   [
+    "Strong",
+    14.24,
+    14.46
+   ],
+   [
+    "Protestant",
+    14.46,
+    14.9
+   ],
+   [
+    "roots",
+    14.9,
+    15.32
+   ],
+   [
+    "led",
+    15.32,
+    15.68
+   ],
+   [
+    "to",
+    15.68,
+    15.86
+   ],
+   [
+    "a",
+    15.86,
+    15.98
+   ],
+   [
+    "left-leaning",
+    15.98,
+    16.5
+   ],
+   [
+    "political",
+    16.5,
+    16.86
+   ],
+   [
+    "stance.",
+    16.86,
+    17.02
+   ],
+   [
+    "The",
+    17.92,
+    18.02
+   ],
+   [
+    "South",
+    18.02,
+    18.26
+   ],
+   [
+    "Island",
+    18.26,
+    18.64
+   ],
+   [
+    "Main",
+    18.64,
+    18.92
+   ],
+   [
+    "Trunk",
+    18.92,
+    19.3
+   ],
+   [
+    "railway",
+    19.3,
+    19.64
+   ],
+   [
+    "runs",
+    19.64,
+    20.04
+   ],
+   [
+    "through",
+    20.04,
+    20.26
+   ],
+   [
+    "the",
+    20.26,
+    20.36
+   ],
+   [
+    "suburb.",
+    20.36,
+    20.66
+   ],
+   [
+    "A",
+    21.22,
+    21.32
+   ],
+   [
+    "bypass",
+    21.32,
+    21.66
+   ],
+   [
+    "skirts",
+    21.66,
+    22.04
+   ],
+   [
+    "its",
+    22.04,
+    22.24
+   ],
+   [
+    "retail",
+    22.24,
+    22.56
+   ],
+   [
+    "area",
+    22.56,
+    22.92
+   ],
+   [
+    "connecting",
+    23.18,
+    23.32
+   ],
+   [
+    "the",
+    23.32,
+    23.6
+   ],
+   [
+    "southern",
+    23.6,
+    23.82
+   ],
+   [
+    "motorway.",
+    23.82,
+    24.14
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   26,
+   37,
+   46,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/StateLibQld_1_104636_Gold_mining%2C_ca._1869.jpg/960px-StateLibQld_1_104636_Gold_mining%2C_ca._1869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 408,
+   "license": "Public domain",
+   "artist": "Richard Daintree",
+   "page": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_104636_Gold_mining,_ca._1869.jpg",
+   "desc": "StateLibQld 1 104636 Gold mining, ca. 1869 — Gold mining, ca. 1869 The Richard Daintree collection held in the John Oxley Library has many unidentified images. If you are able to assist with identification, please click on the Feedback tab. Richard Daintree, g"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/St._Peter%27s_church%2C_Caversham_-_geograph.org.uk_-_2292646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Ruth Sharville",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_church,_Caversham_-_geograph.org.uk_-_2292646.jpg",
+   "desc": "St. Peter's church, Caversham - geograph.org.uk - 2292646 — St. Peter's church, Caversham, near to Caversham, Reading, Great Britain."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CavershamNZchurch.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 583,
+   "license": "CC BY-SA 3.0",
+   "artist": "Grutness at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:CavershamNZchurch.jpg",
+   "desc": "CavershamNZchurch — Caversham Presbyterian Church, Caversham. Photograph by James Dignan (User:Grutness), March 15, 2009. NZHPT Historic Place - Category I, Register Number: 7319"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/CavershamTunnelNZ.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 709,
+   "license": "CC BY-SA 3.0",
+   "artist": "Grutness at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:CavershamTunnelNZ.jpg",
+   "desc": "CavershamTunnelNZ — Caversham Rail Tunnel, Dunedin, New Zealand. Photograph by James Dignan (User: Grutness), April 3rd, 2009"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/LookoutPtNZ.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 589,
+   "license": "CC BY-SA 3.0",
+   "artist": "Grutness at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:LookoutPtNZ.jpg",
+   "desc": "LookoutPtNZ — Cars sweep southwest past the Lookout Point Fire Station at the start of the Dunedin Southern Motorway, New Zealand. Photograph by James Dignan (User:Grutness), March 22, 2009."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1860
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "South Island Main Trunk railway",
+   "box": [
+    770,
+    510,
+    1000,
+    680
+   ]
+  },
+  {
+   "type": "map"
+  }
+ ],
+ "geo": [
+  -45.9,
+  170.483
+ ],
+ "qid": "Q685700",
+ "pron_wer": 0.06,
+ "angle": 0,
+ "source": {
+  "title": "Caversham, New Zealand",
+  "url": "https://en.wikipedia.org/wiki/Caversham%2C_New_Zealand",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T06:38:04Z",
+ "trimmed": true
+}
