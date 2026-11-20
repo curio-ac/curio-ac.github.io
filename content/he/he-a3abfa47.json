@@ -1,0 +1,450 @@
+{
+ "id": "he-a3abfa47",
+ "lang": "he",
+ "title": "האישה הכי מסתורית באתונה",
+ "cat": "history",
+ "emoji": "🏛️",
+ "sentences": [
+  "אספאסיה הייתה אחת הנשים המפורסמות ביוון העתיקה.",
+  "היא נולדה במילטוס ועברה לחיות באתונה.",
+  "היא הייתה בת זוגו של המדינאי פריקלס, ולשניהם נולד בן.",
+  "אחרי מותו של פריקלס, היא הייתה בת זוגו של ליסיקלס.",
+  "פילוסופים תיארו אותה כבעלת השפעה פוליטית וכריזמה אינטלקטואלית יוצאת דופן.",
+  "חלק מהכתבים העתיקים טענו שהיא ניהלה בית בושת, אך כנראה אלו היו בדיחות לעג לפריקלס.",
+  "העובדות המדויקות על חייה נותרו בגדר תעלומה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "אספאסיה",
+    0.08,
+    0.66
+   ],
+   [
+    "הייתה",
+    0.66,
+    1.2
+   ],
+   [
+    "אחת",
+    1.2,
+    1.5
+   ],
+   [
+    "הנשים",
+    1.5,
+    1.84
+   ],
+   [
+    "המפורסמות",
+    1.84,
+    2.8
+   ],
+   [
+    "ביוון",
+    2.8,
+    3.28
+   ],
+   [
+    "העתיקה.",
+    3.28,
+    3.42
+   ],
+   [
+    "היא",
+    4.32,
+    4.32
+   ],
+   [
+    "נולדה",
+    4.32,
+    4.66
+   ],
+   [
+    "במילטוס",
+    4.66,
+    5.32
+   ],
+   [
+    "ועברה",
+    5.58,
+    5.86
+   ],
+   [
+    "לחיות",
+    5.86,
+    6.2
+   ],
+   [
+    "באתונה.",
+    6.2,
+    6.72
+   ],
+   [
+    "היא",
+    7.5,
+    7.5
+   ],
+   [
+    "הייתה",
+    7.5,
+    7.74
+   ],
+   [
+    "בת",
+    7.74,
+    7.9
+   ],
+   [
+    "זוגו",
+    7.9,
+    8.28
+   ],
+   [
+    "של",
+    8.28,
+    8.48
+   ],
+   [
+    "המדינאי",
+    8.48,
+    9.06
+   ],
+   [
+    "פריקלס,",
+    9.06,
+    9.66
+   ],
+   [
+    "ולשניהם",
+    9.98,
+    10.56
+   ],
+   [
+    "נולד",
+    10.56,
+    10.88
+   ],
+   [
+    "בן.",
+    10.88,
+    10.98
+   ],
+   [
+    "אחרי",
+    11.96,
+    12.12
+   ],
+   [
+    "מותו",
+    12.12,
+    12.54
+   ],
+   [
+    "של",
+    12.54,
+    12.72
+   ],
+   [
+    "פריקלס,",
+    12.72,
+    12.82
+   ],
+   [
+    "היא",
+    13.64,
+    13.64
+   ],
+   [
+    "הייתה",
+    13.64,
+    13.86
+   ],
+   [
+    "בת",
+    13.86,
+    13.98
+   ],
+   [
+    "זוגו",
+    13.98,
+    14.34
+   ],
+   [
+    "של",
+    14.34,
+    14.54
+   ],
+   [
+    "ליסיקלס.",
+    14.54,
+    14.86
+   ],
+   [
+    "פילוסופים",
+    16.14,
+    16.64
+   ],
+   [
+    "תיארו",
+    16.64,
+    17.1
+   ],
+   [
+    "אותה",
+    17.1,
+    17.34
+   ],
+   [
+    "כבעלת",
+    17.44,
+    17.84
+   ],
+   [
+    "השפעה",
+    17.86,
+    18.34
+   ],
+   [
+    "פוליטית",
+    18.34,
+    18.94
+   ],
+   [
+    "וכריזמה",
+    19.22,
+    19.7
+   ],
+   [
+    "אינטלקטואלית",
+    19.7,
+    20.62
+   ],
+   [
+    "יוצאת",
+    20.7,
+    21.12
+   ],
+   [
+    "דופן.",
+    21.12,
+    21.38
+   ],
+   [
+    "חלק",
+    22.3,
+    22.48
+   ],
+   [
+    "מהכתבים",
+    22.48,
+    23.04
+   ],
+   [
+    "העתיקים",
+    23.04,
+    23.58
+   ],
+   [
+    "טענו",
+    23.58,
+    23.96
+   ],
+   [
+    "שהיא",
+    23.96,
+    24.26
+   ],
+   [
+    "ניהלה",
+    24.26,
+    24.54
+   ],
+   [
+    "בית",
+    24.54,
+    24.82
+   ],
+   [
+    "בושת,",
+    24.82,
+    25.2
+   ],
+   [
+    "אך",
+    25.7,
+    25.78
+   ],
+   [
+    "כנראה",
+    25.88,
+    26.3
+   ],
+   [
+    "אלו",
+    26.3,
+    26.54
+   ],
+   [
+    "היו",
+    26.54,
+    26.74
+   ],
+   [
+    "בדיחות",
+    26.74,
+    27.16
+   ],
+   [
+    "לעג",
+    27.22,
+    27.6
+   ],
+   [
+    "לפריקלס.",
+    27.6,
+    27.96
+   ],
+   [
+    "העובדות",
+    28.98,
+    29.32
+   ],
+   [
+    "המדויקות",
+    29.32,
+    29.98
+   ],
+   [
+    "על",
+    29.98,
+    30.12
+   ],
+   [
+    "חייה",
+    30.12,
+    30.5
+   ],
+   [
+    "נותרו",
+    30.5,
+    31.24
+   ],
+   [
+    "בגדר",
+    31.24,
+    31.66
+   ],
+   [
+    "תעלומה.",
+    31.66,
+    32.02
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   23,
+   33,
+   43,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Aspasie_-_Mus%C3%A9e_de_Pergame_-_Berlin.jpg/960px-Aspasie_-_Mus%C3%A9e_de_Pergame_-_Berlin.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY 3.0",
+   "artist": "Daigaz",
+   "page": "https://commons.wikimedia.org/wiki/File:Aspasie_-_Mus%C3%A9e_de_Pergame_-_Berlin.jpg",
+   "desc": "Aspasie - Musée de Pergame - Berlin — Buste d'Aspasie, copie romaine d'un original grec daté aux alentours de 460 av. J.C. Marbre. Musée de Pergame, Berlin. Inv. 82"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Miletus_-_Ancient_Greek_theatre_01.jpg/960px-Miletus_-_Ancient_Greek_theatre_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 221,
+   "license": "CC BY-SA 3.0",
+   "artist": "Bernard Gagnon",
+   "page": "https://commons.wikimedia.org/wiki/File:Miletus_-_Ancient_Greek_theatre_01.jpg",
+   "desc": "Miletus - Ancient Greek theatre 01 — Ancient Greek theatre in Miletus, Turkey"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Vinzenz_Katzler_-_Pericles_at_the_body_of_his_son_%28Paralus_or_Xanthippu%29.jpg/960px-Vinzenz_Katzler_-_Pericles_at_the_body_of_his_son_%28Paralus_or_Xanthippu%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 565,
+   "license": "Public domain",
+   "artist": "Vinzenz Katzler",
+   "page": "https://commons.wikimedia.org/wiki/File:Vinzenz_Katzler_-_Pericles_at_the_body_of_his_son_(Paralus_or_Xanthippu).jpg",
+   "desc": "Vinzenz Katzler - Pericles at the body of his son (Paralus or Xanthippu) — Vinzenz Katzler - Pericles at the body of his son (Paralus or Xanthippu)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Aspasia_painting.jpg/960px-Aspasia_painting.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 911,
+   "license": "Public domain",
+   "artist": "Marie-Geneviève Bouliard",
+   "page": "https://commons.wikimedia.org/wiki/File:Aspasia_painting.jpg",
+   "desc": "Aspasia painting — Portrait of Aspasia"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": -470
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Pericles",
+   "box": [
+    225,
+    386,
+    938,
+    733
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q228564",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "אספאסיה",
+  "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%A4%D7%90%D7%A1%D7%99%D7%94",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T14:55:56Z",
+ "trimmed": true
+}
