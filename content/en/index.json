@@ -241,7 +241,8 @@
   "Banksia caleyi",
   "Louis Abramson",
   "nasa:1462714",
-  "New York City"
+  "New York City",
+  "nasa:1504411"
  ],
  "rejected": [
   "Chameleon",
@@ -1103,6 +1104,9 @@
   ],
   "New York City": [
    "Inside New York City: New York is America's most populous city."
+  ],
+  "nasa:1504411": [
+   "High Schoolers Analyzing Lunar Missions: High schoolers modeled real lunar mission data."
   ]
  },
  "exhausted": []

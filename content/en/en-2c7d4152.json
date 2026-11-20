@@ -1,0 +1,427 @@
+{
+ "id": "en-2c7d4152",
+ "lang": "en",
+ "title": "The First Christian King",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "He was the first Anglo-Saxon king to convert to Christianity.",
+  "Æthelberht ruled Kent starting around 589.",
+  "He married the Frankish princess Bertha, building a powerful alliance.",
+  "Her influence likely encouraged Pope Gregory I to send the missionary Augustine.",
+  "Augustine arrived in 597 on the Isle of Thanet.",
+  "Æthelberht then gave land in Canterbury to establish the new church."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0.02,
+    0.12
+   ],
+   [
+    "was",
+    0.12,
+    0.28
+   ],
+   [
+    "the",
+    0.28,
+    0.42
+   ],
+   [
+    "first",
+    0.42,
+    0.72
+   ],
+   [
+    "Anglo-Saxon",
+    0.72,
+    1.6
+   ],
+   [
+    "king",
+    1.6,
+    1.82
+   ],
+   [
+    "to",
+    1.82,
+    2.04
+   ],
+   [
+    "convert",
+    2.04,
+    2.38
+   ],
+   [
+    "to",
+    2.38,
+    2.56
+   ],
+   [
+    "Christianity.",
+    2.56,
+    3.11
+   ],
+   [
+    "Æthelberht",
+    3.68,
+    4.12
+   ],
+   [
+    "ruled",
+    4.16,
+    4.28
+   ],
+   [
+    "Kent",
+    4.28,
+    4.6
+   ],
+   [
+    "starting",
+    4.6,
+    4.96
+   ],
+   [
+    "around",
+    4.96,
+    5.26
+   ],
+   [
+    "589.",
+    5.26,
+    6.12
+   ],
+   [
+    "He",
+    6.64,
+    6.74
+   ],
+   [
+    "married",
+    6.74,
+    7.02
+   ],
+   [
+    "the",
+    7.02,
+    7.18
+   ],
+   [
+    "Frankish",
+    7.28,
+    7.58
+   ],
+   [
+    "princess",
+    7.58,
+    7.82
+   ],
+   [
+    "Bertha,",
+    7.82,
+    8.57
+   ],
+   [
+    "building",
+    8.72,
+    8.88
+   ],
+   [
+    "a",
+    8.88,
+    9.08
+   ],
+   [
+    "powerful",
+    9.28,
+    9.5
+   ],
+   [
+    "alliance.",
+    9.5,
+    10.05
+   ],
+   [
+    "Her",
+    10.78,
+    10.88
+   ],
+   [
+    "influence",
+    10.88,
+    11.34
+   ],
+   [
+    "likely",
+    11.34,
+    11.74
+   ],
+   [
+    "encouraged",
+    11.82,
+    12.4
+   ],
+   [
+    "Pope",
+    12.4,
+    12.68
+   ],
+   [
+    "Gregory",
+    12.82,
+    13.06
+   ],
+   [
+    "I",
+    13.06,
+    13.42
+   ],
+   [
+    "to",
+    13.42,
+    13.8
+   ],
+   [
+    "send",
+    13.8,
+    14.04
+   ],
+   [
+    "the",
+    14.04,
+    14.18
+   ],
+   [
+    "missionary",
+    14.18,
+    14.54
+   ],
+   [
+    "Augustine.",
+    14.54,
+    14.92
+   ],
+   [
+    "Augustine",
+    16.04,
+    16.42
+   ],
+   [
+    "arrived",
+    16.42,
+    16.66
+   ],
+   [
+    "in",
+    16.66,
+    16.86
+   ],
+   [
+    "597",
+    17.08,
+    17.68
+   ],
+   [
+    "on",
+    17.68,
+    18.06
+   ],
+   [
+    "the",
+    18.06,
+    18.18
+   ],
+   [
+    "Isle",
+    18.18,
+    18.48
+   ],
+   [
+    "of",
+    18.48,
+    18.6
+   ],
+   [
+    "Thanet.",
+    18.6,
+    19.35
+   ],
+   [
+    "Æthelberht",
+    19.8,
+    20.06
+   ],
+   [
+    "then",
+    20.08,
+    20.28
+   ],
+   [
+    "gave",
+    20.28,
+    20.48
+   ],
+   [
+    "land",
+    20.48,
+    20.76
+   ],
+   [
+    "in",
+    20.76,
+    20.92
+   ],
+   [
+    "Canterbury",
+    20.92,
+    21.48
+   ],
+   [
+    "to",
+    21.54,
+    21.64
+   ],
+   [
+    "establish",
+    21.64,
+    22.06
+   ],
+   [
+    "the",
+    22.06,
+    22.28
+   ],
+   [
+    "new",
+    22.28,
+    22.48
+   ],
+   [
+    "church.",
+    22.48,
+    22.58
+   ]
+  ],
+  "b": [
+   0,
+   10,
+   16,
+   26,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Aethelberht_of_Kent_sculpture_on_Canterbury_Cathedral.jpg/960px-Aethelberht_of_Kent_sculpture_on_Canterbury_Cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1073,
+   "license": "CC BY-SA 3.0",
+   "artist": "User:Saforrest",
+   "page": "https://commons.wikimedia.org/wiki/File:Aethelberht_of_Kent_sculpture_on_Canterbury_Cathedral.jpg",
+   "desc": "Aethelberht of Kent sculpture on Canterbury Cathedral — Sculpture of King Æthelberht of Kent, an Anglo-Saxon king and saint, on Canterbury Cathedral in England."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Ethelbert%2C_King_of_Kent_from_All_Souls_College_Chapel.jpg/960px-Ethelbert%2C_King_of_Kent_from_All_Souls_College_Chapel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1007,
+   "license": "Public domain",
+   "artist": "See description",
+   "page": "https://commons.wikimedia.org/wiki/File:Ethelbert,_King_of_Kent_from_All_Souls_College_Chapel.jpg",
+   "desc": "Ethelbert, King of Kent from All Souls College Chapel — This image is a JPEG version of the original PNG image at File: Ethelbert, King of Kent from All Souls College Chapel.png. Generally, this JPEG version should be used when displaying the file from Commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Statue_of_Queen_Bertha_of_Kent_-_geograph.org.uk_-_6942515.jpg/960px-Statue_of_Queen_Bertha_of_Kent_-_geograph.org.uk_-_6942515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1084,
+   "license": "CC BY-SA 2.0",
+   "artist": "Philip Halling",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Queen_Bertha_of_Kent_-_geograph.org.uk_-_6942515.jpg",
+   "desc": "Statue of Queen Bertha of Kent - geograph.org.uk - 6942515 — Statue of Queen Bertha of Kent"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Francisco_de_Goya_-_Saint_Gregory_the_Great%2C_Pope_-_Google_Art_Project.jpg/960px-Francisco_de_Goya_-_Saint_Gregory_the_Great%2C_Pope_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1267,
+   "license": "Public domain",
+   "artist": "Francisco Goya",
+   "page": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_-_Saint_Gregory_the_Great,_Pope_-_Google_Art_Project.jpg",
+   "desc": "Francisco de Goya - Saint Gregory the Great, Pope - Google Art Project — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Isle_of_Thanet.jpg/960px-Isle_of_Thanet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 552,
+   "license": "CC BY-SA 2.0",
+   "artist": "Matt Boulton from London, England",
+   "page": "https://commons.wikimedia.org/wiki/File:Isle_of_Thanet.jpg",
+   "desc": "Isle of Thanet — En route to Venice, I happened to look up from my book just as we were passing over Dover. It was a clear day, so I got this snap of Broadstairs and the rest of the Isle of Thanet (an island no longer). You wouldn't beli"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ethelbert_King_Kent.jpg/960px-Ethelbert_King_Kent.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Sumit Surai",
+   "page": "https://commons.wikimedia.org/wiki/File:Ethelbert_King_Kent.jpg",
+   "desc": "Ethelbert King Kent — Statue of Ethelbert - King of Kent with Canterbury Cathedral in the background"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 589
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "land in Canterbury",
+   "box": [
+    100,
+    0,
+    950,
+    600
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q272173",
+ "pron_wer": 0.034,
+ "angle": 0,
+ "source": {
+  "title": "Æthelberht of Kent",
+  "url": "https://en.wikipedia.org/wiki/%C3%86thelberht_of_Kent",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T00:46:16Z",
+ "trimmed": true
+}
