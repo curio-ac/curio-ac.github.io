@@ -1,0 +1,412 @@
+{
+ "id": "en-95179da4",
+ "lang": "en",
+ "title": "Join NASA's New Science Projects",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Listen to the sounds of space.",
+  "NASA selected 19 new citizen science projects for 2026.",
+  "You can join \"Overlap Zoo\" to help characterize dusty galaxies.",
+  "Another project uses gravitational light bending to spot distant exoplanets.",
+  "You can even monitor space weather by setting up your own equipment in Alaska.",
+  "Some teams will turn complex magnetosphere data into audio for you to hear."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Listen",
+    0.06,
+    0.3
+   ],
+   [
+    "to",
+    0.3,
+    0.58
+   ],
+   [
+    "the",
+    0.58,
+    0.7
+   ],
+   [
+    "sounds",
+    0.7,
+    1.08
+   ],
+   [
+    "of",
+    1.08,
+    1.34
+   ],
+   [
+    "space.",
+    1.34,
+    1.92
+   ],
+   [
+    "NASA",
+    2.28,
+    2.62
+   ],
+   [
+    "selected",
+    2.62,
+    3.08
+   ],
+   [
+    "19",
+    3.08,
+    3.56
+   ],
+   [
+    "new",
+    3.58,
+    4.06
+   ],
+   [
+    "citizen",
+    4.06,
+    4.42
+   ],
+   [
+    "science",
+    4.42,
+    4.94
+   ],
+   [
+    "projects",
+    4.94,
+    5.42
+   ],
+   [
+    "for",
+    5.42,
+    5.68
+   ],
+   [
+    "2026.",
+    5.68,
+    6.42
+   ],
+   [
+    "You",
+    7.18,
+    7.24
+   ],
+   [
+    "can",
+    7.24,
+    7.4
+   ],
+   [
+    "join",
+    7.4,
+    7.58
+   ],
+   [
+    "\"Overlap",
+    7.58,
+    8.34
+   ],
+   [
+    "Zoo\"",
+    8.34,
+    8.44
+   ],
+   [
+    "to",
+    8.86,
+    8.94
+   ],
+   [
+    "help",
+    8.94,
+    9.08
+   ],
+   [
+    "characterize",
+    9.08,
+    9.62
+   ],
+   [
+    "dusty",
+    9.62,
+    10.16
+   ],
+   [
+    "galaxies.",
+    10.16,
+    10.61
+   ],
+   [
+    "Another",
+    11.48,
+    11.68
+   ],
+   [
+    "project",
+    11.68,
+    12.16
+   ],
+   [
+    "uses",
+    12.16,
+    12.54
+   ],
+   [
+    "gravitational",
+    12.54,
+    13.22
+   ],
+   [
+    "light",
+    13.22,
+    13.68
+   ],
+   [
+    "bending",
+    13.68,
+    13.98
+   ],
+   [
+    "to",
+    13.98,
+    14.28
+   ],
+   [
+    "spot",
+    14.28,
+    14.5
+   ],
+   [
+    "distant",
+    14.5,
+    14.94
+   ],
+   [
+    "exoplanets.",
+    14.94,
+    15.44
+   ],
+   [
+    "You",
+    16.4,
+    16.5
+   ],
+   [
+    "can",
+    16.5,
+    16.62
+   ],
+   [
+    "even",
+    16.62,
+    16.76
+   ],
+   [
+    "monitor",
+    16.76,
+    17.2
+   ],
+   [
+    "space",
+    17.2,
+    17.54
+   ],
+   [
+    "weather",
+    17.54,
+    17.92
+   ],
+   [
+    "by",
+    18.08,
+    18.18
+   ],
+   [
+    "setting",
+    18.18,
+    18.4
+   ],
+   [
+    "up",
+    18.4,
+    18.58
+   ],
+   [
+    "your",
+    18.58,
+    18.7
+   ],
+   [
+    "own",
+    18.86,
+    18.96
+   ],
+   [
+    "equipment",
+    18.96,
+    19.3
+   ],
+   [
+    "in",
+    19.3,
+    19.62
+   ],
+   [
+    "Alaska.",
+    19.62,
+    20.17
+   ],
+   [
+    "Some",
+    20.88,
+    21.02
+   ],
+   [
+    "teams",
+    21.02,
+    21.28
+   ],
+   [
+    "will",
+    21.28,
+    21.48
+   ],
+   [
+    "turn",
+    21.48,
+    21.68
+   ],
+   [
+    "complex",
+    21.68,
+    22.24
+   ],
+   [
+    "magnetosphere",
+    22.24,
+    22.89
+   ],
+   [
+    "data",
+    23.06,
+    23.4
+   ],
+   [
+    "into",
+    23.58,
+    23.7
+   ],
+   [
+    "audio",
+    23.7,
+    24.16
+   ],
+   [
+    "for",
+    24.16,
+    24.46
+   ],
+   [
+    "you",
+    24.46,
+    24.58
+   ],
+   [
+    "to",
+    24.58,
+    24.66
+   ],
+   [
+    "hear.",
+    24.66,
+    24.92
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   25,
+   35,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sonification_of_Hoag%E2%80%99s_Object_%28SVS14155%29.jpg/960px-Sonification_of_Hoag%E2%80%99s_Object_%28SVS14155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA's Scientific Visualization Studio - ADNET Systems, Inc./Aaron E. Lepsch",
+   "page": "https://commons.wikimedia.org/wiki/File:Sonification_of_Hoag%E2%80%99s_Object_(SVS14155).jpg",
+   "desc": "Sonification of Hoag’s Object (SVS14155) — Master VersionHorizontal version. This is for use on any YouTube or non-YouTube platform where you want to display the video horizontally."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg/960px-Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 469,
+   "license": "Public domain",
+   "artist": "United States Air Force photo by Senior Airman Joshua Strang",
+   "page": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg",
+   "desc": "Aurora borealis over Eielson Air Force Base, Alaska — Eielson Air Force Base, Alaska — The Aurora Borealis, or Northern Lights, shines above Bear Lake"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/NASA_magnetosphere_plasma_waves_diagram.png/960px-NASA_magnetosphere_plasma_waves_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 525,
+   "license": "Public domain",
+   "artist": "Credits: NASA’s Goddard Space Flight Center/Mary Pat Hrybyk-Keith",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_magnetosphere_plasma_waves_diagram.png",
+   "desc": "NASA magnetosphere plasma waves diagram — NASA magnetosphere plasma waves diagram"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+  "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T12:03:10Z",
+ "trimmed": true
+}

@@ -276,7 +276,8 @@
   "Bicentennial Capitol Mall State Park",
   "nasa:1351363",
   "nasa:1487818",
-  "Brooklyn Dodgers 1, Boston Braves 1 (26 innings)"
+  "Brooklyn Dodgers 1, Boston Braves 1 (26 innings)",
+  "nasa:1508687"
  ],
  "rejected": [
   "Chameleon",
@@ -1251,6 +1252,9 @@
   ],
   "Brooklyn Dodgers 1, Boston Braves 1 (26 innings)": [
    "Baseball's Unbreakable Record: One baseball game lasted 26 innings."
+  ],
+  "nasa:1508687": [
+   "Utah's Winding River Mystery: This river travels 5.5 miles in 1.3 miles."
   ]
  },
  "exhausted": []
