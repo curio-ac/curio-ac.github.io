@@ -250,7 +250,8 @@
   "The Boat Race 2021",
   "Walt Disney",
   "nasa:1506034",
-  "Diamonds Are Forever (novel)"
+  "Diamonds Are Forever (novel)",
+  "Apollo 7"
  ],
  "rejected": [
   "Chameleon",
@@ -1141,6 +1142,9 @@
   ],
   "Diamonds Are Forever (novel)": [
    "The Origin of Diamonds: A newspaper article inspired this Bond novel."
+  ],
+  "Apollo 7": [
+   "Apollo 7's Historic Return: Human spaceflight returned after tragedy."
   ]
  },
  "exhausted": []
