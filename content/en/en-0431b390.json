@@ -1,0 +1,363 @@
+{
+ "id": "en-0431b390",
+ "lang": "en",
+ "title": "Spider Crater's Leaky Legs",
+ "cat": "geography",
+ "emoji": "🕷️",
+ "sentences": [
+  "This bizarre crater's appearance causes a fright.",
+  "It sprawls across Western Australia's Kimberley region.",
+  "The oval impact structure measures 13 kilometers by 11 kilometers.",
+  "Light-colored legs are sandstone ridges from a central uplift.",
+  "Shatter cones prove an intense ancient meteorite impact.",
+  "The impact happened between 900 million and 600 million years ago."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.26,
+    0.36
+   ],
+   [
+    "bizarre",
+    0.44,
+    0.68
+   ],
+   [
+    "crater's",
+    0.68,
+    1.24
+   ],
+   [
+    "appearance",
+    1.24,
+    1.6
+   ],
+   [
+    "causes",
+    1.6,
+    2.1
+   ],
+   [
+    "a",
+    2.1,
+    2.36
+   ],
+   [
+    "fright.",
+    2.36,
+    2.46
+   ],
+   [
+    "It",
+    3.3,
+    3.4
+   ],
+   [
+    "sprawls",
+    3.4,
+    3.88
+   ],
+   [
+    "across",
+    3.88,
+    4.08
+   ],
+   [
+    "Western",
+    4.08,
+    4.6
+   ],
+   [
+    "Australia's",
+    4.6,
+    5.24
+   ],
+   [
+    "Kimberley",
+    5.36,
+    5.72
+   ],
+   [
+    "region.",
+    5.72,
+    5.88
+   ],
+   [
+    "The",
+    6.5,
+    6.58
+   ],
+   [
+    "oval",
+    6.58,
+    6.82
+   ],
+   [
+    "impact",
+    6.82,
+    7.14
+   ],
+   [
+    "structure",
+    7.14,
+    7.62
+   ],
+   [
+    "measures",
+    7.62,
+    7.92
+   ],
+   [
+    "13",
+    7.92,
+    8.64
+   ],
+   [
+    "kilometers",
+    8.64,
+    9.0
+   ],
+   [
+    "by",
+    9.0,
+    9.56
+   ],
+   [
+    "11",
+    9.56,
+    10.04
+   ],
+   [
+    "kilometers.",
+    10.04,
+    10.5
+   ],
+   [
+    "Light-colored",
+    11.18,
+    11.52
+   ],
+   [
+    "legs",
+    11.52,
+    11.84
+   ],
+   [
+    "are",
+    11.84,
+    12.04
+   ],
+   [
+    "sandstone",
+    12.06,
+    12.54
+   ],
+   [
+    "ridges",
+    12.54,
+    12.98
+   ],
+   [
+    "from",
+    12.98,
+    13.22
+   ],
+   [
+    "a",
+    13.22,
+    13.42
+   ],
+   [
+    "central",
+    13.68,
+    13.78
+   ],
+   [
+    "uplift.",
+    13.78,
+    14.0
+   ],
+   [
+    "Shatter",
+    14.78,
+    14.96
+   ],
+   [
+    "cones",
+    14.96,
+    15.2
+   ],
+   [
+    "prove",
+    15.2,
+    15.56
+   ],
+   [
+    "an",
+    15.56,
+    15.74
+   ],
+   [
+    "intense",
+    15.74,
+    16.18
+   ],
+   [
+    "ancient",
+    16.18,
+    16.66
+   ],
+   [
+    "meteorite",
+    16.66,
+    17.2
+   ],
+   [
+    "impact.",
+    17.2,
+    17.3
+   ],
+   [
+    "The",
+    18.14,
+    18.16
+   ],
+   [
+    "impact",
+    18.16,
+    18.34
+   ],
+   [
+    "happened",
+    18.34,
+    18.82
+   ],
+   [
+    "between",
+    18.82,
+    19.12
+   ],
+   [
+    "900",
+    19.12,
+    19.6
+   ],
+   [
+    "million",
+    19.6,
+    19.94
+   ],
+   [
+    "and",
+    19.94,
+    20.26
+   ],
+   [
+    "600",
+    20.26,
+    20.64
+   ],
+   [
+    "million",
+    20.74,
+    21.1
+   ],
+   [
+    "years",
+    21.1,
+    21.3
+   ],
+   [
+    "ago.",
+    21.3,
+    21.4
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   24,
+   33,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/An_Impact_Structure_With_Legs_%281480026%29.jpg/960px-An_Impact_Structure_With_Legs_%281480026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Impact_Structure_With_Legs_(1480026).jpg",
+   "desc": "An Impact Structure With Legs (1480026) — The OLI (Operational Land Imager) on the NASA-USGS Landsat 9 satellite captured this image of the crater on September 20, 2026. The full impact structure has an oval shape measuring about 13 kilometers by 11 kilometers"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Beaverhead_shatter_cone.jpg/960px-Beaverhead_shatter_cone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 748,
+   "license": "CC BY-SA 4.0",
+   "artist": "Idaho Astro",
+   "page": "https://commons.wikimedia.org/wiki/File:Beaverhead_shatter_cone.jpg",
+   "desc": "Beaverhead shatter cone — Image of a shatter cone collected by Chris Anderson and Terry Wofford on 21 July 2013 in the Medicine Lodge Valley of Western Montana, USA. The fracture pattern in this sandstone is indicative of having been formed by a "
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 13,
+   "unit": "km",
+   "label": "impact structure"
+  },
+  {
+   "type": "focus",
+   "target": "sandstone ridges",
+   "box": [
+    380,
+    410,
+    580,
+    630
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+ "pron_wer": 0.036,
+ "angle": 0,
+ "source": {
+  "title": "An Impact Structure With Legs",
+  "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T22:19:52Z",
+ "trimmed": true
+}
