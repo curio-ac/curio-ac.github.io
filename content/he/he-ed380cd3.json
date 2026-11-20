@@ -1,0 +1,318 @@
+{
+ "id": "he-ed380cd3",
+ "lang": "he",
+ "title": "החור באוזון: העדכון ל-2026",
+ "cat": "space",
+ "emoji": "🌍",
+ "sentences": [
+  "החור באוזון גדל ב-2026, אבל החדשות טובות.",
+  "הוא דורג כשביעי בגודלו ב-48 שנות ניטור.",
+  "מערבולת קוטבית חזקה גרמה לו להתרחב השנה.",
+  "למרות הגודל, הוא פחות עמוק מבעבר.",
+  "שכבת האוזון ממשיכה בתהליך החלמה ארוך-טווח.",
+  "מומחים צופים התאוששות מלאה עד שנות ה-2070."
+ ],
+ "tim": {
+  "w": [
+   [
+    "החור",
+    0.26,
+    0.44
+   ],
+   [
+    "באוזון",
+    0.44,
+    0.9
+   ],
+   [
+    "גדל",
+    0.9,
+    1.4
+   ],
+   [
+    "ב-2026,",
+    1.4,
+    2.88
+   ],
+   [
+    "אבל",
+    3.02,
+    3.22
+   ],
+   [
+    "החדשות",
+    3.22,
+    3.68
+   ],
+   [
+    "טובות.",
+    3.68,
+    4.02
+   ],
+   [
+    "הוא",
+    4.56,
+    4.66
+   ],
+   [
+    "דורג",
+    4.66,
+    4.92
+   ],
+   [
+    "כשביעי",
+    4.92,
+    5.58
+   ],
+   [
+    "בגודלו",
+    5.58,
+    6.06
+   ],
+   [
+    "ב-48",
+    6.06,
+    6.56
+   ],
+   [
+    "שנות",
+    6.56,
+    7.24
+   ],
+   [
+    "ניטור.",
+    7.24,
+    7.6
+   ],
+   [
+    "מערבולת",
+    8.34,
+    8.78
+   ],
+   [
+    "קוטבית",
+    8.78,
+    9.1
+   ],
+   [
+    "חזקה",
+    9.16,
+    9.56
+   ],
+   [
+    "גרמה",
+    9.56,
+    9.84
+   ],
+   [
+    "לו",
+    9.84,
+    9.96
+   ],
+   [
+    "להתרחב",
+    9.96,
+    10.46
+   ],
+   [
+    "השנה.",
+    10.46,
+    10.56
+   ],
+   [
+    "למרות",
+    11.48,
+    11.74
+   ],
+   [
+    "הגודל,",
+    11.74,
+    12.18
+   ],
+   [
+    "הוא",
+    12.42,
+    12.48
+   ],
+   [
+    "פחות",
+    12.72,
+    12.86
+   ],
+   [
+    "עמוק",
+    12.88,
+    13.12
+   ],
+   [
+    "מבעבר.",
+    13.12,
+    13.54
+   ],
+   [
+    "שכבת",
+    14.56,
+    14.82
+   ],
+   [
+    "האוזון",
+    14.88,
+    15.26
+   ],
+   [
+    "ממשיכה",
+    15.26,
+    15.9
+   ],
+   [
+    "בתהליך",
+    15.9,
+    16.32
+   ],
+   [
+    "החלמה",
+    16.32,
+    16.68
+   ],
+   [
+    "ארוך-טווח.",
+    16.68,
+    17.42
+   ],
+   [
+    "מומחים",
+    18.2,
+    18.5
+   ],
+   [
+    "צופים",
+    18.5,
+    18.8
+   ],
+   [
+    "התאוששות",
+    18.8,
+    19.24
+   ],
+   [
+    "מלאה",
+    19.24,
+    19.76
+   ],
+   [
+    "עד",
+    19.76,
+    20.0
+   ],
+   [
+    "שנות",
+    20.06,
+    20.24
+   ],
+   [
+    "ה-2070.",
+    20.24,
+    20.8
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   21,
+   27,
+   33
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ozone_Hole_Over_Antarctica_Reaches_Annual_Maximum_%2824270792702%29.jpg/960px-Ozone_Hole_Over_Antarctica_Reaches_Annual_Maximum_%2824270792702%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NOAASatellites",
+   "page": "https://commons.wikimedia.org/wiki/File:Ozone_Hole_Over_Antarctica_Reaches_Annual_Maximum_(24270792702).jpg",
+   "desc": "Ozone Hole Over Antarctica Reaches Annual Maximum (24270792702) — October 29, 2015 The 2015 Antarctic ozone hole area was larger and formed later than recent years, according to scientists from NOAA and NASA. On October 2, 2015, the ozone hole expanded to its "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Jan52014_polar_vortex_geopotentialheight_mean_Large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 780,
+   "license": "Public domain",
+   "artist": "National Oceanic and Atmospheric Administration - Pacific Marine Environmental L",
+   "page": "https://commons.wikimedia.org/wiki/File:Jan52014_polar_vortex_geopotentialheight_mean_Large.jpg",
+   "desc": "Jan52014 polar vortex geopotentialheight mean Large — Wavy polar vortex configuration on January 5, 2014."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ozonloch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 929,
+   "license": "CC BY 3.0 de",
+   "artist": "DLR",
+   "page": "https://commons.wikimedia.org/wiki/File:Ozonloch.jpg",
+   "desc": "Ozonloch — Measurements by GOME-2 (Global Ozone Monitoring Experiment), an atmospheric sensor on board the EUMETSAT MetOp-A satellite, make it possible to determine the thickness of the Ozone Layer, that is, the total amount of ozo"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ozone_hole_recovery.jpg/960px-Ozone_hole_recovery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 404,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Ozone_hole_recovery.jpg",
+   "desc": "Ozone hole recovery — Ozone hole recovery projection, 1960-2100."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 48,
+   "unit": "שנים",
+   "label": "שנות ניטור"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 105,
+   "unit": "Dobson units",
+   "label": "ריכוז אוזון"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2070
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/2026-ozone-hole/",
+ "pron_wer": 0.045,
+ "angle": 0,
+ "source": {
+  "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
+  "url": "https://science.nasa.gov/earth/2026-ozone-hole/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T10:29:27Z",
+ "trimmed": true
+}
