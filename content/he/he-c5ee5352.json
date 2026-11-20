@@ -1,0 +1,330 @@
+{
+ "id": "he-c5ee5352",
+ "lang": "he",
+ "title": "המאגר שהתייבש לחלוטין",
+ "cat": "geography",
+ "emoji": "🏜️",
+ "sentences": [
+  "מאגר המים הגדול בניו מקסיקו התייבש כמעט לחלוטין.",
+  "ביולי 2026, רמת המים צנחה ל-1.4 אחוזים בלבד מהקיבולת.",
+  "בשנת 1994, המאגר היה כמעט מלא לגמרי.",
+  "שילוב של בצורת קיצונית והפשרת שלגים מוקדמת גרמו לירידה הדרסטית.",
+  "כעת, נאס\"א משתמשת בלוויינים כדי לעזור למנהלי המים לחלק את המשאבים המצומצמים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מאגר",
+    0,
+    0.4
+   ],
+   [
+    "המים",
+    0.4,
+    0.66
+   ],
+   [
+    "הגדול",
+    0.66,
+    1.18
+   ],
+   [
+    "בניו",
+    1.18,
+    1.52
+   ],
+   [
+    "מקסיקו",
+    1.52,
+    2.06
+   ],
+   [
+    "התייבש",
+    2.06,
+    2.68
+   ],
+   [
+    "כמעט",
+    2.68,
+    3.16
+   ],
+   [
+    "לחלוטין.",
+    3.16,
+    3.52
+   ],
+   [
+    "ביולי",
+    4.36,
+    4.72
+   ],
+   [
+    "2026,",
+    4.72,
+    6.2
+   ],
+   [
+    "רמת",
+    6.2,
+    6.44
+   ],
+   [
+    "המים",
+    6.44,
+    6.74
+   ],
+   [
+    "צנחה",
+    6.74,
+    7.26
+   ],
+   [
+    "ל-1.4",
+    7.26,
+    8.42
+   ],
+   [
+    "אחוזים",
+    8.6,
+    9.16
+   ],
+   [
+    "בלבד",
+    9.16,
+    9.68
+   ],
+   [
+    "מהקיבולת.",
+    9.68,
+    10.24
+   ],
+   [
+    "בשנת",
+    11.06,
+    11.36
+   ],
+   [
+    "1994,",
+    11.36,
+    12.7
+   ],
+   [
+    "המאגר",
+    13.02,
+    13.46
+   ],
+   [
+    "היה",
+    13.46,
+    13.62
+   ],
+   [
+    "כמעט",
+    13.62,
+    14.14
+   ],
+   [
+    "מלא",
+    14.18,
+    14.36
+   ],
+   [
+    "לגמרי.",
+    14.36,
+    14.8
+   ],
+   [
+    "שילוב",
+    15.6,
+    15.92
+   ],
+   [
+    "של",
+    15.92,
+    16.08
+   ],
+   [
+    "בצורת",
+    16.08,
+    16.6
+   ],
+   [
+    "קיצונית",
+    16.82,
+    17.18
+   ],
+   [
+    "והפשרת",
+    17.32,
+    17.82
+   ],
+   [
+    "שלגים",
+    17.9,
+    18.16
+   ],
+   [
+    "מוקדמת",
+    18.16,
+    18.76
+   ],
+   [
+    "גרמו",
+    19.06,
+    19.3
+   ],
+   [
+    "לירידה",
+    19.3,
+    19.84
+   ],
+   [
+    "הדרסטית.",
+    19.84,
+    19.98
+   ],
+   [
+    "כעת,",
+    20.74,
+    21.48
+   ],
+   [
+    "נאס\"א",
+    21.86,
+    22.14
+   ],
+   [
+    "משתמשת",
+    22.14,
+    22.62
+   ],
+   [
+    "בלוויינים",
+    22.62,
+    23.26
+   ],
+   [
+    "כדי",
+    23.26,
+    23.52
+   ],
+   [
+    "לעזור",
+    23.52,
+    23.9
+   ],
+   [
+    "למנהלי",
+    23.9,
+    24.44
+   ],
+   [
+    "המים",
+    24.44,
+    24.88
+   ],
+   [
+    "לחלק",
+    24.88,
+    25.6
+   ],
+   [
+    "את",
+    25.6,
+    25.72
+   ],
+   [
+    "המשאבים",
+    25.76,
+    26.2
+   ],
+   [
+    "המצומצמים.",
+    26.2,
+    26.82
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   24,
+   34
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Elephant_Butte_Reservoir_Runs_Low_%281277091_-_oli2_20260727_triptych_lrg%29.jpg/960px-Elephant_Butte_Reservoir_Runs_Low_%281277091_-_oli2_20260727_triptych_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 402,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Elephant_Butte_Reservoir_Runs_Low_(1277091_-_oli2_20260727_triptych_lrg).jpg",
+   "desc": "Elephant Butte Reservoir Runs Low (1277091 - oli2 20260727 triptych lrg) — NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey and water volume data from the Texas Water Development Board. Story by Lindsey Doer"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Elephant_Butte_Reservoir_Runs_Low_%281277091_-_oli2_20260727_lrg%29.jpg/960px-Elephant_Butte_Reservoir_Runs_Low_%281277091_-_oli2_20260727_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 946,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Elephant_Butte_Reservoir_Runs_Low_(1277091_-_oli2_20260727_lrg).jpg",
+   "desc": "Elephant Butte Reservoir Runs Low (1277091 - oli2 20260727 lrg) — New Mexico’s Elephant Butte Reservoir was nearly full on June 2, 1994 (left), in contrast with very low levels during periods of drought on July 8, 2013 (center), and July 27, 2026 (right). The "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elephant_Butte_Reservoir_Runs_Low_%281277091_-_tm5_19940602_lrg%29.jpg/960px-Elephant_Butte_Reservoir_Runs_Low_%281277091_-_tm5_19940602_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 946,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Elephant_Butte_Reservoir_Runs_Low_(1277091_-_tm5_19940602_lrg).jpg",
+   "desc": "Elephant Butte Reservoir Runs Low (1277091 - tm5 19940602 lrg) — NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey and water volume data from the Texas Water Development Board. Story by Lindsey Doermann."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1.4,
+   "unit": "%",
+   "label": "מהקיבולת המקסימלית"
+  },
+  {
+   "type": "timeline",
+   "year": 1994
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/elephant-butte-reservoir-runs-low/",
+ "pron_wer": 0.061,
+ "angle": 0,
+ "source": {
+  "title": "Elephant Butte Reservoir Runs Low",
+  "url": "https://science.nasa.gov/earth/earth-observatory/elephant-butte-reservoir-runs-low/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T16:21:08Z",
+ "trimmed": true
+}
