@@ -1,0 +1,402 @@
+{
+ "id": "en-1bad0b2e",
+ "lang": "en",
+ "title": "Arctic Melt Season Levels Off",
+ "cat": "geography",
+ "emoji": "🧊",
+ "sentences": [
+  "The Arctic melt season has hit a plateau.",
+  "Since 1979, the melt season grew about 40 days longer.",
+  "Most of that dramatic increase happened before 2010.",
+  "Since then, the season length has remained relatively unchanged.",
+  "Changing cloud patterns are now blocking more sunlight.",
+  "Still, the Arctic is warming 4 times faster than average.",
+  "This stability might just be a temporary pause."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0,
+    0.14
+   ],
+   [
+    "Arctic",
+    0.14,
+    0.46
+   ],
+   [
+    "melt",
+    0.46,
+    0.78
+   ],
+   [
+    "season",
+    0.78,
+    1.14
+   ],
+   [
+    "has",
+    1.14,
+    1.5
+   ],
+   [
+    "hit",
+    1.5,
+    1.76
+   ],
+   [
+    "a",
+    1.76,
+    1.86
+   ],
+   [
+    "plateau.",
+    1.86,
+    2.4
+   ],
+   [
+    "Since",
+    3.0,
+    3.18
+   ],
+   [
+    "1979,",
+    3.18,
+    4.3
+   ],
+   [
+    "the",
+    4.56,
+    4.6
+   ],
+   [
+    "melt",
+    4.6,
+    4.82
+   ],
+   [
+    "season",
+    4.82,
+    5.12
+   ],
+   [
+    "grew",
+    5.12,
+    5.48
+   ],
+   [
+    "about",
+    5.48,
+    5.82
+   ],
+   [
+    "40",
+    5.82,
+    6.34
+   ],
+   [
+    "days",
+    6.34,
+    6.66
+   ],
+   [
+    "longer.",
+    6.66,
+    7.18
+   ],
+   [
+    "Most",
+    7.8,
+    8.04
+   ],
+   [
+    "of",
+    8.04,
+    8.24
+   ],
+   [
+    "that",
+    8.24,
+    8.36
+   ],
+   [
+    "dramatic",
+    8.36,
+    8.52
+   ],
+   [
+    "increase",
+    8.92,
+    9.02
+   ],
+   [
+    "happened",
+    9.02,
+    9.44
+   ],
+   [
+    "before",
+    9.44,
+    9.92
+   ],
+   [
+    "2010.",
+    9.92,
+    10.7
+   ],
+   [
+    "Since",
+    11.44,
+    11.56
+   ],
+   [
+    "then,",
+    11.56,
+    11.96
+   ],
+   [
+    "the",
+    12.2,
+    12.2
+   ],
+   [
+    "season",
+    12.2,
+    12.5
+   ],
+   [
+    "length",
+    12.5,
+    12.78
+   ],
+   [
+    "has",
+    12.78,
+    13.0
+   ],
+   [
+    "remained",
+    13.0,
+    13.3
+   ],
+   [
+    "relatively",
+    13.3,
+    13.88
+   ],
+   [
+    "unchanged.",
+    13.88,
+    14.56
+   ],
+   [
+    "Changing",
+    15.46,
+    15.76
+   ],
+   [
+    "cloud",
+    15.76,
+    16.18
+   ],
+   [
+    "patterns",
+    16.18,
+    16.6
+   ],
+   [
+    "are",
+    16.6,
+    16.86
+   ],
+   [
+    "now",
+    16.86,
+    17.1
+   ],
+   [
+    "blocking",
+    17.1,
+    17.56
+   ],
+   [
+    "more",
+    17.56,
+    17.98
+   ],
+   [
+    "sunlight.",
+    17.98,
+    18.32
+   ],
+   [
+    "Still,",
+    19.22,
+    19.44
+   ],
+   [
+    "the",
+    19.72,
+    19.72
+   ],
+   [
+    "Arctic",
+    19.72,
+    20.04
+   ],
+   [
+    "is",
+    20.28,
+    20.44
+   ],
+   [
+    "warming",
+    20.44,
+    20.8
+   ],
+   [
+    "4",
+    20.8,
+    21.26
+   ],
+   [
+    "times",
+    21.26,
+    21.56
+   ],
+   [
+    "faster",
+    21.56,
+    21.94
+   ],
+   [
+    "than",
+    21.94,
+    22.2
+   ],
+   [
+    "average.",
+    22.2,
+    22.44
+   ],
+   [
+    "This",
+    23.34,
+    23.48
+   ],
+   [
+    "stability",
+    23.48,
+    23.86
+   ],
+   [
+    "might",
+    23.86,
+    24.32
+   ],
+   [
+    "just",
+    24.32,
+    24.6
+   ],
+   [
+    "be",
+    24.6,
+    24.84
+   ],
+   [
+    "a",
+    24.84,
+    24.94
+   ],
+   [
+    "temporary",
+    24.94,
+    25.34
+   ],
+   [
+    "pause.",
+    25.34,
+    26.0
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   26,
+   35,
+   43,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arctic_Melt_Season_Length_Levels_Off_%281351363_-_102023_lrg%29.jpg/960px-Arctic_Melt_Season_Length_Levels_Off_%281351363_-_102023_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 785,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Arctic_Melt_Season_Length_Levels_Off_(1351363_-_102023_lrg).jpg",
+   "desc": "Arctic Melt Season Length Levels Off (1351363 - 102023 lrg) — Since the start of the satellite record, the Arctic sea ice melt season has lengthened in most decades, particularly in the 2000s (left). Since 2010 (right), the melt season appears to have stabiliz"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  0,
+  null,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 40,
+   "unit": "days",
+   "label": "melt season length"
+  },
+  {
+   "type": "timeline",
+   "year": 2010
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "times faster",
+   "label": "Arctic warming rate"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Arctic Melt Season Length Levels Off",
+  "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T10:32:16Z",
+ "trimmed": true
+}
