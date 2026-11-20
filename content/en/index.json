@@ -301,7 +301,8 @@
   "nasa:1285115",
   "1973 FA Charity Shield",
   "nasa:1500914",
-  "Bone Wars"
+  "Bone Wars",
+  "nasa:1441735"
  ],
  "rejected": [
   "Chameleon",
@@ -377,7 +378,8 @@
   "nasa:1391338",
   "Abu Nidal",
   "Isabella Beeton",
-  "2022–23 Notts County F.C. season"
+  "2022–23 Notts County F.C. season",
+  "2002–03 Gillingham F.C. season"
  ],
  "angles": {
   "Blue whale": [
@@ -1361,6 +1363,9 @@
   ],
   "Bone Wars": [
    "The Brutal Bone Wars: Paleontologists fought a brutal dinosaur war."
+  ],
+  "nasa:1441735": [
+   "Fantastic Minerals on Mars: Curiosity found disc-shaped rocks."
   ]
  },
  "exhausted": []

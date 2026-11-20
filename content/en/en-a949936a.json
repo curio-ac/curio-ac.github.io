@@ -1,0 +1,420 @@
+{
+ "id": "en-a949936a",
+ "lang": "en",
+ "title": "MCR's Demolition Lovers",
+ "cat": "art",
+ "emoji": "🎸",
+ "sentences": [
+  "A 6-minute ballad about a crime spree.",
+  "It is the final track on their 2002 debut album.",
+  "Four members wrote the song produced by Geoff Rickly.",
+  "Eyeball Records released the track with screamo elements.",
+  "The track builds up slowly with sudden stops.",
+  "The tragic story ends with the lovers dying in a desert.",
+  "Critics praised its storytelling as one of their best."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.22,
+    0.22
+   ],
+   [
+    "6-minute",
+    0.22,
+    0.7
+   ],
+   [
+    "ballad",
+    0.7,
+    1.1
+   ],
+   [
+    "about",
+    1.1,
+    1.26
+   ],
+   [
+    "a",
+    1.26,
+    1.42
+   ],
+   [
+    "crime",
+    1.5,
+    1.68
+   ],
+   [
+    "spree.",
+    1.68,
+    2.0
+   ],
+   [
+    "It",
+    2.54,
+    2.56
+   ],
+   [
+    "is",
+    2.56,
+    2.64
+   ],
+   [
+    "the",
+    2.64,
+    2.74
+   ],
+   [
+    "final",
+    2.74,
+    2.96
+   ],
+   [
+    "track",
+    2.96,
+    3.28
+   ],
+   [
+    "on",
+    3.28,
+    3.48
+   ],
+   [
+    "their",
+    3.48,
+    3.56
+   ],
+   [
+    "2002",
+    3.56,
+    4.26
+   ],
+   [
+    "debut",
+    4.26,
+    4.6
+   ],
+   [
+    "album.",
+    4.6,
+    5.1
+   ],
+   [
+    "Four",
+    5.6,
+    5.74
+   ],
+   [
+    "members",
+    5.74,
+    5.98
+   ],
+   [
+    "wrote",
+    5.98,
+    6.24
+   ],
+   [
+    "the",
+    6.24,
+    6.34
+   ],
+   [
+    "song",
+    6.34,
+    6.58
+   ],
+   [
+    "produced",
+    6.58,
+    6.84
+   ],
+   [
+    "by",
+    6.84,
+    7.08
+   ],
+   [
+    "Geoff",
+    7.08,
+    7.28
+   ],
+   [
+    "Rickly.",
+    7.28,
+    7.72
+   ],
+   [
+    "Eyeball",
+    8.14,
+    8.38
+   ],
+   [
+    "Records",
+    8.38,
+    8.7
+   ],
+   [
+    "released",
+    8.7,
+    8.98
+   ],
+   [
+    "the",
+    8.98,
+    9.22
+   ],
+   [
+    "track",
+    9.22,
+    9.46
+   ],
+   [
+    "with",
+    9.46,
+    9.64
+   ],
+   [
+    "screamo",
+    9.64,
+    10.08
+   ],
+   [
+    "elements.",
+    10.08,
+    10.44
+   ],
+   [
+    "The",
+    10.98,
+    11.0
+   ],
+   [
+    "track",
+    11.0,
+    11.2
+   ],
+   [
+    "builds",
+    11.2,
+    11.44
+   ],
+   [
+    "up",
+    11.44,
+    11.6
+   ],
+   [
+    "slowly",
+    11.6,
+    11.9
+   ],
+   [
+    "with",
+    11.9,
+    12.14
+   ],
+   [
+    "sudden",
+    12.14,
+    12.36
+   ],
+   [
+    "stops.",
+    12.36,
+    12.78
+   ],
+   [
+    "The",
+    13.06,
+    13.12
+   ],
+   [
+    "tragic",
+    13.12,
+    13.38
+   ],
+   [
+    "story",
+    13.38,
+    13.7
+   ],
+   [
+    "ends",
+    13.7,
+    14.0
+   ],
+   [
+    "with",
+    14.0,
+    14.18
+   ],
+   [
+    "the",
+    14.18,
+    14.28
+   ],
+   [
+    "lovers",
+    14.28,
+    14.48
+   ],
+   [
+    "dying",
+    14.48,
+    14.8
+   ],
+   [
+    "in",
+    14.8,
+    14.96
+   ],
+   [
+    "a",
+    14.96,
+    15.04
+   ],
+   [
+    "desert.",
+    15.04,
+    15.36
+   ],
+   [
+    "Critics",
+    15.84,
+    16.06
+   ],
+   [
+    "praised",
+    16.2,
+    16.36
+   ],
+   [
+    "its",
+    16.36,
+    16.56
+   ],
+   [
+    "storytelling",
+    16.56,
+    16.92
+   ],
+   [
+    "as",
+    16.92,
+    17.34
+   ],
+   [
+    "one",
+    17.34,
+    17.48
+   ],
+   [
+    "of",
+    17.48,
+    17.58
+   ],
+   [
+    "their",
+    17.58,
+    17.7
+   ],
+   [
+    "best.",
+    17.7,
+    18.14
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   26,
+   34,
+   42,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Geoff_Rickly_From_Scratch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 713,
+   "license": "CC BY-SA 4.0",
+   "artist": "NorthPark1417",
+   "page": "https://commons.wikimedia.org/wiki/File:Geoff_Rickly_From_Scratch.jpg",
+   "desc": "Geoff Rickly From Scratch — Geoff Rickly at From Scratch record release party."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Waveform_Closeup_Image.jpg/960px-Waveform_Closeup_Image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 99,
+   "license": "CC BY-SA 4.0",
+   "artist": "Bob3Studios",
+   "page": "https://commons.wikimedia.org/wiki/File:Waveform_Closeup_Image.jpg",
+   "desc": "Waveform Closeup Image — a audio file zoomed in to show the waveform making it up."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Anza-Borrego_Desert_State_Park_landscape_-_2022-12.jpg/960px-Anza-Borrego_Desert_State_Park_landscape_-_2022-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 338,
+   "license": "CC BY 2.0",
+   "artist": "John D. from Pasadena, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Anza-Borrego_Desert_State_Park_landscape_-_2022-12.jpg",
+   "desc": "Anza-Borrego Desert State Park landscape - 2022-12 — Anza-Borrego Desert State Park"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  null,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2002
+  },
+  {
+   "type": "timeline",
+   "year": 2002
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q5802483",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Demolition Lovers",
+  "url": "https://en.wikipedia.org/wiki/Demolition_Lovers",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T21:14:12Z",
+ "trimmed": true
+}
