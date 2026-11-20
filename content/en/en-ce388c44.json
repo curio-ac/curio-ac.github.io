@@ -1,0 +1,292 @@
+{
+ "id": "en-ce388c44",
+ "lang": "en",
+ "title": "Fantastic Minerals on Mars",
+ "cat": "space",
+ "emoji": "🤖",
+ "sentences": [
+  "Curiosity found disc-shaped rocks.",
+  "These strange lumps are 3 to 4 millimeters across.",
+  "They might form from evaporating fluids on Mars.",
+  "The rover is preparing to drill for chemical data.",
+  "This is the first drill above the erosional supersurface."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Curiosity",
+    0.35,
+    0.35
+   ],
+   [
+    "found",
+    0.35,
+    0.85
+   ],
+   [
+    "disc-shaped",
+    0.85,
+    1.53
+   ],
+   [
+    "rocks.",
+    1.53,
+    1.89
+   ],
+   [
+    "These",
+    2.65,
+    2.67
+   ],
+   [
+    "strange",
+    2.67,
+    3.01
+   ],
+   [
+    "lumps",
+    3.01,
+    3.33
+   ],
+   [
+    "are",
+    3.33,
+    3.61
+   ],
+   [
+    "3",
+    3.61,
+    3.83
+   ],
+   [
+    "to",
+    3.83,
+    3.89
+   ],
+   [
+    "4",
+    3.89,
+    4.13
+   ],
+   [
+    "millimeters",
+    4.13,
+    4.41
+   ],
+   [
+    "across.",
+    4.41,
+    5.11
+   ],
+   [
+    "They",
+    5.59,
+    5.69
+   ],
+   [
+    "might",
+    5.69,
+    5.89
+   ],
+   [
+    "form",
+    5.89,
+    6.17
+   ],
+   [
+    "from",
+    6.17,
+    6.39
+   ],
+   [
+    "evaporating",
+    6.39,
+    6.95
+   ],
+   [
+    "fluids",
+    6.95,
+    7.23
+   ],
+   [
+    "on",
+    7.23,
+    7.51
+   ],
+   [
+    "Mars.",
+    7.51,
+    8.03
+   ],
+   [
+    "The",
+    8.43,
+    8.51
+   ],
+   [
+    "rover",
+    8.51,
+    8.73
+   ],
+   [
+    "is",
+    8.73,
+    8.99
+   ],
+   [
+    "preparing",
+    8.99,
+    9.25
+   ],
+   [
+    "to",
+    9.25,
+    9.45
+   ],
+   [
+    "drill",
+    9.45,
+    9.71
+   ],
+   [
+    "for",
+    9.71,
+    9.87
+   ],
+   [
+    "chemical",
+    9.87,
+    10.15
+   ],
+   [
+    "data.",
+    10.15,
+    10.59
+   ],
+   [
+    "This",
+    11.11,
+    11.25
+   ],
+   [
+    "is",
+    11.25,
+    11.39
+   ],
+   [
+    "the",
+    11.39,
+    11.51
+   ],
+   [
+    "first",
+    11.51,
+    11.69
+   ],
+   [
+    "drill",
+    11.69,
+    12.01
+   ],
+   [
+    "above",
+    12.01,
+    12.29
+   ],
+   [
+    "the",
+    12.29,
+    12.53
+   ],
+   [
+    "erosional",
+    12.53,
+    12.93
+   ],
+   [
+    "supersurface.",
+    12.93,
+    13.47
+   ]
+  ],
+  "b": [
+   0,
+   4,
+   13,
+   21,
+   30
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Mars_-_Possible_Evaporites_Near_Fan_in_Coprates_Region.jpg/960px-Mars_-_Possible_Evaporites_Near_Fan_in_Coprates_Region.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 182,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mariagat Włodek Głażewski",
+   "page": "https://commons.wikimedia.org/wiki/File:Mars_-_Possible_Evaporites_Near_Fan_in_Coprates_Region.jpg",
+   "desc": "Mars - Possible Evaporites Near Fan in Coprates Region — Mars - Possible Evaporites Near Fan in Coprates Region - Mariagat Włodek Głażewski modified image: NASA/JPL/University of Arizona - We ♥ Mars"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site_%28PIA19920%29.jpg/960px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site_%28PIA19920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1011,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site_(PIA19920).jpg",
+   "desc": "Curiosity Self-Portrait at 'Big Sky' Drilling Site (PIA19920) — This self-portrait of NASA's Curiosity Mars rover shows the vehicle at the \"Big Sky\" site, where its drill collected the mission's fifth taste of Mount Sharp. The scene combines dozens of images t"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "focus",
+   "target": "disc-shaped rocks",
+   "box": [
+    0,
+    720,
+    1000,
+    920
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "mm",
+   "label": "across"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
+ "pron_wer": 0.05,
+ "angle": 0,
+ "source": {
+  "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T20:51:09Z",
+ "trimmed": true
+}

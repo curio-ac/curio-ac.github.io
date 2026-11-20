@@ -300,7 +300,8 @@
   "City of Angels (Thirty Seconds to Mars song)",
   "nasa:1285115",
   "1973 FA Charity Shield",
-  "nasa:1500914"
+  "nasa:1500914",
+  "Bone Wars"
  ],
  "rejected": [
   "Chameleon",
@@ -1357,6 +1358,9 @@
   ],
   "nasa:1500914": [
    "El Niño Then and Now: Spot higher Pacific sea levels."
+  ],
+  "Bone Wars": [
+   "The Brutal Bone Wars: Paleontologists fought a brutal dinosaur war."
   ]
  },
  "exhausted": []
