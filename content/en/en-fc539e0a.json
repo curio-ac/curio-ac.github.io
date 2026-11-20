@@ -1,0 +1,374 @@
+{
+ "id": "en-fc539e0a",
+ "lang": "en",
+ "title": "Wildfires Make Their Own Weather",
+ "cat": "geography",
+ "emoji": "🔥",
+ "sentences": [
+  "Wildfires can actually create their own thunderstorms.",
+  "These monster clouds are called pyrocumulonimbus.",
+  "They rocket smoke 50000 feet into the stratosphere.",
+  "NASA's INSPYRE campaign chased these elusive clouds across western North America.",
+  "Special jets flew right through the smoke to collect data.",
+  "The research helps predict dangerous winds to keep firefighters safe."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Wildfires",
+    0.1,
+    0.8
+   ],
+   [
+    "can",
+    0.8,
+    1.06
+   ],
+   [
+    "actually",
+    1.06,
+    1.46
+   ],
+   [
+    "create",
+    1.46,
+    1.9
+   ],
+   [
+    "their",
+    1.96,
+    2.08
+   ],
+   [
+    "own",
+    2.08,
+    2.46
+   ],
+   [
+    "thunderstorms.",
+    2.46,
+    3.12
+   ],
+   [
+    "These",
+    3.86,
+    3.96
+   ],
+   [
+    "monster",
+    3.96,
+    4.34
+   ],
+   [
+    "clouds",
+    4.34,
+    4.8
+   ],
+   [
+    "are",
+    4.8,
+    5.04
+   ],
+   [
+    "called",
+    5.16,
+    5.28
+   ],
+   [
+    "pyrocumulonimbus.",
+    5.28,
+    6.23
+   ],
+   [
+    "They",
+    7.48,
+    7.56
+   ],
+   [
+    "rocket",
+    7.66,
+    7.86
+   ],
+   [
+    "smoke",
+    7.86,
+    8.2
+   ],
+   [
+    "50000",
+    8.2,
+    9.32
+   ],
+   [
+    "feet",
+    9.32,
+    9.54
+   ],
+   [
+    "into",
+    9.54,
+    9.78
+   ],
+   [
+    "the",
+    9.8,
+    9.9
+   ],
+   [
+    "stratosphere.",
+    9.9,
+    10.3
+   ],
+   [
+    "NASA's",
+    10.96,
+    11.42
+   ],
+   [
+    "INSPYRE",
+    11.42,
+    11.94
+   ],
+   [
+    "campaign",
+    11.94,
+    12.34
+   ],
+   [
+    "chased",
+    12.34,
+    12.76
+   ],
+   [
+    "these",
+    12.76,
+    12.98
+   ],
+   [
+    "elusive",
+    12.98,
+    13.38
+   ],
+   [
+    "clouds",
+    13.38,
+    13.9
+   ],
+   [
+    "across",
+    13.9,
+    14.38
+   ],
+   [
+    "western",
+    14.38,
+    14.84
+   ],
+   [
+    "North",
+    14.84,
+    15.08
+   ],
+   [
+    "America.",
+    15.08,
+    15.46
+   ],
+   [
+    "Special",
+    16.16,
+    16.32
+   ],
+   [
+    "jets",
+    16.32,
+    16.64
+   ],
+   [
+    "flew",
+    16.64,
+    16.9
+   ],
+   [
+    "right",
+    16.9,
+    17.2
+   ],
+   [
+    "through",
+    17.2,
+    17.44
+   ],
+   [
+    "the",
+    17.44,
+    17.56
+   ],
+   [
+    "smoke",
+    17.56,
+    17.82
+   ],
+   [
+    "to",
+    17.82,
+    18.0
+   ],
+   [
+    "collect",
+    18.0,
+    18.28
+   ],
+   [
+    "data.",
+    18.28,
+    18.7
+   ],
+   [
+    "The",
+    19.12,
+    19.2
+   ],
+   [
+    "research",
+    19.2,
+    19.48
+   ],
+   [
+    "helps",
+    19.48,
+    19.76
+   ],
+   [
+    "predict",
+    19.94,
+    20.06
+   ],
+   [
+    "dangerous",
+    20.06,
+    20.58
+   ],
+   [
+    "winds",
+    20.58,
+    20.98
+   ],
+   [
+    "to",
+    20.98,
+    21.24
+   ],
+   [
+    "keep",
+    21.24,
+    21.42
+   ],
+   [
+    "firefighters",
+    21.42,
+    21.86
+   ],
+   [
+    "safe.",
+    21.86,
+    22.38
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   21,
+   32,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Wildfires_and_Thunderstorms_for_Central_Canada_%28CIRA_2024-07-11%29.png/960px-Wildfires_and_Thunderstorms_for_Central_Canada_%28CIRA_2024-07-11%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "GOES imagery: CSU/CIRA &amp; NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Wildfires_and_Thunderstorms_for_Central_Canada_(CIRA_2024-07-11).png",
+   "desc": "Wildfires and Thunderstorms for Central Canada (CIRA 2024-07-11) — Wildfires burn across Central Canada as thunderstorms erupt in the summer heat."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mosquito_Fire_2022-09-08_PM_2.jpg/960px-Mosquito_Fire_2022-09-08_PM_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Cal Fire",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosquito_Fire_2022-09-08_PM_2.jpg",
+   "desc": "Mosquito Fire 2022-09-08 PM 2 — This image shows a pyrocumulonimbus cloud rising from the 2022 Mosquito Fire, burning near the Middle Fork American River and Foresthill, California, taken in the afternoon of September 08, 2022."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Severe_Thunderstorms%2C_Dust_Storms%2C_and_Wildfire_Smoke_in_the_Southern_Great_Plains_%28CIRA_2026-05-19_-_nolabels%29.png/960px-Severe_Thunderstorms%2C_Dust_Storms%2C_and_Wildfire_Smoke_in_the_Southern_Great_Plains_%28CIRA_2026-05-19_-_nolabels%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "GOES imagery: CSU/CIRA &amp; NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Severe_Thunderstorms,_Dust_Storms,_and_Wildfire_Smoke_in_the_Southern_Great_Plains_(CIRA_2026-05-19_-_nolabels).png",
+   "desc": "Severe Thunderstorms, Dust Storms, and Wildfire Smoke in the Southern Great Plains (CIRA 2026-05-19 - nolabels) — Incredible high-resolution still from GOES-19 of wildfire smoke, dust storms, and severe weather in one image over the Southern Great Plains."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Soberanes_wildfire_firefighters_-_2016-07-23.jpg/960px-Soberanes_wildfire_firefighters_-_2016-07-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 4.0",
+   "artist": "TJRC",
+   "page": "https://commons.wikimedia.org/wiki/File:Soberanes_wildfire_firefighters_-_2016-07-23.jpg",
+   "desc": "Soberanes wildfire firefighters - 2016-07-23 — Soberanes wildfire firefighters ascending hill adjacent to U.S. Highway 1, south of Carmel, California, Saturday, July 23, 2016. Smoke from the fire is seen at right."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 50000,
+   "unit": "feet",
+   "label": "into the stratosphere"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+ "pron_wer": 0.057,
+ "angle": 0,
+ "source": {
+  "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
+  "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T08:28:04Z",
+ "trimmed": true
+}

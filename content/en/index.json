@@ -265,7 +265,8 @@
   "Biddenden Maids",
   "Bastion (video game)",
   "Dime Mystery Magazine",
-  "nasa:1282051"
+  "nasa:1282051",
+  "Birth control movement in the United States"
  ],
  "rejected": [
   "Chameleon",
@@ -1203,6 +1204,9 @@
   ],
   "nasa:1282051": [
    "NASA's New Giant Antenna: Meet NASA's newest giant antenna."
+  ],
+  "Birth control movement in the United States": [
+   "The Birth Control Movement: Contraception was once considered obscene!"
   ]
  },
  "exhausted": []
