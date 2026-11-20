@@ -1,0 +1,431 @@
+{
+ "id": "he-66928165",
+ "lang": "he",
+ "title": "הכבידה היא לא מה שחשבתם",
+ "cat": "physics",
+ "emoji": "🌌",
+ "sentences": [
+  "כבידה היא לא כוח, היא עיקום במרחב.",
+  "אלברט איינשטיין פרסם את התאוריה המהפכנית הזו ב-1915.",
+  "היא החליפה את חוקי ניוטון ששלטו במשך 200 שנה.",
+  "מסה ואנרגיה גורמות למארג המרחב-זמן להתעקם סביבן.",
+  "העיקום הזה מכתיב את המסלול של כוכבים ואפילו אור.",
+  "התאוריה חוזה תופעות מדהימות כמו חורים שחורים וסינגולריות.",
+  "עד היום, כל הניסויים איששו את התחזיות האלו במדויק."
+ ],
+ "tim": {
+  "w": [
+   [
+    "כבידה",
+    0.06,
+    0.5
+   ],
+   [
+    "היא",
+    0.5,
+    0.74
+   ],
+   [
+    "לא",
+    0.74,
+    0.98
+   ],
+   [
+    "כוח,",
+    0.98,
+    1.36
+   ],
+   [
+    "היא",
+    1.8,
+    1.84
+   ],
+   [
+    "עיקום",
+    1.84,
+    2.34
+   ],
+   [
+    "במרחב.",
+    2.34,
+    3.06
+   ],
+   [
+    "אלברט",
+    3.86,
+    4.14
+   ],
+   [
+    "איינשטיין",
+    4.14,
+    4.62
+   ],
+   [
+    "פרסם",
+    4.62,
+    5.02
+   ],
+   [
+    "את",
+    5.02,
+    5.12
+   ],
+   [
+    "התאוריה",
+    5.12,
+    5.6
+   ],
+   [
+    "המהפכנית",
+    5.6,
+    6.26
+   ],
+   [
+    "הזו",
+    6.26,
+    6.56
+   ],
+   [
+    "ב-1915.",
+    6.56,
+    7.76
+   ],
+   [
+    "היא",
+    8.74,
+    8.82
+   ],
+   [
+    "החליפה",
+    8.82,
+    9.26
+   ],
+   [
+    "את",
+    9.26,
+    9.32
+   ],
+   [
+    "חוקי",
+    9.32,
+    9.7
+   ],
+   [
+    "ניוטון",
+    9.7,
+    10.14
+   ],
+   [
+    "ששלטו",
+    10.14,
+    10.76
+   ],
+   [
+    "במשך",
+    10.76,
+    11.18
+   ],
+   [
+    "200",
+    11.36,
+    11.46
+   ],
+   [
+    "שנה.",
+    11.46,
+    11.88
+   ],
+   [
+    "מסה",
+    13.04,
+    13.28
+   ],
+   [
+    "ואנרגיה",
+    13.28,
+    13.92
+   ],
+   [
+    "גורמות",
+    13.92,
+    14.38
+   ],
+   [
+    "למארג",
+    14.5,
+    15.02
+   ],
+   [
+    "המרחב-זמן",
+    15.02,
+    15.94
+   ],
+   [
+    "להתעקם",
+    16.02,
+    16.68
+   ],
+   [
+    "סביבן.",
+    16.68,
+    16.78
+   ],
+   [
+    "העיקום",
+    17.88,
+    18.36
+   ],
+   [
+    "הזה",
+    18.36,
+    18.6
+   ],
+   [
+    "מכתיב",
+    18.68,
+    19.04
+   ],
+   [
+    "את",
+    19.04,
+    19.16
+   ],
+   [
+    "המסלול",
+    19.2,
+    19.66
+   ],
+   [
+    "של",
+    19.66,
+    19.86
+   ],
+   [
+    "כוכבים",
+    19.86,
+    20.5
+   ],
+   [
+    "ואפילו",
+    20.5,
+    21.24
+   ],
+   [
+    "אור.",
+    21.24,
+    21.6
+   ],
+   [
+    "התאוריה",
+    22.82,
+    23.14
+   ],
+   [
+    "חוזה",
+    23.14,
+    23.62
+   ],
+   [
+    "תופעות",
+    23.62,
+    24.12
+   ],
+   [
+    "מדהימות",
+    24.16,
+    24.76
+   ],
+   [
+    "כמו",
+    24.92,
+    25.04
+   ],
+   [
+    "חורים",
+    25.04,
+    25.44
+   ],
+   [
+    "שחורים",
+    25.44,
+    25.98
+   ],
+   [
+    "וסינגולריות.",
+    25.98,
+    27.12
+   ],
+   [
+    "עד",
+    28.04,
+    28.2
+   ],
+   [
+    "היום,",
+    28.2,
+    28.58
+   ],
+   [
+    "כל",
+    28.72,
+    28.82
+   ],
+   [
+    "הניסויים",
+    28.82,
+    29.38
+   ],
+   [
+    "איששו",
+    29.38,
+    29.86
+   ],
+   [
+    "את",
+    29.86,
+    30.0
+   ],
+   [
+    "התחזיות",
+    30.0,
+    30.58
+   ],
+   [
+    "האלו",
+    30.58,
+    30.98
+   ],
+   [
+    "במדויק.",
+    30.98,
+    31.6
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   24,
+   31,
+   40,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/960px-Albert_Einstein_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "Photograph by Orren Jack Turner, Princeton, N.J. Modified with Photoshop by PM_P",
+   "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg",
+   "desc": "Albert Einstein Head — Albert Einstein"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Portrait_of_Sir_Isaac_Newton_%284670222%29.jpg/960px-Portrait_of_Sir_Isaac_Newton_%284670222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1229,
+   "license": "Public domain",
+   "artist": "John Scott",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton_(4670222).jpg",
+   "desc": "Portrait of Sir Isaac Newton (4670222) — A portrait from the Welsh Portrait Collection at the National Library of Wales. Depicted person: Isaac Newton – English mathematician and physicist (1642–1727)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_of_a_galaxy_cluster_%28potw2527a%29.jpg/960px-Portrait_of_a_galaxy_cluster_%28potw2527a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 434,
+   "license": "CC BY 4.0",
+   "artist": "ESA/Hubble &amp; NASA, M. Postman, P. Kelly",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_galaxy_cluster_(potw2527a).jpg",
+   "desc": "Portrait of a galaxy cluster (potw2527a) — A massive, spacetime-warping cluster of galaxies is the setting of today’s NASA/ESA Hubble Space Telescope Picture of the Week. The galaxy cluster in question is Abell 209, which is located 2.8 billion light-years awa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Lensshoe_hubble.jpg/960px-Lensshoe_hubble.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 572,
+   "license": "Public domain",
+   "artist": "ESA/Hubble &amp; NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Lensshoe_hubble.jpg",
+   "desc": "Lensshoe hubble — What's large and blue and can wrap itself around an entire galaxy? A gravitational lens mirage. Pictured above, the gravity of a luminous red galaxy (LRG) has gravitationally distorted the light from a much more distant "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Star_collapse_to_black_hole.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 444,
+   "license": "CC BY-SA 2.5",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Star_collapse_to_black_hole.png",
+   "desc": "Star collapse to black hole — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/LISA.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 926,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:LISA.jpg",
+   "desc": "LISA — "
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1915
+  },
+  {
+   "type": "stat",
+   "value": 200,
+   "unit": "שנים",
+   "label": "שנו את חוקי ניוטון"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "black hole",
+   "box": [
+    335,
+    345,
+    751,
+    658
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q11452",
+ "pron_wer": 0.034,
+ "angle": 0,
+ "source": {
+  "title": "תורת היחסות הכללית",
+  "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%99%D7%97%D7%A1%D7%95%D7%AA_%D7%94%D7%9B%D7%9C%D7%9C%D7%99%D7%AA",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T13:35:29Z",
+ "trimmed": true
+}
