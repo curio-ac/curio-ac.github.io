@@ -1,0 +1,468 @@
+{
+ "id": "en-0d6b7c31",
+ "lang": "en",
+ "title": "The Ship That Sparked War",
+ "cat": "history",
+ "emoji": "⚓",
+ "sentences": [
+  "One ship helped ignite the War of 1812.",
+  "The USS Chesapeake was a 38-gun wooden frigate.",
+  "She was one of the original 6 frigates authorized by the Naval Act of 1794.",
+  "In 1807, the British ship HMS Leopard fired on her for refusing a search.",
+  "This affair caused public anger and led to the Embargo Act of 1807.",
+  "Later, the British captured her during the War of 1812."
+ ],
+ "tim": {
+  "w": [
+   [
+    "One",
+    0.26,
+    0.26
+   ],
+   [
+    "ship",
+    0.26,
+    0.56
+   ],
+   [
+    "helped",
+    0.56,
+    0.88
+   ],
+   [
+    "ignite",
+    0.9,
+    1.2
+   ],
+   [
+    "the",
+    1.2,
+    1.5
+   ],
+   [
+    "War",
+    1.5,
+    1.8
+   ],
+   [
+    "of",
+    1.8,
+    1.94
+   ],
+   [
+    "1812.",
+    1.94,
+    3.24
+   ],
+   [
+    "The",
+    3.24,
+    3.3
+   ],
+   [
+    "USS",
+    3.3,
+    3.74
+   ],
+   [
+    "Chesapeake",
+    3.74,
+    4.5
+   ],
+   [
+    "was",
+    4.54,
+    4.66
+   ],
+   [
+    "a",
+    4.66,
+    4.8
+   ],
+   [
+    "38-gun",
+    4.8,
+    5.62
+   ],
+   [
+    "wooden",
+    5.62,
+    5.96
+   ],
+   [
+    "frigate.",
+    5.96,
+    6.9
+   ],
+   [
+    "She",
+    6.92,
+    7.0
+   ],
+   [
+    "was",
+    7.0,
+    7.16
+   ],
+   [
+    "one",
+    7.16,
+    7.3
+   ],
+   [
+    "of",
+    7.3,
+    7.4
+   ],
+   [
+    "the",
+    7.4,
+    7.52
+   ],
+   [
+    "original",
+    7.52,
+    7.94
+   ],
+   [
+    "6",
+    7.94,
+    8.34
+   ],
+   [
+    "frigates",
+    8.34,
+    8.74
+   ],
+   [
+    "authorized",
+    8.86,
+    9.22
+   ],
+   [
+    "by",
+    9.22,
+    9.7
+   ],
+   [
+    "the",
+    9.7,
+    9.82
+   ],
+   [
+    "Naval",
+    9.82,
+    10.1
+   ],
+   [
+    "Act",
+    10.1,
+    10.46
+   ],
+   [
+    "of",
+    10.5,
+    10.62
+   ],
+   [
+    "1794.",
+    10.62,
+    11.78
+   ],
+   [
+    "In",
+    12.56,
+    12.68
+   ],
+   [
+    "1807,",
+    12.68,
+    13.58
+   ],
+   [
+    "the",
+    13.78,
+    13.8
+   ],
+   [
+    "British",
+    13.8,
+    14.0
+   ],
+   [
+    "ship",
+    14.0,
+    14.4
+   ],
+   [
+    "HMS",
+    14.48,
+    14.86
+   ],
+   [
+    "Leopard",
+    14.86,
+    15.36
+   ],
+   [
+    "fired",
+    15.36,
+    15.76
+   ],
+   [
+    "on",
+    15.76,
+    16.0
+   ],
+   [
+    "her",
+    16.0,
+    16.18
+   ],
+   [
+    "for",
+    16.18,
+    16.36
+   ],
+   [
+    "refusing",
+    16.36,
+    16.78
+   ],
+   [
+    "a",
+    16.78,
+    17.0
+   ],
+   [
+    "search.",
+    17.0,
+    17.5
+   ],
+   [
+    "This",
+    18.04,
+    18.16
+   ],
+   [
+    "affair",
+    18.16,
+    18.38
+   ],
+   [
+    "caused",
+    18.38,
+    18.82
+   ],
+   [
+    "public",
+    18.82,
+    19.14
+   ],
+   [
+    "anger",
+    19.14,
+    19.54
+   ],
+   [
+    "and",
+    19.54,
+    20.0
+   ],
+   [
+    "led",
+    20.0,
+    20.18
+   ],
+   [
+    "to",
+    20.18,
+    20.34
+   ],
+   [
+    "the",
+    20.34,
+    20.44
+   ],
+   [
+    "Embargo",
+    20.44,
+    20.88
+   ],
+   [
+    "Act",
+    20.88,
+    21.18
+   ],
+   [
+    "of",
+    21.18,
+    21.3
+   ],
+   [
+    "1807.",
+    21.3,
+    22.18
+   ],
+   [
+    "Later,",
+    22.9,
+    23.28
+   ],
+   [
+    "the",
+    23.4,
+    23.4
+   ],
+   [
+    "British",
+    23.4,
+    23.58
+   ],
+   [
+    "captured",
+    23.58,
+    24.04
+   ],
+   [
+    "her",
+    24.04,
+    24.28
+   ],
+   [
+    "during",
+    24.28,
+    24.58
+   ],
+   [
+    "the",
+    24.58,
+    24.74
+   ],
+   [
+    "War",
+    24.74,
+    24.94
+   ],
+   [
+    "of",
+    24.94,
+    25.08
+   ],
+   [
+    "1812.",
+    25.08,
+    25.58
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   31,
+   45,
+   58
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/USSChesapeake.jpg/960px-USSChesapeake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 422,
+   "license": "Public domain",
+   "artist": "F. Muller",
+   "page": "https://commons.wikimedia.org/wiki/File:USSChesapeake.jpg",
+   "desc": "USSChesapeake — Photo # NH 59556-KN USS Chesapeake. Painting by F. Muller"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/US_Frigate_Constitution%2C_1812.jpg/960px-US_Frigate_Constitution%2C_1812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 571,
+   "license": "Public domain",
+   "artist": "William Lynn / Abel Bowen",
+   "page": "https://commons.wikimedia.org/wiki/File:US_Frigate_Constitution,_1812.jpg",
+   "desc": "US Frigate Constitution, 1812 — Fine early image of the U.S. Constitution, noteworthy for its detailed and accurate depiction of the ship’s rigging. One of six frigates authorized to be built by Congress in 1794, the Constitution was built at the Hartt"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Onlyshotofchesapeake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 976,
+   "license": "Public domain",
+   "artist": "Author has signed drawing but name is illegible at this resolution. Author not c",
+   "page": "https://commons.wikimedia.org/wiki/File:Onlyshotofchesapeake.jpg",
+   "desc": "Onlyshotofchesapeake — Crewmen of Chesapeake prepare one cannon shot during the Chesapeake-Leopard Affair in 1807."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/The_happy_effects_of_that_grand_systom_of_shutting_ports_against_the_English%21%21_-_Cruikshank.jpg/960px-The_happy_effects_of_that_grand_systom_of_shutting_ports_against_the_English%21%21_-_Cruikshank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 458,
+   "license": "Public domain",
+   "artist": "Isaac Cruikshank",
+   "page": "https://commons.wikimedia.org/wiki/File:The_happy_effects_of_that_grand_systom_of_shutting_ports_against_the_English!!_-_Cruikshank.jpg",
+   "desc": "The happy effects of that grand systom of shutting ports against the English!! - Cruikshank — 1808 British political cartoon ridiculing the 'Embargo Act of 1807'. President Thomas Jefferson reassures his petitioners, ruined businessmen, that the embargo on war"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/John_Christian_Schetky%2C_H.M.S._Shannon_Leading_Her_Prize_the_American_Frigate_Chesapeake_into_Halifax_Harbour_%28c._1830%29_%28cropped%29.jpg/960px-John_Christian_Schetky%2C_H.M.S._Shannon_Leading_Her_Prize_the_American_Frigate_Chesapeake_into_Halifax_Harbour_%28c._1830%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 510,
+   "license": "Public domain",
+   "artist": "Louis Haghe / After John Christian Schetky",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Christian_Schetky,_H.M.S._Shannon_Leading_Her_Prize_the_American_Frigate_Chesapeake_into_Halifax_Harbour_(c._1830)_(cropped).jpg",
+   "desc": "John Christian Schetky, H.M.S. Shannon Leading Her Prize the American Frigate Chesapeake into Halifax Harbour (c. 1830) (cropped) — A depiction of the Royal Navy frigate H.M.S. Shannon leading the captured American frigate U.S.S. Chesapeake into Halifax Harbou"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 38,
+   "unit": "guns",
+   "label": "wooden frigate"
+  },
+  {
+   "type": "timeline",
+   "year": 1794
+  },
+  {
+   "type": "timeline",
+   "year": 1807
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1812,
+   "unit": "year",
+   "label": "War start"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1300790",
+ "pron_wer": 0.014,
+ "angle": 0,
+ "source": {
+  "title": "USS Chesapeake (1799)",
+  "url": "https://en.wikipedia.org/wiki/USS_Chesapeake_%281799%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T01:15:10Z",
+ "trimmed": true
+}

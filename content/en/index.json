@@ -243,7 +243,8 @@
   "nasa:1462714",
   "New York City",
   "nasa:1504411",
-  "Æthelberht of Kent"
+  "Æthelberht of Kent",
+  "Sid Barnes"
  ],
  "rejected": [
   "Chameleon",
@@ -303,7 +304,8 @@
   "2003 Pacific hurricane season",
   "Crawford expedition",
   "Eliza Acton",
-  "Computer Space"
+  "Computer Space",
+  "Complete blood count"
  ],
  "angles": {
   "Blue whale": [
@@ -1111,6 +1113,9 @@
   ],
   "Æthelberht of Kent": [
    "The First Christian King: He was the first Anglo-Saxon king to convert to Christianity."
+  ],
+  "Sid Barnes": [
+   "The 405-Run Partnership: Sid Barnes once scored 234 runs exactly."
   ]
  },
  "exhausted": []
