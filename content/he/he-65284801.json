@@ -1,0 +1,358 @@
+{
+ "id": "he-65284801",
+ "lang": "he",
+ "title": "הקרב המיתולוגי נגד הים",
+ "cat": "history",
+ "emoji": "🌊",
+ "sentences": [
+  "אלים נלחמו במפלצות ים ענקיות בעולם העתיק.",
+  "המיתוס הזה היה נפוץ במצרים, כנען ומסופוטמיה.",
+  "הים תואר כמפלצת דרקונית שמאיימת להציף את העולם.",
+  "גיבורים כמו בעל או מרדוך נלחמו בו כדי להצילנו.",
+  "לפעמים עזרו להם אלים חכמים או אלות מפתות.",
+  "המקרא הפך את היוצרות וטען שהאל ברא את הים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "אלים",
+    0.22,
+    0.52
+   ],
+   [
+    "נלחמו",
+    0.52,
+    1.0
+   ],
+   [
+    "במפלצות",
+    1.0,
+    1.76
+   ],
+   [
+    "ים",
+    1.82,
+    2.0
+   ],
+   [
+    "ענקיות",
+    2.0,
+    2.54
+   ],
+   [
+    "בעולם",
+    2.54,
+    2.96
+   ],
+   [
+    "העתיק.",
+    2.96,
+    3.14
+   ],
+   [
+    "המיתוס",
+    3.98,
+    4.32
+   ],
+   [
+    "הזה",
+    4.32,
+    4.54
+   ],
+   [
+    "היה",
+    4.54,
+    4.7
+   ],
+   [
+    "נפוץ",
+    4.7,
+    5.08
+   ],
+   [
+    "במצרים,",
+    5.08,
+    5.8
+   ],
+   [
+    "כנען",
+    6.02,
+    6.46
+   ],
+   [
+    "ומסופוטמיה.",
+    6.46,
+    7.26
+   ],
+   [
+    "הים",
+    8.06,
+    8.26
+   ],
+   [
+    "תואר",
+    8.26,
+    8.62
+   ],
+   [
+    "כמפלצת",
+    8.62,
+    9.54
+   ],
+   [
+    "דרקונית",
+    9.54,
+    10.02
+   ],
+   [
+    "שמאיימת",
+    10.04,
+    10.64
+   ],
+   [
+    "להציף",
+    10.64,
+    11.1
+   ],
+   [
+    "את",
+    11.1,
+    11.16
+   ],
+   [
+    "העולם.",
+    11.16,
+    11.48
+   ],
+   [
+    "גיבורים",
+    12.22,
+    12.64
+   ],
+   [
+    "כמו",
+    12.64,
+    12.92
+   ],
+   [
+    "בעל",
+    12.92,
+    13.4
+   ],
+   [
+    "או",
+    13.4,
+    13.48
+   ],
+   [
+    "מרדוך",
+    13.48,
+    13.96
+   ],
+   [
+    "נלחמו",
+    14.3,
+    14.68
+   ],
+   [
+    "בו",
+    14.76,
+    14.86
+   ],
+   [
+    "כדי",
+    14.86,
+    15.02
+   ],
+   [
+    "להצילנו.",
+    15.02,
+    15.54
+   ],
+   [
+    "לפעמים",
+    16.34,
+    16.56
+   ],
+   [
+    "עזרו",
+    16.56,
+    16.86
+   ],
+   [
+    "להם",
+    16.86,
+    17.14
+   ],
+   [
+    "אלים",
+    17.14,
+    17.36
+   ],
+   [
+    "חכמים",
+    17.36,
+    17.82
+   ],
+   [
+    "או",
+    17.82,
+    18.1
+   ],
+   [
+    "אלות",
+    18.1,
+    18.52
+   ],
+   [
+    "מפתות.",
+    18.52,
+    18.96
+   ],
+   [
+    "המקרא",
+    19.8,
+    20.16
+   ],
+   [
+    "הפך",
+    20.16,
+    20.58
+   ],
+   [
+    "את",
+    20.58,
+    20.68
+   ],
+   [
+    "היוצרות",
+    20.68,
+    21.06
+   ],
+   [
+    "וטען",
+    21.06,
+    21.4
+   ],
+   [
+    "שהאל",
+    21.4,
+    21.78
+   ],
+   [
+    "ברא",
+    21.78,
+    22.14
+   ],
+   [
+    "את",
+    22.14,
+    22.28
+   ],
+   [
+    "הים.",
+    22.28,
+    22.44
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   22,
+   31,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Museum_of_Anatolian_Civilizations082_kopie1jpg.jpg/960px-Museum_of_Anatolian_Civilizations082_kopie1jpg.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 263,
+   "license": "CC BY-SA 3.0",
+   "artist": "Georges Jansoone (JoJan)",
+   "page": "https://commons.wikimedia.org/wiki/File:Museum_of_Anatolian_Civilizations082_kopie1jpg.jpg",
+   "desc": "Museum of Anatolian Civilizations082 kopie1jpg — Depiction of the myth of the Sky God killing the dragon Illuyankas ; Neo-Hittites; 850-800 BC; Limestone orthostat at the Lions Gate at Malitiya (Arslantepe, 38° 22' 53\" N 38° 21' 36\" E), now at the Museum of An"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Destruction_of_Leviathan.png/960px-Destruction_of_Leviathan.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 909,
+   "license": "Public domain",
+   "artist": "גוסטב דורה",
+   "page": "https://commons.wikimedia.org/wiki/File:Destruction_of_Leviathan.png",
+   "desc": "Destruction of Leviathan — 1865 engraving by Gustave Doré."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Marduk_and_pet.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1179,
+   "license": "Public domain",
+   "artist": "Franz Heinrich Weißbach",
+   "page": "https://commons.wikimedia.org/wiki/File:Marduk_and_pet.jpg",
+   "desc": "Marduk and pet — The Statue of Marduk depicted on a cylinder seal of the 9th century BC Babylonian king Marduk-zakir-shumi I. Detailed info, from Schaudig (2008), p. 559: Statue of Marduk, mounted on the mušḫuššu, the \"fierce snake\", sta"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Illustration_of_the_Second_Day_of_Creation%2C_1873_Holy_Bible_%28Eyre_and_Spottiswoode%29._After_Raphael%2C_adapted_by_Robert_Dudley_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1033,
+   "license": "Public domain",
+   "artist": "Robert Charles Dudley / Raphael",
+   "page": "https://commons.wikimedia.org/wiki/File:Illustration_of_the_Second_Day_of_Creation,_1873_Holy_Bible_(Eyre_and_Spottiswoode)._After_Raphael,_adapted_by_Robert_Dudley_02.jpg",
+   "desc": "Illustration of the Second Day of Creation, 1873 Holy Bible (Eyre and Spottiswoode). After Raphael, adapted by Robert Dudley 02 — Illustration from The Holy Bible (Eyre and Spottiswoode, London, 1873), biblical scene of the Second Day of Creation, when God sep"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "dragon monster",
+   "box": [
+    252,
+    63,
+    873,
+    947
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q130473408",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "מלחמת אל הסער בים",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%9C%D7%97%D7%9E%D7%AA_%D7%90%D7%9C_%D7%94%D7%A1%D7%A2%D7%A8_%D7%91%D7%99%D7%9D",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T17:31:44Z",
+ "trimmed": true
+}
