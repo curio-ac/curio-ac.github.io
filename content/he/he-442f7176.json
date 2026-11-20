@@ -1,0 +1,362 @@
+{
+ "id": "he-442f7176",
+ "lang": "he",
+ "title": "העיר שנמחקה וחזרה לחיים",
+ "cat": "history",
+ "emoji": "📜",
+ "sentences": [
+  "ניפור חרבה, ואז קמה לתחייה.",
+  "הקינה על חורבנה היא יצירה עתיקה משומר.",
+  "היא נכתבה בכתב יתדות על לוחות טין.",
+  "הטקסט כולל 323 שורות ו-12 בתים.",
+  "ניפור לא הייתה בירה פוליטית, אלא דתית.",
+  "שליטי האזור שאבו את סמכותם מהאל אנליל שגר שם.",
+  "העיר הייתה מקור הלגיטימציה למלכי האזור."
+ ],
+ "tim": {
+  "w": [
+   [
+    "ניפור",
+    0.22,
+    0.56
+   ],
+   [
+    "חרבה,",
+    0.56,
+    1.06
+   ],
+   [
+    "ואז",
+    1.42,
+    1.82
+   ],
+   [
+    "קמה",
+    2.04,
+    2.18
+   ],
+   [
+    "לתחייה.",
+    2.18,
+    2.6
+   ],
+   [
+    "הקינה",
+    3.46,
+    3.62
+   ],
+   [
+    "על",
+    3.62,
+    3.74
+   ],
+   [
+    "חורבנה",
+    3.74,
+    4.26
+   ],
+   [
+    "היא",
+    4.26,
+    4.5
+   ],
+   [
+    "יצירה",
+    4.5,
+    4.92
+   ],
+   [
+    "עתיקה",
+    5.34,
+    5.5
+   ],
+   [
+    "משומר.",
+    5.5,
+    5.6
+   ],
+   [
+    "היא",
+    6.56,
+    6.64
+   ],
+   [
+    "נכתבה",
+    6.64,
+    6.92
+   ],
+   [
+    "בכתב",
+    6.92,
+    7.26
+   ],
+   [
+    "יתדות",
+    7.26,
+    7.76
+   ],
+   [
+    "על",
+    7.88,
+    7.98
+   ],
+   [
+    "לוחות",
+    7.98,
+    8.3
+   ],
+   [
+    "טין.",
+    8.3,
+    8.72
+   ],
+   [
+    "הטקסט",
+    9.38,
+    9.64
+   ],
+   [
+    "כולל",
+    9.68,
+    9.92
+   ],
+   [
+    "323",
+    9.92,
+    11.02
+   ],
+   [
+    "שורות",
+    11.02,
+    11.52
+   ],
+   [
+    "ו-12",
+    11.66,
+    11.98
+   ],
+   [
+    "בתים.",
+    11.98,
+    12.36
+   ],
+   [
+    "ניפור",
+    13.5,
+    13.68
+   ],
+   [
+    "לא",
+    13.68,
+    13.9
+   ],
+   [
+    "הייתה",
+    13.9,
+    14.12
+   ],
+   [
+    "בירה",
+    14.12,
+    14.4
+   ],
+   [
+    "פוליטית,",
+    14.4,
+    14.74
+   ],
+   [
+    "אלא",
+    15.3,
+    15.38
+   ],
+   [
+    "דתית.",
+    15.38,
+    15.54
+   ],
+   [
+    "שליטי",
+    16.36,
+    16.68
+   ],
+   [
+    "האזור",
+    16.68,
+    16.96
+   ],
+   [
+    "שאבו",
+    16.96,
+    17.38
+   ],
+   [
+    "את",
+    17.38,
+    17.46
+   ],
+   [
+    "סמכותם",
+    17.48,
+    18.08
+   ],
+   [
+    "מהאל",
+    18.18,
+    18.66
+   ],
+   [
+    "אנליל",
+    18.66,
+    19.22
+   ],
+   [
+    "שגר",
+    19.5,
+    19.8
+   ],
+   [
+    "שם.",
+    19.8,
+    19.9
+   ],
+   [
+    "העיר",
+    20.66,
+    20.86
+   ],
+   [
+    "הייתה",
+    20.86,
+    21.08
+   ],
+   [
+    "מקור",
+    21.08,
+    21.38
+   ],
+   [
+    "הלגיטימציה",
+    21.38,
+    22.18
+   ],
+   [
+    "למלכי",
+    22.34,
+    22.66
+   ],
+   [
+    "האזור.",
+    22.66,
+    23.18
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   12,
+   19,
+   25,
+   32,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Ruins_from_a_temple_in_Naffur.jpg/960px-Ruins_from_a_temple_in_Naffur.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "Public domain",
+   "artist": "Jasmine N. Walthall, U.S. Army",
+   "page": "https://commons.wikimedia.org/wiki/File:Ruins_from_a_temple_in_Naffur.jpg",
+   "desc": "Ruins from a temple in Naffur — Ruins from a temple in Naffur (ancient Nippur), Iraq, are said to be the site for the meeting of Sumerian gods, as well as the place that man was created."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Lament_for_lagash.JPG/960px-Lament_for_lagash.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Dror Feitelson",
+   "page": "https://commons.wikimedia.org/wiki/File:Lament_for_lagash.JPG",
+   "desc": "Lament for lagash — Lament for the ruin of Lagash, the Louvre, AO 4162"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cuneiform_Akkadian_clay_tablet_1.jpg/960px-Cuneiform_Akkadian_clay_tablet_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 794,
+   "license": "Public domain",
+   "artist": "Original author unknown. Translation help provided by Manuel Molina.",
+   "page": "https://commons.wikimedia.org/wiki/File:Cuneiform_Akkadian_clay_tablet_1.jpg",
+   "desc": "Cuneiform Akkadian clay tablet 1 — Small clay tablet with cuneiform writing on both sides (in Akkadian language), from Early Old Babylonian period. It displays an account of labor, specifically referring to numbers of bricks carried by workers."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Meso2mil-he.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 747,
+   "license": "CC BY-SA 4.0",
+   "artist": "יצירה נגזרת: רוליג",
+   "page": "https://commons.wikimedia.org/wiki/File:Meso2mil-he.jpg",
+   "desc": "Meso2mil-he — מסופוטמיה באלף השני לפני הספירה"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  0,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "clay tablet cuneiform",
+   "box": [
+    72,
+    77,
+    919,
+    805
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 323,
+   "unit": "שורות",
+   "label": "שורות בקינה"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q114414535",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "קינת ניפור",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A0%D7%AA_%D7%A0%D7%99%D7%A4%D7%95%D7%A8",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T10:07:12Z",
+ "trimmed": true
+}
