@@ -1,0 +1,436 @@
+{
+ "id": "en-950759d7",
+ "lang": "en",
+ "title": "The Fall of Baghdad",
+ "cat": "history",
+ "emoji": "🏰",
+ "sentences": [
+  "Baghdad fell in just a few weeks.",
+  "In 1258, Hulegu led a massive Mongol army against the historic Abbasid capital.",
+  "The Caliph al-Musta'sim angered Hulegu by refusing reinforcements and negotiating with arrogance.",
+  "Mongol troops invaded Mesopotamia from all sides, even flooding their opponents in battle.",
+  "The city was sacked, and hundreds of thousands of subjects died.",
+  "Some call this the end of the Islamic Golden Age."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Baghdad",
+    0.18,
+    0.42
+   ],
+   [
+    "fell",
+    0.42,
+    0.76
+   ],
+   [
+    "in",
+    0.76,
+    1.02
+   ],
+   [
+    "just",
+    1.02,
+    1.28
+   ],
+   [
+    "a",
+    1.28,
+    1.6
+   ],
+   [
+    "few",
+    1.62,
+    1.78
+   ],
+   [
+    "weeks.",
+    1.78,
+    2.43
+   ],
+   [
+    "In",
+    2.84,
+    2.88
+   ],
+   [
+    "1258,",
+    2.88,
+    4.04
+   ],
+   [
+    "Hulegu",
+    4.04,
+    4.3
+   ],
+   [
+    "led",
+    4.3,
+    4.54
+   ],
+   [
+    "a",
+    4.54,
+    4.64
+   ],
+   [
+    "massive",
+    4.64,
+    5.06
+   ],
+   [
+    "Mongol",
+    5.06,
+    5.36
+   ],
+   [
+    "army",
+    5.36,
+    5.8
+   ],
+   [
+    "against",
+    5.8,
+    6.14
+   ],
+   [
+    "the",
+    6.14,
+    6.36
+   ],
+   [
+    "historic",
+    6.38,
+    6.8
+   ],
+   [
+    "Abbasid",
+    6.8,
+    7.36
+   ],
+   [
+    "capital.",
+    7.36,
+    7.74
+   ],
+   [
+    "The",
+    8.42,
+    8.52
+   ],
+   [
+    "Caliph",
+    8.52,
+    8.96
+   ],
+   [
+    "al-Musta'sim",
+    9.04,
+    9.88
+   ],
+   [
+    "angered",
+    9.88,
+    10.62
+   ],
+   [
+    "Hulegu",
+    10.62,
+    10.94
+   ],
+   [
+    "by",
+    10.94,
+    11.18
+   ],
+   [
+    "refusing",
+    11.18,
+    11.64
+   ],
+   [
+    "reinforcements",
+    11.64,
+    12.44
+   ],
+   [
+    "and",
+    12.44,
+    12.78
+   ],
+   [
+    "negotiating",
+    12.78,
+    13.42
+   ],
+   [
+    "with",
+    13.42,
+    13.68
+   ],
+   [
+    "arrogance.",
+    13.68,
+    14.44
+   ],
+   [
+    "Mongol",
+    15.1,
+    15.34
+   ],
+   [
+    "troops",
+    15.34,
+    15.64
+   ],
+   [
+    "invaded",
+    15.64,
+    16.28
+   ],
+   [
+    "Mesopotamia",
+    16.28,
+    17.0
+   ],
+   [
+    "from",
+    17.0,
+    17.2
+   ],
+   [
+    "all",
+    17.2,
+    17.54
+   ],
+   [
+    "sides,",
+    17.54,
+    18.14
+   ],
+   [
+    "even",
+    18.44,
+    18.64
+   ],
+   [
+    "flooding",
+    18.64,
+    19.04
+   ],
+   [
+    "their",
+    19.04,
+    19.26
+   ],
+   [
+    "opponents",
+    19.26,
+    19.58
+   ],
+   [
+    "in",
+    19.58,
+    19.82
+   ],
+   [
+    "battle.",
+    19.82,
+    20.16
+   ],
+   [
+    "The",
+    20.82,
+    20.92
+   ],
+   [
+    "city",
+    20.92,
+    21.14
+   ],
+   [
+    "was",
+    21.14,
+    21.34
+   ],
+   [
+    "sacked,",
+    21.34,
+    21.72
+   ],
+   [
+    "and",
+    22.0,
+    22.08
+   ],
+   [
+    "hundreds",
+    22.08,
+    22.5
+   ],
+   [
+    "of",
+    22.5,
+    22.76
+   ],
+   [
+    "thousands",
+    22.92,
+    23.22
+   ],
+   [
+    "of",
+    23.38,
+    23.48
+   ],
+   [
+    "subjects",
+    23.48,
+    23.82
+   ],
+   [
+    "died.",
+    23.82,
+    24.32
+   ],
+   [
+    "Some",
+    25.08,
+    25.2
+   ],
+   [
+    "call",
+    25.2,
+    25.4
+   ],
+   [
+    "this",
+    25.4,
+    25.64
+   ],
+   [
+    "the",
+    25.64,
+    25.8
+   ],
+   [
+    "end",
+    25.94,
+    26.14
+   ],
+   [
+    "of",
+    26.14,
+    26.36
+   ],
+   [
+    "the",
+    26.36,
+    26.48
+   ],
+   [
+    "Islamic",
+    26.48,
+    26.82
+   ],
+   [
+    "Golden",
+    27.08,
+    27.28
+   ],
+   [
+    "Age.",
+    27.28,
+    27.74
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   32,
+   45,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bagdad1258.jpg/960px-Bagdad1258.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Sayf al-vâhidî et al.",
+   "page": "https://commons.wikimedia.org/wiki/File:Bagdad1258.jpg",
+   "desc": "Bagdad1258 — Mongols besieging Baghdad in 1258"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Caliph%2C_al-Musta%27%E1%B9%A3im%2C_brought_before_H%C5%ABl%C4%81g%C5%AB_Kh%C4%81n_%28miniature%29._Folio_89v_%28British_Library%2C_Or_2780%29.jpg/960px-The_Caliph%2C_al-Musta%27%E1%B9%A3im%2C_brought_before_H%C5%ABl%C4%81g%C5%AB_Kh%C4%81n_%28miniature%29._Folio_89v_%28British_Library%2C_Or_2780%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 869,
+   "license": "Public domain",
+   "artist": "14th of Rajab, 800 AH (4 May 1398 CE)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Caliph,_al-Musta%27%E1%B9%A3im,_brought_before_H%C5%ABl%C4%81g%C5%AB_Kh%C4%81n_(miniature)._Folio_89v_(British_Library,_Or_2780).jpg",
+   "desc": "The Caliph, al-Musta'ṣim, brought before Hūlāgū Khān (miniature). Folio 89v (British Library, Or 2780) — Reference: British Library"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Fall_Of_Baghdad_%28Diez_Albums%29.jpg/960px-Fall_Of_Baghdad_%28Diez_Albums%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 453,
+   "license": "Public domain",
+   "artist": "14th century artist",
+   "page": "https://commons.wikimedia.org/wiki/File:Fall_Of_Baghdad_(Diez_Albums).jpg",
+   "desc": "Fall Of Baghdad (Diez Albums) — Fall Of Baghdad (Diez Albums). Detail: a leading official's failed attempt to escape by boat from the city (center right): \"The davāt-dār (chief secretary) who commanded the Caliph’s army was encamped between Baʿqūbā and"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  0,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1258
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  33.347,
+  44.335
+ ],
+ "qid": "Q369560",
+ "pron_wer": 0.074,
+ "angle": 0,
+ "source": {
+  "title": "Siege of Baghdad",
+  "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T13:13:32Z",
+ "trimmed": true
+}

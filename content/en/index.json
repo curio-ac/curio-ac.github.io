@@ -279,7 +279,8 @@
   "Brooklyn Dodgers 1, Boston Braves 1 (26 innings)",
   "nasa:1508687",
   "Alexandra of Denmark",
-  "Martha Bradley"
+  "Martha Bradley",
+  "nasa:1393311"
  ],
  "rejected": [
   "Chameleon",
@@ -1264,6 +1265,9 @@
   ],
   "Martha Bradley": [
    "The Mysterious Cookery Writer: Martha Bradley wrote a thousand-page cookbook."
+  ],
+  "nasa:1393311": [
+   "Pacific Northwest Cloud Cloak: Mountains looked like islands in the clouds."
   ]
  },
  "exhausted": []
