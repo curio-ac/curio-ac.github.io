@@ -1,0 +1,390 @@
+{
+ "id": "en-7263dabf",
+ "lang": "en",
+ "title": "Apollo 7's Historic Return",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Human spaceflight returned after tragedy.",
+  "Apollo 7 was the first crewed flight in NASA's Apollo program.",
+  "Walter M. Schirra commanded the mission.",
+  "Training continued over a 21-month pause.",
+  "The crew monitored the construction of their spacecraft.",
+  "The mission launched on October 11, 1968.",
+  "It splashed down in the Atlantic Ocean 11 days later."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Human",
+    0.32,
+    0.32
+   ],
+   [
+    "spaceflight",
+    0.32,
+    1.02
+   ],
+   [
+    "returned",
+    1.02,
+    1.48
+   ],
+   [
+    "after",
+    1.48,
+    1.98
+   ],
+   [
+    "tragedy.",
+    1.98,
+    2.98
+   ],
+   [
+    "Apollo",
+    3.0,
+    3.3
+   ],
+   [
+    "7",
+    3.3,
+    3.78
+   ],
+   [
+    "was",
+    3.78,
+    4.0
+   ],
+   [
+    "the",
+    4.0,
+    4.16
+   ],
+   [
+    "first",
+    4.32,
+    4.48
+   ],
+   [
+    "crewed",
+    4.48,
+    5.02
+   ],
+   [
+    "flight",
+    5.1,
+    5.24
+   ],
+   [
+    "in",
+    5.24,
+    5.5
+   ],
+   [
+    "NASA's",
+    5.5,
+    5.96
+   ],
+   [
+    "Apollo",
+    6.16,
+    6.28
+   ],
+   [
+    "program.",
+    6.28,
+    6.64
+   ],
+   [
+    "Walter",
+    7.42,
+    7.68
+   ],
+   [
+    "M.",
+    7.68,
+    8.18
+   ],
+   [
+    "Schirra",
+    8.2,
+    8.46
+   ],
+   [
+    "commanded",
+    8.46,
+    8.92
+   ],
+   [
+    "the",
+    8.92,
+    9.1
+   ],
+   [
+    "mission.",
+    9.1,
+    9.34
+   ],
+   [
+    "Training",
+    10.06,
+    10.26
+   ],
+   [
+    "continued",
+    10.26,
+    10.8
+   ],
+   [
+    "over",
+    10.8,
+    11.12
+   ],
+   [
+    "a",
+    11.12,
+    11.26
+   ],
+   [
+    "21-month",
+    11.26,
+    12.04
+   ],
+   [
+    "pause.",
+    12.04,
+    12.44
+   ],
+   [
+    "The",
+    13.08,
+    13.12
+   ],
+   [
+    "crew",
+    13.18,
+    13.36
+   ],
+   [
+    "monitored",
+    13.36,
+    13.84
+   ],
+   [
+    "the",
+    13.84,
+    14.02
+   ],
+   [
+    "construction",
+    14.02,
+    14.44
+   ],
+   [
+    "of",
+    14.44,
+    14.68
+   ],
+   [
+    "their",
+    14.68,
+    14.78
+   ],
+   [
+    "spacecraft.",
+    14.78,
+    15.1
+   ],
+   [
+    "The",
+    15.92,
+    15.98
+   ],
+   [
+    "mission",
+    15.98,
+    16.22
+   ],
+   [
+    "launched",
+    16.22,
+    16.6
+   ],
+   [
+    "on",
+    16.6,
+    16.82
+   ],
+   [
+    "October",
+    16.82,
+    17.1
+   ],
+   [
+    "11,",
+    17.1,
+    17.6
+   ],
+   [
+    "1968.",
+    18.01,
+    18.76
+   ],
+   [
+    "It",
+    19.28,
+    19.36
+   ],
+   [
+    "splashed",
+    19.36,
+    19.74
+   ],
+   [
+    "down",
+    19.74,
+    19.98
+   ],
+   [
+    "in",
+    19.98,
+    20.14
+   ],
+   [
+    "the",
+    20.14,
+    20.22
+   ],
+   [
+    "Atlantic",
+    20.22,
+    20.48
+   ],
+   [
+    "Ocean",
+    20.48,
+    20.86
+   ],
+   [
+    "11",
+    20.86,
+    21.26
+   ],
+   [
+    "days",
+    21.26,
+    21.56
+   ],
+   [
+    "later.",
+    21.56,
+    21.88
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   16,
+   22,
+   28,
+   36,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Apollo7.png/960px-Apollo7.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 577,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo7.png",
+   "desc": "Apollo7 — The official emblem of Apollo 7, the first manned Apollo space mission. The crew will consist of astronauts Walter M. Schirra Jr., Donn F. Eisele, and Walter Cunningham."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Apollo_7_during_the_first_live_television_transmission_from_space.jpg/960px-Apollo_7_during_the_first_live_television_transmission_from_space.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 564,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_7_during_the_first_live_television_transmission_from_space.jpg",
+   "desc": "Apollo 7 during the first live television transmission from space — Astronauts Walter M. Schirra Jr. (on right), mission commander; and Donn F. Eisele, command module pilot; are seen in the first live television transmission from space. Schirra is holding a si"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Apollo_7_Launch_-_GPN-2000-001171.jpg/960px-Apollo_7_Launch_-_GPN-2000-001171.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 975,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_7_Launch_-_GPN-2000-001171.jpg",
+   "desc": "Apollo 7 Launch - GPN-2000-001171 — The Apollo 7 Saturn IB space vehicle is launched from the Kennedy Space Center's Launch Complex 34 at 11:03 a.m. October 11, 1968. A tracking antenna is on the left and a pad service structure on the right."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Apollo_7_recovery_with_SH-3_Sea_King_1968.jpg/960px-Apollo_7_recovery_with_SH-3_Sea_King_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 597,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_7_recovery_with_SH-3_Sea_King_1968.jpg",
+   "desc": "Apollo 7 recovery with SH-3 Sea King 1968 — A member of the Apollo 7 crew is hoisted up to a U.S. Navy Sikorsky SH-3A Sea King recovery helicopter (BuNo 149918) from Helicopter Anti-Submarine Squadron 5 (HS-5) during recovery operations. The Apollo 7 spacecraf"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1968
+  },
+  {
+   "type": "stat",
+   "value": 7,
+   "unit": "flight",
+   "label": "Apollo program"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 21,
+   "unit": "months",
+   "label": "pause"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1968
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q188486",
+ "pron_wer": 0.018,
+ "angle": 0,
+ "source": {
+  "title": "Apollo 7",
+  "url": "https://en.wikipedia.org/wiki/Apollo_7",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T03:09:25Z",
+ "trimmed": true
+}

@@ -249,7 +249,8 @@
   "nasa:1456728",
   "The Boat Race 2021",
   "Walt Disney",
-  "nasa:1506034"
+  "nasa:1506034",
+  "Diamonds Are Forever (novel)"
  ],
  "rejected": [
   "Chameleon",
@@ -1137,6 +1138,9 @@
   ],
   "nasa:1506034": [
    "November 2026 Skywatching Tips: Voyager 1 reaches one light-day away!"
+  ],
+  "Diamonds Are Forever (novel)": [
+   "The Origin of Diamonds: A newspaper article inspired this Bond novel."
   ]
  },
  "exhausted": []
