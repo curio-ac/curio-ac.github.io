@@ -1,0 +1,352 @@
+{
+ "id": "he-fa2aa6d7",
+ "lang": "he",
+ "title": "המטוס המהיר בהיסטוריה",
+ "cat": "technology",
+ "emoji": "✈️",
+ "sentences": [
+  "זהו המטוס המאויש המהיר ביותר אי פעם.",
+  "הציפור השחורה טסה במהירות של מעל 4,000 קמ\"ש.",
+  "היא מסוגלת להגיע לגובה של כ-26,000 מטרים.",
+  "המטוס נבנה משלושה סוגי סגסוגות טיטניום מיוחדות.",
+  "הוא שירת בביון במשך 21 שנים פעילות.",
+  "אפילו במלחמת יום הכיפורים הוא אסף מודיעין מעל ישראל."
+ ],
+ "tim": {
+  "w": [
+   [
+    "זהו",
+    0,
+    0.32
+   ],
+   [
+    "המטוס",
+    0.32,
+    0.76
+   ],
+   [
+    "המאויש",
+    0.76,
+    1.4
+   ],
+   [
+    "המהיר",
+    1.4,
+    2.12
+   ],
+   [
+    "ביותר",
+    2.12,
+    2.76
+   ],
+   [
+    "אי",
+    2.76,
+    3.02
+   ],
+   [
+    "פעם.",
+    3.02,
+    3.12
+   ],
+   [
+    "הציפור",
+    4.34,
+    4.48
+   ],
+   [
+    "השחורה",
+    4.48,
+    4.92
+   ],
+   [
+    "טסה",
+    4.92,
+    5.52
+   ],
+   [
+    "במהירות",
+    5.52,
+    5.98
+   ],
+   [
+    "של",
+    5.98,
+    6.12
+   ],
+   [
+    "מעל",
+    6.12,
+    6.46
+   ],
+   [
+    "4,000",
+    6.46,
+    7.56
+   ],
+   [
+    "קמ\"ש.",
+    7.56,
+    8.08
+   ],
+   [
+    "היא",
+    8.68,
+    8.72
+   ],
+   [
+    "מסוגלת",
+    9.06,
+    9.16
+   ],
+   [
+    "להגיע",
+    9.16,
+    9.46
+   ],
+   [
+    "לגובה",
+    9.46,
+    9.88
+   ],
+   [
+    "של",
+    9.88,
+    10.0
+   ],
+   [
+    "כ-26,000",
+    10.0,
+    11.7
+   ],
+   [
+    "מטרים.",
+    11.7,
+    11.82
+   ],
+   [
+    "המטוס",
+    12.86,
+    13.16
+   ],
+   [
+    "נבנה",
+    13.16,
+    13.52
+   ],
+   [
+    "משלושה",
+    13.52,
+    14.12
+   ],
+   [
+    "סוגי",
+    14.12,
+    14.5
+   ],
+   [
+    "סגסוגות",
+    14.5,
+    15.22
+   ],
+   [
+    "טיטניום",
+    15.52,
+    15.86
+   ],
+   [
+    "מיוחדות.",
+    15.88,
+    16.28
+   ],
+   [
+    "הוא",
+    17.16,
+    17.24
+   ],
+   [
+    "שירת",
+    17.24,
+    17.54
+   ],
+   [
+    "בביון",
+    17.54,
+    18.02
+   ],
+   [
+    "במשך",
+    18.02,
+    18.46
+   ],
+   [
+    "21",
+    18.62,
+    18.96
+   ],
+   [
+    "שנים",
+    18.96,
+    19.76
+   ],
+   [
+    "פעילות.",
+    19.76,
+    20.06
+   ],
+   [
+    "אפילו",
+    21.0,
+    21.1
+   ],
+   [
+    "במלחמת",
+    21.1,
+    21.68
+   ],
+   [
+    "יום",
+    21.74,
+    21.9
+   ],
+   [
+    "הכיפורים",
+    21.9,
+    22.56
+   ],
+   [
+    "הוא",
+    22.66,
+    22.76
+   ],
+   [
+    "אסף",
+    22.76,
+    23.1
+   ],
+   [
+    "מודיעין",
+    23.12,
+    23.64
+   ],
+   [
+    "מעל",
+    23.64,
+    23.94
+   ],
+   [
+    "ישראל.",
+    23.94,
+    24.32
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   22,
+   29,
+   36
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/052942_SR-71_%27Habu%27_over_Okinawa.jpg/960px-052942_SR-71_%27Habu%27_over_Okinawa.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 507,
+   "license": "Public domain",
+   "artist": "U.S. Army photo shoot.",
+   "page": "https://commons.wikimedia.org/wiki/File:052942_SR-71_%27Habu%27_over_Okinawa.jpg",
+   "desc": "052942 SR-71 'Habu' over Okinawa — SR-71 'Habu' over Okinawa, Japan circa 1970"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/J58_AfterburnerT.jpeg/960px-J58_AfterburnerT.jpeg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 582,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:J58_AfterburnerT.jpeg",
+   "desc": "J58 AfterburnerT — A statically mounted Pratt &amp; Whitney J58 engine with full afterburner on disposing of the last of the SR-71 fuel prior to program termination. The bright areas seen in the exhaust are known as shock diamonds."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lockheed_SR-71_Blackbird_-_DPLA_-_e82ef3653fa5d71f1960fc8160ed64dd_%28page_8%29.jpg/960px-Lockheed_SR-71_Blackbird_-_DPLA_-_e82ef3653fa5d71f1960fc8160ed64dd_%28page_8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 478,
+   "license": "CC0",
+   "artist": "Clarence L. \"Kelly\" Johnson, Lockheed Aircraft Corporation",
+   "page": "https://commons.wikimedia.org/wiki/File:Lockheed_SR-71_Blackbird_-_DPLA_-_e82ef3653fa5d71f1960fc8160ed64dd_(page_8).jpg",
+   "desc": "Lockheed SR-71 Blackbird - DPLA - e82ef3653fa5d71f1960fc8160ed64dd (page 8) — Twin-engine, two-seat, supersonic strategic reconnaissance aircraft; airframe constructed largely of titanium and its alloys; vertical tail fins are constructed of a composite (lamin"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Fairchild_F489_Terrain_Objective_Camera_%28TROC%29_-_Lockheed_SR-71A_Blackbird%2C_1966_-_Evergreen_Aviation_%26_Space_Museum_-_McMinnville%2C_Oregon_-_DSC01056.jpg/960px-Fairchild_F489_Terrain_Objective_Camera_%28TROC%29_-_Lockheed_SR-71A_Blackbird%2C_1966_-_Evergreen_Aviation_%26_Space_Museum_-_McMinnville%2C_Oregon_-_DSC01056.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Daderot",
+   "page": "https://commons.wikimedia.org/wiki/File:Fairchild_F489_Terrain_Objective_Camera_(TROC)_-_Lockheed_SR-71A_Blackbird,_1966_-_Evergreen_Aviation_%26_Space_Museum_-_McMinnville,_Oregon_-_DSC01056.jpg",
+   "desc": "Fairchild F489 Terrain Objective Camera (TROC) - Lockheed SR-71A Blackbird, 1966 - Evergreen Aviation & Space Museum - McMinnville, Oregon - DSC01056 — Exhibit at the Evergreen Aviation &amp; Space Museum - McMinnville, Oregon, USA."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4000,
+   "unit": "קמ\"ש",
+   "label": "מהירות הטיסה"
+  },
+  {
+   "type": "compare",
+   "value": 26000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "focus",
+   "target": "titanium skin",
+   "box": [
+    268,
+    36,
+    791,
+    924
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 21,
+   "unit": "שנים",
+   "label": "שירות מבצעי"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q190114",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "לוקהיד SR-71",
+  "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%A7%D7%94%D7%99%D7%93_SR-71",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T14:21:57Z",
+ "trimmed": true
+}
