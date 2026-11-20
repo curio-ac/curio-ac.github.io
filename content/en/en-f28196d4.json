@@ -1,0 +1,441 @@
+{
+ "id": "en-f28196d4",
+ "lang": "en",
+ "title": "Alexandra's Rise to Power",
+ "cat": "history",
+ "emoji": "👑",
+ "sentences": [
+  "She was the longest-serving Princess of Wales.",
+  "Alexandra’s family was relatively obscure until 1852.",
+  "Her father was then chosen to succeed as King of Denmark.",
+  "At 16, she was selected to marry the Prince of Wales.",
+  "They married in 1863, the same year her brother became King of Greece.",
+  "Fashion-conscious women copied her style during her time as princess.",
+  "Later, she served as Queen from 1901 to 1910."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.28,
+    0.38
+   ],
+   [
+    "was",
+    0.38,
+    0.52
+   ],
+   [
+    "the",
+    0.52,
+    0.66
+   ],
+   [
+    "longest-serving",
+    0.66,
+    1.66
+   ],
+   [
+    "Princess",
+    1.66,
+    2.02
+   ],
+   [
+    "of",
+    2.02,
+    2.28
+   ],
+   [
+    "Wales.",
+    2.28,
+    2.76
+   ],
+   [
+    "Alexandra’s",
+    3.26,
+    3.82
+   ],
+   [
+    "family",
+    3.86,
+    4.06
+   ],
+   [
+    "was",
+    4.06,
+    4.28
+   ],
+   [
+    "relatively",
+    4.28,
+    4.78
+   ],
+   [
+    "obscure",
+    4.78,
+    5.3
+   ],
+   [
+    "until",
+    5.3,
+    5.7
+   ],
+   [
+    "1852.",
+    5.7,
+    6.8
+   ],
+   [
+    "Her",
+    7.22,
+    7.3
+   ],
+   [
+    "father",
+    7.4,
+    7.58
+   ],
+   [
+    "was",
+    7.58,
+    7.78
+   ],
+   [
+    "then",
+    7.78,
+    7.94
+   ],
+   [
+    "chosen",
+    7.94,
+    8.18
+   ],
+   [
+    "to",
+    8.18,
+    8.46
+   ],
+   [
+    "succeed",
+    8.46,
+    8.8
+   ],
+   [
+    "as",
+    8.8,
+    9.08
+   ],
+   [
+    "King",
+    9.08,
+    9.28
+   ],
+   [
+    "of",
+    9.28,
+    9.38
+   ],
+   [
+    "Denmark.",
+    9.38,
+    9.66
+   ],
+   [
+    "At",
+    10.28,
+    10.4
+   ],
+   [
+    "16,",
+    10.4,
+    11.06
+   ],
+   [
+    "she",
+    11.38,
+    11.38
+   ],
+   [
+    "was",
+    11.38,
+    11.5
+   ],
+   [
+    "selected",
+    11.5,
+    11.82
+   ],
+   [
+    "to",
+    11.84,
+    12.1
+   ],
+   [
+    "marry",
+    12.1,
+    12.34
+   ],
+   [
+    "the",
+    12.34,
+    12.52
+   ],
+   [
+    "Prince",
+    12.52,
+    12.74
+   ],
+   [
+    "of",
+    12.74,
+    12.9
+   ],
+   [
+    "Wales.",
+    12.9,
+    13.14
+   ],
+   [
+    "They",
+    13.68,
+    13.76
+   ],
+   [
+    "married",
+    13.76,
+    14.0
+   ],
+   [
+    "in",
+    14.0,
+    14.18
+   ],
+   [
+    "1863,",
+    14.18,
+    14.78
+   ],
+   [
+    "the",
+    15.56,
+    15.6
+   ],
+   [
+    "same",
+    15.6,
+    15.78
+   ],
+   [
+    "year",
+    15.78,
+    15.94
+   ],
+   [
+    "her",
+    15.94,
+    16.08
+   ],
+   [
+    "brother",
+    16.18,
+    16.34
+   ],
+   [
+    "became",
+    16.34,
+    16.66
+   ],
+   [
+    "King",
+    16.66,
+    16.9
+   ],
+   [
+    "of",
+    16.9,
+    17.02
+   ],
+   [
+    "Greece.",
+    17.02,
+    17.42
+   ],
+   [
+    "Fashion-conscious",
+    18.06,
+    18.68
+   ],
+   [
+    "women",
+    18.68,
+    19.04
+   ],
+   [
+    "copied",
+    19.04,
+    19.42
+   ],
+   [
+    "her",
+    19.42,
+    19.64
+   ],
+   [
+    "style",
+    19.64,
+    19.98
+   ],
+   [
+    "during",
+    19.98,
+    20.44
+   ],
+   [
+    "her",
+    20.44,
+    20.58
+   ],
+   [
+    "time",
+    20.58,
+    20.84
+   ],
+   [
+    "as",
+    20.84,
+    20.96
+   ],
+   [
+    "princess.",
+    20.96,
+    21.36
+   ],
+   [
+    "Later,",
+    22.0,
+    22.34
+   ],
+   [
+    "she",
+    22.4,
+    22.44
+   ],
+   [
+    "served",
+    22.44,
+    22.66
+   ],
+   [
+    "as",
+    22.66,
+    22.8
+   ],
+   [
+    "Queen",
+    22.8,
+    23.04
+   ],
+   [
+    "from",
+    23.04,
+    23.3
+   ],
+   [
+    "1901",
+    23.42,
+    23.92
+   ],
+   [
+    "to",
+    23.92,
+    24.16
+   ],
+   [
+    "1910.",
+    24.16,
+    24.76
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   25,
+   36,
+   49,
+   59
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Carl_Forup_-_Portrait_of_Princess_Alexandra_of_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 906,
+   "license": "Public domain",
+   "artist": "Carl Forup",
+   "page": "https://commons.wikimedia.org/wiki/File:Carl_Forup_-_Portrait_of_Princess_Alexandra_of_Denmark.jpg",
+   "desc": "Carl Forup - Portrait of Princess Alexandra of Denmark — Portrait of Princess Alexandra of Denmark, Later Queen Consort of Edward VII"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  0,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1863,
+   "unit": "1901",
+   "label": "Princess of Wales"
+  },
+  {
+   "type": "timeline",
+   "year": 1852
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 16,
+   "unit": "age",
+   "label": "marriage selection"
+  },
+  {
+   "type": "timeline",
+   "year": 1863
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1901,
+   "unit": "1910",
+   "label": "Queen"
+  }
+ ],
+ "geo": null,
+ "qid": "Q152260",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Alexandra of Denmark",
+  "url": "https://en.wikipedia.org/wiki/Alexandra_of_Denmark",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T12:31:56Z",
+ "trimmed": true
+}
