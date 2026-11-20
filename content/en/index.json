@@ -262,7 +262,8 @@
   "Cygnus X-1",
   "Caversham, New Zealand",
   "nasa:1389133",
-  "Biddenden Maids"
+  "Biddenden Maids",
+  "Bastion (video game)"
  ],
  "rejected": [
   "Chameleon",
@@ -325,7 +326,8 @@
   "Computer Space",
   "Complete blood count",
   "1984–85 Gillingham F.C. season",
-  "Arsenal Women 11–1 Bristol City Women"
+  "Arsenal Women 11–1 Bristol City Women",
+  "nasa:1279590"
  ],
  "angles": {
   "Blue whale": [
@@ -1190,6 +1192,9 @@
   ],
   "Biddenden Maids": [
    "The Biddenden Maids Legend: Conjoined twins left land for free food!"
+  ],
+  "Bastion (video game)": [
+   "The Making of Bastion: Seven people built a 2011 video game."
   ]
  },
  "exhausted": []

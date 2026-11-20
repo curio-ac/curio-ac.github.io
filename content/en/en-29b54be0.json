@@ -1,0 +1,450 @@
+{
+ "id": "en-29b54be0",
+ "lang": "en",
+ "title": "Undefeated 13-Game Start",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Undefeated in their first 13 games!",
+  "In the 1963-64 season, Gillingham competed in the Football League Fourth Division.",
+  "By September, they were top of the table and stayed there most of the season.",
+  "April postponements briefly pushed them out of promotion places.",
+  "Going into the final match, they trailed Carlisle United by 2 points.",
+  "They won their final game to tie on points and clinched the championship on goal average!"
+ ],
+ "tim": {
+  "w": [
+   [
+    "Undefeated",
+    0.1,
+    0.54
+   ],
+   [
+    "in",
+    0.54,
+    0.72
+   ],
+   [
+    "their",
+    0.72,
+    0.84
+   ],
+   [
+    "first",
+    0.84,
+    1.06
+   ],
+   [
+    "13",
+    1.06,
+    1.48
+   ],
+   [
+    "games!",
+    1.48,
+    1.86
+   ],
+   [
+    "In",
+    2.36,
+    2.36
+   ],
+   [
+    "the",
+    2.36,
+    2.42
+   ],
+   [
+    "1963-64",
+    2.42,
+    3.72
+   ],
+   [
+    "season,",
+    3.72,
+    4.24
+   ],
+   [
+    "Gillingham",
+    4.3,
+    4.64
+   ],
+   [
+    "competed",
+    4.64,
+    4.94
+   ],
+   [
+    "in",
+    4.94,
+    5.22
+   ],
+   [
+    "the",
+    5.22,
+    5.32
+   ],
+   [
+    "Football",
+    5.38,
+    5.52
+   ],
+   [
+    "League",
+    5.52,
+    5.8
+   ],
+   [
+    "Fourth",
+    5.8,
+    6.02
+   ],
+   [
+    "Division.",
+    6.02,
+    6.68
+   ],
+   [
+    "By",
+    6.74,
+    6.82
+   ],
+   [
+    "September,",
+    6.82,
+    7.44
+   ],
+   [
+    "they",
+    7.48,
+    7.48
+   ],
+   [
+    "were",
+    7.48,
+    7.6
+   ],
+   [
+    "top",
+    7.6,
+    7.8
+   ],
+   [
+    "of",
+    7.8,
+    7.96
+   ],
+   [
+    "the",
+    7.96,
+    8.04
+   ],
+   [
+    "table",
+    8.04,
+    8.3
+   ],
+   [
+    "and",
+    8.3,
+    8.5
+   ],
+   [
+    "stayed",
+    8.5,
+    8.76
+   ],
+   [
+    "there",
+    8.76,
+    8.96
+   ],
+   [
+    "most",
+    8.96,
+    9.16
+   ],
+   [
+    "of",
+    9.16,
+    9.32
+   ],
+   [
+    "the",
+    9.32,
+    9.4
+   ],
+   [
+    "season.",
+    9.4,
+    9.66
+   ],
+   [
+    "April",
+    9.96,
+    10.12
+   ],
+   [
+    "postponements",
+    10.12,
+    10.76
+   ],
+   [
+    "briefly",
+    10.76,
+    11.04
+   ],
+   [
+    "pushed",
+    11.04,
+    11.4
+   ],
+   [
+    "them",
+    11.4,
+    11.56
+   ],
+   [
+    "out",
+    11.56,
+    11.72
+   ],
+   [
+    "of",
+    11.72,
+    11.8
+   ],
+   [
+    "promotion",
+    11.8,
+    12.08
+   ],
+   [
+    "places.",
+    12.08,
+    12.44
+   ],
+   [
+    "Going",
+    12.9,
+    13.0
+   ],
+   [
+    "into",
+    13.0,
+    13.18
+   ],
+   [
+    "the",
+    13.18,
+    13.3
+   ],
+   [
+    "final",
+    13.36,
+    13.5
+   ],
+   [
+    "match,",
+    13.5,
+    13.85
+   ],
+   [
+    "they",
+    13.96,
+    14.02
+   ],
+   [
+    "trailed",
+    14.02,
+    14.32
+   ],
+   [
+    "Carlisle",
+    14.32,
+    14.8
+   ],
+   [
+    "United",
+    14.8,
+    15.0
+   ],
+   [
+    "by",
+    15.0,
+    15.3
+   ],
+   [
+    "2",
+    15.3,
+    15.52
+   ],
+   [
+    "points.",
+    15.52,
+    15.78
+   ],
+   [
+    "They",
+    16.08,
+    16.14
+   ],
+   [
+    "won",
+    16.14,
+    16.3
+   ],
+   [
+    "their",
+    16.3,
+    16.44
+   ],
+   [
+    "final",
+    16.44,
+    16.66
+   ],
+   [
+    "game",
+    16.66,
+    16.92
+   ],
+   [
+    "to",
+    16.92,
+    17.06
+   ],
+   [
+    "tie",
+    17.06,
+    17.3
+   ],
+   [
+    "on",
+    17.3,
+    17.46
+   ],
+   [
+    "points",
+    17.46,
+    17.74
+   ],
+   [
+    "and",
+    17.74,
+    17.92
+   ],
+   [
+    "clinched",
+    17.92,
+    18.24
+   ],
+   [
+    "the",
+    18.24,
+    18.36
+   ],
+   [
+    "championship",
+    18.36,
+    18.82
+   ],
+   [
+    "on",
+    18.82,
+    19.08
+   ],
+   [
+    "goal",
+    19.14,
+    19.26
+   ],
+   [
+    "average!",
+    19.26,
+    19.46
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   33,
+   42,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Priestfield2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 355,
+   "license": "CC BY-SA 3.0",
+   "artist": "Chris Matterface",
+   "page": "https://commons.wikimedia.org/wiki/File:Priestfield2.jpg",
+   "desc": "Priestfield2 — Priestfield Stadium, Gillingham, Kent, England"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Carlisle_United_badge_in_stone_-_geograph.org.uk_-_4868527.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Rose and Trev Clough",
+   "page": "https://commons.wikimedia.org/wiki/File:Carlisle_United_badge_in_stone_-_geograph.org.uk_-_4868527.jpg",
+   "desc": "Carlisle United badge in stone - geograph.org.uk - 4868527 — Carlisle United badge in stone"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 13,
+   "unit": "games",
+   "label": "Undefeated start"
+  },
+  {
+   "type": "timeline",
+   "year": 1963
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "points",
+   "label": "Trailing Carlisle"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4571353",
+ "pron_wer": 0.042,
+ "angle": 0,
+ "source": {
+  "title": "1963–64 Gillingham F.C. season",
+  "url": "https://en.wikipedia.org/wiki/1963%E2%80%9364_Gillingham_F.C._season",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T07:35:22Z",
+ "trimmed": true
+}
