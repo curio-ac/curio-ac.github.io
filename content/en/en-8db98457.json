@@ -1,0 +1,423 @@
+{
+ "id": "en-8db98457",
+ "lang": "en",
+ "title": "High Schoolers Analyzing Lunar Missions",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "High schoolers modeled real lunar mission data.",
+  "The NASA SEES MATRIX team analyzed propellant management for the upcoming IM-3 moon mission.",
+  "They used public flight data to predict how fuel behaves in microgravity.",
+  "The team identified when acoustic sensors can accurately measure fuel.",
+  "They even presented their sophisticated findings to actual propulsion engineers.",
+  "These students proved that public data can unlock complex spaceflight challenges."
+ ],
+ "tim": {
+  "w": [
+   [
+    "High",
+    0.16,
+    0.16
+   ],
+   [
+    "schoolers",
+    0.16,
+    0.64
+   ],
+   [
+    "modeled",
+    0.64,
+    0.94
+   ],
+   [
+    "real",
+    0.94,
+    1.4
+   ],
+   [
+    "lunar",
+    1.4,
+    1.78
+   ],
+   [
+    "mission",
+    1.78,
+    2.08
+   ],
+   [
+    "data.",
+    2.08,
+    2.96
+   ],
+   [
+    "The",
+    2.96,
+    3.02
+   ],
+   [
+    "NASA",
+    3.02,
+    3.36
+   ],
+   [
+    "SEES",
+    3.36,
+    3.82
+   ],
+   [
+    "MATRIX",
+    3.82,
+    4.3
+   ],
+   [
+    "team",
+    4.3,
+    4.52
+   ],
+   [
+    "analyzed",
+    4.52,
+    5.0
+   ],
+   [
+    "propellant",
+    5.0,
+    5.66
+   ],
+   [
+    "management",
+    5.66,
+    6.0
+   ],
+   [
+    "for",
+    6.0,
+    6.28
+   ],
+   [
+    "the",
+    6.28,
+    6.36
+   ],
+   [
+    "upcoming",
+    6.36,
+    6.7
+   ],
+   [
+    "IM-3",
+    6.7,
+    7.62
+   ],
+   [
+    "moon",
+    7.62,
+    7.86
+   ],
+   [
+    "mission.",
+    7.86,
+    8.2
+   ],
+   [
+    "They",
+    8.78,
+    8.88
+   ],
+   [
+    "used",
+    8.88,
+    9.1
+   ],
+   [
+    "public",
+    9.1,
+    9.48
+   ],
+   [
+    "flight",
+    9.48,
+    9.76
+   ],
+   [
+    "data",
+    9.76,
+    10.08
+   ],
+   [
+    "to",
+    10.16,
+    10.26
+   ],
+   [
+    "predict",
+    10.26,
+    10.48
+   ],
+   [
+    "how",
+    10.48,
+    10.7
+   ],
+   [
+    "fuel",
+    10.7,
+    11.02
+   ],
+   [
+    "behaves",
+    11.02,
+    11.4
+   ],
+   [
+    "in",
+    11.52,
+    11.62
+   ],
+   [
+    "microgravity.",
+    11.62,
+    12.26
+   ],
+   [
+    "The",
+    12.92,
+    13.02
+   ],
+   [
+    "team",
+    13.1,
+    13.28
+   ],
+   [
+    "identified",
+    13.6,
+    13.7
+   ],
+   [
+    "when",
+    13.7,
+    14.1
+   ],
+   [
+    "acoustic",
+    14.1,
+    14.52
+   ],
+   [
+    "sensors",
+    14.52,
+    15.02
+   ],
+   [
+    "can",
+    15.02,
+    15.28
+   ],
+   [
+    "accurately",
+    15.28,
+    15.74
+   ],
+   [
+    "measure",
+    15.74,
+    16.14
+   ],
+   [
+    "fuel.",
+    16.14,
+    16.56
+   ],
+   [
+    "They",
+    17.12,
+    17.22
+   ],
+   [
+    "even",
+    17.22,
+    17.5
+   ],
+   [
+    "presented",
+    17.5,
+    18.04
+   ],
+   [
+    "their",
+    18.04,
+    18.24
+   ],
+   [
+    "sophisticated",
+    18.24,
+    18.72
+   ],
+   [
+    "findings",
+    18.72,
+    19.28
+   ],
+   [
+    "to",
+    19.28,
+    19.58
+   ],
+   [
+    "actual",
+    19.58,
+    20.06
+   ],
+   [
+    "propulsion",
+    20.06,
+    20.54
+   ],
+   [
+    "engineers.",
+    20.54,
+    20.92
+   ],
+   [
+    "These",
+    21.84,
+    21.98
+   ],
+   [
+    "students",
+    21.98,
+    22.3
+   ],
+   [
+    "proved",
+    22.3,
+    22.7
+   ],
+   [
+    "that",
+    22.7,
+    22.94
+   ],
+   [
+    "public",
+    23.16,
+    23.28
+   ],
+   [
+    "data",
+    23.28,
+    23.6
+   ],
+   [
+    "can",
+    23.6,
+    23.88
+   ],
+   [
+    "unlock",
+    23.88,
+    24.32
+   ],
+   [
+    "complex",
+    24.32,
+    25.0
+   ],
+   [
+    "spaceflight",
+    25.0,
+    25.6
+   ],
+   [
+    "challenges.",
+    25.6,
+    25.84
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   21,
+   33,
+   43,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Artemis_I_Cryogenic_Propellant_Tanking_Test_%28KSC-20220921-PH-KLS01_0063%29.jpeg/960px-Artemis_I_Cryogenic_Propellant_Tanking_Test_%28KSC-20220921-PH-KLS01_0063%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Kim Shiflett",
+   "page": "https://commons.wikimedia.org/wiki/File:Artemis_I_Cryogenic_Propellant_Tanking_Test_(KSC-20220921-PH-KLS01_0063).jpeg",
+   "desc": "Artemis I Cryogenic Propellant Tanking Test (KSC-20220921-PH-KLS01 0063) — Artemis I Launch Director Charlie Blackwell-Thompson, at left, monitors data inside Firing Room 1 of the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/NASA_Researcher_Andy_Stofan_Studying_Fluid_Sloshing_%28GRC-1960-C-54299%29.jpg/960px-NASA_Researcher_Andy_Stofan_Studying_Fluid_Sloshing_%28GRC-1960-C-54299%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA Glenn Research Center",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Researcher_Andy_Stofan_Studying_Fluid_Sloshing_(GRC-1960-C-54299).jpg",
+   "desc": "NASA Researcher Andy Stofan Studying Fluid Sloshing (GRC-1960-C-54299) — Andy Stofan views a small-scale tank built to study the sloshing characteristics of liquid hydrogen at the National Aeronautics and Space Administration (NASA) Lewis Research Center. Stof"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/USACE_Far_East_District%2C_KICT_explore_innovative_construction_practices_during_technical_exchange_%289981040%29.jpg/960px-USACE_Far_East_District%2C_KICT_explore_innovative_construction_practices_during_technical_exchange_%289981040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "U.S. Army photo by Kiho Yi",
+   "page": "https://commons.wikimedia.org/wiki/File:USACE_Far_East_District,_KICT_explore_innovative_construction_practices_during_technical_exchange_(9981040).jpg",
+   "desc": "USACE Far East District, KICT explore innovative construction practices during technical exchange (9981040) — U.S. Army Corps of Engineers – Far East District personnel listen to a presentation by the Korea Institute of Civil Engineering and Building Technolog"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2027
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+  "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-20T00:34:42Z",
+ "trimmed": true
+}

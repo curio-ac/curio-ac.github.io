@@ -240,7 +240,8 @@
   "nasa:1497430",
   "Banksia caleyi",
   "Louis Abramson",
-  "nasa:1462714"
+  "nasa:1462714",
+  "New York City"
  ],
  "rejected": [
   "Chameleon",
@@ -1099,6 +1100,9 @@
   ],
   "nasa:1462714": [
    "Space’s Giant Magnifying Glasses: Galaxies act like giant magnifying glasses."
+  ],
+  "New York City": [
+   "Inside New York City: New York is America's most populous city."
   ]
  },
  "exhausted": []
