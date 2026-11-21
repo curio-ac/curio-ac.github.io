@@ -1,0 +1,428 @@
+{
+ "id": "en-26c1cd84",
+ "lang": "en",
+ "title": "Farming on the Moon",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA is preparing to farm on the Moon.",
+  "They signed a joint agreement with Canadian and German space agencies.",
+  "The team is building an Earth-based demonstrator to test crop growth.",
+  "These space crops will provide essential nutrition and variety for future astronauts.",
+  "Plants will also recycle water, produce oxygen, and absorb carbon dioxide.",
+  "This technology supports long-term missions near the Moon’s South Pole and beyond."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.28,
+    0.42
+   ],
+   [
+    "is",
+    0.42,
+    0.64
+   ],
+   [
+    "preparing",
+    0.64,
+    0.9
+   ],
+   [
+    "to",
+    0.9,
+    1.12
+   ],
+   [
+    "farm",
+    1.12,
+    1.5
+   ],
+   [
+    "on",
+    1.5,
+    1.76
+   ],
+   [
+    "the",
+    1.76,
+    1.9
+   ],
+   [
+    "Moon.",
+    1.9,
+    2.12
+   ],
+   [
+    "They",
+    2.7,
+    2.76
+   ],
+   [
+    "signed",
+    2.76,
+    3.0
+   ],
+   [
+    "a",
+    3.0,
+    3.18
+   ],
+   [
+    "joint",
+    3.18,
+    3.36
+   ],
+   [
+    "agreement",
+    3.36,
+    3.68
+   ],
+   [
+    "with",
+    3.68,
+    3.9
+   ],
+   [
+    "Canadian",
+    3.98,
+    4.22
+   ],
+   [
+    "and",
+    4.22,
+    4.62
+   ],
+   [
+    "German",
+    4.62,
+    4.94
+   ],
+   [
+    "space",
+    4.94,
+    5.2
+   ],
+   [
+    "agencies.",
+    5.2,
+    5.98
+   ],
+   [
+    "The",
+    6.28,
+    6.36
+   ],
+   [
+    "team",
+    6.4,
+    6.54
+   ],
+   [
+    "is",
+    6.54,
+    6.66
+   ],
+   [
+    "building",
+    6.66,
+    6.86
+   ],
+   [
+    "an",
+    6.86,
+    7.02
+   ],
+   [
+    "Earth-based",
+    7.02,
+    7.46
+   ],
+   [
+    "demonstrator",
+    7.46,
+    8.12
+   ],
+   [
+    "to",
+    8.12,
+    8.28
+   ],
+   [
+    "test",
+    8.28,
+    8.5
+   ],
+   [
+    "crop",
+    8.64,
+    8.76
+   ],
+   [
+    "growth.",
+    8.76,
+    8.86
+   ],
+   [
+    "These",
+    9.58,
+    9.68
+   ],
+   [
+    "space",
+    9.68,
+    9.9
+   ],
+   [
+    "crops",
+    9.9,
+    10.2
+   ],
+   [
+    "will",
+    10.2,
+    10.4
+   ],
+   [
+    "provide",
+    10.44,
+    10.7
+   ],
+   [
+    "essential",
+    10.7,
+    11.1
+   ],
+   [
+    "nutrition",
+    11.1,
+    11.58
+   ],
+   [
+    "and",
+    11.7,
+    11.8
+   ],
+   [
+    "variety",
+    11.8,
+    12.14
+   ],
+   [
+    "for",
+    12.14,
+    12.46
+   ],
+   [
+    "future",
+    12.58,
+    12.68
+   ],
+   [
+    "astronauts.",
+    12.68,
+    12.98
+   ],
+   [
+    "Plants",
+    13.8,
+    13.94
+   ],
+   [
+    "will",
+    13.94,
+    14.06
+   ],
+   [
+    "also",
+    14.06,
+    14.28
+   ],
+   [
+    "recycle",
+    14.28,
+    14.58
+   ],
+   [
+    "water,",
+    14.58,
+    14.68
+   ],
+   [
+    "produce",
+    15.26,
+    15.42
+   ],
+   [
+    "oxygen,",
+    15.42,
+    16.16
+   ],
+   [
+    "and",
+    16.26,
+    16.32
+   ],
+   [
+    "absorb",
+    16.42,
+    16.66
+   ],
+   [
+    "carbon",
+    16.66,
+    16.98
+   ],
+   [
+    "dioxide.",
+    16.98,
+    17.56
+   ],
+   [
+    "This",
+    18.08,
+    18.18
+   ],
+   [
+    "technology",
+    18.18,
+    18.56
+   ],
+   [
+    "supports",
+    18.56,
+    18.9
+   ],
+   [
+    "long-term",
+    18.9,
+    19.46
+   ],
+   [
+    "missions",
+    19.46,
+    19.78
+   ],
+   [
+    "near",
+    19.78,
+    20.08
+   ],
+   [
+    "the",
+    20.08,
+    20.22
+   ],
+   [
+    "Moon’s",
+    20.22,
+    20.54
+   ],
+   [
+    "South",
+    20.54,
+    20.7
+   ],
+   [
+    "Pole",
+    20.7,
+    21.0
+   ],
+   [
+    "and",
+    21.0,
+    21.36
+   ],
+   [
+    "beyond.",
+    21.36,
+    21.68
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   30,
+   42,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hydroponic_onions%2C_NASA_--_17_June_2004.jpg/960px-Hydroponic_onions%2C_NASA_--_17_June_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_onions,_NASA_--_17_June_2004.jpg",
+   "desc": "Hydroponic onions, NASA -- 17 June 2004 — In a plant growth chamber in the KSC Space Life Sciences Lab, plant physiologist Ray Wheeler checks onions being grown using hydroponic techniques. The other plants are Bibb lettuce (left) and radishes (right). Wheeler"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Plant_Habitat-04_experiment_%28ISS066-E-008110%29.jpg/960px-Plant_Habitat-04_experiment_%28ISS066-E-008110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA/Megan McArthur",
+   "page": "https://commons.wikimedia.org/wiki/File:Plant_Habitat-04_experiment_(ISS066-E-008110).jpg",
+   "desc": "Plant Habitat-04 experiment (ISS066-E-008110) — NASA astronaut and Expedition 65 Flight Engineer Mark Vande Hei prepares to photograph chile peppers growing in the Advanced Plant Habitat as part of the Plant Habit-04 experiment being conducted aboard the Inter"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Moon_South_Pole_no_Legend.jpg/960px-Moon_South_Pole_no_Legend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_South_Pole_no_Legend.jpg",
+   "desc": "Moon South Pole no Legend — Mosaico lunare di ~1500 immagini del polo Sud della Luna"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "NASA, International Partners Advance Work on Space Crops",
+  "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:16:51Z",
+ "trimmed": true
+}
