@@ -1,0 +1,390 @@
+{
+ "id": "he-02620b63",
+ "lang": "he",
+ "title": "גלי כבידה יחשפו עולמות חדשים",
+ "cat": "space",
+ "emoji": "🌌",
+ "sentences": [
+  "גלי כבידה יחשפו כוכבי לכת חדשים.",
+  "מצפה הכוכבים LISA יזהה אדוות זעירות במרחב-זמן.",
+  "הוא יחפש כוכבי לכת סביב מערכות של ננסים לבנים.",
+  "כוכב לכת גורם למערכת להתנדנד, מה שיוצר אותות מיוחדים.",
+  "טלסקופ ג'יימס ווב יאשר את קיומם בעזרת אור אינפרא-אדום.",
+  "השיטה הזו תחשוף אוכלוסייה שלמה של עולמות נסתרים."
+ ],
+ "tim": {
+  "w": [
+   [
+    "גלי",
+    0.02,
+    0.28
+   ],
+   [
+    "כבידה",
+    0.28,
+    0.84
+   ],
+   [
+    "יחשפו",
+    0.84,
+    1.48
+   ],
+   [
+    "כוכבי",
+    1.48,
+    1.96
+   ],
+   [
+    "לכת",
+    1.96,
+    2.3
+   ],
+   [
+    "חדשים.",
+    2.3,
+    2.74
+   ],
+   [
+    "מצפה",
+    3.44,
+    3.78
+   ],
+   [
+    "הכוכבים",
+    3.78,
+    4.28
+   ],
+   [
+    "LISA",
+    4.28,
+    4.64
+   ],
+   [
+    "יזהה",
+    4.64,
+    5.48
+   ],
+   [
+    "אדוות",
+    5.48,
+    6.04
+   ],
+   [
+    "זעירות",
+    6.04,
+    6.7
+   ],
+   [
+    "במרחב-זמן.",
+    6.7,
+    6.8
+   ],
+   [
+    "הוא",
+    8.24,
+    8.32
+   ],
+   [
+    "יחפש",
+    8.32,
+    8.74
+   ],
+   [
+    "כוכבי",
+    8.74,
+    9.14
+   ],
+   [
+    "לכת",
+    9.14,
+    9.52
+   ],
+   [
+    "סביב",
+    9.52,
+    9.82
+   ],
+   [
+    "מערכות",
+    9.82,
+    10.4
+   ],
+   [
+    "של",
+    10.4,
+    10.56
+   ],
+   [
+    "ננסים",
+    10.56,
+    11.12
+   ],
+   [
+    "לבנים.",
+    11.12,
+    11.52
+   ],
+   [
+    "כוכב",
+    12.24,
+    12.52
+   ],
+   [
+    "לכת",
+    12.52,
+    12.94
+   ],
+   [
+    "גורם",
+    13.0,
+    13.24
+   ],
+   [
+    "למערכת",
+    13.24,
+    13.84
+   ],
+   [
+    "להתנדנד,",
+    13.84,
+    14.58
+   ],
+   [
+    "מה",
+    14.9,
+    14.98
+   ],
+   [
+    "שיוצר",
+    14.98,
+    15.44
+   ],
+   [
+    "אותות",
+    15.72,
+    15.88
+   ],
+   [
+    "מיוחדים.",
+    15.88,
+    16.46
+   ],
+   [
+    "טלסקופ",
+    17.22,
+    17.64
+   ],
+   [
+    "ג'יימס",
+    17.64,
+    18.06
+   ],
+   [
+    "ווב",
+    18.06,
+    18.38
+   ],
+   [
+    "יאשר",
+    18.38,
+    19.06
+   ],
+   [
+    "את",
+    19.06,
+    19.14
+   ],
+   [
+    "קיומם",
+    19.32,
+    19.6
+   ],
+   [
+    "בעזרת",
+    19.6,
+    20.08
+   ],
+   [
+    "אור",
+    20.26,
+    20.44
+   ],
+   [
+    "אינפרא-אדום.",
+    20.44,
+    21.22
+   ],
+   [
+    "השיטה",
+    21.94,
+    22.32
+   ],
+   [
+    "הזו",
+    22.32,
+    22.52
+   ],
+   [
+    "תחשוף",
+    22.78,
+    22.94
+   ],
+   [
+    "אוכלוסייה",
+    23.14,
+    23.64
+   ],
+   [
+    "שלמה",
+    23.64,
+    24.14
+   ],
+   [
+    "של",
+    24.14,
+    24.36
+   ],
+   [
+    "עולמות",
+    24.36,
+    24.94
+   ],
+   [
+    "נסתרים.",
+    24.94,
+    25.74
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   22,
+   31,
+   40
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gravitational_Waves_%28GravitationalWaves%29.jpg/960px-Gravitational_Waves_%28GravitationalWaves%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 4.0",
+   "artist": "NOIRLab",
+   "page": "https://commons.wikimedia.org/wiki/File:Gravitational_Waves_(GravitationalWaves).jpg",
+   "desc": "Gravitational Waves (GravitationalWaves) — An artist's impression of gravitational waves."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/LISA-inspired_artwork_ESA25446000.png/960px-LISA-inspired_artwork_ESA25446000.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY-SA 3.0 igo",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:LISA-inspired_artwork_ESA25446000.png",
+   "desc": "LISA-inspired artwork ESA25446000 — ESA’s Laser Interferometer Space Antenna (LISA) mission will be the first space-based observatory dedicated to detecting ripples in the fabric of spacetime. These ripples, which we call gravitational waves, are emitted d"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg/960px-Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, STScI, and G. Bacon (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_debris_around_a_white_dwarf_star.jpg",
+   "desc": "Artist’s impression of debris around a white dwarf star — This is an artist’s impression of a white dwarf (burned-out) star accreting rocky debris left behind by the star’s surviving planetary system. It was observed by Hubble in the Hyades star cluster. At lo"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/NASA_Solicits_Proposals_for_a_World-class_Precision_Doppler_Spectrometer_at_Kitt_Peak_National_Observatory_%28noao1502a%29.jpg/960px-NASA_Solicits_Proposals_for_a_World-class_Precision_Doppler_Spectrometer_at_Kitt_Peak_National_Observatory_%28noao1502a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 606,
+   "license": "CC BY 4.0",
+   "artist": "NOIRLab",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA_Solicits_Proposals_for_a_World-class_Precision_Doppler_Spectrometer_at_Kitt_Peak_National_Observatory_(noao1502a).jpg",
+   "desc": "NASA Solicits Proposals for a World-class Precision Doppler Spectrometer at Kitt Peak National Observatory (noao1502a) — Very high velocity precision is needed to measure the mass of low mass planets through the subtle motion, the “wobble”, that a planet induc"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg/960px-James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1079,
+   "license": "CC BY 2.0",
+   "artist": "Chris Gunn",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_(30108124923).jpg",
+   "desc": "James Webb Space Telescope Mirrors Will Piece Together Cosmic Puzzles (30108124923) — The primary mirror of NASA's James Webb Space Telescope consisting of 18 hexagonal mirrors looks like a giant puzzle piece standing in the massive clean room of NASA's Goddar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Exoplanets_cumulative_detection_per_year_as_of_June_2022.png/960px-Exoplanets_cumulative_detection_per_year_as_of_June_2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 548,
+   "license": "Public domain",
+   "artist": "NASA Exoplanet Archive",
+   "page": "https://commons.wikimedia.org/wiki/File:Exoplanets_cumulative_detection_per_year_as_of_June_2022.png",
+   "desc": "Exoplanets cumulative detection per year as of June 2022 — Exoplanets cumulative detection per year as of June 2022"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "LISA observatory",
+   "box": [
+    297,
+    43,
+    964,
+    534
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "white dwarf binary system",
+   "box": [
+    284,
+    34,
+    841,
+    951
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "James Webb Space Telescope",
+   "box": [
+    0,
+    140,
+    915,
+    861
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+  "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:53:18Z",
+ "trimmed": true
+}
