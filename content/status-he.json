@@ -1,7 +1,18 @@
 {
  "lang": "he",
- "exhausted_day": "2026-11-20",
+ "exhausted_day": "2026-11-21",
  "runs": [
+  {
+   "at": "2026-11-21T14:34:25Z",
+   "made": 4,
+   "rejected": 1,
+   "repaired": 0,
+   "calls": 40,
+   "notes": [
+    "nasa:1304490: pronunciation 17.4% of words misheard",
+    "quota: Hebrew voices exhausted for today"
+   ]
+  },
   {
    "at": "2026-11-20T17:38:26Z",
    "made": 1,
