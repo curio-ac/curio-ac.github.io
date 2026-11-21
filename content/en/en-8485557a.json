@@ -1,0 +1,402 @@
+{
+ "id": "en-8485557a",
+ "lang": "en",
+ "title": "Satellites Hunt Red Leaves",
+ "cat": "technology",
+ "emoji": "🍁",
+ "sentences": [
+  "Satellites are now hunting autumn leaves from space.",
+  "NASA’s PACE satellite tracks leaf pigments across the entire globe daily.",
+  "It measures chlorophyll, carotenoids, and anthocyanins to map fall foliage changes.",
+  "The data reveals exactly when and where forests turn vibrant shades of red and yellow.",
+  "While poets once traveled to see these colors, we can now track them instantly from orbit."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Satellites",
+    0.16,
+    0.68
+   ],
+   [
+    "are",
+    0.68,
+    0.8
+   ],
+   [
+    "now",
+    0.8,
+    0.94
+   ],
+   [
+    "hunting",
+    1.16,
+    1.26
+   ],
+   [
+    "autumn",
+    1.26,
+    1.7
+   ],
+   [
+    "leaves",
+    1.7,
+    2.1
+   ],
+   [
+    "from",
+    2.1,
+    2.38
+   ],
+   [
+    "space.",
+    2.38,
+    3.34
+   ],
+   [
+    "NASA’s",
+    3.34,
+    3.74
+   ],
+   [
+    "PACE",
+    3.82,
+    4.0
+   ],
+   [
+    "satellite",
+    4.0,
+    4.34
+   ],
+   [
+    "tracks",
+    4.34,
+    4.78
+   ],
+   [
+    "leaf",
+    4.92,
+    5.06
+   ],
+   [
+    "pigments",
+    5.06,
+    5.46
+   ],
+   [
+    "across",
+    5.46,
+    5.72
+   ],
+   [
+    "the",
+    5.72,
+    6.0
+   ],
+   [
+    "entire",
+    6.0,
+    6.38
+   ],
+   [
+    "globe",
+    6.38,
+    6.72
+   ],
+   [
+    "daily.",
+    6.72,
+    7.12
+   ],
+   [
+    "It",
+    7.52,
+    7.56
+   ],
+   [
+    "measures",
+    7.56,
+    7.82
+   ],
+   [
+    "chlorophyll,",
+    7.82,
+    8.47
+   ],
+   [
+    "carotenoids,",
+    8.66,
+    9.4
+   ],
+   [
+    "and",
+    9.4,
+    9.56
+   ],
+   [
+    "anthocyanins",
+    9.56,
+    10.36
+   ],
+   [
+    "to",
+    10.42,
+    10.52
+   ],
+   [
+    "map",
+    10.52,
+    10.7
+   ],
+   [
+    "fall",
+    10.7,
+    11.0
+   ],
+   [
+    "foliage",
+    11.0,
+    11.38
+   ],
+   [
+    "changes.",
+    11.38,
+    11.8
+   ],
+   [
+    "The",
+    12.42,
+    12.44
+   ],
+   [
+    "data",
+    12.46,
+    12.6
+   ],
+   [
+    "reveals",
+    12.6,
+    12.88
+   ],
+   [
+    "exactly",
+    12.88,
+    13.24
+   ],
+   [
+    "when",
+    13.24,
+    13.64
+   ],
+   [
+    "and",
+    13.64,
+    13.98
+   ],
+   [
+    "where",
+    13.98,
+    14.26
+   ],
+   [
+    "forests",
+    14.26,
+    14.78
+   ],
+   [
+    "turn",
+    14.96,
+    15.06
+   ],
+   [
+    "vibrant",
+    15.06,
+    15.46
+   ],
+   [
+    "shades",
+    15.46,
+    15.76
+   ],
+   [
+    "of",
+    15.76,
+    16.0
+   ],
+   [
+    "red",
+    16.04,
+    16.16
+   ],
+   [
+    "and",
+    16.16,
+    16.3
+   ],
+   [
+    "yellow.",
+    16.3,
+    16.6
+   ],
+   [
+    "While",
+    17.0,
+    17.08
+   ],
+   [
+    "poets",
+    17.08,
+    17.34
+   ],
+   [
+    "once",
+    17.34,
+    17.62
+   ],
+   [
+    "traveled",
+    17.62,
+    17.98
+   ],
+   [
+    "to",
+    17.98,
+    18.18
+   ],
+   [
+    "see",
+    18.18,
+    18.3
+   ],
+   [
+    "these",
+    18.3,
+    18.5
+   ],
+   [
+    "colors,",
+    18.5,
+    18.9
+   ],
+   [
+    "we",
+    19.06,
+    19.14
+   ],
+   [
+    "can",
+    19.22,
+    19.32
+   ],
+   [
+    "now",
+    19.32,
+    19.5
+   ],
+   [
+    "track",
+    19.5,
+    19.78
+   ],
+   [
+    "them",
+    19.78,
+    19.98
+   ],
+   [
+    "instantly",
+    19.98,
+    20.46
+   ],
+   [
+    "from",
+    20.46,
+    20.82
+   ],
+   [
+    "orbit.",
+    20.82,
+    21.1
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   30,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Hunting_Red_Leaves_with_Satellites_%281500737_-_cq5dam_web_1280_1280%29.jpg/960px-Hunting_Red_Leaves_with_Satellites_%281500737_-_cq5dam_web_1280_1280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 450,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Hunting_Red_Leaves_with_Satellites_(1500737_-_cq5dam_web_1280_1280).jpg",
+   "desc": "Hunting Red Leaves with Satellites (1500737 - cq5dam web 1280 1280) — These maps show the redness of vegetation as measured by the OCI (Ocean Color Instrument) on the PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) satellite in September and October 2026. Red"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hunting_Red_Leaves_with_Satellites_%281500737_-_vermontfallcolor_oli2_20261003%29.jpg/960px-Hunting_Red_Leaves_with_Satellites_%281500737_-_vermontfallcolor_oli2_20261003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 550,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Hunting_Red_Leaves_with_Satellites_(1500737_-_vermontfallcolor_oli2_20261003).jpg",
+   "desc": "Hunting Red Leaves with Satellites (1500737 - vermontfallcolor oli2 20261003) — Red and orange hues cover the forested ridges of central Vermont, while river valleys and lower-elevation areas are still green. The OLI (Operational Land Imager) on Landsat 9 capt"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Hunting_Red_Leaves_with_Satellites_%281500737_-_globefallfoilage_photo%29.jpg/960px-Hunting_Red_Leaves_with_Satellites_%281500737_-_globefallfoilage_photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Hunting_Red_Leaves_with_Satellites_(1500737_-_globefallfoilage_photo).jpg",
+   "desc": "Hunting Red Leaves with Satellites (1500737 - globefallfoilage photo) — Fall foliage sprinkles a forested New England landscape in a photo taken in Meredith, New Hampshire, on October 11, 2026, by a participant in GLOBE's North America Phenology Campaign."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Hunting Red Leaves With Satellites",
+  "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T01:01:18Z",
+ "trimmed": true
+}
