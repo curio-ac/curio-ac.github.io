@@ -1,0 +1,443 @@
+{
+ "id": "en-74af86e4",
+ "lang": "en",
+ "title": "Mars Rover's Oldest New Find",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Perseverance just collected an ancient Mars rock.",
+  "This new sample, named Singita, is the first collection in over a year.",
+  "The rover previously struggled to drill into similar hard rocks nearby.",
+  "Engineers successfully used a fresh drill bit to finally pierce the surface.",
+  "Singita might be one of the oldest rocks in the entire collection.",
+  "It likely formed deep within the Martian crust long ago."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Perseverance",
+    0.16,
+    0.74
+   ],
+   [
+    "just",
+    0.74,
+    1.06
+   ],
+   [
+    "collected",
+    1.06,
+    1.6
+   ],
+   [
+    "an",
+    1.6,
+    1.8
+   ],
+   [
+    "ancient",
+    1.8,
+    2.24
+   ],
+   [
+    "Mars",
+    2.24,
+    2.64
+   ],
+   [
+    "rock.",
+    2.64,
+    3.62
+   ],
+   [
+    "This",
+    3.74,
+    3.74
+   ],
+   [
+    "new",
+    3.74,
+    3.94
+   ],
+   [
+    "sample,",
+    3.94,
+    4.44
+   ],
+   [
+    "named",
+    4.52,
+    4.74
+   ],
+   [
+    "Singita,",
+    4.74,
+    5.3
+   ],
+   [
+    "is",
+    5.7,
+    5.8
+   ],
+   [
+    "the",
+    5.8,
+    5.94
+   ],
+   [
+    "first",
+    5.94,
+    6.24
+   ],
+   [
+    "collection",
+    6.24,
+    6.7
+   ],
+   [
+    "in",
+    6.7,
+    6.88
+   ],
+   [
+    "over",
+    6.88,
+    7.32
+   ],
+   [
+    "a",
+    7.32,
+    7.52
+   ],
+   [
+    "year.",
+    7.52,
+    7.8
+   ],
+   [
+    "The",
+    8.44,
+    8.52
+   ],
+   [
+    "rover",
+    8.52,
+    8.68
+   ],
+   [
+    "previously",
+    8.68,
+    9.04
+   ],
+   [
+    "struggled",
+    9.04,
+    9.62
+   ],
+   [
+    "to",
+    9.62,
+    9.86
+   ],
+   [
+    "drill",
+    9.86,
+    10.14
+   ],
+   [
+    "into",
+    10.14,
+    10.42
+   ],
+   [
+    "similar",
+    10.42,
+    10.8
+   ],
+   [
+    "hard",
+    10.8,
+    11.14
+   ],
+   [
+    "rocks",
+    11.14,
+    11.4
+   ],
+   [
+    "nearby.",
+    11.4,
+    11.5
+   ],
+   [
+    "Engineers",
+    12.56,
+    12.92
+   ],
+   [
+    "successfully",
+    12.92,
+    13.44
+   ],
+   [
+    "used",
+    13.44,
+    13.94
+   ],
+   [
+    "a",
+    13.94,
+    14.12
+   ],
+   [
+    "fresh",
+    14.26,
+    14.38
+   ],
+   [
+    "drill",
+    14.38,
+    14.64
+   ],
+   [
+    "bit",
+    14.64,
+    14.82
+   ],
+   [
+    "to",
+    14.82,
+    15.04
+   ],
+   [
+    "finally",
+    15.28,
+    15.46
+   ],
+   [
+    "pierce",
+    15.46,
+    15.9
+   ],
+   [
+    "the",
+    15.9,
+    16.0
+   ],
+   [
+    "surface.",
+    16.0,
+    16.22
+   ],
+   [
+    "Singita",
+    17.1,
+    17.48
+   ],
+   [
+    "might",
+    17.48,
+    17.74
+   ],
+   [
+    "be",
+    17.74,
+    17.94
+   ],
+   [
+    "one",
+    17.94,
+    18.08
+   ],
+   [
+    "of",
+    18.08,
+    18.18
+   ],
+   [
+    "the",
+    18.18,
+    18.28
+   ],
+   [
+    "oldest",
+    18.28,
+    18.62
+   ],
+   [
+    "rocks",
+    18.62,
+    19.02
+   ],
+   [
+    "in",
+    19.02,
+    19.24
+   ],
+   [
+    "the",
+    19.24,
+    19.34
+   ],
+   [
+    "entire",
+    19.34,
+    19.78
+   ],
+   [
+    "collection.",
+    19.78,
+    20.4
+   ],
+   [
+    "It",
+    20.9,
+    20.98
+   ],
+   [
+    "likely",
+    20.98,
+    21.22
+   ],
+   [
+    "formed",
+    21.22,
+    21.58
+   ],
+   [
+    "deep",
+    21.58,
+    21.92
+   ],
+   [
+    "within",
+    21.92,
+    22.22
+   ],
+   [
+    "the",
+    22.22,
+    22.34
+   ],
+   [
+    "Martian",
+    22.34,
+    22.68
+   ],
+   [
+    "crust",
+    22.68,
+    22.98
+   ],
+   [
+    "long",
+    22.98,
+    23.3
+   ],
+   [
+    "ago.",
+    23.3,
+    23.7
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   31,
+   43,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/PIA24928-Mars-PerseveranceRover-WildcatRidge-Sampling-20220804.jpg/960px-PIA24928-Mars-PerseveranceRover-WildcatRidge-Sampling-20220804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 587,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/ASU/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA24928-Mars-PerseveranceRover-WildcatRidge-Sampling-20220804.jpg",
+   "desc": "PIA24928-Mars-PerseveranceRover-WildcatRidge-Sampling-20220804 — PIA24928: Sample Collection and Rock Analysis at Wildcat Ridge https://photojournal.jpl.nasa.gov/catalog/PIA24928 Composed of multiple images from NASA's Perseverance Mars rover, this mosaic show"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/6th_Perseverance_Rock_Sample_Attempt_1_that_was_abandoned_due_to_coring_bit_dropoff.jpg/960px-6th_Perseverance_Rock_Sample_Attempt_1_that_was_abandoned_due_to_coring_bit_dropoff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:6th_Perseverance_Rock_Sample_Attempt_1_that_was_abandoned_due_to_coring_bit_dropoff.jpg",
+   "desc": "6th Perseverance Rock Sample Attempt 1 that was abandoned due to coring bit dropoff — 6th Perseverance Rock Sample Attempt 1 that was abandoned due to coring bit dropoff"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/PIA24805_-_Navcam_of_Borehole_-_Sol190_by_rover_Perseverance.jpg/960px-PIA24805_-_Navcam_of_Borehole_-_Sol190_by_rover_Perseverance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 272,
+   "license": "",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA24805_-_Navcam_of_Borehole_-_Sol190_by_rover_Perseverance.jpg",
+   "desc": "PIA24805 - Navcam of Borehole - Sol190 by rover Perseverance — This composite of two images shows the hole drilled by NASA's Perseverance rover during its second sample-collection attempt. The images, which were obtained by one of the rover's navigation camera"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Mars_Sample_return_mission%27s_rock_samples_collected_by_2020_Perseverance_Rover_Traverse_Path.png/960px-Mars_Sample_return_mission%27s_rock_samples_collected_by_2020_Perseverance_Rover_Traverse_Path.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 417,
+   "license": "Public domain",
+   "artist": "NASA/JPL",
+   "page": "https://commons.wikimedia.org/wiki/File:Mars_Sample_return_mission%27s_rock_samples_collected_by_2020_Perseverance_Rover_Traverse_Path.png",
+   "desc": "Mars Sample return mission's rock samples collected by 2020 Perseverance Rover Traverse Path — Perseverance Traverse Path and rock sampling locations. Live link at: https://mars.nasa.gov/mars2020/mission/where-is-the-rover/ .mw-parser-output .messagebox{margin"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "year",
+   "label": "collection gap"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.031,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+ "pron_wer": 0.031,
+ "angle": 0,
+ "source": {
+  "title": "Newest Sample, Oldest Rock?",
+  "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T14:14:09Z",
+ "trimmed": true
+}

@@ -353,7 +353,8 @@
   "nasa:1487827",
   "Big Butte Creek",
   "nasa:1490381",
-  "55 Wall Street"
+  "55 Wall Street",
+  "Battle of the Great Plains"
  ],
  "rejected": [
   "Chameleon",
@@ -1587,6 +1588,9 @@
   ],
   "55 Wall Street": [
    "The Transforming Wall Street Building: This Wall Street building added 5 new floors!"
+  ],
+  "Battle of the Great Plains": [
+   "Rome's Bold North African Strike: Scipio launched a surprise night attack."
   ]
  },
  "exhausted": []
