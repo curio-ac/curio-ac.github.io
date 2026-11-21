@@ -1,0 +1,385 @@
+{
+ "id": "en-8218fead",
+ "lang": "en",
+ "title": "Desert Reservoir Suddenly Explodes",
+ "cat": "geography",
+ "emoji": "🌊",
+ "sentences": [
+  "A desert reservoir rose 60 feet in weeks.",
+  "Back-to-back storms recently slammed the U.S. Southwest.",
+  "These massive rains actually ended short-term drought conditions.",
+  "Navajo Reservoir jumped from 60 to 108 percent capacity.",
+  "Satellite images from NASA reveal this dramatic transformation.",
+  "While the water brought relief, it also triggered dangerous, record-breaking floods across the region."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.12,
+    0.12
+   ],
+   [
+    "desert",
+    0.16,
+    0.46
+   ],
+   [
+    "reservoir",
+    0.46,
+    1.02
+   ],
+   [
+    "rose",
+    1.02,
+    1.48
+   ],
+   [
+    "60",
+    1.48,
+    2.14
+   ],
+   [
+    "feet",
+    2.14,
+    2.54
+   ],
+   [
+    "in",
+    2.54,
+    2.82
+   ],
+   [
+    "weeks.",
+    2.82,
+    3.12
+   ],
+   [
+    "Back-to-back",
+    3.88,
+    4.34
+   ],
+   [
+    "storms",
+    4.34,
+    4.74
+   ],
+   [
+    "recently",
+    4.74,
+    5.34
+   ],
+   [
+    "slammed",
+    5.34,
+    5.78
+   ],
+   [
+    "the",
+    5.78,
+    6.0
+   ],
+   [
+    "U.S.",
+    6.0,
+    6.38
+   ],
+   [
+    "Southwest.",
+    6.44,
+    6.76
+   ],
+   [
+    "These",
+    7.46,
+    7.62
+   ],
+   [
+    "massive",
+    7.62,
+    8.06
+   ],
+   [
+    "rains",
+    8.06,
+    8.46
+   ],
+   [
+    "actually",
+    8.46,
+    9.02
+   ],
+   [
+    "ended",
+    9.02,
+    9.38
+   ],
+   [
+    "short-term",
+    9.38,
+    9.96
+   ],
+   [
+    "drought",
+    9.96,
+    10.18
+   ],
+   [
+    "conditions.",
+    10.18,
+    10.64
+   ],
+   [
+    "Navajo",
+    11.44,
+    11.76
+   ],
+   [
+    "Reservoir",
+    11.76,
+    12.28
+   ],
+   [
+    "jumped",
+    12.28,
+    12.52
+   ],
+   [
+    "from",
+    12.52,
+    12.76
+   ],
+   [
+    "60",
+    12.76,
+    13.22
+   ],
+   [
+    "to",
+    13.22,
+    13.52
+   ],
+   [
+    "108",
+    13.52,
+    14.34
+   ],
+   [
+    "percent",
+    14.34,
+    14.7
+   ],
+   [
+    "capacity.",
+    14.7,
+    15.16
+   ],
+   [
+    "Satellite",
+    16.02,
+    16.4
+   ],
+   [
+    "images",
+    16.4,
+    16.66
+   ],
+   [
+    "from",
+    16.66,
+    16.92
+   ],
+   [
+    "NASA",
+    16.92,
+    17.22
+   ],
+   [
+    "reveal",
+    17.22,
+    17.6
+   ],
+   [
+    "this",
+    17.6,
+    17.8
+   ],
+   [
+    "dramatic",
+    17.8,
+    18.2
+   ],
+   [
+    "transformation.",
+    18.2,
+    19.06
+   ],
+   [
+    "While",
+    19.72,
+    19.82
+   ],
+   [
+    "the",
+    19.82,
+    19.96
+   ],
+   [
+    "water",
+    19.96,
+    20.18
+   ],
+   [
+    "brought",
+    20.18,
+    20.42
+   ],
+   [
+    "relief,",
+    20.42,
+    20.88
+   ],
+   [
+    "it",
+    21.16,
+    21.24
+   ],
+   [
+    "also",
+    21.24,
+    21.56
+   ],
+   [
+    "triggered",
+    21.56,
+    21.86
+   ],
+   [
+    "dangerous,",
+    21.86,
+    22.58
+   ],
+   [
+    "record-breaking",
+    22.66,
+    23.18
+   ],
+   [
+    "floods",
+    23.18,
+    23.6
+   ],
+   [
+    "across",
+    23.74,
+    23.84
+   ],
+   [
+    "the",
+    23.84,
+    24.12
+   ],
+   [
+    "region.",
+    24.12,
+    24.32
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   23,
+   32,
+   40
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Water_Surges_Into_Navajo_Reservoir_%281510274_-_cq5dam_web_1280_1280%29.jpg/960px-Water_Surges_Into_Navajo_Reservoir_%281510274_-_cq5dam_web_1280_1280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 729,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_Surges_Into_Navajo_Reservoir_(1510274_-_cq5dam_web_1280_1280).jpg",
+   "desc": "Water Surges Into Navajo Reservoir (1510274 - cq5dam web 1280 1280) — NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Rare_Severe_Thunderstorm_Threat_Over_the_Southwest_U_S_%28CIRA_2026-10-22%29.png/960px-Rare_Severe_Thunderstorm_Threat_Over_the_Southwest_U_S_%28CIRA_2026-10-22%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "GOES imagery: CSU/CIRA &amp; NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Rare_Severe_Thunderstorm_Threat_Over_the_Southwest_U_S_(CIRA_2026-10-22).png",
+   "desc": "Rare Severe Thunderstorm Threat Over the Southwest U S (CIRA 2026-10-22) — Severe storms salvo the Southwestern U.S., producing a rare tornado threat and delivering heavy rains and flooding."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Drought.jpg/960px-Drought.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC BY 3.0",
+   "artist": "Tomas Castelazo",
+   "page": "https://commons.wikimedia.org/wiki/File:Drought.jpg",
+   "desc": "Drought — Dry ground in the Sonoran Desert, Sonora,Mexico."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  0,
+  0,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 60,
+   "unit": "ft",
+   "label": "reservoir rise"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 108,
+   "unit": "percent",
+   "label": "reservoir capacity"
+  },
+  {
+   "type": "focus",
+   "target": "Navajo Reservoir",
+   "box": [
+    100,
+    250,
+    930,
+    910
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Water Surges Into Navajo Reservoir",
+  "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T17:24:36Z",
+ "trimmed": true
+}
