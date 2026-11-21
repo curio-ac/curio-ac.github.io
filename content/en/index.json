@@ -350,7 +350,8 @@
   "2000 Sugar Bowl",
   "nasa:1398778",
   "Apollo 11 50th Anniversary commemorative coins",
-  "nasa:1487827"
+  "nasa:1487827",
+  "Big Butte Creek"
  ],
  "rejected": [
   "Chameleon",
@@ -1575,6 +1576,9 @@
   ],
   "nasa:1487827": [
    "Perseverance Sets World Record: NASA’s Perseverance team just set a world record."
+  ],
+  "Big Butte Creek": [
+   "Oregon's Hidden Creek History: Humans have inhabited this watershed for 8,000 years."
   ]
  },
  "exhausted": []

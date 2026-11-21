@@ -1,0 +1,406 @@
+{
+ "id": "en-97654a49",
+ "lang": "en",
+ "title": "The Bakerloo Line's Fraud",
+ "cat": "history",
+ "emoji": "🚇",
+ "sentences": [
+  "A massive fraud almost killed the Bakerloo.",
+  "This London tube railway began in 1893.",
+  "Construction stalled until 1898 due to funding struggles.",
+  "Then, a financial collapse hit because of Whitaker Wright’s fraud.",
+  "In 1902, American financier Charles Yerkes took control.",
+  "His company finally raised the funds from foreign investors.",
+  "The line opened in 1906, connecting Baker Street to Elephant and Castle."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.08,
+    0.1
+   ],
+   [
+    "massive",
+    0.1,
+    0.5
+   ],
+   [
+    "fraud",
+    0.5,
+    0.88
+   ],
+   [
+    "almost",
+    0.88,
+    1.36
+   ],
+   [
+    "killed",
+    1.36,
+    1.82
+   ],
+   [
+    "the",
+    1.82,
+    2.02
+   ],
+   [
+    "Bakerloo.",
+    2.02,
+    2.4
+   ],
+   [
+    "This",
+    2.94,
+    3.08
+   ],
+   [
+    "London",
+    3.08,
+    3.36
+   ],
+   [
+    "tube",
+    3.36,
+    3.68
+   ],
+   [
+    "railway",
+    3.68,
+    4.0
+   ],
+   [
+    "began",
+    4.0,
+    4.44
+   ],
+   [
+    "in",
+    4.44,
+    4.7
+   ],
+   [
+    "1893.",
+    4.7,
+    5.92
+   ],
+   [
+    "Construction",
+    6.36,
+    6.72
+   ],
+   [
+    "stalled",
+    6.72,
+    7.18
+   ],
+   [
+    "until",
+    7.18,
+    7.52
+   ],
+   [
+    "1898",
+    7.52,
+    8.44
+   ],
+   [
+    "due",
+    8.44,
+    8.74
+   ],
+   [
+    "to",
+    8.74,
+    8.88
+   ],
+   [
+    "funding",
+    8.88,
+    9.16
+   ],
+   [
+    "struggles.",
+    9.16,
+    9.74
+   ],
+   [
+    "Then,",
+    10.2,
+    10.56
+   ],
+   [
+    "a",
+    10.6,
+    10.62
+   ],
+   [
+    "financial",
+    10.62,
+    10.96
+   ],
+   [
+    "collapse",
+    10.96,
+    11.38
+   ],
+   [
+    "hit",
+    11.38,
+    11.7
+   ],
+   [
+    "because",
+    11.7,
+    12.0
+   ],
+   [
+    "of",
+    12.0,
+    12.16
+   ],
+   [
+    "Whitaker",
+    12.16,
+    12.5
+   ],
+   [
+    "Wright’s",
+    12.5,
+    12.98
+   ],
+   [
+    "fraud.",
+    12.98,
+    13.32
+   ],
+   [
+    "In",
+    14.02,
+    14.12
+   ],
+   [
+    "1902,",
+    14.12,
+    14.96
+   ],
+   [
+    "American",
+    15.42,
+    15.52
+   ],
+   [
+    "financier",
+    15.52,
+    16.2
+   ],
+   [
+    "Charles",
+    16.2,
+    16.52
+   ],
+   [
+    "Yerkes",
+    16.8,
+    16.9
+   ],
+   [
+    "took",
+    16.9,
+    17.18
+   ],
+   [
+    "control.",
+    17.18,
+    17.64
+   ],
+   [
+    "His",
+    18.14,
+    18.24
+   ],
+   [
+    "company",
+    18.24,
+    18.52
+   ],
+   [
+    "finally",
+    18.52,
+    18.96
+   ],
+   [
+    "raised",
+    18.96,
+    19.36
+   ],
+   [
+    "the",
+    19.36,
+    19.48
+   ],
+   [
+    "funds",
+    19.58,
+    19.74
+   ],
+   [
+    "from",
+    19.74,
+    20.02
+   ],
+   [
+    "foreign",
+    20.02,
+    20.36
+   ],
+   [
+    "investors.",
+    20.36,
+    20.92
+   ],
+   [
+    "The",
+    21.46,
+    21.54
+   ],
+   [
+    "line",
+    21.54,
+    21.72
+   ],
+   [
+    "opened",
+    21.72,
+    22.08
+   ],
+   [
+    "in",
+    22.08,
+    22.32
+   ],
+   [
+    "1906,",
+    22.32,
+    22.92
+   ],
+   [
+    "connecting",
+    23.46,
+    23.68
+   ],
+   [
+    "Baker",
+    23.76,
+    23.96
+   ],
+   [
+    "Street",
+    24.0,
+    24.32
+   ],
+   [
+    "to",
+    24.32,
+    24.56
+   ],
+   [
+    "Elephant",
+    24.66,
+    24.98
+   ],
+   [
+    "and",
+    24.98,
+    25.16
+   ],
+   [
+    "Castle.",
+    25.16,
+    25.62
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   14,
+   22,
+   32,
+   40,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Portrait_of_Charles_Yerkes_by_Jan_Van_Beers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 4.0",
+   "artist": "Jan van Beers",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Charles_Yerkes_by_Jan_Van_Beers.jpg",
+   "desc": "Portrait of Charles Yerkes by Jan Van Beers — Портрет Ч. Йеркса кисти художника Яна ван Бирса. 1893"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Baker_Street_%26_Waterloo_Railway.png/960px-Baker_Street_%26_Waterloo_Railway.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 655,
+   "license": "CC BY-SA 3.0",
+   "artist": "created by DavidCane",
+   "page": "https://commons.wikimedia.org/wiki/File:Baker_Street_%26_Waterloo_Railway.png",
+   "desc": "Baker Street & Waterloo Railway — Geographic Map of the Baker Street &amp; Waterloo Railway."
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  0,
+  null,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1893
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1902
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q4849221",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Baker Street and Waterloo Railway",
+  "url": "https://en.wikipedia.org/wiki/Baker_Street_and_Waterloo_Railway",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T12:40:37Z",
+ "trimmed": true
+}
