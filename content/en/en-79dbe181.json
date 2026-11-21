@@ -1,0 +1,344 @@
+{
+ "id": "en-79dbe181",
+ "lang": "en",
+ "title": "The Wild Return of Doom",
+ "cat": "technology",
+ "emoji": "🎮",
+ "sentences": [
+  "Doom took 8 years to finally launch.",
+  "It started as Doom 4 in 2008 before restarting.",
+  "Players control the Doom Slayer fighting demons on Mars.",
+  "The game came out in May 2016 for PC and consoles.",
+  "It even features online multiplayer and a level editor.",
+  "Critics gave the reboot a very warm reception."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Doom",
+    0.22,
+    0.24
+   ],
+   [
+    "took",
+    0.24,
+    0.6
+   ],
+   [
+    "8",
+    0.6,
+    0.92
+   ],
+   [
+    "years",
+    0.92,
+    1.4
+   ],
+   [
+    "to",
+    1.46,
+    1.6
+   ],
+   [
+    "finally",
+    1.6,
+    2.02
+   ],
+   [
+    "launch.",
+    2.02,
+    2.9
+   ],
+   [
+    "It",
+    2.92,
+    2.92
+   ],
+   [
+    "started",
+    2.92,
+    3.2
+   ],
+   [
+    "as",
+    3.2,
+    3.4
+   ],
+   [
+    "Doom",
+    3.4,
+    3.64
+   ],
+   [
+    "4",
+    3.64,
+    4.04
+   ],
+   [
+    "in",
+    4.04,
+    4.22
+   ],
+   [
+    "2008",
+    4.22,
+    4.8
+   ],
+   [
+    "before",
+    5.02,
+    5.12
+   ],
+   [
+    "restarting.",
+    5.12,
+    5.62
+   ],
+   [
+    "Players",
+    6.22,
+    6.38
+   ],
+   [
+    "control",
+    6.38,
+    6.8
+   ],
+   [
+    "the",
+    6.8,
+    6.98
+   ],
+   [
+    "Doom",
+    6.98,
+    7.32
+   ],
+   [
+    "Slayer",
+    7.32,
+    7.86
+   ],
+   [
+    "fighting",
+    8.16,
+    8.26
+   ],
+   [
+    "demons",
+    8.26,
+    8.7
+   ],
+   [
+    "on",
+    8.7,
+    8.96
+   ],
+   [
+    "Mars.",
+    8.96,
+    9.24
+   ],
+   [
+    "The",
+    9.88,
+    9.94
+   ],
+   [
+    "game",
+    9.94,
+    10.1
+   ],
+   [
+    "came",
+    10.1,
+    10.26
+   ],
+   [
+    "out",
+    10.26,
+    10.42
+   ],
+   [
+    "in",
+    10.42,
+    10.62
+   ],
+   [
+    "May",
+    10.62,
+    10.82
+   ],
+   [
+    "2016",
+    10.82,
+    11.44
+   ],
+   [
+    "for",
+    11.44,
+    11.88
+   ],
+   [
+    "PC",
+    12.02,
+    12.22
+   ],
+   [
+    "and",
+    12.22,
+    12.46
+   ],
+   [
+    "consoles.",
+    12.46,
+    12.78
+   ],
+   [
+    "It",
+    13.36,
+    13.46
+   ],
+   [
+    "even",
+    13.46,
+    13.62
+   ],
+   [
+    "features",
+    13.62,
+    13.88
+   ],
+   [
+    "online",
+    13.88,
+    14.42
+   ],
+   [
+    "multiplayer",
+    14.42,
+    14.88
+   ],
+   [
+    "and",
+    14.92,
+    15.28
+   ],
+   [
+    "a",
+    15.28,
+    15.38
+   ],
+   [
+    "level",
+    15.38,
+    15.64
+   ],
+   [
+    "editor.",
+    15.64,
+    15.78
+   ],
+   [
+    "Critics",
+    16.6,
+    16.82
+   ],
+   [
+    "gave",
+    16.82,
+    16.96
+   ],
+   [
+    "the",
+    16.96,
+    17.08
+   ],
+   [
+    "reboot",
+    17.08,
+    17.36
+   ],
+   [
+    "a",
+    17.36,
+    17.58
+   ],
+   [
+    "very",
+    17.58,
+    17.9
+   ],
+   [
+    "warm",
+    17.9,
+    18.3
+   ],
+   [
+    "reception.",
+    18.3,
+    18.64
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   36,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 8,
+   "unit": "years",
+   "label": "to launch"
+  },
+  {
+   "type": "timeline",
+   "year": 2008
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2016
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q513867",
+ "pron_wer": 0.019,
+ "angle": 0,
+ "source": {
+  "title": "Doom (2016 video game)",
+  "url": "https://en.wikipedia.org/wiki/Doom_%282016_video_game%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T07:03:47Z",
+ "trimmed": true
+}

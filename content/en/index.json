@@ -333,7 +333,8 @@
   "Branford Steam Railroad",
   "Paige Bueckers",
   "nasa:1499166",
-  "nasa:1506470"
+  "nasa:1506470",
+  "Colley Cibber"
  ],
  "rejected": [
   "Chameleon",
@@ -1501,6 +1502,9 @@
   ],
   "nasa:1506470": [
    "Antarctic Skull Island: An Antarctic island looks like a grinning skull."
+  ],
+  "Colley Cibber": [
+   "The Head Dunce: This Poet Laureate was called a \"head Dunce\"."
   ]
  },
  "exhausted": []
