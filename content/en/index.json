@@ -331,7 +331,8 @@
   "Dreadnought",
   "nasa:1304490",
   "Branford Steam Railroad",
-  "Paige Bueckers"
+  "Paige Bueckers",
+  "nasa:1499166"
  ],
  "rejected": [
   "Chameleon",
@@ -417,7 +418,8 @@
   "nasa:1278372",
   "Caloboletus calopus",
   "Cattle egret",
-  "Déjà Vu (Beyoncé song)"
+  "Déjà Vu (Beyoncé song)",
+  "Corona Borealis"
  ],
  "angles": {
   "Blue whale": [
@@ -1492,6 +1494,9 @@
   ],
   "Paige Bueckers": [
    "Paige Bueckers Basketball Career: She has UConn's highest career scoring average."
+  ],
+  "nasa:1499166": [
+   "Voyager Reaches One Light-Day: Voyager 1 will hit 1 light-day away!"
   ]
  },
  "exhausted": []

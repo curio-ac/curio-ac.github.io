@@ -1,0 +1,419 @@
+{
+ "id": "en-b697b042",
+ "lang": "en",
+ "title": "The Gasteroid Agaricus Fungus",
+ "cat": "biology",
+ "emoji": "🍄",
+ "sentences": [
+  "Meet the bizarre gasteroid agaricus fungus!",
+  "Fruit bodies reach heights of 18 cm tall.",
+  "The tough woody stems thicken towards the base.",
+  "It was moved to the genus Agaricus in 2004.",
+  "Unlike other Agaricus species, it does not develop true gills.",
+  "Spores grow inside a convoluted tissue called a gleba.",
+  "Splits in the cap expose the blackish-brown gleba for dispersal."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.14,
+    0.14
+   ],
+   [
+    "the",
+    0.14,
+    0.28
+   ],
+   [
+    "bizarre",
+    0.28,
+    0.58
+   ],
+   [
+    "gasteroid",
+    0.58,
+    1.34
+   ],
+   [
+    "agaricus",
+    1.34,
+    1.9
+   ],
+   [
+    "fungus!",
+    1.9,
+    2.32
+   ],
+   [
+    "Fruit",
+    2.7,
+    2.8
+   ],
+   [
+    "bodies",
+    2.8,
+    3.1
+   ],
+   [
+    "reach",
+    3.1,
+    3.32
+   ],
+   [
+    "heights",
+    3.32,
+    3.56
+   ],
+   [
+    "of",
+    3.56,
+    3.74
+   ],
+   [
+    "18",
+    3.8,
+    4.04
+   ],
+   [
+    "cm",
+    4.04,
+    4.38
+   ],
+   [
+    "tall.",
+    4.38,
+    4.9
+   ],
+   [
+    "The",
+    5.24,
+    5.3
+   ],
+   [
+    "tough",
+    5.3,
+    5.48
+   ],
+   [
+    "woody",
+    5.48,
+    5.76
+   ],
+   [
+    "stems",
+    5.76,
+    6.0
+   ],
+   [
+    "thicken",
+    6.0,
+    6.36
+   ],
+   [
+    "towards",
+    6.36,
+    6.68
+   ],
+   [
+    "the",
+    6.68,
+    6.9
+   ],
+   [
+    "base.",
+    6.9,
+    7.26
+   ],
+   [
+    "It",
+    7.42,
+    7.5
+   ],
+   [
+    "was",
+    7.5,
+    7.64
+   ],
+   [
+    "moved",
+    7.64,
+    7.84
+   ],
+   [
+    "to",
+    7.84,
+    8.02
+   ],
+   [
+    "the",
+    8.02,
+    8.1
+   ],
+   [
+    "genus",
+    8.1,
+    8.42
+   ],
+   [
+    "Agaricus",
+    8.48,
+    8.9
+   ],
+   [
+    "in",
+    8.9,
+    9.14
+   ],
+   [
+    "2004.",
+    9.14,
+    10.18
+   ],
+   [
+    "Unlike",
+    10.18,
+    10.36
+   ],
+   [
+    "other",
+    10.36,
+    10.7
+   ],
+   [
+    "Agaricus",
+    10.7,
+    11.22
+   ],
+   [
+    "species,",
+    11.22,
+    11.8
+   ],
+   [
+    "it",
+    11.8,
+    11.86
+   ],
+   [
+    "does",
+    11.86,
+    12.0
+   ],
+   [
+    "not",
+    12.0,
+    12.18
+   ],
+   [
+    "develop",
+    12.18,
+    12.5
+   ],
+   [
+    "true",
+    12.5,
+    12.72
+   ],
+   [
+    "gills.",
+    12.72,
+    13.04
+   ],
+   [
+    "Spores",
+    13.38,
+    13.58
+   ],
+   [
+    "grow",
+    13.58,
+    13.8
+   ],
+   [
+    "inside",
+    13.8,
+    14.08
+   ],
+   [
+    "a",
+    14.08,
+    14.2
+   ],
+   [
+    "convoluted",
+    14.28,
+    14.8
+   ],
+   [
+    "tissue",
+    14.8,
+    15.02
+   ],
+   [
+    "called",
+    15.02,
+    15.34
+   ],
+   [
+    "a",
+    15.34,
+    15.46
+   ],
+   [
+    "gleba.",
+    15.46,
+    15.9
+   ],
+   [
+    "Splits",
+    16.14,
+    16.32
+   ],
+   [
+    "in",
+    16.32,
+    16.44
+   ],
+   [
+    "the",
+    16.44,
+    16.52
+   ],
+   [
+    "cap",
+    16.52,
+    16.78
+   ],
+   [
+    "expose",
+    17.02,
+    17.12
+   ],
+   [
+    "the",
+    17.12,
+    17.34
+   ],
+   [
+    "blackish-brown",
+    17.34,
+    17.96
+   ],
+   [
+    "gleba",
+    17.96,
+    18.3
+   ],
+   [
+    "for",
+    18.3,
+    18.48
+   ],
+   [
+    "dispersal.",
+    18.48,
+    19.0
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   22,
+   31,
+   41,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Agaricus_deserticola_65791.jpg/960px-Agaricus_deserticola_65791.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 3.0",
+   "artist": "This image was created by user Phalluscybe (phonehenge) at Mushroom Observer, a ",
+   "page": "https://commons.wikimedia.org/wiki/File:Agaricus_deserticola_65791.jpg",
+   "desc": "Agaricus deserticola 65791 — The mushroom Agaricus deserticola G. Moreno, Esqueda &amp; Lizárraga. Photographed in Yuba City, CA."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Agaricus_deserticola_65794.jpg/960px-Agaricus_deserticola_65794.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "This image was created by user Phalluscybe (phonehenge) at Mushroom Observer, a ",
+   "page": "https://commons.wikimedia.org/wiki/File:Agaricus_deserticola_65794.jpg",
+   "desc": "Agaricus deserticola 65794 — A young collection of the secotioid mushroom Agaricus deserticola G. Moreno, Esqueda &amp; Lizárraga Photographed in Yuba City, CA."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Agaricus_deserticola_65799.jpg/960px-Agaricus_deserticola_65799.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 593,
+   "license": "CC BY-SA 3.0",
+   "artist": "This image was created by user Phalluscybe (phonehenge) at Mushroom Observer, a ",
+   "page": "https://commons.wikimedia.org/wiki/File:Agaricus_deserticola_65799.jpg",
+   "desc": "Agaricus deserticola 65799 — Bisected specimens of the secotioid mushroom Agaricus deserticola G. Moreno, Esqueda &amp; Lizárraga. Specimen found and photographed in Yuba City, CA."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  2,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 0.18,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2004
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "gleba",
+   "box": [
+    112,
+    133,
+    388,
+    886
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q623048",
+ "pron_wer": 0.066,
+ "angle": 0,
+ "source": {
+  "title": "Agaricus deserticola",
+  "url": "https://en.wikipedia.org/wiki/Agaricus_deserticola",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T06:06:06Z",
+ "trimmed": true
+}
