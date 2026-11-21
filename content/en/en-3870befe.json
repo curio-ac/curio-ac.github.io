@@ -1,0 +1,494 @@
+{
+ "id": "en-3870befe",
+ "lang": "en",
+ "title": "NASA's New Space Telescope",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Meet NASA's brand new space telescope concept!",
+  "It is called the PRobe far-Infrared Mission for Astrophysics, or PRIMA.",
+  "Selected in September 2026, it leads a brand new class of Probe Explorers.",
+  "By observing far-infrared light, it cuts right through cosmic dust.",
+  "This helps scientists study the formation of planets, stars, and black holes.",
+  "It could even reveal how water on Earth came to be.",
+  "If confirmed, it targets a 2033 launch for a 5-year mission."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.24,
+    0.26
+   ],
+   [
+    "NASA's",
+    0.26,
+    0.78
+   ],
+   [
+    "brand",
+    0.84,
+    1.1
+   ],
+   [
+    "new",
+    1.1,
+    1.46
+   ],
+   [
+    "space",
+    1.46,
+    1.78
+   ],
+   [
+    "telescope",
+    1.78,
+    2.2
+   ],
+   [
+    "concept!",
+    2.2,
+    3.06
+   ],
+   [
+    "It",
+    3.1,
+    3.1
+   ],
+   [
+    "is",
+    3.1,
+    3.2
+   ],
+   [
+    "called",
+    3.2,
+    3.4
+   ],
+   [
+    "the",
+    3.4,
+    3.54
+   ],
+   [
+    "PRobe",
+    3.54,
+    3.86
+   ],
+   [
+    "far-Infrared",
+    3.86,
+    4.68
+   ],
+   [
+    "Mission",
+    4.68,
+    4.94
+   ],
+   [
+    "for",
+    4.94,
+    5.2
+   ],
+   [
+    "Astrophysics,",
+    5.2,
+    5.84
+   ],
+   [
+    "or",
+    6.2,
+    6.22
+   ],
+   [
+    "PRIMA.",
+    6.22,
+    6.6
+   ],
+   [
+    "Selected",
+    7.08,
+    7.4
+   ],
+   [
+    "in",
+    7.4,
+    7.48
+   ],
+   [
+    "September",
+    7.62,
+    7.72
+   ],
+   [
+    "2026,",
+    7.72,
+    8.52
+   ],
+   [
+    "it",
+    8.84,
+    8.9
+   ],
+   [
+    "leads",
+    8.9,
+    9.04
+   ],
+   [
+    "a",
+    9.04,
+    9.22
+   ],
+   [
+    "brand",
+    9.22,
+    9.36
+   ],
+   [
+    "new",
+    9.36,
+    9.56
+   ],
+   [
+    "class",
+    9.56,
+    9.86
+   ],
+   [
+    "of",
+    9.86,
+    10.06
+   ],
+   [
+    "Probe",
+    10.06,
+    10.36
+   ],
+   [
+    "Explorers.",
+    10.36,
+    10.78
+   ],
+   [
+    "By",
+    11.44,
+    11.54
+   ],
+   [
+    "observing",
+    11.54,
+    11.76
+   ],
+   [
+    "far-infrared",
+    11.76,
+    12.48
+   ],
+   [
+    "light,",
+    12.48,
+    12.76
+   ],
+   [
+    "it",
+    12.94,
+    13.02
+   ],
+   [
+    "cuts",
+    13.08,
+    13.18
+   ],
+   [
+    "right",
+    13.18,
+    13.4
+   ],
+   [
+    "through",
+    13.4,
+    13.56
+   ],
+   [
+    "cosmic",
+    13.56,
+    13.88
+   ],
+   [
+    "dust.",
+    13.88,
+    14.18
+   ],
+   [
+    "This",
+    14.68,
+    14.82
+   ],
+   [
+    "helps",
+    14.82,
+    14.98
+   ],
+   [
+    "scientists",
+    14.98,
+    15.28
+   ],
+   [
+    "study",
+    15.28,
+    15.68
+   ],
+   [
+    "the",
+    15.68,
+    15.8
+   ],
+   [
+    "formation",
+    15.8,
+    16.0
+   ],
+   [
+    "of",
+    16.0,
+    16.26
+   ],
+   [
+    "planets,",
+    16.26,
+    16.7
+   ],
+   [
+    "stars,",
+    16.9,
+    17.38
+   ],
+   [
+    "and",
+    17.4,
+    17.46
+   ],
+   [
+    "black",
+    17.46,
+    17.6
+   ],
+   [
+    "holes.",
+    17.6,
+    17.9
+   ],
+   [
+    "It",
+    18.38,
+    18.48
+   ],
+   [
+    "could",
+    18.48,
+    18.56
+   ],
+   [
+    "even",
+    18.56,
+    18.8
+   ],
+   [
+    "reveal",
+    18.8,
+    19.1
+   ],
+   [
+    "how",
+    19.1,
+    19.36
+   ],
+   [
+    "water",
+    19.36,
+    19.64
+   ],
+   [
+    "on",
+    19.64,
+    19.8
+   ],
+   [
+    "Earth",
+    19.8,
+    20.06
+   ],
+   [
+    "came",
+    20.06,
+    20.3
+   ],
+   [
+    "to",
+    20.3,
+    20.42
+   ],
+   [
+    "be.",
+    20.42,
+    20.58
+   ],
+   [
+    "If",
+    21.26,
+    21.26
+   ],
+   [
+    "confirmed,",
+    21.26,
+    21.74
+   ],
+   [
+    "it",
+    21.94,
+    22.02
+   ],
+   [
+    "targets",
+    22.14,
+    22.26
+   ],
+   [
+    "a",
+    22.26,
+    22.44
+   ],
+   [
+    "2033",
+    22.64,
+    22.98
+   ],
+   [
+    "launch",
+    22.98,
+    23.44
+   ],
+   [
+    "for",
+    23.44,
+    23.62
+   ],
+   [
+    "a",
+    23.62,
+    23.74
+   ],
+   [
+    "5-year",
+    23.84,
+    24.14
+   ],
+   [
+    "mission.",
+    24.14,
+    24.4
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   31,
+   41,
+   53,
+   64
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/NASA%E2%80%99s_PRIMA_Spacecraft_%28Artist%E2%80%99s_Concept%29_%28PIA26355%29.jpg/960px-NASA%E2%80%99s_PRIMA_Spacecraft_%28Artist%E2%80%99s_Concept%29_%28PIA26355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_PRIMA_Spacecraft_(Artist%E2%80%99s_Concept)_(PIA26355).jpg",
+   "desc": "NASA’s PRIMA Spacecraft (Artist’s Concept) (PIA26355) — This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/VISTA%27s_infrared_view_of_the_Lagoon_Nebula_%28Messier_8%29.jpg/960px-VISTA%27s_infrared_view_of_the_Lagoon_Nebula_%28Messier_8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 320,
+   "license": "CC BY 4.0",
+   "artist": "ESO/VVV",
+   "page": "https://commons.wikimedia.org/wiki/File:VISTA%27s_infrared_view_of_the_Lagoon_Nebula_(Messier_8).jpg",
+   "desc": "VISTA's infrared view of the Lagoon Nebula (Messier 8) — This new infrared view of the star formation region Messier 8, often called the Lagoon Nebula, was captured by the VISTA telescope at ESO’s Paranal Observatory in Chile. This colour picture was created f"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/The_star_formation_region_Messier_17.jpg/960px-The_star_formation_region_Messier_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 673,
+   "license": "CC BY 4.0",
+   "artist": "ESO",
+   "page": "https://commons.wikimedia.org/wiki/File:The_star_formation_region_Messier_17.jpg",
+   "desc": "The star formation region Messier 17 — This image of the rose-coloured star forming region Messier 17 was captured by the Wide Field Imager on the MPG/ESO 2.2-metre telescope at ESO’s La Silla Observatory in Chile. It is one of the sharpest images showing the"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Soyuz_TMA-5_launch.jpg/960px-Soyuz_TMA-5_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1121,
+   "license": "Public domain",
+   "artist": "Bill Ingalls",
+   "page": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-5_launch.jpg",
+   "desc": "Soyuz TMA-5 launch — The Soyuz TMA-5 spacecraft blasts off from the Baikonur Cosmodrome in Kazakhstan October 14, 2004, carrying astronaut Leroy Chiao, Expedition 10 commander and NASA International Space Station (ISS) science officer, cosmo"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2033
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+ "pron_wer": 0.013,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+  "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T01:12:21Z",
+ "trimmed": true
+}

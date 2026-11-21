@@ -313,7 +313,8 @@
   "1995 Pacific Grand Prix",
   "Australia at the Winter Olympics",
   "nasa:1278406",
-  "William Calcraft"
+  "William Calcraft",
+  "nasa:1500737"
  ],
  "rejected": [
   "Chameleon",
@@ -1414,6 +1415,9 @@
   ],
   "William Calcraft": [
    "Britain's Most Prolific Hangman: He carried out 450 executions over 45 years."
+  ],
+  "nasa:1500737": [
+   "Satellites Hunt Red Leaves: Satellites are now hunting autumn leaves from space."
   ]
  },
  "exhausted": []
