@@ -317,7 +317,8 @@
   "nasa:1500737",
   "nasa:1473526",
   "Banksia ericifolia",
-  "HMS Courageous (50)"
+  "HMS Courageous (50)",
+  "California State Route 78"
  ],
  "rejected": [
   "Chameleon",
@@ -1431,6 +1432,9 @@
   ],
   "HMS Courageous (50)": [
    "From Battlecruiser To Carrier: This battlecruiser became an aircraft carrier."
+  ],
+  "California State Route 78": [
+   "California's Coast to Desert Highway: This highway crosses almost the entire state."
   ]
  },
  "exhausted": []

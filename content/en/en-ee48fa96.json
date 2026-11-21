@@ -1,0 +1,436 @@
+{
+ "id": "en-ee48fa96",
+ "lang": "en",
+ "title": "Tragic Fate of Nick Adenhart",
+ "cat": "history",
+ "emoji": "⚾",
+ "sentences": [
+  "Killed right after his 2009 baseball start.",
+  "Nick Adenhart played for the Los Angeles Angels.",
+  "A high school injury required him to get Tommy John surgery.",
+  "The Angels drafted him in the 14th round in 2004.",
+  "He spent 3 seasons in the minor leagues.",
+  "He made his major league debut on May 1, 2008.",
+  "Across 4 career games, he pitched 18 innings going 1-0."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Killed",
+    0.02,
+    0.24
+   ],
+   [
+    "right",
+    0.24,
+    0.46
+   ],
+   [
+    "after",
+    0.46,
+    0.82
+   ],
+   [
+    "his",
+    0.82,
+    1.0
+   ],
+   [
+    "2009",
+    1.0,
+    1.78
+   ],
+   [
+    "baseball",
+    1.78,
+    2.24
+   ],
+   [
+    "start.",
+    2.24,
+    3.14
+   ],
+   [
+    "Nick",
+    3.18,
+    3.3
+   ],
+   [
+    "Adenhart",
+    3.3,
+    3.84
+   ],
+   [
+    "played",
+    3.84,
+    4.12
+   ],
+   [
+    "for",
+    4.12,
+    4.3
+   ],
+   [
+    "the",
+    4.3,
+    4.42
+   ],
+   [
+    "Los",
+    4.42,
+    4.58
+   ],
+   [
+    "Angeles",
+    4.58,
+    4.98
+   ],
+   [
+    "Angels.",
+    4.98,
+    5.38
+   ],
+   [
+    "A",
+    6.3,
+    6.32
+   ],
+   [
+    "high",
+    6.32,
+    6.48
+   ],
+   [
+    "school",
+    6.48,
+    6.66
+   ],
+   [
+    "injury",
+    6.66,
+    7.06
+   ],
+   [
+    "required",
+    7.06,
+    7.4
+   ],
+   [
+    "him",
+    7.4,
+    7.7
+   ],
+   [
+    "to",
+    7.7,
+    7.8
+   ],
+   [
+    "get",
+    7.8,
+    7.94
+   ],
+   [
+    "Tommy",
+    7.94,
+    8.24
+   ],
+   [
+    "John",
+    8.24,
+    8.56
+   ],
+   [
+    "surgery.",
+    8.56,
+    8.92
+   ],
+   [
+    "The",
+    9.84,
+    9.9
+   ],
+   [
+    "Angels",
+    9.9,
+    10.18
+   ],
+   [
+    "drafted",
+    10.18,
+    10.54
+   ],
+   [
+    "him",
+    10.54,
+    10.84
+   ],
+   [
+    "in",
+    10.84,
+    11.02
+   ],
+   [
+    "the",
+    11.02,
+    11.1
+   ],
+   [
+    "14th",
+    11.2,
+    11.68
+   ],
+   [
+    "round",
+    11.72,
+    11.9
+   ],
+   [
+    "in",
+    11.9,
+    12.16
+   ],
+   [
+    "2004.",
+    12.44,
+    12.94
+   ],
+   [
+    "He",
+    13.72,
+    13.82
+   ],
+   [
+    "spent",
+    13.82,
+    14.0
+   ],
+   [
+    "3",
+    14.0,
+    14.34
+   ],
+   [
+    "seasons",
+    14.34,
+    14.68
+   ],
+   [
+    "in",
+    14.68,
+    14.92
+   ],
+   [
+    "the",
+    14.92,
+    14.98
+   ],
+   [
+    "minor",
+    14.98,
+    15.18
+   ],
+   [
+    "leagues.",
+    15.18,
+    15.32
+   ],
+   [
+    "He",
+    16.36,
+    16.46
+   ],
+   [
+    "made",
+    16.46,
+    16.64
+   ],
+   [
+    "his",
+    16.64,
+    16.8
+   ],
+   [
+    "major",
+    16.8,
+    17.06
+   ],
+   [
+    "league",
+    17.06,
+    17.3
+   ],
+   [
+    "debut",
+    17.3,
+    17.66
+   ],
+   [
+    "on",
+    17.66,
+    17.98
+   ],
+   [
+    "May",
+    17.98,
+    18.2
+   ],
+   [
+    "1,",
+    18.2,
+    18.64
+   ],
+   [
+    "2008.",
+    19.14,
+    19.24
+   ],
+   [
+    "Across",
+    20.24,
+    20.38
+   ],
+   [
+    "4",
+    20.38,
+    20.78
+   ],
+   [
+    "career",
+    20.78,
+    21.06
+   ],
+   [
+    "games,",
+    21.06,
+    21.34
+   ],
+   [
+    "he",
+    21.74,
+    21.76
+   ],
+   [
+    "pitched",
+    21.76,
+    21.94
+   ],
+   [
+    "18",
+    21.94,
+    22.48
+   ],
+   [
+    "innings",
+    22.48,
+    22.9
+   ],
+   [
+    "going",
+    22.9,
+    23.22
+   ],
+   [
+    "1-0.",
+    23.22,
+    23.86
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   26,
+   36,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Nick_Adenhart_Angel_Stadium.jpg/960px-Nick_Adenhart_Angel_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 481,
+   "license": "CC BY 2.0",
+   "artist": "Chris and/or Kevin",
+   "page": "https://commons.wikimedia.org/wiki/File:Nick_Adenhart_Angel_Stadium.jpg",
+   "desc": "Nick Adenhart Angel Stadium — Many fans stopped at Angel Stadium to leave flowers and remember pitcher Nick Adenhart"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/The_late_Nick_Adenhart_watches_as_Kendrys_Morales_tags_Ryan_Theriot.jpg/960px-The_late_Nick_Adenhart_watches_as_Kendrys_Morales_tags_Ryan_Theriot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 910,
+   "license": "CC BY 2.0",
+   "artist": "Garrett Craig on Flickr (Original version) 佾珜 (Crop)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_late_Nick_Adenhart_watches_as_Kendrys_Morales_tags_Ryan_Theriot.jpg",
+   "desc": "The late Nick Adenhart watches as Kendrys Morales tags Ryan Theriot — The late Nick Adenhart watches as Kendrys Morales tags Ryan Theriot"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Nick_Adenhart_2008_crop.jpg/960px-Nick_Adenhart_2008_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 712,
+   "license": "CC BY-SA 3.0",
+   "artist": "Nick Adenhart 2008.jpg: Brady Withers derivative work: Hekerui",
+   "page": "https://commons.wikimedia.org/wiki/File:Nick_Adenhart_2008_crop.jpg",
+   "desc": "Nick Adenhart 2008 crop — Nick Adenhart pitching for the Salt Lake Bees"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 2009
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 14,
+   "unit": "round",
+   "label": "draft round"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2008
+  },
+  {
+   "type": "stat",
+   "value": 18,
+   "unit": "innings",
+   "label": "career innings"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1073868",
+ "pron_wer": 0.062,
+ "angle": 0,
+ "source": {
+  "title": "Nick Adenhart",
+  "url": "https://en.wikipedia.org/wiki/Nick_Adenhart",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T02:02:24Z",
+ "trimmed": true
+}
