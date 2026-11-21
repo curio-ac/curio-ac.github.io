@@ -1,0 +1,414 @@
+{
+ "id": "en-2a6d8a75",
+ "lang": "en",
+ "title": "Andromeda: The Giant Constellation",
+ "cat": "space",
+ "emoji": "✨",
+ "sentences": [
+  "Andromeda is massive, covering 722 square degrees.",
+  "That is over 1,400 times the size of the full moon.",
+  "This constellation is named after a character from Greek myth.",
+  "It is most prominent during autumn evenings in the Northern Hemisphere.",
+  "Because of its location, it is visible only north of 40° south latitude.",
+  "Bright star Alpheratz is actually a binary star."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Andromeda",
+    0.14,
+    0.58
+   ],
+   [
+    "is",
+    0.58,
+    0.9
+   ],
+   [
+    "massive,",
+    0.9,
+    1.44
+   ],
+   [
+    "covering",
+    1.7,
+    1.98
+   ],
+   [
+    "722",
+    1.98,
+    3.28
+   ],
+   [
+    "square",
+    3.28,
+    3.74
+   ],
+   [
+    "degrees.",
+    3.74,
+    4.76
+   ],
+   [
+    "That",
+    4.78,
+    4.86
+   ],
+   [
+    "is",
+    4.86,
+    5.0
+   ],
+   [
+    "over",
+    5.0,
+    5.2
+   ],
+   [
+    "1,400",
+    5.2,
+    5.92
+   ],
+   [
+    "times",
+    5.92,
+    6.58
+   ],
+   [
+    "the",
+    6.58,
+    6.8
+   ],
+   [
+    "size",
+    6.8,
+    7.04
+   ],
+   [
+    "of",
+    7.04,
+    7.24
+   ],
+   [
+    "the",
+    7.24,
+    7.32
+   ],
+   [
+    "full",
+    7.42,
+    7.52
+   ],
+   [
+    "moon.",
+    7.52,
+    7.8
+   ],
+   [
+    "This",
+    8.56,
+    8.74
+   ],
+   [
+    "constellation",
+    8.74,
+    9.18
+   ],
+   [
+    "is",
+    9.18,
+    9.66
+   ],
+   [
+    "named",
+    9.66,
+    9.9
+   ],
+   [
+    "after",
+    9.9,
+    10.18
+   ],
+   [
+    "a",
+    10.18,
+    10.32
+   ],
+   [
+    "character",
+    10.42,
+    10.68
+   ],
+   [
+    "from",
+    10.84,
+    10.94
+   ],
+   [
+    "Greek",
+    10.94,
+    11.16
+   ],
+   [
+    "myth.",
+    11.16,
+    11.42
+   ],
+   [
+    "It",
+    12.04,
+    12.14
+   ],
+   [
+    "is",
+    12.14,
+    12.26
+   ],
+   [
+    "most",
+    12.26,
+    12.52
+   ],
+   [
+    "prominent",
+    12.52,
+    12.92
+   ],
+   [
+    "during",
+    12.92,
+    13.26
+   ],
+   [
+    "autumn",
+    13.26,
+    13.58
+   ],
+   [
+    "evenings",
+    13.58,
+    13.94
+   ],
+   [
+    "in",
+    13.94,
+    14.2
+   ],
+   [
+    "the",
+    14.2,
+    14.28
+   ],
+   [
+    "Northern",
+    14.28,
+    14.48
+   ],
+   [
+    "Hemisphere.",
+    14.48,
+    15.08
+   ],
+   [
+    "Because",
+    15.74,
+    16.0
+   ],
+   [
+    "of",
+    16.0,
+    16.2
+   ],
+   [
+    "its",
+    16.2,
+    16.32
+   ],
+   [
+    "location,",
+    16.32,
+    16.96
+   ],
+   [
+    "it",
+    17.16,
+    17.22
+   ],
+   [
+    "is",
+    17.22,
+    17.34
+   ],
+   [
+    "visible",
+    17.34,
+    17.58
+   ],
+   [
+    "only",
+    17.58,
+    18.04
+   ],
+   [
+    "north",
+    18.04,
+    18.34
+   ],
+   [
+    "of",
+    18.34,
+    18.58
+   ],
+   [
+    "40°",
+    18.68,
+    19.12
+   ],
+   [
+    "south",
+    19.12,
+    19.46
+   ],
+   [
+    "latitude.",
+    19.46,
+    20.08
+   ],
+   [
+    "Bright",
+    20.78,
+    20.9
+   ],
+   [
+    "star",
+    20.9,
+    21.2
+   ],
+   [
+    "Alpheratz",
+    21.2,
+    21.88
+   ],
+   [
+    "is",
+    21.88,
+    22.14
+   ],
+   [
+    "actually",
+    22.14,
+    22.6
+   ],
+   [
+    "a",
+    22.6,
+    22.78
+   ],
+   [
+    "binary",
+    22.78,
+    23.04
+   ],
+   [
+    "star.",
+    23.04,
+    23.54
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   28,
+   39,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Andromeda_annotated.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 448,
+   "license": "CC BY-SA 3.0",
+   "artist": "User:Keilana, derived from User:Roberto Mura",
+   "page": "https://commons.wikimedia.org/wiki/File:Andromeda_annotated.png",
+   "desc": "Andromeda annotated — A photo of the constellation Andromeda with all Bayer-designated stars marked and the IAU figure drawn in."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Andromeda_Galaxy_Hubble_M31Mosaic_2025_42208x9870.jpg/960px-Andromeda_Galaxy_Hubble_M31Mosaic_2025_42208x9870.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 168,
+   "license": "Public domain",
+   "artist": "NASA, ESA, Benjamin F. Williams (UWashington), Zhuo Chen (UWashington), L. Clift",
+   "page": "https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_Hubble_M31Mosaic_2025_42208x9870.jpg",
+   "desc": "Andromeda Galaxy Hubble M31Mosaic 2025 42208x9870 — The world's largest photo mosaic, made of photos from the Hubble Telescope. It is a panoramic view of the neighboring Andromeda galaxy, located 2.5 million light-years away. It took over 10 years to make this"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Andromeda_and_the_Sea_Monster%2C_and_Leda_and_the_Swan%2C_11364501.jpg/960px-Andromeda_and_the_Sea_Monster%2C_and_Leda_and_the_Swan%2C_11364501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 553,
+   "license": "Public domain",
+   "artist": "Getty Museum",
+   "page": "https://commons.wikimedia.org/wiki/File:Andromeda_and_the_Sea_Monster,_and_Leda_and_the_Swan,_11364501.jpg",
+   "desc": "Andromeda and the Sea Monster, and Leda and the Swan, 11364501 — Andromeda and the Sea Monster (right); Leda and the Swan (left), bronze sculptures by Massimiliano Soldani Benzi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Andromeda_%28Annotated%29_%28andromeda-ann%29.jpg/960px-Andromeda_%28Annotated%29_%28andromeda-ann%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 4.0",
+   "artist": "E. Slawik/NOIRLab/NSF/AURA/M. Zamani",
+   "page": "https://commons.wikimedia.org/wiki/File:Andromeda_(Annotated)_(andromeda-ann).jpg",
+   "desc": "Andromeda (Annotated) (andromeda-ann) — Photo of the constellation Andromeda with annotations from IAU and Sky &amp; Telescope. Here is the non-annotated version."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 722,
+   "unit": "sq deg",
+   "label": "constellation area"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q9256",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Andromeda (constellation)",
+  "url": "https://en.wikipedia.org/wiki/Andromeda_%28constellation%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T17:17:22Z",
+ "trimmed": true
+}
