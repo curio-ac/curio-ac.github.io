@@ -1,0 +1,344 @@
+{
+ "id": "en-6b675250",
+ "lang": "en",
+ "title": "Ship-Like Clouds in Antarctica",
+ "cat": "geography",
+ "emoji": "☁️",
+ "sentences": [
+  "Weird wave clouds look like a ship's wake.",
+  "They form when winds hit an 843-meter-high peak.",
+  "This mountain sits on Saunders Island in the South Atlantic.",
+  "Sulfur dioxide gas also creates a visible volcanic track here.",
+  "Satellites capture these wild atmospheric tricks from space."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Weird",
+    0.35,
+    0.35
+   ],
+   [
+    "wave",
+    0.35,
+    0.71
+   ],
+   [
+    "clouds",
+    0.71,
+    1.21
+   ],
+   [
+    "look",
+    1.21,
+    1.63
+   ],
+   [
+    "like",
+    1.67,
+    1.81
+   ],
+   [
+    "a",
+    1.81,
+    1.93
+   ],
+   [
+    "ship's",
+    1.93,
+    2.35
+   ],
+   [
+    "wake.",
+    2.35,
+    2.63
+   ],
+   [
+    "They",
+    3.25,
+    3.33
+   ],
+   [
+    "form",
+    3.33,
+    3.63
+   ],
+   [
+    "when",
+    3.63,
+    3.91
+   ],
+   [
+    "winds",
+    3.91,
+    4.33
+   ],
+   [
+    "hit",
+    4.33,
+    4.55
+   ],
+   [
+    "an",
+    4.55,
+    4.69
+   ],
+   [
+    "843-meter-high",
+    4.81,
+    6.35
+   ],
+   [
+    "peak.",
+    6.35,
+    6.45
+   ],
+   [
+    "This",
+    7.33,
+    7.45
+   ],
+   [
+    "mountain",
+    7.45,
+    7.69
+   ],
+   [
+    "sits",
+    7.69,
+    8.01
+   ],
+   [
+    "on",
+    8.01,
+    8.27
+   ],
+   [
+    "Saunders",
+    8.27,
+    8.79
+   ],
+   [
+    "Island",
+    8.79,
+    9.13
+   ],
+   [
+    "in",
+    9.31,
+    9.41
+   ],
+   [
+    "the",
+    9.41,
+    9.51
+   ],
+   [
+    "South",
+    9.53,
+    9.69
+   ],
+   [
+    "Atlantic.",
+    9.69,
+    10.09
+   ],
+   [
+    "Sulfur",
+    10.83,
+    11.09
+   ],
+   [
+    "dioxide",
+    11.09,
+    11.45
+   ],
+   [
+    "gas",
+    11.45,
+    11.91
+   ],
+   [
+    "also",
+    12.23,
+    12.33
+   ],
+   [
+    "creates",
+    12.33,
+    12.77
+   ],
+   [
+    "a",
+    12.77,
+    12.99
+   ],
+   [
+    "visible",
+    13.15,
+    13.35
+   ],
+   [
+    "volcanic",
+    13.35,
+    13.95
+   ],
+   [
+    "track",
+    13.95,
+    14.43
+   ],
+   [
+    "here.",
+    14.43,
+    14.53
+   ],
+   [
+    "Satellites",
+    15.43,
+    15.81
+   ],
+   [
+    "capture",
+    16.05,
+    16.15
+   ],
+   [
+    "these",
+    16.15,
+    16.35
+   ],
+   [
+    "wild",
+    16.35,
+    16.83
+   ],
+   [
+    "atmospheric",
+    16.83,
+    17.39
+   ],
+   [
+    "tricks",
+    17.41,
+    17.91
+   ],
+   [
+    "from",
+    18.13,
+    18.23
+   ],
+   [
+    "space.",
+    18.23,
+    18.41
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   26,
+   36
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/A_Bright_Spot_at_Mount_Michael_%281284270_-_2_20260901%29.jpg/960px-A_Bright_Spot_at_Mount_Michael_%281284270_-_2_20260901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Bright_Spot_at_Mount_Michael_(1284270_-_2_20260901).jpg",
+   "desc": "A Bright Spot at Mount Michael (1284270 - 2 20260901) — Wave clouds form downwind of Saunders Island in this image acquired with the OLI (Operational Land Imager) on Landsat 9 on September 1, 2026."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/A_Bright_Spot_at_Mount_Michael_%281284270_-_20260824%29.jpg/960px-A_Bright_Spot_at_Mount_Michael_%281284270_-_20260824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 600,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Bright_Spot_at_Mount_Michael_(1284270_-_20260824).jpg",
+   "desc": "A Bright Spot at Mount Michael (1284270 - 20260824) — Mount Michael on Saunders Island, seen in this image acquired with the OLI (Operational Land Imager) on Landsat 8 on August 24, 2026, hosts a frequently active lava lake in its summit crater."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/A_Bright_Spot_at_Mount_Michael_%281284270_-_20260824_lrg%29.jpg/960px-A_Bright_Spot_at_Mount_Michael_%281284270_-_20260824_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 600,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Bright_Spot_at_Mount_Michael_(1284270_-_20260824_lrg).jpg",
+   "desc": "A Bright Spot at Mount Michael (1284270 - 20260824 lrg) — Mount Michael on Saunders Island, seen in this image acquired with the OLI (Operational Land Imager) on Landsat 8 on August 24, 2026, hosts a frequently active lava lake in its summit crater."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tracking_the_Sulfur_Dioxide_from_Calbuco%2C_acquired_April_25%2C_2015.jpg/960px-Tracking_the_Sulfur_Dioxide_from_Calbuco%2C_acquired_April_25%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory images by Jesse Allen, using data from the the Aura scien",
+   "page": "https://commons.wikimedia.org/wiki/File:Tracking_the_Sulfur_Dioxide_from_Calbuco,_acquired_April_25,_2015.jpg",
+   "desc": "Tracking the Sulfur Dioxide from Calbuco, acquired April 25, 2015 — Late on April 22, 2015, Calbuco volcano in southern Chile awoke from four decades of slumber with an explosive eruption. Ash and pumice particles were lofted high into the atmosphere, and the "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/A_Bright_Spot_at_Mount_Michael_%281284270_-_2_20260901_lrg%29.jpg/960px-A_Bright_Spot_at_Mount_Michael_%281284270_-_2_20260901_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Bright_Spot_at_Mount_Michael_(1284270_-_2_20260901_lrg).jpg",
+   "desc": "A Bright Spot at Mount Michael (1284270 - 2 20260901 lrg) — Wave clouds form downwind of Saunders Island in this image acquired with the OLI (Operational Land Imager) on Landsat 9 on September 1, 2026."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 843,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "volcanic track",
+   "box": [
+    521,
+    401,
+    693,
+    985
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "A Bright Spot at Mount Michael",
+  "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T02:57:06Z",
+ "trimmed": true
+}
