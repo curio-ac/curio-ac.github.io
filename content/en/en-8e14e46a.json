@@ -1,0 +1,418 @@
+{
+ "id": "en-8e14e46a",
+ "lang": "en",
+ "title": "Bad Times at the El Royale",
+ "cat": "art",
+ "emoji": "🎬",
+ "sentences": [
+  "A hotel built entirely on a studio set!",
+  "Drew Goddard wrote and directed the 2018 thriller film.",
+  "The cast features Jeff Bridges and Chris Hemsworth.",
+  "6 strangers and an employee intersect on one night.",
+  "The location sits right along the California and Nevada border.",
+  "The writer forced studios to buy specific song licenses first.",
+  "Visual elements throughout the movie symbolize right and wrong."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.1,
+    0.1
+   ],
+   [
+    "hotel",
+    0.1,
+    0.4
+   ],
+   [
+    "built",
+    0.4,
+    0.9
+   ],
+   [
+    "entirely",
+    0.9,
+    1.54
+   ],
+   [
+    "on",
+    1.54,
+    2.04
+   ],
+   [
+    "a",
+    2.04,
+    2.16
+   ],
+   [
+    "studio",
+    2.16,
+    2.5
+   ],
+   [
+    "set!",
+    2.5,
+    2.94
+   ],
+   [
+    "Drew",
+    3.5,
+    3.7
+   ],
+   [
+    "Goddard",
+    3.7,
+    4.2
+   ],
+   [
+    "wrote",
+    4.24,
+    4.42
+   ],
+   [
+    "and",
+    4.42,
+    4.64
+   ],
+   [
+    "directed",
+    4.64,
+    5.02
+   ],
+   [
+    "the",
+    5.02,
+    5.2
+   ],
+   [
+    "2018",
+    5.32,
+    5.76
+   ],
+   [
+    "thriller",
+    5.76,
+    6.24
+   ],
+   [
+    "film.",
+    6.24,
+    6.34
+   ],
+   [
+    "The",
+    7.18,
+    7.24
+   ],
+   [
+    "cast",
+    7.32,
+    7.5
+   ],
+   [
+    "features",
+    7.5,
+    7.78
+   ],
+   [
+    "Jeff",
+    7.78,
+    8.22
+   ],
+   [
+    "Bridges",
+    8.22,
+    8.7
+   ],
+   [
+    "and",
+    8.7,
+    8.9
+   ],
+   [
+    "Chris",
+    9.0,
+    9.12
+   ],
+   [
+    "Hemsworth.",
+    9.12,
+    9.82
+   ],
+   [
+    "6",
+    10.24,
+    10.4
+   ],
+   [
+    "strangers",
+    10.42,
+    10.88
+   ],
+   [
+    "and",
+    10.88,
+    11.24
+   ],
+   [
+    "an",
+    11.24,
+    11.34
+   ],
+   [
+    "employee",
+    11.34,
+    11.72
+   ],
+   [
+    "intersect",
+    11.72,
+    12.3
+   ],
+   [
+    "on",
+    12.3,
+    12.78
+   ],
+   [
+    "one",
+    12.78,
+    13.1
+   ],
+   [
+    "night.",
+    13.1,
+    13.22
+   ],
+   [
+    "The",
+    14.0,
+    14.08
+   ],
+   [
+    "location",
+    14.08,
+    14.44
+   ],
+   [
+    "sits",
+    14.44,
+    14.82
+   ],
+   [
+    "right",
+    15.08,
+    15.18
+   ],
+   [
+    "along",
+    15.18,
+    15.44
+   ],
+   [
+    "the",
+    15.44,
+    15.66
+   ],
+   [
+    "California",
+    15.66,
+    16.2
+   ],
+   [
+    "and",
+    16.2,
+    16.52
+   ],
+   [
+    "Nevada",
+    16.52,
+    16.76
+   ],
+   [
+    "border.",
+    16.76,
+    16.9
+   ],
+   [
+    "The",
+    17.84,
+    17.9
+   ],
+   [
+    "writer",
+    17.9,
+    18.12
+   ],
+   [
+    "forced",
+    18.12,
+    18.54
+   ],
+   [
+    "studios",
+    18.54,
+    19.08
+   ],
+   [
+    "to",
+    19.08,
+    19.38
+   ],
+   [
+    "buy",
+    19.38,
+    19.52
+   ],
+   [
+    "specific",
+    19.52,
+    20.1
+   ],
+   [
+    "song",
+    20.18,
+    20.46
+   ],
+   [
+    "licenses",
+    20.46,
+    20.94
+   ],
+   [
+    "first.",
+    20.94,
+    21.32
+   ],
+   [
+    "Visual",
+    22.04,
+    22.32
+   ],
+   [
+    "elements",
+    22.32,
+    22.8
+   ],
+   [
+    "throughout",
+    22.96,
+    23.1
+   ],
+   [
+    "the",
+    23.1,
+    23.34
+   ],
+   [
+    "movie",
+    23.34,
+    23.58
+   ],
+   [
+    "symbolize",
+    23.58,
+    24.3
+   ],
+   [
+    "right",
+    24.3,
+    24.58
+   ],
+   [
+    "and",
+    24.58,
+    24.9
+   ],
+   [
+    "wrong.",
+    24.9,
+    25.24
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   25,
+   34,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Drew_Goddard_-_Bad_Times_at_the_El_Royale.jpg/960px-Drew_Goddard_-_Bad_Times_at_the_El_Royale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 752,
+   "license": "CC BY 3.0",
+   "artist": "Collider",
+   "page": "https://commons.wikimedia.org/wiki/File:Drew_Goddard_-_Bad_Times_at_the_El_Royale.jpg",
+   "desc": "Drew Goddard - Bad Times at the El Royale — Drew Goddard - Bad Times at the El Royale"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/California-Inyo-Nevada_border_signs.jpg/960px-California-Inyo-Nevada_border_signs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 452,
+   "license": "CC BY-SA 4.0",
+   "artist": "Mxn",
+   "page": "https://commons.wikimedia.org/wiki/File:California-Inyo-Nevada_border_signs.jpg",
+   "desc": "California-Inyo-Nevada border signs — “Welcome to California” and “Inyo County Line” signs near the end of Nevada State Route 373 (Death Valley Junction Road), followed by a “Thanks for Visiting Nevada” sign at the beginning of California State Route 127 (De"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2018
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 6,
+   "unit": "strangers",
+   "label": "six strangers"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q48988117",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Bad Times at the El Royale",
+  "url": "https://en.wikipedia.org/wiki/Bad_Times_at_the_El_Royale",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T07:31:33Z",
+ "trimmed": true
+}

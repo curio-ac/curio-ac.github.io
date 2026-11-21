@@ -335,7 +335,8 @@
   "nasa:1499166",
   "nasa:1506470",
   "Colley Cibber",
-  "Doom (2016 video game)"
+  "Doom (2016 video game)",
+  "nasa:1488059"
  ],
  "rejected": [
   "Chameleon",
@@ -1509,6 +1510,9 @@
   ],
   "Doom (2016 video game)": [
    "The Wild Return of Doom: Doom took 8 years to finally launch."
+  ],
+  "nasa:1488059": [
+   "Cosmic Treble Clef Discovered: Astronomers found a cosmic radio wave shaped like a treble clef."
   ]
  },
  "exhausted": []
