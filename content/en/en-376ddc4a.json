@@ -1,0 +1,422 @@
+{
+ "id": "en-376ddc4a",
+ "lang": "en",
+ "title": "Meet the House Martin",
+ "cat": "biology",
+ "emoji": "🐦",
+ "sentences": [
+  "These birds have feathers on their toes.",
+  "Delichon is a genus of four chunky, short-tailed house martins.",
+  "They are blackish-blue with a contrasting white rump.",
+  "These martins build mud nests in colonies on cliffs or buildings.",
+  "Both parents work together to incubate eggs and feed the chicks.",
+  "They hunt small insects mid-air but sometimes fall prey to faster birds."
+ ],
+ "tim": {
+  "w": [
+   [
+    "These",
+    0.2,
+    0.32
+   ],
+   [
+    "birds",
+    0.32,
+    0.58
+   ],
+   [
+    "have",
+    0.58,
+    0.78
+   ],
+   [
+    "feathers",
+    0.78,
+    1.04
+   ],
+   [
+    "on",
+    1.04,
+    1.28
+   ],
+   [
+    "their",
+    1.28,
+    1.4
+   ],
+   [
+    "toes.",
+    1.4,
+    1.72
+   ],
+   [
+    "Delichon",
+    2.3,
+    2.7
+   ],
+   [
+    "is",
+    2.7,
+    2.82
+   ],
+   [
+    "a",
+    2.82,
+    2.92
+   ],
+   [
+    "genus",
+    2.92,
+    3.24
+   ],
+   [
+    "of",
+    3.24,
+    3.36
+   ],
+   [
+    "four",
+    3.4,
+    3.56
+   ],
+   [
+    "chunky,",
+    3.56,
+    3.96
+   ],
+   [
+    "short-tailed",
+    4.1,
+    4.66
+   ],
+   [
+    "house",
+    4.66,
+    4.76
+   ],
+   [
+    "martins.",
+    4.76,
+    5.2
+   ],
+   [
+    "They",
+    5.66,
+    5.74
+   ],
+   [
+    "are",
+    5.74,
+    5.82
+   ],
+   [
+    "blackish-blue",
+    5.82,
+    6.44
+   ],
+   [
+    "with",
+    6.44,
+    6.7
+   ],
+   [
+    "a",
+    6.7,
+    6.78
+   ],
+   [
+    "contrasting",
+    6.78,
+    7.34
+   ],
+   [
+    "white",
+    7.34,
+    7.5
+   ],
+   [
+    "rump.",
+    7.5,
+    7.78
+   ],
+   [
+    "These",
+    8.38,
+    8.5
+   ],
+   [
+    "martins",
+    8.5,
+    8.9
+   ],
+   [
+    "build",
+    8.9,
+    9.1
+   ],
+   [
+    "mud",
+    9.1,
+    9.34
+   ],
+   [
+    "nests",
+    9.34,
+    9.72
+   ],
+   [
+    "in",
+    9.84,
+    9.94
+   ],
+   [
+    "colonies",
+    9.94,
+    10.26
+   ],
+   [
+    "on",
+    10.26,
+    10.58
+   ],
+   [
+    "cliffs",
+    10.58,
+    10.82
+   ],
+   [
+    "or",
+    10.82,
+    11.1
+   ],
+   [
+    "buildings.",
+    11.1,
+    11.6
+   ],
+   [
+    "Both",
+    12.04,
+    12.16
+   ],
+   [
+    "parents",
+    12.16,
+    12.52
+   ],
+   [
+    "work",
+    12.52,
+    12.74
+   ],
+   [
+    "together",
+    12.74,
+    13.08
+   ],
+   [
+    "to",
+    13.08,
+    13.26
+   ],
+   [
+    "incubate",
+    13.26,
+    13.7
+   ],
+   [
+    "eggs",
+    13.7,
+    13.92
+   ],
+   [
+    "and",
+    13.92,
+    14.1
+   ],
+   [
+    "feed",
+    14.1,
+    14.26
+   ],
+   [
+    "the",
+    14.26,
+    14.42
+   ],
+   [
+    "chicks.",
+    14.42,
+    14.62
+   ],
+   [
+    "They",
+    15.16,
+    15.26
+   ],
+   [
+    "hunt",
+    15.26,
+    15.42
+   ],
+   [
+    "small",
+    15.42,
+    15.7
+   ],
+   [
+    "insects",
+    15.7,
+    15.98
+   ],
+   [
+    "mid-air",
+    15.98,
+    16.6
+   ],
+   [
+    "but",
+    16.6,
+    16.76
+   ],
+   [
+    "sometimes",
+    16.76,
+    17.16
+   ],
+   [
+    "fall",
+    17.16,
+    17.44
+   ],
+   [
+    "prey",
+    17.44,
+    17.7
+   ],
+   [
+    "to",
+    17.7,
+    17.84
+   ],
+   [
+    "faster",
+    17.84,
+    18.1
+   ],
+   [
+    "birds.",
+    18.1,
+    18.38
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   25,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/DelichonUrbicaFBI.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 252,
+   "license": "Public domain",
+   "artist": "Eugene William Oates",
+   "page": "https://commons.wikimedia.org/wiki/File:DelichonUrbicaFBI.jpg",
+   "desc": "DelichonUrbicaFBI — Delichon urbicum"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Delichon_urbica.jpg/960px-Delichon_urbica.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 594,
+   "license": "CC BY 2.5",
+   "artist": "MPF",
+   "page": "https://commons.wikimedia.org/wiki/File:Delichon_urbica.jpg",
+   "desc": "Delichon urbica — House Martin (Delichon urbicum), West Woodburn, Northumberland, UK. Coordinates intentionally inaccurate (±300 m) to protect privacy of house owner."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Delichon_nipalense_%28close-up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 570,
+   "license": "CC BY 2.0",
+   "artist": "Delichon_nipalense_-Bhutan_-nests-8.jpg: chia_alfred derivative work: PurpleHz (",
+   "page": "https://commons.wikimedia.org/wiki/File:Delichon_nipalense_(close-up).jpg",
+   "desc": "Delichon nipalense (close-up) — Nepal House Martins and nests in Bhutan."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/House_Martin_chicks.jpg/960px-House_Martin_chicks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Coral reef",
+   "page": "https://commons.wikimedia.org/wiki/File:House_Martin_chicks.jpg",
+   "desc": "House Martin chicks — House Martin chicks nesting near Eglinton, County Londonderry, await feeding by their parents."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Falco_subbuteo_kobuz2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 516,
+   "license": "CC BY 2.5",
+   "artist": "Artur Mikołajewski",
+   "page": "https://commons.wikimedia.org/wiki/File:Falco_subbuteo_kobuz2.jpg",
+   "desc": "Falco subbuteo kobuz2 — Falco subbuteo in Lasy Janowskie, Poland"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "rump",
+   "box": [
+    215,
+    538,
+    318,
+    602
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q310857",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "Delichon",
+  "url": "https://en.wikipedia.org/wiki/Delichon",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T15:55:07Z",
+ "trimmed": true
+}

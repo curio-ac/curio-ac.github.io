@@ -358,7 +358,8 @@
   "nasa:1509841",
   "Steve Dodd",
   "nasa:1277435",
-  "USS Anzio (CVE-57)"
+  "USS Anzio (CVE-57)",
+  "nasa:1387369"
  ],
  "rejected": [
   "Chameleon",
@@ -1608,6 +1609,9 @@
   ],
   "USS Anzio (CVE-57)": [
    "The Ship With Two Names: One warship held two famous names."
+  ],
+  "nasa:1387369": [
+   "Arctic Ice Hits Annual Low: Arctic sea ice just hit its annual minimum."
   ]
  },
  "exhausted": []
