@@ -1,0 +1,470 @@
+{
+ "id": "en-0bc5a8da",
+ "lang": "en",
+ "title": "The 1740 Batavia Massacre",
+ "cat": "history",
+ "emoji": "🩸",
+ "sentences": [
+  "At least 10,000 people were massacred in 1740.",
+  "The Dutch East India Company and allied groups targeted ethnic Chinese residents in Batavia.",
+  "Rising unrest was fueled by government repression and falling sugar prices.",
+  "After Chinese workers killed 50 Dutch soldiers, authorities confiscated weapons and imposed a curfew.",
+  "Soon, rumors of atrocities sparked mass arson and cannon fire against Chinese homes.",
+  "Only 600 to 3,000 residents managed to survive the deadly violence."
+ ],
+ "tim": {
+  "w": [
+   [
+    "At",
+    0.2,
+    0.3
+   ],
+   [
+    "least",
+    0.3,
+    0.46
+   ],
+   [
+    "10,000",
+    0.46,
+    1.08
+   ],
+   [
+    "people",
+    1.08,
+    1.36
+   ],
+   [
+    "were",
+    1.36,
+    1.52
+   ],
+   [
+    "massacred",
+    1.52,
+    2.02
+   ],
+   [
+    "in",
+    2.02,
+    2.14
+   ],
+   [
+    "1740.",
+    2.14,
+    2.46
+   ],
+   [
+    "The",
+    3.46,
+    3.46
+   ],
+   [
+    "Dutch",
+    3.46,
+    3.68
+   ],
+   [
+    "East",
+    3.68,
+    3.88
+   ],
+   [
+    "India",
+    3.88,
+    4.12
+   ],
+   [
+    "Company",
+    4.12,
+    4.48
+   ],
+   [
+    "and",
+    4.48,
+    4.62
+   ],
+   [
+    "allied",
+    4.62,
+    4.86
+   ],
+   [
+    "groups",
+    4.86,
+    5.2
+   ],
+   [
+    "targeted",
+    5.36,
+    5.58
+   ],
+   [
+    "ethnic",
+    5.58,
+    6.06
+   ],
+   [
+    "Chinese",
+    6.06,
+    6.32
+   ],
+   [
+    "residents",
+    6.32,
+    6.82
+   ],
+   [
+    "in",
+    6.98,
+    7.08
+   ],
+   [
+    "Batavia.",
+    7.08,
+    7.46
+   ],
+   [
+    "Rising",
+    8.24,
+    8.42
+   ],
+   [
+    "unrest",
+    8.42,
+    8.78
+   ],
+   [
+    "was",
+    8.78,
+    8.96
+   ],
+   [
+    "fueled",
+    9.08,
+    9.18
+   ],
+   [
+    "by",
+    9.18,
+    9.4
+   ],
+   [
+    "government",
+    9.58,
+    9.68
+   ],
+   [
+    "repression",
+    9.68,
+    10.24
+   ],
+   [
+    "and",
+    10.24,
+    10.5
+   ],
+   [
+    "falling",
+    10.62,
+    10.74
+   ],
+   [
+    "sugar",
+    10.74,
+    11.0
+   ],
+   [
+    "prices.",
+    11.0,
+    11.1
+   ],
+   [
+    "After",
+    12.02,
+    12.2
+   ],
+   [
+    "Chinese",
+    12.3,
+    12.46
+   ],
+   [
+    "workers",
+    12.68,
+    12.78
+   ],
+   [
+    "killed",
+    12.78,
+    13.12
+   ],
+   [
+    "50",
+    13.12,
+    13.44
+   ],
+   [
+    "Dutch",
+    13.46,
+    13.68
+   ],
+   [
+    "soldiers,",
+    13.68,
+    14.04
+   ],
+   [
+    "authorities",
+    14.48,
+    14.66
+   ],
+   [
+    "confiscated",
+    14.66,
+    15.24
+   ],
+   [
+    "weapons",
+    15.24,
+    15.54
+   ],
+   [
+    "and",
+    15.54,
+    15.86
+   ],
+   [
+    "imposed",
+    15.86,
+    16.14
+   ],
+   [
+    "a",
+    16.14,
+    16.32
+   ],
+   [
+    "curfew.",
+    16.32,
+    16.46
+   ],
+   [
+    "Soon,",
+    17.26,
+    17.52
+   ],
+   [
+    "rumors",
+    17.66,
+    17.8
+   ],
+   [
+    "of",
+    17.8,
+    17.96
+   ],
+   [
+    "atrocities",
+    17.96,
+    18.5
+   ],
+   [
+    "sparked",
+    18.5,
+    18.76
+   ],
+   [
+    "mass",
+    18.98,
+    19.08
+   ],
+   [
+    "arson",
+    19.08,
+    19.56
+   ],
+   [
+    "and",
+    19.56,
+    19.74
+   ],
+   [
+    "cannon",
+    19.92,
+    20.02
+   ],
+   [
+    "fire",
+    20.02,
+    20.3
+   ],
+   [
+    "against",
+    20.3,
+    20.54
+   ],
+   [
+    "Chinese",
+    20.74,
+    20.9
+   ],
+   [
+    "homes.",
+    20.9,
+    21.06
+   ],
+   [
+    "Only",
+    21.86,
+    22.0
+   ],
+   [
+    "600",
+    22.0,
+    22.52
+   ],
+   [
+    "to",
+    22.52,
+    22.66
+   ],
+   [
+    "3,000",
+    22.74,
+    23.2
+   ],
+   [
+    "residents",
+    23.2,
+    23.6
+   ],
+   [
+    "managed",
+    23.6,
+    23.96
+   ],
+   [
+    "to",
+    23.96,
+    24.2
+   ],
+   [
+    "survive",
+    24.2,
+    24.46
+   ],
+   [
+    "the",
+    24.46,
+    24.62
+   ],
+   [
+    "deadly",
+    24.66,
+    24.8
+   ],
+   [
+    "violence.",
+    24.8,
+    24.9
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   22,
+   33,
+   47,
+   60
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Chinezenmoord_Van_Stolk.jpg/960px-Chinezenmoord_Van_Stolk.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 799,
+   "license": "Public domain",
+   "artist": "Unknown illustrator. Published in a work attributed to Abraham Van Stolk (1814-1",
+   "page": "https://commons.wikimedia.org/wiki/File:Chinezenmoord_Van_Stolk.jpg",
+   "desc": "Chinezenmoord Van Stolk — A drawing of the 1740 Batavia massacre, taken from (1895) Atlas van Stolk. Katalogus der historie-, spot- en zinneprenten betrekkelijk de geschiedenis van Nederland, Amsterdam: F. Muller &amp; Co. OCLC: 10847666. as note"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Tableau_de_la_Partie_de_Batavia%2C_ou_s%27est_fait_proprement_le_terrible_Massacre_des_Chinois%2C_le_9_Octob.jpeg/960px-Tableau_de_la_Partie_de_Batavia%2C_ou_s%27est_fait_proprement_le_terrible_Massacre_des_Chinois%2C_le_9_Octob.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 516,
+   "license": "Public domain",
+   "artist": "Jakob van der Schley / Adolf van der Laan",
+   "page": "https://commons.wikimedia.org/wiki/File:Tableau_de_la_Partie_de_Batavia,_ou_s%27est_fait_proprement_le_terrible_Massacre_des_Chinois,_le_9_Octob.jpeg",
+   "desc": "Tableau de la Partie de Batavia, ou s'est fait proprement le terrible Massacre des Chinois, le 9 Octob — 1740 Batavia massacre"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Chinezenmoord_van_stolk_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 409,
+   "license": "Public domain",
+   "artist": "Unknown illustrator. Published in a work attributed to Abraham Van Stolk (1814-1",
+   "page": "https://commons.wikimedia.org/wiki/File:Chinezenmoord_van_stolk_(2).jpg",
+   "desc": "Chinezenmoord van stolk (2) — A drawing of the 1740 Batavia massacre"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  null,
+  1,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 10000,
+   "unit": "people",
+   "label": "massacred"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1740
+  },
+  {
+   "type": "stat",
+   "value": 50,
+   "unit": "soldiers",
+   "label": "killed"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 600,
+   "unit": "residents",
+   "label": "survived"
+  }
+ ],
+ "geo": [
+  -6.131,
+  106.799
+ ],
+ "qid": "Q1150578",
+ "pron_wer": 0.042,
+ "angle": 0,
+ "source": {
+  "title": "1740 Batavia massacre",
+  "url": "https://en.wikipedia.org/wiki/1740_Batavia_massacre",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:01:39Z",
+ "trimmed": true
+}
