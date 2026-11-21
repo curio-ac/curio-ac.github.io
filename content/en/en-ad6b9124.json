@@ -1,0 +1,407 @@
+{
+ "id": "en-ad6b9124",
+ "lang": "en",
+ "title": "Perseverance Sets World Record",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA’s Perseverance team just set a world record.",
+  "The team gathered at the Jet Propulsion Laboratory to celebrate.",
+  "They received an official certificate from Guinness World Records.",
+  "The award marks the rover's distance record on Mars.",
+  "In front of the team sits OPTIMISM, a full-scale engineering twin.",
+  "This model helps plan driving routes and science activities on the Red Planet."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA’s",
+    0.24,
+    0.52
+   ],
+   [
+    "Perseverance",
+    0.62,
+    1.24
+   ],
+   [
+    "team",
+    1.24,
+    1.48
+   ],
+   [
+    "just",
+    1.48,
+    1.84
+   ],
+   [
+    "set",
+    1.84,
+    2.14
+   ],
+   [
+    "a",
+    2.14,
+    2.32
+   ],
+   [
+    "world",
+    2.32,
+    2.62
+   ],
+   [
+    "record.",
+    2.62,
+    3.18
+   ],
+   [
+    "The",
+    3.62,
+    3.68
+   ],
+   [
+    "team",
+    3.68,
+    3.92
+   ],
+   [
+    "gathered",
+    3.92,
+    4.24
+   ],
+   [
+    "at",
+    4.24,
+    4.5
+   ],
+   [
+    "the",
+    4.5,
+    4.62
+   ],
+   [
+    "Jet",
+    4.62,
+    4.82
+   ],
+   [
+    "Propulsion",
+    4.82,
+    5.3
+   ],
+   [
+    "Laboratory",
+    5.3,
+    5.7
+   ],
+   [
+    "to",
+    5.7,
+    6.06
+   ],
+   [
+    "celebrate.",
+    6.06,
+    6.6
+   ],
+   [
+    "They",
+    7.14,
+    7.2
+   ],
+   [
+    "received",
+    7.2,
+    7.58
+   ],
+   [
+    "an",
+    7.58,
+    7.74
+   ],
+   [
+    "official",
+    7.74,
+    8.02
+   ],
+   [
+    "certificate",
+    8.58,
+    8.68
+   ],
+   [
+    "from",
+    8.68,
+    8.98
+   ],
+   [
+    "Guinness",
+    8.98,
+    9.38
+   ],
+   [
+    "World",
+    9.38,
+    9.58
+   ],
+   [
+    "Records.",
+    9.58,
+    10.02
+   ],
+   [
+    "The",
+    10.78,
+    10.88
+   ],
+   [
+    "award",
+    10.88,
+    11.12
+   ],
+   [
+    "marks",
+    11.12,
+    11.46
+   ],
+   [
+    "the",
+    11.46,
+    11.66
+   ],
+   [
+    "rover's",
+    11.66,
+    12.06
+   ],
+   [
+    "distance",
+    12.06,
+    12.34
+   ],
+   [
+    "record",
+    12.34,
+    12.72
+   ],
+   [
+    "on",
+    12.72,
+    12.92
+   ],
+   [
+    "Mars.",
+    12.92,
+    13.46
+   ],
+   [
+    "In",
+    14.04,
+    14.12
+   ],
+   [
+    "front",
+    14.12,
+    14.3
+   ],
+   [
+    "of",
+    14.3,
+    14.4
+   ],
+   [
+    "the",
+    14.4,
+    14.5
+   ],
+   [
+    "team",
+    14.5,
+    14.74
+   ],
+   [
+    "sits",
+    14.74,
+    14.96
+   ],
+   [
+    "OPTIMISM,",
+    14.96,
+    15.41
+   ],
+   [
+    "a",
+    15.98,
+    16.08
+   ],
+   [
+    "full-scale",
+    16.08,
+    16.6
+   ],
+   [
+    "engineering",
+    16.6,
+    17.14
+   ],
+   [
+    "twin.",
+    17.14,
+    17.64
+   ],
+   [
+    "This",
+    18.28,
+    18.4
+   ],
+   [
+    "model",
+    18.4,
+    18.66
+   ],
+   [
+    "helps",
+    18.66,
+    18.96
+   ],
+   [
+    "plan",
+    18.96,
+    19.22
+   ],
+   [
+    "driving",
+    19.22,
+    19.52
+   ],
+   [
+    "routes",
+    19.52,
+    19.84
+   ],
+   [
+    "and",
+    19.84,
+    20.12
+   ],
+   [
+    "science",
+    20.12,
+    20.4
+   ],
+   [
+    "activities",
+    20.4,
+    20.82
+   ],
+   [
+    "on",
+    20.82,
+    21.1
+   ],
+   [
+    "the",
+    21.1,
+    21.18
+   ],
+   [
+    "Red",
+    21.18,
+    21.3
+   ],
+   [
+    "Planet.",
+    21.3,
+    21.7
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   27,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/NASA%E2%80%99s_Record-Setting_Perseverance_Rover_Team_%28PIA26813%29.jpg/960px-NASA%E2%80%99s_Record-Setting_Perseverance_Rover_Team_%28PIA26813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Record-Setting_Perseverance_Rover_Team_(PIA26813).jpg",
+   "desc": "NASA’s Record-Setting Perseverance Rover Team (PIA26813) — Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rove"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Desert_Field_Test_With_NASA_Advanced_Rover_Prototype_%28PIA26701%29.png/960px-Desert_Field_Test_With_NASA_Advanced_Rover_Prototype_%28PIA26701%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Desert_Field_Test_With_NASA_Advanced_Rover_Prototype_(PIA26701).png",
+   "desc": "Desert Field Test With NASA Advanced Rover Prototype (PIA26701) — A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, Califor"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  1
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "certificate",
+   "box": [
+    501,
+    358,
+    552,
+    391
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "OPTIMISM",
+   "box": [
+    547,
+    496,
+    915,
+    927
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Record-Setting Perseverance Rover Team",
+  "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T12:15:07Z",
+ "trimmed": true
+}

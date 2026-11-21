@@ -348,7 +348,8 @@
   "nasa:1440911",
   "Boring Lava Field",
   "2000 Sugar Bowl",
-  "nasa:1398778"
+  "nasa:1398778",
+  "Apollo 11 50th Anniversary commemorative coins"
  ],
  "rejected": [
   "Chameleon",
@@ -1567,6 +1568,9 @@
   ],
   "nasa:1398778": [
    "Greenland's Hidden Underground World: Greenland hides a massive, secret valley network."
+  ],
+  "Apollo 11 50th Anniversary commemorative coins": [
+   "Apollo 11 Coin Secrets: Space coins feature a famous bootprint."
   ]
  },
  "exhausted": []
