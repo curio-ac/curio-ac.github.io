@@ -1,0 +1,447 @@
+{
+ "id": "en-84deb303",
+ "lang": "en",
+ "title": "The HMS Dreadnought",
+ "cat": "history",
+ "emoji": "🚢",
+ "sentences": [
+  "HMS Dreadnought launched in 1906.",
+  "Her design had two revolutionary features including an all-big-gun armament scheme.",
+  "She also used steam turbine propulsion.",
+  "Similar battleships built after her were called dreadnoughts.",
+  "Earlier battleships became known as pre-dreadnoughts.",
+  "These new warships renewed the naval arms race between the United Kingdom and Germany.",
+  "Most original dreadnoughts were scrapped after World War I."
+ ],
+ "tim": {
+  "w": [
+   [
+    "HMS",
+    0.35,
+    0.57
+   ],
+   [
+    "Dreadnought",
+    0.57,
+    1.13
+   ],
+   [
+    "launched",
+    1.13,
+    1.51
+   ],
+   [
+    "in",
+    1.51,
+    1.71
+   ],
+   [
+    "1906.",
+    1.71,
+    2.45
+   ],
+   [
+    "Her",
+    3.25,
+    3.33
+   ],
+   [
+    "design",
+    3.33,
+    3.61
+   ],
+   [
+    "had",
+    3.61,
+    3.79
+   ],
+   [
+    "two",
+    3.79,
+    4.01
+   ],
+   [
+    "revolutionary",
+    4.01,
+    4.55
+   ],
+   [
+    "features",
+    4.55,
+    4.97
+   ],
+   [
+    "including",
+    5.45,
+    5.57
+   ],
+   [
+    "an",
+    5.57,
+    5.81
+   ],
+   [
+    "all-big-gun",
+    5.91,
+    6.53
+   ],
+   [
+    "armament",
+    6.53,
+    6.99
+   ],
+   [
+    "scheme.",
+    6.99,
+    7.79
+   ],
+   [
+    "She",
+    7.79,
+    7.85
+   ],
+   [
+    "also",
+    7.85,
+    8.11
+   ],
+   [
+    "used",
+    8.11,
+    8.37
+   ],
+   [
+    "steam",
+    8.37,
+    8.77
+   ],
+   [
+    "turbine",
+    8.77,
+    9.21
+   ],
+   [
+    "propulsion.",
+    9.21,
+    9.61
+   ],
+   [
+    "Similar",
+    10.31,
+    10.47
+   ],
+   [
+    "battleships",
+    10.47,
+    10.99
+   ],
+   [
+    "built",
+    11.13,
+    11.23
+   ],
+   [
+    "after",
+    11.49,
+    11.59
+   ],
+   [
+    "her",
+    11.59,
+    11.81
+   ],
+   [
+    "were",
+    11.81,
+    11.99
+   ],
+   [
+    "called",
+    11.99,
+    12.19
+   ],
+   [
+    "dreadnoughts.",
+    12.19,
+    12.57
+   ],
+   [
+    "Earlier",
+    13.43,
+    13.59
+   ],
+   [
+    "battleships",
+    13.59,
+    14.13
+   ],
+   [
+    "became",
+    14.13,
+    14.39
+   ],
+   [
+    "known",
+    14.39,
+    14.65
+   ],
+   [
+    "as",
+    14.65,
+    14.89
+   ],
+   [
+    "pre-dreadnoughts.",
+    14.89,
+    15.43
+   ],
+   [
+    "These",
+    16.29,
+    16.43
+   ],
+   [
+    "new",
+    16.43,
+    16.63
+   ],
+   [
+    "warships",
+    16.63,
+    17.07
+   ],
+   [
+    "renewed",
+    17.07,
+    17.45
+   ],
+   [
+    "the",
+    17.45,
+    17.73
+   ],
+   [
+    "naval",
+    17.73,
+    17.93
+   ],
+   [
+    "arms",
+    18.17,
+    18.27
+   ],
+   [
+    "race",
+    18.27,
+    18.51
+   ],
+   [
+    "between",
+    18.71,
+    18.81
+   ],
+   [
+    "the",
+    18.81,
+    18.97
+   ],
+   [
+    "United",
+    18.97,
+    19.19
+   ],
+   [
+    "Kingdom",
+    19.19,
+    19.59
+   ],
+   [
+    "and",
+    19.59,
+    19.91
+   ],
+   [
+    "Germany.",
+    19.91,
+    20.19
+   ],
+   [
+    "Most",
+    20.91,
+    21.07
+   ],
+   [
+    "original",
+    21.07,
+    21.41
+   ],
+   [
+    "dreadnoughts",
+    21.41,
+    22.07
+   ],
+   [
+    "were",
+    22.07,
+    22.17
+   ],
+   [
+    "scrapped",
+    22.25,
+    22.63
+   ],
+   [
+    "after",
+    22.87,
+    22.97
+   ],
+   [
+    "World",
+    22.97,
+    23.19
+   ],
+   [
+    "War",
+    23.19,
+    23.39
+   ],
+   [
+    "I.",
+    23.39,
+    23.53
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   16,
+   22,
+   30,
+   36,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Dreadnought_1906_H61017.jpg/960px-HMS_Dreadnought_1906_H61017.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 542,
+   "license": "Public domain",
+   "artist": "Adam Cuerden",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Dreadnought_1906_H61017.jpg",
+   "desc": "HMS Dreadnought 1906 H61017 — HMS Dreadnought (British Battleship, 1906) underway, circa 1906-07; Removed caption read: Photo # NH 61017 HMS Dreadnought (British battleship, 1906)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Brazilian_battleship_Minas_Geraes_firing_a_broadside.jpg/960px-Brazilian_battleship_Minas_Geraes_firing_a_broadside.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 516,
+   "license": "Public domain",
+   "artist": "Brazilian Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:Brazilian_battleship_Minas_Geraes_firing_a_broadside.jpg",
+   "desc": "Brazilian battleship Minas Geraes firing a broadside — Caption from Scientific American: \"During the gun trial of \"Minas Geraes\" ten 12-inch guns were trained on the broadside and discharged simultaneously. The combined energy of the projectiles amounted to 50"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Battleship_Paris.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 488,
+   "license": "Public domain",
+   "artist": "none stated",
+   "page": "https://commons.wikimedia.org/wiki/File:Battleship_Paris.png",
+   "desc": "Battleship Paris — French battleship Paris, trial at full steam"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/HMS_Bellerophon_Plan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 143,
+   "license": "Public domain",
+   "artist": "Jane's Publishing Company",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Bellerophon_Plan.jpg",
+   "desc": "HMS Bellerophon Plan — Plan view of dreadnought battleship HMS Bellerophon"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/HMS_Agamemnon_%281908%29_profile_drawing.png/960px-HMS_Agamemnon_%281908%29_profile_drawing.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 528,
+   "license": "CC BY 2.5",
+   "artist": "Emoscopes",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Agamemnon_(1908)_profile_drawing.png",
+   "desc": "HMS Agamemnon (1908) profile drawing — Diagrams depicting HMS Agamemnon, Royal Navy pre-dreadnought battleship, as she was in 1908. 1/450 scale."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Battleship_building_scatter_graph_1905_onwards.png/960px-Battleship_building_scatter_graph_1905_onwards.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 300,
+   "license": "CC BY-SA 3.0",
+   "artist": "The Land",
+   "page": "https://commons.wikimedia.org/wiki/File:Battleship_building_scatter_graph_1905_onwards.png",
+   "desc": "Battleship building scatter graph 1905 onwards — Scatter graph of the design displacement and month laid down (or planned) of all capital ship (battleship and battlecruiser) classes for 6 leading naval nations from 1905 to 1945, showing the impact of the Washi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HMS_Audacious_crew_take_to_lifeboats.jpg/960px-HMS_Audacious_crew_take_to_lifeboats.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Edith and Mabel Smith deceased",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Audacious_crew_take_to_lifeboats.jpg",
+   "desc": "HMS Audacious crew take to lifeboats — HMS Audacious crew take to lifeboats to be taken aboard RMS Olympic"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1906
+  },
+  {
+   "type": "focus",
+   "target": "all-big-gun armament scheme",
+   "box": [
+    370,
+    264,
+    635,
+    645
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q847109",
+ "pron_wer": 0.065,
+ "angle": 0,
+ "source": {
+  "title": "Dreadnought",
+  "url": "https://en.wikipedia.org/wiki/Dreadnought",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T04:53:09Z",
+ "trimmed": true
+}
