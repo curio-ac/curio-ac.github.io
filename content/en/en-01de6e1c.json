@@ -1,0 +1,401 @@
+{
+ "id": "en-01de6e1c",
+ "lang": "en",
+ "title": "Griffin-1 Survives NASA's Space Simulator",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "This lunar lander baked at 167 degrees!",
+  "Voyager Technologies just finished testing the Griffin-1 lander at NASA JPL.",
+  "It survived extreme heat and freezing cold in a historic vacuum chamber.",
+  "Engineers also blasted it with 153 decibels to mimic a rocket launch.",
+  "It will deliver over 1,100 pounds of cargo to the Moon in late 2026."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.24,
+    0.24
+   ],
+   [
+    "lunar",
+    0.24,
+    0.56
+   ],
+   [
+    "lander",
+    0.56,
+    1.02
+   ],
+   [
+    "baked",
+    1.02,
+    1.32
+   ],
+   [
+    "at",
+    1.38,
+    1.48
+   ],
+   [
+    "167",
+    1.48,
+    2.86
+   ],
+   [
+    "degrees!",
+    2.86,
+    3.5
+   ],
+   [
+    "Voyager",
+    3.86,
+    4.26
+   ],
+   [
+    "Technologies",
+    4.26,
+    4.78
+   ],
+   [
+    "just",
+    4.78,
+    5.26
+   ],
+   [
+    "finished",
+    5.26,
+    5.52
+   ],
+   [
+    "testing",
+    5.52,
+    5.96
+   ],
+   [
+    "the",
+    5.96,
+    6.14
+   ],
+   [
+    "Griffin-1",
+    6.14,
+    6.74
+   ],
+   [
+    "lander",
+    6.74,
+    7.18
+   ],
+   [
+    "at",
+    7.18,
+    7.36
+   ],
+   [
+    "NASA",
+    7.36,
+    7.68
+   ],
+   [
+    "JPL.",
+    7.68,
+    8.28
+   ],
+   [
+    "It",
+    8.86,
+    8.86
+   ],
+   [
+    "survived",
+    8.86,
+    9.16
+   ],
+   [
+    "extreme",
+    9.16,
+    9.86
+   ],
+   [
+    "heat",
+    9.86,
+    10.24
+   ],
+   [
+    "and",
+    10.24,
+    10.58
+   ],
+   [
+    "freezing",
+    10.58,
+    11.06
+   ],
+   [
+    "cold",
+    11.06,
+    11.46
+   ],
+   [
+    "in",
+    11.46,
+    11.74
+   ],
+   [
+    "a",
+    11.74,
+    11.82
+   ],
+   [
+    "historic",
+    11.82,
+    12.28
+   ],
+   [
+    "vacuum",
+    12.28,
+    12.66
+   ],
+   [
+    "chamber.",
+    12.66,
+    12.94
+   ],
+   [
+    "Engineers",
+    13.7,
+    13.9
+   ],
+   [
+    "also",
+    14.22,
+    14.32
+   ],
+   [
+    "blasted",
+    14.32,
+    14.84
+   ],
+   [
+    "it",
+    14.84,
+    14.9
+   ],
+   [
+    "with",
+    14.9,
+    15.06
+   ],
+   [
+    "153",
+    15.3,
+    16.38
+   ],
+   [
+    "decibels",
+    16.38,
+    16.94
+   ],
+   [
+    "to",
+    17.04,
+    17.14
+   ],
+   [
+    "mimic",
+    17.14,
+    17.34
+   ],
+   [
+    "a",
+    17.34,
+    17.5
+   ],
+   [
+    "rocket",
+    17.5,
+    17.76
+   ],
+   [
+    "launch.",
+    17.76,
+    18.22
+   ],
+   [
+    "It",
+    18.6,
+    18.66
+   ],
+   [
+    "will",
+    18.66,
+    18.78
+   ],
+   [
+    "deliver",
+    18.78,
+    19.08
+   ],
+   [
+    "over",
+    19.08,
+    19.36
+   ],
+   [
+    "1,100",
+    19.36,
+    20.24
+   ],
+   [
+    "pounds",
+    20.24,
+    20.56
+   ],
+   [
+    "of",
+    20.56,
+    20.76
+   ],
+   [
+    "cargo",
+    20.76,
+    21.04
+   ],
+   [
+    "to",
+    21.04,
+    21.24
+   ],
+   [
+    "the",
+    21.24,
+    21.34
+   ],
+   [
+    "Moon",
+    21.34,
+    21.56
+   ],
+   [
+    "in",
+    21.56,
+    21.8
+   ],
+   [
+    "late",
+    21.8,
+    22.02
+   ],
+   [
+    "2026.",
+    22.02,
+    22.62
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   30,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figC%29.jpg/960px-Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_(PIA26708_figC).jpg",
+   "desc": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL (PIA26708 figC) — A lunar lander from Voyager Technologies completed nearly three months of environmental testing at NASA’s Jet Propulsion Laboratory in Southern California in late Sep"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figA%29.jpg/960px-Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_(PIA26708_figA).jpg",
+   "desc": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL (PIA26708 figA) — A lunar lander from Voyager Technologies completed nearly three months of environmental testing at NASA’s Jet Propulsion Laboratory in Southern California in late Sep"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figD%29.jpg/960px-Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_(PIA26708_figD).jpg",
+   "desc": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL (PIA26708 figD) — A lunar lander from Voyager Technologies completed nearly three months of environmental testing at NASA’s Jet Propulsion Laboratory in Southern California in late Sep"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figB%29.jpg/960px-Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_%28PIA26708_figB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager_Technologies%E2%80%99_Griffin-1_Completes_Environmental_Testing_at_NASA_JPL_(PIA26708_figB).jpg",
+   "desc": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL (PIA26708 figB) — A lunar lander from Voyager Technologies completed nearly three months of environmental testing at NASA’s Jet Propulsion Laboratory in Southern California in late Sep"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Automated_Cargo_Vehicle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 560,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Automated_Cargo_Vehicle.png",
+   "desc": "Automated Cargo Vehicle — Following launch on an Energia rocket, translunar injection, and an Earth-moon voyage lasting up to about a week, a U.S.-built cargo lander bearing a self-deploying LUNOX regolith processing payload descends toward the l"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 167,
+   "unit": "degrees",
+   "label": "baked at"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 153,
+   "unit": "decibels",
+   "label": "rocket launch"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL",
+  "url": "https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T03:36:36Z",
+ "trimmed": true
+}

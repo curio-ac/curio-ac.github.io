@@ -322,7 +322,8 @@
   "Nick Adenhart",
   "British logistics in the Western Allied invasion of Germany",
   "Chew Stoke",
-  "nasa:1338619"
+  "nasa:1338619",
+  "1st Missouri Field Battery"
  ],
  "rejected": [
   "Chameleon",
@@ -1455,6 +1456,9 @@
   ],
   "nasa:1338619": [
    "NASA's New Space Farming Plan: NASA is funding 12 new space experiments."
+  ],
+  "1st Missouri Field Battery": [
+   "Rebel Battery Harasses Union Shipping: A rebel battery harassed Union shipping!"
   ]
  },
  "exhausted": []
