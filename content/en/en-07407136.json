@@ -1,0 +1,405 @@
+{
+ "id": "en-07407136",
+ "lang": "en",
+ "title": "Canada's Early Autumn",
+ "cat": "geography",
+ "emoji": "🍁",
+ "sentences": [
+  "Fall arrives shockingly early in Canada’s arctic tundra.",
+  "By early September, the landscape is already transforming.",
+  "Satellite images show vegetation turning from green to vibrant colors in just weeks.",
+  "Plants lose chlorophyll as sunlight and temperatures drop.",
+  "Hidden pigments then take the stage, revealing brilliant reds and yellows.",
+  "This peak color show often lasts less than 1 week."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Fall",
+    0.35,
+    0.35
+   ],
+   [
+    "arrives",
+    0.35,
+    0.69
+   ],
+   [
+    "shockingly",
+    0.69,
+    1.37
+   ],
+   [
+    "early",
+    1.37,
+    1.65
+   ],
+   [
+    "in",
+    1.77,
+    1.89
+   ],
+   [
+    "Canada’s",
+    1.89,
+    2.33
+   ],
+   [
+    "arctic",
+    2.33,
+    2.57
+   ],
+   [
+    "tundra.",
+    2.57,
+    3.03
+   ],
+   [
+    "By",
+    3.37,
+    3.43
+   ],
+   [
+    "early",
+    3.43,
+    3.65
+   ],
+   [
+    "September,",
+    3.65,
+    4.2
+   ],
+   [
+    "the",
+    4.39,
+    4.39
+   ],
+   [
+    "landscape",
+    4.39,
+    4.75
+   ],
+   [
+    "is",
+    4.75,
+    5.01
+   ],
+   [
+    "already",
+    5.01,
+    5.39
+   ],
+   [
+    "transforming.",
+    5.39,
+    6.29
+   ],
+   [
+    "Satellite",
+    6.55,
+    6.91
+   ],
+   [
+    "images",
+    6.91,
+    7.09
+   ],
+   [
+    "show",
+    7.09,
+    7.39
+   ],
+   [
+    "vegetation",
+    7.39,
+    7.71
+   ],
+   [
+    "turning",
+    7.75,
+    8.23
+   ],
+   [
+    "from",
+    8.23,
+    8.47
+   ],
+   [
+    "green",
+    8.59,
+    8.79
+   ],
+   [
+    "to",
+    8.79,
+    9.23
+   ],
+   [
+    "vibrant",
+    9.41,
+    9.59
+   ],
+   [
+    "colors",
+    9.59,
+    9.97
+   ],
+   [
+    "in",
+    9.97,
+    10.25
+   ],
+   [
+    "just",
+    10.25,
+    10.39
+   ],
+   [
+    "weeks.",
+    10.39,
+    10.75
+   ],
+   [
+    "Plants",
+    11.53,
+    11.69
+   ],
+   [
+    "lose",
+    11.69,
+    11.93
+   ],
+   [
+    "chlorophyll",
+    11.93,
+    12.53
+   ],
+   [
+    "as",
+    12.53,
+    12.73
+   ],
+   [
+    "sunlight",
+    12.73,
+    13.07
+   ],
+   [
+    "and",
+    13.07,
+    13.29
+   ],
+   [
+    "temperatures",
+    13.29,
+    13.59
+   ],
+   [
+    "drop.",
+    13.59,
+    13.69
+   ],
+   [
+    "Hidden",
+    14.57,
+    14.67
+   ],
+   [
+    "pigments",
+    14.67,
+    15.11
+   ],
+   [
+    "then",
+    15.19,
+    15.31
+   ],
+   [
+    "take",
+    15.31,
+    15.49
+   ],
+   [
+    "the",
+    15.49,
+    15.59
+   ],
+   [
+    "stage,",
+    15.59,
+    16.01
+   ],
+   [
+    "revealing",
+    16.07,
+    16.29
+   ],
+   [
+    "brilliant",
+    16.29,
+    16.69
+   ],
+   [
+    "reds",
+    16.69,
+    17.19
+   ],
+   [
+    "and",
+    17.19,
+    17.29
+   ],
+   [
+    "yellows.",
+    17.29,
+    17.61
+   ],
+   [
+    "This",
+    18.17,
+    18.25
+   ],
+   [
+    "peak",
+    18.25,
+    18.45
+   ],
+   [
+    "color",
+    18.45,
+    18.69
+   ],
+   [
+    "show",
+    18.69,
+    18.97
+   ],
+   [
+    "often",
+    18.97,
+    19.41
+   ],
+   [
+    "lasts",
+    19.41,
+    19.69
+   ],
+   [
+    "less",
+    19.69,
+    19.93
+   ],
+   [
+    "than",
+    19.93,
+    20.13
+   ],
+   [
+    "1",
+    20.13,
+    20.37
+   ],
+   [
+    "week.",
+    20.37,
+    20.65
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   29,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_727%29.jpg/960px-An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 601,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Early_Look_at_Fall_Color_in_Canada_(1320015_-_727).jpg",
+   "desc": "An Early Look at Fall Color in Canada (1320015 - 727) — Autumn color sweeps across the low-growing shrubs and tundra vegetation of Nunavut, Canada, in this image pair captured by the OLI (Operational Land Imager) on Landsat 9. NASA Earth Observatory images by "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906%29.jpg/960px-An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 601,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Early_Look_at_Fall_Color_in_Canada_(1320015_-_906).jpg",
+   "desc": "An Early Look at Fall Color in Canada (1320015 - 906) — Autumn color sweeps across the low-growing shrubs and tundra vegetation of Nunavut, Canada, in this image pair captured by the OLI (Operational Land Imager) on Landsat 9. NASA Earth Observatory images by "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906_lrg%29.jpg/960px-An_Early_Look_at_Fall_Color_in_Canada_%281320015_-_906_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 521,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:An_Early_Look_at_Fall_Color_in_Canada_(1320015_-_906_lrg).jpg",
+   "desc": "An Early Look at Fall Color in Canada (1320015 - 906 lrg) — Autumn color sweeps across the low-growing shrubs and tundra vegetation of Nunavut, Canada, in this image pair captured by the OLI (Operational Land Imager) on Landsat 9. NASA Earth Observatory images"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Autumn_tundra_mosaic_Kola_Peninsula_Murmansk_Russia.jpg/960px-Autumn_tundra_mosaic_Kola_Peninsula_Murmansk_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 4.0",
+   "artist": "Artem Abdukakharov",
+   "page": "https://commons.wikimedia.org/wiki/File:Autumn_tundra_mosaic_Kola_Peninsula_Murmansk_Russia.jpg",
+   "desc": "Autumn tundra mosaic Kola Peninsula Murmansk Russia — The Arctic tundra north of the Polar Circle bursts into vivid colors during autumn. This photo, taken on the shore of Lake Lovozero in the Lovozero Massif mountain range of the Kola Peninsula, captures the "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "week",
+   "label": "Peak color"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "An Early Look at Fall Color in Canada",
+  "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T08:40:12Z",
+ "trimmed": true
+}
