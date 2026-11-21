@@ -329,7 +329,8 @@
   "nasa:1499167",
   "44th Chess Olympiad",
   "Dreadnought",
-  "nasa:1304490"
+  "nasa:1304490",
+  "Branford Steam Railroad"
  ],
  "rejected": [
   "Chameleon",
@@ -1484,6 +1485,9 @@
   ],
   "nasa:1304490": [
    "5,000 Martian Days!: Curiosity just hit 5,000 Martian days on Mars."
+  ],
+  "Branford Steam Railroad": [
+   "A Railroad For Horses!: This stone-hauling railroad started for horses!"
   ]
  },
  "exhausted": []
