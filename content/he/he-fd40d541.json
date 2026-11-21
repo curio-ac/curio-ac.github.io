@@ -1,0 +1,370 @@
+{
+ "id": "he-fd40d541",
+ "lang": "he",
+ "title": "סלעים מסתוריים על מאדים",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "סלעים בהירים ומפתיעים התגלו על מאדים!",
+  "הרובר פרסווירנס מצא אותם באזור שנקרא \"Lac de Charmes\".",
+  "מאדים בדרך כלל מכוסה בסלעים כהים כהים.",
+  "הסלעים הבהירים הם כנראה סלעי גברו שנוצרו עמוק בקרום.",
+  "אולי פגיעות אסטרואידים חשפו אותם אל פני השטח.",
+  "הרובר חוקר כעת האם הם הגיעו מתוך סלעי ברקציה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "סלעים",
+    0,
+    0.54
+   ],
+   [
+    "בהירים",
+    0.54,
+    1.16
+   ],
+   [
+    "ומפתיעים",
+    1.16,
+    1.98
+   ],
+   [
+    "התגלו",
+    1.98,
+    2.56
+   ],
+   [
+    "על",
+    2.56,
+    2.68
+   ],
+   [
+    "מאדים!",
+    2.68,
+    3.16
+   ],
+   [
+    "הרובר",
+    3.66,
+    4.06
+   ],
+   [
+    "פרסווירנס",
+    4.06,
+    4.94
+   ],
+   [
+    "מצא",
+    4.94,
+    5.38
+   ],
+   [
+    "אותם",
+    5.38,
+    5.64
+   ],
+   [
+    "באזור",
+    5.64,
+    6.04
+   ],
+   [
+    "שנקרא",
+    6.04,
+    6.56
+   ],
+   [
+    "\"Lac",
+    6.56,
+    7.08
+   ],
+   [
+    "de",
+    7.14,
+    7.24
+   ],
+   [
+    "Charmes\".",
+    7.24,
+    7.6
+   ],
+   [
+    "מאדים",
+    8.3,
+    8.68
+   ],
+   [
+    "בדרך",
+    8.68,
+    9.02
+   ],
+   [
+    "כלל",
+    9.02,
+    9.34
+   ],
+   [
+    "מכוסה",
+    9.34,
+    9.8
+   ],
+   [
+    "בסלעים",
+    9.8,
+    10.34
+   ],
+   [
+    "כהים",
+    10.34,
+    10.8
+   ],
+   [
+    "כהים.",
+    10.8,
+    10.9
+   ],
+   [
+    "הסלעים",
+    11.78,
+    12.12
+   ],
+   [
+    "הבהירים",
+    12.12,
+    12.84
+   ],
+   [
+    "הם",
+    12.84,
+    13.04
+   ],
+   [
+    "כנראה",
+    13.04,
+    13.56
+   ],
+   [
+    "סלעי",
+    13.56,
+    13.96
+   ],
+   [
+    "גברו",
+    13.96,
+    14.54
+   ],
+   [
+    "שנוצרו",
+    15.06,
+    15.22
+   ],
+   [
+    "עמוק",
+    15.26,
+    15.66
+   ],
+   [
+    "בקרום.",
+    15.66,
+    16.58
+   ],
+   [
+    "אולי",
+    16.76,
+    16.98
+   ],
+   [
+    "פגיעות",
+    16.98,
+    17.44
+   ],
+   [
+    "אסטרואידים",
+    17.46,
+    18.14
+   ],
+   [
+    "חשפו",
+    18.14,
+    18.64
+   ],
+   [
+    "אותם",
+    18.64,
+    18.86
+   ],
+   [
+    "אל",
+    18.86,
+    18.96
+   ],
+   [
+    "פני",
+    19.06,
+    19.16
+   ],
+   [
+    "השטח.",
+    19.16,
+    19.44
+   ],
+   [
+    "הרובר",
+    20.26,
+    20.62
+   ],
+   [
+    "חוקר",
+    20.62,
+    21.06
+   ],
+   [
+    "כעת",
+    21.06,
+    21.5
+   ],
+   [
+    "האם",
+    21.96,
+    22.08
+   ],
+   [
+    "הם",
+    22.08,
+    22.16
+   ],
+   [
+    "הגיעו",
+    22.16,
+    22.54
+   ],
+   [
+    "מתוך",
+    22.54,
+    22.94
+   ],
+   [
+    "סלעי",
+    22.94,
+    23.44
+   ],
+   [
+    "ברקציה.",
+    23.44,
+    23.98
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   22,
+   31,
+   39
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527.jpg/960px-PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 100,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/ASU/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527.jpg",
+   "desc": "PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527 — Mars - Perseverance Rover - Mount Washburn - Crop - May 27, 2024"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527.jpg/960px-PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 100,
+   "license": "",
+   "artist": "NASA/JPL-Caltech/ASU/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527.jpg",
+   "desc": "PIA26333-MarsPerseveranceRover-MountWashburn-Crop-20240527 — Mars - Perseverance Rover - Mount Washburn - Crop - May 27, 2024"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hypersthene_gabbro_%28GeoDIL_number_-_452%29.jpg/960px-Hypersthene_gabbro_%28GeoDIL_number_-_452%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 477,
+   "license": "CC0",
+   "artist": "Darla Sondrol",
+   "page": "https://commons.wikimedia.org/wiki/File:Hypersthene_gabbro_(GeoDIL_number_-_452).jpg",
+   "desc": "Hypersthene gabbro (GeoDIL number - 452) — This hand specimen is typical of a gabbro: a dense dark rock composed of grains of pyroxene (dark) and plagioclase (light) up to 1 cm across. Thin section viewing also reveals the presence of hornblende, biotite and m"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Roter_Kamm_impact_crater_ESA22104135.jpeg/960px-Roter_Kamm_impact_crater_ESA22104135.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Attribution",
+   "artist": "European Space Agency",
+   "page": "https://commons.wikimedia.org/wiki/File:Roter_Kamm_impact_crater_ESA22104135.jpeg",
+   "desc": "Roter Kamm impact crater ESA22104135 — On Asteroid Day, the Copernicus Sentinel-2 mission takes us over the Roter Kamm impact crater in Namibia. The circular shape of the crater rim can be seen in the left of the image, just below the centre.Zoom in to view t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Impact_breccia_%28Early_Permian%2C_~280_Ma%3B_Terny_Impact_Crater%2C_Ukraine%29_2.jpg/960px-Impact_breccia_%28Early_Permian%2C_~280_Ma%3B_Terny_Impact_Crater%2C_Ukraine%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 364,
+   "license": "CC BY 2.0",
+   "artist": "James St. John",
+   "page": "https://commons.wikimedia.org/wiki/File:Impact_breccia_(Early_Permian,_~280_Ma;_Terny_Impact_Crater,_Ukraine)_2.jpg",
+   "desc": "Impact breccia (Early Permian, ~280 Ma; Terny Impact Crater, Ukraine) 2 — Impact breccia from the Permian of Ukraine. (cut surface) Impact breccias are poorly-sorted rocks having angular coarse grains. They form duing impact events - asteroids from space colli"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1965,
+   "unit": "Sol",
+   "label": "יום מאדימי"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "breccia outcrop",
+   "box": [
+    40,
+    5,
+    960,
+    990
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/",
+ "pron_wer": 0.062,
+ "angle": 0,
+ "source": {
+  "title": "A Journey to the Depths of Ancient Mars?",
+  "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T09:58:50Z",
+ "trimmed": true
+}
