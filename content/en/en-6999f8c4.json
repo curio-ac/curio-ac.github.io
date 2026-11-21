@@ -1,0 +1,416 @@
+{
+ "id": "en-6999f8c4",
+ "lang": "en",
+ "title": "Rebel Battery Harasses Union Shipping",
+ "cat": "history",
+ "emoji": "🧨",
+ "sentences": [
+  "A rebel battery harassed Union shipping!",
+  "Captain Westley F. Roberts formed the unit in Arkansas in September 1862.",
+  "They packed 2 12-pounder rifles and 2 6-pounder smoothbores.",
+  "The unit fought in the Battle of Prairie Grove on December 7.",
+  "Lieutenant Samuel T. Ruffner took over after Roberts resigned in Little Rock.",
+  "They fired back as the rear guard during the Confederate retreat."
+ ],
+ "tim": {
+  "w": [
+   [
+    "A",
+    0.12,
+    0.12
+   ],
+   [
+    "rebel",
+    0.12,
+    0.36
+   ],
+   [
+    "battery",
+    0.36,
+    0.88
+   ],
+   [
+    "harassed",
+    0.88,
+    1.66
+   ],
+   [
+    "Union",
+    1.66,
+    1.82
+   ],
+   [
+    "shipping!",
+    1.82,
+    2.2
+   ],
+   [
+    "Captain",
+    2.98,
+    3.16
+   ],
+   [
+    "Westley",
+    3.16,
+    3.74
+   ],
+   [
+    "F.",
+    3.74,
+    4.18
+   ],
+   [
+    "Roberts",
+    4.18,
+    4.42
+   ],
+   [
+    "formed",
+    4.48,
+    4.84
+   ],
+   [
+    "the",
+    4.84,
+    5.04
+   ],
+   [
+    "unit",
+    5.04,
+    5.28
+   ],
+   [
+    "in",
+    5.28,
+    5.46
+   ],
+   [
+    "Arkansas",
+    5.46,
+    5.88
+   ],
+   [
+    "in",
+    5.88,
+    6.32
+   ],
+   [
+    "September",
+    6.32,
+    6.6
+   ],
+   [
+    "1862.",
+    6.89,
+    7.84
+   ],
+   [
+    "They",
+    8.46,
+    8.54
+   ],
+   [
+    "packed",
+    8.54,
+    8.74
+   ],
+   [
+    "2",
+    8.92,
+    9.12
+   ],
+   [
+    "12-pounder",
+    9.12,
+    9.94
+   ],
+   [
+    "rifles",
+    9.94,
+    10.2
+   ],
+   [
+    "and",
+    10.22,
+    10.6
+   ],
+   [
+    "2",
+    10.6,
+    10.84
+   ],
+   [
+    "6-pounder",
+    10.84,
+    11.52
+   ],
+   [
+    "smoothbores.",
+    11.52,
+    12.06
+   ],
+   [
+    "The",
+    12.84,
+    12.9
+   ],
+   [
+    "unit",
+    12.9,
+    13.12
+   ],
+   [
+    "fought",
+    13.12,
+    13.38
+   ],
+   [
+    "in",
+    13.38,
+    13.56
+   ],
+   [
+    "the",
+    13.56,
+    13.64
+   ],
+   [
+    "Battle",
+    13.64,
+    13.86
+   ],
+   [
+    "of",
+    13.86,
+    14.02
+   ],
+   [
+    "Prairie",
+    14.24,
+    14.44
+   ],
+   [
+    "Grove",
+    14.44,
+    14.76
+   ],
+   [
+    "on",
+    14.76,
+    15.04
+   ],
+   [
+    "December",
+    15.04,
+    15.24
+   ],
+   [
+    "7.",
+    15.24,
+    15.66
+   ],
+   [
+    "Lieutenant",
+    16.4,
+    16.62
+   ],
+   [
+    "Samuel",
+    16.62,
+    17.08
+   ],
+   [
+    "T.",
+    17.08,
+    17.64
+   ],
+   [
+    "Ruffner",
+    17.64,
+    17.92
+   ],
+   [
+    "took",
+    17.92,
+    18.14
+   ],
+   [
+    "over",
+    18.14,
+    18.42
+   ],
+   [
+    "after",
+    18.54,
+    18.64
+   ],
+   [
+    "Roberts",
+    18.64,
+    18.98
+   ],
+   [
+    "resigned",
+    19.06,
+    19.38
+   ],
+   [
+    "in",
+    19.38,
+    19.58
+   ],
+   [
+    "Little",
+    19.58,
+    19.76
+   ],
+   [
+    "Rock.",
+    19.76,
+    19.94
+   ],
+   [
+    "They",
+    20.68,
+    20.76
+   ],
+   [
+    "fired",
+    20.76,
+    21.1
+   ],
+   [
+    "back",
+    21.1,
+    21.36
+   ],
+   [
+    "as",
+    21.36,
+    21.56
+   ],
+   [
+    "the",
+    21.56,
+    21.7
+   ],
+   [
+    "rear",
+    21.7,
+    21.88
+   ],
+   [
+    "guard",
+    21.88,
+    22.22
+   ],
+   [
+    "during",
+    22.22,
+    22.5
+   ],
+   [
+    "the",
+    22.5,
+    22.62
+   ],
+   [
+    "Confederate",
+    22.62,
+    22.96
+   ],
+   [
+    "retreat.",
+    22.96,
+    23.06
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   27,
+   39,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Attack_of_the_Federal_Iron-Clads_on_Fort_Sumter_and_the_Rebel_Batteries_commanding_the_entrance_to_Charleston_Harbor%2C_on_the_7th_of_April%2C_1863_-_NYIN_1863.jpg/960px-Attack_of_the_Federal_Iron-Clads_on_Fort_Sumter_and_the_Rebel_Batteries_commanding_the_entrance_to_Charleston_Harbor%2C_on_the_7th_of_April%2C_1863_-_NYIN_1863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 531,
+   "license": "Public domain",
+   "artist": "New York Illustrated News staff",
+   "page": "https://commons.wikimedia.org/wiki/File:Attack_of_the_Federal_Iron-Clads_on_Fort_Sumter_and_the_Rebel_Batteries_commanding_the_entrance_to_Charleston_Harbor,_on_the_7th_of_April,_1863_-_NYIN_1863.jpg",
+   "desc": "Attack of the Federal Iron-Clads on Fort Sumter and the Rebel Batteries commanding the entrance to Charleston Harbor, on the 7th of April, 1863 - NYIN 1863 — The Attack of the Federal Iron-Clads on Fort Sumter and the Rebel Batteries Commanding the Entrance to"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/6_Pounder_Smoothbore_Gun_image_3.jpg/960px-6_Pounder_Smoothbore_Gun_image_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "DrStew82",
+   "page": "https://commons.wikimedia.org/wiki/File:6_Pounder_Smoothbore_Gun_image_3.jpg",
+   "desc": "6 Pounder Smoothbore Gun image 3 — Model 1841 6-pounder smoothbore gun on display outside the Chickamauga Battlefield Visitors Center."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/PrairieGroveMap.jpg/960px-PrairieGroveMap.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "US War Department, 1895",
+   "page": "https://commons.wikimedia.org/wiki/File:PrairieGroveMap.jpg",
+   "desc": "PrairieGroveMap — Map of Northwestern Arkansas during American Civil War"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1862
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "guns",
+   "label": "12-pounder rifles"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q98099129",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "1st Missouri Field Battery",
+  "url": "https://en.wikipedia.org/wiki/1st_Missouri_Field_Battery",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T03:23:20Z",
+ "trimmed": true
+}

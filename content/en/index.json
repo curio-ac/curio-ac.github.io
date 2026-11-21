@@ -321,7 +321,8 @@
   "California State Route 78",
   "Nick Adenhart",
   "British logistics in the Western Allied invasion of Germany",
-  "Chew Stoke"
+  "Chew Stoke",
+  "nasa:1338619"
  ],
  "rejected": [
   "Chameleon",
@@ -1451,6 +1452,9 @@
   ],
   "Chew Stoke": [
    "Hidden English Village Gem: Only 1038 people live in Chew Stoke!"
+  ],
+  "nasa:1338619": [
+   "NASA's New Space Farming Plan: NASA is funding 12 new space experiments."
   ]
  },
  "exhausted": []
