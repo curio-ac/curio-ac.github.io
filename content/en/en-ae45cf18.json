@@ -1,0 +1,278 @@
+{
+ "id": "en-ae45cf18",
+ "lang": "en",
+ "title": "Bath's French Cooking Secret",
+ "cat": "history",
+ "emoji": "🍳",
+ "sentences": [
+  "She cooked in Bath for over 30 years.",
+  "She worked as a professional cook.",
+  "Her massive book followed French nouvelle cuisine.",
+  "She cleverly improved recipes from other authors.",
+  "The 1,000-page work waited until 1996 for a reprint."
+ ],
+ "tim": {
+  "w": [
+   [
+    "She",
+    0.18,
+    0.18
+   ],
+   [
+    "cooked",
+    0.18,
+    0.44
+   ],
+   [
+    "in",
+    0.44,
+    0.64
+   ],
+   [
+    "Bath",
+    0.64,
+    0.92
+   ],
+   [
+    "for",
+    0.92,
+    1.24
+   ],
+   [
+    "over",
+    1.24,
+    1.46
+   ],
+   [
+    "30",
+    1.46,
+    1.9
+   ],
+   [
+    "years.",
+    1.9,
+    2.28
+   ],
+   [
+    "She",
+    2.84,
+    2.94
+   ],
+   [
+    "worked",
+    2.94,
+    3.2
+   ],
+   [
+    "as",
+    3.2,
+    3.42
+   ],
+   [
+    "a",
+    3.42,
+    3.5
+   ],
+   [
+    "professional",
+    3.5,
+    3.84
+   ],
+   [
+    "cook.",
+    3.84,
+    4.24
+   ],
+   [
+    "Her",
+    4.94,
+    5.04
+   ],
+   [
+    "massive",
+    5.04,
+    5.5
+   ],
+   [
+    "book",
+    5.5,
+    5.84
+   ],
+   [
+    "followed",
+    6.1,
+    6.3
+   ],
+   [
+    "French",
+    6.3,
+    6.62
+   ],
+   [
+    "nouvelle",
+    6.62,
+    7.12
+   ],
+   [
+    "cuisine.",
+    7.12,
+    7.58
+   ],
+   [
+    "She",
+    8.24,
+    8.32
+   ],
+   [
+    "cleverly",
+    8.54,
+    8.86
+   ],
+   [
+    "improved",
+    8.86,
+    9.12
+   ],
+   [
+    "recipes",
+    9.12,
+    9.68
+   ],
+   [
+    "from",
+    9.88,
+    9.98
+   ],
+   [
+    "other",
+    9.98,
+    10.16
+   ],
+   [
+    "authors.",
+    10.16,
+    10.4
+   ],
+   [
+    "The",
+    11.24,
+    11.34
+   ],
+   [
+    "1,000-page",
+    11.34,
+    12.38
+   ],
+   [
+    "work",
+    12.38,
+    12.76
+   ],
+   [
+    "waited",
+    12.76,
+    13.14
+   ],
+   [
+    "until",
+    13.14,
+    13.44
+   ],
+   [
+    "1996",
+    13.44,
+    14.26
+   ],
+   [
+    "for",
+    14.26,
+    14.94
+   ],
+   [
+    "a",
+    14.94,
+    15.06
+   ],
+   [
+    "reprint.",
+    15.06,
+    15.28
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   14,
+   21,
+   28
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg/960px-Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 627,
+   "license": "CC BY 2.5",
+   "artist": "Diliff",
+   "page": "https://commons.wikimedia.org/wiki/File:Roman_Baths_in_Bath_Spa,_England_-_July_2006.jpg",
+   "desc": "Roman Baths in Bath Spa, England - July 2006 — The Roman Baths (Thermae) of Bath, England. This is a 6 segment panorama taken by myself with a Canon 5D and 24-105mm f/4L IS lens."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cooks_050918_154402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 687,
+   "license": "CC BY-SA 3.0",
+   "artist": "David Monniaux",
+   "page": "https://commons.wikimedia.org/wiki/File:Cooks_050918_154402.jpg",
+   "desc": "Cooks 050918 154402 — Cooks being trained at the École supérieure de cuisine française in Paris"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1758,
+   "unit": "year",
+   "label": "book form"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1996,
+   "unit": "year",
+   "label": "reprint"
+  }
+ ],
+ "geo": null,
+ "qid": "Q18819642",
+ "pron_wer": 0.0,
+ "angle": 1,
+ "source": {
+  "title": "Martha Bradley",
+  "url": "https://en.wikipedia.org/wiki/Martha_Bradley",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T00:35:13Z",
+ "trimmed": true
+}
