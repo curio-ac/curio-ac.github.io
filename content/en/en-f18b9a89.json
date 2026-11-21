@@ -1,0 +1,351 @@
+{
+ "id": "en-f18b9a89",
+ "lang": "en",
+ "title": "Oregon's Boring Volcanoes",
+ "cat": "geography",
+ "emoji": "🌋",
+ "sentences": [
+  "Portland sits near an active volcanic field.",
+  "The Boring Lava Field covers 1,500 square miles.",
+  "It features cinder cones and small shield volcanoes.",
+  "Volcanic activity started here 2.7 million years ago.",
+  "The last eruption happened 57,000 years ago.",
+  "While individual vents are extinct, the field itself is not."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Portland",
+    0.35,
+    0.35
+   ],
+   [
+    "sits",
+    0.35,
+    0.61
+   ],
+   [
+    "near",
+    0.61,
+    0.83
+   ],
+   [
+    "an",
+    0.83,
+    0.93
+   ],
+   [
+    "active",
+    0.93,
+    1.33
+   ],
+   [
+    "volcanic",
+    1.33,
+    1.73
+   ],
+   [
+    "field.",
+    1.73,
+    1.91
+   ],
+   [
+    "The",
+    2.81,
+    2.83
+   ],
+   [
+    "Boring",
+    2.83,
+    3.07
+   ],
+   [
+    "Lava",
+    3.07,
+    3.41
+   ],
+   [
+    "Field",
+    3.41,
+    3.69
+   ],
+   [
+    "covers",
+    3.69,
+    3.93
+   ],
+   [
+    "1,500",
+    3.93,
+    4.63
+   ],
+   [
+    "square",
+    4.63,
+    4.89
+   ],
+   [
+    "miles.",
+    4.89,
+    5.23
+   ],
+   [
+    "It",
+    5.79,
+    5.85
+   ],
+   [
+    "features",
+    5.89,
+    6.09
+   ],
+   [
+    "cinder",
+    6.11,
+    6.41
+   ],
+   [
+    "cones",
+    6.41,
+    6.71
+   ],
+   [
+    "and",
+    6.71,
+    7.11
+   ],
+   [
+    "small",
+    7.11,
+    7.37
+   ],
+   [
+    "shield",
+    7.37,
+    7.57
+   ],
+   [
+    "volcanoes.",
+    7.57,
+    8.05
+   ],
+   [
+    "Volcanic",
+    8.99,
+    9.21
+   ],
+   [
+    "activity",
+    9.21,
+    9.45
+   ],
+   [
+    "started",
+    9.45,
+    9.83
+   ],
+   [
+    "here",
+    9.83,
+    10.13
+   ],
+   [
+    "2.7",
+    10.13,
+    10.83
+   ],
+   [
+    "million",
+    10.83,
+    11.11
+   ],
+   [
+    "years",
+    11.11,
+    11.37
+   ],
+   [
+    "ago.",
+    11.37,
+    11.65
+   ],
+   [
+    "The",
+    12.25,
+    12.29
+   ],
+   [
+    "last",
+    12.29,
+    12.51
+   ],
+   [
+    "eruption",
+    12.51,
+    12.83
+   ],
+   [
+    "happened",
+    12.85,
+    13.25
+   ],
+   [
+    "57,000",
+    13.59,
+    14.21
+   ],
+   [
+    "years",
+    14.21,
+    14.39
+   ],
+   [
+    "ago.",
+    14.39,
+    15.19
+   ],
+   [
+    "While",
+    15.33,
+    15.41
+   ],
+   [
+    "individual",
+    15.41,
+    15.77
+   ],
+   [
+    "vents",
+    15.77,
+    16.11
+   ],
+   [
+    "are",
+    16.11,
+    16.29
+   ],
+   [
+    "extinct,",
+    16.29,
+    16.75
+   ],
+   [
+    "the",
+    17.13,
+    17.23
+   ],
+   [
+    "field",
+    17.33,
+    17.45
+   ],
+   [
+    "itself",
+    17.45,
+    17.81
+   ],
+   [
+    "is",
+    17.81,
+    18.13
+   ],
+   [
+    "not.",
+    18.13,
+    18.39
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   31,
+   38
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Boring_lava_allen_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 835,
+   "license": "Public domain",
+   "artist": "Lyn Topinka of USGS/Cascades Volcano Observatory; modified from: Allen, 1975, Vo",
+   "page": "https://commons.wikimedia.org/wiki/File:Boring_lava_allen_map.png",
+   "desc": "Boring lava allen map — Map of the Boring Lava Field in Oregon and southwest Washington Legend: 1. Green Mountain 2. Brunner Hill (2 vents) 3. Prune Hill (West) 4. Prune Hill (East) 5. Mount Norway (2 vents) 6. Nochol's Hill 7. Bear Prairie 8. "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Boring_lava_allen_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 835,
+   "license": "Public domain",
+   "artist": "Lyn Topinka of USGS/Cascades Volcano Observatory; modified from: Allen, 1975, Vo",
+   "page": "https://commons.wikimedia.org/wiki/File:Boring_lava_allen_map.png",
+   "desc": "Boring lava allen map — Map of the Boring Lava Field in Oregon and southwest Washington Legend: 1. Green Mountain 2. Brunner Hill (2 vents) 3. Prune Hill (West) 4. Prune Hill (East) 5. Mount Norway (2 vents) 6. Nochol's Hill 7. Bear Prairie 8. "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Robertson_core.JPG/960px-Robertson_core.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 2.5",
+   "artist": "Ulmanor at en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Robertson_core.JPG",
+   "desc": "Robertson core — Core sample and geologic timeline permanently displayed along the wall of the eastbound platform of the Washington Park station of the MAX light rail system, in Portland, Oregon."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "map"
+  },
+  {
+   "type": "stat",
+   "value": 1500,
+   "unit": "sq mi",
+   "label": "Boring Lava Field"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 57000,
+   "unit": "years ago",
+   "label": "last eruption"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  45.3,
+  -122.5
+ ],
+ "qid": "Q4945147",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Boring Lava Field",
+  "url": "https://en.wikipedia.org/wiki/Boring_Lava_Field",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:33:49Z",
+ "trimmed": true
+}

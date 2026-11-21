@@ -344,7 +344,8 @@
   "nasa:1320015",
   "1983 World Snooker Championship",
   "2nd Infantry Division (United Kingdom)",
-  "1740 Batavia massacre"
+  "1740 Batavia massacre",
+  "nasa:1440911"
  ],
  "rejected": [
   "Chameleon",
@@ -1549,6 +1550,9 @@
   ],
   "1740 Batavia massacre": [
    "The 1740 Batavia Massacre: At least 10,000 people were massacred in 1740."
+  ],
+  "nasa:1440911": [
+   "Farming on the Moon: NASA is preparing to farm on the Moon."
   ]
  },
  "exhausted": []
