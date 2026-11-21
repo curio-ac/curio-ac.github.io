@@ -1,0 +1,455 @@
+{
+ "id": "en-48389f6e",
+ "lang": "en",
+ "title": "Greenland's Hidden Underground World",
+ "cat": "geography",
+ "emoji": "🧊",
+ "sentences": [
+  "Greenland hides a massive, secret valley network.",
+  "Scientists used ice surface bumps to map bedrock buried under 3 kilometers of ice.",
+  "They discovered 1,943 subglacial valleys, with a third identified for the first time.",
+  "Some valleys stretch hundreds of kilometers further inland than previously thought.",
+  "These deep canyons likely formed from ancient groundwater before the ice sheet even existed.",
+  "Mapping these hidden paths helps predict how Greenland's ice will move in the future."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Greenland",
+    0.22,
+    0.58
+   ],
+   [
+    "hides",
+    0.58,
+    0.86
+   ],
+   [
+    "a",
+    0.86,
+    1.04
+   ],
+   [
+    "massive,",
+    1.04,
+    1.48
+   ],
+   [
+    "secret",
+    1.86,
+    2.1
+   ],
+   [
+    "valley",
+    2.1,
+    2.44
+   ],
+   [
+    "network.",
+    2.44,
+    2.7
+   ],
+   [
+    "Scientists",
+    3.78,
+    3.78
+   ],
+   [
+    "used",
+    3.78,
+    4.24
+   ],
+   [
+    "ice",
+    4.24,
+    4.6
+   ],
+   [
+    "surface",
+    4.6,
+    4.88
+   ],
+   [
+    "bumps",
+    4.88,
+    5.2
+   ],
+   [
+    "to",
+    5.2,
+    5.44
+   ],
+   [
+    "map",
+    5.44,
+    5.64
+   ],
+   [
+    "bedrock",
+    5.64,
+    6.16
+   ],
+   [
+    "buried",
+    6.32,
+    6.48
+   ],
+   [
+    "under",
+    6.48,
+    6.7
+   ],
+   [
+    "3",
+    6.7,
+    7.14
+   ],
+   [
+    "kilometers",
+    7.14,
+    7.5
+   ],
+   [
+    "of",
+    7.5,
+    7.96
+   ],
+   [
+    "ice.",
+    7.96,
+    8.34
+   ],
+   [
+    "They",
+    8.84,
+    8.92
+   ],
+   [
+    "discovered",
+    8.92,
+    9.24
+   ],
+   [
+    "1,943",
+    9.24,
+    11.56
+   ],
+   [
+    "subglacial",
+    11.56,
+    12.34
+   ],
+   [
+    "valleys,",
+    12.34,
+    12.76
+   ],
+   [
+    "with",
+    13.2,
+    13.32
+   ],
+   [
+    "a",
+    13.32,
+    13.48
+   ],
+   [
+    "third",
+    13.54,
+    13.7
+   ],
+   [
+    "identified",
+    13.7,
+    14.2
+   ],
+   [
+    "for",
+    14.2,
+    14.52
+   ],
+   [
+    "the",
+    14.52,
+    14.6
+   ],
+   [
+    "first",
+    14.74,
+    14.88
+   ],
+   [
+    "time.",
+    14.88,
+    15.26
+   ],
+   [
+    "Some",
+    16.0,
+    16.16
+   ],
+   [
+    "valleys",
+    16.16,
+    16.48
+   ],
+   [
+    "stretch",
+    16.48,
+    16.8
+   ],
+   [
+    "hundreds",
+    16.8,
+    17.32
+   ],
+   [
+    "of",
+    17.32,
+    17.56
+   ],
+   [
+    "kilometers",
+    17.56,
+    17.98
+   ],
+   [
+    "further",
+    17.98,
+    18.46
+   ],
+   [
+    "inland",
+    18.46,
+    18.9
+   ],
+   [
+    "than",
+    18.9,
+    19.14
+   ],
+   [
+    "previously",
+    19.14,
+    19.5
+   ],
+   [
+    "thought.",
+    19.5,
+    19.98
+   ],
+   [
+    "These",
+    20.72,
+    20.86
+   ],
+   [
+    "deep",
+    20.86,
+    21.18
+   ],
+   [
+    "canyons",
+    21.32,
+    21.72
+   ],
+   [
+    "likely",
+    21.72,
+    22.02
+   ],
+   [
+    "formed",
+    22.02,
+    22.44
+   ],
+   [
+    "from",
+    22.44,
+    22.68
+   ],
+   [
+    "ancient",
+    22.68,
+    23.1
+   ],
+   [
+    "groundwater",
+    23.1,
+    23.7
+   ],
+   [
+    "before",
+    23.7,
+    24.18
+   ],
+   [
+    "the",
+    24.2,
+    24.44
+   ],
+   [
+    "ice",
+    24.44,
+    24.64
+   ],
+   [
+    "sheet",
+    24.64,
+    24.82
+   ],
+   [
+    "even",
+    24.88,
+    25.04
+   ],
+   [
+    "existed.",
+    25.04,
+    25.56
+   ],
+   [
+    "Mapping",
+    26.34,
+    26.58
+   ],
+   [
+    "these",
+    26.58,
+    26.84
+   ],
+   [
+    "hidden",
+    26.84,
+    27.14
+   ],
+   [
+    "paths",
+    27.14,
+    27.5
+   ],
+   [
+    "helps",
+    27.5,
+    27.8
+   ],
+   [
+    "predict",
+    27.8,
+    28.14
+   ],
+   [
+    "how",
+    28.14,
+    28.38
+   ],
+   [
+    "Greenland's",
+    28.38,
+    28.94
+   ],
+   [
+    "ice",
+    28.94,
+    29.1
+   ],
+   [
+    "will",
+    29.1,
+    29.34
+   ],
+   [
+    "move",
+    29.34,
+    29.6
+   ],
+   [
+    "in",
+    29.6,
+    29.78
+   ],
+   [
+    "the",
+    29.78,
+    29.86
+   ],
+   [
+    "future.",
+    30.63,
+    30.63
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   21,
+   34,
+   45,
+   59
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Uncovering_the_Valleys_Hidden_Below_Greenland%E2%80%99s_Ice_%281398778%29.jpg/960px-Uncovering_the_Valleys_Hidden_Below_Greenland%E2%80%99s_Ice_%281398778%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 924,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Lauren Dauphin, based on data from Chartrand et al.",
+   "page": "https://commons.wikimedia.org/wiki/File:Uncovering_the_Valleys_Hidden_Below_Greenland%E2%80%99s_Ice_(1398778).jpg",
+   "desc": "Uncovering the Valleys Hidden Below Greenland’s Ice (1398778) — A newly developed method for mapping the bedrock beneath Greenland’s ice sheet reveals the island’s hidden topography. Among the most striking finds are long, straight valleys in the west-central "
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  0,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 3,
+   "unit": "km",
+   "label": "ice thickness"
+  },
+  {
+   "type": "stat",
+   "value": 1943,
+   "unit": "valleys",
+   "label": "subglacial valleys"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/",
+ "pron_wer": 0.014,
+ "angle": 0,
+ "source": {
+  "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
+  "url": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T11:37:23Z",
+ "trimmed": true
+}
