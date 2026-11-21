@@ -362,7 +362,8 @@
   "nasa:1387369",
   "Delichon",
   "nasa:1422768",
-  "1987 (What the Fuck Is Going On?)"
+  "1987 (What the Fuck Is Going On?)",
+  "nasa:1496215"
  ],
  "rejected": [
   "Chameleon",
@@ -1625,6 +1626,9 @@
   ],
   "1987 (What the Fuck Is Going On?)": [
    "The Album ABBA Killed: ABBA once forced a band to destroy their album."
+  ],
+  "nasa:1496215": [
+   "Martian Autumn Clouds: Mars has its own beautiful twilight clouds."
   ]
  },
  "exhausted": []
