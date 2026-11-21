@@ -1,0 +1,358 @@
+{
+ "id": "he-c26275c4",
+ "lang": "he",
+ "title": "העימות הגדול בהיסטוריה",
+ "cat": "history",
+ "emoji": "🌍",
+ "sentences": [
+  "מלחמת העולם השנייה גבתה כ-80 מיליון אבדות בנפש.",
+  "היא נחשבת למלחמה הגדולה ביותר בהיסטוריה האנושית.",
+  "הלחימה התפשטה מסין ועד אירופה, אפריקה והאוקיינוסים.",
+  "באירופה המלחמה התחילה ב-1939 עם הפלישה לפולין.",
+  "באסיה הלחימה החלה מוקדם יותר, כבר בשנת 1937.",
+  "לקראת הסוף הוטלו פצצות אטום על הירושימה ונגסאקי."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מלחמת",
+    0.35,
+    0.45
+   ],
+   [
+    "העולם",
+    0.45,
+    0.69
+   ],
+   [
+    "השנייה",
+    0.69,
+    1.19
+   ],
+   [
+    "גבתה",
+    1.19,
+    1.65
+   ],
+   [
+    "כ-80",
+    1.69,
+    2.09
+   ],
+   [
+    "מיליון",
+    2.09,
+    2.57
+   ],
+   [
+    "אבדות",
+    2.57,
+    2.85
+   ],
+   [
+    "בנפש.",
+    2.85,
+    2.95
+   ],
+   [
+    "היא",
+    3.87,
+    3.97
+   ],
+   [
+    "נחשבת",
+    3.97,
+    4.33
+   ],
+   [
+    "למלחמה",
+    4.33,
+    4.85
+   ],
+   [
+    "הגדולה",
+    4.85,
+    5.39
+   ],
+   [
+    "ביותר",
+    5.39,
+    5.83
+   ],
+   [
+    "בהיסטוריה",
+    5.83,
+    6.39
+   ],
+   [
+    "האנושית.",
+    6.39,
+    6.85
+   ],
+   [
+    "הלחימה",
+    7.59,
+    8.05
+   ],
+   [
+    "התפשטה",
+    8.05,
+    8.53
+   ],
+   [
+    "מסין",
+    8.53,
+    9.03
+   ],
+   [
+    "ועד",
+    9.03,
+    9.43
+   ],
+   [
+    "אירופה,",
+    9.43,
+    9.91
+   ],
+   [
+    "אפריקה",
+    10.11,
+    10.63
+   ],
+   [
+    "והאוקיינוסים.",
+    10.63,
+    11.61
+   ],
+   [
+    "באירופה",
+    12.19,
+    12.81
+   ],
+   [
+    "המלחמה",
+    13.01,
+    13.33
+   ],
+   [
+    "התחילה",
+    13.33,
+    13.71
+   ],
+   [
+    "ב-1939",
+    13.71,
+    14.93
+   ],
+   [
+    "עם",
+    14.93,
+    15.55
+   ],
+   [
+    "הפלישה",
+    15.55,
+    15.93
+   ],
+   [
+    "לפולין.",
+    15.93,
+    16.41
+   ],
+   [
+    "באסיה",
+    17.13,
+    17.59
+   ],
+   [
+    "הלחימה",
+    17.81,
+    18.11
+   ],
+   [
+    "החלה",
+    18.11,
+    18.37
+   ],
+   [
+    "מוקדם",
+    18.37,
+    18.79
+   ],
+   [
+    "יותר,",
+    18.79,
+    18.91
+   ],
+   [
+    "כבר",
+    19.55,
+    19.75
+   ],
+   [
+    "בשנת",
+    19.75,
+    20.15
+   ],
+   [
+    "1937.",
+    20.15,
+    21.45
+   ],
+   [
+    "לקראת",
+    22.35,
+    22.53
+   ],
+   [
+    "הסוף",
+    22.53,
+    22.93
+   ],
+   [
+    "הוטלו",
+    23.19,
+    23.29
+   ],
+   [
+    "פצצות",
+    23.29,
+    23.69
+   ],
+   [
+    "אטום",
+    23.69,
+    24.05
+   ],
+   [
+    "על",
+    24.05,
+    24.21
+   ],
+   [
+    "הירושימה",
+    24.21,
+    24.75
+   ],
+   [
+    "ונגסאקי.",
+    24.75,
+    25.27
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   15,
+   22,
+   29,
+   37
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Deadliest_wars.png/960px-Deadliest_wars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 598,
+   "license": "CC BY 4.0",
+   "artist": "Xkdhd4956",
+   "page": "https://commons.wikimedia.org/wiki/File:Deadliest_wars.png",
+   "desc": "Deadliest wars — Seven deadliest wars after 1900. The graphic was created using the Spiral Strip python package. The length of each spiral segment is proportional to the war's duration and its area size to its death toll. The death toll "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/960px-WW2Montage.PNG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 678,
+   "license": "Public domain",
+   "artist": "Oberiko (שיחה · תרומות)",
+   "page": "https://commons.wikimedia.org/wiki/File:WW2Montage.PNG",
+   "desc": "WW2Montage — Montage of World War II"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Map_of_participants_in_World_War_II.png/960px-Map_of_participants_in_World_War_II.png?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 304,
+   "license": "CC BY-SA 3.0",
+   "artist": "Yonghokim, Joaopais + Various (ר' להלן.)",
+   "page": "https://commons.wikimedia.org/wiki/File:Map_of_participants_in_World_War_II.png",
+   "desc": "Map of participants in World War II — מפת העולם עם המשתתפות במלחמת העולם השנייה. ירוק כהה: בעלות הברית לפני המתקפה על פרל הארבור, כולל מושבות וארצות כבושות. ירוק בהיר: מדינות שהצטרפו לבעלות הברית לאחר המתקפה היפנית על פרל הארבור. תכלת: מדינות הציר והמושבות ש"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bundesarchiv_Bild_146-1976-071-36%2C_Polen%2C_an_der_Brahe%2C_deutsche_Panzer.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 488,
+   "license": "CC BY-SA 3.0 de",
+   "artist": "לא ידועUnknown",
+   "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1976-071-36,_Polen,_an_der_Brahe,_deutsche_Panzer.jpg",
+   "desc": "Bundesarchiv Bild 146-1976-071-36, Polen, an der Brahe, deutsche Panzer — \"Poland, on the Brda river.- Panzer soldiers on German Panzer Is and Panzer IIs, along with a medium Schützenpanzer half-track (Sd.Kfz. 251/3; with General Heinz Guderian?); 3 September "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Major_Japanese_drives_in_1937.jpg/960px-Major_Japanese_drives_in_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 554,
+   "license": "Public domain",
+   "artist": "United States Army Center of Military History",
+   "page": "https://commons.wikimedia.org/wiki/File:Major_Japanese_drives_in_1937.jpg",
+   "desc": "Major Japanese drives in 1937 — Chinese territory seized prior to July 1937 and major Japanese drives in 1937"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nagasakibomb.jpg/960px-Nagasakibomb.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 860,
+   "license": "Public domain",
+   "artist": "Charles Levy",
+   "page": "https://commons.wikimedia.org/wiki/File:Nagasakibomb.jpg",
+   "desc": "Nagasakibomb — Mushroom cloud above Nagasaki after atomic bombing on August 9, 1945. Taken from the north west."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 80,
+   "unit": "מיליון",
+   "label": "אבדות בנפש"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1937
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q362",
+ "pron_wer": 0.021,
+ "angle": 0,
+ "source": {
+  "title": "מלחמת העולם השנייה",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%9C%D7%97%D7%9E%D7%AA_%D7%94%D7%A2%D7%95%D7%9C%D7%9D_%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%94",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T12:18:31Z",
+ "trimmed": true
+}
