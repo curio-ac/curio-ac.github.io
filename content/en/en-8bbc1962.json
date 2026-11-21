@@ -1,0 +1,424 @@
+{
+ "id": "en-8bbc1962",
+ "lang": "en",
+ "title": "A Life on Screen",
+ "cat": "history",
+ "emoji": "🎬",
+ "sentences": [
+  "Steve Dodd appeared in movies for 7 decades.",
+  "Before acting, he worked as a stockman and rodeo rider.",
+  "Prominent actor Chips Rafferty gave him his first film roles.",
+  "Dodd served 6 years in the Australian Army during the Korean War.",
+  "He played roles in major films like Gallipoli and The Matrix.",
+  "In 2013, he received the Jimmy Little Lifetime Achievement Award."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Steve",
+    0.3,
+    0.3
+   ],
+   [
+    "Dodd",
+    0.3,
+    0.8
+   ],
+   [
+    "appeared",
+    0.8,
+    0.98
+   ],
+   [
+    "in",
+    0.98,
+    1.22
+   ],
+   [
+    "movies",
+    1.22,
+    1.52
+   ],
+   [
+    "for",
+    1.52,
+    1.86
+   ],
+   [
+    "7",
+    1.86,
+    2.24
+   ],
+   [
+    "decades.",
+    2.24,
+    2.96
+   ],
+   [
+    "Before",
+    3.54,
+    3.72
+   ],
+   [
+    "acting,",
+    3.72,
+    4.38
+   ],
+   [
+    "he",
+    4.54,
+    4.54
+   ],
+   [
+    "worked",
+    4.54,
+    4.74
+   ],
+   [
+    "as",
+    4.74,
+    4.98
+   ],
+   [
+    "a",
+    4.98,
+    5.06
+   ],
+   [
+    "stockman",
+    5.06,
+    5.58
+   ],
+   [
+    "and",
+    5.58,
+    5.82
+   ],
+   [
+    "rodeo",
+    5.82,
+    6.24
+   ],
+   [
+    "rider.",
+    6.24,
+    6.56
+   ],
+   [
+    "Prominent",
+    7.3,
+    7.68
+   ],
+   [
+    "actor",
+    7.68,
+    7.94
+   ],
+   [
+    "Chips",
+    7.98,
+    8.36
+   ],
+   [
+    "Rafferty",
+    8.36,
+    8.9
+   ],
+   [
+    "gave",
+    9.02,
+    9.16
+   ],
+   [
+    "him",
+    9.16,
+    9.38
+   ],
+   [
+    "his",
+    9.38,
+    9.56
+   ],
+   [
+    "first",
+    9.56,
+    9.84
+   ],
+   [
+    "film",
+    9.84,
+    10.16
+   ],
+   [
+    "roles.",
+    10.16,
+    10.58
+   ],
+   [
+    "Dodd",
+    11.28,
+    11.58
+   ],
+   [
+    "served",
+    11.58,
+    11.78
+   ],
+   [
+    "6",
+    11.78,
+    12.22
+   ],
+   [
+    "years",
+    12.22,
+    12.48
+   ],
+   [
+    "in",
+    12.48,
+    12.7
+   ],
+   [
+    "the",
+    12.7,
+    12.78
+   ],
+   [
+    "Australian",
+    12.78,
+    13.12
+   ],
+   [
+    "Army",
+    13.12,
+    13.56
+   ],
+   [
+    "during",
+    13.8,
+    13.9
+   ],
+   [
+    "the",
+    13.9,
+    14.06
+   ],
+   [
+    "Korean",
+    14.06,
+    14.34
+   ],
+   [
+    "War.",
+    14.34,
+    14.54
+   ],
+   [
+    "He",
+    15.44,
+    15.52
+   ],
+   [
+    "played",
+    15.62,
+    15.74
+   ],
+   [
+    "roles",
+    15.74,
+    16.02
+   ],
+   [
+    "in",
+    16.02,
+    16.26
+   ],
+   [
+    "major",
+    16.26,
+    16.56
+   ],
+   [
+    "films",
+    16.56,
+    16.96
+   ],
+   [
+    "like",
+    16.96,
+    17.22
+   ],
+   [
+    "Gallipoli",
+    17.32,
+    17.74
+   ],
+   [
+    "and",
+    17.88,
+    18.02
+   ],
+   [
+    "The",
+    18.04,
+    18.14
+   ],
+   [
+    "Matrix.",
+    18.14,
+    18.7
+   ],
+   [
+    "In",
+    19.42,
+    19.5
+   ],
+   [
+    "2013,",
+    19.5,
+    19.92
+   ],
+   [
+    "he",
+    20.46,
+    20.48
+   ],
+   [
+    "received",
+    20.48,
+    20.86
+   ],
+   [
+    "the",
+    20.86,
+    21.08
+   ],
+   [
+    "Jimmy",
+    21.08,
+    21.32
+   ],
+   [
+    "Little",
+    21.32,
+    21.6
+   ],
+   [
+    "Lifetime",
+    21.6,
+    22.14
+   ],
+   [
+    "Achievement",
+    22.14,
+    22.64
+   ],
+   [
+    "Award.",
+    22.64,
+    22.76
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   28,
+   40,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Johnny_Ashcroft%2C_Col_Atcheson%2C_Gay_Kayler%2C_Steve_Dodd.jpg/960px-Johnny_Ashcroft%2C_Col_Atcheson%2C_Gay_Kayler%2C_Steve_Dodd.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 548,
+   "license": "CC BY-SA 4.0",
+   "artist": "Lynley Joy",
+   "page": "https://commons.wikimedia.org/wiki/File:Johnny_Ashcroft,_Col_Atcheson,_Gay_Kayler,_Steve_Dodd.jpg",
+   "desc": "Johnny Ashcroft, Col Atcheson, Gay Kayler, Steve Dodd — Taken at the world premiere of the Little Boy Lost movie. Johnny Ashcroft wrote the song Little Boy Lost, recorded with Gay Kayler. Steve Dodd was the tracker in the search for Steven Walls in the movie."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Dodd_at_Smoky_Dawson%27s_wild_west_ranch_in_1966.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 797,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Dodd_at_Smoky_Dawson%27s_wild_west_ranch_in_1966.png",
+   "desc": "Dodd at Smoky Dawson's wild west ranch in 1966 — A black and white photograph of Steve Dodd on horseback next to an Aboriginal boy on foot"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Portrait_of_Chips_Rafferty%2C_1940%2C_PXA_1139.jpg/960px-Portrait_of_Chips_Rafferty%2C_1940%2C_PXA_1139.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Chips_Rafferty,_1940,_PXA_1139.jpg",
+   "desc": "Portrait of Chips Rafferty, 1940, PXA 1139 — Portrait of Chips Rafferty on the set of 40,000 Horsemen,1940, produced as film still, PXA 1139"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Steve_Dodd_in_Korea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 510,
+   "license": "Public domain",
+   "artist": "unknown (donor D Thomson)",
+   "page": "https://commons.wikimedia.org/wiki/File:Steve_Dodd_in_Korea.jpg",
+   "desc": "Steve Dodd in Korea — CAMP CASEY, SOUTH KOREA. 1953-03. INFORMAL PORTRAIT OF PRIVATE STEVE DODD, AN ABORIGINAL SERVICEMAN OF 1 BATTALION, THE ROYAL AUSTRALIAN REGIMENT (1RAR), STANDING WITH FELLOW SOLDIERS."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Chips Rafferty",
+   "box": [
+    141,
+    88,
+    935,
+    973
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2013
+  }
+ ],
+ "geo": null,
+ "qid": "Q2985403",
+ "pron_wer": 0.049,
+ "angle": 0,
+ "source": {
+  "title": "Steve Dodd",
+  "url": "https://en.wikipedia.org/wiki/Steve_Dodd",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T14:52:23Z",
+ "trimmed": true
+}
