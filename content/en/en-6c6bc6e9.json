@@ -1,0 +1,435 @@
+{
+ "id": "en-6c6bc6e9",
+ "lang": "en",
+ "title": "Stalin's Wife's Tragic Fate",
+ "cat": "history",
+ "emoji": "💔",
+ "sentences": [
+  "Stalin's wife died by her own hand.",
+  "Nadezhda Alliluyeva married the future Soviet leader when she was just 17 years old.",
+  "Before that, she worked as a secretary for Bolshevik leaders like Vladimir Lenin.",
+  "She later studied synthetic fibers to become an engineer.",
+  "Her health struggled, and she constantly suspected Stalin of being unfaithful.",
+  "After one final argument, she fatally shot herself in 1932."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Stalin's",
+    0.31,
+    0.76
+   ],
+   [
+    "wife",
+    0.78,
+    0.96
+   ],
+   [
+    "died",
+    0.96,
+    1.32
+   ],
+   [
+    "by",
+    1.32,
+    1.62
+   ],
+   [
+    "her",
+    1.74,
+    1.86
+   ],
+   [
+    "own",
+    2.02,
+    2.12
+   ],
+   [
+    "hand.",
+    2.12,
+    2.26
+   ],
+   [
+    "Nadezhda",
+    3.08,
+    3.56
+   ],
+   [
+    "Alliluyeva",
+    3.56,
+    4.2
+   ],
+   [
+    "married",
+    4.2,
+    4.46
+   ],
+   [
+    "the",
+    4.46,
+    4.64
+   ],
+   [
+    "future",
+    4.64,
+    4.88
+   ],
+   [
+    "Soviet",
+    4.88,
+    5.26
+   ],
+   [
+    "leader",
+    5.26,
+    5.62
+   ],
+   [
+    "when",
+    5.72,
+    5.82
+   ],
+   [
+    "she",
+    5.82,
+    5.98
+   ],
+   [
+    "was",
+    5.98,
+    6.1
+   ],
+   [
+    "just",
+    6.1,
+    6.26
+   ],
+   [
+    "17",
+    6.26,
+    6.72
+   ],
+   [
+    "years",
+    6.78,
+    7.0
+   ],
+   [
+    "old.",
+    7.0,
+    7.1
+   ],
+   [
+    "Before",
+    7.9,
+    8.0
+   ],
+   [
+    "that,",
+    8.0,
+    8.42
+   ],
+   [
+    "she",
+    8.56,
+    8.56
+   ],
+   [
+    "worked",
+    8.56,
+    8.72
+   ],
+   [
+    "as",
+    8.72,
+    8.88
+   ],
+   [
+    "a",
+    8.88,
+    8.98
+   ],
+   [
+    "secretary",
+    8.98,
+    9.38
+   ],
+   [
+    "for",
+    9.38,
+    9.7
+   ],
+   [
+    "Bolshevik",
+    9.76,
+    10.14
+   ],
+   [
+    "leaders",
+    10.14,
+    10.44
+   ],
+   [
+    "like",
+    10.44,
+    10.66
+   ],
+   [
+    "Vladimir",
+    10.78,
+    11.06
+   ],
+   [
+    "Lenin.",
+    11.06,
+    11.34
+   ],
+   [
+    "She",
+    12.02,
+    12.12
+   ],
+   [
+    "later",
+    12.12,
+    12.28
+   ],
+   [
+    "studied",
+    12.28,
+    12.66
+   ],
+   [
+    "synthetic",
+    12.66,
+    12.86
+   ],
+   [
+    "fibers",
+    12.86,
+    13.36
+   ],
+   [
+    "to",
+    13.36,
+    13.6
+   ],
+   [
+    "become",
+    13.7,
+    13.8
+   ],
+   [
+    "an",
+    13.8,
+    13.94
+   ],
+   [
+    "engineer.",
+    13.94,
+    14.42
+   ],
+   [
+    "Her",
+    14.8,
+    14.9
+   ],
+   [
+    "health",
+    14.9,
+    15.12
+   ],
+   [
+    "struggled,",
+    15.12,
+    15.67
+   ],
+   [
+    "and",
+    15.82,
+    15.94
+   ],
+   [
+    "she",
+    15.94,
+    16.18
+   ],
+   [
+    "constantly",
+    16.18,
+    16.7
+   ],
+   [
+    "suspected",
+    16.7,
+    17.12
+   ],
+   [
+    "Stalin",
+    17.18,
+    17.56
+   ],
+   [
+    "of",
+    17.58,
+    17.74
+   ],
+   [
+    "being",
+    17.74,
+    17.9
+   ],
+   [
+    "unfaithful.",
+    17.9,
+    18.85
+   ],
+   [
+    "After",
+    19.18,
+    19.28
+   ],
+   [
+    "one",
+    19.28,
+    19.48
+   ],
+   [
+    "final",
+    19.48,
+    19.74
+   ],
+   [
+    "argument,",
+    19.74,
+    20.22
+   ],
+   [
+    "she",
+    20.56,
+    20.66
+   ],
+   [
+    "fatally",
+    20.66,
+    21.06
+   ],
+   [
+    "shot",
+    21.06,
+    21.28
+   ],
+   [
+    "herself",
+    21.28,
+    21.68
+   ],
+   [
+    "in",
+    21.68,
+    21.92
+   ],
+   [
+    "1932.",
+    21.92,
+    22.52
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   21,
+   34,
+   43,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nadezhda_Alliluyeva_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 934,
+   "license": "Public domain",
+   "artist": "Unknown Author",
+   "page": "https://commons.wikimedia.org/wiki/File:Nadezhda_Alliluyeva_1.jpg",
+   "desc": "Nadezhda Alliluyeva 1 — This is a personal portrait photo of Nadezhda Alliluyeva"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Portrait_Monument_of_Vladimir_Lenin.jpg/960px-Portrait_Monument_of_Vladimir_Lenin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC0",
+   "artist": "Yalgin",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_Monument_of_Vladimir_Lenin.jpg",
+   "desc": "Portrait Monument of Vladimir Lenin — The museum's explanation: \"The monument of Lenin was unveiled on 4 November 1981 in Pärnu on the square in front of the building that then served as the Savings Bank. It was the artist's copy of the monument gifted to Ko"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Joseph_Stalin_and_his_wife_Nadezhda_Sergeyevna_Alliluyeva_in_1922.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 463,
+   "license": "CC0",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Joseph_Stalin_and_his_wife_Nadezhda_Sergeyevna_Alliluyeva_in_1922.jpg",
+   "desc": "Joseph Stalin and his wife Nadezhda Sergeyevna Alliluyeva in 1922 — Joseph Stalin and his wife Nadezhda Sergeyevna Alliluyeva on the August 17th 1922 in Sotchi"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Nadezhda_Alliluyeva_Tomb_20160930.jpg/960px-Nadezhda_Alliluyeva_Tomb_20160930.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "BreakdownDiode",
+   "page": "https://commons.wikimedia.org/wiki/File:Nadezhda_Alliluyeva_Tomb_20160930.jpg",
+   "desc": "Nadezhda Alliluyeva Tomb 20160930 — ​位于新圣女公墓的娜杰日达·阿利卢耶娃墓"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 17,
+   "unit": "years old",
+   "label": "married at"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1932
+  }
+ ],
+ "geo": null,
+ "qid": "Q233999",
+ "pron_wer": 0.031,
+ "angle": 0,
+ "source": {
+  "title": "Nadezhda Alliluyeva",
+  "url": "https://en.wikipedia.org/wiki/Nadezhda_Alliluyeva",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T08:15:10Z",
+ "trimmed": true
+}
