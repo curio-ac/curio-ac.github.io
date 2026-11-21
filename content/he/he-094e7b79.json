@@ -1,0 +1,349 @@
+{
+ "id": "he-094e7b79",
+ "lang": "he",
+ "title": "טירה היא לא ארמון",
+ "cat": "history",
+ "emoji": "🏰",
+ "sentences": [
+  "טירה היא לא סתם ארמון מפואר.",
+  "ההבדל העיקרי הוא שהטירה הייתה מבוצרת להגנה.",
+  "הן נבנו במאה ה-9 כדי שאצילים ישלטו בשטח.",
+  "בהתחלה השתמשו רק באדמה ובעץ פשוטים.",
+  "רק מאוחר יותר הוסיפו מגדלים וחומות מאבן.",
+  "כך הפכו הטירות לסמל הכוח של הפאודליזם."
+ ],
+ "tim": {
+  "w": [
+   [
+    "טירה",
+    0,
+    0.4
+   ],
+   [
+    "היא",
+    0.4,
+    0.62
+   ],
+   [
+    "לא",
+    0.62,
+    0.76
+   ],
+   [
+    "סתם",
+    0.76,
+    1.12
+   ],
+   [
+    "ארמון",
+    1.12,
+    1.46
+   ],
+   [
+    "מפואר.",
+    1.46,
+    1.92
+   ],
+   [
+    "ההבדל",
+    2.34,
+    2.68
+   ],
+   [
+    "העיקרי",
+    2.68,
+    3.18
+   ],
+   [
+    "הוא",
+    3.18,
+    3.4
+   ],
+   [
+    "שהטירה",
+    3.4,
+    3.92
+   ],
+   [
+    "הייתה",
+    3.92,
+    4.16
+   ],
+   [
+    "מבוצרת",
+    4.16,
+    4.74
+   ],
+   [
+    "להגנה.",
+    4.74,
+    5.34
+   ],
+   [
+    "הן",
+    5.86,
+    5.98
+   ],
+   [
+    "נבנו",
+    5.98,
+    6.22
+   ],
+   [
+    "במאה",
+    6.22,
+    6.68
+   ],
+   [
+    "ה-9",
+    6.68,
+    6.84
+   ],
+   [
+    "כדי",
+    6.84,
+    7.48
+   ],
+   [
+    "שאצילים",
+    7.48,
+    8.1
+   ],
+   [
+    "ישלטו",
+    8.1,
+    8.54
+   ],
+   [
+    "בשטח.",
+    8.54,
+    8.88
+   ],
+   [
+    "בהתחלה",
+    9.62,
+    10.0
+   ],
+   [
+    "השתמשו",
+    10.0,
+    10.5
+   ],
+   [
+    "רק",
+    10.5,
+    10.64
+   ],
+   [
+    "באדמה",
+    10.64,
+    11.28
+   ],
+   [
+    "ובעץ",
+    11.28,
+    11.88
+   ],
+   [
+    "פשוטים.",
+    11.88,
+    12.36
+   ],
+   [
+    "רק",
+    12.86,
+    13.0
+   ],
+   [
+    "מאוחר",
+    13.08,
+    13.48
+   ],
+   [
+    "יותר",
+    13.48,
+    13.72
+   ],
+   [
+    "הוסיפו",
+    13.72,
+    14.22
+   ],
+   [
+    "מגדלים",
+    14.22,
+    14.78
+   ],
+   [
+    "וחומות",
+    14.78,
+    15.4
+   ],
+   [
+    "מאבן.",
+    15.4,
+    15.72
+   ],
+   [
+    "כך",
+    16.48,
+    16.62
+   ],
+   [
+    "הפכו",
+    16.62,
+    16.92
+   ],
+   [
+    "הטירות",
+    16.92,
+    17.36
+   ],
+   [
+    "לסמל",
+    17.36,
+    17.92
+   ],
+   [
+    "הכוח",
+    17.92,
+    18.36
+   ],
+   [
+    "של",
+    18.36,
+    18.56
+   ],
+   [
+    "הפאודליזם.",
+    18.56,
+    19.2
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   21,
+   27,
+   34
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bodiam-castle-10My8-1197.jpg/960px-Bodiam-castle-10My8-1197.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Antony McCallum",
+   "page": "https://commons.wikimedia.org/wiki/File:Bodiam-castle-10My8-1197.jpg",
+   "desc": "Bodiam-castle-10My8-1197 — Bodiam Castle East Sussex England UK"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Beaumaris_aerial_%28cropped%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 523,
+   "license": "OGL v1.0",
+   "artist": "Cadw",
+   "page": "https://commons.wikimedia.org/wiki/File:Beaumaris_aerial_(cropped).jpg",
+   "desc": "Beaumaris aerial (cropped) — Beaumaris Castle"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/B%C3%A4rnau_Geschichtspark_2.JPG/960px-B%C3%A4rnau_Geschichtspark_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "Corradox",
+   "page": "https://commons.wikimedia.org/wiki/File:B%C3%A4rnau_Geschichtspark_2.JPG",
+   "desc": "Bärnau Geschichtspark 2 — History Park Bärnau-Tachov; river Waldnaab and early medieval castle tower"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Rekonstruktion_Motte_Obere_Burg_Euskirchen-Kuchenheim.jpg/960px-Rekonstruktion_Motte_Obere_Burg_Euskirchen-Kuchenheim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 499,
+   "license": "CC BY-SA 3.0 de",
+   "artist": "Daniel Neisser, Wuppertal",
+   "page": "https://commons.wikimedia.org/wiki/File:Rekonstruktion_Motte_Obere_Burg_Euskirchen-Kuchenheim.jpg",
+   "desc": "Rekonstruktion Motte Obere Burg Euskirchen-Kuchenheim — Reconstruction of the motte-and-bailey, a predecessor of the Obere Burg (literally: Upper Castle) in Euskirchen-Kuchenheim, North Rhine-Westphalia. The first castle, a motte-and-bailey, could have looked "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Rochester_Castle_keep_northwest_view.jpg/960px-Rochester_Castle_keep_northwest_view.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY-SA 4.0",
+   "artist": "Prioryman",
+   "page": "https://commons.wikimedia.org/wiki/File:Rochester_Castle_keep_northwest_view.jpg",
+   "desc": "Rochester Castle keep northwest view — Rochester Castle keep, northwest view"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Krak_des_chevaliers15%28js%29.jpg/960px-Krak_des_chevaliers15%28js%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 472,
+   "license": "CC BY-SA 3.0",
+   "artist": "Jerzy Strzelecki",
+   "page": "https://commons.wikimedia.org/wiki/File:Krak_des_chevaliers15(js).jpg",
+   "desc": "Krak des chevaliers15(js) — Krak des Chevaliers"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "fortification walls",
+   "box": [
+    131,
+    128,
+    813,
+    856
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 9
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "stone tower",
+   "box": [
+    183,
+    501,
+    557,
+    571
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q23413",
+ "pron_wer": 0.071,
+ "angle": 0,
+ "source": {
+  "title": "טירה",
+  "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%94",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T14:28:13Z",
+ "trimmed": true
+}
