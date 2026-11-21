@@ -1,0 +1,459 @@
+{
+ "id": "en-f589e805",
+ "lang": "en",
+ "title": "India's Historic Chess Olympiad",
+ "cat": "history",
+ "emoji": "♟️",
+ "sentences": [
+  "India hosted the 44th Chess Olympiad in 2022.",
+  "The event ran from 28 July to 9 August in Chennai.",
+  "It was originally planned for Russia, but moved due to the pandemic and the invasion of Ukraine.",
+  "A total of 1737 players participated across the Open and Women's events.",
+  "Both sections set brand new records for team participation.",
+  "This marked the very first time the Chess Olympiad took place in India."
+ ],
+ "tim": {
+  "w": [
+   [
+    "India",
+    0.28,
+    0.36
+   ],
+   [
+    "hosted",
+    0.36,
+    0.7
+   ],
+   [
+    "the",
+    0.7,
+    0.88
+   ],
+   [
+    "44th",
+    0.9,
+    1.42
+   ],
+   [
+    "Chess",
+    1.42,
+    1.58
+   ],
+   [
+    "Olympiad",
+    1.58,
+    2.0
+   ],
+   [
+    "in",
+    2.0,
+    2.2
+   ],
+   [
+    "2022.",
+    2.2,
+    3.04
+   ],
+   [
+    "The",
+    3.5,
+    3.5
+   ],
+   [
+    "event",
+    3.5,
+    3.68
+   ],
+   [
+    "ran",
+    3.68,
+    3.96
+   ],
+   [
+    "from",
+    3.96,
+    4.16
+   ],
+   [
+    "28",
+    4.16,
+    4.58
+   ],
+   [
+    "July",
+    4.58,
+    4.9
+   ],
+   [
+    "to",
+    4.9,
+    5.18
+   ],
+   [
+    "9",
+    5.18,
+    5.4
+   ],
+   [
+    "August",
+    5.4,
+    5.72
+   ],
+   [
+    "in",
+    5.72,
+    5.96
+   ],
+   [
+    "Chennai.",
+    5.96,
+    6.46
+   ],
+   [
+    "It",
+    6.86,
+    6.92
+   ],
+   [
+    "was",
+    6.92,
+    7.02
+   ],
+   [
+    "originally",
+    7.02,
+    7.32
+   ],
+   [
+    "planned",
+    7.32,
+    7.66
+   ],
+   [
+    "for",
+    7.66,
+    7.86
+   ],
+   [
+    "Russia,",
+    7.86,
+    8.24
+   ],
+   [
+    "but",
+    8.54,
+    8.64
+   ],
+   [
+    "moved",
+    8.64,
+    8.86
+   ],
+   [
+    "due",
+    8.86,
+    9.12
+   ],
+   [
+    "to",
+    9.12,
+    9.22
+   ],
+   [
+    "the",
+    9.22,
+    9.32
+   ],
+   [
+    "pandemic",
+    9.32,
+    9.64
+   ],
+   [
+    "and",
+    9.64,
+    9.96
+   ],
+   [
+    "the",
+    9.96,
+    10.06
+   ],
+   [
+    "invasion",
+    10.06,
+    10.34
+   ],
+   [
+    "of",
+    10.34,
+    10.56
+   ],
+   [
+    "Ukraine.",
+    10.56,
+    11.11
+   ],
+   [
+    "A",
+    11.48,
+    11.56
+   ],
+   [
+    "total",
+    11.56,
+    11.74
+   ],
+   [
+    "of",
+    11.74,
+    11.96
+   ],
+   [
+    "1737",
+    11.96,
+    12.64
+   ],
+   [
+    "players",
+    12.64,
+    13.18
+   ],
+   [
+    "participated",
+    13.18,
+    13.64
+   ],
+   [
+    "across",
+    13.64,
+    14.02
+   ],
+   [
+    "the",
+    14.02,
+    14.28
+   ],
+   [
+    "Open",
+    14.28,
+    14.5
+   ],
+   [
+    "and",
+    14.5,
+    14.66
+   ],
+   [
+    "Women's",
+    14.66,
+    15.0
+   ],
+   [
+    "events.",
+    15.0,
+    15.28
+   ],
+   [
+    "Both",
+    15.8,
+    15.94
+   ],
+   [
+    "sections",
+    15.94,
+    16.28
+   ],
+   [
+    "set",
+    16.28,
+    16.72
+   ],
+   [
+    "brand",
+    16.72,
+    16.94
+   ],
+   [
+    "new",
+    16.94,
+    17.14
+   ],
+   [
+    "records",
+    17.14,
+    17.46
+   ],
+   [
+    "for",
+    17.46,
+    17.64
+   ],
+   [
+    "team",
+    17.64,
+    17.8
+   ],
+   [
+    "participation.",
+    17.8,
+    18.35
+   ],
+   [
+    "This",
+    19.04,
+    19.16
+   ],
+   [
+    "marked",
+    19.16,
+    19.42
+   ],
+   [
+    "the",
+    19.5,
+    19.6
+   ],
+   [
+    "very",
+    19.6,
+    19.8
+   ],
+   [
+    "first",
+    19.8,
+    20.02
+   ],
+   [
+    "time",
+    20.02,
+    20.32
+   ],
+   [
+    "the",
+    20.32,
+    20.46
+   ],
+   [
+    "Chess",
+    20.46,
+    20.68
+   ],
+   [
+    "Olympiad",
+    20.68,
+    21.08
+   ],
+   [
+    "took",
+    21.08,
+    21.24
+   ],
+   [
+    "place",
+    21.24,
+    21.5
+   ],
+   [
+    "in",
+    21.5,
+    21.68
+   ],
+   [
+    "India.",
+    21.68,
+    22.18
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   36,
+   48,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/44th_Chess_Olympiad_2022_stamp_of_India.jpg/960px-44th_Chess_Olympiad_2022_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 538,
+   "license": "GODL-India",
+   "artist": "India Post, Government of India",
+   "page": "https://commons.wikimedia.org/wiki/File:44th_Chess_Olympiad_2022_stamp_of_India.jpg",
+   "desc": "44th Chess Olympiad 2022 stamp of India — 44th FIDE Chess Olympiad, Chennai"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_SE_Island_Grounds_Chennai_Jul25_R16_07915.jpg/960px-Aerial_SE_Island_Grounds_Chennai_Jul25_R16_07915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Timothy A. Gonsalves",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_SE_Island_Grounds_Chennai_Jul25_R16_07915.jpg",
+   "desc": "Aerial SE Island Grounds Chennai Jul25 R16 07915 — Aerial view of Island Grounds from the southeast. Cooum estuary and Marina in the foreground. Central Station centre right. Chennai, Tamil Nadu, India"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/War_in_Ukraine_%282022%29_en.png/960px-War_in_Ukraine_%282022%29_en.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 505,
+   "license": "CC0",
+   "artist": "Homoatrox",
+   "page": "https://commons.wikimedia.org/wiki/File:War_in_Ukraine_(2022)_en.png",
+   "desc": "War in Ukraine (2022) en — full-scale Russo-Ukrainian war – full-scale invasion of Ukraine by Russia starting on 24 February 2022, part of Russo-Ukrainian War [edit]"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  0
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 44,
+   "unit": "th",
+   "label": "Chess Olympiad"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2022
+  },
+  {
+   "type": "stat",
+   "value": 1737,
+   "unit": "players",
+   "label": "total participants"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q97290468",
+ "pron_wer": 0.028,
+ "angle": 0,
+ "source": {
+  "title": "44th Chess Olympiad",
+  "url": "https://en.wikipedia.org/wiki/44th_Chess_Olympiad",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T04:21:31Z",
+ "trimmed": true
+}

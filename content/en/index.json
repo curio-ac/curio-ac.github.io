@@ -325,7 +325,8 @@
   "nasa:1338619",
   "1st Missouri Field Battery",
   "nasa:1487723",
-  "Georgetown Car Barn"
+  "Georgetown Car Barn",
+  "nasa:1499167"
  ],
  "rejected": [
   "Chameleon",
@@ -1468,6 +1469,9 @@
   ],
   "Georgetown Car Barn": [
    "Washington's Historic Georgetown Car Barn: Meet the Georgetown Car Barn!"
+  ],
+  "nasa:1499167": [
+   "NASA's Swift Mission Ends: NASA's legendary Swift space telescope is finally coming down."
   ]
  },
  "exhausted": []
