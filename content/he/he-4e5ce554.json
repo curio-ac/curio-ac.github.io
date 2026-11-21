@@ -1,0 +1,410 @@
+{
+ "id": "he-4e5ce554",
+ "lang": "he",
+ "title": "המסע ההירואי של ג'יימס קיירד",
+ "cat": "history",
+ "emoji": "⛵",
+ "sentences": [
+  "סירת הצלה קטנה חצתה 1,440 קילומטרים באוקיינוס.",
+  "היא נקראה ג'יימס קיירד על שם פילנתרופ שמימן את המשלחת.",
+  "סר ארנסט שקלטון וחמישה מעמיתיו יצאו למסע ב-1916.",
+  "הם ניסו לחלץ חברים שנתקעו באי הפיל לאחר טביעת האנדיורנס.",
+  "נגר האונייה הארי מקניש חיזק אותה לפני היציאה למים הסוערים.",
+  "היסטוריונים רואים במסע הזה אחד משיטי הסירה הגדולים בהיסטוריה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "סירת",
+    0.06,
+    0.42
+   ],
+   [
+    "הצלה",
+    0.52,
+    0.78
+   ],
+   [
+    "קטנה",
+    0.78,
+    1.26
+   ],
+   [
+    "חצתה",
+    1.26,
+    2.02
+   ],
+   [
+    "1,440",
+    2.14,
+    3.2
+   ],
+   [
+    "קילומטרים",
+    3.2,
+    4.24
+   ],
+   [
+    "באוקיינוס.",
+    4.24,
+    4.9
+   ],
+   [
+    "היא",
+    5.6,
+    5.62
+   ],
+   [
+    "נקראה",
+    5.62,
+    6.02
+   ],
+   [
+    "ג'יימס",
+    6.02,
+    6.48
+   ],
+   [
+    "קיירד",
+    6.62,
+    6.94
+   ],
+   [
+    "על",
+    6.94,
+    7.32
+   ],
+   [
+    "שם",
+    7.32,
+    7.52
+   ],
+   [
+    "פילנתרופ",
+    7.52,
+    8.1
+   ],
+   [
+    "שמימן",
+    8.1,
+    8.68
+   ],
+   [
+    "את",
+    8.68,
+    8.78
+   ],
+   [
+    "המשלחת.",
+    8.78,
+    9.24
+   ],
+   [
+    "סר",
+    10.1,
+    10.24
+   ],
+   [
+    "ארנסט",
+    10.24,
+    10.76
+   ],
+   [
+    "שקלטון",
+    10.76,
+    11.26
+   ],
+   [
+    "וחמישה",
+    11.26,
+    11.92
+   ],
+   [
+    "מעמיתיו",
+    11.92,
+    12.48
+   ],
+   [
+    "יצאו",
+    12.48,
+    13.1
+   ],
+   [
+    "למסע",
+    13.1,
+    13.56
+   ],
+   [
+    "ב-1916.",
+    13.56,
+    14.96
+   ],
+   [
+    "הם",
+    15.82,
+    15.84
+   ],
+   [
+    "ניסו",
+    15.84,
+    16.12
+   ],
+   [
+    "לחלץ",
+    16.12,
+    16.5
+   ],
+   [
+    "חברים",
+    16.5,
+    16.86
+   ],
+   [
+    "שנתקעו",
+    16.86,
+    17.64
+   ],
+   [
+    "באי",
+    17.64,
+    17.92
+   ],
+   [
+    "הפיל",
+    17.92,
+    18.34
+   ],
+   [
+    "לאחר",
+    18.34,
+    18.9
+   ],
+   [
+    "טביעת",
+    18.9,
+    19.34
+   ],
+   [
+    "האנדיורנס.",
+    19.34,
+    19.78
+   ],
+   [
+    "נגר",
+    20.68,
+    20.98
+   ],
+   [
+    "האונייה",
+    20.98,
+    21.48
+   ],
+   [
+    "הארי",
+    21.48,
+    21.92
+   ],
+   [
+    "מקניש",
+    21.92,
+    22.38
+   ],
+   [
+    "חיזק",
+    22.38,
+    23.04
+   ],
+   [
+    "אותה",
+    23.14,
+    23.24
+   ],
+   [
+    "לפני",
+    23.24,
+    23.5
+   ],
+   [
+    "היציאה",
+    23.5,
+    23.98
+   ],
+   [
+    "למים",
+    23.98,
+    24.28
+   ],
+   [
+    "הסוערים.",
+    24.28,
+    24.62
+   ],
+   [
+    "היסטוריונים",
+    25.48,
+    25.92
+   ],
+   [
+    "רואים",
+    25.92,
+    26.32
+   ],
+   [
+    "במסע",
+    26.32,
+    26.82
+   ],
+   [
+    "הזה",
+    26.82,
+    27.0
+   ],
+   [
+    "אחד",
+    27.0,
+    27.32
+   ],
+   [
+    "משיטי",
+    27.32,
+    27.94
+   ],
+   [
+    "הסירה",
+    27.94,
+    28.42
+   ],
+   [
+    "הגדולים",
+    28.42,
+    29.08
+   ],
+   [
+    "בהיסטוריה.",
+    29.08,
+    29.44
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   25,
+   35,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/AllSafeAllWell.jpg/960px-AllSafeAllWell.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 526,
+   "license": "Public domain",
+   "artist": "פרנק הרלי",
+   "page": "https://commons.wikimedia.org/wiki/File:AllSafeAllWell.jpg",
+   "desc": "AllSafeAllWell — مغادرة قارب جيمس كيرد"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/James_Caird_bow.jpg/960px-James_Caird_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Rumping",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Caird_bow.jpg",
+   "desc": "James Caird bow — The James Caird, from Ernest Shackleton's 1916 open boat journey, now on display at Dulwich College, South London"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ernest_Shackleton%2C_portrait_photo_by_Frank_Hurley%2C_1916.jpg/960px-Ernest_Shackleton%2C_portrait_photo_by_Frank_Hurley%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 884,
+   "license": "Public domain",
+   "artist": "Frank Hurley",
+   "page": "https://commons.wikimedia.org/wiki/File:Ernest_Shackleton,_portrait_photo_by_Frank_Hurley,_1916.jpg",
+   "desc": "Ernest Shackleton, portrait photo by Frank Hurley, 1916 — Portrait photograph, signed by the sitter, of explorer Ernest Shackleton as leader of the Imperial Trans-Antarctic Expedition, taken by the Expedition's official photographer Frank Hurley, probably in S"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Boats_of_Endurance_drawn_up_on_the_beach_of_Elephant_Isle_%282%29.jpg/960px-Boats_of_Endurance_drawn_up_on_the_beach_of_Elephant_Isle_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 460,
+   "license": "Public domain",
+   "artist": "Frank Hurley",
+   "page": "https://commons.wikimedia.org/wiki/File:Boats_of_Endurance_drawn_up_on_the_beach_of_Elephant_Isle_(2).jpg",
+   "desc": "Boats of Endurance drawn up on the beach of Elephant Isle (2) — This shows the three boats of the Endurance after they had landed on Elephant Isle and before the James Caird left on its remarkable voyage to summon help for the rest of the party."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/James_Caird_bow.jpg/960px-James_Caird_bow.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Rumping",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Caird_bow.jpg",
+   "desc": "James Caird bow — The James Caird, from Ernest Shackleton's 1916 open boat journey, now on display at Dulwich College, South London"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/InSightOfOurGoal-NearingSouthGeorgia.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 564,
+   "license": "Public domain",
+   "artist": "Probably George Marston, the expedition's artist",
+   "page": "https://commons.wikimedia.org/wiki/File:InSightOfOurGoal-NearingSouthGeorgia.jpg",
+   "desc": "InSightOfOurGoal-NearingSouthGeorgia — le James Caird près de la Géorgie du sud"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1440,
+   "unit": "ק\"מ",
+   "label": "מרחק המסע"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1916
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "James Caird boat",
+   "box": [
+    548,
+    134,
+    897,
+    712
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2143633",
+ "pron_wer": 0.054,
+ "angle": 0,
+ "source": {
+  "title": "מסע הסירה ג'יימס קיירד",
+  "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A2_%D7%94%D7%A1%D7%99%D7%A8%D7%94_%D7%92%27%D7%99%D7%99%D7%9E%D7%A1_%D7%A7%D7%99%D7%99%D7%A8%D7%93",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:17:39Z",
+ "trimmed": true
+}
