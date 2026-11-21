@@ -1,0 +1,413 @@
+{
+ "id": "en-64e38f25",
+ "lang": "en",
+ "title": "Fire Creates Rare Cloud Cap",
+ "cat": "physics",
+ "emoji": "🔥",
+ "sentences": [
+  "Wildfires can actually create their own clouds.",
+  "Scientists recently captured a rare pileus cloud sitting atop a towering fire cloud.",
+  "This happens when intense heat acts like a mountain, forcing moist air upward.",
+  "As the air rises, it cools and condenses into a smooth, veil-like cap.",
+  "These clouds are short-lived, proving just how extreme the fire's updraft dynamics really are."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Wildfires",
+    0.35,
+    0.69
+   ],
+   [
+    "can",
+    0.69,
+    0.95
+   ],
+   [
+    "actually",
+    1.09,
+    1.39
+   ],
+   [
+    "create",
+    1.39,
+    1.91
+   ],
+   [
+    "their",
+    1.91,
+    2.21
+   ],
+   [
+    "own",
+    2.21,
+    2.43
+   ],
+   [
+    "clouds.",
+    2.43,
+    2.95
+   ],
+   [
+    "Scientists",
+    3.57,
+    3.71
+   ],
+   [
+    "recently",
+    3.71,
+    4.13
+   ],
+   [
+    "captured",
+    4.13,
+    4.49
+   ],
+   [
+    "a",
+    4.49,
+    4.69
+   ],
+   [
+    "rare",
+    4.69,
+    4.81
+   ],
+   [
+    "pileus",
+    4.81,
+    5.31
+   ],
+   [
+    "cloud",
+    5.31,
+    5.57
+   ],
+   [
+    "sitting",
+    5.57,
+    5.79
+   ],
+   [
+    "atop",
+    5.79,
+    6.11
+   ],
+   [
+    "a",
+    6.11,
+    6.27
+   ],
+   [
+    "towering",
+    6.27,
+    6.87
+   ],
+   [
+    "fire",
+    6.87,
+    7.27
+   ],
+   [
+    "cloud.",
+    7.27,
+    7.59
+   ],
+   [
+    "This",
+    7.95,
+    7.99
+   ],
+   [
+    "happens",
+    7.99,
+    8.21
+   ],
+   [
+    "when",
+    8.21,
+    8.41
+   ],
+   [
+    "intense",
+    8.41,
+    8.73
+   ],
+   [
+    "heat",
+    8.73,
+    9.05
+   ],
+   [
+    "acts",
+    9.05,
+    9.37
+   ],
+   [
+    "like",
+    9.37,
+    9.57
+   ],
+   [
+    "a",
+    9.57,
+    9.67
+   ],
+   [
+    "mountain,",
+    9.67,
+    9.85
+   ],
+   [
+    "forcing",
+    10.39,
+    10.57
+   ],
+   [
+    "moist",
+    10.57,
+    10.87
+   ],
+   [
+    "air",
+    10.87,
+    11.09
+   ],
+   [
+    "upward.",
+    11.09,
+    11.84
+   ],
+   [
+    "As",
+    11.91,
+    12.01
+   ],
+   [
+    "the",
+    12.01,
+    12.09
+   ],
+   [
+    "air",
+    12.09,
+    12.19
+   ],
+   [
+    "rises,",
+    12.19,
+    12.44
+   ],
+   [
+    "it",
+    12.77,
+    12.79
+   ],
+   [
+    "cools",
+    12.79,
+    13.19
+   ],
+   [
+    "and",
+    13.19,
+    13.57
+   ],
+   [
+    "condenses",
+    13.57,
+    14.09
+   ],
+   [
+    "into",
+    14.09,
+    14.35
+   ],
+   [
+    "a",
+    14.35,
+    14.53
+   ],
+   [
+    "smooth,",
+    14.53,
+    14.87
+   ],
+   [
+    "veil-like",
+    14.87,
+    15.39
+   ],
+   [
+    "cap.",
+    15.39,
+    15.77
+   ],
+   [
+    "These",
+    16.39,
+    16.45
+   ],
+   [
+    "clouds",
+    16.53,
+    16.65
+   ],
+   [
+    "are",
+    16.65,
+    16.81
+   ],
+   [
+    "short-lived,",
+    16.81,
+    17.21
+   ],
+   [
+    "proving",
+    17.47,
+    17.57
+   ],
+   [
+    "just",
+    17.57,
+    17.79
+   ],
+   [
+    "how",
+    17.85,
+    17.95
+   ],
+   [
+    "extreme",
+    17.95,
+    18.31
+   ],
+   [
+    "the",
+    18.31,
+    18.47
+   ],
+   [
+    "fire's",
+    18.47,
+    18.85
+   ],
+   [
+    "updraft",
+    19.15,
+    19.29
+   ],
+   [
+    "dynamics",
+    19.29,
+    19.77
+   ],
+   [
+    "really",
+    19.77,
+    19.97
+   ],
+   [
+    "are.",
+    19.97,
+    20.33
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   33,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fire_Cloud_with_a_Pileus_on_Top_%281422768_-_master_20260811_lrg%29.jpg/960px-Fire_Cloud_with_a_Pileus_on_Top_%281422768_-_master_20260811_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 582,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Cloud_with_a_Pileus_on_Top_(1422768_-_master_20260811_lrg).jpg",
+   "desc": "Fire Cloud with a Pileus on Top (1422768 - master 20260811 lrg) — A pileus cloud veils part of a pyrocumulus rising from the Sand Creek fire in Montana on August 11, 2026, in images captured by the MASTER (MODIS/ASTER Airborne Simulator) on NASA's ER-2. In the"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Fire_Cloud_with_a_Pileus_on_Top_%281422768_-_master_20260811%29.jpg/960px-Fire_Cloud_with_a_Pileus_on_Top_%281422768_-_master_20260811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 582,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Cloud_with_a_Pileus_on_Top_(1422768_-_master_20260811).jpg",
+   "desc": "Fire Cloud with a Pileus on Top (1422768 - master 20260811) — A pileus cloud veils part of a pyrocumulus rising from the Sand Creek fire in Montana on August 11, 2026, in images captured by the MASTER (MODIS/ASTER Airborne Simulator) on NASA's ER-2. In the fal"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Fire_Cloud_with_a_Pileus_on_Top_%281422768_-_master_20260811_swir%29.jpg/960px-Fire_Cloud_with_a_Pileus_on_Top_%281422768_-_master_20260811_swir%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 582,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Cloud_with_a_Pileus_on_Top_(1422768_-_master_20260811_swir).jpg",
+   "desc": "Fire Cloud with a Pileus on Top (1422768 - master 20260811 swir) — A pileus cloud veils part of a pyrocumulus rising from the Sand Creek fire in Montana on August 11, 2026, in images captured by the MASTER (MODIS/ASTER Airborne Simulator) on NASA's ER-2. In th"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Bushfires_Char_Victoria_%28153746%29.jpg/960px-Bushfires_Char_Victoria_%28153746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory image by Wanmei Liang, using MODIS data from NASA EOSDIS ",
+   "page": "https://commons.wikimedia.org/wiki/File:Bushfires_Char_Victoria_(153746).jpg",
+   "desc": "Bushfires Char Victoria (153746) — Hot, dry conditions and gusty winds fueled several bushfires in southeastern Australia. The MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Aqua satellite captured this image of smoke streaming from the r"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "pileus cloud",
+   "box": [
+    507,
+    762,
+    640,
+    910
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Fire Cloud With a Pileus on Top",
+  "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T16:35:52Z",
+ "trimmed": true
+}
