@@ -336,7 +336,8 @@
   "nasa:1506470",
   "Colley Cibber",
   "Doom (2016 video game)",
-  "nasa:1488059"
+  "nasa:1488059",
+  "Bad Times at the El Royale"
  ],
  "rejected": [
   "Chameleon",
@@ -423,7 +424,8 @@
   "Caloboletus calopus",
   "Cattle egret",
   "Déjà Vu (Beyoncé song)",
-  "Corona Borealis"
+  "Corona Borealis",
+  "1980 World Snooker Championship"
  ],
  "angles": {
   "Blue whale": [
@@ -1513,6 +1515,9 @@
   ],
   "nasa:1488059": [
    "Cosmic Treble Clef Discovered: Astronomers found a cosmic radio wave shaped like a treble clef."
+  ],
+  "Bad Times at the El Royale": [
+   "Bad Times at the El Royale: A hotel built entirely on a studio set!"
   ]
  },
  "exhausted": []

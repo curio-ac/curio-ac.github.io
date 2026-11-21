@@ -1,0 +1,382 @@
+{
+ "id": "en-c5ee5352",
+ "lang": "en",
+ "title": "New Mexico Reservoir Hits Low",
+ "cat": "geography",
+ "emoji": "💧",
+ "sentences": [
+  "New Mexico's largest reservoir hit 1.4 percent capacity!",
+  "Extreme drought and early snowmelt drove Elephant Butte Reservoir to its lowest level since 1971.",
+  "The low water exposed shoreline debris and covered boat ramps in sediment.",
+  "Irrigation water helps farmers grow alfalfa, cotton, and Hatch green chiles.",
+  "Water releases stopped after July 28, allowing the lake to slowly refill."
+ ],
+ "tim": {
+  "w": [
+   [
+    "New",
+    0.16,
+    0.18
+   ],
+   [
+    "Mexico's",
+    0.18,
+    0.8
+   ],
+   [
+    "largest",
+    0.8,
+    1.12
+   ],
+   [
+    "reservoir",
+    1.12,
+    1.64
+   ],
+   [
+    "hit",
+    1.64,
+    1.96
+   ],
+   [
+    "1.4",
+    1.96,
+    2.86
+   ],
+   [
+    "percent",
+    2.86,
+    3.18
+   ],
+   [
+    "capacity!",
+    3.18,
+    3.72
+   ],
+   [
+    "Extreme",
+    4.44,
+    4.76
+   ],
+   [
+    "drought",
+    4.76,
+    5.12
+   ],
+   [
+    "and",
+    5.12,
+    5.34
+   ],
+   [
+    "early",
+    5.34,
+    5.6
+   ],
+   [
+    "snowmelt",
+    5.6,
+    6.14
+   ],
+   [
+    "drove",
+    6.14,
+    6.38
+   ],
+   [
+    "Elephant",
+    6.38,
+    6.82
+   ],
+   [
+    "Butte",
+    6.82,
+    7.1
+   ],
+   [
+    "Reservoir",
+    7.24,
+    7.54
+   ],
+   [
+    "to",
+    7.54,
+    7.72
+   ],
+   [
+    "its",
+    7.72,
+    7.84
+   ],
+   [
+    "lowest",
+    7.98,
+    8.14
+   ],
+   [
+    "level",
+    8.14,
+    8.5
+   ],
+   [
+    "since",
+    8.5,
+    8.76
+   ],
+   [
+    "1971.",
+    8.76,
+    9.88
+   ],
+   [
+    "The",
+    10.48,
+    10.54
+   ],
+   [
+    "low",
+    10.54,
+    10.72
+   ],
+   [
+    "water",
+    10.72,
+    10.96
+   ],
+   [
+    "exposed",
+    10.96,
+    11.36
+   ],
+   [
+    "shoreline",
+    11.36,
+    11.9
+   ],
+   [
+    "debris",
+    11.9,
+    12.14
+   ],
+   [
+    "and",
+    12.14,
+    12.44
+   ],
+   [
+    "covered",
+    12.44,
+    12.72
+   ],
+   [
+    "boat",
+    12.72,
+    13.0
+   ],
+   [
+    "ramps",
+    13.0,
+    13.32
+   ],
+   [
+    "in",
+    13.32,
+    13.42
+   ],
+   [
+    "sediment.",
+    13.42,
+    13.76
+   ],
+   [
+    "Irrigation",
+    14.52,
+    14.92
+   ],
+   [
+    "water",
+    14.92,
+    15.16
+   ],
+   [
+    "helps",
+    15.16,
+    15.44
+   ],
+   [
+    "farmers",
+    15.44,
+    15.72
+   ],
+   [
+    "grow",
+    15.72,
+    16.0
+   ],
+   [
+    "alfalfa,",
+    16.0,
+    16.7
+   ],
+   [
+    "cotton,",
+    16.86,
+    17.26
+   ],
+   [
+    "and",
+    17.34,
+    17.36
+   ],
+   [
+    "Hatch",
+    17.52,
+    17.68
+   ],
+   [
+    "green",
+    17.74,
+    17.84
+   ],
+   [
+    "chiles.",
+    17.84,
+    18.22
+   ],
+   [
+    "Water",
+    18.94,
+    19.1
+   ],
+   [
+    "releases",
+    19.1,
+    19.42
+   ],
+   [
+    "stopped",
+    19.42,
+    19.8
+   ],
+   [
+    "after",
+    19.8,
+    20.18
+   ],
+   [
+    "July",
+    20.18,
+    20.42
+   ],
+   [
+    "28,",
+    20.42,
+    20.82
+   ],
+   [
+    "allowing",
+    21.22,
+    21.42
+   ],
+   [
+    "the",
+    21.42,
+    21.6
+   ],
+   [
+    "lake",
+    21.6,
+    21.8
+   ],
+   [
+    "to",
+    21.8,
+    22.0
+   ],
+   [
+    "slowly",
+    22.0,
+    22.34
+   ],
+   [
+    "refill.",
+    22.34,
+    22.84
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   23,
+   35,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Elephant_Butte_Reservoir_Runs_Low_%281277091_-_volume_chart%29.jpg/960px-Elephant_Butte_Reservoir_Runs_Low_%281277091_-_volume_chart%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 226,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Elephant_Butte_Reservoir_Runs_Low_(1277091_-_volume_chart).jpg",
+   "desc": "Elephant Butte Reservoir Runs Low (1277091 - volume chart) — Water volume data from the Texas Water Development Board shows how the level of Elephant Butte Reservoir has varied from the lake's creation in 1915 to summer 2026."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Elephant_Butte_Reservoir_Runs_Low_%281277091_-_oli2_20260727_triptych_lrg%29.jpg/960px-Elephant_Butte_Reservoir_Runs_Low_%281277091_-_oli2_20260727_triptych_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 402,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory/Michala Garrison",
+   "page": "https://commons.wikimedia.org/wiki/File:Elephant_Butte_Reservoir_Runs_Low_(1277091_-_oli2_20260727_triptych_lrg).jpg",
+   "desc": "Elephant Butte Reservoir Runs Low (1277091 - oli2 20260727 triptych lrg) — NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey and water volume data from the Texas Water Development Board. Story by Lindsey Doer"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1.4,
+   "unit": "%",
+   "label": "capacity"
+  },
+  {
+   "type": "timeline",
+   "year": 1971
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/elephant-butte-reservoir-runs-low/",
+ "pron_wer": 0.05,
+ "angle": 0,
+ "source": {
+  "title": "Elephant Butte Reservoir Runs Low",
+  "url": "https://science.nasa.gov/earth/earth-observatory/elephant-butte-reservoir-runs-low/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T07:41:56Z",
+ "trimmed": true
+}
