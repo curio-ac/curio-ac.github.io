@@ -1,0 +1,506 @@
+{
+ "id": "en-5118c281",
+ "lang": "en",
+ "title": "Hidden English Village Gem",
+ "cat": "geography",
+ "emoji": "🏡",
+ "sentences": [
+  "Only 1038 people live in Chew Stoke!",
+  "The village sits at the northern end of Chew Valley Lake.",
+  "This lake was created in the 1950s.",
+  "A tributary of the River Chew runs through the village.",
+  "The area has a long history with many heritage-listed buildings.",
+  "It is served by just one shop and one working public house.",
+  "The parish is in a region designated as an Area of Outstanding Natural Beauty."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Only",
+    0,
+    0.26
+   ],
+   [
+    "1038",
+    0.26,
+    1.5
+   ],
+   [
+    "people",
+    1.5,
+    2.08
+   ],
+   [
+    "live",
+    2.08,
+    2.4
+   ],
+   [
+    "in",
+    2.4,
+    2.7
+   ],
+   [
+    "Chew",
+    2.7,
+    3.08
+   ],
+   [
+    "Stoke!",
+    3.08,
+    3.4
+   ],
+   [
+    "The",
+    4.04,
+    4.14
+   ],
+   [
+    "village",
+    4.14,
+    4.34
+   ],
+   [
+    "sits",
+    4.34,
+    4.66
+   ],
+   [
+    "at",
+    4.66,
+    4.88
+   ],
+   [
+    "the",
+    4.88,
+    5.0
+   ],
+   [
+    "northern",
+    5.0,
+    5.3
+   ],
+   [
+    "end",
+    5.3,
+    5.68
+   ],
+   [
+    "of",
+    5.68,
+    5.88
+   ],
+   [
+    "Chew",
+    5.96,
+    6.22
+   ],
+   [
+    "Valley",
+    6.22,
+    6.44
+   ],
+   [
+    "Lake.",
+    6.44,
+    6.72
+   ],
+   [
+    "This",
+    7.44,
+    7.6
+   ],
+   [
+    "lake",
+    7.6,
+    7.8
+   ],
+   [
+    "was",
+    7.8,
+    7.96
+   ],
+   [
+    "created",
+    7.96,
+    8.28
+   ],
+   [
+    "in",
+    8.28,
+    8.58
+   ],
+   [
+    "the",
+    8.58,
+    8.68
+   ],
+   [
+    "1950s.",
+    8.68,
+    9.32
+   ],
+   [
+    "A",
+    10.12,
+    10.22
+   ],
+   [
+    "tributary",
+    10.22,
+    10.72
+   ],
+   [
+    "of",
+    10.78,
+    10.98
+   ],
+   [
+    "the",
+    10.98,
+    11.08
+   ],
+   [
+    "River",
+    11.08,
+    11.26
+   ],
+   [
+    "Chew",
+    11.26,
+    11.74
+   ],
+   [
+    "runs",
+    11.74,
+    12.08
+   ],
+   [
+    "through",
+    12.08,
+    12.42
+   ],
+   [
+    "the",
+    12.42,
+    12.58
+   ],
+   [
+    "village.",
+    12.58,
+    12.78
+   ],
+   [
+    "The",
+    13.56,
+    13.66
+   ],
+   [
+    "area",
+    13.66,
+    13.92
+   ],
+   [
+    "has",
+    13.92,
+    14.2
+   ],
+   [
+    "a",
+    14.2,
+    14.32
+   ],
+   [
+    "long",
+    14.34,
+    14.66
+   ],
+   [
+    "history",
+    14.66,
+    15.06
+   ],
+   [
+    "with",
+    15.06,
+    15.44
+   ],
+   [
+    "many",
+    15.48,
+    15.82
+   ],
+   [
+    "heritage-listed",
+    15.82,
+    16.52
+   ],
+   [
+    "buildings.",
+    16.52,
+    16.88
+   ],
+   [
+    "It",
+    17.66,
+    17.76
+   ],
+   [
+    "is",
+    17.76,
+    17.86
+   ],
+   [
+    "served",
+    17.86,
+    18.08
+   ],
+   [
+    "by",
+    18.08,
+    18.3
+   ],
+   [
+    "just",
+    18.3,
+    18.5
+   ],
+   [
+    "one",
+    18.5,
+    18.84
+   ],
+   [
+    "shop",
+    18.84,
+    19.14
+   ],
+   [
+    "and",
+    19.36,
+    19.46
+   ],
+   [
+    "one",
+    19.46,
+    19.78
+   ],
+   [
+    "working",
+    19.78,
+    20.18
+   ],
+   [
+    "public",
+    20.18,
+    20.44
+   ],
+   [
+    "house.",
+    20.44,
+    20.54
+   ],
+   [
+    "The",
+    21.44,
+    21.54
+   ],
+   [
+    "parish",
+    21.54,
+    21.8
+   ],
+   [
+    "is",
+    21.8,
+    22.02
+   ],
+   [
+    "in",
+    22.02,
+    22.12
+   ],
+   [
+    "a",
+    22.12,
+    22.22
+   ],
+   [
+    "region",
+    22.22,
+    22.42
+   ],
+   [
+    "designated",
+    22.42,
+    22.88
+   ],
+   [
+    "as",
+    22.88,
+    23.2
+   ],
+   [
+    "an",
+    23.2,
+    23.32
+   ],
+   [
+    "Area",
+    23.42,
+    23.68
+   ],
+   [
+    "of",
+    23.68,
+    23.9
+   ],
+   [
+    "Outstanding",
+    23.9,
+    24.52
+   ],
+   [
+    "Natural",
+    24.52,
+    24.98
+   ],
+   [
+    "Beauty.",
+    24.98,
+    25.2
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   25,
+   35,
+   45,
+   57
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Chew_Stoke_%2C_Village_Scenery_-_geograph.org.uk_-_6538416.jpg/960px-Chew_Stoke_%2C_Village_Scenery_-_geograph.org.uk_-_6538416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 2.0",
+   "artist": "Lewis Clarke",
+   "page": "https://commons.wikimedia.org/wiki/File:Chew_Stoke_,_Village_Scenery_-_geograph.org.uk_-_6538416.jpg",
+   "desc": "Chew Stoke , Village Scenery - geograph.org.uk - 6538416 — Chew Stoke : Village Scenery"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chew_Valley_Lake_4.jpg/960px-Chew_Valley_Lake_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Adam Cli",
+   "page": "https://commons.wikimedia.org/wiki/File:Chew_Valley_Lake_4.jpg",
+   "desc": "Chew Valley Lake 4 — An aerial view of Chew Valley Lake, in England. The water level is unusually low due to a lack of rain."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Chew_Valley_Lake_-_geograph.org.uk_-_1465151.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 539,
+   "license": "CC BY-SA 2.0",
+   "artist": "Pauline Eccles",
+   "page": "https://commons.wikimedia.org/wiki/File:Chew_Valley_Lake_-_geograph.org.uk_-_1465151.jpg",
+   "desc": "Chew Valley Lake - geograph.org.uk - 1465151 — Chew Valley Lake A reservoir since 1950, the lake provides water for the south Bristol area. There is some recreational use of the lake which is managed by Bristol Water."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Chew_Stoke_ford_-_geograph.org.uk_-_4170946.jpg/960px-Chew_Stoke_ford_-_geograph.org.uk_-_4170946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 533,
+   "license": "CC BY-SA 2.0",
+   "artist": "Neil Owen",
+   "page": "https://commons.wikimedia.org/wiki/File:Chew_Stoke_ford_-_geograph.org.uk_-_4170946.jpg",
+   "desc": "Chew Stoke ford - geograph.org.uk - 4170946 — Chew Stoke ford"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Fairseats.JPG/960px-Fairseats.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 492,
+   "license": "CC BY-SA 3.0",
+   "artist": "Rodw at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Fairseats.JPG",
+   "desc": "Fairseats — Fairseat Farmhouse in Chew Stoke. Taken by Rod Ward 26th April 2006"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/A_new_outlet_for_The_Stoke_-_geograph.org.uk_-_6699036.jpg/960px-A_new_outlet_for_The_Stoke_-_geograph.org.uk_-_6699036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "Neil Owen",
+   "page": "https://commons.wikimedia.org/wiki/File:A_new_outlet_for_The_Stoke_-_geograph.org.uk_-_6699036.jpg",
+   "desc": "A new outlet for The Stoke - geograph.org.uk - 6699036 — A new outlet for The Stoke"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Chewstokevillagescape.JPG/960px-Chewstokevillagescape.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 455,
+   "license": "Public domain",
+   "artist": "Rodw",
+   "page": "https://commons.wikimedia.org/wiki/File:Chewstokevillagescape.JPG",
+   "desc": "Chewstokevillagescape — VillageScape of Chew Stoke, Somerset"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1038,
+   "unit": "people",
+   "label": "Population"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "timeline",
+   "year": 1950
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  51.351,
+  -2.638
+ ],
+ "qid": "Q941696",
+ "pron_wer": 0.042,
+ "angle": 0,
+ "source": {
+  "title": "Chew Stoke",
+  "url": "https://en.wikipedia.org/wiki/Chew_Stoke",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T02:52:34Z",
+ "trimmed": true
+}

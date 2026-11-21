@@ -319,7 +319,8 @@
   "Banksia ericifolia",
   "HMS Courageous (50)",
   "California State Route 78",
-  "Nick Adenhart"
+  "Nick Adenhart",
+  "British logistics in the Western Allied invasion of Germany"
  ],
  "rejected": [
   "Chameleon",
@@ -403,7 +404,8 @@
   "nasa:1472651",
   "nasa:1508615",
   "nasa:1278372",
-  "Caloboletus calopus"
+  "Caloboletus calopus",
+  "Cattle egret"
  ],
  "angles": {
   "Blue whale": [
@@ -1441,6 +1443,9 @@
   ],
   "Nick Adenhart": [
    "Tragic Fate of Nick Adenhart: Killed right after his 2009 baseball start."
+  ],
+  "British logistics in the Western Allied invasion of Germany": [
+   "WWII British Logistics: An invasion advance was delayed 5 weeks."
   ]
  },
  "exhausted": []
