@@ -1,0 +1,434 @@
+{
+ "id": "en-2871d790",
+ "lang": "en",
+ "title": "The Album ABBA Killed",
+ "cat": "history",
+ "emoji": "🎵",
+ "sentences": [
+  "ABBA once forced a band to destroy their album.",
+  "The Justified Ancients of Mu Mu made their debut using tons of unauthorized samples.",
+  "These samples created a provocative backdrop for cryptic, political raps.",
+  "After an ABBA complaint, the band was ordered to destroy unsold copies.",
+  "They dumped the remaining records in unorthodox, public ways.",
+  "Finally, they released a version containing mostly silence."
+ ],
+ "tim": {
+  "w": [
+   [
+    "ABBA",
+    0.35,
+    0.53
+   ],
+   [
+    "once",
+    0.67,
+    0.83
+   ],
+   [
+    "forced",
+    0.83,
+    1.23
+   ],
+   [
+    "a",
+    1.27,
+    1.41
+   ],
+   [
+    "band",
+    1.41,
+    1.73
+   ],
+   [
+    "to",
+    1.73,
+    2.01
+   ],
+   [
+    "destroy",
+    2.01,
+    2.49
+   ],
+   [
+    "their",
+    2.49,
+    2.79
+   ],
+   [
+    "album.",
+    2.79,
+    3.03
+   ],
+   [
+    "The",
+    3.71,
+    3.77
+   ],
+   [
+    "Justified",
+    3.77,
+    4.27
+   ],
+   [
+    "Ancients",
+    4.27,
+    4.73
+   ],
+   [
+    "of",
+    4.73,
+    4.85
+   ],
+   [
+    "Mu",
+    4.89,
+    5.05
+   ],
+   [
+    "Mu",
+    5.05,
+    5.25
+   ],
+   [
+    "made",
+    5.25,
+    5.59
+   ],
+   [
+    "their",
+    5.59,
+    5.77
+   ],
+   [
+    "debut",
+    5.77,
+    6.11
+   ],
+   [
+    "using",
+    6.11,
+    6.55
+   ],
+   [
+    "tons",
+    6.55,
+    7.01
+   ],
+   [
+    "of",
+    7.01,
+    7.37
+   ],
+   [
+    "unauthorized",
+    7.43,
+    8.01
+   ],
+   [
+    "samples.",
+    8.01,
+    8.11
+   ],
+   [
+    "These",
+    8.87,
+    8.95
+   ],
+   [
+    "samples",
+    8.95,
+    9.21
+   ],
+   [
+    "created",
+    9.21,
+    9.57
+   ],
+   [
+    "a",
+    9.57,
+    9.79
+   ],
+   [
+    "provocative",
+    10.05,
+    10.25
+   ],
+   [
+    "backdrop",
+    10.27,
+    10.73
+   ],
+   [
+    "for",
+    10.73,
+    11.09
+   ],
+   [
+    "cryptic,",
+    11.09,
+    11.61
+   ],
+   [
+    "political",
+    11.67,
+    11.93
+   ],
+   [
+    "raps.",
+    11.93,
+    12.27
+   ],
+   [
+    "After",
+    12.77,
+    12.97
+   ],
+   [
+    "an",
+    12.97,
+    13.09
+   ],
+   [
+    "ABBA",
+    13.09,
+    13.39
+   ],
+   [
+    "complaint,",
+    13.39,
+    13.73
+   ],
+   [
+    "the",
+    14.01,
+    14.05
+   ],
+   [
+    "band",
+    14.05,
+    14.23
+   ],
+   [
+    "was",
+    14.23,
+    14.37
+   ],
+   [
+    "ordered",
+    14.37,
+    14.57
+   ],
+   [
+    "to",
+    14.57,
+    14.75
+   ],
+   [
+    "destroy",
+    14.75,
+    15.15
+   ],
+   [
+    "unsold",
+    15.15,
+    15.73
+   ],
+   [
+    "copies.",
+    15.73,
+    15.83
+   ],
+   [
+    "They",
+    16.67,
+    16.75
+   ],
+   [
+    "dumped",
+    16.83,
+    17.01
+   ],
+   [
+    "the",
+    17.01,
+    17.19
+   ],
+   [
+    "remaining",
+    17.19,
+    17.37
+   ],
+   [
+    "records",
+    17.37,
+    17.79
+   ],
+   [
+    "in",
+    17.79,
+    18.07
+   ],
+   [
+    "unorthodox,",
+    18.07,
+    18.52
+   ],
+   [
+    "public",
+    18.99,
+    19.11
+   ],
+   [
+    "ways.",
+    19.11,
+    19.45
+   ],
+   [
+    "Finally,",
+    20.05,
+    20.39
+   ],
+   [
+    "they",
+    20.51,
+    20.57
+   ],
+   [
+    "released",
+    20.57,
+    20.81
+   ],
+   [
+    "a",
+    20.81,
+    20.95
+   ],
+   [
+    "version",
+    20.95,
+    21.15
+   ],
+   [
+    "containing",
+    21.15,
+    21.57
+   ],
+   [
+    "mostly",
+    21.57,
+    22.03
+   ],
+   [
+    "silence.",
+    22.03,
+    22.63
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   23,
+   33,
+   45,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 613,
+   "license": "CC BY-SA 3.0 nl",
+   "artist": "AVRO",
+   "page": "https://commons.wikimedia.org/wiki/File:ABBA_-_TopPop_1974_5.png",
+   "desc": "ABBA - TopPop 1974 5 — ABBA in AVRO's TopPop (Dutch television show) in 1974"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Korg_Electribe_EMX2_Music_Production_Station_%2B_ESX2_Sampler_Music_Production_Station%2C_along_with_Taktile_USB_Controller_Keyboard_-_2015_NAMM_Show.jpg/960px-Korg_Electribe_EMX2_Music_Production_Station_%2B_ESX2_Sampler_Music_Production_Station%2C_along_with_Taktile_USB_Controller_Keyboard_-_2015_NAMM_Show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY 2.0",
+   "artist": "Pete Brown from Gambrills, MD, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Korg_Electribe_EMX2_Music_Production_Station_%2B_ESX2_Sampler_Music_Production_Station,_along_with_Taktile_USB_Controller_Keyboard_-_2015_NAMM_Show.jpg",
+   "desc": "Korg Electribe EMX2 Music Production Station + ESX2 Sampler Music Production Station, along with Taktile USB Controller Keyboard - 2015 NAMM Show — DSC00482"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CPT-Sound-SampleRate-3way-Comparison.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 443,
+   "license": "GPL",
+   "artist": "Audacity - Pluke",
+   "page": "https://commons.wikimedia.org/wiki/File:CPT-Sound-SampleRate-3way-Comparison.png",
+   "desc": "CPT-Sound-SampleRate-3way-Comparison — Comparison of 3 sound samples using 8kHz, 22kHz and 44kHz sample rate. Note the spacing of the data points for each sample"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/12in-Vinyl-LP-Record-Angle.jpg/960px-12in-Vinyl-LP-Record-Angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "Evan-Amos",
+   "page": "https://commons.wikimedia.org/wiki/File:12in-Vinyl-LP-Record-Angle.jpg",
+   "desc": "12in-Vinyl-LP-Record-Angle — An almost-flat view of a 12 in LP vinyl record."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Vinyl_%284643596299%29.jpg/960px-Vinyl_%284643596299%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "CC BY 2.0",
+   "artist": "Matthew Dillon from Hollywood, CA, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Vinyl_(4643596299).jpg",
+   "desc": "Vinyl (4643596299) — Part of what appeared to be a fairly recent dump of old stuff, perhaps from the trailer it was piled next to. Everything was in too good of shape to have been outside in the brutal desert sun for too long."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1987
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "inch",
+   "label": "12-inch single"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1412590",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "1987 (What the Fuck Is Going On?)",
+  "url": "https://en.wikipedia.org/wiki/1987_%28What_the_Fuck_Is_Going_On%3F%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T16:46:40Z",
+ "trimmed": true
+}

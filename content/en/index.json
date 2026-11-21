@@ -360,7 +360,8 @@
   "nasa:1277435",
   "USS Anzio (CVE-57)",
   "nasa:1387369",
-  "Delichon"
+  "Delichon",
+  "nasa:1422768"
  ],
  "rejected": [
   "Chameleon",
@@ -1616,6 +1617,9 @@
   ],
   "Delichon": [
    "Meet the House Martin: These birds have feathers on their toes."
+  ],
+  "nasa:1422768": [
+   "Fire Creates Rare Cloud Cap: Wildfires can actually create their own clouds."
   ]
  },
  "exhausted": []
