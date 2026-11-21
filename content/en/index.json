@@ -326,7 +326,8 @@
   "1st Missouri Field Battery",
   "nasa:1487723",
   "Georgetown Car Barn",
-  "nasa:1499167"
+  "nasa:1499167",
+  "44th Chess Olympiad"
  ],
  "rejected": [
   "Chameleon",
@@ -1472,6 +1473,9 @@
   ],
   "nasa:1499167": [
    "NASA's Swift Mission Ends: NASA's legendary Swift space telescope is finally coming down."
+  ],
+  "44th Chess Olympiad": [
+   "India's Historic Chess Olympiad: India hosted the 44th Chess Olympiad in 2022."
   ]
  },
  "exhausted": []

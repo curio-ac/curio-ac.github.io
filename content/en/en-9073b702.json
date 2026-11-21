@@ -1,0 +1,453 @@
+{
+ "id": "en-9073b702",
+ "lang": "en",
+ "title": "The Car Engine Bird",
+ "cat": "biology",
+ "emoji": "🌵",
+ "sentences": [
+  "It sounds like a stubborn car engine!",
+  "Meet the cactus wren, the largest wren in the US.",
+  "It is the state bird of Arizona.",
+  "These brown birds sport distinct white eyebrows and spots.",
+  "They are poor fliers that forage for food on the ground.",
+  "They meet all their water needs straight from their diet.",
+  "They build nests inside dangerous cacti to hide from predators."
+ ],
+ "tim": {
+  "w": [
+   [
+    "It",
+    0.32,
+    0.32
+   ],
+   [
+    "sounds",
+    0.36,
+    0.54
+   ],
+   [
+    "like",
+    0.54,
+    0.76
+   ],
+   [
+    "a",
+    0.76,
+    0.86
+   ],
+   [
+    "stubborn",
+    0.86,
+    1.12
+   ],
+   [
+    "car",
+    1.12,
+    1.4
+   ],
+   [
+    "engine!",
+    1.4,
+    2.3
+   ],
+   [
+    "Meet",
+    2.34,
+    2.42
+   ],
+   [
+    "the",
+    2.42,
+    2.58
+   ],
+   [
+    "cactus",
+    2.58,
+    2.86
+   ],
+   [
+    "wren,",
+    2.86,
+    3.36
+   ],
+   [
+    "the",
+    3.48,
+    3.5
+   ],
+   [
+    "largest",
+    3.5,
+    3.74
+   ],
+   [
+    "wren",
+    3.74,
+    4.08
+   ],
+   [
+    "in",
+    4.08,
+    4.26
+   ],
+   [
+    "the",
+    4.26,
+    4.36
+   ],
+   [
+    "US.",
+    4.36,
+    4.7
+   ],
+   [
+    "It",
+    5.22,
+    5.32
+   ],
+   [
+    "is",
+    5.32,
+    5.42
+   ],
+   [
+    "the",
+    5.42,
+    5.54
+   ],
+   [
+    "state",
+    5.54,
+    5.74
+   ],
+   [
+    "bird",
+    5.74,
+    5.96
+   ],
+   [
+    "of",
+    5.96,
+    6.12
+   ],
+   [
+    "Arizona.",
+    6.12,
+    6.57
+   ],
+   [
+    "These",
+    7.16,
+    7.32
+   ],
+   [
+    "brown",
+    7.32,
+    7.64
+   ],
+   [
+    "birds",
+    7.64,
+    8.0
+   ],
+   [
+    "sport",
+    8.0,
+    8.22
+   ],
+   [
+    "distinct",
+    8.22,
+    8.56
+   ],
+   [
+    "white",
+    8.56,
+    8.88
+   ],
+   [
+    "eyebrows",
+    8.88,
+    9.22
+   ],
+   [
+    "and",
+    9.22,
+    9.52
+   ],
+   [
+    "spots.",
+    9.52,
+    9.88
+   ],
+   [
+    "They",
+    10.38,
+    10.48
+   ],
+   [
+    "are",
+    10.48,
+    10.58
+   ],
+   [
+    "poor",
+    10.58,
+    10.8
+   ],
+   [
+    "fliers",
+    10.8,
+    11.24
+   ],
+   [
+    "that",
+    11.24,
+    11.42
+   ],
+   [
+    "forage",
+    11.42,
+    11.82
+   ],
+   [
+    "for",
+    11.82,
+    11.94
+   ],
+   [
+    "food",
+    11.94,
+    12.14
+   ],
+   [
+    "on",
+    12.14,
+    12.3
+   ],
+   [
+    "the",
+    12.3,
+    12.4
+   ],
+   [
+    "ground.",
+    12.4,
+    12.5
+   ],
+   [
+    "They",
+    13.12,
+    13.2
+   ],
+   [
+    "meet",
+    13.2,
+    13.36
+   ],
+   [
+    "all",
+    13.36,
+    13.56
+   ],
+   [
+    "their",
+    13.56,
+    13.7
+   ],
+   [
+    "water",
+    13.7,
+    13.94
+   ],
+   [
+    "needs",
+    13.94,
+    14.2
+   ],
+   [
+    "straight",
+    14.2,
+    14.52
+   ],
+   [
+    "from",
+    14.52,
+    14.74
+   ],
+   [
+    "their",
+    14.74,
+    14.88
+   ],
+   [
+    "diet.",
+    14.88,
+    15.3
+   ],
+   [
+    "They",
+    15.66,
+    15.76
+   ],
+   [
+    "build",
+    15.76,
+    15.98
+   ],
+   [
+    "nests",
+    15.98,
+    16.32
+   ],
+   [
+    "inside",
+    16.44,
+    16.58
+   ],
+   [
+    "dangerous",
+    16.58,
+    17.08
+   ],
+   [
+    "cacti",
+    17.08,
+    17.64
+   ],
+   [
+    "to",
+    17.64,
+    17.76
+   ],
+   [
+    "hide",
+    17.76,
+    17.94
+   ],
+   [
+    "from",
+    17.94,
+    18.12
+   ],
+   [
+    "predators.",
+    18.12,
+    18.67
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   24,
+   33,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Internal_combustion_engine.png/960px-Internal_combustion_engine.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 383,
+   "license": "Public domain",
+   "artist": "unknown/F. A. Brockhaus",
+   "page": "https://commons.wikimedia.org/wiki/File:Internal_combustion_engine.png",
+   "desc": "Internal combustion engine — Zweizylindriger Ottomotor"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Cactus_Wren_%2814690478833%29.jpg/960px-Cactus_Wren_%2814690478833%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY-SA 2.0",
+   "artist": "Don Faulkner",
+   "page": "https://commons.wikimedia.org/wiki/File:Cactus_Wren_(14690478833).jpg",
+   "desc": "Cactus Wren (14690478833) — Campylorhynchus brunneicapillus guttatus 20 apr 14 Big Bend NP, Texas"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Campylorhynchus_brunneicapillus_-Tucson%2C_Arizona%2C_USA-8.jpg/960px-Campylorhynchus_brunneicapillus_-Tucson%2C_Arizona%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 719,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mike &amp; Chris",
+   "page": "https://commons.wikimedia.org/wiki/File:Campylorhynchus_brunneicapillus_-Tucson,_Arizona,_USA-8.jpg",
+   "desc": "Campylorhynchus brunneicapillus -Tucson, Arizona, USA-8 — A Cactus Wren in Tucson, Arizona, USA."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cactus_wren_From_The_Crossley_ID_Guide_Eastern_Birds.jpg/960px-Cactus_wren_From_The_Crossley_ID_Guide_Eastern_Birds.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 466,
+   "license": "CC BY-SA 3.0",
+   "artist": "Richard Crossley",
+   "page": "https://commons.wikimedia.org/wiki/File:Cactus_wren_From_The_Crossley_ID_Guide_Eastern_Birds.jpg",
+   "desc": "Cactus wren From The Crossley ID Guide Eastern Birds — Cactus wren From The Crossley ID Guide Eastern Birds"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cactus_wren_%28Campylorhynchus_brunneicapillus%29_building_a_nest_-_12938385904.jpg/960px-Cactus_wren_%28Campylorhynchus_brunneicapillus%29_building_a_nest_-_12938385904.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Robb Hannawacker, while working for Joshua Tree National Park",
+   "page": "https://commons.wikimedia.org/wiki/File:Cactus_wren_(Campylorhynchus_brunneicapillus)_building_a_nest_-_12938385904.jpg",
+   "desc": "Cactus wren (Campylorhynchus brunneicapillus) building a nest - 12938385904 — Birds in Joshua Tree National Park: Cactus wren (Campylorhynchus brunneicapillus) building a nest"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "white eyebrow",
+   "box": [
+    145,
+    645,
+    210,
+    740
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q969006",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Cactus wren",
+  "url": "https://en.wikipedia.org/wiki/Cactus_wren",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T04:35:44Z",
+ "trimmed": true
+}
