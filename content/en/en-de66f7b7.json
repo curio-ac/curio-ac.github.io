@@ -1,0 +1,491 @@
+{
+ "id": "en-de66f7b7",
+ "lang": "en",
+ "title": "The Transforming Wall Street Building",
+ "cat": "history",
+ "emoji": "🏛️",
+ "sentences": [
+  "This Wall Street building added 5 new floors!",
+  "Originally completed in 1841 or 1842, it was the 4-story Merchants' Exchange.",
+  "Isaiah Rogers designed it in the Greek Revival style.",
+  "Between 1907 and 1910, architects removed the 4th story and built 5 more.",
+  "The granite facade includes two stacked colonnades facing Wall Street.",
+  "Inside is a cruciform banking hall with a 60-foot vaulted ceiling.",
+  "Today, the upper stories are condominiums."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.22,
+    0.22
+   ],
+   [
+    "Wall",
+    0.22,
+    0.5
+   ],
+   [
+    "Street",
+    0.5,
+    0.72
+   ],
+   [
+    "building",
+    0.72,
+    1.06
+   ],
+   [
+    "added",
+    1.06,
+    1.42
+   ],
+   [
+    "5",
+    1.42,
+    1.88
+   ],
+   [
+    "new",
+    1.88,
+    2.24
+   ],
+   [
+    "floors!",
+    2.24,
+    2.9
+   ],
+   [
+    "Originally",
+    3.28,
+    3.58
+   ],
+   [
+    "completed",
+    3.58,
+    4.06
+   ],
+   [
+    "in",
+    4.06,
+    4.36
+   ],
+   [
+    "1841",
+    4.36,
+    5.1
+   ],
+   [
+    "or",
+    5.1,
+    5.74
+   ],
+   [
+    "1842,",
+    5.74,
+    7.08
+   ],
+   [
+    "it",
+    7.08,
+    7.14
+   ],
+   [
+    "was",
+    7.14,
+    7.32
+   ],
+   [
+    "the",
+    7.32,
+    7.44
+   ],
+   [
+    "4-story",
+    7.44,
+    8.14
+   ],
+   [
+    "Merchants'",
+    8.14,
+    8.84
+   ],
+   [
+    "Exchange.",
+    8.86,
+    9.32
+   ],
+   [
+    "Isaiah",
+    9.76,
+    9.98
+   ],
+   [
+    "Rogers",
+    9.98,
+    10.36
+   ],
+   [
+    "designed",
+    10.36,
+    10.8
+   ],
+   [
+    "it",
+    10.8,
+    10.96
+   ],
+   [
+    "in",
+    10.96,
+    11.12
+   ],
+   [
+    "the",
+    11.12,
+    11.24
+   ],
+   [
+    "Greek",
+    11.34,
+    11.44
+   ],
+   [
+    "Revival",
+    11.44,
+    11.92
+   ],
+   [
+    "style.",
+    11.92,
+    12.47
+   ],
+   [
+    "Between",
+    13.0,
+    13.1
+   ],
+   [
+    "1907",
+    13.1,
+    13.82
+   ],
+   [
+    "and",
+    13.82,
+    14.14
+   ],
+   [
+    "1910,",
+    14.14,
+    15.22
+   ],
+   [
+    "architects",
+    15.22,
+    15.52
+   ],
+   [
+    "removed",
+    15.52,
+    15.94
+   ],
+   [
+    "the",
+    15.94,
+    16.28
+   ],
+   [
+    "4th",
+    16.36,
+    16.64
+   ],
+   [
+    "story",
+    16.64,
+    16.82
+   ],
+   [
+    "and",
+    17.02,
+    17.12
+   ],
+   [
+    "built",
+    17.12,
+    17.34
+   ],
+   [
+    "5",
+    17.34,
+    17.82
+   ],
+   [
+    "more.",
+    17.82,
+    18.2
+   ],
+   [
+    "The",
+    18.8,
+    18.9
+   ],
+   [
+    "granite",
+    18.9,
+    19.28
+   ],
+   [
+    "facade",
+    19.28,
+    19.56
+   ],
+   [
+    "includes",
+    19.56,
+    19.98
+   ],
+   [
+    "two",
+    19.98,
+    20.42
+   ],
+   [
+    "stacked",
+    20.42,
+    20.82
+   ],
+   [
+    "colonnades",
+    20.82,
+    21.54
+   ],
+   [
+    "facing",
+    21.54,
+    21.8
+   ],
+   [
+    "Wall",
+    21.8,
+    22.08
+   ],
+   [
+    "Street.",
+    22.08,
+    22.18
+   ],
+   [
+    "Inside",
+    22.94,
+    23.26
+   ],
+   [
+    "is",
+    23.26,
+    23.54
+   ],
+   [
+    "a",
+    23.54,
+    23.62
+   ],
+   [
+    "cruciform",
+    23.62,
+    24.14
+   ],
+   [
+    "banking",
+    24.16,
+    24.6
+   ],
+   [
+    "hall",
+    24.6,
+    24.92
+   ],
+   [
+    "with",
+    25.02,
+    25.12
+   ],
+   [
+    "a",
+    25.12,
+    25.24
+   ],
+   [
+    "60-foot",
+    25.24,
+    25.86
+   ],
+   [
+    "vaulted",
+    25.86,
+    26.4
+   ],
+   [
+    "ceiling.",
+    26.46,
+    27.26
+   ],
+   [
+    "Today,",
+    27.6,
+    27.74
+   ],
+   [
+    "the",
+    27.92,
+    27.94
+   ],
+   [
+    "upper",
+    27.94,
+    28.12
+   ],
+   [
+    "stories",
+    28.24,
+    28.52
+   ],
+   [
+    "are",
+    28.52,
+    28.7
+   ],
+   [
+    "condominiums.",
+    28.7,
+    29.15
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   20,
+   29,
+   42,
+   52,
+   63
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/55_Wall_Street_%2855313844541%29.jpg/960px-55_Wall_Street_%2855313844541%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "CC BY 4.0",
+   "artist": "Ajay Suresh",
+   "page": "https://commons.wikimedia.org/wiki/File:55_Wall_Street_(55313844541).jpg",
+   "desc": "55 Wall Street (55313844541) — New York, NY"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%28King1893NYC%29_pg790_THE_OLD_MERCHANTS%27_EXCHANGE_ON_WALL_STREET.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1000,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:(King1893NYC)_pg790_THE_OLD_MERCHANTS%27_EXCHANGE_ON_WALL_STREET.jpg",
+   "desc": "(King1893NYC) pg790 THE OLD MERCHANTS' EXCHANGE ON WALL STREET — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/National_City_Bank_Building_55_Wall_Street.jpg/960px-National_City_Bank_Building_55_Wall_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Beyond My Ken",
+   "page": "https://commons.wikimedia.org/wiki/File:National_City_Bank_Building_55_Wall_Street.jpg",
+   "desc": "National City Bank Building 55 Wall Street — The National City Bank Building at 55 Wall Street between William and Hanover Streets in the Financial District of downtown Manhattan, New York City, was built in 1836-41 as the Merchants' Exchange and was designed "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/National_City_Bank_Building_55_Wall_Street.jpg/960px-National_City_Bank_Building_55_Wall_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Beyond My Ken",
+   "page": "https://commons.wikimedia.org/wiki/File:National_City_Bank_Building_55_Wall_Street.jpg",
+   "desc": "National City Bank Building 55 Wall Street — The National City Bank Building at 55 Wall Street between William and Hanover Streets in the Financial District of downtown Manhattan, New York City, was built in 1836-41 as the Merchants' Exchange and was designed "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/National_City_Bank_Building_55_Wall_Street.jpg/960px-National_City_Bank_Building_55_Wall_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "Beyond My Ken",
+   "page": "https://commons.wikimedia.org/wiki/File:National_City_Bank_Building_55_Wall_Street.jpg",
+   "desc": "National City Bank Building 55 Wall Street — The National City Bank Building at 55 Wall Street between William and Hanover Streets in the Financial District of downtown Manhattan, New York City, was built in 1836-41 as the Merchants' Exchange and was designed "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "floors",
+   "label": "added"
+  },
+  {
+   "type": "timeline",
+   "year": 1841
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1907,
+   "unit": "year",
+   "label": "renovation start"
+  },
+  {
+   "type": "focus",
+   "target": "granite facade",
+   "box": [
+    0,
+    20,
+    950,
+    990
+   ]
+  },
+  {
+   "type": "compare",
+   "value": 18,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  40.706,
+  -74.009
+ ],
+ "qid": "Q1097619",
+ "pron_wer": 0.056,
+ "angle": 0,
+ "source": {
+  "title": "55 Wall Street",
+  "url": "https://en.wikipedia.org/wiki/55_Wall_Street",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T13:35:19Z",
+ "trimmed": true
+}
