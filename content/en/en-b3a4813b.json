@@ -1,0 +1,407 @@
+{
+ "id": "en-b3a4813b",
+ "lang": "en",
+ "title": "NASA's New Space Telescope",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "Your name could be heading a million miles into space.",
+  "The Nancy Grace Roman Space Telescope is launching soon.",
+  "It is named after NASA's first chief astronomer.",
+  "The camera has a 300-megapixel infrared lens.",
+  "It will hunt for dark matter alongside the James Webb Telescope.",
+  "Over 1.3 million names are attached to the spacecraft on a memory card."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Your",
+    0.12,
+    0.12
+   ],
+   [
+    "name",
+    0.12,
+    0.38
+   ],
+   [
+    "could",
+    0.38,
+    0.56
+   ],
+   [
+    "be",
+    0.56,
+    0.7
+   ],
+   [
+    "heading",
+    0.7,
+    0.92
+   ],
+   [
+    "a",
+    0.92,
+    1.14
+   ],
+   [
+    "million",
+    1.14,
+    1.42
+   ],
+   [
+    "miles",
+    1.42,
+    1.76
+   ],
+   [
+    "into",
+    1.76,
+    2.04
+   ],
+   [
+    "space.",
+    2.04,
+    2.38
+   ],
+   [
+    "The",
+    2.84,
+    2.88
+   ],
+   [
+    "Nancy",
+    2.88,
+    3.1
+   ],
+   [
+    "Grace",
+    3.1,
+    3.46
+   ],
+   [
+    "Roman",
+    3.46,
+    3.74
+   ],
+   [
+    "Space",
+    3.74,
+    4.04
+   ],
+   [
+    "Telescope",
+    4.04,
+    4.7
+   ],
+   [
+    "is",
+    4.7,
+    4.86
+   ],
+   [
+    "launching",
+    4.86,
+    5.14
+   ],
+   [
+    "soon.",
+    5.14,
+    5.54
+   ],
+   [
+    "It",
+    5.9,
+    5.98
+   ],
+   [
+    "is",
+    5.98,
+    6.08
+   ],
+   [
+    "named",
+    6.08,
+    6.32
+   ],
+   [
+    "after",
+    6.32,
+    6.6
+   ],
+   [
+    "NASA's",
+    6.6,
+    7.12
+   ],
+   [
+    "first",
+    7.12,
+    7.3
+   ],
+   [
+    "chief",
+    7.3,
+    7.68
+   ],
+   [
+    "astronomer.",
+    7.68,
+    8.24
+   ],
+   [
+    "The",
+    8.62,
+    8.64
+   ],
+   [
+    "camera",
+    8.68,
+    8.92
+   ],
+   [
+    "has",
+    8.92,
+    9.2
+   ],
+   [
+    "a",
+    9.2,
+    9.3
+   ],
+   [
+    "300-megapixel",
+    9.3,
+    10.48
+   ],
+   [
+    "infrared",
+    10.48,
+    10.84
+   ],
+   [
+    "lens.",
+    10.84,
+    11.38
+   ],
+   [
+    "It",
+    11.72,
+    11.8
+   ],
+   [
+    "will",
+    11.8,
+    11.92
+   ],
+   [
+    "hunt",
+    11.92,
+    12.14
+   ],
+   [
+    "for",
+    12.14,
+    12.3
+   ],
+   [
+    "dark",
+    12.3,
+    12.52
+   ],
+   [
+    "matter",
+    12.52,
+    12.86
+   ],
+   [
+    "alongside",
+    12.86,
+    13.18
+   ],
+   [
+    "the",
+    13.18,
+    13.6
+   ],
+   [
+    "James",
+    13.6,
+    13.82
+   ],
+   [
+    "Webb",
+    13.82,
+    14.1
+   ],
+   [
+    "Telescope.",
+    14.1,
+    14.65
+   ],
+   [
+    "Over",
+    14.86,
+    15.04
+   ],
+   [
+    "1.3",
+    15.04,
+    15.8
+   ],
+   [
+    "million",
+    15.8,
+    16.1
+   ],
+   [
+    "names",
+    16.1,
+    16.48
+   ],
+   [
+    "are",
+    16.48,
+    16.68
+   ],
+   [
+    "attached",
+    16.68,
+    16.94
+   ],
+   [
+    "to",
+    16.94,
+    17.28
+   ],
+   [
+    "the",
+    17.28,
+    17.4
+   ],
+   [
+    "spacecraft",
+    17.4,
+    17.86
+   ],
+   [
+    "on",
+    17.86,
+    18.18
+   ],
+   [
+    "a",
+    18.18,
+    18.24
+   ],
+   [
+    "memory",
+    18.24,
+    18.44
+   ],
+   [
+    "card.",
+    18.44,
+    18.86
+   ]
+  ],
+  "b": [
+   0,
+   10,
+   19,
+   27,
+   34,
+   45
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Nancy_Grace_Roman_Space_Telescope_%282020-35-4665%29.png/960px-Nancy_Grace_Roman_Space_Telescope_%282020-35-4665%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "IMAGE: NASA, NASA-GSFC",
+   "page": "https://commons.wikimedia.org/wiki/File:Nancy_Grace_Roman_Space_Telescope_(2020-35-4665).png",
+   "desc": "Nancy Grace Roman Space Telescope (2020-35-4665) — This is an artist’s illustration of the Nancy Grace Roman Space Telescope spacecraft against a starry background. The Roman Space Telescope is a Hubble-sized telescope planned for launch in the mid-2020s. It w"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nancy_Grace_Roman_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 668,
+   "license": "Public domain",
+   "artist": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Nancy_Grace_Roman_2015.jpg",
+   "desc": "Nancy Grace Roman 2015 — Astronomer Nancy Grace Roman at age 88 (still from a NASA-produced video). Roman was NASA's first Chief of Astronomy in the Office of Space Science. In her role, she successfully managed numerous astronomy-based projects"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg/960px-James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1079,
+   "license": "CC BY 2.0",
+   "artist": "Chris Gunn",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_(30108124923).jpg",
+   "desc": "James Webb Space Telescope Mirrors Will Piece Together Cosmic Puzzles (30108124923) — The primary mirror of NASA's James Webb Space Telescope consisting of 18 hexagonal mirrors looks like a giant puzzle piece standing in the massive clean room of NASA's Goddar"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/MT4C1024-HD.jpg/960px-MT4C1024-HD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 349,
+   "license": "CC BY 3.0",
+   "artist": "ZeptoBars",
+   "page": "https://commons.wikimedia.org/wiki/File:MT4C1024-HD.jpg",
+   "desc": "MT4C1024-HD — Memory Card with Integrated circuit (Micron MT4C -1024 mebibit (1 Megabit)), Dynamic Random Access Memory (DRAM) chips. Die size is 8662x3969µm. This device is from 1989 as readable on the printed circuit board itself. D"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 300,
+   "unit": "megapixel",
+   "label": "infrared lens"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1.3,
+   "unit": "million",
+   "label": "names attached"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+  "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T07:55:57Z",
+ "trimmed": true
+}
