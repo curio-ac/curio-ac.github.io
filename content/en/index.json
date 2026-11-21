@@ -342,7 +342,8 @@
   "Nadezhda Alliluyeva",
   "December to Dismember (2006)",
   "nasa:1320015",
-  "1983 World Snooker Championship"
+  "1983 World Snooker Championship",
+  "2nd Infantry Division (United Kingdom)"
  ],
  "rejected": [
   "Chameleon",
@@ -432,7 +433,8 @@
   "Corona Borealis",
   "1980 World Snooker Championship",
   "Black-necked grebe",
-  "1937 Brazilian coup d'état"
+  "1937 Brazilian coup d'état",
+  "nasa:1487832"
  ],
  "angles": {
   "Blue whale": [
@@ -1540,6 +1542,9 @@
   ],
   "1983 World Snooker Championship": [
    "The First Perfect 147 Break: The 1983 snooker championship saw history made."
+  ],
+  "2nd Infantry Division (United Kingdom)": [
+   "The Division That Marched Paris: One British division uniquely marched through Paris."
   ]
  },
  "exhausted": []
