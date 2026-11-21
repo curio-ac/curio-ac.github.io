@@ -1,0 +1,453 @@
+{
+ "id": "en-df50b383",
+ "lang": "en",
+ "title": "WWII British Logistics",
+ "cat": "history",
+ "emoji": "🚂",
+ "sentences": [
+  "An invasion advance was delayed 5 weeks.",
+  "The offensive was conducted over muddy and flooded ground.",
+  "It was supported by 600 field and 300 medium guns.",
+  "Over 2.5 million rounds of 25-pounder ammunition were made available.",
+  "Army roadheads were mainly supplied by rail.",
+  "Fuels were brought by tankers and the Operation Pluto pipeline.",
+  "British and Canadian forces employed mechanisation and materiel for maximum effect."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.2,
+    0.28
+   ],
+   [
+    "invasion",
+    0.28,
+    0.64
+   ],
+   [
+    "advance",
+    0.64,
+    1.04
+   ],
+   [
+    "was",
+    1.04,
+    1.36
+   ],
+   [
+    "delayed",
+    1.36,
+    1.7
+   ],
+   [
+    "5",
+    1.7,
+    2.06
+   ],
+   [
+    "weeks.",
+    2.06,
+    2.88
+   ],
+   [
+    "The",
+    2.94,
+    2.94
+   ],
+   [
+    "offensive",
+    2.94,
+    3.2
+   ],
+   [
+    "was",
+    3.2,
+    3.46
+   ],
+   [
+    "conducted",
+    3.46,
+    3.84
+   ],
+   [
+    "over",
+    3.84,
+    4.14
+   ],
+   [
+    "muddy",
+    4.18,
+    4.44
+   ],
+   [
+    "and",
+    4.44,
+    4.7
+   ],
+   [
+    "flooded",
+    4.86,
+    5.02
+   ],
+   [
+    "ground.",
+    5.02,
+    5.38
+   ],
+   [
+    "It",
+    5.94,
+    6.02
+   ],
+   [
+    "was",
+    6.02,
+    6.1
+   ],
+   [
+    "supported",
+    6.1,
+    6.38
+   ],
+   [
+    "by",
+    6.38,
+    6.62
+   ],
+   [
+    "600",
+    6.62,
+    7.0
+   ],
+   [
+    "field",
+    7.0,
+    7.4
+   ],
+   [
+    "and",
+    7.4,
+    7.72
+   ],
+   [
+    "300",
+    7.72,
+    8.04
+   ],
+   [
+    "medium",
+    8.04,
+    8.56
+   ],
+   [
+    "guns.",
+    8.56,
+    8.92
+   ],
+   [
+    "Over",
+    9.64,
+    9.78
+   ],
+   [
+    "2.5",
+    9.78,
+    10.68
+   ],
+   [
+    "million",
+    10.68,
+    10.98
+   ],
+   [
+    "rounds",
+    10.98,
+    11.32
+   ],
+   [
+    "of",
+    11.32,
+    11.58
+   ],
+   [
+    "25-pounder",
+    11.78,
+    12.44
+   ],
+   [
+    "ammunition",
+    12.44,
+    12.9
+   ],
+   [
+    "were",
+    12.9,
+    13.18
+   ],
+   [
+    "made",
+    13.22,
+    13.34
+   ],
+   [
+    "available.",
+    13.34,
+    13.68
+   ],
+   [
+    "Army",
+    14.16,
+    14.34
+   ],
+   [
+    "roadheads",
+    14.34,
+    14.84
+   ],
+   [
+    "were",
+    14.88,
+    14.98
+   ],
+   [
+    "mainly",
+    14.98,
+    15.22
+   ],
+   [
+    "supplied",
+    15.22,
+    15.52
+   ],
+   [
+    "by",
+    15.52,
+    15.76
+   ],
+   [
+    "rail.",
+    15.76,
+    16.02
+   ],
+   [
+    "Fuels",
+    16.48,
+    16.7
+   ],
+   [
+    "were",
+    16.7,
+    16.82
+   ],
+   [
+    "brought",
+    16.82,
+    17.04
+   ],
+   [
+    "by",
+    17.04,
+    17.2
+   ],
+   [
+    "tankers",
+    17.38,
+    17.7
+   ],
+   [
+    "and",
+    17.7,
+    17.98
+   ],
+   [
+    "the",
+    17.98,
+    18.12
+   ],
+   [
+    "Operation",
+    18.12,
+    18.62
+   ],
+   [
+    "Pluto",
+    18.62,
+    18.98
+   ],
+   [
+    "pipeline.",
+    18.98,
+    19.54
+   ],
+   [
+    "British",
+    20.1,
+    20.26
+   ],
+   [
+    "and",
+    20.26,
+    20.54
+   ],
+   [
+    "Canadian",
+    20.54,
+    20.84
+   ],
+   [
+    "forces",
+    20.84,
+    21.28
+   ],
+   [
+    "employed",
+    21.28,
+    21.7
+   ],
+   [
+    "mechanisation",
+    21.7,
+    22.44
+   ],
+   [
+    "and",
+    22.44,
+    22.86
+   ],
+   [
+    "materiel",
+    22.86,
+    23.38
+   ],
+   [
+    "for",
+    23.38,
+    23.72
+   ],
+   [
+    "maximum",
+    23.72,
+    24.08
+   ],
+   [
+    "effect.",
+    24.08,
+    24.3
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   26,
+   36,
+   43,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/DUKWs_carry_supplies_along_the_Nijmegen-Cleve_road.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 959,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:DUKWs_carry_supplies_along_the_Nijmegen-Cleve_road.jpg",
+   "desc": "DUKWs carry supplies along the Nijmegen-Cleve road — Near Nijmegen, Holland. DUKW amphibious trucks carrying Allied supplies pass along what was the main road from Nijmegen to Cleve which was flooded when the retreating Germans breached the banks of the Rhine."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/5.5-inch_guns_of_235_and_336_Medium_Batteries%2C_Royal_Artillery%2C_line_up_to_fire_in_support_of_the_Rhine_crossing%2C_21_March_1945._B15767.jpg/960px-5.5-inch_guns_of_235_and_336_Medium_Batteries%2C_Royal_Artillery%2C_line_up_to_fire_in_support_of_the_Rhine_crossing%2C_21_March_1945._B15767.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 722,
+   "license": "Public domain",
+   "artist": "No 5 Army Film &amp; Photographic Unit, Laing (Sgt)",
+   "page": "https://commons.wikimedia.org/wiki/File:5.5-inch_guns_of_235_and_336_Medium_Batteries,_Royal_Artillery,_line_up_to_fire_in_support_of_the_Rhine_crossing,_21_March_1945._B15767.jpg",
+   "desc": "5.5-inch guns of 235 and 336 Medium Batteries, Royal Artillery, line up to fire in support of the Rhine crossing, 21 March 1945. B15767 — 5.5-inch guns of 235 and 336 Medium Batteries, Royal Artillery, line up to fire in support of the Rhine crossing, 21 March"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/QF_25_pounder_Ammunition-001.jpg/960px-QF_25_pounder_Ammunition-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "NJR ZA",
+   "page": "https://commons.wikimedia.org/wiki/File:QF_25_pounder_Ammunition-001.jpg",
+   "desc": "QF 25 pounder Ammunition-001 — Ammunition used on the Ordnance QF 25 pounder"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/PLUTO_pipeline_section_-_HAIS.jpg/960px-PLUTO_pipeline_section_-_HAIS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Gaius Cornelius",
+   "page": "https://commons.wikimedia.org/wiki/File:PLUTO_pipeline_section_-_HAIS.jpg",
+   "desc": "PLUTO pipeline section - HAIS — A section of PLUTO pipeline. Designated HAIS (one of two types) and made of steel. This example at the Museum of London Docklands."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Diamond_T_Model_980_tractor.jpg/960px-Diamond_T_Model_980_tractor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 696,
+   "license": "Public domain",
+   "artist": "Seaholme (Sgt), No 5 Army Film &amp; Photographic Unit",
+   "page": "https://commons.wikimedia.org/wiki/File:Diamond_T_Model_980_tractor.jpg",
+   "desc": "Diamond T Model 980 tractor — Diamond T Model 980 tractor towing a trailer loaded with a Churchill tank during preparations for crossing the Rhine."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Operation Pluto pipeline",
+   "box": [
+    232,
+    212,
+    771,
+    1000
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q113988107",
+ "pron_wer": 0.03,
+ "angle": 0,
+ "source": {
+  "title": "British logistics in the Western Allied invasion of Germany",
+  "url": "https://en.wikipedia.org/wiki/British_logistics_in_the_Western_Allied_invasion_of_Germany",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T02:40:08Z",
+ "trimmed": true
+}
