@@ -1,0 +1,398 @@
+{
+ "id": "en-550f6e64",
+ "lang": "en",
+ "title": "The 2000 Sugar Bowl Showdown",
+ "cat": "history",
+ "emoji": "🏈",
+ "sentences": [
+  "18.4 million people watched this wild championship.",
+  "The 2000 Sugar Bowl decided the 1999 national title.",
+  "Florida State faced Virginia Tech at the Louisiana Superdome.",
+  "Fans desperate for tickets even resorted to scalpers.",
+  "Florida State jumped to a quick 14–0 lead.",
+  "The Seminoles ultimately crushed the Hokies 46–29.",
+  "That victory secured their second national championship ever."
+ ],
+ "tim": {
+  "w": [
+   [
+    "18.4",
+    0.35,
+    1.05
+   ],
+   [
+    "million",
+    1.05,
+    1.51
+   ],
+   [
+    "people",
+    1.51,
+    1.99
+   ],
+   [
+    "watched",
+    1.99,
+    2.31
+   ],
+   [
+    "this",
+    2.31,
+    2.51
+   ],
+   [
+    "wild",
+    2.75,
+    3.05
+   ],
+   [
+    "championship.",
+    3.05,
+    3.65
+   ],
+   [
+    "The",
+    4.19,
+    4.19
+   ],
+   [
+    "2000",
+    4.19,
+    4.57
+   ],
+   [
+    "Sugar",
+    4.57,
+    4.87
+   ],
+   [
+    "Bowl",
+    4.87,
+    5.05
+   ],
+   [
+    "decided",
+    5.05,
+    5.39
+   ],
+   [
+    "the",
+    5.39,
+    5.59
+   ],
+   [
+    "1999",
+    5.59,
+    6.11
+   ],
+   [
+    "national",
+    6.11,
+    6.73
+   ],
+   [
+    "title.",
+    6.73,
+    7.13
+   ],
+   [
+    "Florida",
+    7.53,
+    7.65
+   ],
+   [
+    "State",
+    7.65,
+    7.99
+   ],
+   [
+    "faced",
+    7.99,
+    8.27
+   ],
+   [
+    "Virginia",
+    8.27,
+    8.59
+   ],
+   [
+    "Tech",
+    8.59,
+    8.85
+   ],
+   [
+    "at",
+    8.85,
+    9.05
+   ],
+   [
+    "the",
+    9.05,
+    9.13
+   ],
+   [
+    "Louisiana",
+    9.13,
+    9.47
+   ],
+   [
+    "Superdome.",
+    9.47,
+    10.07
+   ],
+   [
+    "Fans",
+    10.69,
+    10.89
+   ],
+   [
+    "desperate",
+    10.89,
+    11.47
+   ],
+   [
+    "for",
+    11.47,
+    11.77
+   ],
+   [
+    "tickets",
+    11.77,
+    12.03
+   ],
+   [
+    "even",
+    12.03,
+    12.35
+   ],
+   [
+    "resorted",
+    12.41,
+    12.71
+   ],
+   [
+    "to",
+    12.71,
+    12.87
+   ],
+   [
+    "scalpers.",
+    12.87,
+    13.62
+   ],
+   [
+    "Florida",
+    13.91,
+    14.07
+   ],
+   [
+    "State",
+    14.07,
+    14.33
+   ],
+   [
+    "jumped",
+    14.33,
+    14.53
+   ],
+   [
+    "to",
+    14.53,
+    14.67
+   ],
+   [
+    "a",
+    14.67,
+    14.77
+   ],
+   [
+    "quick",
+    14.77,
+    14.89
+   ],
+   [
+    "14–0",
+    15.15,
+    15.67
+   ],
+   [
+    "lead.",
+    15.67,
+    16.07
+   ],
+   [
+    "The",
+    16.43,
+    16.45
+   ],
+   [
+    "Seminoles",
+    16.45,
+    16.83
+   ],
+   [
+    "ultimately",
+    16.83,
+    17.21
+   ],
+   [
+    "crushed",
+    17.21,
+    17.77
+   ],
+   [
+    "the",
+    17.77,
+    18.01
+   ],
+   [
+    "Hokies",
+    18.01,
+    18.33
+   ],
+   [
+    "46–29.",
+    18.33,
+    19.77
+   ],
+   [
+    "That",
+    20.13,
+    20.23
+   ],
+   [
+    "victory",
+    20.23,
+    20.41
+   ],
+   [
+    "secured",
+    20.43,
+    20.81
+   ],
+   [
+    "their",
+    20.81,
+    20.97
+   ],
+   [
+    "second",
+    20.97,
+    21.29
+   ],
+   [
+    "national",
+    21.55,
+    21.65
+   ],
+   [
+    "championship",
+    21.65,
+    22.19
+   ],
+   [
+    "ever.",
+    22.19,
+    22.55
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   25,
+   33,
+   41,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Superdome_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 438,
+   "license": "CC BY-SA 2.0",
+   "artist": "The original uploader was Autiger at English Wikipedia.",
+   "page": "https://commons.wikimedia.org/wiki/File:Superdome_Sunset.jpg",
+   "desc": "Superdome Sunset — en:Louisiana Superdome in New Orleans at sunset from the south, taken before the en:Sugar Bowl on January 3, 2005 by J. Glover (AUTiger)."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ticket_scalper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 484,
+   "license": "CC BY-SA 2.0",
+   "artist": "Lee Gillen",
+   "page": "https://commons.wikimedia.org/wiki/File:Ticket_scalper.jpg",
+   "desc": "Ticket scalper — This guy was selling two tickets for $150 each."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_2013_College_Football_National_Championship_Trophy_display_at_the_Moore_Athletic_Center.jpg/960px-The_2013_College_Football_National_Championship_Trophy_display_at_the_Moore_Athletic_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 4.0",
+   "artist": "SeminoleNation",
+   "page": "https://commons.wikimedia.org/wiki/File:The_2013_College_Football_National_Championship_Trophy_display_at_the_Moore_Athletic_Center.jpg",
+   "desc": "The 2013 College Football National Championship Trophy display at the Moore Athletic Center — The 2013 College Football National Championship Trophy display at the Moore Athletic Center"
+  }
+ ],
+ "sent_img": [
+  null,
+  null,
+  0,
+  1,
+  null,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 18.4,
+   "unit": "million",
+   "label": "viewers watched"
+  },
+  {
+   "type": "timeline",
+   "year": 2000
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 14,
+   "unit": "points",
+   "label": "Seminoles lead"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "championships",
+   "label": "team's history"
+  }
+ ],
+ "geo": null,
+ "qid": "Q10378697",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "2000 Sugar Bowl",
+  "url": "https://en.wikipedia.org/wiki/2000_Sugar_Bowl",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:47:19Z",
+ "trimmed": true
+}

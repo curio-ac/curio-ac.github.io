@@ -345,7 +345,8 @@
   "1983 World Snooker Championship",
   "2nd Infantry Division (United Kingdom)",
   "1740 Batavia massacre",
-  "nasa:1440911"
+  "nasa:1440911",
+  "Boring Lava Field"
  ],
  "rejected": [
   "Chameleon",
@@ -1553,6 +1554,9 @@
   ],
   "nasa:1440911": [
    "Farming on the Moon: NASA is preparing to farm on the Moon."
+  ],
+  "Boring Lava Field": [
+   "Oregon's Boring Volcanoes: Portland sits near an active volcanic field."
   ]
  },
  "exhausted": []
