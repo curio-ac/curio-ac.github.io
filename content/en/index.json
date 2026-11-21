@@ -327,7 +327,8 @@
   "nasa:1487723",
   "Georgetown Car Barn",
   "nasa:1499167",
-  "44th Chess Olympiad"
+  "44th Chess Olympiad",
+  "Dreadnought"
  ],
  "rejected": [
   "Chameleon",
@@ -1476,6 +1477,9 @@
   ],
   "44th Chess Olympiad": [
    "India's Historic Chess Olympiad: India hosted the 44th Chess Olympiad in 2022."
+  ],
+  "Dreadnought": [
+   "The HMS Dreadnought: HMS Dreadnought launched in 1906."
   ]
  },
  "exhausted": []

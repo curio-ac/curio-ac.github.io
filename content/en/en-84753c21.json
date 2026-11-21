@@ -1,0 +1,390 @@
+{
+ "id": "en-84753c21",
+ "lang": "en",
+ "title": "5,000 Martian Days!",
+ "cat": "space",
+ "emoji": "🤖",
+ "sentences": [
+  "Curiosity just hit 5,000 Martian days on Mars.",
+  "That is more than 5,137 Earth days of exploring.",
+  "The rover also climbed over 1 kilometer of elevation.",
+  "It even drove right into a giant sand ripple named Chocolatal.",
+  "Scientists used a wheel to trench the ripple and study its layers.",
+  "The amazing science team looks forward to the next 5,000 sols."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Curiosity",
+    0.35,
+    0.35
+   ],
+   [
+    "just",
+    0.35,
+    0.83
+   ],
+   [
+    "hit",
+    0.83,
+    1.03
+   ],
+   [
+    "5,000",
+    1.03,
+    1.87
+   ],
+   [
+    "Martian",
+    1.87,
+    2.29
+   ],
+   [
+    "days",
+    2.29,
+    2.57
+   ],
+   [
+    "on",
+    2.57,
+    2.87
+   ],
+   [
+    "Mars.",
+    2.87,
+    2.99
+   ],
+   [
+    "That",
+    3.77,
+    3.77
+   ],
+   [
+    "is",
+    3.77,
+    3.91
+   ],
+   [
+    "more",
+    3.91,
+    4.09
+   ],
+   [
+    "than",
+    4.09,
+    4.25
+   ],
+   [
+    "5,137",
+    4.25,
+    6.27
+   ],
+   [
+    "Earth",
+    6.43,
+    6.55
+   ],
+   [
+    "days",
+    6.55,
+    6.87
+   ],
+   [
+    "of",
+    6.87,
+    7.09
+   ],
+   [
+    "exploring.",
+    7.09,
+    7.53
+   ],
+   [
+    "The",
+    8.09,
+    8.15
+   ],
+   [
+    "rover",
+    8.15,
+    8.39
+   ],
+   [
+    "also",
+    8.39,
+    8.83
+   ],
+   [
+    "climbed",
+    8.83,
+    9.19
+   ],
+   [
+    "over",
+    9.19,
+    9.47
+   ],
+   [
+    "1",
+    9.47,
+    9.81
+   ],
+   [
+    "kilometer",
+    9.81,
+    10.17
+   ],
+   [
+    "of",
+    10.45,
+    10.55
+   ],
+   [
+    "elevation.",
+    10.55,
+    11.07
+   ],
+   [
+    "It",
+    11.63,
+    11.69
+   ],
+   [
+    "even",
+    11.69,
+    11.85
+   ],
+   [
+    "drove",
+    11.85,
+    12.07
+   ],
+   [
+    "right",
+    12.07,
+    12.29
+   ],
+   [
+    "into",
+    12.29,
+    12.51
+   ],
+   [
+    "a",
+    12.51,
+    12.67
+   ],
+   [
+    "giant",
+    12.67,
+    12.99
+   ],
+   [
+    "sand",
+    12.99,
+    13.33
+   ],
+   [
+    "ripple",
+    13.33,
+    13.71
+   ],
+   [
+    "named",
+    13.85,
+    14.05
+   ],
+   [
+    "Chocolatal.",
+    14.05,
+    14.6
+   ],
+   [
+    "Scientists",
+    15.19,
+    15.45
+   ],
+   [
+    "used",
+    15.45,
+    15.83
+   ],
+   [
+    "a",
+    15.83,
+    16.01
+   ],
+   [
+    "wheel",
+    16.01,
+    16.17
+   ],
+   [
+    "to",
+    16.17,
+    16.35
+   ],
+   [
+    "trench",
+    16.35,
+    16.65
+   ],
+   [
+    "the",
+    16.65,
+    16.87
+   ],
+   [
+    "ripple",
+    16.87,
+    17.11
+   ],
+   [
+    "and",
+    17.13,
+    17.31
+   ],
+   [
+    "study",
+    17.31,
+    17.59
+   ],
+   [
+    "its",
+    17.59,
+    17.75
+   ],
+   [
+    "layers.",
+    17.75,
+    18.03
+   ],
+   [
+    "The",
+    18.71,
+    18.79
+   ],
+   [
+    "amazing",
+    18.79,
+    19.09
+   ],
+   [
+    "science",
+    19.09,
+    19.47
+   ],
+   [
+    "team",
+    19.47,
+    19.81
+   ],
+   [
+    "looks",
+    19.81,
+    20.09
+   ],
+   [
+    "forward",
+    20.27,
+    20.47
+   ],
+   [
+    "to",
+    20.47,
+    20.67
+   ],
+   [
+    "the",
+    20.67,
+    20.77
+   ],
+   [
+    "next",
+    20.77,
+    21.01
+   ],
+   [
+    "5,000",
+    21.21,
+    21.65
+   ],
+   [
+    "sols.",
+    21.65,
+    21.75
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   37,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/NASA%E2%80%99s_Curiosity_Looks_Back_After_Reaching_Elevation_Milestone_%28PIA26781%29.png/960px-NASA%E2%80%99s_Curiosity_Looks_Back_After_Reaching_Elevation_Milestone_%28PIA26781%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 261,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/MSSS",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Curiosity_Looks_Back_After_Reaching_Elevation_Milestone_(PIA26781).png",
+   "desc": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone (PIA26781) — NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or so"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 5000,
+   "unit": "sols",
+   "label": "Martian days"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 1000,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+ "pron_wer": 0.033,
+ "angle": 0,
+ "source": {
+  "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T05:05:07Z",
+ "trimmed": true
+}
