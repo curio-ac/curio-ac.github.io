@@ -1,0 +1,377 @@
+{
+ "id": "en-ac659d4c",
+ "lang": "en",
+ "title": "NASA's Swift Mission Ends",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "NASA's legendary Swift space telescope is finally coming down.",
+  "Designed for just two years, it lasted over 20.",
+  "Swift spotted more than 2,000 massive cosmic explosions called gamma-ray bursts.",
+  "It could swivel to catch these fading flashes in about a minute.",
+  "Its 12 terabyte archive will fuel new space discoveries for decades."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA's",
+    0.35,
+    0.53
+   ],
+   [
+    "legendary",
+    0.53,
+    0.91
+   ],
+   [
+    "Swift",
+    0.91,
+    1.25
+   ],
+   [
+    "space",
+    1.25,
+    1.59
+   ],
+   [
+    "telescope",
+    1.59,
+    2.17
+   ],
+   [
+    "is",
+    2.17,
+    2.37
+   ],
+   [
+    "finally",
+    2.43,
+    2.67
+   ],
+   [
+    "coming",
+    2.67,
+    2.95
+   ],
+   [
+    "down.",
+    2.95,
+    3.29
+   ],
+   [
+    "Designed",
+    3.75,
+    4.15
+   ],
+   [
+    "for",
+    4.15,
+    4.25
+   ],
+   [
+    "just",
+    4.25,
+    4.43
+   ],
+   [
+    "two",
+    4.43,
+    4.67
+   ],
+   [
+    "years,",
+    4.67,
+    5.23
+   ],
+   [
+    "it",
+    5.27,
+    5.29
+   ],
+   [
+    "lasted",
+    5.29,
+    5.61
+   ],
+   [
+    "over",
+    5.61,
+    5.85
+   ],
+   [
+    "20.",
+    5.85,
+    6.25
+   ],
+   [
+    "Swift",
+    6.87,
+    6.97
+   ],
+   [
+    "spotted",
+    6.97,
+    7.43
+   ],
+   [
+    "more",
+    7.43,
+    7.61
+   ],
+   [
+    "than",
+    7.61,
+    7.77
+   ],
+   [
+    "2,000",
+    7.77,
+    8.37
+   ],
+   [
+    "massive",
+    8.65,
+    8.75
+   ],
+   [
+    "cosmic",
+    8.75,
+    9.21
+   ],
+   [
+    "explosions",
+    9.21,
+    9.77
+   ],
+   [
+    "called",
+    9.77,
+    10.11
+   ],
+   [
+    "gamma-ray",
+    10.11,
+    10.63
+   ],
+   [
+    "bursts.",
+    10.63,
+    10.87
+   ],
+   [
+    "It",
+    11.57,
+    11.63
+   ],
+   [
+    "could",
+    11.63,
+    11.77
+   ],
+   [
+    "swivel",
+    11.77,
+    12.07
+   ],
+   [
+    "to",
+    12.07,
+    12.23
+   ],
+   [
+    "catch",
+    12.23,
+    12.45
+   ],
+   [
+    "these",
+    12.45,
+    12.65
+   ],
+   [
+    "fading",
+    12.65,
+    12.91
+   ],
+   [
+    "flashes",
+    12.91,
+    13.33
+   ],
+   [
+    "in",
+    13.33,
+    13.57
+   ],
+   [
+    "about",
+    13.57,
+    13.75
+   ],
+   [
+    "a",
+    13.75,
+    13.91
+   ],
+   [
+    "minute.",
+    13.91,
+    14.13
+   ],
+   [
+    "Its",
+    14.57,
+    14.69
+   ],
+   [
+    "12",
+    14.69,
+    15.01
+   ],
+   [
+    "terabyte",
+    15.01,
+    15.39
+   ],
+   [
+    "archive",
+    15.39,
+    15.85
+   ],
+   [
+    "will",
+    15.85,
+    16.05
+   ],
+   [
+    "fuel",
+    16.05,
+    16.27
+   ],
+   [
+    "new",
+    16.27,
+    16.49
+   ],
+   [
+    "space",
+    16.49,
+    16.71
+   ],
+   [
+    "discoveries",
+    16.71,
+    17.23
+   ],
+   [
+    "for",
+    17.23,
+    17.51
+   ],
+   [
+    "decades.",
+    17.51,
+    17.87
+   ]
+  ],
+  "b": [
+   0,
+   9,
+   18,
+   29,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Swift_Observatory_spacecraft_model.png/960px-Swift_Observatory_spacecraft_model.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "Public domain",
+   "artist": "NASA E/PO, Sonoma State University/Aurore Simonnet",
+   "page": "https://commons.wikimedia.org/wiki/File:Swift_Observatory_spacecraft_model.png",
+   "desc": "Swift Observatory spacecraft model — NASA's Swift Gamma Ray Burst Detecting Satellite"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Nasa_swift_satellite.jpg/960px-Nasa_swift_satellite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 514,
+   "license": "Public domain",
+   "artist": "NASA E/PO, Sonoma State University/Aurore Simonnet",
+   "page": "https://commons.wikimedia.org/wiki/File:Nasa_swift_satellite.jpg",
+   "desc": "Nasa swift satellite — NASA's Swift Gamma Ray Burst Detecting Satellite"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Artist%E2%80%99s_impression_of_a_gamma-ray_burst_shining_through_two_young_galaxies_in_the_early_Universe.jpg/960px-Artist%E2%80%99s_impression_of_a_gamma-ray_burst_shining_through_two_young_galaxies_in_the_early_Universe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "ESO/L. Calçada",
+   "page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_a_gamma-ray_burst_shining_through_two_young_galaxies_in_the_early_Universe.jpg",
+   "desc": "Artist’s impression of a gamma-ray burst shining through two young galaxies in the early Universe — This artist’s impression shows two galaxies in the early Universe. The brilliant explosion on the left is a gamma-ray burst. As the light from the burst passes "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Swift_Spacecraft_Animations-_2025_%28SVS14786_-_Swift_2%29.png/960px-Swift_Spacecraft_Animations-_2025_%28SVS14786_-_Swift_2%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA's Scientific Visualization Studio - eMITS/Adriana Manrique Gutierrez, eMITS",
+   "page": "https://commons.wikimedia.org/wiki/File:Swift_Spacecraft_Animations-_2025_(SVS14786_-_Swift_2).png",
+   "desc": "Swift Spacecraft Animations- 2025 (SVS14786 - Swift 2) — The Swift spacecraft points away from the camera in this artist’s concept. A version with a transparent background is also available. Credit: NASA’s Goddard Space Flight Center Conceptual Image Lab Alt t"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 20,
+   "unit": "years",
+   "label": "duration"
+  },
+  {
+   "type": "stat",
+   "value": 2000,
+   "unit": "bursts",
+   "label": "gamma-ray bursts"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "minute",
+   "label": "swivel time"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "TB",
+   "label": "archive data"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+  "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T04:07:33Z",
+ "trimmed": true
+}
