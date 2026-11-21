@@ -1,0 +1,431 @@
+{
+ "id": "en-8b363dd3",
+ "lang": "en",
+ "title": "Hurricane Isaias's Nighttime Impact",
+ "cat": "geography",
+ "emoji": "🌀",
+ "sentences": [
+  "Hurricane Isaias turned out the lights.",
+  "NASA satellites captured the Florida Panhandle before and after the storm hit.",
+  "On October 11, 2026, images showed widespread power outages around Pensacola and Destin.",
+  "High winds toppled trees and downed power lines during the Category 2 storm.",
+  "By October 12, lights began returning to some affected areas.",
+  "Full recovery of lighting patterns appeared by October 14."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Hurricane",
+    0.35,
+    0.51
+   ],
+   [
+    "Isaias",
+    0.51,
+    1.17
+   ],
+   [
+    "turned",
+    1.17,
+    1.43
+   ],
+   [
+    "out",
+    1.43,
+    1.71
+   ],
+   [
+    "the",
+    1.71,
+    1.91
+   ],
+   [
+    "lights.",
+    1.91,
+    2.37
+   ],
+   [
+    "NASA",
+    2.85,
+    3.07
+   ],
+   [
+    "satellites",
+    3.07,
+    3.49
+   ],
+   [
+    "captured",
+    3.49,
+    3.97
+   ],
+   [
+    "the",
+    4.01,
+    4.13
+   ],
+   [
+    "Florida",
+    4.13,
+    4.39
+   ],
+   [
+    "Panhandle",
+    4.39,
+    4.99
+   ],
+   [
+    "before",
+    4.99,
+    5.31
+   ],
+   [
+    "and",
+    5.31,
+    5.69
+   ],
+   [
+    "after",
+    5.69,
+    5.97
+   ],
+   [
+    "the",
+    5.97,
+    6.09
+   ],
+   [
+    "storm",
+    6.09,
+    6.29
+   ],
+   [
+    "hit.",
+    6.29,
+    6.93
+   ],
+   [
+    "On",
+    7.03,
+    7.03
+   ],
+   [
+    "October",
+    7.03,
+    7.25
+   ],
+   [
+    "11,",
+    7.25,
+    7.75
+   ],
+   [
+    "2026,",
+    7.95,
+    8.43
+   ],
+   [
+    "images",
+    8.79,
+    8.89
+   ],
+   [
+    "showed",
+    8.89,
+    9.17
+   ],
+   [
+    "widespread",
+    9.17,
+    9.65
+   ],
+   [
+    "power",
+    9.75,
+    10.19
+   ],
+   [
+    "outages",
+    10.19,
+    10.59
+   ],
+   [
+    "around",
+    10.59,
+    10.87
+   ],
+   [
+    "Pensacola",
+    11.31,
+    11.49
+   ],
+   [
+    "and",
+    11.49,
+    11.69
+   ],
+   [
+    "Destin.",
+    11.69,
+    11.97
+   ],
+   [
+    "High",
+    12.59,
+    12.79
+   ],
+   [
+    "winds",
+    12.79,
+    13.03
+   ],
+   [
+    "toppled",
+    13.03,
+    13.47
+   ],
+   [
+    "trees",
+    13.47,
+    13.79
+   ],
+   [
+    "and",
+    13.79,
+    14.11
+   ],
+   [
+    "downed",
+    14.11,
+    14.49
+   ],
+   [
+    "power",
+    14.49,
+    14.69
+   ],
+   [
+    "lines",
+    14.69,
+    14.97
+   ],
+   [
+    "during",
+    14.97,
+    15.37
+   ],
+   [
+    "the",
+    15.37,
+    15.47
+   ],
+   [
+    "Category",
+    15.47,
+    15.81
+   ],
+   [
+    "2",
+    15.81,
+    16.09
+   ],
+   [
+    "storm.",
+    16.09,
+    16.47
+   ],
+   [
+    "By",
+    17.21,
+    17.31
+   ],
+   [
+    "October",
+    17.31,
+    17.51
+   ],
+   [
+    "12,",
+    17.51,
+    17.95
+   ],
+   [
+    "lights",
+    18.35,
+    18.45
+   ],
+   [
+    "began",
+    18.45,
+    18.69
+   ],
+   [
+    "returning",
+    18.69,
+    18.99
+   ],
+   [
+    "to",
+    18.99,
+    19.17
+   ],
+   [
+    "some",
+    19.17,
+    19.39
+   ],
+   [
+    "affected",
+    19.39,
+    19.69
+   ],
+   [
+    "areas.",
+    19.69,
+    19.97
+   ],
+   [
+    "Full",
+    20.85,
+    20.95
+   ],
+   [
+    "recovery",
+    20.95,
+    21.29
+   ],
+   [
+    "of",
+    21.29,
+    21.53
+   ],
+   [
+    "lighting",
+    21.53,
+    21.71
+   ],
+   [
+    "patterns",
+    21.71,
+    22.07
+   ],
+   [
+    "appeared",
+    22.07,
+    22.51
+   ],
+   [
+    "by",
+    22.51,
+    22.73
+   ],
+   [
+    "October",
+    22.73,
+    22.99
+   ],
+   [
+    "14.",
+    22.99,
+    23.64
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   31,
+   44,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Isaias_Dims_the_Gulf_Coast_%281490381_-_08%29.jpg/960px-Isaias_Dims_the_Gulf_Coast_%281490381_-_08%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 300,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Isaias_Dims_the_Gulf_Coast_(1490381_-_08).jpg",
+   "desc": "Isaias Dims the Gulf Coast (1490381 - 08) — Lights around Pensacola, Florida, and along the U.S. Route 98 corridor toward Destin appear sharply reduced on October 11, 2026 (right), compared with typical conditions in August 2026 (left), suggesting widespread p"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Isaias_Dims_the_Gulf_Coast_%281490381_-_1011%29.jpg/960px-Isaias_Dims_the_Gulf_Coast_%281490381_-_1011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 300,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Isaias_Dims_the_Gulf_Coast_(1490381_-_1011).jpg",
+   "desc": "Isaias Dims the Gulf Coast (1490381 - 1011) — Widespread outages darken the region around Pensacola, Florida, and along the U.S. Route 98 corridor toward Destin on October 11, 2026 (left). By October 12 (right), lights have returned to some affected areas. Ima"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Downed_trees_and_power_lines_in_Bartow%2C_FL_following_Hurricane_Ian.jpg/960px-Downed_trees_and_power_lines_in_Bartow%2C_FL_following_Hurricane_Ian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 501,
+   "license": "CC BY 2.0",
+   "artist": "State Farm",
+   "page": "https://commons.wikimedia.org/wiki/File:Downed_trees_and_power_lines_in_Bartow,_FL_following_Hurricane_Ian.jpg",
+   "desc": "Downed trees and power lines in Bartow, FL following Hurricane Ian — Effects of Hurricane Ian in Florida"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Isaias_Dims_the_Gulf_Coast_%281490381_-_1012%29.jpg/960px-Isaias_Dims_the_Gulf_Coast_%281490381_-_1012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 300,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Isaias_Dims_the_Gulf_Coast_(1490381_-_1012).jpg",
+   "desc": "Isaias Dims the Gulf Coast (1490381 - 1012) — Widespread outages darken the region around Pensacola, Florida, and along the U.S. Route 98 corridor toward Destin on October 11, 2026 (left). By October 12 (right), lights have returned to some affected areas. Ima"
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  1,
+  2,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "stat",
+   "value": 105,
+   "unit": "mph",
+   "label": "Category 2 winds"
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "Isaias Dims the Gulf Coast",
+  "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T13:17:59Z",
+ "trimmed": true
+}
