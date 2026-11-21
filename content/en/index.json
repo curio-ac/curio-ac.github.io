@@ -332,7 +332,8 @@
   "nasa:1304490",
   "Branford Steam Railroad",
   "Paige Bueckers",
-  "nasa:1499166"
+  "nasa:1499166",
+  "nasa:1506470"
  ],
  "rejected": [
   "Chameleon",
@@ -1497,6 +1498,9 @@
   ],
   "nasa:1499166": [
    "Voyager Reaches One Light-Day: Voyager 1 will hit 1 light-day away!"
+  ],
+  "nasa:1506470": [
+   "Antarctic Skull Island: An Antarctic island looks like a grinning skull."
   ]
  },
  "exhausted": []

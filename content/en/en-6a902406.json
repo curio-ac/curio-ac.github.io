@@ -1,0 +1,405 @@
+{
+ "id": "en-6a902406",
+ "lang": "en",
+ "title": "The Head Dunce",
+ "cat": "history",
+ "emoji": "🎭",
+ "sentences": [
+  "This Poet Laureate was called a \"head Dunce\".",
+  "Colley Cibber was an English actor and playwright.",
+  "He wrote 25 plays for Drury Lane.",
+  "Critics hated his \"miserable mutilation\" of Shakespeare.",
+  "He loved comical fop parts but failed at tragedy.",
+  "Peers accused him of shady business and opportunism.",
+  "His poetry is remembered only for being poor."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.08,
+    0.24
+   ],
+   [
+    "Poet",
+    0.24,
+    0.68
+   ],
+   [
+    "Laureate",
+    0.7,
+    1.16
+   ],
+   [
+    "was",
+    1.24,
+    1.38
+   ],
+   [
+    "called",
+    1.38,
+    1.76
+   ],
+   [
+    "a",
+    1.76,
+    2.02
+   ],
+   [
+    "\"head",
+    2.02,
+    2.34
+   ],
+   [
+    "Dunce\".",
+    2.34,
+    2.86
+   ],
+   [
+    "Colley",
+    3.34,
+    3.64
+   ],
+   [
+    "Cibber",
+    3.64,
+    3.98
+   ],
+   [
+    "was",
+    3.98,
+    4.14
+   ],
+   [
+    "an",
+    4.14,
+    4.28
+   ],
+   [
+    "English",
+    4.28,
+    4.56
+   ],
+   [
+    "actor",
+    4.56,
+    4.96
+   ],
+   [
+    "and",
+    4.96,
+    5.2
+   ],
+   [
+    "playwright.",
+    5.2,
+    5.3
+   ],
+   [
+    "He",
+    6.16,
+    6.2
+   ],
+   [
+    "wrote",
+    6.2,
+    6.34
+   ],
+   [
+    "25",
+    6.34,
+    6.9
+   ],
+   [
+    "plays",
+    6.9,
+    7.28
+   ],
+   [
+    "for",
+    7.28,
+    7.56
+   ],
+   [
+    "Drury",
+    7.56,
+    7.84
+   ],
+   [
+    "Lane.",
+    7.84,
+    8.14
+   ],
+   [
+    "Critics",
+    8.8,
+    9.16
+   ],
+   [
+    "hated",
+    9.16,
+    9.54
+   ],
+   [
+    "his",
+    9.54,
+    9.82
+   ],
+   [
+    "\"miserable",
+    9.96,
+    10.56
+   ],
+   [
+    "mutilation\"",
+    10.56,
+    11.34
+   ],
+   [
+    "of",
+    11.46,
+    11.48
+   ],
+   [
+    "Shakespeare.",
+    11.48,
+    11.7
+   ],
+   [
+    "He",
+    12.54,
+    12.64
+   ],
+   [
+    "loved",
+    12.64,
+    12.96
+   ],
+   [
+    "comical",
+    12.96,
+    13.58
+   ],
+   [
+    "fop",
+    13.58,
+    13.98
+   ],
+   [
+    "parts",
+    13.98,
+    14.32
+   ],
+   [
+    "but",
+    14.32,
+    14.76
+   ],
+   [
+    "failed",
+    14.96,
+    15.16
+   ],
+   [
+    "at",
+    15.16,
+    15.36
+   ],
+   [
+    "tragedy.",
+    15.36,
+    15.7
+   ],
+   [
+    "Peers",
+    16.54,
+    16.68
+   ],
+   [
+    "accused",
+    16.68,
+    17.04
+   ],
+   [
+    "him",
+    17.04,
+    17.26
+   ],
+   [
+    "of",
+    17.26,
+    17.42
+   ],
+   [
+    "shady",
+    17.42,
+    17.76
+   ],
+   [
+    "business",
+    17.76,
+    18.2
+   ],
+   [
+    "and",
+    18.2,
+    18.52
+   ],
+   [
+    "opportunism.",
+    18.52,
+    19.18
+   ],
+   [
+    "His",
+    19.8,
+    19.9
+   ],
+   [
+    "poetry",
+    19.9,
+    20.2
+   ],
+   [
+    "is",
+    20.2,
+    20.64
+   ],
+   [
+    "remembered",
+    20.64,
+    20.94
+   ],
+   [
+    "only",
+    20.94,
+    21.44
+   ],
+   [
+    "for",
+    21.44,
+    21.64
+   ],
+   [
+    "being",
+    21.64,
+    21.86
+   ],
+   [
+    "poor.",
+    21.86,
+    22.58
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   23,
+   30,
+   39,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Alexander_Pope_circa_1736.jpeg/960px-Alexander_Pope_circa_1736.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 866,
+   "license": "Public domain",
+   "artist": "Attributed to Jonathan Richardson",
+   "page": "https://commons.wikimedia.org/wiki/File:Alexander_Pope_circa_1736.jpeg",
+   "desc": "Alexander Pope circa 1736 — Portrait of Alexander Pope"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Colley_Cibber.png/960px-Colley_Cibber.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1013,
+   "license": "Public domain",
+   "artist": "Gerard Vandergucht",
+   "page": "https://commons.wikimedia.org/wiki/File:Colley_Cibber.png",
+   "desc": "Colley Cibber — Colley Cibber"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Drury_Lane_playbill_1725.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 914,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Drury_Lane_playbill_1725.jpg",
+   "desc": "Drury Lane playbill 1725 — Drury Lane playbill, advertising a performance of John Fletcher's Rule a Wife and Have a Wife\"."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/An_art_edition_of_Shakespeare%2C_classified_as_comedies%2C_tragedies%2C_histories_and_sonnets%2C_each_part_arranged_in_chronological_order%2C_including_also_a_list_of_familiar_quotations_%281889%29_%2814596246340%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 833,
+   "license": "No restrictions",
+   "artist": "Internet Archive Book Images",
+   "page": "https://commons.wikimedia.org/wiki/File:An_art_edition_of_Shakespeare,_classified_as_comedies,_tragedies,_histories_and_sonnets,_each_part_arranged_in_chronological_order,_including_also_a_list_of_familiar_quotations_(1889)_(14596246340).jpg",
+   "desc": "An art edition of Shakespeare, classified as comedies, tragedies, histories and sonnets, each part arranged in chronological order, including also a list of familiar quotations (1889) (14596246340) — Identifier: arteditionofshak00shak (find matches) Title: An "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Colley_Cibber_as_Lord_Foppington_in_The_Relapse_by_John_Vanbrugh1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 886,
+   "license": "Public domain",
+   "artist": "Giuseppe Grisoni",
+   "page": "https://commons.wikimedia.org/wiki/File:Colley_Cibber_as_Lord_Foppington_in_The_Relapse_by_John_Vanbrugh1.jpg",
+   "desc": "Colley Cibber as Lord Foppington in The Relapse by John Vanbrugh1 — Portrait of the English actor Colley Cibber as Lord Foppington from the Restoration Comedy The Relapse (1696)"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1740
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 25,
+   "unit": "plays",
+   "label": "plays for Drury Lane"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q918326",
+ "pron_wer": 0.073,
+ "angle": 0,
+ "source": {
+  "title": "Colley Cibber",
+  "url": "https://en.wikipedia.org/wiki/Colley_Cibber",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T06:55:51Z",
+ "trimmed": true
+}
