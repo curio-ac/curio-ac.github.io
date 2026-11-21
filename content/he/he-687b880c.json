@@ -1,0 +1,424 @@
+{
+ "id": "he-687b880c",
+ "lang": "he",
+ "title": "פיסת מאדים אצלנו בכדור הארץ",
+ "cat": "space",
+ "emoji": "☄️",
+ "sentences": [
+  "מטאוריט ממאדים נחת אצלנו בכדור הארץ.",
+  "זהו Teghaza 001, אחד המטאוריטים העתיקים ביותר שנמצאו.",
+  "מדענים השתמשו בפרוסה הזו כדי לקבוע את גיל הסלע.",
+  "תמונות אור משמשות להם כמפת דרכים לזיהוי מינרלים.",
+  "גרגירים בהירים מראים ברזל וטיטניום המעידים על מבנה מאדים.",
+  "אזורים כהים נוצרו בגלל לחץ עצום ממכות שהעיפו אותו לחלל.",
+  "חלק מהשינויים בסלע קרו ממש כאן על כדור הארץ."
+ ],
+ "tim": {
+  "w": [
+   [
+    "מטאוריט",
+    0.08,
+    0.54
+   ],
+   [
+    "ממאדים",
+    0.58,
+    1.22
+   ],
+   [
+    "נחת",
+    1.22,
+    1.74
+   ],
+   [
+    "אצלנו",
+    1.9,
+    2.16
+   ],
+   [
+    "בכדור",
+    2.16,
+    2.6
+   ],
+   [
+    "הארץ.",
+    2.6,
+    2.86
+   ],
+   [
+    "זהו",
+    3.68,
+    3.98
+   ],
+   [
+    "Teghaza",
+    4.14,
+    4.6
+   ],
+   [
+    "001,",
+    4.6,
+    5.0
+   ],
+   [
+    "אחד",
+    5.44,
+    5.56
+   ],
+   [
+    "המטאוריטים",
+    5.56,
+    6.28
+   ],
+   [
+    "העתיקים",
+    6.28,
+    6.92
+   ],
+   [
+    "ביותר",
+    6.92,
+    7.38
+   ],
+   [
+    "שנמצאו.",
+    7.38,
+    7.86
+   ],
+   [
+    "מדענים",
+    8.58,
+    8.92
+   ],
+   [
+    "השתמשו",
+    8.92,
+    9.38
+   ],
+   [
+    "בפרוסה",
+    9.38,
+    9.98
+   ],
+   [
+    "הזו",
+    9.98,
+    10.28
+   ],
+   [
+    "כדי",
+    10.28,
+    10.62
+   ],
+   [
+    "לקבוע",
+    10.62,
+    11.12
+   ],
+   [
+    "את",
+    11.12,
+    11.34
+   ],
+   [
+    "גיל",
+    11.36,
+    11.64
+   ],
+   [
+    "הסלע.",
+    11.64,
+    12.06
+   ],
+   [
+    "תמונות",
+    12.96,
+    13.12
+   ],
+   [
+    "אור",
+    13.28,
+    13.54
+   ],
+   [
+    "משמשות",
+    13.54,
+    14.08
+   ],
+   [
+    "להם",
+    14.08,
+    14.34
+   ],
+   [
+    "כמפת",
+    14.34,
+    14.88
+   ],
+   [
+    "דרכים",
+    14.96,
+    15.5
+   ],
+   [
+    "לזיהוי",
+    15.5,
+    16.04
+   ],
+   [
+    "מינרלים.",
+    16.04,
+    16.48
+   ],
+   [
+    "גרגירים",
+    17.28,
+    17.72
+   ],
+   [
+    "בהירים",
+    17.72,
+    18.28
+   ],
+   [
+    "מראים",
+    18.28,
+    18.7
+   ],
+   [
+    "ברזל",
+    18.7,
+    19.34
+   ],
+   [
+    "וטיטניום",
+    19.34,
+    20.2
+   ],
+   [
+    "המעידים",
+    20.48,
+    20.88
+   ],
+   [
+    "על",
+    20.88,
+    21.02
+   ],
+   [
+    "מבנה",
+    21.02,
+    21.54
+   ],
+   [
+    "מאדים.",
+    21.54,
+    21.96
+   ],
+   [
+    "אזורים",
+    22.64,
+    23.0
+   ],
+   [
+    "כהים",
+    23.0,
+    23.48
+   ],
+   [
+    "נוצרו",
+    23.48,
+    23.94
+   ],
+   [
+    "בגלל",
+    23.94,
+    24.2
+   ],
+   [
+    "לחץ",
+    24.2,
+    24.68
+   ],
+   [
+    "עצום",
+    24.68,
+    25.24
+   ],
+   [
+    "ממכות",
+    25.24,
+    25.9
+   ],
+   [
+    "שהעיפו",
+    25.92,
+    26.5
+   ],
+   [
+    "אותו",
+    26.5,
+    26.68
+   ],
+   [
+    "לחלל.",
+    26.68,
+    27.1
+   ],
+   [
+    "חלק",
+    27.96,
+    28.08
+   ],
+   [
+    "מהשינויים",
+    28.08,
+    28.66
+   ],
+   [
+    "בסלע",
+    28.66,
+    29.1
+   ],
+   [
+    "קרו",
+    29.1,
+    29.64
+   ],
+   [
+    "ממש",
+    29.64,
+    30.18
+   ],
+   [
+    "כאן",
+    30.18,
+    30.62
+   ],
+   [
+    "על",
+    30.62,
+    30.82
+   ],
+   [
+    "כדור",
+    31.06,
+    31.2
+   ],
+   [
+    "הארץ.",
+    31.2,
+    31.78
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   14,
+   23,
+   31,
+   40,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Slice_of_Martian_Meteorite_Teghaza_001_%28PIA26801%29.jpg/960px-Slice_of_Martian_Meteorite_Teghaza_001_%28PIA26801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 556,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Slice_of_Martian_Meteorite_Teghaza_001_(PIA26801).jpg",
+   "desc": "Slice of Martian Meteorite Teghaza 001 (PIA26801) — This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dhofar019-Fig1.jpg/960px-Dhofar019-Fig1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1366,
+   "license": "CC BY 4.0",
+   "artist": "L. J. Hallis, Lotta Kemppinen, M. R. Lee, L- A. Taylor",
+   "page": "https://commons.wikimedia.org/wiki/File:Dhofar019-Fig1.jpg",
+   "desc": "Dhofar019-Fig1 — False-color X-ray (a, g) and BSE images (b–f) of mars meteorite Dhofar 019 thin-section 610-A. The full thin-section false-color image (Mg = green; Fe = red; Si = blue; Ti = pink) shows olivine (olv) in yellow/lime green"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Minerals-14-00018-g001.png/960px-Minerals-14-00018-g001.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 291,
+   "license": "CC BY 4.0",
+   "artist": "Chi Ma, Oliver Tschauner, Vitali B. Prakapenka, John R. Beckett, Eran Greenberg,",
+   "page": "https://commons.wikimedia.org/wiki/File:Minerals-14-00018-g001.png",
+   "desc": "Minerals-14-00018-g001 — a) Backscatter electron (BSE) image: zagamiite-bearing shock melt pocket in Zagami meteorite. (b) Enlarged BSE image of areas in Fig. a revealing fine-grained zagamiite. Stishovite-bearing regions also contain zagamiite "
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Teghaza 001 meteorite",
+   "box": [
+    52,
+    10,
+    972,
+    951
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "iron-titanium oxides",
+   "box": [
+    5,
+    10,
+    452,
+    985
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "shocked plagioclase",
+   "box": [
+    10,
+    10,
+    485,
+    495
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+ "pron_wer": 0.068,
+ "angle": 0,
+ "source": {
+  "title": "Slice of Martian Meteorite Teghaza 001",
+  "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T13:51:22Z",
+ "trimmed": true
+}
