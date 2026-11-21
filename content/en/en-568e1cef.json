@@ -1,0 +1,454 @@
+{
+ "id": "en-568e1cef",
+ "lang": "en",
+ "title": "Apollo 11 Coin Secrets",
+ "cat": "space",
+ "emoji": "🪙",
+ "sentences": [
+  "Space coins feature a famous bootprint.",
+  "The US Mint issued them in 2019 for the Apollo 11 moon landing.",
+  "The set includes a gold $5 coin, silver dollars, and a clad half dollar.",
+  "Every coin shares the exact same design across all metals.",
+  "The front shows a lunar bootprint photographed by Buzz Aldrin.",
+  "The back reflects Neil Armstrong and the Eagle in Aldrin's helmet visor."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Space",
+    0.26,
+    0.26
+   ],
+   [
+    "coins",
+    0.26,
+    0.68
+   ],
+   [
+    "feature",
+    0.68,
+    1.1
+   ],
+   [
+    "a",
+    1.1,
+    1.36
+   ],
+   [
+    "famous",
+    1.36,
+    1.72
+   ],
+   [
+    "bootprint.",
+    1.72,
+    2.77
+   ],
+   [
+    "The",
+    3.1,
+    3.12
+   ],
+   [
+    "US",
+    3.12,
+    3.4
+   ],
+   [
+    "Mint",
+    3.4,
+    3.76
+   ],
+   [
+    "issued",
+    3.76,
+    4.16
+   ],
+   [
+    "them",
+    4.16,
+    4.42
+   ],
+   [
+    "in",
+    4.42,
+    4.64
+   ],
+   [
+    "2019",
+    4.78,
+    5.32
+   ],
+   [
+    "for",
+    5.72,
+    5.82
+   ],
+   [
+    "the",
+    5.82,
+    5.92
+   ],
+   [
+    "Apollo",
+    5.92,
+    6.24
+   ],
+   [
+    "11",
+    6.24,
+    6.72
+   ],
+   [
+    "moon",
+    6.74,
+    6.98
+   ],
+   [
+    "landing.",
+    6.98,
+    7.16
+   ],
+   [
+    "The",
+    8.1,
+    8.2
+   ],
+   [
+    "set",
+    8.2,
+    8.42
+   ],
+   [
+    "includes",
+    8.42,
+    8.82
+   ],
+   [
+    "a",
+    8.82,
+    9.1
+   ],
+   [
+    "gold",
+    9.2,
+    9.34
+   ],
+   [
+    "$5",
+    9.34,
+    9.74
+   ],
+   [
+    "coin,",
+    9.74,
+    10.44
+   ],
+   [
+    "silver",
+    10.88,
+    10.94
+   ],
+   [
+    "dollars,",
+    10.94,
+    11.62
+   ],
+   [
+    "and",
+    11.68,
+    11.7
+   ],
+   [
+    "a",
+    11.7,
+    11.82
+   ],
+   [
+    "clad",
+    11.88,
+    12.12
+   ],
+   [
+    "half",
+    12.12,
+    12.4
+   ],
+   [
+    "dollar.",
+    12.4,
+    12.82
+   ],
+   [
+    "Every",
+    13.68,
+    13.9
+   ],
+   [
+    "coin",
+    13.9,
+    14.22
+   ],
+   [
+    "shares",
+    14.22,
+    14.54
+   ],
+   [
+    "the",
+    14.54,
+    14.76
+   ],
+   [
+    "exact",
+    14.76,
+    15.2
+   ],
+   [
+    "same",
+    15.2,
+    15.5
+   ],
+   [
+    "design",
+    15.5,
+    15.94
+   ],
+   [
+    "across",
+    16.12,
+    16.24
+   ],
+   [
+    "all",
+    16.24,
+    16.66
+   ],
+   [
+    "metals.",
+    16.66,
+    17.2
+   ],
+   [
+    "The",
+    17.94,
+    18.04
+   ],
+   [
+    "front",
+    18.04,
+    18.28
+   ],
+   [
+    "shows",
+    18.28,
+    18.58
+   ],
+   [
+    "a",
+    18.58,
+    18.82
+   ],
+   [
+    "lunar",
+    18.82,
+    19.02
+   ],
+   [
+    "bootprint",
+    19.02,
+    19.54
+   ],
+   [
+    "photographed",
+    19.74,
+    19.92
+   ],
+   [
+    "by",
+    19.92,
+    20.34
+   ],
+   [
+    "Buzz",
+    20.46,
+    20.56
+   ],
+   [
+    "Aldrin.",
+    20.56,
+    20.88
+   ],
+   [
+    "The",
+    21.76,
+    21.84
+   ],
+   [
+    "back",
+    21.84,
+    22.08
+   ],
+   [
+    "reflects",
+    22.08,
+    22.52
+   ],
+   [
+    "Neil",
+    22.52,
+    22.82
+   ],
+   [
+    "Armstrong",
+    22.82,
+    23.28
+   ],
+   [
+    "and",
+    23.28,
+    23.62
+   ],
+   [
+    "the",
+    23.62,
+    23.74
+   ],
+   [
+    "Eagle",
+    23.74,
+    24.02
+   ],
+   [
+    "in",
+    24.02,
+    24.3
+   ],
+   [
+    "Aldrin's",
+    24.58,
+    24.74
+   ],
+   [
+    "helmet",
+    24.74,
+    24.94
+   ],
+   [
+    "visor.",
+    24.94,
+    25.34
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   19,
+   33,
+   43,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Apollo_reverse_unveiling.jpg/960px-Apollo_reverse_unveiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 481,
+   "license": "Public domain",
+   "artist": "Sharon McPike of the US Mint",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_reverse_unveiling.jpg",
+   "desc": "Apollo reverse unveiling — DSC_0351 Apollo 7 astronaut Walter Cunningham and Sheryl Chaffee, daughter of Apollo 1 astronaut Roger Chaffee, assist in the unveiling of the Apollo 11 50th Anniversary Commemorative Coin reverse design at the Smithsoni"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Apollo_11_50th_Anniversary_silver_dollar_reverse.png/960px-Apollo_11_50th_Anniversary_silver_dollar_reverse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 715,
+   "license": "Public domain",
+   "artist": "Phebe Hemphill (coin), Mysterymanblue (photograph)",
+   "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_50th_Anniversary_silver_dollar_reverse.png",
+   "desc": "Apollo 11 50th Anniversary silver dollar reverse — Reverse of the Apollo 11 50th Anniversary silver dollar. Photographed by me down a tube of paper to avoid reflections."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg/960px-Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 721,
+   "license": "Public domain",
+   "artist": "Buzz Aldrin",
+   "page": "https://commons.wikimedia.org/wiki/File:Buzz_Aldrin%27s_bootprint_on_the_Moon,_AS11-40-5877.jpg",
+   "desc": "Buzz Aldrin's bootprint on the Moon, AS11-40-5877 — Apollo 11 Hasselblad image from film magazine 40/S - EVA The NASA Special Publication 246, Lunar Photographs from Apollos 8, 10, and 11 (1971) has the following caption for this photo: This overhead view show"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/960px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 728,
+   "license": "Public domain",
+   "artist": "Neil A. Armstrong",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg",
+   "desc": "A Man on the Moon, AS11-40-5903 (cropped) — Apollo 11 Hasselblad image from film magazine 40/S - EVA. The image of astronaut Neil Armstrong photographing astronaut Aldrin is clearly seen in the reflections on the helmet visor of astronaut Aldrin. Astronaut Arm"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2019
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "$",
+   "label": "gold coin"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "bootprint",
+   "box": [
+    484,
+    435,
+    826,
+    635
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "helmet visor",
+   "box": [
+    47,
+    452,
+    158,
+    576
+   ]
+  }
+ ],
+ "geo": null,
+ "qid": "Q65090715",
+ "pron_wer": 0.076,
+ "angle": 0,
+ "source": {
+  "title": "Apollo 11 50th Anniversary commemorative coins",
+  "url": "https://en.wikipedia.org/wiki/Apollo_11_50th_Anniversary_commemorative_coins",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T11:59:30Z",
+ "trimmed": true
+}

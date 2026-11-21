@@ -347,7 +347,8 @@
   "1740 Batavia massacre",
   "nasa:1440911",
   "Boring Lava Field",
-  "2000 Sugar Bowl"
+  "2000 Sugar Bowl",
+  "nasa:1398778"
  ],
  "rejected": [
   "Chameleon",
@@ -438,7 +439,8 @@
   "1980 World Snooker Championship",
   "Black-necked grebe",
   "1937 Brazilian coup d'état",
-  "nasa:1487832"
+  "nasa:1487832",
+  "Barton Fink"
  ],
  "angles": {
   "Blue whale": [
@@ -1562,6 +1564,9 @@
   ],
   "2000 Sugar Bowl": [
    "The 2000 Sugar Bowl Showdown: 18.4 million people watched this wild championship."
+  ],
+  "nasa:1398778": [
+   "Greenland's Hidden Underground World: Greenland hides a massive, secret valley network."
   ]
  },
  "exhausted": []
