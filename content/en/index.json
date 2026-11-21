@@ -318,7 +318,8 @@
   "nasa:1473526",
   "Banksia ericifolia",
   "HMS Courageous (50)",
-  "California State Route 78"
+  "California State Route 78",
+  "Nick Adenhart"
  ],
  "rejected": [
   "Chameleon",
@@ -400,7 +401,8 @@
   "Nicky Barr",
   "2017 Africa Cup of Nations final",
   "nasa:1472651",
-  "nasa:1508615"
+  "nasa:1508615",
+  "nasa:1278372"
  ],
  "angles": {
   "Blue whale": [
@@ -1435,6 +1437,9 @@
   ],
   "California State Route 78": [
    "California's Coast to Desert Highway: This highway crosses almost the entire state."
+  ],
+  "Nick Adenhart": [
+   "Tragic Fate of Nick Adenhart: Killed right after his 2009 baseball start."
   ]
  },
  "exhausted": []

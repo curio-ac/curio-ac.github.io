@@ -1,0 +1,442 @@
+{
+ "id": "en-88235e07",
+ "lang": "en",
+ "title": "U2 Blinding Lights Secrets",
+ "cat": "art",
+ "emoji": "🎸",
+ "sentences": [
+  "Born during 1997 sessions for the album Pop!",
+  "U2 later released the track on 6 Jun 2005.",
+  "The lyrics also reflect NYC after the 2001 attacks.",
+  "Bono's lost innocence theme came from an early 1980s photo.",
+  "Its sound channels their 1984 album, The Unforgettable Fire.",
+  "The music video was filmed in Vancouver, Canada.",
+  "It even reached number 1 in Spain!"
+ ],
+ "tim": {
+  "w": [
+   [
+    "Born",
+    0.35,
+    0.49
+   ],
+   [
+    "during",
+    0.49,
+    0.73
+   ],
+   [
+    "1997",
+    0.73,
+    1.35
+   ],
+   [
+    "sessions",
+    1.35,
+    2.01
+   ],
+   [
+    "for",
+    2.01,
+    2.29
+   ],
+   [
+    "the",
+    2.29,
+    2.35
+   ],
+   [
+    "album",
+    2.35,
+    2.59
+   ],
+   [
+    "Pop!",
+    2.59,
+    3.33
+   ],
+   [
+    "U2",
+    3.33,
+    3.63
+   ],
+   [
+    "later",
+    3.63,
+    4.01
+   ],
+   [
+    "released",
+    4.01,
+    4.35
+   ],
+   [
+    "the",
+    4.35,
+    4.51
+   ],
+   [
+    "track",
+    4.51,
+    4.73
+   ],
+   [
+    "on",
+    4.73,
+    4.97
+   ],
+   [
+    "6",
+    4.97,
+    5.25
+   ],
+   [
+    "Jun",
+    5.25,
+    5.59
+   ],
+   [
+    "2005.",
+    5.59,
+    6.51
+   ],
+   [
+    "The",
+    7.19,
+    7.27
+   ],
+   [
+    "lyrics",
+    7.27,
+    7.51
+   ],
+   [
+    "also",
+    7.51,
+    7.87
+   ],
+   [
+    "reflect",
+    7.87,
+    8.25
+   ],
+   [
+    "NYC",
+    8.43,
+    8.93
+   ],
+   [
+    "after",
+    8.93,
+    9.29
+   ],
+   [
+    "the",
+    9.29,
+    9.41
+   ],
+   [
+    "2001",
+    9.41,
+    9.99
+   ],
+   [
+    "attacks.",
+    9.99,
+    10.45
+   ],
+   [
+    "Bono's",
+    11.03,
+    11.39
+   ],
+   [
+    "lost",
+    11.39,
+    11.61
+   ],
+   [
+    "innocence",
+    11.61,
+    11.89
+   ],
+   [
+    "theme",
+    11.89,
+    12.27
+   ],
+   [
+    "came",
+    12.27,
+    12.55
+   ],
+   [
+    "from",
+    12.55,
+    12.75
+   ],
+   [
+    "an",
+    12.75,
+    12.85
+   ],
+   [
+    "early",
+    12.85,
+    13.09
+   ],
+   [
+    "1980s",
+    13.09,
+    13.89
+   ],
+   [
+    "photo.",
+    13.89,
+    14.19
+   ],
+   [
+    "Its",
+    14.67,
+    14.77
+   ],
+   [
+    "sound",
+    14.87,
+    15.07
+   ],
+   [
+    "channels",
+    15.07,
+    15.39
+   ],
+   [
+    "their",
+    15.39,
+    15.57
+   ],
+   [
+    "1984",
+    15.57,
+    16.11
+   ],
+   [
+    "album,",
+    16.11,
+    16.85
+   ],
+   [
+    "The",
+    16.93,
+    16.93
+   ],
+   [
+    "Unforgettable",
+    16.93,
+    17.45
+   ],
+   [
+    "Fire.",
+    17.45,
+    17.99
+   ],
+   [
+    "The",
+    18.49,
+    18.55
+   ],
+   [
+    "music",
+    18.55,
+    18.79
+   ],
+   [
+    "video",
+    18.79,
+    19.13
+   ],
+   [
+    "was",
+    19.13,
+    19.35
+   ],
+   [
+    "filmed",
+    19.35,
+    19.59
+   ],
+   [
+    "in",
+    19.59,
+    19.79
+   ],
+   [
+    "Vancouver,",
+    19.79,
+    20.33
+   ],
+   [
+    "Canada.",
+    20.53,
+    20.75
+   ],
+   [
+    "It",
+    21.21,
+    21.27
+   ],
+   [
+    "even",
+    21.27,
+    21.51
+   ],
+   [
+    "reached",
+    21.51,
+    21.81
+   ],
+   [
+    "number",
+    21.81,
+    22.11
+   ],
+   [
+    "1",
+    22.11,
+    22.41
+   ],
+   [
+    "in",
+    22.41,
+    22.63
+   ],
+   [
+    "Spain!",
+    22.63,
+    23.09
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   26,
+   36,
+   45,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/U2_montage_%28Pop_style%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 848,
+   "license": "CC BY-SA 3.0",
+   "artist": "File:U2 montage.jpg: File:Bono at the 2009 Tribeca Film Festival.jpg: David Shan",
+   "page": "https://commons.wikimedia.org/wiki/File:U2_montage_(Pop_style).jpg",
+   "desc": "U2 montage (Pop style) — Photomontage of the Irish rock band U2, with positioning and colors inspired by the cover art of the album Pop. Clockwise from top left: Adam Clayton, Bono, The Edge, and Larry Mullen, Jr."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/VertigoTour20050522_COBL.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 521,
+   "license": "Public domain",
+   "artist": "Jonathan Schilling (Wasted Time R)",
+   "page": "https://commons.wikimedia.org/wiki/File:VertigoTour20050522_COBL.jpg",
+   "desc": "VertigoTour20050522 COBL — U2's Vertigo Tour, Wachovia Center, Philadelphia, 22 May 2005, \"City of Blinding Lights\"."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pont_de_Brooklyn_de_nuit_-_Octobre_2008.jpg/960px-Pont_de_Brooklyn_de_nuit_-_Octobre_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 200,
+   "license": "CC BY-SA 3.0",
+   "artist": "Martin St-Amant (S23678)",
+   "page": "https://commons.wikimedia.org/wiki/File:Pont_de_Brooklyn_de_nuit_-_Octobre_2008.jpg",
+   "desc": "Pont de Brooklyn de nuit - Octobre 2008 — Night Panorama of Brooklyn Bridge and Financial sector of Manhattan. Three panoramas at different exposures have been assembled with Enfuse"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/U2_21081983_01_800b.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 475,
+   "license": "CC BY-SA 4.0",
+   "artist": "Helge Øverås",
+   "page": "https://commons.wikimedia.org/wiki/File:U2_21081983_01_800b.jpg",
+   "desc": "U2 21081983 01 800b — U2, Kalvøya-festivalen (Isle of Calf Festival), Norway"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Vancouver-gmplace3.jpg/960px-Vancouver-gmplace3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 373,
+   "license": "Attribution",
+   "artist": "Buchanan-Hermit",
+   "page": "https://commons.wikimedia.org/wiki/File:Vancouver-gmplace3.jpg",
+   "desc": "Vancouver-gmplace3 — Exteriors of General Motors Place. Vancouver, BC, Canada."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/1_toledo_spain_evening_sunset_2014_DXR_edit.jpg/960px-1_toledo_spain_evening_sunset_2014_DXR_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 316,
+   "license": "CC BY-SA 3.0",
+   "artist": "Chensiyuan",
+   "page": "https://commons.wikimedia.org/wiki/File:1_toledo_spain_evening_sunset_2014_DXR_edit.jpg",
+   "desc": "1 toledo spain evening sunset 2014 DXR edit — A Panorama of Toledo as seen from Parador Hotel"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1997
+  },
+  {
+   "type": "timeline",
+   "year": 2005
+  },
+  {
+   "type": "timeline",
+   "year": 2001
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1984
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "Spain",
+   "label": "number one"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2127565",
+ "pron_wer": 0.066,
+ "angle": 1,
+ "source": {
+  "title": "City of Blinding Lights",
+  "url": "https://en.wikipedia.org/wiki/City_of_Blinding_Lights",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T02:17:12Z",
+ "trimmed": true
+}
