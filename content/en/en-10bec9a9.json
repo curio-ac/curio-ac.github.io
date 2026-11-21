@@ -1,0 +1,430 @@
+{
+ "id": "en-10bec9a9",
+ "lang": "en",
+ "title": "Voyager Reaches One Light-Day",
+ "cat": "space",
+ "emoji": "🚀",
+ "sentences": [
+  "Voyager 1 will hit 1 light-day away!",
+  "In 1977, NASA launched twin spacecraft for a Grand Tour.",
+  "They used planetary alignment and gravity assists to visit outer planets.",
+  "Each craft carries a Golden Record with sounds and greetings from Earth.",
+  "The record cover has uranium-238 with a half-life of 4.468 billion years.",
+  "Today, Voyager 1 is over 16 billion miles from the Sun."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Voyager",
+    0.14,
+    0.42
+   ],
+   [
+    "1",
+    0.42,
+    0.74
+   ],
+   [
+    "will",
+    0.74,
+    1.06
+   ],
+   [
+    "hit",
+    1.06,
+    1.3
+   ],
+   [
+    "1",
+    1.3,
+    1.66
+   ],
+   [
+    "light-day",
+    1.66,
+    2.34
+   ],
+   [
+    "away!",
+    2.34,
+    2.64
+   ],
+   [
+    "In",
+    3.22,
+    3.3
+   ],
+   [
+    "1977,",
+    3.3,
+    4.38
+   ],
+   [
+    "NASA",
+    4.64,
+    4.8
+   ],
+   [
+    "launched",
+    4.8,
+    5.18
+   ],
+   [
+    "twin",
+    5.18,
+    5.5
+   ],
+   [
+    "spacecraft",
+    5.5,
+    5.98
+   ],
+   [
+    "for",
+    6.0,
+    6.36
+   ],
+   [
+    "a",
+    6.36,
+    6.52
+   ],
+   [
+    "Grand",
+    6.68,
+    6.82
+   ],
+   [
+    "Tour.",
+    6.82,
+    7.72
+   ],
+   [
+    "They",
+    7.72,
+    7.8
+   ],
+   [
+    "used",
+    7.8,
+    8.02
+   ],
+   [
+    "planetary",
+    8.02,
+    8.48
+   ],
+   [
+    "alignment",
+    8.48,
+    8.96
+   ],
+   [
+    "and",
+    8.96,
+    9.18
+   ],
+   [
+    "gravity",
+    9.18,
+    9.5
+   ],
+   [
+    "assists",
+    9.5,
+    9.88
+   ],
+   [
+    "to",
+    9.88,
+    10.24
+   ],
+   [
+    "visit",
+    10.24,
+    10.46
+   ],
+   [
+    "outer",
+    10.46,
+    10.72
+   ],
+   [
+    "planets.",
+    10.72,
+    11.34
+   ],
+   [
+    "Each",
+    11.84,
+    12.0
+   ],
+   [
+    "craft",
+    12.0,
+    12.3
+   ],
+   [
+    "carries",
+    12.3,
+    12.66
+   ],
+   [
+    "a",
+    12.66,
+    12.82
+   ],
+   [
+    "Golden",
+    12.82,
+    13.12
+   ],
+   [
+    "Record",
+    13.12,
+    13.48
+   ],
+   [
+    "with",
+    13.64,
+    13.74
+   ],
+   [
+    "sounds",
+    13.74,
+    14.14
+   ],
+   [
+    "and",
+    14.14,
+    14.4
+   ],
+   [
+    "greetings",
+    14.4,
+    14.66
+   ],
+   [
+    "from",
+    14.66,
+    14.94
+   ],
+   [
+    "Earth.",
+    14.94,
+    15.14
+   ],
+   [
+    "The",
+    15.76,
+    15.86
+   ],
+   [
+    "record",
+    15.86,
+    16.08
+   ],
+   [
+    "cover",
+    16.08,
+    16.36
+   ],
+   [
+    "has",
+    16.36,
+    16.64
+   ],
+   [
+    "uranium-238",
+    16.64,
+    17.94
+   ],
+   [
+    "with",
+    17.94,
+    18.32
+   ],
+   [
+    "a",
+    18.34,
+    18.44
+   ],
+   [
+    "half-life",
+    18.44,
+    18.86
+   ],
+   [
+    "of",
+    18.86,
+    19.06
+   ],
+   [
+    "4.468",
+    19.06,
+    20.42
+   ],
+   [
+    "billion",
+    20.42,
+    20.9
+   ],
+   [
+    "years.",
+    20.9,
+    21.54
+   ],
+   [
+    "Today,",
+    22.08,
+    22.38
+   ],
+   [
+    "Voyager",
+    22.82,
+    23.02
+   ],
+   [
+    "1",
+    23.02,
+    23.32
+   ],
+   [
+    "is",
+    23.32,
+    23.5
+   ],
+   [
+    "over",
+    23.5,
+    23.68
+   ],
+   [
+    "16",
+    23.68,
+    24.2
+   ],
+   [
+    "billion",
+    24.2,
+    24.7
+   ],
+   [
+    "miles",
+    24.7,
+    25.08
+   ],
+   [
+    "from",
+    25.08,
+    25.38
+   ],
+   [
+    "the",
+    25.38,
+    25.5
+   ],
+   [
+    "Sun.",
+    25.5,
+    25.78
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   17,
+   28,
+   40,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Voyager.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 563,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager.jpg",
+   "desc": "Voyager — NASA photograph of one of the two identical Voyager space probes Voyager 1 and Voyager 2 launched in 1977. The 3.7 metre diameter high-gain antenna (HGA) is attached to the hollow ten-sided polygonal body housing the ele"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Voyager_Golden_Record_01.jpg/960px-Voyager_Golden_Record_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 669,
+   "license": "CC BY-SA 3.0",
+   "artist": "Huhu Uet",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager_Golden_Record_01.jpg",
+   "desc": "Voyager Golden Record 01 — Voyager Golden Record. w:en:Arecibo message reflected."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg/960px-The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/JPL",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg",
+   "desc": "The Sounds of Earth Record Cover - GPN-2000-001978 — Voyager Golden Record This gold aluminium cover was designed to protect the Voyager 1 and 2 \"Sounds of Earth\" gold-plated records from micrometeorite bombardment, but also serves a double purpose in providin"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Voyager_1_entering_heliosheath_region.jpg/960px-Voyager_1_entering_heliosheath_region.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 486,
+   "license": "Public domain",
+   "artist": "NASA/Walt Feimer",
+   "page": "https://commons.wikimedia.org/wiki/File:Voyager_1_entering_heliosheath_region.jpg",
+   "desc": "Voyager 1 entering heliosheath region — This image shows the locations of Voyagers 1 and 2. Voyager 1 is traveling a lot and has crossed into the heliosheath, the region where interstellar gas and solar wind start to mix. Suggested for English Wikipedia:altern"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "light-day",
+   "label": "Voyager 1 distance"
+  },
+  {
+   "type": "timeline",
+   "year": 1977
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "November’s Night Sky Notes: Light-Day Away",
+  "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T05:51:09Z",
+ "trimmed": true
+}
