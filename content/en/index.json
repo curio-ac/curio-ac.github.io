@@ -338,7 +338,8 @@
   "Doom (2016 video game)",
   "nasa:1488059",
   "Bad Times at the El Royale",
-  "nasa:1277091"
+  "nasa:1277091",
+  "Nadezhda Alliluyeva"
  ],
  "rejected": [
   "Chameleon",
@@ -1524,6 +1525,9 @@
   ],
   "nasa:1277091": [
    "New Mexico Reservoir Hits Low: New Mexico's largest reservoir hit 1.4 percent capacity!"
+  ],
+  "Nadezhda Alliluyeva": [
+   "Stalin's Wife's Tragic Fate: Stalin's wife died by her own hand."
   ]
  },
  "exhausted": []

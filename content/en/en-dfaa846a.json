@@ -1,0 +1,483 @@
+{
+ "id": "en-dfaa846a",
+ "lang": "en",
+ "title": "WWE's Lost Wrestling Event",
+ "cat": "history",
+ "emoji": "🤼",
+ "sentences": [
+  "WWE only held this event once.",
+  "December to Dismember took place on December 3, 2006.",
+  "It happened at the James Brown Arena in Augusta, Georgia.",
+  "This was the only televised version of this event.",
+  "The event featured wrestlers from the ECW, Raw, and SmackDown! brands.",
+  "The main attraction was an Extreme Elimination Chamber match for the ECW World Championship.",
+  "Brand-exclusive pay-per-views were discontinued following WrestleMania 23 in April 2007."
+ ],
+ "tim": {
+  "w": [
+   [
+    "WWE",
+    0.35,
+    0.37
+   ],
+   [
+    "only",
+    0.37,
+    0.99
+   ],
+   [
+    "held",
+    0.99,
+    1.27
+   ],
+   [
+    "this",
+    1.27,
+    1.47
+   ],
+   [
+    "event",
+    1.47,
+    1.75
+   ],
+   [
+    "once.",
+    1.75,
+    2.21
+   ],
+   [
+    "December",
+    2.71,
+    3.05
+   ],
+   [
+    "to",
+    3.05,
+    3.25
+   ],
+   [
+    "Dismember",
+    3.25,
+    3.71
+   ],
+   [
+    "took",
+    3.71,
+    3.95
+   ],
+   [
+    "place",
+    4.11,
+    4.23
+   ],
+   [
+    "on",
+    4.23,
+    4.41
+   ],
+   [
+    "December",
+    4.41,
+    4.67
+   ],
+   [
+    "3,",
+    4.67,
+    5.13
+   ],
+   [
+    "2006.",
+    5.57,
+    5.89
+   ],
+   [
+    "It",
+    6.45,
+    6.47
+   ],
+   [
+    "happened",
+    6.51,
+    6.67
+   ],
+   [
+    "at",
+    6.67,
+    6.83
+   ],
+   [
+    "the",
+    6.83,
+    6.91
+   ],
+   [
+    "James",
+    6.97,
+    7.17
+   ],
+   [
+    "Brown",
+    7.17,
+    7.45
+   ],
+   [
+    "Arena",
+    7.45,
+    7.81
+   ],
+   [
+    "in",
+    7.81,
+    8.05
+   ],
+   [
+    "Augusta,",
+    8.05,
+    8.55
+   ],
+   [
+    "Georgia.",
+    8.61,
+    8.75
+   ],
+   [
+    "This",
+    9.29,
+    9.39
+   ],
+   [
+    "was",
+    9.39,
+    9.51
+   ],
+   [
+    "the",
+    9.51,
+    9.63
+   ],
+   [
+    "only",
+    9.63,
+    9.97
+   ],
+   [
+    "televised",
+    9.97,
+    10.49
+   ],
+   [
+    "version",
+    10.49,
+    10.81
+   ],
+   [
+    "of",
+    10.85,
+    11.07
+   ],
+   [
+    "this",
+    11.07,
+    11.23
+   ],
+   [
+    "event.",
+    11.23,
+    11.51
+   ],
+   [
+    "The",
+    12.11,
+    12.17
+   ],
+   [
+    "event",
+    12.17,
+    12.35
+   ],
+   [
+    "featured",
+    12.35,
+    12.61
+   ],
+   [
+    "wrestlers",
+    12.73,
+    13.09
+   ],
+   [
+    "from",
+    13.09,
+    13.33
+   ],
+   [
+    "the",
+    13.33,
+    13.43
+   ],
+   [
+    "ECW,",
+    13.43,
+    14.03
+   ],
+   [
+    "Raw,",
+    14.29,
+    14.63
+   ],
+   [
+    "and",
+    14.69,
+    14.75
+   ],
+   [
+    "SmackDown!",
+    14.75,
+    15.35
+   ],
+   [
+    "brands.",
+    15.35,
+    15.45
+   ],
+   [
+    "The",
+    16.25,
+    16.27
+   ],
+   [
+    "main",
+    16.27,
+    16.39
+   ],
+   [
+    "attraction",
+    16.39,
+    16.73
+   ],
+   [
+    "was",
+    16.73,
+    17.03
+   ],
+   [
+    "an",
+    17.03,
+    17.13
+   ],
+   [
+    "Extreme",
+    17.13,
+    17.51
+   ],
+   [
+    "Elimination",
+    17.51,
+    18.15
+   ],
+   [
+    "Chamber",
+    18.17,
+    18.43
+   ],
+   [
+    "match",
+    18.49,
+    18.71
+   ],
+   [
+    "for",
+    18.71,
+    18.93
+   ],
+   [
+    "the",
+    18.93,
+    19.01
+   ],
+   [
+    "ECW",
+    19.13,
+    19.67
+   ],
+   [
+    "World",
+    19.67,
+    19.97
+   ],
+   [
+    "Championship.",
+    19.97,
+    20.31
+   ],
+   [
+    "Brand-exclusive",
+    21.27,
+    21.81
+   ],
+   [
+    "pay-per-views",
+    21.93,
+    22.43
+   ],
+   [
+    "were",
+    22.45,
+    22.55
+   ],
+   [
+    "discontinued",
+    22.55,
+    23.21
+   ],
+   [
+    "following",
+    23.21,
+    23.41
+   ],
+   [
+    "WrestleMania",
+    23.41,
+    23.85
+   ],
+   [
+    "23",
+    23.85,
+    24.51
+   ],
+   [
+    "in",
+    24.53,
+    24.75
+   ],
+   [
+    "April",
+    24.91,
+    25.01
+   ],
+   [
+    "2007.",
+    25.01,
+    25.47
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   25,
+   34,
+   45,
+   59
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bobby_Lashley_wins_ECW_title%2C_D2D_2006.jpg/960px-Bobby_Lashley_wins_ECW_title%2C_D2D_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 901,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mark Farthing",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobby_Lashley_wins_ECW_title,_D2D_2006.jpg",
+   "desc": "Bobby Lashley wins ECW title, D2D 2006 — Bobby Lashley upon winning the ECW World Championship."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bobby_Lashley_and_Test_at_ECW_December_to_Dismember_in_2006.jpg/960px-Bobby_Lashley_and_Test_at_ECW_December_to_Dismember_in_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 899,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mark Farthing",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobby_Lashley_and_Test_at_ECW_December_to_Dismember_in_2006.jpg",
+   "desc": "Bobby Lashley and Test at ECW December to Dismember in 2006 — Bobby Lashley and Test at ECW December to Dismember in 2006"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/James_Brown_Arena%2C_Augusta_May_2017.jpg/960px-James_Brown_Arena%2C_Augusta_May_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC0",
+   "artist": "Thomson200",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Brown_Arena,_Augusta_May_2017.jpg",
+   "desc": "James Brown Arena, Augusta May 2017 — James Brown Arena"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bobby_Lashley_wins_ECW_title%2C_D2D_2006.jpg/960px-Bobby_Lashley_wins_ECW_title%2C_D2D_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 901,
+   "license": "CC BY-SA 2.0",
+   "artist": "Mark Farthing",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobby_Lashley_wins_ECW_title,_D2D_2006.jpg",
+   "desc": "Bobby Lashley wins ECW title, D2D 2006 — Bobby Lashley upon winning the ECW World Championship."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/WrestleMania_23.jpg/960px-WrestleMania_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:WrestleMania_23.jpg",
+   "desc": "WrestleMania 23 — "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  0,
+  4
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "time",
+   "label": "event held"
+  },
+  {
+   "type": "timeline",
+   "year": 2006
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "championship belt",
+   "box": [
+    300,
+    429,
+    381,
+    558
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 2007
+  }
+ ],
+ "geo": null,
+ "qid": "Q1315996",
+ "pron_wer": 0.014,
+ "angle": 0,
+ "source": {
+  "title": "December to Dismember (2006)",
+  "url": "https://en.wikipedia.org/wiki/December_to_Dismember_%282006%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T08:29:46Z",
+ "trimmed": true
+}
