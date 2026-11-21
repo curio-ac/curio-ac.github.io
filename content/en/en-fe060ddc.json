@@ -1,0 +1,440 @@
+{
+ "id": "en-fe060ddc",
+ "lang": "en",
+ "title": "Rome's Bold North African Strike",
+ "cat": "history",
+ "emoji": "⚔️",
+ "sentences": [
+  "Scipio launched a surprise night attack.",
+  "This battle happened in 203 BC in modern Tunisia.",
+  "It involved Roman, Carthaginian, and Numidian armies.",
+  "The clash was part of the Second Punic War.",
+  "Scipio previously cleared Carthaginians from Iberia over five years.",
+  "He then trained his army in Sicily before landing four legions near Utica.",
+  "The fight resulted in a heavy defeat for Carthage."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Scipio",
+    0,
+    0.52
+   ],
+   [
+    "launched",
+    0.52,
+    0.88
+   ],
+   [
+    "a",
+    0.88,
+    1.08
+   ],
+   [
+    "surprise",
+    1.08,
+    1.46
+   ],
+   [
+    "night",
+    1.46,
+    1.88
+   ],
+   [
+    "attack.",
+    1.88,
+    2.8
+   ],
+   [
+    "This",
+    2.8,
+    2.9
+   ],
+   [
+    "battle",
+    2.9,
+    3.16
+   ],
+   [
+    "happened",
+    3.16,
+    3.52
+   ],
+   [
+    "in",
+    3.52,
+    3.74
+   ],
+   [
+    "203",
+    3.74,
+    4.5
+   ],
+   [
+    "BC",
+    4.5,
+    4.86
+   ],
+   [
+    "in",
+    4.86,
+    5.32
+   ],
+   [
+    "modern",
+    5.32,
+    5.6
+   ],
+   [
+    "Tunisia.",
+    5.6,
+    6.12
+   ],
+   [
+    "It",
+    6.66,
+    6.74
+   ],
+   [
+    "involved",
+    6.74,
+    7.02
+   ],
+   [
+    "Roman,",
+    7.02,
+    7.62
+   ],
+   [
+    "Carthaginian,",
+    7.84,
+    8.66
+   ],
+   [
+    "and",
+    8.66,
+    8.76
+   ],
+   [
+    "Numidian",
+    8.76,
+    9.22
+   ],
+   [
+    "armies.",
+    9.22,
+    9.58
+   ],
+   [
+    "The",
+    10.28,
+    10.36
+   ],
+   [
+    "clash",
+    10.36,
+    10.6
+   ],
+   [
+    "was",
+    10.6,
+    10.84
+   ],
+   [
+    "part",
+    10.84,
+    11.04
+   ],
+   [
+    "of",
+    11.04,
+    11.14
+   ],
+   [
+    "the",
+    11.14,
+    11.24
+   ],
+   [
+    "Second",
+    11.24,
+    11.54
+   ],
+   [
+    "Punic",
+    11.54,
+    11.96
+   ],
+   [
+    "War.",
+    11.96,
+    12.22
+   ],
+   [
+    "Scipio",
+    12.84,
+    13.22
+   ],
+   [
+    "previously",
+    13.22,
+    13.58
+   ],
+   [
+    "cleared",
+    13.58,
+    14.24
+   ],
+   [
+    "Carthaginians",
+    14.24,
+    14.98
+   ],
+   [
+    "from",
+    14.98,
+    15.14
+   ],
+   [
+    "Iberia",
+    15.14,
+    15.64
+   ],
+   [
+    "over",
+    15.64,
+    15.9
+   ],
+   [
+    "five",
+    15.9,
+    16.32
+   ],
+   [
+    "years.",
+    16.32,
+    16.64
+   ],
+   [
+    "He",
+    17.24,
+    17.32
+   ],
+   [
+    "then",
+    17.32,
+    17.56
+   ],
+   [
+    "trained",
+    17.56,
+    17.88
+   ],
+   [
+    "his",
+    17.88,
+    18.06
+   ],
+   [
+    "army",
+    18.06,
+    18.28
+   ],
+   [
+    "in",
+    18.28,
+    18.46
+   ],
+   [
+    "Sicily",
+    18.46,
+    18.88
+   ],
+   [
+    "before",
+    19.06,
+    19.18
+   ],
+   [
+    "landing",
+    19.22,
+    19.56
+   ],
+   [
+    "four",
+    19.56,
+    19.96
+   ],
+   [
+    "legions",
+    19.96,
+    20.36
+   ],
+   [
+    "near",
+    20.46,
+    20.58
+   ],
+   [
+    "Utica.",
+    20.58,
+    20.88
+   ],
+   [
+    "The",
+    21.56,
+    21.66
+   ],
+   [
+    "fight",
+    21.8,
+    21.9
+   ],
+   [
+    "resulted",
+    21.9,
+    22.32
+   ],
+   [
+    "in",
+    22.32,
+    22.66
+   ],
+   [
+    "a",
+    22.66,
+    22.76
+   ],
+   [
+    "heavy",
+    22.76,
+    23.12
+   ],
+   [
+    "defeat",
+    23.12,
+    23.44
+   ],
+   [
+    "for",
+    23.44,
+    23.68
+   ],
+   [
+    "Carthage.",
+    23.68,
+    24.28
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   22,
+   31,
+   40,
+   53
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Publius_Scipio%27s_Invasion_of_Africa%2C_204%E2%80%93201_BC.png/960px-Publius_Scipio%27s_Invasion_of_Africa%2C_204%E2%80%93201_BC.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 367,
+   "license": "CC BY 3.0",
+   "artist": "Harrias",
+   "page": "https://commons.wikimedia.org/wiki/File:Publius_Scipio%27s_Invasion_of_Africa,_204%E2%80%93201_BC.png",
+   "desc": "Publius Scipio's Invasion of Africa, 204–201 BC — African Scipio military campaign in 204-203 BC"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sacred_Band_cavalryman.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 872,
+   "license": "Public domain",
+   "artist": "Theodore Ayrault Dodge (1842–1909)",
+   "page": "https://commons.wikimedia.org/wiki/File:Sacred_Band_cavalryman.png",
+   "desc": "Sacred Band cavalryman — Sacred Band cavalryman of the army of Hannibal, as printed in Theodore Ayrault Dodge's A HISTORY OF THE ART OF WAR AMONG THE CARTHAGINIANS AND ROMANS DOWN TO THE BATTLE OF PYDNA, 168 B. C., WITH A DETAILED ACCOUNT OF THE"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Relief_Map_of_Mediterranean_Sea.png/960px-Relief_Map_of_Mediterranean_Sea.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 354,
+   "license": "CC BY-SA 3.0",
+   "artist": "Nzeemin",
+   "page": "https://commons.wikimedia.org/wiki/File:Relief_Map_of_Mediterranean_Sea.png",
+   "desc": "Relief Map of Mediterranean Sea — Физическая карта Средиземного моря."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Scenes_from_the_Battle_of_Zama_MET_149866.jpg/960px-Scenes_from_the_Battle_of_Zama_MET_149866.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 539,
+   "license": "CC0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Scenes_from_the_Battle_of_Zama_MET_149866.jpg",
+   "desc": "Scenes from the Battle of Zama MET 149866 — possibly French; Relief; Medals and Plaquettes"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": -203
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "war",
+   "label": "Second Punic War"
+  },
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "years",
+   "label": "cleared the peninsula"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "legions",
+   "label": "landed near Utica"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  37.058,
+  10.063
+ ],
+ "qid": "Q1353773",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Battle of the Great Plains",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_the_Great_Plains",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T13:56:24Z",
+ "trimmed": true
+}

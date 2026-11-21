@@ -352,7 +352,8 @@
   "Apollo 11 50th Anniversary commemorative coins",
   "nasa:1487827",
   "Big Butte Creek",
-  "nasa:1490381"
+  "nasa:1490381",
+  "55 Wall Street"
  ],
  "rejected": [
   "Chameleon",
@@ -1583,6 +1584,9 @@
   ],
   "nasa:1490381": [
    "Hurricane Isaias's Nighttime Impact: Hurricane Isaias turned out the lights."
+  ],
+  "55 Wall Street": [
+   "The Transforming Wall Street Building: This Wall Street building added 5 new floors!"
   ]
  },
  "exhausted": []
