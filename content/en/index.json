@@ -314,7 +314,8 @@
   "Australia at the Winter Olympics",
   "nasa:1278406",
   "William Calcraft",
-  "nasa:1500737"
+  "nasa:1500737",
+  "nasa:1473526"
  ],
  "rejected": [
   "Chameleon",
@@ -1418,6 +1419,9 @@
   ],
   "nasa:1500737": [
    "Satellites Hunt Red Leaves: Satellites are now hunting autumn leaves from space."
+  ],
+  "nasa:1473526": [
+   "NASA's New Space Telescope: Meet NASA's brand new space telescope concept!"
   ]
  },
  "exhausted": []

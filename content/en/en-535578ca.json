@@ -1,0 +1,425 @@
+{
+ "id": "en-535578ca",
+ "lang": "en",
+ "title": "The Lantern Banksia Shrub",
+ "cat": "biology",
+ "emoji": "🌿",
+ "sentences": [
+  "Collected by Joseph Banks in 1770!",
+  "This woody Australian shrub grows east of the Great Dividing Range.",
+  "It can reach 6 m high and wide.",
+  "It features orange or red autumn inflorescences.",
+  "These contrast with its green fine-leaved heath-like foliage.",
+  "The species is split into 2 subspecies.",
+  "Compact dwarf cultivars like 'Little Eric' are grown in gardens."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Collected",
+    0.24,
+    0.66
+   ],
+   [
+    "by",
+    0.66,
+    0.78
+   ],
+   [
+    "Joseph",
+    0.78,
+    1.2
+   ],
+   [
+    "Banks",
+    1.2,
+    1.6
+   ],
+   [
+    "in",
+    1.6,
+    1.94
+   ],
+   [
+    "1770!",
+    1.94,
+    3.5
+   ],
+   [
+    "This",
+    3.62,
+    3.62
+   ],
+   [
+    "woody",
+    3.62,
+    3.98
+   ],
+   [
+    "Australian",
+    3.98,
+    4.54
+   ],
+   [
+    "shrub",
+    4.54,
+    5.1
+   ],
+   [
+    "grows",
+    5.2,
+    5.34
+   ],
+   [
+    "east",
+    5.34,
+    5.78
+   ],
+   [
+    "of",
+    5.78,
+    6.04
+   ],
+   [
+    "the",
+    6.06,
+    6.16
+   ],
+   [
+    "Great",
+    6.16,
+    6.38
+   ],
+   [
+    "Dividing",
+    6.38,
+    6.92
+   ],
+   [
+    "Range.",
+    6.92,
+    7.16
+   ],
+   [
+    "It",
+    7.72,
+    7.74
+   ],
+   [
+    "can",
+    7.74,
+    7.84
+   ],
+   [
+    "reach",
+    7.84,
+    8.04
+   ],
+   [
+    "6",
+    8.04,
+    8.46
+   ],
+   [
+    "m",
+    8.46,
+    8.68
+   ],
+   [
+    "high",
+    8.68,
+    9.2
+   ],
+   [
+    "and",
+    9.2,
+    9.62
+   ],
+   [
+    "wide.",
+    9.62,
+    9.94
+   ],
+   [
+    "It",
+    10.64,
+    10.68
+   ],
+   [
+    "features",
+    10.68,
+    10.96
+   ],
+   [
+    "orange",
+    10.96,
+    11.46
+   ],
+   [
+    "or",
+    11.46,
+    11.74
+   ],
+   [
+    "red",
+    11.82,
+    12.04
+   ],
+   [
+    "autumn",
+    12.04,
+    12.46
+   ],
+   [
+    "inflorescences.",
+    12.46,
+    13.16
+   ],
+   [
+    "These",
+    13.86,
+    13.98
+   ],
+   [
+    "contrast",
+    13.98,
+    14.3
+   ],
+   [
+    "with",
+    14.3,
+    14.6
+   ],
+   [
+    "its",
+    14.62,
+    14.74
+   ],
+   [
+    "green",
+    14.74,
+    15.08
+   ],
+   [
+    "fine-leaved",
+    15.08,
+    15.98
+   ],
+   [
+    "heath-like",
+    16.28,
+    16.62
+   ],
+   [
+    "foliage.",
+    16.62,
+    17.04
+   ],
+   [
+    "The",
+    17.88,
+    17.92
+   ],
+   [
+    "species",
+    17.92,
+    18.22
+   ],
+   [
+    "is",
+    18.22,
+    18.54
+   ],
+   [
+    "split",
+    18.54,
+    18.74
+   ],
+   [
+    "into",
+    18.74,
+    18.98
+   ],
+   [
+    "2",
+    18.98,
+    19.3
+   ],
+   [
+    "subspecies.",
+    19.3,
+    19.7
+   ],
+   [
+    "Compact",
+    20.36,
+    20.74
+   ],
+   [
+    "dwarf",
+    20.8,
+    20.96
+   ],
+   [
+    "cultivars",
+    20.96,
+    21.6
+   ],
+   [
+    "like",
+    21.6,
+    21.9
+   ],
+   [
+    "'Little",
+    22.12,
+    22.26
+   ],
+   [
+    "Eric'",
+    22.26,
+    22.68
+   ],
+   [
+    "are",
+    22.9,
+    23.0
+   ],
+   [
+    "grown",
+    23.0,
+    23.22
+   ],
+   [
+    "in",
+    23.22,
+    23.38
+   ],
+   [
+    "gardens.",
+    23.38,
+    23.7
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   25,
+   32,
+   40,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Banksia_ericifolia_%28Edwards%29.jpg/960px-Banksia_ericifolia_%28Edwards%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1236,
+   "license": "Public domain",
+   "artist": "Franciscus Sansom",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_ericifolia_(Edwards).jpg",
+   "desc": "Banksia ericifolia (Edwards) — This digital image is a reproduction of an illustration of a species identified as Banksia ericifolia."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/B_ericifolia_dist_map_gnangarra.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 479,
+   "license": "Public domain",
+   "artist": "Gnangarra",
+   "page": "https://commons.wikimedia.org/wiki/File:B_ericifolia_dist_map_gnangarra.png",
+   "desc": "B ericifolia dist map gnangarra — Distribution of Banksia ericifolia."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Banksia_ericifolia_cult_email.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 826,
+   "license": "Public domain",
+   "artist": "No machine-readable author provided. Casliber assumed (based on copyright claims",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_ericifolia_cult_email.jpg",
+   "desc": "Banksia ericifolia cult email — Banksia ericifolia cultivated Victoria (near Colac) - Sept 04/photo Cas Liber"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Banksia_flower02.jpg/960px-Banksia_flower02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "GFDL 1.2",
+   "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_flower02.jpg",
+   "desc": "Banksia flower02 — Banksia Flower - National Botanical Gardens"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Banksia_ericifolia_little_eric_Cox_Jul_04_email.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "Cas Liber",
+   "page": "https://commons.wikimedia.org/wiki/File:Banksia_ericifolia_little_eric_Cox_Jul_04_email.jpg",
+   "desc": "Banksia ericifolia little eric Cox Jul 04 email — Banksia ericifolia 'Little Eric' flowering profusely cult. Kenthurst NSW"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1770
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 6,
+   "unit": "m",
+   "label": "max height"
+  },
+  {
+   "type": "focus",
+   "target": "orange or red autumn inflorescences",
+   "box": [
+    40,
+    235,
+    908,
+    745
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "subspecies",
+   "label": "split into"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q257098",
+ "pron_wer": 0.034,
+ "angle": 0,
+ "source": {
+  "title": "Banksia ericifolia",
+  "url": "https://en.wikipedia.org/wiki/Banksia_ericifolia",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T01:19:25Z",
+ "trimmed": true
+}
