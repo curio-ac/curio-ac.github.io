@@ -1,0 +1,404 @@
+{
+ "id": "en-b839c84a",
+ "lang": "en",
+ "title": "The Ship With Two Names",
+ "cat": "history",
+ "emoji": "🚢",
+ "sentences": [
+  "One warship held two famous names.",
+  "This US Navy carrier was first named Coral Sea.",
+  "By September 1944, she became Anzio.",
+  "She was built in Vancouver during World War II.",
+  "Her engine failed before the Battle of Guam.",
+  "She later weathered Typhoon Cobra while aiding search efforts.",
+  "Her primary role was hunting submarines."
+ ],
+ "tim": {
+  "w": [
+   [
+    "One",
+    0.3,
+    0.34
+   ],
+   [
+    "warship",
+    0.34,
+    0.78
+   ],
+   [
+    "held",
+    0.78,
+    0.96
+   ],
+   [
+    "two",
+    0.96,
+    1.2
+   ],
+   [
+    "famous",
+    1.2,
+    1.5
+   ],
+   [
+    "names.",
+    1.5,
+    1.9
+   ],
+   [
+    "This",
+    2.52,
+    2.64
+   ],
+   [
+    "US",
+    2.64,
+    2.92
+   ],
+   [
+    "Navy",
+    2.92,
+    3.2
+   ],
+   [
+    "carrier",
+    3.2,
+    3.58
+   ],
+   [
+    "was",
+    3.58,
+    3.92
+   ],
+   [
+    "first",
+    3.92,
+    4.14
+   ],
+   [
+    "named",
+    4.14,
+    4.44
+   ],
+   [
+    "Coral",
+    4.44,
+    4.84
+   ],
+   [
+    "Sea.",
+    4.84,
+    5.12
+   ],
+   [
+    "By",
+    5.64,
+    5.74
+   ],
+   [
+    "September",
+    5.74,
+    6.02
+   ],
+   [
+    "1944,",
+    6.02,
+    6.72
+   ],
+   [
+    "she",
+    7.4,
+    7.4
+   ],
+   [
+    "became",
+    7.4,
+    7.68
+   ],
+   [
+    "Anzio.",
+    7.68,
+    8.22
+   ],
+   [
+    "She",
+    8.62,
+    8.72
+   ],
+   [
+    "was",
+    8.72,
+    8.86
+   ],
+   [
+    "built",
+    8.86,
+    9.04
+   ],
+   [
+    "in",
+    9.04,
+    9.18
+   ],
+   [
+    "Vancouver",
+    9.18,
+    9.5
+   ],
+   [
+    "during",
+    9.5,
+    9.96
+   ],
+   [
+    "World",
+    9.96,
+    10.22
+   ],
+   [
+    "War",
+    10.22,
+    10.42
+   ],
+   [
+    "II.",
+    10.42,
+    10.74
+   ],
+   [
+    "Her",
+    11.14,
+    11.24
+   ],
+   [
+    "engine",
+    11.24,
+    11.48
+   ],
+   [
+    "failed",
+    11.48,
+    11.84
+   ],
+   [
+    "before",
+    11.84,
+    12.08
+   ],
+   [
+    "the",
+    12.08,
+    12.26
+   ],
+   [
+    "Battle",
+    12.26,
+    12.48
+   ],
+   [
+    "of",
+    12.48,
+    12.64
+   ],
+   [
+    "Guam.",
+    12.64,
+    13.04
+   ],
+   [
+    "She",
+    13.4,
+    13.5
+   ],
+   [
+    "later",
+    13.5,
+    13.7
+   ],
+   [
+    "weathered",
+    13.7,
+    14.14
+   ],
+   [
+    "Typhoon",
+    14.14,
+    14.5
+   ],
+   [
+    "Cobra",
+    14.5,
+    14.86
+   ],
+   [
+    "while",
+    14.86,
+    15.14
+   ],
+   [
+    "aiding",
+    15.14,
+    15.46
+   ],
+   [
+    "search",
+    15.46,
+    15.66
+   ],
+   [
+    "efforts.",
+    15.66,
+    15.88
+   ],
+   [
+    "Her",
+    16.48,
+    16.56
+   ],
+   [
+    "primary",
+    16.56,
+    16.88
+   ],
+   [
+    "role",
+    16.88,
+    17.32
+   ],
+   [
+    "was",
+    17.32,
+    17.52
+   ],
+   [
+    "hunting",
+    17.52,
+    17.76
+   ],
+   [
+    "submarines.",
+    17.76,
+    18.46
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   21,
+   30,
+   38,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/USS_Coral_Sea_%28CVE-57%29_1943-1944.jpg/960px-USS_Coral_Sea_%28CVE-57%29_1943-1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 475,
+   "license": "Public domain",
+   "artist": "U.S. Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Coral_Sea_(CVE-57)_1943-1944.jpg",
+   "desc": "USS Coral Sea (CVE-57) 1943-1944 — USS Coral Sea (CVE-57) underway in 1943–1944 with Composite Squadron (VC) 33, consisting of Avenger torpedo bombers and Wildcat fighters, aboard."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/USS_Coral_Sea_%28CVE-57%29_1943-1944.jpg/960px-USS_Coral_Sea_%28CVE-57%29_1943-1944.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 475,
+   "license": "Public domain",
+   "artist": "U.S. Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Coral_Sea_(CVE-57)_1943-1944.jpg",
+   "desc": "USS Coral Sea (CVE-57) 1943-1944 — USS Coral Sea (CVE-57) underway in 1943–1944 with Composite Squadron (VC) 33, consisting of Avenger torpedo bombers and Wildcat fighters, aboard."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/USS_Anzio_%28CVE-57%29_lies_at_Shanghai%2C_China%2C_1_December_1945.jpg/960px-USS_Anzio_%28CVE-57%29_lies_at_Shanghai%2C_China%2C_1_December_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 541,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Anzio_(CVE-57)_lies_at_Shanghai,_China,_1_December_1945.jpg",
+   "desc": "USS Anzio (CVE-57) lies at Shanghai, China, 1 December 1945 — The U.S. Navy escort carrier USS Anzio (CVE-57) arrives at Shanghai, China, on 1 December 1945 as part of the \"Magic Carpet\" operation to return U.S. servicemen to the United States. Anzio was the f"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ship_launched_at_Kaiser_Shipyards_%28b27e6b59-1dd8-b71b-0bf4-f824090efaa2%29.jpg/960px-Ship_launched_at_Kaiser_Shipyards_%28b27e6b59-1dd8-b71b-0bf4-f824090efaa2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 570,
+   "license": "Public domain",
+   "artist": "NPS Photo",
+   "page": "https://commons.wikimedia.org/wiki/File:Ship_launched_at_Kaiser_Shipyards_(b27e6b59-1dd8-b71b-0bf4-f824090efaa2).jpg",
+   "desc": "Ship launched at Kaiser Shipyards (b27e6b59-1dd8-b71b-0bf4-f824090efaa2) — Ship launching from dry dock as workers look on Louis Lee's photographs from the Kaiser Shipyards at Vancouver, Washington, show scenes from the shipyards, including the launch of this "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Damaged_Wildcat_within_the_hangar_deck_of_Anzio_%28CVE-57%29_after_Typhoon_Cobra.jpg/960px-Damaged_Wildcat_within_the_hangar_deck_of_Anzio_%28CVE-57%29_after_Typhoon_Cobra.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 578,
+   "license": "Public domain",
+   "artist": "U.S. Navy",
+   "page": "https://commons.wikimedia.org/wiki/File:Damaged_Wildcat_within_the_hangar_deck_of_Anzio_(CVE-57)_after_Typhoon_Cobra.jpg",
+   "desc": "Damaged Wildcat within the hangar deck of Anzio (CVE-57) after Typhoon Cobra — A damaged FM-2 Wildcat fighter, having broken free from its restraints and smashed into a bulkhead, is photographed."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HMS_KITE_of_the_2nd_Escort_Group_depth_charging_a_U-boat_in_the_Atlantic%2C_January_1944._A21989.jpg/960px-HMS_KITE_of_the_2nd_Escort_Group_depth_charging_a_U-boat_in_the_Atlantic%2C_January_1944._A21989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 539,
+   "license": "Public domain",
+   "artist": "Royal Navy official photographer, Parnall, C H (Lt)",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_KITE_of_the_2nd_Escort_Group_depth_charging_a_U-boat_in_the_Atlantic,_January_1944._A21989.jpg",
+   "desc": "HMS KITE of the 2nd Escort Group depth charging a U-boat in the Atlantic, January 1944. A21989 — HMS Kite (U87) of the 2nd Escort Group depth charging a U-boat in the Atlantic, January 1944. HMS KITE joins in the depth charge attack and is dwarfed by the colum"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4,
+  5
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "names",
+   "label": "famous names"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1944
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q7867337",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "USS Anzio (CVE-57)",
+  "url": "https://en.wikipedia.org/wiki/USS_Anzio_%28CVE-57%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T15:24:09Z",
+ "trimmed": true
+}

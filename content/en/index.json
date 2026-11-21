@@ -356,7 +356,8 @@
   "55 Wall Street",
   "Battle of the Great Plains",
   "nasa:1509841",
-  "Steve Dodd"
+  "Steve Dodd",
+  "nasa:1277435"
  ],
  "rejected": [
   "Chameleon",
@@ -1599,6 +1600,9 @@
   ],
   "Steve Dodd": [
    "A Life on Screen: Steve Dodd appeared in movies for 7 decades."
+  ],
+  "nasa:1277435": [
+   "NASA's New Exoplanet Hunter: NASA just launched a planet-hunting satellite."
   ]
  },
  "exhausted": []
