@@ -1,0 +1,390 @@
+{
+ "id": "he-d6536687",
+ "lang": "he",
+ "title": "הספר שהביא נובל בגיל 26",
+ "cat": "art",
+ "emoji": "📖",
+ "sentences": [
+  "תומאס מאן כתב יצירת מופת בגיל 26 בלבד.",
+  "הספר עוקב אחרי 4 דורות של משפחת סוחרים עשירה בגרמניה.",
+  "הוא מתאר את שקיעת המשפחה ואת גסיסת הנפש האירופית.",
+  "מאן החל לכתוב את הרומן בוונציה כשהיה רק בן 22.",
+  "הוא תכנן תרגיל קטן, אך יצר סאגה רחבת היקף.",
+  "היצירה הזו זיכתה אותו בפרס נובל לספרות בשנת 1929."
+ ],
+ "tim": {
+  "w": [
+   [
+    "תומאס",
+    0,
+    0.38
+   ],
+   [
+    "מאן",
+    0.38,
+    0.74
+   ],
+   [
+    "כתב",
+    1.02,
+    1.18
+   ],
+   [
+    "יצירת",
+    1.18,
+    1.78
+   ],
+   [
+    "מופת",
+    1.8,
+    2.34
+   ],
+   [
+    "בגיל",
+    2.42,
+    2.74
+   ],
+   [
+    "26",
+    2.74,
+    3.58
+   ],
+   [
+    "בלבד.",
+    3.58,
+    4.14
+   ],
+   [
+    "הספר",
+    4.88,
+    5.26
+   ],
+   [
+    "עוקב",
+    5.26,
+    5.64
+   ],
+   [
+    "אחרי",
+    5.64,
+    5.9
+   ],
+   [
+    "4",
+    5.9,
+    6.2
+   ],
+   [
+    "דורות",
+    6.2,
+    6.84
+   ],
+   [
+    "של",
+    6.84,
+    6.98
+   ],
+   [
+    "משפחת",
+    6.98,
+    7.42
+   ],
+   [
+    "סוחרים",
+    7.46,
+    7.86
+   ],
+   [
+    "עשירה",
+    7.86,
+    8.4
+   ],
+   [
+    "בגרמניה.",
+    8.4,
+    8.82
+   ],
+   [
+    "הוא",
+    9.62,
+    9.7
+   ],
+   [
+    "מתאר",
+    9.7,
+    10.04
+   ],
+   [
+    "את",
+    10.06,
+    10.16
+   ],
+   [
+    "שקיעת",
+    10.16,
+    10.68
+   ],
+   [
+    "המשפחה",
+    10.68,
+    11.32
+   ],
+   [
+    "ואת",
+    11.54,
+    11.72
+   ],
+   [
+    "גסיסת",
+    12.18,
+    12.32
+   ],
+   [
+    "הנפש",
+    12.44,
+    12.92
+   ],
+   [
+    "האירופית.",
+    12.92,
+    13.44
+   ],
+   [
+    "מאן",
+    14.3,
+    14.58
+   ],
+   [
+    "החל",
+    14.58,
+    14.9
+   ],
+   [
+    "לכתוב",
+    14.9,
+    15.24
+   ],
+   [
+    "את",
+    15.24,
+    15.38
+   ],
+   [
+    "הרומן",
+    15.38,
+    15.7
+   ],
+   [
+    "בוונציה",
+    15.7,
+    16.42
+   ],
+   [
+    "כשהיה",
+    16.62,
+    16.9
+   ],
+   [
+    "רק",
+    16.9,
+    17.14
+   ],
+   [
+    "בן",
+    17.26,
+    17.4
+   ],
+   [
+    "22.",
+    17.4,
+    17.94
+   ],
+   [
+    "הוא",
+    18.76,
+    18.86
+   ],
+   [
+    "תכנן",
+    18.86,
+    19.26
+   ],
+   [
+    "תרגיל",
+    19.26,
+    19.72
+   ],
+   [
+    "קטן,",
+    19.72,
+    19.82
+   ],
+   [
+    "אך",
+    20.42,
+    20.68
+   ],
+   [
+    "יצר",
+    20.92,
+    21.08
+   ],
+   [
+    "סאגה",
+    21.08,
+    21.64
+   ],
+   [
+    "רחבת",
+    21.64,
+    22.18
+   ],
+   [
+    "היקף.",
+    22.18,
+    22.28
+   ],
+   [
+    "היצירה",
+    23.48,
+    23.96
+   ],
+   [
+    "הזו",
+    23.96,
+    24.18
+   ],
+   [
+    "זיכתה",
+    24.22,
+    24.64
+   ],
+   [
+    "אותו",
+    24.64,
+    24.78
+   ],
+   [
+    "בפרס",
+    24.82,
+    25.36
+   ],
+   [
+    "נובל",
+    25.36,
+    25.82
+   ],
+   [
+    "לספרות",
+    25.82,
+    26.42
+   ],
+   [
+    "בשנת",
+    26.7,
+    26.96
+   ],
+   [
+    "1929.",
+    26.96,
+    27.91
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   18,
+   27,
+   37,
+   46
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Thomas_Mann_in_Los_Angeles.jpg/960px-Thomas_Mann_in_Los_Angeles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 957,
+   "license": "CC BY 4.0",
+   "artist": "Los Angeles Daily News",
+   "page": "https://commons.wikimedia.org/wiki/File:Thomas_Mann_in_Los_Angeles.jpg",
+   "desc": "Thomas Mann in Los Angeles — German author Thomas Mann seated in a chair, Los Angeles"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Buddenbrooks_1901.jpg/960px-Buddenbrooks_1901.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1002,
+   "license": "CC BY 3.0",
+   "artist": "© Foto H.-P.Haack (H.-P.Haack)",
+   "page": "https://commons.wikimedia.org/wiki/File:Buddenbrooks_1901.jpg",
+   "desc": "Buddenbrooks 1901 — Mann, Thomas: Buddenbrooks. Verfall einer Familie. 2 Bände Berlin: S. Fischer 1901, 566 Seiten, 339 Seiten; Georg Potempa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Buddenbrook_Speisesaal.jpg/960px-Buddenbrook_Speisesaal.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 544,
+   "license": "CC BY-SA 3.0",
+   "artist": "Andreas Thum",
+   "page": "https://commons.wikimedia.org/wiki/File:Buddenbrook_Speisesaal.jpg",
+   "desc": "Buddenbrook Speisesaal — the dining room in the Buddenbrook house in Lübeck, Germany"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg/960px-Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 320,
+   "license": "CC BY-SA 4.0",
+   "artist": "Martin Falbisoner",
+   "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Canal_Grande_and_Ponte_di_Rialto,_Venice_-_September_2017.jpg",
+   "desc": "Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017 — Canal Grande and Rialto Bridge, Venice - part of UNESCO World Heritage Site Ref. Number 394."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 26,
+   "unit": "גיל",
+   "label": "תומאס מאן"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1929
+  }
+ ],
+ "geo": null,
+ "qid": "Q326909",
+ "pron_wer": 0.055,
+ "angle": 0,
+ "source": {
+  "title": "בית בודנברוק",
+  "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%91%D7%95%D7%93%D7%A0%D7%91%D7%A8%D7%95%D7%A7",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T11:39:46Z",
+ "trimmed": true
+}
