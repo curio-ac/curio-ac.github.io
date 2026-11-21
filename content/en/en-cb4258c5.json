@@ -1,0 +1,341 @@
+{
+ "id": "en-cb4258c5",
+ "lang": "en",
+ "title": "Antarctic Skull Island",
+ "cat": "geography",
+ "emoji": "💀",
+ "sentences": [
+  "An Antarctic island looks like a grinning skull.",
+  "Ice, rock, and moraines form a profile looking toward Devil Island.",
+  "A rock outcrop acts as an eye socket and a moraine forms a mouth.",
+  "Winter warmth left bare ice exposed on the island.",
+  "Melting is changing the skull's jawline and eye socket."
+ ],
+ "tim": {
+  "w": [
+   [
+    "An",
+    0.3,
+    0.3
+   ],
+   [
+    "Antarctic",
+    0.3,
+    0.78
+   ],
+   [
+    "island",
+    0.78,
+    1.14
+   ],
+   [
+    "looks",
+    1.14,
+    1.54
+   ],
+   [
+    "like",
+    1.72,
+    1.82
+   ],
+   [
+    "a",
+    1.82,
+    1.92
+   ],
+   [
+    "grinning",
+    1.92,
+    2.32
+   ],
+   [
+    "skull.",
+    2.32,
+    3.32
+   ],
+   [
+    "Ice,",
+    3.4,
+    3.8
+   ],
+   [
+    "rock,",
+    3.86,
+    4.14
+   ],
+   [
+    "and",
+    4.28,
+    4.38
+   ],
+   [
+    "moraines",
+    4.7,
+    4.8
+   ],
+   [
+    "form",
+    4.8,
+    5.08
+   ],
+   [
+    "a",
+    5.08,
+    5.24
+   ],
+   [
+    "profile",
+    5.24,
+    5.64
+   ],
+   [
+    "looking",
+    5.64,
+    5.94
+   ],
+   [
+    "toward",
+    6.16,
+    6.26
+   ],
+   [
+    "Devil",
+    6.26,
+    6.52
+   ],
+   [
+    "Island.",
+    6.52,
+    6.9
+   ],
+   [
+    "A",
+    7.7,
+    7.7
+   ],
+   [
+    "rock",
+    7.7,
+    7.94
+   ],
+   [
+    "outcrop",
+    7.94,
+    8.42
+   ],
+   [
+    "acts",
+    8.42,
+    8.72
+   ],
+   [
+    "as",
+    8.72,
+    8.92
+   ],
+   [
+    "an",
+    8.92,
+    9.02
+   ],
+   [
+    "eye",
+    9.12,
+    9.26
+   ],
+   [
+    "socket",
+    9.26,
+    9.56
+   ],
+   [
+    "and",
+    9.86,
+    10.04
+   ],
+   [
+    "a",
+    10.04,
+    10.16
+   ],
+   [
+    "moraine",
+    10.16,
+    10.58
+   ],
+   [
+    "forms",
+    10.58,
+    10.84
+   ],
+   [
+    "a",
+    10.84,
+    11.08
+   ],
+   [
+    "mouth.",
+    11.08,
+    11.34
+   ],
+   [
+    "Winter",
+    12.28,
+    12.52
+   ],
+   [
+    "warmth",
+    12.52,
+    12.84
+   ],
+   [
+    "left",
+    12.84,
+    13.14
+   ],
+   [
+    "bare",
+    13.14,
+    13.46
+   ],
+   [
+    "ice",
+    13.46,
+    13.66
+   ],
+   [
+    "exposed",
+    13.66,
+    14.18
+   ],
+   [
+    "on",
+    14.46,
+    14.56
+   ],
+   [
+    "the",
+    14.56,
+    14.68
+   ],
+   [
+    "island.",
+    14.68,
+    14.82
+   ],
+   [
+    "Melting",
+    15.72,
+    16.06
+   ],
+   [
+    "is",
+    16.06,
+    16.26
+   ],
+   [
+    "changing",
+    16.38,
+    16.52
+   ],
+   [
+    "the",
+    16.52,
+    16.72
+   ],
+   [
+    "skull's",
+    16.72,
+    17.08
+   ],
+   [
+    "jawline",
+    17.08,
+    17.56
+   ],
+   [
+    "and",
+    17.56,
+    17.92
+   ],
+   [
+    "eye",
+    17.92,
+    18.2
+   ],
+   [
+    "socket.",
+    18.2,
+    18.48
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   19,
+   33,
+   42
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Vega_Island_Frozen_in_Fright_%281506470_-_cq5dam_web_1280_1280%29.jpg/960px-Vega_Island_Frozen_in_Fright_%281506470_-_cq5dam_web_1280_1280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory / Lauren Dauphin",
+   "page": "https://commons.wikimedia.org/wiki/File:Vega_Island_Frozen_in_Fright_(1506470_-_cq5dam_web_1280_1280).jpg",
+   "desc": "Vega Island Frozen in Fright (1506470 - cq5dam web 1280 1280) — Part of an ice-covered Antarctic island has the appearance of a grinning skull in profile, with a rock outcrop as an eye socket and lateral moraine as a mouth."
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  0,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "eye socket",
+   "box": [
+    233,
+    445,
+    308,
+    497
+   ]
+  },
+  {
+   "type": "timeline",
+   "year": 2026
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+ "pron_wer": 0.077,
+ "angle": 0,
+ "source": {
+  "title": "Vega Island Frozen in Fright",
+  "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T06:35:44Z",
+ "trimmed": true
+}
