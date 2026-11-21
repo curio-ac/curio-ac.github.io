@@ -1,0 +1,403 @@
+{
+ "id": "en-f51e9988",
+ "lang": "en",
+ "title": "From Battlecruiser To Carrier",
+ "cat": "history",
+ "emoji": "🚢",
+ "sentences": [
+  "This battlecruiser became an aircraft carrier.",
+  "She was built with very light armour during WWI.",
+  "She spent the war patrolling the North Sea.",
+  "In the mid-1920s, she was rebuilt to carry 48 aircraft.",
+  "She briefly became a training ship.",
+  "German U-boat U-29 torpedoed her in September 1939.",
+  "She sank with the loss of more than 500 crew."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.2,
+    0.2
+   ],
+   [
+    "battlecruiser",
+    0.2,
+    0.88
+   ],
+   [
+    "became",
+    0.88,
+    1.22
+   ],
+   [
+    "an",
+    1.22,
+    1.5
+   ],
+   [
+    "aircraft",
+    1.5,
+    1.86
+   ],
+   [
+    "carrier.",
+    1.86,
+    2.76
+   ],
+   [
+    "She",
+    2.88,
+    2.96
+   ],
+   [
+    "was",
+    2.96,
+    3.1
+   ],
+   [
+    "built",
+    3.1,
+    3.28
+   ],
+   [
+    "with",
+    3.28,
+    3.48
+   ],
+   [
+    "very",
+    3.48,
+    3.78
+   ],
+   [
+    "light",
+    3.78,
+    4.04
+   ],
+   [
+    "armour",
+    4.04,
+    4.34
+   ],
+   [
+    "during",
+    4.34,
+    4.64
+   ],
+   [
+    "WWI.",
+    4.64,
+    4.74
+   ],
+   [
+    "She",
+    5.94,
+    6.06
+   ],
+   [
+    "spent",
+    6.06,
+    6.26
+   ],
+   [
+    "the",
+    6.26,
+    6.44
+   ],
+   [
+    "war",
+    6.44,
+    6.6
+   ],
+   [
+    "patrolling",
+    6.6,
+    7.04
+   ],
+   [
+    "the",
+    7.04,
+    7.24
+   ],
+   [
+    "North",
+    7.24,
+    7.42
+   ],
+   [
+    "Sea.",
+    7.42,
+    7.74
+   ],
+   [
+    "In",
+    8.44,
+    8.54
+   ],
+   [
+    "the",
+    8.54,
+    8.62
+   ],
+   [
+    "mid-1920s,",
+    8.62,
+    9.12
+   ],
+   [
+    "she",
+    9.9,
+    9.92
+   ],
+   [
+    "was",
+    9.92,
+    10.06
+   ],
+   [
+    "rebuilt",
+    10.06,
+    10.34
+   ],
+   [
+    "to",
+    10.34,
+    10.62
+   ],
+   [
+    "carry",
+    10.62,
+    10.86
+   ],
+   [
+    "48",
+    10.86,
+    11.4
+   ],
+   [
+    "aircraft.",
+    11.4,
+    11.98
+   ],
+   [
+    "She",
+    12.76,
+    12.86
+   ],
+   [
+    "briefly",
+    12.86,
+    13.1
+   ],
+   [
+    "became",
+    13.1,
+    13.5
+   ],
+   [
+    "a",
+    13.5,
+    13.7
+   ],
+   [
+    "training",
+    13.7,
+    13.94
+   ],
+   [
+    "ship.",
+    13.94,
+    14.2
+   ],
+   [
+    "German",
+    15.18,
+    15.38
+   ],
+   [
+    "U-boat",
+    15.38,
+    15.8
+   ],
+   [
+    "U-29",
+    15.8,
+    16.48
+   ],
+   [
+    "torpedoed",
+    16.48,
+    17.24
+   ],
+   [
+    "her",
+    17.26,
+    17.36
+   ],
+   [
+    "in",
+    17.36,
+    17.54
+   ],
+   [
+    "September",
+    17.54,
+    17.82
+   ],
+   [
+    "1939.",
+    18.47,
+    18.92
+   ],
+   [
+    "She",
+    19.38,
+    19.5
+   ],
+   [
+    "sank",
+    19.5,
+    19.74
+   ],
+   [
+    "with",
+    19.74,
+    19.9
+   ],
+   [
+    "the",
+    19.9,
+    20.0
+   ],
+   [
+    "loss",
+    20.0,
+    20.22
+   ],
+   [
+    "of",
+    20.32,
+    20.42
+   ],
+   [
+    "more",
+    20.42,
+    20.56
+   ],
+   [
+    "than",
+    20.56,
+    20.74
+   ],
+   [
+    "500",
+    20.74,
+    21.16
+   ],
+   [
+    "crew.",
+    21.16,
+    21.61
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   15,
+   23,
+   33,
+   39,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/HMS_Courageous_WWI.jpg/960px-HMS_Courageous_WWI.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 523,
+   "license": "Public domain",
+   "artist": "Oscar Parkes",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Courageous_WWI.jpg",
+   "desc": "HMS Courageous WWI — HMS COURAGEOUS shortly after completion, in her original configuration as a large cruiser."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/HMS_Courageous_%2850%29.jpg/960px-HMS_Courageous_%2850%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 338,
+   "license": "Public domain",
+   "artist": "Royal Navy official photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Courageous_(50).jpg",
+   "desc": "HMS Courageous (50) — The Courageous Class fleet aircraft carrier HMS COURAGEOUS."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/HMS_Courageous_sinking.jpg/960px-HMS_Courageous_sinking.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 462,
+   "license": "Public domain",
+   "artist": "Royal Navy official photographer",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Courageous_sinking.jpg",
+   "desc": "HMS Courageous sinking — Shipping losses: HMS COURAGEOUS sinking after being torpedoed by German submarine U 29."
+  }
+ ],
+ "sent_img": [
+  0,
+  0,
+  null,
+  1,
+  null,
+  2,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "stat",
+   "value": 48,
+   "unit": "aircraft",
+   "label": "carried aircraft"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1939
+  },
+  {
+   "type": "stat",
+   "value": 500,
+   "unit": "crew",
+   "label": "crew lost"
+  }
+ ],
+ "geo": [
+  50.167,
+  -14.75
+ ],
+ "qid": "Q1476031",
+ "pron_wer": 0.067,
+ "angle": 0,
+ "source": {
+  "title": "HMS Courageous (50)",
+  "url": "https://en.wikipedia.org/wiki/HMS_Courageous_%2850%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T01:34:55Z",
+ "trimmed": true
+}
