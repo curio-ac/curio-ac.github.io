@@ -1,0 +1,424 @@
+{
+ "id": "en-662a1a1a",
+ "lang": "en",
+ "title": "The First Perfect 147 Break",
+ "cat": "history",
+ "emoji": "🎱",
+ "sentences": [
+  "The 1983 snooker championship saw history made.",
+  "It took place at the Crucible Theatre in Sheffield.",
+  "Sixteen seeded players qualified directly for the event.",
+  "Defending champion Alex Higgins lost to Steve Davis.",
+  "Steve Davis won the tournament by beating Cliff Thorburn.",
+  "Thorburn scored a maximum 147 break during his match.",
+  "He was the first player to ever achieve this."
+ ],
+ "tim": {
+  "w": [
+   [
+    "The",
+    0.2,
+    0.3
+   ],
+   [
+    "1983",
+    0.3,
+    0.82
+   ],
+   [
+    "snooker",
+    0.82,
+    1.48
+   ],
+   [
+    "championship",
+    1.48,
+    1.9
+   ],
+   [
+    "saw",
+    1.9,
+    2.42
+   ],
+   [
+    "history",
+    2.42,
+    2.92
+   ],
+   [
+    "made.",
+    2.92,
+    3.2
+   ],
+   [
+    "It",
+    3.76,
+    3.8
+   ],
+   [
+    "took",
+    3.86,
+    3.96
+   ],
+   [
+    "place",
+    3.96,
+    4.16
+   ],
+   [
+    "at",
+    4.16,
+    4.34
+   ],
+   [
+    "the",
+    4.34,
+    4.44
+   ],
+   [
+    "Crucible",
+    4.54,
+    4.78
+   ],
+   [
+    "Theatre",
+    4.94,
+    5.08
+   ],
+   [
+    "in",
+    5.08,
+    5.3
+   ],
+   [
+    "Sheffield.",
+    5.3,
+    5.52
+   ],
+   [
+    "Sixteen",
+    6.34,
+    6.7
+   ],
+   [
+    "seeded",
+    6.7,
+    7.02
+   ],
+   [
+    "players",
+    7.16,
+    7.3
+   ],
+   [
+    "qualified",
+    7.3,
+    7.74
+   ],
+   [
+    "directly",
+    7.74,
+    8.28
+   ],
+   [
+    "for",
+    8.48,
+    8.58
+   ],
+   [
+    "the",
+    8.58,
+    8.68
+   ],
+   [
+    "event.",
+    8.68,
+    8.8
+   ],
+   [
+    "Defending",
+    9.68,
+    9.88
+   ],
+   [
+    "champion",
+    9.88,
+    10.2
+   ],
+   [
+    "Alex",
+    10.2,
+    10.66
+   ],
+   [
+    "Higgins",
+    10.66,
+    11.16
+   ],
+   [
+    "lost",
+    11.16,
+    11.54
+   ],
+   [
+    "to",
+    11.54,
+    11.8
+   ],
+   [
+    "Steve",
+    11.8,
+    12.04
+   ],
+   [
+    "Davis.",
+    12.04,
+    12.34
+   ],
+   [
+    "Steve",
+    13.08,
+    13.18
+   ],
+   [
+    "Davis",
+    13.18,
+    13.46
+   ],
+   [
+    "won",
+    13.46,
+    13.72
+   ],
+   [
+    "the",
+    13.72,
+    13.86
+   ],
+   [
+    "tournament",
+    13.86,
+    14.16
+   ],
+   [
+    "by",
+    14.16,
+    14.44
+   ],
+   [
+    "beating",
+    14.56,
+    14.66
+   ],
+   [
+    "Cliff",
+    14.66,
+    14.98
+   ],
+   [
+    "Thorburn.",
+    14.98,
+    15.48
+   ],
+   [
+    "Thorburn",
+    16.36,
+    16.62
+   ],
+   [
+    "scored",
+    16.62,
+    16.84
+   ],
+   [
+    "a",
+    16.84,
+    17.04
+   ],
+   [
+    "maximum",
+    17.04,
+    17.4
+   ],
+   [
+    "147",
+    17.4,
+    18.56
+   ],
+   [
+    "break",
+    18.56,
+    18.82
+   ],
+   [
+    "during",
+    19.04,
+    19.14
+   ],
+   [
+    "his",
+    19.14,
+    19.3
+   ],
+   [
+    "match.",
+    19.3,
+    19.52
+   ],
+   [
+    "He",
+    19.94,
+    20.02
+   ],
+   [
+    "was",
+    20.02,
+    20.14
+   ],
+   [
+    "the",
+    20.14,
+    20.22
+   ],
+   [
+    "first",
+    20.22,
+    20.5
+   ],
+   [
+    "player",
+    20.5,
+    20.82
+   ],
+   [
+    "to",
+    20.82,
+    20.98
+   ],
+   [
+    "ever",
+    21.04,
+    21.2
+   ],
+   [
+    "achieve",
+    21.2,
+    21.52
+   ],
+   [
+    "this.",
+    21.52,
+    21.92
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   16,
+   24,
+   32,
+   41,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sheffield%2C_Crucible_Theatre_-_geograph.org.uk_-_495326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 483,
+   "license": "CC BY-SA 2.0",
+   "artist": "Chris Downer",
+   "page": "https://commons.wikimedia.org/wiki/File:Sheffield,_Crucible_Theatre_-_geograph.org.uk_-_495326.jpg",
+   "desc": "Sheffield, Crucible Theatre - geograph.org.uk - 495326 — Sheffield: Crucible Theatre Home of the World Professional Snooker Championships since 1977 and a world-renowned theatre. The church in the background is 495324. For more discussion, see 794409."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Wiki_stevedavis_upload.jpg/960px-Wiki_stevedavis_upload.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 960,
+   "license": "CC BY-SA 3.0",
+   "artist": "Thomas Kniess",
+   "page": "https://commons.wikimedia.org/wiki/File:Wiki_stevedavis_upload.jpg",
+   "desc": "Wiki stevedavis upload — Steve Davis at the Paul Hunter Classic 2010"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cliff_Thorburn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 539,
+   "license": "Public domain",
+   "artist": "Benwmbc at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Cliff_Thorburn.jpg",
+   "desc": "Cliff Thorburn — Ben Woodward Taken at the World Snooker Championship 2007 Shot with a Sont H5 digital camera"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  1,
+  2,
+  2
+ ],
+ "vis": [
+  {
+   "type": "timeline",
+   "year": 1983
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 16,
+   "unit": "players",
+   "label": "seeded players"
+  },
+  {
+   "type": "focus",
+   "target": "Alex Higgins",
+   "box": [
+    64,
+    203,
+    936,
+    796
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "Steve Davis",
+   "box": [
+    64,
+    203,
+    936,
+    796
+   ]
+  },
+  {
+   "type": "stat",
+   "value": 147,
+   "unit": "points",
+   "label": "maximum break"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q1892069",
+ "pron_wer": 0.051,
+ "angle": 0,
+ "source": {
+  "title": "1983 World Snooker Championship",
+  "url": "https://en.wikipedia.org/wiki/1983_World_Snooker_Championship",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T08:56:42Z",
+ "trimmed": true
+}

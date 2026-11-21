@@ -340,7 +340,8 @@
   "Bad Times at the El Royale",
   "nasa:1277091",
   "Nadezhda Alliluyeva",
-  "December to Dismember (2006)"
+  "December to Dismember (2006)",
+  "nasa:1320015"
  ],
  "rejected": [
   "Chameleon",
@@ -1532,6 +1533,9 @@
   ],
   "December to Dismember (2006)": [
    "WWE's Lost Wrestling Event: WWE only held this event once."
+  ],
+  "nasa:1320015": [
+   "Canada's Early Autumn: Fall arrives shockingly early in Canada’s arctic tundra."
   ]
  },
  "exhausted": []
