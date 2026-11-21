@@ -355,7 +355,8 @@
   "nasa:1490381",
   "55 Wall Street",
   "Battle of the Great Plains",
-  "nasa:1509841"
+  "nasa:1509841",
+  "Steve Dodd"
  ],
  "rejected": [
   "Chameleon",
@@ -1595,6 +1596,9 @@
   ],
   "nasa:1509841": [
    "Mars Rover's Oldest New Find: Perseverance just collected an ancient Mars rock."
+  ],
+  "Steve Dodd": [
+   "A Life on Screen: Steve Dodd appeared in movies for 7 decades."
   ]
  },
  "exhausted": []

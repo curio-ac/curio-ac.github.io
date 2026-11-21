@@ -1,0 +1,422 @@
+{
+ "id": "en-a3b391ae",
+ "lang": "en",
+ "title": "NASA's New Exoplanet Hunter",
+ "cat": "space",
+ "emoji": "🔭",
+ "sentences": [
+  "NASA just launched a planet-hunting satellite.",
+  "The Pandora mission studies 20 exoplanets to find water, clouds, and hazes.",
+  "It solves a huge problem: distinguishing a planet's atmosphere from its own star's bright light.",
+  "This SmallSat uses a spare infrared detector originally built for the James Webb Space Telescope.",
+  "Pandora stares at targets for 24 hours straight, helping scientists finally decode signals from distant worlds."
+ ],
+ "tim": {
+  "w": [
+   [
+    "NASA",
+    0.12,
+    0.4
+   ],
+   [
+    "just",
+    0.4,
+    0.68
+   ],
+   [
+    "launched",
+    0.68,
+    1.02
+   ],
+   [
+    "a",
+    1.02,
+    1.14
+   ],
+   [
+    "planet-hunting",
+    1.14,
+    1.64
+   ],
+   [
+    "satellite.",
+    1.64,
+    1.98
+   ],
+   [
+    "The",
+    2.7,
+    2.72
+   ],
+   [
+    "Pandora",
+    2.72,
+    3.16
+   ],
+   [
+    "mission",
+    3.16,
+    3.4
+   ],
+   [
+    "studies",
+    3.4,
+    3.64
+   ],
+   [
+    "20",
+    3.64,
+    4.06
+   ],
+   [
+    "exoplanets",
+    4.06,
+    4.7
+   ],
+   [
+    "to",
+    4.76,
+    4.86
+   ],
+   [
+    "find",
+    4.86,
+    5.0
+   ],
+   [
+    "water,",
+    5.0,
+    5.4
+   ],
+   [
+    "clouds,",
+    5.5,
+    5.96
+   ],
+   [
+    "and",
+    6.0,
+    6.04
+   ],
+   [
+    "hazes.",
+    6.04,
+    6.32
+   ],
+   [
+    "It",
+    6.9,
+    6.98
+   ],
+   [
+    "solves",
+    6.98,
+    7.2
+   ],
+   [
+    "a",
+    7.2,
+    7.38
+   ],
+   [
+    "huge",
+    7.38,
+    7.64
+   ],
+   [
+    "problem:",
+    7.64,
+    8.22
+   ],
+   [
+    "distinguishing",
+    8.48,
+    8.94
+   ],
+   [
+    "a",
+    8.94,
+    9.1
+   ],
+   [
+    "planet's",
+    9.1,
+    9.46
+   ],
+   [
+    "atmosphere",
+    9.46,
+    9.86
+   ],
+   [
+    "from",
+    9.86,
+    10.14
+   ],
+   [
+    "its",
+    10.14,
+    10.26
+   ],
+   [
+    "own",
+    10.26,
+    10.5
+   ],
+   [
+    "star's",
+    10.5,
+    10.92
+   ],
+   [
+    "bright",
+    10.92,
+    11.1
+   ],
+   [
+    "light.",
+    11.1,
+    11.44
+   ],
+   [
+    "This",
+    12.08,
+    12.22
+   ],
+   [
+    "SmallSat",
+    12.22,
+    12.8
+   ],
+   [
+    "uses",
+    12.8,
+    13.02
+   ],
+   [
+    "a",
+    13.02,
+    13.24
+   ],
+   [
+    "spare",
+    13.24,
+    13.42
+   ],
+   [
+    "infrared",
+    13.42,
+    13.76
+   ],
+   [
+    "detector",
+    13.76,
+    14.31
+   ],
+   [
+    "originally",
+    14.38,
+    14.76
+   ],
+   [
+    "built",
+    14.76,
+    15.22
+   ],
+   [
+    "for",
+    15.22,
+    15.38
+   ],
+   [
+    "the",
+    15.38,
+    15.48
+   ],
+   [
+    "James",
+    15.48,
+    15.68
+   ],
+   [
+    "Webb",
+    15.68,
+    15.96
+   ],
+   [
+    "Space",
+    15.96,
+    16.28
+   ],
+   [
+    "Telescope.",
+    16.28,
+    16.62
+   ],
+   [
+    "Pandora",
+    17.42,
+    17.82
+   ],
+   [
+    "stares",
+    17.82,
+    18.14
+   ],
+   [
+    "at",
+    18.14,
+    18.3
+   ],
+   [
+    "targets",
+    18.36,
+    18.6
+   ],
+   [
+    "for",
+    18.6,
+    18.8
+   ],
+   [
+    "24",
+    18.8,
+    19.18
+   ],
+   [
+    "hours",
+    19.18,
+    19.44
+   ],
+   [
+    "straight,",
+    19.44,
+    19.8
+   ],
+   [
+    "helping",
+    20.22,
+    20.42
+   ],
+   [
+    "scientists",
+    20.42,
+    20.86
+   ],
+   [
+    "finally",
+    20.86,
+    21.32
+   ],
+   [
+    "decode",
+    21.32,
+    21.76
+   ],
+   [
+    "signals",
+    21.76,
+    22.12
+   ],
+   [
+    "from",
+    22.12,
+    22.38
+   ],
+   [
+    "distant",
+    22.38,
+    22.64
+   ],
+   [
+    "worlds.",
+    22.64,
+    23.06
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   18,
+   33,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Cloudy_versus_clear_atmospheres_on_two_exoplanets.jpg/960px-Cloudy_versus_clear_atmospheres_on_two_exoplanets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 583,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, and Z. Levy (STScI)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloudy_versus_clear_atmospheres_on_two_exoplanets.jpg",
+   "desc": "Cloudy versus clear atmospheres on two exoplanets — This illustration compares the atmospheres of two \"hot Jupiter\"-class exoplanets orbiting very closely to different sunlike stars. The planets are too far away for the NASA/ESA Hubble Space Telescope to resol"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Viewing_an_Exoplanet_Transmission_Spectrum_%28SVS14946_-_GasGiant_Still%29.jpg/960px-Viewing_an_Exoplanet_Transmission_Spectrum_%28SVS14946_-_GasGiant_Still%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NASA's Scientific Visualization Studio - eMITS/Scott Wiessinger",
+   "page": "https://commons.wikimedia.org/wiki/File:Viewing_an_Exoplanet_Transmission_Spectrum_(SVS14946_-_GasGiant_Still).jpg",
+   "desc": "Viewing an Exoplanet Transmission Spectrum (SVS14946 - GasGiant Still) — This animated artist's concept visualizes a gas-giant exoplanet passing in front of its host star. By studying light filtered through a planet's atmosphere, astronomers can detect element"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Exoplanet_WASP-96_b_%28NIRISS_Transmission_Spectrum%29_%28weic2206a%29.jpeg/960px-Exoplanet_WASP-96_b_%28NIRISS_Transmission_Spectrum%29_%28weic2206a%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 484,
+   "license": "CC BY 4.0",
+   "artist": "NASA, ESA, CSA, STScI, and the Webb ERO Production Team",
+   "page": "https://commons.wikimedia.org/wiki/File:Exoplanet_WASP-96_b_(NIRISS_Transmission_Spectrum)_(weic2206a).jpeg",
+   "desc": "Exoplanet WASP-96 b (NIRISS Transmission Spectrum) (weic2206a) — A transmission spectrum made from a single observation using Webb’s Near-Infrared Imager and Slitless Spectrograph (NIRISS) reveals atmospheric characteristics of the hot gas giant exoplanet WASP"
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  null,
+  2
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 20,
+   "unit": "exoplanets",
+   "label": "exoplanets studied"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 24,
+   "unit": "hours",
+   "label": "staring duration"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
+ "pron_wer": 0.03,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
+  "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T15:06:16Z",
+ "trimmed": true
+}
