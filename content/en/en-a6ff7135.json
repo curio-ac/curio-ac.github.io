@@ -1,0 +1,385 @@
+{
+ "id": "en-a6ff7135",
+ "lang": "en",
+ "title": "California's Coast to Desert Highway",
+ "cat": "geography",
+ "emoji": "🛣️",
+ "sentences": [
+  "This highway crosses almost the entire state.",
+  "SR 78 runs from Oceanside east to Blythe.",
+  "It shifts from a busy freeway to a two-lane mountain road.",
+  "The route cuts through the Cuyamaca Mountains and Julian.",
+  "Drivers also cross the desert near the Salton Sea.",
+  "It even passes through the Algodones Dunes before ending."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.18,
+    0.18
+   ],
+   [
+    "highway",
+    0.18,
+    0.46
+   ],
+   [
+    "crosses",
+    0.46,
+    0.96
+   ],
+   [
+    "almost",
+    0.96,
+    1.4
+   ],
+   [
+    "the",
+    1.4,
+    1.68
+   ],
+   [
+    "entire",
+    1.68,
+    2.2
+   ],
+   [
+    "state.",
+    2.2,
+    2.6
+   ],
+   [
+    "SR",
+    3.18,
+    3.4
+   ],
+   [
+    "78",
+    3.4,
+    3.88
+   ],
+   [
+    "runs",
+    3.88,
+    4.28
+   ],
+   [
+    "from",
+    4.28,
+    4.52
+   ],
+   [
+    "Oceanside",
+    4.6,
+    5.12
+   ],
+   [
+    "east",
+    5.12,
+    5.4
+   ],
+   [
+    "to",
+    5.4,
+    5.72
+   ],
+   [
+    "Blythe.",
+    5.72,
+    5.96
+   ],
+   [
+    "It",
+    6.78,
+    6.78
+   ],
+   [
+    "shifts",
+    6.78,
+    6.98
+   ],
+   [
+    "from",
+    6.98,
+    7.3
+   ],
+   [
+    "a",
+    7.3,
+    7.4
+   ],
+   [
+    "busy",
+    7.48,
+    7.68
+   ],
+   [
+    "freeway",
+    7.68,
+    8.16
+   ],
+   [
+    "to",
+    8.16,
+    8.4
+   ],
+   [
+    "a",
+    8.4,
+    8.54
+   ],
+   [
+    "two-lane",
+    8.56,
+    8.98
+   ],
+   [
+    "mountain",
+    8.98,
+    9.26
+   ],
+   [
+    "road.",
+    9.26,
+    9.7
+   ],
+   [
+    "The",
+    10.32,
+    10.4
+   ],
+   [
+    "route",
+    10.4,
+    10.56
+   ],
+   [
+    "cuts",
+    10.56,
+    10.82
+   ],
+   [
+    "through",
+    10.82,
+    11.08
+   ],
+   [
+    "the",
+    11.08,
+    11.2
+   ],
+   [
+    "Cuyamaca",
+    11.2,
+    11.7
+   ],
+   [
+    "Mountains",
+    11.74,
+    12.02
+   ],
+   [
+    "and",
+    12.02,
+    12.28
+   ],
+   [
+    "Julian.",
+    12.28,
+    12.7
+   ],
+   [
+    "Drivers",
+    13.42,
+    13.7
+   ],
+   [
+    "also",
+    13.7,
+    14.08
+   ],
+   [
+    "cross",
+    14.08,
+    14.34
+   ],
+   [
+    "the",
+    14.34,
+    14.58
+   ],
+   [
+    "desert",
+    14.58,
+    14.92
+   ],
+   [
+    "near",
+    14.92,
+    15.12
+   ],
+   [
+    "the",
+    15.12,
+    15.28
+   ],
+   [
+    "Salton",
+    15.28,
+    15.58
+   ],
+   [
+    "Sea.",
+    15.58,
+    15.88
+   ],
+   [
+    "It",
+    16.46,
+    16.54
+   ],
+   [
+    "even",
+    16.68,
+    16.86
+   ],
+   [
+    "passes",
+    16.86,
+    17.22
+   ],
+   [
+    "through",
+    17.22,
+    17.5
+   ],
+   [
+    "the",
+    17.5,
+    17.62
+   ],
+   [
+    "Algodones",
+    17.62,
+    18.16
+   ],
+   [
+    "Dunes",
+    18.16,
+    18.64
+   ],
+   [
+    "before",
+    18.64,
+    18.82
+   ],
+   [
+    "ending.",
+    18.82,
+    19.2
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   26,
+   35,
+   44
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/CA78histmap.jpg/960px-CA78histmap.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 432,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:CA78histmap.jpg",
+   "desc": "CA78histmap — Taken from http://www.lib.utexas.edu/maps/topo/250k/, specifically cropped from Santa Ana 1947 (7.3 MB), an electronic copy of a 1947 United States Geological Survey map."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/CASR78atS11.jpg/960px-CASR78atS11.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Rschen7754",
+   "page": "https://commons.wikimedia.org/wiki/File:CASR78atS11.jpg",
+   "desc": "CASR78atS11 — Taken off the overpass over California State Route 78 at El Camino Real in Oceanside, California"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/CA_78_Anza-Borrego.jpg/960px-CA_78_Anza-Borrego.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 397,
+   "license": "CC BY-SA 3.0",
+   "artist": "Adbar",
+   "page": "https://commons.wikimedia.org/wiki/File:CA_78_Anza-Borrego.jpg",
+   "desc": "CA 78 Anza-Borrego — California State Route 78 in the Anza-Borrego Desert State Park, looking east."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Julian_CA_SR_78_%26_79.JPG/960px-Julian_CA_SR_78_%26_79.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 482,
+   "license": "CC BY-SA 3.0",
+   "artist": "Adbar",
+   "page": "https://commons.wikimedia.org/wiki/File:Julian_CA_SR_78_%26_79.JPG",
+   "desc": "Julian CA SR 78 & 79 — California State Route 78 and 79 in Julian."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Algodones_Dunes_Wilderness_and_Recreation_Area_%2830288877293%29.jpg/960px-Algodones_Dunes_Wilderness_and_Recreation_Area_%2830288877293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 447,
+   "license": "Public domain",
+   "artist": "Pacific Southwest Region USFWS from Sacramento, US",
+   "page": "https://commons.wikimedia.org/wiki/File:Algodones_Dunes_Wilderness_and_Recreation_Area_(30288877293).jpg",
+   "desc": "Algodones Dunes Wilderness and Recreation Area (30288877293) — On the far-side of the road is the Algodones Dunes Wilderness Area, while the recreation area is in the fore-front of this image. Photo by Joanna Gilkeson/USFWS."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q19183",
+ "pron_wer": 0.056,
+ "angle": 0,
+ "source": {
+  "title": "California State Route 78",
+  "url": "https://en.wikipedia.org/wiki/California_State_Route_78",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T01:48:19Z",
+ "trimmed": true
+}

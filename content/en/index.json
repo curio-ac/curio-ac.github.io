@@ -316,7 +316,8 @@
   "William Calcraft",
   "nasa:1500737",
   "nasa:1473526",
-  "Banksia ericifolia"
+  "Banksia ericifolia",
+  "HMS Courageous (50)"
  ],
  "rejected": [
   "Chameleon",
@@ -397,7 +398,8 @@
   "C. J. Cregg",
   "Nicky Barr",
   "2017 Africa Cup of Nations final",
-  "nasa:1472651"
+  "nasa:1472651",
+  "nasa:1508615"
  ],
  "angles": {
   "Blue whale": [
@@ -1426,6 +1428,9 @@
   ],
   "Banksia ericifolia": [
    "The Lantern Banksia Shrub: Collected by Joseph Banks in 1770!"
+  ],
+  "HMS Courageous (50)": [
+   "From Battlecruiser To Carrier: This battlecruiser became an aircraft carrier."
   ]
  },
  "exhausted": []
