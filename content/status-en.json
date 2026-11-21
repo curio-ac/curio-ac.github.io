@@ -3,6 +3,14 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-21T10:58:29Z",
+   "made": 5,
+   "rejected": 0,
+   "repaired": 0,
+   "calls": 39,
+   "notes": []
+  },
+  {
    "at": "2026-11-21T02:57:07Z",
    "made": 3,
    "rejected": 2,
