@@ -1,0 +1,312 @@
+{
+ "id": "en-04db077e",
+ "lang": "en",
+ "title": "Europe's Brutal Summer Heat",
+ "cat": "geography",
+ "emoji": "☀️",
+ "sentences": [
+  "Europe baked in 5 relentless heat waves.",
+  "Temperatures soared past 40 degrees Celsius in 2026.",
+  "Roads buckled and extreme wildfires raged.",
+  "Only 23 percent of European homes have air conditioning.",
+  "Preliminary reports link the heat to 10000 excess deaths."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Europe",
+    0.35,
+    0.35
+   ],
+   [
+    "baked",
+    0.35,
+    0.85
+   ],
+   [
+    "in",
+    0.85,
+    1.25
+   ],
+   [
+    "5",
+    1.49,
+    1.71
+   ],
+   [
+    "relentless",
+    1.71,
+    2.47
+   ],
+   [
+    "heat",
+    2.47,
+    2.95
+   ],
+   [
+    "waves.",
+    2.95,
+    3.45
+   ],
+   [
+    "Temperatures",
+    3.93,
+    4.25
+   ],
+   [
+    "soared",
+    4.25,
+    4.55
+   ],
+   [
+    "past",
+    4.55,
+    4.75
+   ],
+   [
+    "40",
+    4.75,
+    5.21
+   ],
+   [
+    "degrees",
+    5.21,
+    5.49
+   ],
+   [
+    "Celsius",
+    5.49,
+    5.95
+   ],
+   [
+    "in",
+    5.95,
+    6.41
+   ],
+   [
+    "2026.",
+    6.41,
+    7.15
+   ],
+   [
+    "Roads",
+    7.95,
+    8.23
+   ],
+   [
+    "buckled",
+    8.23,
+    8.65
+   ],
+   [
+    "and",
+    8.65,
+    8.83
+   ],
+   [
+    "extreme",
+    8.83,
+    9.21
+   ],
+   [
+    "wildfires",
+    9.21,
+    9.81
+   ],
+   [
+    "raged.",
+    9.81,
+    10.15
+   ],
+   [
+    "Only",
+    10.87,
+    10.97
+   ],
+   [
+    "23",
+    10.97,
+    11.49
+   ],
+   [
+    "percent",
+    11.75,
+    11.85
+   ],
+   [
+    "of",
+    11.85,
+    12.01
+   ],
+   [
+    "European",
+    12.01,
+    12.23
+   ],
+   [
+    "homes",
+    12.27,
+    12.63
+   ],
+   [
+    "have",
+    12.63,
+    12.95
+   ],
+   [
+    "air",
+    12.95,
+    13.13
+   ],
+   [
+    "conditioning.",
+    13.13,
+    13.68
+   ],
+   [
+    "Preliminary",
+    14.29,
+    14.61
+   ],
+   [
+    "reports",
+    14.61,
+    14.89
+   ],
+   [
+    "link",
+    14.89,
+    15.25
+   ],
+   [
+    "the",
+    15.25,
+    15.39
+   ],
+   [
+    "heat",
+    15.39,
+    15.61
+   ],
+   [
+    "to",
+    15.61,
+    15.79
+   ],
+   [
+    "10000",
+    16.03,
+    16.67
+   ],
+   [
+    "excess",
+    16.67,
+    16.95
+   ],
+   [
+    "deaths.",
+    16.95,
+    17.31
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   21,
+   30
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Record_Summer_Heat_Bakes_Europe_%28NESDIS_2018-08-10%29.jpg/960px-Record_Summer_Heat_Bakes_Europe_%28NESDIS_2018-08-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "Public domain",
+   "artist": "NOAA",
+   "page": "https://commons.wikimedia.org/wiki/File:Record_Summer_Heat_Bakes_Europe_(NESDIS_2018-08-10).jpg",
+   "desc": "Record Summer Heat Bakes Europe (NESDIS 2018-08-10) — Historic heat has baked much of Europe this summer, turning the landscape from green to brown in little over a month. These two images, captured by the NOAA-20 satellite's VIIRS instrument on June 30 and Au"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Swedenfireszm_tmo_2018198_lrg.jpg/960px-Swedenfireszm_tmo_2018198_lrg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 461,
+   "license": "Public domain",
+   "artist": "NASA Earth Observatory images by Lauren Dauphin and Joshua Stevens, using MODIS ",
+   "page": "https://commons.wikimedia.org/wiki/File:Swedenfireszm_tmo_2018198_lrg.jpg",
+   "desc": "Swedenfireszm tmo 2018198 lrg — Scorching, dry conditions are spurring historic wildfire outbreaks across Sweden this summer. On July 19, 2018, more than 40 fires dotted the country, causing firefighters to scramble and hundreds of people to evacuate t"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Air_Conditioner_for_a_single_room.jpg/960px-Air_Conditioner_for_a_single_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 323,
+   "license": "Copyrighted free use-link",
+   "artist": "Doggo19292",
+   "page": "https://commons.wikimedia.org/wiki/File:Air_Conditioner_for_a_single_room.jpg",
+   "desc": "Air Conditioner for a single room — An air conditioner for a single room use, with the temperature set on 17°C/63°F"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Future_heatwave-related_excess_deaths_model_Journal.pmed.1002629.g001.png/960px-Future_heatwave-related_excess_deaths_model_Journal.pmed.1002629.g001.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 329,
+   "license": "CC BY-SA 4.0",
+   "artist": "Guo Y, Gasparrini A, Li S, Sera F, Vicedo-Cabrera AM, de Sousa Zanotti Stagliori",
+   "page": "https://commons.wikimedia.org/wiki/File:Future_heatwave-related_excess_deaths_model_Journal.pmed.1002629.g001.png",
+   "desc": "Future heatwave-related excess deaths model Journal.pmed.1002629.g001 — Locations of communities and mean percent change of heatwave-related excess deaths in 2031–2080 comparing to 1971–2020, under RCP8.5 scenario and high-variant population scenario, with ass"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  1,
+  2,
+  3
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "waves",
+   "label": "relentless heat waves"
+  },
+  {
+   "type": "stat",
+   "value": 40,
+   "unit": "°C",
+   "label": "temperatures soared"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 23,
+   "unit": "%",
+   "label": "homes have AC"
+  },
+  {
+   "type": "stat",
+   "value": 10000,
+   "unit": "deaths",
+   "label": "excess deaths"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/earth/europes-scorching-summer/",
+ "pron_wer": 0.051,
+ "angle": 0,
+ "source": {
+  "title": "Europe’s Scorching Summer",
+  "url": "https://science.nasa.gov/earth/europes-scorching-summer/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T00:04:08Z",
+ "trimmed": true
+}
