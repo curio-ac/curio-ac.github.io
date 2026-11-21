@@ -1,0 +1,390 @@
+{
+ "id": "he-4622782a",
+ "lang": "he",
+ "title": "הקרב הימי הסודי",
+ "cat": "history",
+ "emoji": "⚓",
+ "sentences": [
+  "הבריטים פיצחו את הצופן הגרמני הסודי.",
+  "ב-24 בינואר 1915 יצאו הגרמנים לשרטון דוגר.",
+  "הם תכננו ללכוד ספינות דיג בריטיות בים הצפוני.",
+  "הבריטים ידעו על התוכנית ויצאו ליירט אותם.",
+  "במרדף, הבריטים הטביעו אונייה גרמנית אחת ופגעו בשנייה.",
+  "טעות בתיאום השביתה את אוניית הדגל הבריטית.",
+  "טעות בתקשורת עצרה את המרדף והגרמנים נמלטו."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הבריטים",
+    0,
+    0.52
+   ],
+   [
+    "פיצחו",
+    0.52,
+    1.0
+   ],
+   [
+    "את",
+    1.0,
+    1.1
+   ],
+   [
+    "הצופן",
+    1.24,
+    1.6
+   ],
+   [
+    "הגרמני",
+    1.6,
+    2.04
+   ],
+   [
+    "הסודי.",
+    2.04,
+    2.46
+   ],
+   [
+    "ב-24",
+    3.04,
+    3.42
+   ],
+   [
+    "בינואר",
+    3.42,
+    4.5
+   ],
+   [
+    "1915",
+    4.5,
+    5.44
+   ],
+   [
+    "יצאו",
+    5.44,
+    6.5
+   ],
+   [
+    "הגרמנים",
+    6.5,
+    7.04
+   ],
+   [
+    "לשרטון",
+    7.04,
+    7.62
+   ],
+   [
+    "דוגר.",
+    7.62,
+    7.98
+   ],
+   [
+    "הם",
+    8.6,
+    8.68
+   ],
+   [
+    "תכננו",
+    8.9,
+    9.1
+   ],
+   [
+    "ללכוד",
+    9.1,
+    9.5
+   ],
+   [
+    "ספינות",
+    9.5,
+    9.92
+   ],
+   [
+    "דיג",
+    9.92,
+    10.14
+   ],
+   [
+    "בריטיות",
+    10.14,
+    10.58
+   ],
+   [
+    "בים",
+    10.58,
+    10.9
+   ],
+   [
+    "הצפוני.",
+    10.9,
+    11.38
+   ],
+   [
+    "הבריטים",
+    12.18,
+    12.6
+   ],
+   [
+    "ידעו",
+    12.6,
+    12.96
+   ],
+   [
+    "על",
+    12.96,
+    13.1
+   ],
+   [
+    "התוכנית",
+    13.1,
+    13.58
+   ],
+   [
+    "ויצאו",
+    13.72,
+    14.08
+   ],
+   [
+    "ליירט",
+    14.08,
+    14.44
+   ],
+   [
+    "אותם.",
+    14.44,
+    14.54
+   ],
+   [
+    "במרדף,",
+    15.42,
+    15.88
+   ],
+   [
+    "הבריטים",
+    16.22,
+    16.58
+   ],
+   [
+    "הטביעו",
+    16.58,
+    17.02
+   ],
+   [
+    "אונייה",
+    17.02,
+    17.42
+   ],
+   [
+    "גרמנית",
+    17.74,
+    17.84
+   ],
+   [
+    "אחת",
+    17.84,
+    18.24
+   ],
+   [
+    "ופגעו",
+    18.32,
+    18.74
+   ],
+   [
+    "בשנייה.",
+    18.74,
+    19.18
+   ],
+   [
+    "טעות",
+    19.96,
+    20.22
+   ],
+   [
+    "בתיאום",
+    20.22,
+    20.68
+   ],
+   [
+    "השביתה",
+    20.68,
+    21.26
+   ],
+   [
+    "את",
+    21.26,
+    21.32
+   ],
+   [
+    "אוניית",
+    21.32,
+    21.74
+   ],
+   [
+    "הדגל",
+    21.74,
+    22.1
+   ],
+   [
+    "הבריטית.",
+    22.1,
+    22.22
+   ],
+   [
+    "טעות",
+    23.26,
+    23.5
+   ],
+   [
+    "בתקשורת",
+    23.5,
+    24.2
+   ],
+   [
+    "עצרה",
+    24.6,
+    24.78
+   ],
+   [
+    "את",
+    24.78,
+    24.88
+   ],
+   [
+    "המרדף",
+    24.88,
+    25.44
+   ],
+   [
+    "והגרמנים",
+    25.54,
+    26.08
+   ],
+   [
+    "נמלטו.",
+    26.08,
+    26.6
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   13,
+   21,
+   28,
+   36,
+   43
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Willy_Stoewer_Dogger_Bank_1915.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 497,
+   "license": "Public domain",
+   "artist": "וילי סטיור",
+   "page": "https://commons.wikimedia.org/wiki/File:Willy_Stoewer_Dogger_Bank_1915.jpg",
+   "desc": "Willy Stoewer Dogger Bank 1915 — German battlecruisers in the Battle of Dogger Bank 1915"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/HMS_Tiger_%281913%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 374,
+   "license": "Public domain",
+   "artist": "photographer not identified",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Tiger_(1913).jpg",
+   "desc": "HMS Tiger (1913) — Battlecruiser HMS Tiger. She is in her post-1918 configuration, with mainmast ahead of her third fuunel."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bluecher_sinkend.jpg/960px-Bluecher_sinkend.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 518,
+   "license": "Public domain",
+   "artist": "This photo was taken from the deck of the British cruiser HMS Arethusa. Internat",
+   "page": "https://commons.wikimedia.org/wiki/File:Bluecher_sinkend.jpg",
+   "desc": "Bluecher sinkend — The german armoured cruiser SMS Blücher sinks after receiving multiple hits from British warships at the Battle of Dogger Bank on 25 January 1915."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/HMS_Lion_%28Lion-class_battlecruiser%29.jpg/960px-HMS_Lion_%28Lion-class_battlecruiser%29.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 395,
+   "license": "Public domain",
+   "artist": "Unknown member of the UK armed services(?)",
+   "page": "https://commons.wikimedia.org/wiki/File:HMS_Lion_(Lion-class_battlecruiser).jpg",
+   "desc": "HMS Lion (Lion-class battlecruiser) — British Lion-class battlecruiser HMS Lion."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/SMS_Seydlitz2.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 389,
+   "license": "Public domain",
+   "artist": "Atelier Heinr. Meents, Wilhelmshaven,",
+   "page": "https://commons.wikimedia.org/wiki/File:SMS_Seydlitz2.jpg",
+   "desc": "SMS Seydlitz2 — The German battlecruiser SMS Seydlitz."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  null,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1915
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "אונייה",
+   "label": "אונייה גרמנית"
+  },
+  {
+   "type": "focus",
+   "target": "British flagship",
+   "box": [
+    72,
+    11,
+    769,
+    990
+   ]
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": [
+  54.724,
+  2.769
+ ],
+ "qid": "Q73194",
+ "pron_wer": 0.078,
+ "angle": 0,
+ "source": {
+  "title": "קרב שרטון דוגר (1915)",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%91_%D7%A9%D7%A8%D7%98%D7%95%D7%9F_%D7%93%D7%95%D7%92%D7%A8_%281915%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T12:40:53Z",
+ "trimmed": true
+}
