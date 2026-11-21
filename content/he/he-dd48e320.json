@@ -1,0 +1,368 @@
+{
+ "id": "he-dd48e320",
+ "lang": "he",
+ "title": "זאב הרעמה הוא לא זאב",
+ "cat": "biology",
+ "emoji": "🐺",
+ "sentences": [
+  "זאב הרעמה הוא בכלל לא זאב.",
+  "הוא שייך למשפחת הכלביים, אך הוא יצור ייחודי בסוג נפרד משלו.",
+  "למרות המראה שלו, הוא לא שועל וגם לא זאב מצוי.",
+  "יש לו רגליים ארוכות במיוחד שמותאמות להליכה באזורי ביצות.",
+  "הוא אוכל-כול, אפילו שאריות מהעיר.",
+  "הקול שלו נשמע כמו שילוב מוזר בין נביחה לשאגה."
+ ],
+ "tim": {
+  "w": [
+   [
+    "זאב",
+    0.26,
+    0.62
+   ],
+   [
+    "הרעמה",
+    0.62,
+    1.1
+   ],
+   [
+    "הוא",
+    1.1,
+    1.74
+   ],
+   [
+    "בכלל",
+    1.94,
+    2.24
+   ],
+   [
+    "לא",
+    2.24,
+    2.38
+   ],
+   [
+    "זאב.",
+    2.38,
+    2.76
+   ],
+   [
+    "הוא",
+    3.36,
+    3.46
+   ],
+   [
+    "שייך",
+    3.46,
+    3.76
+   ],
+   [
+    "למשפחת",
+    3.76,
+    4.28
+   ],
+   [
+    "הכלביים,",
+    4.28,
+    5.08
+   ],
+   [
+    "אך",
+    5.18,
+    5.28
+   ],
+   [
+    "הוא",
+    5.28,
+    5.38
+   ],
+   [
+    "יצור",
+    5.38,
+    5.74
+   ],
+   [
+    "ייחודי",
+    5.74,
+    6.3
+   ],
+   [
+    "בסוג",
+    6.3,
+    6.78
+   ],
+   [
+    "נפרד",
+    6.82,
+    7.38
+   ],
+   [
+    "משלו.",
+    7.38,
+    7.8
+   ],
+   [
+    "למרות",
+    8.54,
+    8.82
+   ],
+   [
+    "המראה",
+    8.82,
+    9.14
+   ],
+   [
+    "שלו,",
+    9.14,
+    9.48
+   ],
+   [
+    "הוא",
+    9.7,
+    9.8
+   ],
+   [
+    "לא",
+    9.8,
+    10.12
+   ],
+   [
+    "שועל",
+    10.12,
+    10.6
+   ],
+   [
+    "וגם",
+    10.6,
+    11.02
+   ],
+   [
+    "לא",
+    11.02,
+    11.16
+   ],
+   [
+    "זאב",
+    11.16,
+    11.46
+   ],
+   [
+    "מצוי.",
+    11.46,
+    11.86
+   ],
+   [
+    "יש",
+    12.4,
+    12.5
+   ],
+   [
+    "לו",
+    12.5,
+    12.58
+   ],
+   [
+    "רגליים",
+    12.58,
+    13.06
+   ],
+   [
+    "ארוכות",
+    13.06,
+    13.66
+   ],
+   [
+    "במיוחד",
+    13.72,
+    14.26
+   ],
+   [
+    "שמותאמות",
+    14.26,
+    15.08
+   ],
+   [
+    "להליכה",
+    15.12,
+    15.58
+   ],
+   [
+    "באזורי",
+    15.58,
+    16.02
+   ],
+   [
+    "ביצות.",
+    16.02,
+    16.36
+   ],
+   [
+    "הוא",
+    17.0,
+    17.1
+   ],
+   [
+    "אוכל-כול,",
+    17.1,
+    17.72
+   ],
+   [
+    "אפילו",
+    18.16,
+    18.28
+   ],
+   [
+    "שאריות",
+    18.28,
+    18.76
+   ],
+   [
+    "מהעיר.",
+    18.76,
+    19.2
+   ],
+   [
+    "הקול",
+    20.06,
+    20.16
+   ],
+   [
+    "שלו",
+    20.16,
+    20.4
+   ],
+   [
+    "נשמע",
+    20.4,
+    20.72
+   ],
+   [
+    "כמו",
+    20.72,
+    20.98
+   ],
+   [
+    "שילוב",
+    20.98,
+    21.4
+   ],
+   [
+    "מוזר",
+    21.4,
+    21.88
+   ],
+   [
+    "בין",
+    21.88,
+    22.2
+   ],
+   [
+    "נביחה",
+    22.2,
+    22.84
+   ],
+   [
+    "לשאגה.",
+    22.84,
+    23.58
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   17,
+   27,
+   36,
+   41
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chrysocyon.brachyurus.jpg/960px-Chrysocyon.brachyurus.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 818,
+   "license": "CC BY-SA 3.0",
+   "artist": "sarefo",
+   "page": "https://commons.wikimedia.org/wiki/File:Chrysocyon.brachyurus.jpg",
+   "desc": "Chrysocyon.brachyurus — Chrysocyon brachyurus (Maned Wolf) in Cologne Zoo, Germany."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chrysocyon_brachyurus2.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1223,
+   "license": "CC BY-SA 2.5",
+   "artist": "J. Patrick Fischer",
+   "page": "https://commons.wikimedia.org/wiki/File:Chrysocyon_brachyurus2.jpg",
+   "desc": "Chrysocyon brachyurus2 — Maned Wolf (Tierpark Hellabrunn?)"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Loup_%C3%A0_crini%C3%A8re_1.JPG/960px-Loup_%C3%A0_crini%C3%A8re_1.JPG?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.5",
+   "artist": "Abujoy",
+   "page": "https://commons.wikimedia.org/wiki/File:Loup_%C3%A0_crini%C3%A8re_1.JPG",
+   "desc": "Loup à crinière 1 — A maned wolf in Edinburgh Zoo."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Maned_Wolf_11%2C_Beardsley_Zoo%2C_2009-11-06.jpg/960px-Maned_Wolf_11%2C_Beardsley_Zoo%2C_2009-11-06.jpg?utm_source=he.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "CC BY-SA 3.0",
+   "artist": "Sage Ross",
+   "page": "https://commons.wikimedia.org/wiki/File:Maned_Wolf_11,_Beardsley_Zoo,_2009-11-06.jpg",
+   "desc": "Maned Wolf 11, Beardsley Zoo, 2009-11-06 — A Maned Wolf (Chrysocyon brachyurus) at Beardsley Zoo מיקום המצלמה41° 12′ 42.66″ N, 73° 10′ 54.03″ W תמונה זו ותמונות נוספות במיקום: OpenStreetMap 41.211849; -73.181675"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "long legs",
+   "box": [
+    548,
+    134,
+    962,
+    947
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q184389",
+ "pron_wer": 0.02,
+ "angle": 0,
+ "source": {
+  "title": "זאב הרעמה",
+  "url": "https://he.wikipedia.org/wiki/%D7%96%D7%90%D7%91_%D7%94%D7%A8%D7%A2%D7%9E%D7%94",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:35:18Z",
+ "trimmed": true
+}
