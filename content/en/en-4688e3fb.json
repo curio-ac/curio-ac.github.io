@@ -1,0 +1,373 @@
+{
+ "id": "en-4688e3fb",
+ "lang": "en",
+ "title": "Martian Autumn Clouds",
+ "cat": "space",
+ "emoji": "☁️",
+ "sentences": [
+  "Mars has its own beautiful twilight clouds.",
+  "The Curiosity rover just captured them on camera.",
+  "It is officially autumn in Gale Crater now.",
+  "Scientists track the seasons by counting degrees of solar longitude.",
+  "The rover is wrapping up drill work at Basque Lakes.",
+  "It will soon drive toward unique crystal forms.",
+  "These wispy clouds appear just before sunset."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Mars",
+    0.32,
+    0.32
+   ],
+   [
+    "has",
+    0.32,
+    0.6
+   ],
+   [
+    "its",
+    0.6,
+    0.74
+   ],
+   [
+    "own",
+    0.74,
+    0.98
+   ],
+   [
+    "beautiful",
+    0.98,
+    1.66
+   ],
+   [
+    "twilight",
+    1.66,
+    2.18
+   ],
+   [
+    "clouds.",
+    2.18,
+    2.62
+   ],
+   [
+    "The",
+    3.22,
+    3.24
+   ],
+   [
+    "Curiosity",
+    3.3,
+    3.56
+   ],
+   [
+    "rover",
+    3.56,
+    3.94
+   ],
+   [
+    "just",
+    3.94,
+    4.32
+   ],
+   [
+    "captured",
+    4.32,
+    4.72
+   ],
+   [
+    "them",
+    4.72,
+    4.86
+   ],
+   [
+    "on",
+    4.86,
+    4.98
+   ],
+   [
+    "camera.",
+    4.98,
+    5.08
+   ],
+   [
+    "It",
+    6.14,
+    6.24
+   ],
+   [
+    "is",
+    6.24,
+    6.36
+   ],
+   [
+    "officially",
+    6.36,
+    6.8
+   ],
+   [
+    "autumn",
+    6.8,
+    7.26
+   ],
+   [
+    "in",
+    7.26,
+    7.58
+   ],
+   [
+    "Gale",
+    7.58,
+    7.82
+   ],
+   [
+    "Crater",
+    7.82,
+    8.1
+   ],
+   [
+    "now.",
+    8.1,
+    8.9
+   ],
+   [
+    "Scientists",
+    8.92,
+    9.14
+   ],
+   [
+    "track",
+    9.14,
+    9.5
+   ],
+   [
+    "the",
+    9.5,
+    9.7
+   ],
+   [
+    "seasons",
+    9.7,
+    10.0
+   ],
+   [
+    "by",
+    10.0,
+    10.22
+   ],
+   [
+    "counting",
+    10.22,
+    10.56
+   ],
+   [
+    "degrees",
+    10.84,
+    10.94
+   ],
+   [
+    "of",
+    10.94,
+    11.24
+   ],
+   [
+    "solar",
+    11.42,
+    11.58
+   ],
+   [
+    "longitude.",
+    11.58,
+    12.0
+   ],
+   [
+    "The",
+    12.92,
+    12.96
+   ],
+   [
+    "rover",
+    12.96,
+    13.12
+   ],
+   [
+    "is",
+    13.12,
+    13.32
+   ],
+   [
+    "wrapping",
+    13.32,
+    13.6
+   ],
+   [
+    "up",
+    13.6,
+    13.76
+   ],
+   [
+    "drill",
+    13.76,
+    13.94
+   ],
+   [
+    "work",
+    13.94,
+    14.18
+   ],
+   [
+    "at",
+    14.18,
+    14.38
+   ],
+   [
+    "Basque",
+    14.48,
+    14.8
+   ],
+   [
+    "Lakes.",
+    14.8,
+    15.0
+   ],
+   [
+    "It",
+    15.6,
+    15.6
+   ],
+   [
+    "will",
+    15.6,
+    15.68
+   ],
+   [
+    "soon",
+    15.72,
+    15.84
+   ],
+   [
+    "drive",
+    15.84,
+    16.1
+   ],
+   [
+    "toward",
+    16.1,
+    16.32
+   ],
+   [
+    "unique",
+    16.32,
+    16.62
+   ],
+   [
+    "crystal",
+    16.62,
+    17.02
+   ],
+   [
+    "forms.",
+    17.02,
+    17.3
+   ],
+   [
+    "These",
+    18.24,
+    18.38
+   ],
+   [
+    "wispy",
+    18.38,
+    18.82
+   ],
+   [
+    "clouds",
+    18.82,
+    19.14
+   ],
+   [
+    "appear",
+    19.14,
+    19.46
+   ],
+   [
+    "just",
+    19.52,
+    19.78
+   ],
+   [
+    "before",
+    19.92,
+    20.02
+   ],
+   [
+    "sunset.",
+    20.02,
+    20.44
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   15,
+   23,
+   33,
+   43,
+   51
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 360,
+   "unit": "deg",
+   "label": "solar longitude"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T16:56:13Z",
+ "trimmed": true
+}

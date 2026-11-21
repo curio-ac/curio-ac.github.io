@@ -361,7 +361,8 @@
   "USS Anzio (CVE-57)",
   "nasa:1387369",
   "Delichon",
-  "nasa:1422768"
+  "nasa:1422768",
+  "1987 (What the Fuck Is Going On?)"
  ],
  "rejected": [
   "Chameleon",
@@ -454,7 +455,8 @@
   "1937 Brazilian coup d'état",
   "nasa:1487832",
   "Barton Fink",
-  "Captain Scarlet and the Mysterons"
+  "Captain Scarlet and the Mysterons",
+  "Frederick Delius"
  ],
  "angles": {
   "Blue whale": [
@@ -1620,6 +1622,9 @@
   ],
   "nasa:1422768": [
    "Fire Creates Rare Cloud Cap: Wildfires can actually create their own clouds."
+  ],
+  "1987 (What the Fuck Is Going On?)": [
+   "The Album ABBA Killed: ABBA once forced a band to destroy their album."
   ]
  },
  "exhausted": []
