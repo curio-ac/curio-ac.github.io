@@ -1,0 +1,400 @@
+{
+ "id": "en-e865736e",
+ "lang": "en",
+ "title": "Tennis Legend Kim Clijsters",
+ "cat": "history",
+ "emoji": "🎾",
+ "sentences": [
+  "Kim Clijsters reached world No. 1 in both singles and doubles.",
+  "She held both top rankings simultaneously back in 2003.",
+  "Her career included 41 singles titles and 11 doubles titles.",
+  "She led Belgium to their first Fed Cup crown in 2001.",
+  "After losing her first four major finals, she won the 2005 US Open.",
+  "She retired from tennis at age 23."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Kim",
+    0.18,
+    0.18
+   ],
+   [
+    "Clijsters",
+    0.18,
+    0.72
+   ],
+   [
+    "reached",
+    0.72,
+    1.02
+   ],
+   [
+    "world",
+    1.02,
+    1.34
+   ],
+   [
+    "No.",
+    1.34,
+    1.72
+   ],
+   [
+    "1",
+    1.9,
+    1.96
+   ],
+   [
+    "in",
+    1.96,
+    2.18
+   ],
+   [
+    "both",
+    2.18,
+    2.34
+   ],
+   [
+    "singles",
+    2.34,
+    2.7
+   ],
+   [
+    "and",
+    2.7,
+    3.18
+   ],
+   [
+    "doubles.",
+    3.18,
+    3.98
+   ],
+   [
+    "She",
+    4.08,
+    4.14
+   ],
+   [
+    "held",
+    4.14,
+    4.34
+   ],
+   [
+    "both",
+    4.34,
+    4.52
+   ],
+   [
+    "top",
+    4.52,
+    4.82
+   ],
+   [
+    "rankings",
+    4.82,
+    5.18
+   ],
+   [
+    "simultaneously",
+    5.18,
+    5.94
+   ],
+   [
+    "back",
+    5.94,
+    6.4
+   ],
+   [
+    "in",
+    6.4,
+    6.56
+   ],
+   [
+    "2003.",
+    6.56,
+    7.26
+   ],
+   [
+    "Her",
+    7.84,
+    7.92
+   ],
+   [
+    "career",
+    8.0,
+    8.2
+   ],
+   [
+    "included",
+    8.2,
+    8.58
+   ],
+   [
+    "41",
+    8.58,
+    9.16
+   ],
+   [
+    "singles",
+    9.16,
+    9.66
+   ],
+   [
+    "titles",
+    9.66,
+    9.96
+   ],
+   [
+    "and",
+    10.24,
+    10.34
+   ],
+   [
+    "11",
+    10.34,
+    10.68
+   ],
+   [
+    "doubles",
+    10.68,
+    11.02
+   ],
+   [
+    "titles.",
+    11.02,
+    11.12
+   ],
+   [
+    "She",
+    11.98,
+    12.08
+   ],
+   [
+    "led",
+    12.08,
+    12.3
+   ],
+   [
+    "Belgium",
+    12.3,
+    12.6
+   ],
+   [
+    "to",
+    12.6,
+    12.8
+   ],
+   [
+    "their",
+    12.8,
+    12.92
+   ],
+   [
+    "first",
+    12.92,
+    13.28
+   ],
+   [
+    "Fed",
+    13.28,
+    13.5
+   ],
+   [
+    "Cup",
+    13.5,
+    13.66
+   ],
+   [
+    "crown",
+    13.66,
+    13.96
+   ],
+   [
+    "in",
+    13.96,
+    14.18
+   ],
+   [
+    "2001.",
+    14.2,
+    14.9
+   ],
+   [
+    "After",
+    15.58,
+    15.72
+   ],
+   [
+    "losing",
+    15.72,
+    15.98
+   ],
+   [
+    "her",
+    15.98,
+    16.16
+   ],
+   [
+    "first",
+    16.16,
+    16.44
+   ],
+   [
+    "four",
+    16.66,
+    16.76
+   ],
+   [
+    "major",
+    16.76,
+    17.06
+   ],
+   [
+    "finals,",
+    17.06,
+    17.76
+   ],
+   [
+    "she",
+    17.92,
+    17.92
+   ],
+   [
+    "won",
+    17.92,
+    18.08
+   ],
+   [
+    "the",
+    18.08,
+    18.2
+   ],
+   [
+    "2005",
+    18.2,
+    18.98
+   ],
+   [
+    "US",
+    18.98,
+    19.28
+   ],
+   [
+    "Open.",
+    19.28,
+    19.56
+   ],
+   [
+    "She",
+    20.18,
+    20.28
+   ],
+   [
+    "retired",
+    20.28,
+    20.56
+   ],
+   [
+    "from",
+    20.56,
+    20.76
+   ],
+   [
+    "tennis",
+    20.76,
+    21.0
+   ],
+   [
+    "at",
+    21.0,
+    21.28
+   ],
+   [
+    "age",
+    21.32,
+    21.44
+   ],
+   [
+    "23.",
+    21.44,
+    21.92
+   ]
+  ],
+  "b": [
+   0,
+   11,
+   20,
+   30,
+   41,
+   54
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kim_Clijsters.jpg/960px-Kim_Clijsters.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 1080,
+   "license": "CC0",
+   "artist": "Vegafi",
+   "page": "https://commons.wikimedia.org/wiki/File:Kim_Clijsters.jpg",
+   "desc": "Kim Clijsters — Kim Clijsters à l'Open Gdf Suez"
+  }
+ ],
+ "sent_img": [
+  0,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "rank",
+   "label": "world No. 1"
+  },
+  {
+   "type": "timeline",
+   "year": 2003
+  },
+  {
+   "type": "stat",
+   "value": 41,
+   "unit": "titles",
+   "label": "singles titles"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2005
+  },
+  {
+   "type": "stat",
+   "value": 23,
+   "unit": "years old",
+   "label": "retirement age"
+  }
+ ],
+ "geo": null,
+ "qid": "Q11685",
+ "pron_wer": 0.049,
+ "angle": 1,
+ "source": {
+  "title": "Kim Clijsters",
+  "url": "https://en.wikipedia.org/wiki/Kim_Clijsters",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T10:58:27Z",
+ "trimmed": true
+}

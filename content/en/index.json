@@ -346,7 +346,8 @@
   "2nd Infantry Division (United Kingdom)",
   "1740 Batavia massacre",
   "nasa:1440911",
-  "Boring Lava Field"
+  "Boring Lava Field",
+  "2000 Sugar Bowl"
  ],
  "rejected": [
   "Chameleon",
@@ -1557,6 +1558,9 @@
   ],
   "Boring Lava Field": [
    "Oregon's Boring Volcanoes: Portland sits near an active volcanic field."
+  ],
+  "2000 Sugar Bowl": [
+   "The 2000 Sugar Bowl Showdown: 18.4 million people watched this wild championship."
   ]
  },
  "exhausted": []
