@@ -1,0 +1,397 @@
+{
+ "id": "en-01c50399",
+ "lang": "en",
+ "title": "Britain's Most Prolific Hangman",
+ "cat": "history",
+ "emoji": "💀",
+ "sentences": [
+  "He carried out 450 executions over 45 years.",
+  "William Calcraft was originally a cobbler by trade.",
+  "He sold meat pies on streets around Newgate Prison.",
+  "The government officially appointed him hangman in 1829.",
+  "He used a controversial short-drop hanging method instead.",
+  "The condemned were slowly strangled to death.",
+  "He would sometimes climb on shoulders to break necks."
+ ],
+ "tim": {
+  "w": [
+   [
+    "He",
+    0,
+    0.08
+   ],
+   [
+    "carried",
+    0.08,
+    0.38
+   ],
+   [
+    "out",
+    0.38,
+    0.6
+   ],
+   [
+    "450",
+    0.6,
+    1.54
+   ],
+   [
+    "executions",
+    1.54,
+    2.56
+   ],
+   [
+    "over",
+    2.74,
+    2.88
+   ],
+   [
+    "45",
+    2.88,
+    3.54
+   ],
+   [
+    "years.",
+    3.54,
+    4.1
+   ],
+   [
+    "William",
+    4.68,
+    4.94
+   ],
+   [
+    "Calcraft",
+    4.94,
+    5.46
+   ],
+   [
+    "was",
+    5.64,
+    5.78
+   ],
+   [
+    "originally",
+    5.78,
+    6.22
+   ],
+   [
+    "a",
+    6.22,
+    6.44
+   ],
+   [
+    "cobbler",
+    6.44,
+    6.84
+   ],
+   [
+    "by",
+    6.84,
+    6.98
+   ],
+   [
+    "trade.",
+    6.98,
+    7.24
+   ],
+   [
+    "He",
+    7.76,
+    7.78
+   ],
+   [
+    "sold",
+    7.78,
+    7.98
+   ],
+   [
+    "meat",
+    7.98,
+    8.22
+   ],
+   [
+    "pies",
+    8.22,
+    8.54
+   ],
+   [
+    "on",
+    8.54,
+    8.8
+   ],
+   [
+    "streets",
+    8.8,
+    9.16
+   ],
+   [
+    "around",
+    9.16,
+    9.5
+   ],
+   [
+    "Newgate",
+    9.5,
+    9.84
+   ],
+   [
+    "Prison.",
+    9.84,
+    10.16
+   ],
+   [
+    "The",
+    10.76,
+    10.86
+   ],
+   [
+    "government",
+    10.86,
+    11.08
+   ],
+   [
+    "officially",
+    11.08,
+    11.66
+   ],
+   [
+    "appointed",
+    11.66,
+    12.14
+   ],
+   [
+    "him",
+    12.14,
+    12.32
+   ],
+   [
+    "hangman",
+    12.32,
+    12.82
+   ],
+   [
+    "in",
+    12.82,
+    13.06
+   ],
+   [
+    "1829.",
+    13.06,
+    14.06
+   ],
+   [
+    "He",
+    14.66,
+    14.76
+   ],
+   [
+    "used",
+    14.76,
+    14.98
+   ],
+   [
+    "a",
+    14.98,
+    15.1
+   ],
+   [
+    "controversial",
+    15.1,
+    15.72
+   ],
+   [
+    "short-drop",
+    15.72,
+    16.58
+   ],
+   [
+    "hanging",
+    16.58,
+    16.92
+   ],
+   [
+    "method",
+    16.92,
+    17.26
+   ],
+   [
+    "instead.",
+    17.26,
+    17.7
+   ],
+   [
+    "The",
+    18.16,
+    18.28
+   ],
+   [
+    "condemned",
+    18.32,
+    18.6
+   ],
+   [
+    "were",
+    18.6,
+    18.94
+   ],
+   [
+    "slowly",
+    18.94,
+    19.44
+   ],
+   [
+    "strangled",
+    19.44,
+    20.12
+   ],
+   [
+    "to",
+    20.12,
+    20.26
+   ],
+   [
+    "death.",
+    20.26,
+    20.96
+   ],
+   [
+    "He",
+    20.96,
+    21.06
+   ],
+   [
+    "would",
+    21.06,
+    21.16
+   ],
+   [
+    "sometimes",
+    21.16,
+    21.46
+   ],
+   [
+    "climb",
+    21.46,
+    21.9
+   ],
+   [
+    "on",
+    21.9,
+    22.18
+   ],
+   [
+    "shoulders",
+    22.18,
+    22.62
+   ],
+   [
+    "to",
+    22.62,
+    22.94
+   ],
+   [
+    "break",
+    22.94,
+    23.22
+   ],
+   [
+    "necks.",
+    23.22,
+    23.76
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   25,
+   33,
+   41,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/West_View_of_Newgate_by_George_Shepherd_%281784-1862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 540,
+   "license": "Public domain",
+   "artist": "George Shepherd (1784-1862)",
+   "page": "https://commons.wikimedia.org/wiki/File:West_View_of_Newgate_by_George_Shepherd_(1784-1862).jpg",
+   "desc": "West View of Newgate by George Shepherd (1784-1862) — The second Newgate in a 19th century print: From en:Newgate Prison"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/A_Cobbler_%28unknown_date%29%2C_by_Fabio_Fabbi.jpg/960px-A_Cobbler_%28unknown_date%29%2C_by_Fabio_Fabbi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 972,
+   "license": "Public domain",
+   "artist": "Fabio Fabbi",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Cobbler_(unknown_date),_by_Fabio_Fabbi.jpg",
+   "desc": "A Cobbler (unknown date), by Fabio Fabbi — A Cobbler (unknown date), by Fabio Fabbi"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/West_View_of_Newgate_by_George_Shepherd_%281784-1862%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 472,
+   "license": "Public domain",
+   "artist": "George Shepherd",
+   "page": "https://commons.wikimedia.org/wiki/File:West_View_of_Newgate_by_George_Shepherd_(1784-1862)_(cropped).jpg",
+   "desc": "West View of Newgate by George Shepherd (1784-1862) (cropped) — The second Newgate in a 19th century print: From en:Newgate Prison"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 450,
+   "unit": "executions",
+   "label": "executions over 45"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1829
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q742138",
+ "pron_wer": 0.017,
+ "angle": 0,
+ "source": {
+  "title": "William Calcraft",
+  "url": "https://en.wikipedia.org/wiki/William_Calcraft",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T00:20:26Z",
+ "trimmed": true
+}

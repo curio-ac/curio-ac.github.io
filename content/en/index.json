@@ -311,7 +311,8 @@
   "Ailanthus altissima",
   "DNA nanotechnology",
   "1995 Pacific Grand Prix",
-  "Australia at the Winter Olympics"
+  "Australia at the Winter Olympics",
+  "nasa:1278406"
  ],
  "rejected": [
   "Chameleon",
@@ -1405,6 +1406,9 @@
   ],
   "Australia at the Winter Olympics": [
    "Australia's Unlikely Winter Olympics: Australia debuted at the Winter Olympics in 1936."
+  ],
+  "nasa:1278406": [
+   "Europe's Brutal Summer Heat: Europe baked in 5 relentless heat waves."
   ]
  },
  "exhausted": []
