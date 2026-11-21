@@ -357,7 +357,8 @@
   "Battle of the Great Plains",
   "nasa:1509841",
   "Steve Dodd",
-  "nasa:1277435"
+  "nasa:1277435",
+  "USS Anzio (CVE-57)"
  ],
  "rejected": [
   "Chameleon",
@@ -449,7 +450,8 @@
   "Black-necked grebe",
   "1937 Brazilian coup d'état",
   "nasa:1487832",
-  "Barton Fink"
+  "Barton Fink",
+  "Captain Scarlet and the Mysterons"
  ],
  "angles": {
   "Blue whale": [
@@ -1603,6 +1605,9 @@
   ],
   "nasa:1277435": [
    "NASA's New Exoplanet Hunter: NASA just launched a planet-hunting satellite."
+  ],
+  "USS Anzio (CVE-57)": [
+   "The Ship With Two Names: One warship held two famous names."
   ]
  },
  "exhausted": []

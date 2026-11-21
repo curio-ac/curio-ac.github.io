@@ -1,0 +1,398 @@
+{
+ "id": "en-fe41c3b7",
+ "lang": "en",
+ "title": "Arctic Ice Hits Annual Low",
+ "cat": "geography",
+ "emoji": "🧊",
+ "sentences": [
+  "Arctic sea ice just hit its annual minimum.",
+  "On Sept. 12, ice covered 1.78 million square miles.",
+  "This ties 2008, 2010, and 2025 for the 10th-lowest record.",
+  "Increased cloud cover has helped stabilize the ice recently.",
+  "Meanwhile, Antarctic ice recently declined, showing unusual magnitude in its fluctuation.",
+  "Scientists have tracked this polar ice from space since 1978."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Arctic",
+    0.16,
+    0.16
+   ],
+   [
+    "sea",
+    0.16,
+    0.42
+   ],
+   [
+    "ice",
+    0.42,
+    0.72
+   ],
+   [
+    "just",
+    0.72,
+    0.96
+   ],
+   [
+    "hit",
+    0.96,
+    1.22
+   ],
+   [
+    "its",
+    1.22,
+    1.46
+   ],
+   [
+    "annual",
+    1.52,
+    1.76
+   ],
+   [
+    "minimum.",
+    1.76,
+    2.38
+   ],
+   [
+    "On",
+    2.6,
+    2.7
+   ],
+   [
+    "Sept.",
+    2.7,
+    3.0
+   ],
+   [
+    "12,",
+    3.48,
+    3.92
+   ],
+   [
+    "ice",
+    4.04,
+    4.12
+   ],
+   [
+    "covered",
+    4.12,
+    4.38
+   ],
+   [
+    "1.78",
+    4.38,
+    5.32
+   ],
+   [
+    "million",
+    5.32,
+    5.76
+   ],
+   [
+    "square",
+    5.76,
+    6.04
+   ],
+   [
+    "miles.",
+    6.04,
+    6.62
+   ],
+   [
+    "This",
+    6.9,
+    7.0
+   ],
+   [
+    "ties",
+    7.0,
+    7.2
+   ],
+   [
+    "2008,",
+    7.2,
+    7.7
+   ],
+   [
+    "2010,",
+    8.08,
+    8.68
+   ],
+   [
+    "and",
+    8.74,
+    8.82
+   ],
+   [
+    "2025",
+    8.82,
+    9.42
+   ],
+   [
+    "for",
+    9.42,
+    9.96
+   ],
+   [
+    "the",
+    9.96,
+    10.06
+   ],
+   [
+    "10th-lowest",
+    10.06,
+    10.74
+   ],
+   [
+    "record.",
+    10.74,
+    11.32
+   ],
+   [
+    "Increased",
+    11.32,
+    11.74
+   ],
+   [
+    "cloud",
+    11.74,
+    11.98
+   ],
+   [
+    "cover",
+    11.98,
+    12.3
+   ],
+   [
+    "has",
+    12.3,
+    12.52
+   ],
+   [
+    "helped",
+    12.52,
+    12.68
+   ],
+   [
+    "stabilize",
+    12.68,
+    13.1
+   ],
+   [
+    "the",
+    13.1,
+    13.36
+   ],
+   [
+    "ice",
+    13.36,
+    13.58
+   ],
+   [
+    "recently.",
+    13.58,
+    14.22
+   ],
+   [
+    "Meanwhile,",
+    14.6,
+    14.88
+   ],
+   [
+    "Antarctic",
+    14.94,
+    15.34
+   ],
+   [
+    "ice",
+    15.46,
+    15.58
+   ],
+   [
+    "recently",
+    15.58,
+    15.94
+   ],
+   [
+    "declined,",
+    15.94,
+    16.6
+   ],
+   [
+    "showing",
+    16.76,
+    16.9
+   ],
+   [
+    "unusual",
+    16.9,
+    17.28
+   ],
+   [
+    "magnitude",
+    17.28,
+    17.88
+   ],
+   [
+    "in",
+    17.88,
+    18.2
+   ],
+   [
+    "its",
+    18.2,
+    18.32
+   ],
+   [
+    "fluctuation.",
+    18.32,
+    19.24
+   ],
+   [
+    "Scientists",
+    19.32,
+    19.64
+   ],
+   [
+    "have",
+    19.64,
+    19.88
+   ],
+   [
+    "tracked",
+    19.88,
+    20.18
+   ],
+   [
+    "this",
+    20.28,
+    20.38
+   ],
+   [
+    "polar",
+    20.38,
+    20.62
+   ],
+   [
+    "ice",
+    20.62,
+    20.92
+   ],
+   [
+    "from",
+    20.92,
+    21.12
+   ],
+   [
+    "space",
+    21.12,
+    21.42
+   ],
+   [
+    "since",
+    21.42,
+    21.68
+   ],
+   [
+    "1978.",
+    21.68,
+    22.38
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   17,
+   27,
+   36,
+   47
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Arctic_Sea_Ice_Shrinks_to_Its_2026_Minimum_%281466049_-_60912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 545,
+   "license": "Public domain",
+   "artist": "Nimbus 7",
+   "page": "https://commons.wikimedia.org/wiki/File:Arctic_Sea_Ice_Shrinks_to_Its_2026_Minimum_(1466049_-_60912).jpg",
+   "desc": "Arctic Sea Ice Shrinks to Its 2026 Minimum (1466049 - 60912) — Arctic sea ice reaches its annual minimum extent on September 12, 2026, tying several past years for the 10th-lowest minimum in the satellite record. NASA Earth Observatory/Michala Garrison"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Arctic_Sea_Ice_Shrinks_to_Its_2026_Minimum_%281466049_-_60912_lrg%29.jpg/960px-Arctic_Sea_Ice_Shrinks_to_Its_2026_Minimum_%281466049_-_60912_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "Public domain",
+   "artist": "Nimbus 7",
+   "page": "https://commons.wikimedia.org/wiki/File:Arctic_Sea_Ice_Shrinks_to_Its_2026_Minimum_(1466049_-_60912_lrg).jpg",
+   "desc": "Arctic Sea Ice Shrinks to Its 2026 Minimum (1466049 - 60912 lrg) — Arctic sea ice reaches its annual minimum extent on September 12, 2026, tying several past years for the 10th-lowest minimum in the satellite record. NASA Earth Observatory/Michala Garrison"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Arctic_sea_ice_reaches_lowest_maximum_extent_on_record.png/960px-Arctic_sea_ice_reaches_lowest_maximum_extent_on_record.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 576,
+   "license": "Public domain",
+   "artist": "NSIDC",
+   "page": "https://commons.wikimedia.org/wiki/File:Arctic_sea_ice_reaches_lowest_maximum_extent_on_record.png",
+   "desc": "Arctic sea ice reaches lowest maximum extent on record — The graph above shows Arctic sea ice extent as of February 3, 2016, along with daily ice extent data for four previous years. 2015 to 2016 is shown in blue, 2014 to 2015 in green, 2013 to 2014 in orange,"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/1978-_Antarctic_sea_ice_extent_-_Purich_and_Doddridge.png/960px-1978-_Antarctic_sea_ice_extent_-_Purich_and_Doddridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 426,
+   "license": "CC BY 4.0",
+   "artist": "Purich, Ariaan; Doddridge, Edward W.",
+   "page": "https://commons.wikimedia.org/wiki/File:1978-_Antarctic_sea_ice_extent_-_Purich_and_Doddridge.png",
+   "desc": "1978- Antarctic sea ice extent - Purich and Doddridge — Line chart showing Antarctic sea ice extent anomaly since 1978, by month, with years superimposed on each other Source: Purich, Ariaan; Doddridge, Edward W. (13 September 2023). \"Record low Antarctic sea "
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 2008
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1978
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+ "pron_wer": 0.034,
+ "angle": 0,
+ "source": {
+  "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+  "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T15:43:17Z",
+ "trimmed": true
+}
