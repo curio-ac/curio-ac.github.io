@@ -341,7 +341,8 @@
   "nasa:1277091",
   "Nadezhda Alliluyeva",
   "December to Dismember (2006)",
-  "nasa:1320015"
+  "nasa:1320015",
+  "1983 World Snooker Championship"
  ],
  "rejected": [
   "Chameleon",
@@ -1536,6 +1537,9 @@
   ],
   "nasa:1320015": [
    "Canada's Early Autumn: Fall arrives shockingly early in Canada’s arctic tundra."
+  ],
+  "1983 World Snooker Championship": [
+   "The First Perfect 147 Break: The 1983 snooker championship saw history made."
   ]
  },
  "exhausted": []

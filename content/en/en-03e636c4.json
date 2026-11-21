@@ -1,0 +1,463 @@
+{
+ "id": "en-03e636c4",
+ "lang": "en",
+ "title": "The Division That Marched Paris",
+ "cat": "history",
+ "emoji": "🪖",
+ "sentences": [
+  "One British division uniquely marched through Paris.",
+  "The 2nd Infantry Division formed and disestablished multiple times between 1809 and 2012.",
+  "Lieutenant-General Arthur Wellesley raised it for the Peninsular War.",
+  "The unit fought at the Battle of Waterloo, defeating the final French attack.",
+  "It later served in the Crimean War, fighting at the Battle of Inkerman.",
+  "This storied unit was repeatedly created and disbanded for over two centuries."
+ ],
+ "tim": {
+  "w": [
+   [
+    "One",
+    0.35,
+    0.35
+   ],
+   [
+    "British",
+    0.35,
+    0.63
+   ],
+   [
+    "division",
+    0.63,
+    1.11
+   ],
+   [
+    "uniquely",
+    1.11,
+    1.59
+   ],
+   [
+    "marched",
+    1.59,
+    2.09
+   ],
+   [
+    "through",
+    2.09,
+    2.29
+   ],
+   [
+    "Paris.",
+    2.29,
+    3.09
+   ],
+   [
+    "The",
+    3.09,
+    3.11
+   ],
+   [
+    "2nd",
+    3.11,
+    3.49
+   ],
+   [
+    "Infantry",
+    3.49,
+    3.83
+   ],
+   [
+    "Division",
+    3.83,
+    4.21
+   ],
+   [
+    "formed",
+    4.81,
+    5.05
+   ],
+   [
+    "and",
+    5.05,
+    5.33
+   ],
+   [
+    "disestablished",
+    5.33,
+    5.99
+   ],
+   [
+    "multiple",
+    5.99,
+    6.27
+   ],
+   [
+    "times",
+    6.27,
+    6.67
+   ],
+   [
+    "between",
+    6.67,
+    7.01
+   ],
+   [
+    "1809",
+    7.01,
+    7.81
+   ],
+   [
+    "and",
+    7.81,
+    8.03
+   ],
+   [
+    "2012.",
+    8.03,
+    8.53
+   ],
+   [
+    "Lieutenant-General",
+    9.17,
+    9.81
+   ],
+   [
+    "Arthur",
+    9.81,
+    10.15
+   ],
+   [
+    "Wellesley",
+    10.17,
+    10.67
+   ],
+   [
+    "raised",
+    10.67,
+    10.95
+   ],
+   [
+    "it",
+    10.95,
+    11.11
+   ],
+   [
+    "for",
+    11.15,
+    11.25
+   ],
+   [
+    "the",
+    11.25,
+    11.33
+   ],
+   [
+    "Peninsular",
+    11.33,
+    11.69
+   ],
+   [
+    "War.",
+    11.69,
+    11.95
+   ],
+   [
+    "The",
+    12.51,
+    12.57
+   ],
+   [
+    "unit",
+    12.57,
+    12.75
+   ],
+   [
+    "fought",
+    12.75,
+    12.99
+   ],
+   [
+    "at",
+    12.99,
+    13.17
+   ],
+   [
+    "the",
+    13.17,
+    13.21
+   ],
+   [
+    "Battle",
+    13.21,
+    13.35
+   ],
+   [
+    "of",
+    13.35,
+    13.49
+   ],
+   [
+    "Waterloo,",
+    13.49,
+    13.94
+   ],
+   [
+    "defeating",
+    14.25,
+    14.35
+   ],
+   [
+    "the",
+    14.35,
+    14.57
+   ],
+   [
+    "final",
+    14.57,
+    14.87
+   ],
+   [
+    "French",
+    14.87,
+    15.13
+   ],
+   [
+    "attack.",
+    15.13,
+    15.23
+   ],
+   [
+    "It",
+    16.09,
+    16.17
+   ],
+   [
+    "later",
+    16.17,
+    16.37
+   ],
+   [
+    "served",
+    16.37,
+    16.63
+   ],
+   [
+    "in",
+    16.63,
+    16.79
+   ],
+   [
+    "the",
+    16.79,
+    16.85
+   ],
+   [
+    "Crimean",
+    16.85,
+    17.27
+   ],
+   [
+    "War,",
+    17.27,
+    17.37
+   ],
+   [
+    "fighting",
+    17.83,
+    17.89
+   ],
+   [
+    "at",
+    17.89,
+    18.07
+   ],
+   [
+    "the",
+    18.07,
+    18.15
+   ],
+   [
+    "Battle",
+    18.15,
+    18.35
+   ],
+   [
+    "of",
+    18.35,
+    18.55
+   ],
+   [
+    "Inkerman.",
+    18.55,
+    18.83
+   ],
+   [
+    "This",
+    19.47,
+    19.59
+   ],
+   [
+    "storied",
+    19.59,
+    19.99
+   ],
+   [
+    "unit",
+    19.99,
+    20.17
+   ],
+   [
+    "was",
+    20.17,
+    20.35
+   ],
+   [
+    "repeatedly",
+    20.35,
+    20.79
+   ],
+   [
+    "created",
+    20.79,
+    21.33
+   ],
+   [
+    "and",
+    21.33,
+    21.63
+   ],
+   [
+    "disbanded",
+    21.63,
+    22.13
+   ],
+   [
+    "for",
+    22.13,
+    22.27
+   ],
+   [
+    "over",
+    22.37,
+    22.49
+   ],
+   [
+    "two",
+    22.49,
+    22.79
+   ],
+   [
+    "centuries.",
+    22.79,
+    23.15
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   20,
+   29,
+   42,
+   55
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Allsaintsgate-wyrd-29O6-0117.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 1081,
+   "license": "CC BY-SA 3.0",
+   "artist": "http://www.wyrdlight.com Author: Antony McCallum",
+   "page": "https://commons.wikimedia.org/wiki/File:Allsaintsgate-wyrd-29O6-0117.jpg",
+   "desc": "Allsaintsgate-wyrd-29O6-0117 — 1st &amp; 2nd Infantry Division Gates at Aldershot's Royal Garrison Church - All Saints"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/MarshmanAlbuera.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 541,
+   "license": "Public domain",
+   "artist": "J. Marshman",
+   "page": "https://commons.wikimedia.org/wiki/File:MarshmanAlbuera.jpg",
+   "desc": "MarshmanAlbuera — A depiction of the 57th (the West Middlesex) Regiment of Foot, fighting in a rainstorm during the Battle of Albuera, 16 May 1811"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Battle_of_Waterloo_1815.PNG/960px-Battle_of_Waterloo_1815.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 329,
+   "license": "Public domain",
+   "artist": "William Sadler",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Waterloo_1815.PNG",
+   "desc": "Battle of Waterloo 1815 — "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Private_John_McDermond_by_Louis_William_Desanges.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 506,
+   "license": "Public domain",
+   "artist": "Louis William Desanges",
+   "page": "https://commons.wikimedia.org/wiki/File:Private_John_McDermond_by_Louis_William_Desanges.jpg",
+   "desc": "Private John McDermond by Louis William Desanges — Private John McDermond, 47th (The Lancashire) Regiment of Foot, winning the VC by saving Colonel Haly at Inkerman, on 5 November 1854"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Monro_inspecting_2nd_division.jpg/960px-Monro_inspecting_2nd_division.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 473,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Monro_inspecting_2nd_division.jpg",
+   "desc": "Monro inspecting 2nd division — Major-General Charles Monro, with Colonel N. Malcolm, inspecting troops of the 2nd Division on the march on the Western Front at some point in 1914."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 2012,
+   "unit": "year",
+   "label": "disestablished"
+  },
+  {
+   "type": "timeline",
+   "year": 1809
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1854
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "centuries",
+   "label": "unit history"
+  }
+ ],
+ "geo": null,
+ "qid": "Q2471075",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "2nd Infantry Division (United Kingdom)",
+  "url": "https://en.wikipedia.org/wiki/2nd_Infantry_Division_%28United_Kingdom%29",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T09:07:53Z",
+ "trimmed": true
+}
