@@ -1,0 +1,395 @@
+{
+ "id": "en-cb27bf25",
+ "lang": "en",
+ "title": "A Railroad For Horses!",
+ "cat": "history",
+ "emoji": "🚂",
+ "sentences": [
+  "This stone-hauling railroad started for horses!",
+  "Founded in 1903 by Louis A. Fisk, it originally carried passengers to a trotting park.",
+  "The line later expanded to serve stone quarries.",
+  "The Branford Steam Railroad took control of the Damascus Railroad in 1909.",
+  "By 1916, passenger business ended in favor of freight.",
+  "It has hauled trap rock continuously since 1914."
+ ],
+ "tim": {
+  "w": [
+   [
+    "This",
+    0.2,
+    0.2
+   ],
+   [
+    "stone-hauling",
+    0.2,
+    0.96
+   ],
+   [
+    "railroad",
+    0.96,
+    1.32
+   ],
+   [
+    "started",
+    1.32,
+    1.86
+   ],
+   [
+    "for",
+    1.86,
+    2.12
+   ],
+   [
+    "horses!",
+    2.38,
+    3.18
+   ],
+   [
+    "Founded",
+    3.18,
+    3.5
+   ],
+   [
+    "in",
+    3.5,
+    3.6
+   ],
+   [
+    "1903",
+    3.6,
+    4.36
+   ],
+   [
+    "by",
+    4.36,
+    4.62
+   ],
+   [
+    "Louis",
+    4.62,
+    4.94
+   ],
+   [
+    "A.",
+    4.94,
+    5.36
+   ],
+   [
+    "Fisk,",
+    5.48,
+    5.74
+   ],
+   [
+    "it",
+    6.02,
+    6.1
+   ],
+   [
+    "originally",
+    6.1,
+    6.36
+   ],
+   [
+    "carried",
+    6.36,
+    6.82
+   ],
+   [
+    "passengers",
+    6.82,
+    7.26
+   ],
+   [
+    "to",
+    7.26,
+    7.6
+   ],
+   [
+    "a",
+    7.6,
+    7.7
+   ],
+   [
+    "trotting",
+    7.7,
+    8.04
+   ],
+   [
+    "park.",
+    8.04,
+    8.14
+   ],
+   [
+    "The",
+    8.88,
+    8.98
+   ],
+   [
+    "line",
+    8.98,
+    9.2
+   ],
+   [
+    "later",
+    9.2,
+    9.46
+   ],
+   [
+    "expanded",
+    9.46,
+    9.96
+   ],
+   [
+    "to",
+    9.96,
+    10.16
+   ],
+   [
+    "serve",
+    10.16,
+    10.4
+   ],
+   [
+    "stone",
+    10.4,
+    10.7
+   ],
+   [
+    "quarries.",
+    10.7,
+    11.08
+   ],
+   [
+    "The",
+    11.8,
+    11.86
+   ],
+   [
+    "Branford",
+    11.86,
+    12.32
+   ],
+   [
+    "Steam",
+    12.32,
+    12.64
+   ],
+   [
+    "Railroad",
+    12.64,
+    13.16
+   ],
+   [
+    "took",
+    13.16,
+    13.36
+   ],
+   [
+    "control",
+    13.46,
+    13.72
+   ],
+   [
+    "of",
+    13.72,
+    13.94
+   ],
+   [
+    "the",
+    13.94,
+    14.04
+   ],
+   [
+    "Damascus",
+    14.04,
+    14.58
+   ],
+   [
+    "Railroad",
+    14.58,
+    15.06
+   ],
+   [
+    "in",
+    15.06,
+    15.24
+   ],
+   [
+    "1909.",
+    15.24,
+    15.88
+   ],
+   [
+    "By",
+    16.62,
+    16.72
+   ],
+   [
+    "1916,",
+    16.72,
+    17.68
+   ],
+   [
+    "passenger",
+    17.78,
+    18.04
+   ],
+   [
+    "business",
+    18.04,
+    18.36
+   ],
+   [
+    "ended",
+    18.36,
+    18.76
+   ],
+   [
+    "in",
+    18.76,
+    19.06
+   ],
+   [
+    "favor",
+    19.06,
+    19.24
+   ],
+   [
+    "of",
+    19.24,
+    19.52
+   ],
+   [
+    "freight.",
+    19.52,
+    20.27
+   ],
+   [
+    "It",
+    20.38,
+    20.46
+   ],
+   [
+    "has",
+    20.46,
+    20.58
+   ],
+   [
+    "hauled",
+    20.66,
+    20.88
+   ],
+   [
+    "trap",
+    20.96,
+    21.08
+   ],
+   [
+    "rock",
+    21.08,
+    21.36
+   ],
+   [
+    "continuously",
+    21.36,
+    22.02
+   ],
+   [
+    "since",
+    22.02,
+    22.54
+   ],
+   [
+    "1914.",
+    22.54,
+    23.24
+   ]
+  ],
+  "b": [
+   0,
+   6,
+   21,
+   29,
+   41,
+   50
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Pioneer_%28horse-drawn_tram%29_1.png/960px-The_Pioneer_%28horse-drawn_tram%29_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 4.0",
+   "artist": "Peaceray",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Pioneer_(horse-drawn_tram)_1.png",
+   "desc": "The Pioneer (horse-drawn tram) 1 — The Pioneer was one of the B&amp;O's horse-drawn railroad carriages that predated those pulled by steam engines."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Branford_Steam_Railroad_passenger_train.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 763,
+   "license": "Public domain",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Branford_Steam_Railroad_passenger_train.jpg",
+   "desc": "Branford Steam Railroad passenger train — A train of the Branford Steam Railroad at the horse trotting park in Branford, Connecticut."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard%2C_July_2019.JPG/960px-Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard%2C_July_2019.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Pi.1415926535",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard,_July_2019.JPG",
+   "desc": "Aerial view of Tilcon Connecticut quarry and Lake Gaillard, July 2019 — Aerial view of Tilcon Connecticut quarry and Lake Gaillard in North Branford, Connecticut in July 2019"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1903
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1909
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1914
+  }
+ ],
+ "geo": null,
+ "qid": "Q4957328",
+ "pron_wer": 0.0,
+ "angle": 0,
+ "source": {
+  "title": "Branford Steam Railroad",
+  "url": "https://en.wikipedia.org/wiki/Branford_Steam_Railroad",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T05:20:00Z",
+ "trimmed": true
+}

@@ -328,7 +328,8 @@
   "Georgetown Car Barn",
   "nasa:1499167",
   "44th Chess Olympiad",
-  "Dreadnought"
+  "Dreadnought",
+  "nasa:1304490"
  ],
  "rejected": [
   "Chameleon",
@@ -1480,6 +1481,9 @@
   ],
   "Dreadnought": [
    "The HMS Dreadnought: HMS Dreadnought launched in 1906."
+  ],
+  "nasa:1304490": [
+   "5,000 Martian Days!: Curiosity just hit 5,000 Martian days on Mars."
   ]
  },
  "exhausted": []
