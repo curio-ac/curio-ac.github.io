@@ -1,0 +1,430 @@
+{
+ "id": "en-344ce3d4",
+ "lang": "en",
+ "title": "Cosmic Treble Clef Discovered",
+ "cat": "space",
+ "emoji": "🎶",
+ "sentences": [
+  "Astronomers found a cosmic radio wave shaped like a treble clef.",
+  "It hides behind the Milky Way's dense dust and gas.",
+  "NASA's Chandra Observatory peered through to reveal the hidden structure.",
+  "A supermassive black hole outburst first created bright radio waves.",
+  "Then, a colossal galaxy cluster collision compressed and reignited the cloud.",
+  "This musical shape is just a trick of human pareidolia."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Astronomers",
+    0.26,
+    0.72
+   ],
+   [
+    "found",
+    0.72,
+    0.94
+   ],
+   [
+    "a",
+    0.94,
+    1.16
+   ],
+   [
+    "cosmic",
+    1.34,
+    1.6
+   ],
+   [
+    "radio",
+    1.6,
+    2.08
+   ],
+   [
+    "wave",
+    2.08,
+    2.4
+   ],
+   [
+    "shaped",
+    2.6,
+    2.74
+   ],
+   [
+    "like",
+    2.74,
+    2.98
+   ],
+   [
+    "a",
+    2.98,
+    3.08
+   ],
+   [
+    "treble",
+    3.08,
+    3.44
+   ],
+   [
+    "clef.",
+    3.44,
+    4.09
+   ],
+   [
+    "It",
+    4.36,
+    4.42
+   ],
+   [
+    "hides",
+    4.42,
+    4.72
+   ],
+   [
+    "behind",
+    4.72,
+    5.04
+   ],
+   [
+    "the",
+    5.04,
+    5.22
+   ],
+   [
+    "Milky",
+    5.22,
+    5.46
+   ],
+   [
+    "Way's",
+    5.5,
+    5.88
+   ],
+   [
+    "dense",
+    6.0,
+    6.14
+   ],
+   [
+    "dust",
+    6.14,
+    6.58
+   ],
+   [
+    "and",
+    6.64,
+    6.78
+   ],
+   [
+    "gas.",
+    6.78,
+    7.0
+   ],
+   [
+    "NASA's",
+    7.78,
+    8.2
+   ],
+   [
+    "Chandra",
+    8.2,
+    8.64
+   ],
+   [
+    "Observatory",
+    8.64,
+    9.32
+   ],
+   [
+    "peered",
+    9.58,
+    9.78
+   ],
+   [
+    "through",
+    9.78,
+    10.1
+   ],
+   [
+    "to",
+    10.1,
+    10.34
+   ],
+   [
+    "reveal",
+    10.34,
+    10.7
+   ],
+   [
+    "the",
+    10.7,
+    10.88
+   ],
+   [
+    "hidden",
+    10.88,
+    11.14
+   ],
+   [
+    "structure.",
+    11.14,
+    11.28
+   ],
+   [
+    "A",
+    12.38,
+    12.46
+   ],
+   [
+    "supermassive",
+    12.46,
+    13.32
+   ],
+   [
+    "black",
+    13.32,
+    13.56
+   ],
+   [
+    "hole",
+    13.56,
+    13.9
+   ],
+   [
+    "outburst",
+    13.9,
+    14.42
+   ],
+   [
+    "first",
+    14.7,
+    14.8
+   ],
+   [
+    "created",
+    14.8,
+    15.26
+   ],
+   [
+    "bright",
+    15.26,
+    15.7
+   ],
+   [
+    "radio",
+    15.7,
+    16.18
+   ],
+   [
+    "waves.",
+    16.18,
+    16.28
+   ],
+   [
+    "Then,",
+    17.06,
+    17.34
+   ],
+   [
+    "a",
+    17.48,
+    17.5
+   ],
+   [
+    "colossal",
+    17.52,
+    18.1
+   ],
+   [
+    "galaxy",
+    18.1,
+    18.42
+   ],
+   [
+    "cluster",
+    18.42,
+    18.86
+   ],
+   [
+    "collision",
+    19.1,
+    19.3
+   ],
+   [
+    "compressed",
+    19.74,
+    19.84
+   ],
+   [
+    "and",
+    19.84,
+    20.2
+   ],
+   [
+    "reignited",
+    20.2,
+    20.88
+   ],
+   [
+    "the",
+    20.88,
+    21.02
+   ],
+   [
+    "cloud.",
+    21.02,
+    21.22
+   ],
+   [
+    "This",
+    22.08,
+    22.24
+   ],
+   [
+    "musical",
+    22.24,
+    22.72
+   ],
+   [
+    "shape",
+    22.72,
+    23.08
+   ],
+   [
+    "is",
+    23.08,
+    23.38
+   ],
+   [
+    "just",
+    23.38,
+    23.58
+   ],
+   [
+    "a",
+    23.64,
+    23.74
+   ],
+   [
+    "trick",
+    23.74,
+    23.94
+   ],
+   [
+    "of",
+    23.94,
+    24.12
+   ],
+   [
+    "human",
+    24.26,
+    24.42
+   ],
+   [
+    "pareidolia.",
+    24.42,
+    24.52
+   ]
+  ],
+  "b": [
+   0,
+   11,
+   21,
+   31,
+   41,
+   52
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Chandra_Finds_Possible_Origin_of_%E2%80%98Treble_Clef%E2%80%99_Waves.jpg/960px-Chandra_Finds_Possible_Origin_of_%E2%80%98Treble_Clef%E2%80%99_Waves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON",
+   "page": "https://commons.wikimedia.org/wiki/File:Chandra_Finds_Possible_Origin_of_%E2%80%98Treble_Clef%E2%80%99_Waves.jpg",
+   "desc": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves — A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/960px-Milky_Way_IR_Spitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 519,
+   "license": "Public domain",
+   "artist": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+   "page": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+   "desc": "Milky Way IR Spitzer — The center of our Milky Way galaxy is hidden from the prying eyes of optical telescopes by clouds of obscuring dust and gas. But in this stunning vista, the Spitzer Space Telescope's infrared cameras penetrate much of th"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Chandra_X-Ray_Observatory_%28noirlab2427c%29.jpg/960px-Chandra_X-Ray_Observatory_%28noirlab2427c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 405,
+   "license": "CC BY 4.0",
+   "artist": "NASA/CXC &amp; J.Vaughan",
+   "page": "https://commons.wikimedia.org/wiki/File:Chandra_X-Ray_Observatory_(noirlab2427c).jpg",
+   "desc": "Chandra X-Ray Observatory (noirlab2427c) — Artist’s illustration of NASA’s Chandra X-Ray Observatory."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/NASA%27s_Chandra_Breaks_Down_%27Treble_Clef%27s%27_Galaxy_Cluster_Collision_%28X-ray%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 536,
+   "license": "Public domain",
+   "artist": "X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON",
+   "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Chandra_Breaks_Down_%27Treble_Clef%27s%27_Galaxy_Cluster_Collision_(X-ray).jpg",
+   "desc": "NASA's Chandra Breaks Down 'Treble Clef's' Galaxy Cluster Collision (X-ray) — Using Chandra, astronomers have discovered that an outburst from a supermassive black hole, followed by a collision of two galaxy clusters, are the likely causes of an unusual format"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Pareidolia_clouds.jpg/960px-Pareidolia_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 3.0",
+   "artist": "Danamania",
+   "page": "https://commons.wikimedia.org/wiki/File:Pareidolia_clouds.jpg",
+   "desc": "Pareidolia clouds — Example of Pareidolia in clouds. The rightmost cloud appears to be a bear, surprising the left cloud which can appear as a pig."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "url:https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+ "pron_wer": 0.016,
+ "angle": 0,
+ "source": {
+  "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+  "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+  "license": "Public domain (NASA)",
+  "name": "NASA"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.1-flash-tts-preview/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T07:18:25Z",
+ "trimmed": true
+}
