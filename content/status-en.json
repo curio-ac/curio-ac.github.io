@@ -3,6 +3,17 @@
  "exhausted_day": null,
  "runs": [
   {
+   "at": "2026-11-21T02:57:07Z",
+   "made": 3,
+   "rejected": 2,
+   "repaired": 0,
+   "calls": 37,
+   "notes": [
+    "Caloboletus calopus: pronunciation 9.1% of words misheard",
+    "Cattle egret: fact-check"
+   ]
+  },
+  {
    "at": "2026-11-20T19:44:51Z",
    "made": 4,
    "rejected": 1,
