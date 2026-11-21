@@ -323,7 +323,8 @@
   "British logistics in the Western Allied invasion of Germany",
   "Chew Stoke",
   "nasa:1338619",
-  "1st Missouri Field Battery"
+  "1st Missouri Field Battery",
+  "nasa:1487723"
  ],
  "rejected": [
   "Chameleon",
@@ -1459,6 +1460,9 @@
   ],
   "1st Missouri Field Battery": [
    "Rebel Battery Harasses Union Shipping: A rebel battery harassed Union shipping!"
+  ],
+  "nasa:1487723": [
+   "Griffin-1 Survives NASA's Space Simulator: This lunar lander baked at 167 degrees!"
   ]
  },
  "exhausted": []

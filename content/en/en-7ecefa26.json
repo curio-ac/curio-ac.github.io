@@ -1,0 +1,450 @@
+{
+ "id": "en-7ecefa26",
+ "lang": "en",
+ "title": "Washington's Historic Georgetown Car Barn",
+ "cat": "history",
+ "emoji": "🚋",
+ "sentences": [
+  "Meet the Georgetown Car Barn!",
+  "It was built between 1895 and 1897 by the Capital Traction Company.",
+  "The architect Waddy Butler Wood designed it as a union terminal for streetcar lines.",
+  "It even served as the terminal for Washington's only cable car system.",
+  "Capital Traction converted the lines to electrical power almost immediately after it opened.",
+  "The building housed streetcars until 1950 before changing ownership."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Meet",
+    0.2,
+    0.2
+   ],
+   [
+    "the",
+    0.3,
+    0.4
+   ],
+   [
+    "Georgetown",
+    0.4,
+    0.84
+   ],
+   [
+    "Car",
+    0.84,
+    1.4
+   ],
+   [
+    "Barn!",
+    1.4,
+    1.74
+   ],
+   [
+    "It",
+    2.18,
+    2.26
+   ],
+   [
+    "was",
+    2.26,
+    2.4
+   ],
+   [
+    "built",
+    2.4,
+    2.6
+   ],
+   [
+    "between",
+    2.6,
+    2.98
+   ],
+   [
+    "1895",
+    2.98,
+    4.06
+   ],
+   [
+    "and",
+    4.06,
+    4.52
+   ],
+   [
+    "1897",
+    4.62,
+    5.6
+   ],
+   [
+    "by",
+    5.6,
+    5.98
+   ],
+   [
+    "the",
+    5.98,
+    6.1
+   ],
+   [
+    "Capital",
+    6.16,
+    6.48
+   ],
+   [
+    "Traction",
+    6.48,
+    7.0
+   ],
+   [
+    "Company.",
+    7.0,
+    7.22
+   ],
+   [
+    "The",
+    8.02,
+    8.1
+   ],
+   [
+    "architect",
+    8.1,
+    8.5
+   ],
+   [
+    "Waddy",
+    8.5,
+    9.12
+   ],
+   [
+    "Butler",
+    9.12,
+    9.36
+   ],
+   [
+    "Wood",
+    9.36,
+    9.72
+   ],
+   [
+    "designed",
+    9.72,
+    10.24
+   ],
+   [
+    "it",
+    10.24,
+    10.42
+   ],
+   [
+    "as",
+    10.42,
+    10.6
+   ],
+   [
+    "a",
+    10.6,
+    10.7
+   ],
+   [
+    "union",
+    10.7,
+    11.02
+   ],
+   [
+    "terminal",
+    11.02,
+    11.4
+   ],
+   [
+    "for",
+    11.4,
+    11.7
+   ],
+   [
+    "streetcar",
+    11.72,
+    12.08
+   ],
+   [
+    "lines.",
+    12.08,
+    12.3
+   ],
+   [
+    "It",
+    12.9,
+    12.96
+   ],
+   [
+    "even",
+    13.04,
+    13.26
+   ],
+   [
+    "served",
+    13.26,
+    13.58
+   ],
+   [
+    "as",
+    13.58,
+    13.78
+   ],
+   [
+    "the",
+    13.78,
+    13.92
+   ],
+   [
+    "terminal",
+    14.04,
+    14.24
+   ],
+   [
+    "for",
+    14.24,
+    14.52
+   ],
+   [
+    "Washington's",
+    14.52,
+    15.24
+   ],
+   [
+    "only",
+    15.28,
+    15.52
+   ],
+   [
+    "cable",
+    15.52,
+    15.84
+   ],
+   [
+    "car",
+    15.84,
+    16.08
+   ],
+   [
+    "system.",
+    16.08,
+    16.4
+   ],
+   [
+    "Capital",
+    17.22,
+    17.44
+   ],
+   [
+    "Traction",
+    17.44,
+    17.92
+   ],
+   [
+    "converted",
+    17.92,
+    18.28
+   ],
+   [
+    "the",
+    18.28,
+    18.54
+   ],
+   [
+    "lines",
+    18.54,
+    18.78
+   ],
+   [
+    "to",
+    18.78,
+    18.98
+   ],
+   [
+    "electrical",
+    18.98,
+    19.38
+   ],
+   [
+    "power",
+    19.38,
+    19.78
+   ],
+   [
+    "almost",
+    19.78,
+    20.12
+   ],
+   [
+    "immediately",
+    20.12,
+    20.72
+   ],
+   [
+    "after",
+    20.72,
+    21.1
+   ],
+   [
+    "it",
+    21.1,
+    21.22
+   ],
+   [
+    "opened.",
+    21.22,
+    21.32
+   ],
+   [
+    "The",
+    22.2,
+    22.24
+   ],
+   [
+    "building",
+    22.24,
+    22.44
+   ],
+   [
+    "housed",
+    22.44,
+    22.74
+   ],
+   [
+    "streetcars",
+    22.74,
+    23.34
+   ],
+   [
+    "until",
+    23.34,
+    23.62
+   ],
+   [
+    "1950",
+    23.62,
+    24.38
+   ],
+   [
+    "before",
+    24.38,
+    24.94
+   ],
+   [
+    "changing",
+    24.94,
+    25.3
+   ],
+   [
+    "ownership.",
+    25.3,
+    25.78
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   17,
+   31,
+   43,
+   56
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Georgetown_Car_Barn%2C_Georgetown%2C_Washington%2C_DC_%2831665632097%29.jpg/960px-Georgetown_Car_Barn%2C_Georgetown%2C_Washington%2C_DC_%2831665632097%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC0",
+   "artist": "Warren LeMay from Cincinnati, OH, United States",
+   "page": "https://commons.wikimedia.org/wiki/File:Georgetown_Car_Barn,_Georgetown,_Washington,_DC_(31665632097).jpg",
+   "desc": "Georgetown Car Barn, Georgetown, Washington, DC (31665632097) — Georgetown Car Barn, Georgetown, Washington, DC"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Historic_American_Buildings_Survey_Copy_of_c._1894_Photograph_of_Excavation_%28from_Private_Collection_of_Leroy_O._King%2C_Georgetown%29_-_Capital_Traction_Company_Union_Station%2C_3600_M_HABS_DC%2CGEO%2C84-10.png/960px-thumbnail.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 507,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Historic_American_Buildings_Survey_Copy_of_c._1894_Photograph_of_Excavation_(from_Private_Collection_of_Leroy_O._King,_Georgetown)_-_Capital_Traction_Company_Union_Station,_3600_M_HABS_DC,GEO,84-10.png",
+   "desc": "Historic American Buildings Survey Copy of c. 1894 Photograph of Excavation (from Private Collection of Leroy O. King, Georgetown) - Capital Traction Company Union Station, 3600 M HABS DC,GEO,84-10 — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Historic_American_Buildings_Survey_Copy_of_c._1900_Photograph_%28from_Private_Collection_of_Leroy_O._King%2C_Georgetown%29_-_Capital_Traction_Company_Union_Station%2C_3600_M_Street_Northwest_HABS_DC%2CGEO%2C84-11.png/960px-thumbnail.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 521,
+   "license": "Public domain",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Historic_American_Buildings_Survey_Copy_of_c._1900_Photograph_(from_Private_Collection_of_Leroy_O._King,_Georgetown)_-_Capital_Traction_Company_Union_Station,_3600_M_Street_Northwest_HABS_DC,GEO,84-11.png",
+   "desc": "Historic American Buildings Survey Copy of c. 1900 Photograph (from Private Collection of Leroy O. King, Georgetown) - Capital Traction Company Union Station, 3600 M Street Northwest HABS DC,GEO,84-11 — "
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/CTC-303_at_the_National_Museum_of_American_History_in_Washington%2C_DC._-_54820963066.jpg/960px-CTC-303_at_the_National_Museum_of_American_History_in_Washington%2C_DC._-_54820963066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY 4.0",
+   "artist": "lostplanetcomics1",
+   "page": "https://commons.wikimedia.org/wiki/File:CTC-303_at_the_National_Museum_of_American_History_in_Washington,_DC._-_54820963066.jpg",
+   "desc": "CTC-303 at the National Museum of American History in Washington, DC. - 54820963066 — This 4-wheel, electric motor car was one of sixteen built for the Capital Traction Company by the American Car Company. Car #303 was assigned to the 7th Street line, which ra"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Georgetown_Car_Barn%2C_Washington%2C_D.C.3.jpg/960px-Georgetown_Car_Barn%2C_Washington%2C_D.C.3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 562,
+   "license": "Public domain",
+   "artist": "Carol M. Highsmith",
+   "page": "https://commons.wikimedia.org/wiki/File:Georgetown_Car_Barn,_Washington,_D.C.3.jpg",
+   "desc": "Georgetown Car Barn, Washington, D.C.3 — Old streetcar barn building in the Georgetown neighborhood. This building was once used as an \"end of the line\" station, a turn-around and maintenance facility for electric streetcars (trolleys). The Georgetown Universi"
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  null,
+  3,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1895
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1950
+  }
+ ],
+ "geo": [
+  38.905,
+  -77.07
+ ],
+ "qid": "Q57231557",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "Georgetown Car Barn",
+  "url": "https://en.wikipedia.org/wiki/Georgetown_Car_Barn",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T03:47:36Z",
+ "trimmed": true
+}
