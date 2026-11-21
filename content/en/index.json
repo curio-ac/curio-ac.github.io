@@ -359,7 +359,8 @@
   "Steve Dodd",
   "nasa:1277435",
   "USS Anzio (CVE-57)",
-  "nasa:1387369"
+  "nasa:1387369",
+  "Delichon"
  ],
  "rejected": [
   "Chameleon",
@@ -1612,6 +1613,9 @@
   ],
   "nasa:1387369": [
    "Arctic Ice Hits Annual Low: Arctic sea ice just hit its annual minimum."
+  ],
+  "Delichon": [
+   "Meet the House Martin: These birds have feathers on their toes."
   ]
  },
  "exhausted": []

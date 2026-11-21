@@ -1,0 +1,412 @@
+{
+ "id": "en-a5f5d6f2",
+ "lang": "en",
+ "title": "Gillingham's Wild 2001 Season",
+ "cat": "history",
+ "emoji": "⚽",
+ "sentences": [
+  "Gillingham started with a massive 5–0 win.",
+  "This was the 70th season they competed in the Football League.",
+  "They were in the second tier for the second consecutive year.",
+  "After three games they sat in third place.",
+  "Then they lost four straight games, even conceding five goals once.",
+  "By the end of the year, improved results in November and December moved them to 12th place."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Gillingham",
+    0.35,
+    0.61
+   ],
+   [
+    "started",
+    0.61,
+    0.85
+   ],
+   [
+    "with",
+    0.85,
+    1.05
+   ],
+   [
+    "a",
+    1.05,
+    1.11
+   ],
+   [
+    "massive",
+    1.11,
+    1.43
+   ],
+   [
+    "5–0",
+    1.43,
+    1.97
+   ],
+   [
+    "win.",
+    1.97,
+    2.62
+   ],
+   [
+    "This",
+    2.95,
+    2.95
+   ],
+   [
+    "was",
+    2.95,
+    3.13
+   ],
+   [
+    "the",
+    3.13,
+    3.29
+   ],
+   [
+    "70th",
+    3.29,
+    3.77
+   ],
+   [
+    "season",
+    3.85,
+    4.07
+   ],
+   [
+    "they",
+    4.07,
+    4.25
+   ],
+   [
+    "competed",
+    4.25,
+    4.61
+   ],
+   [
+    "in",
+    4.61,
+    4.85
+   ],
+   [
+    "the",
+    4.85,
+    4.95
+   ],
+   [
+    "Football",
+    4.95,
+    5.11
+   ],
+   [
+    "League.",
+    5.11,
+    5.35
+   ],
+   [
+    "They",
+    5.93,
+    6.05
+   ],
+   [
+    "were",
+    6.05,
+    6.19
+   ],
+   [
+    "in",
+    6.19,
+    6.31
+   ],
+   [
+    "the",
+    6.31,
+    6.41
+   ],
+   [
+    "second",
+    6.41,
+    6.67
+   ],
+   [
+    "tier",
+    6.67,
+    6.93
+   ],
+   [
+    "for",
+    6.93,
+    7.13
+   ],
+   [
+    "the",
+    7.13,
+    7.23
+   ],
+   [
+    "second",
+    7.23,
+    7.45
+   ],
+   [
+    "consecutive",
+    7.45,
+    7.81
+   ],
+   [
+    "year.",
+    7.81,
+    8.19
+   ],
+   [
+    "After",
+    8.71,
+    8.87
+   ],
+   [
+    "three",
+    8.87,
+    9.13
+   ],
+   [
+    "games",
+    9.13,
+    9.49
+   ],
+   [
+    "they",
+    9.49,
+    9.65
+   ],
+   [
+    "sat",
+    9.65,
+    9.85
+   ],
+   [
+    "in",
+    9.85,
+    9.95
+   ],
+   [
+    "third",
+    9.95,
+    10.13
+   ],
+   [
+    "place.",
+    10.13,
+    10.23
+   ],
+   [
+    "Then",
+    11.05,
+    11.15
+   ],
+   [
+    "they",
+    11.15,
+    11.29
+   ],
+   [
+    "lost",
+    11.29,
+    11.53
+   ],
+   [
+    "four",
+    11.67,
+    11.81
+   ],
+   [
+    "straight",
+    11.81,
+    12.03
+   ],
+   [
+    "games,",
+    12.03,
+    12.58
+   ],
+   [
+    "even",
+    12.67,
+    12.83
+   ],
+   [
+    "conceding",
+    12.83,
+    13.33
+   ],
+   [
+    "five",
+    13.33,
+    13.53
+   ],
+   [
+    "goals",
+    13.53,
+    13.77
+   ],
+   [
+    "once.",
+    13.77,
+    14.05
+   ],
+   [
+    "By",
+    14.65,
+    14.75
+   ],
+   [
+    "the",
+    14.75,
+    14.87
+   ],
+   [
+    "end",
+    14.87,
+    15.03
+   ],
+   [
+    "of",
+    15.03,
+    15.13
+   ],
+   [
+    "the",
+    15.13,
+    15.23
+   ],
+   [
+    "year,",
+    15.23,
+    15.53
+   ],
+   [
+    "improved",
+    15.57,
+    15.81
+   ],
+   [
+    "results",
+    15.81,
+    16.19
+   ],
+   [
+    "in",
+    16.19,
+    16.41
+   ],
+   [
+    "November",
+    16.41,
+    16.61
+   ],
+   [
+    "and",
+    16.61,
+    16.87
+   ],
+   [
+    "December",
+    16.87,
+    17.17
+   ],
+   [
+    "moved",
+    17.17,
+    17.45
+   ],
+   [
+    "them",
+    17.45,
+    17.69
+   ],
+   [
+    "to",
+    17.69,
+    17.83
+   ],
+   [
+    "12th",
+    17.83,
+    18.19
+   ],
+   [
+    "place.",
+    18.19,
+    18.39
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   18,
+   29,
+   37,
+   48
+  ],
+  "trim_v": 2
+ },
+ "images": [],
+ "sent_img": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "stat",
+   "value": 5,
+   "unit": "goals",
+   "label": "5-0 victory"
+  },
+  {
+   "type": "timeline",
+   "year": 1950
+  },
+  {
+   "type": "stat",
+   "value": 2,
+   "unit": "season",
+   "label": "second consecutive season"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "stat",
+   "value": 4,
+   "unit": "games",
+   "label": "four consecutive games"
+  },
+  {
+   "type": "stat",
+   "value": 12,
+   "unit": "place",
+   "label": "12th place"
+  }
+ ],
+ "geo": null,
+ "qid": "Q59655162",
+ "pron_wer": 0.015,
+ "angle": 0,
+ "source": {
+  "title": "2001–02 Gillingham F.C. season",
+  "url": "https://en.wikipedia.org/wiki/2001%E2%80%9302_Gillingham_F.C._season",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T16:16:08Z",
+ "trimmed": true
+}
