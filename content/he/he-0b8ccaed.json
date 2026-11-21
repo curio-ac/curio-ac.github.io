@@ -1,0 +1,341 @@
+{
+ "id": "he-0b8ccaed",
+ "lang": "he",
+ "title": "הסודות של דגל אוסטרליה",
+ "cat": "history",
+ "emoji": "🇦🇺",
+ "sentences": [
+  "הדגל האוסטרלי נבחר מתוך שלל עיצובים שונים.",
+  "הוא מבוסס על הנס הבריטי הכחול.",
+  "בצד שמאל למעלה מופיע דגל הממלכה המאוחדת.",
+  "מימין משולבת קבוצת הכוכבים הצלב הדרומי.",
+  "יש בו גם כוכב לבן גדול בעל 7 קודקודים.",
+  "רק בשנת 1954 הוא הוכר רשמית כדגל הלאומי."
+ ],
+ "tim": {
+  "w": [
+   [
+    "הדגל",
+    0.24,
+    0.5
+   ],
+   [
+    "האוסטרלי",
+    0.5,
+    0.96
+   ],
+   [
+    "נבחר",
+    0.96,
+    1.38
+   ],
+   [
+    "מתוך",
+    1.38,
+    1.66
+   ],
+   [
+    "שלל",
+    1.66,
+    2.02
+   ],
+   [
+    "עיצובים",
+    2.02,
+    2.42
+   ],
+   [
+    "שונים.",
+    2.42,
+    2.68
+   ],
+   [
+    "הוא",
+    3.2,
+    3.3
+   ],
+   [
+    "מבוסס",
+    3.3,
+    3.78
+   ],
+   [
+    "על",
+    3.78,
+    3.94
+   ],
+   [
+    "הנס",
+    3.94,
+    4.22
+   ],
+   [
+    "הבריטי",
+    4.22,
+    4.6
+   ],
+   [
+    "הכחול.",
+    4.6,
+    4.7
+   ],
+   [
+    "בצד",
+    5.76,
+    5.98
+   ],
+   [
+    "שמאל",
+    5.98,
+    6.28
+   ],
+   [
+    "למעלה",
+    6.28,
+    6.66
+   ],
+   [
+    "מופיע",
+    6.66,
+    7.0
+   ],
+   [
+    "דגל",
+    7.0,
+    7.42
+   ],
+   [
+    "הממלכה",
+    7.42,
+    7.88
+   ],
+   [
+    "המאוחדת.",
+    7.88,
+    8.34
+   ],
+   [
+    "מימין",
+    8.92,
+    9.32
+   ],
+   [
+    "משולבת",
+    9.32,
+    9.76
+   ],
+   [
+    "קבוצת",
+    9.76,
+    10.24
+   ],
+   [
+    "הכוכבים",
+    10.24,
+    10.76
+   ],
+   [
+    "הצלב",
+    10.76,
+    11.18
+   ],
+   [
+    "הדרומי.",
+    11.18,
+    11.32
+   ],
+   [
+    "יש",
+    12.28,
+    12.38
+   ],
+   [
+    "בו",
+    12.38,
+    12.5
+   ],
+   [
+    "גם",
+    12.5,
+    12.58
+   ],
+   [
+    "כוכב",
+    12.58,
+    12.92
+   ],
+   [
+    "לבן",
+    12.92,
+    13.24
+   ],
+   [
+    "גדול",
+    13.24,
+    13.66
+   ],
+   [
+    "בעל",
+    13.66,
+    13.94
+   ],
+   [
+    "7",
+    13.94,
+    14.14
+   ],
+   [
+    "קודקודים.",
+    14.14,
+    14.28
+   ],
+   [
+    "רק",
+    15.44,
+    15.54
+   ],
+   [
+    "בשנת",
+    15.54,
+    15.88
+   ],
+   [
+    "1954",
+    15.92,
+    16.8
+   ],
+   [
+    "הוא",
+    16.8,
+    17.66
+   ],
+   [
+    "הוכר",
+    17.8,
+    17.96
+   ],
+   [
+    "רשמית",
+    17.96,
+    18.66
+   ],
+   [
+    "כדגל",
+    18.96,
+    19.22
+   ],
+   [
+    "הלאומי.",
+    19.22,
+    19.32
+   ]
+  ],
+  "b": [
+   0,
+   7,
+   13,
+   20,
+   26,
+   35
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Proudly_wave_the_banner_high.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 554,
+   "license": "Public domain",
+   "artist": "Evan Evans Pty Ltd",
+   "page": "https://commons.wikimedia.org/wiki/File:Proudly_wave_the_banner_high.jpg",
+   "desc": "Proudly wave the banner high — \"In 1952, the Australian flag was used on this booklet that celebrated 75 years of 'service and progress' by Evan Evans Pty Ltd, Melbourne. Ivor Evans, the Managing Director, was one of the five winners of the 1901 flag "
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/British-Blue-Ensign.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 360,
+   "license": "CC BY-SA 4.0",
+   "artist": "JonathanSCCP",
+   "page": "https://commons.wikimedia.org/wiki/File:British-Blue-Ensign.png",
+   "desc": "British-Blue-Ensign — Essa bandeira é chamada de Blue Ensign da Marinha Britânica, usado nas bandeiras de muitos Territórios Britânicos Ultramarinos."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Union_Jack_Houses_of_Parliament.jpg/960px-Union_Jack_Houses_of_Parliament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 2.0",
+   "artist": "sebastiandoe5",
+   "page": "https://commons.wikimedia.org/wiki/File:Union_Jack_Houses_of_Parliament.jpg",
+   "desc": "Union Jack Houses of Parliament — A Union Jack on the Houses of Parliament in Westminster, London."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Australian_Southern_Cross_Boomerang_Island.png/960px-Australian_Southern_Cross_Boomerang_Island.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 480,
+   "license": "CC BY-SA 4.0",
+   "artist": "Jsky87",
+   "page": "https://commons.wikimedia.org/wiki/File:Australian_Southern_Cross_Boomerang_Island.png",
+   "desc": "Australian Southern Cross Boomerang Island — Boomerang and Southern Cross with Australian Colours."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  2,
+  3,
+  null,
+  null
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "Union Jack",
+   "box": [
+    0,
+    0,
+    1000,
+    1000
+   ]
+  },
+  {
+   "type": "focus",
+   "target": "Southern Cross constellation",
+   "box": [
+    105,
+    738,
+    485,
+    935
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1954
+  }
+ ],
+ "geo": null,
+ "qid": "Q81676",
+ "pron_wer": 0.023,
+ "angle": 0,
+ "source": {
+  "title": "דגל אוסטרליה",
+  "url": "https://he.wikipedia.org/wiki/%D7%93%D7%92%D7%9C_%D7%90%D7%95%D7%A1%D7%98%D7%A8%D7%9C%D7%99%D7%94",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-3.8-flash-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T13:26:36Z",
+ "trimmed": true
+}
