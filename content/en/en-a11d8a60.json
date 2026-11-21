@@ -1,0 +1,381 @@
+{
+ "id": "en-a11d8a60",
+ "lang": "en",
+ "title": "Oregon's Hidden Creek History",
+ "cat": "geography",
+ "emoji": "🌲",
+ "sentences": [
+  "Humans have inhabited this watershed for 8,000 years.",
+  "Big Butte Creek spans 12 miles in Oregon.",
+  "Its forks start high near Mount McLoughlin.",
+  "These waters eventually feed the Rogue River.",
+  "Settlers arrived in the 1860s, naming it after Snowy Butte.",
+  "Today, Butte Falls is the only incorporated city within the entire watershed."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Humans",
+    0.28,
+    0.28
+   ],
+   [
+    "have",
+    0.28,
+    0.54
+   ],
+   [
+    "inhabited",
+    0.54,
+    0.98
+   ],
+   [
+    "this",
+    0.98,
+    1.22
+   ],
+   [
+    "watershed",
+    1.22,
+    1.68
+   ],
+   [
+    "for",
+    1.68,
+    1.94
+   ],
+   [
+    "8,000",
+    1.94,
+    2.64
+   ],
+   [
+    "years.",
+    2.64,
+    2.94
+   ],
+   [
+    "Big",
+    3.62,
+    3.74
+   ],
+   [
+    "Butte",
+    3.74,
+    4.04
+   ],
+   [
+    "Creek",
+    4.1,
+    4.22
+   ],
+   [
+    "spans",
+    4.22,
+    4.62
+   ],
+   [
+    "12",
+    4.62,
+    4.96
+   ],
+   [
+    "miles",
+    4.96,
+    5.28
+   ],
+   [
+    "in",
+    5.28,
+    5.56
+   ],
+   [
+    "Oregon.",
+    5.56,
+    5.86
+   ],
+   [
+    "Its",
+    6.46,
+    6.56
+   ],
+   [
+    "forks",
+    6.56,
+    6.92
+   ],
+   [
+    "start",
+    6.92,
+    7.14
+   ],
+   [
+    "high",
+    7.14,
+    7.48
+   ],
+   [
+    "near",
+    7.48,
+    7.64
+   ],
+   [
+    "Mount",
+    7.64,
+    7.86
+   ],
+   [
+    "McLoughlin.",
+    7.86,
+    8.2
+   ],
+   [
+    "These",
+    8.98,
+    9.1
+   ],
+   [
+    "waters",
+    9.1,
+    9.42
+   ],
+   [
+    "eventually",
+    9.42,
+    10.0
+   ],
+   [
+    "feed",
+    10.0,
+    10.36
+   ],
+   [
+    "the",
+    10.36,
+    10.52
+   ],
+   [
+    "Rogue",
+    10.52,
+    10.72
+   ],
+   [
+    "River.",
+    10.72,
+    10.94
+   ],
+   [
+    "Settlers",
+    11.66,
+    12.0
+   ],
+   [
+    "arrived",
+    12.0,
+    12.32
+   ],
+   [
+    "in",
+    12.32,
+    12.54
+   ],
+   [
+    "the",
+    12.54,
+    12.62
+   ],
+   [
+    "1860s,",
+    12.62,
+    13.42
+   ],
+   [
+    "naming",
+    13.98,
+    14.08
+   ],
+   [
+    "it",
+    14.08,
+    14.28
+   ],
+   [
+    "after",
+    14.28,
+    14.54
+   ],
+   [
+    "Snowy",
+    14.54,
+    15.02
+   ],
+   [
+    "Butte.",
+    15.02,
+    15.12
+   ],
+   [
+    "Today,",
+    15.9,
+    16.3
+   ],
+   [
+    "Butte",
+    16.42,
+    16.68
+   ],
+   [
+    "Falls",
+    16.7,
+    16.82
+   ],
+   [
+    "is",
+    16.82,
+    17.1
+   ],
+   [
+    "the",
+    17.1,
+    17.22
+   ],
+   [
+    "only",
+    17.22,
+    17.52
+   ],
+   [
+    "incorporated",
+    17.52,
+    17.96
+   ],
+   [
+    "city",
+    17.96,
+    18.42
+   ],
+   [
+    "within",
+    18.42,
+    18.72
+   ],
+   [
+    "the",
+    18.72,
+    18.94
+   ],
+   [
+    "entire",
+    18.94,
+    19.36
+   ],
+   [
+    "watershed.",
+    19.36,
+    19.8
+   ]
+  ],
+  "b": [
+   0,
+   8,
+   16,
+   23,
+   30,
+   40
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Big_Butte_Creek_Watershed.png/960px-Big_Butte_Creek_Watershed.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 604,
+   "license": "CC BY-SA 3.0",
+   "artist": "Demis Map Server, Little Mountain 5",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Butte_Creek_Watershed.png",
+   "desc": "Big Butte Creek Watershed — A map of the Big Butte Creek watershed — of Oregon."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/MtMcLoughlin.jpg/960px-MtMcLoughlin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 540,
+   "license": "CC BY-SA 3.0",
+   "artist": "Little Mountain 5 (talk · contribs)",
+   "page": "https://commons.wikimedia.org/wiki/File:MtMcLoughlin.jpg",
+   "desc": "MtMcLoughlin — Photo of Mount McLoughlin from across Willow Lake, Oregon."
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Rogue_River_Oregon_USA.jpg/960px-Rogue_River_Oregon_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 479,
+   "license": "CC BY 2.0",
+   "artist": "Hamad Darwish from Medford, Oregon, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Rogue_River_Oregon_USA.jpg",
+   "desc": "Rogue River Oregon USA — Rogue River, Oregon, USAPowerful Impressions"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Big_Butte_Creek_Falls_%28Jackson_County%2C_Oregon_scenic_images%29_%28jacDA0005a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 478,
+   "license": "Attribution",
+   "artist": "Gary Halvorson, Oregon State Archives",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Butte_Creek_Falls_(Jackson_County,_Oregon_scenic_images)_(jacDA0005a).jpg",
+   "desc": "Big Butte Creek Falls (Jackson County, Oregon scenic images) (jacDA0005a) — Big Butte Creek Falls."
+  }
+ ],
+ "sent_img": [
+  null,
+  0,
+  1,
+  2,
+  null,
+  3
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "compare",
+   "value": 19312,
+   "dim": "length",
+   "unit_value_in": "m"
+  },
+  {
+   "type": "map"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "timeline",
+   "year": 1860
+  },
+  {
+   "type": "stat",
+   "value": 1,
+   "unit": "city",
+   "label": "incorporated city"
+  }
+ ],
+ "geo": [
+  42.658,
+  -122.695
+ ],
+ "qid": "Q2902180",
+ "pron_wer": 0.038,
+ "angle": 0,
+ "source": {
+  "title": "Big Butte Creek",
+  "url": "https://en.wikipedia.org/wiki/Big_Butte_Creek",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "gemini-2.5-flash-preview-tts/Puck",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T12:28:47Z",
+ "trimmed": true
+}

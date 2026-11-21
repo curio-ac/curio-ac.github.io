@@ -349,7 +349,8 @@
   "Boring Lava Field",
   "2000 Sugar Bowl",
   "nasa:1398778",
-  "Apollo 11 50th Anniversary commemorative coins"
+  "Apollo 11 50th Anniversary commemorative coins",
+  "nasa:1487827"
  ],
  "rejected": [
   "Chameleon",
@@ -1571,6 +1572,9 @@
   ],
   "Apollo 11 50th Anniversary commemorative coins": [
    "Apollo 11 Coin Secrets: Space coins feature a famous bootprint."
+  ],
+  "nasa:1487827": [
+   "Perseverance Sets World Record: NASA’s Perseverance team just set a world record."
   ]
  },
  "exhausted": []
