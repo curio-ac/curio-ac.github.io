@@ -1,0 +1,438 @@
+{
+ "id": "en-8c68fa29",
+ "lang": "en",
+ "title": "Jupiter's Endless Atmosphere",
+ "cat": "space",
+ "emoji": "🪐",
+ "sentences": [
+  "Jupiter has no bottom floor.",
+  "This massive atmosphere is mostly hydrogen and helium.",
+  "It slowly turns into the planet's liquid interior.",
+  "The atmosphere is stacked in layers, including the troposphere and stratosphere.",
+  "Powerful winds create bands of clouds across the surface.",
+  "These jets create a wild phenomenon called super-rotation.",
+  "It is officially the largest planetary atmosphere in our entire Solar System."
+ ],
+ "tim": {
+  "w": [
+   [
+    "Jupiter",
+    0.35,
+    0.41
+   ],
+   [
+    "has",
+    0.41,
+    0.71
+   ],
+   [
+    "no",
+    0.71,
+    0.89
+   ],
+   [
+    "bottom",
+    0.89,
+    1.13
+   ],
+   [
+    "floor.",
+    1.13,
+    1.73
+   ],
+   [
+    "This",
+    2.17,
+    2.17
+   ],
+   [
+    "massive",
+    2.17,
+    2.47
+   ],
+   [
+    "atmosphere",
+    2.47,
+    2.91
+   ],
+   [
+    "is",
+    2.91,
+    3.21
+   ],
+   [
+    "mostly",
+    3.21,
+    3.55
+   ],
+   [
+    "hydrogen",
+    3.55,
+    3.99
+   ],
+   [
+    "and",
+    3.99,
+    4.23
+   ],
+   [
+    "helium.",
+    4.23,
+    4.67
+   ],
+   [
+    "It",
+    5.09,
+    5.19
+   ],
+   [
+    "slowly",
+    5.19,
+    5.51
+   ],
+   [
+    "turns",
+    5.51,
+    5.85
+   ],
+   [
+    "into",
+    5.85,
+    6.11
+   ],
+   [
+    "the",
+    6.11,
+    6.27
+   ],
+   [
+    "planet's",
+    6.27,
+    6.63
+   ],
+   [
+    "liquid",
+    6.63,
+    6.83
+   ],
+   [
+    "interior.",
+    6.83,
+    7.57
+   ],
+   [
+    "The",
+    7.91,
+    7.99
+   ],
+   [
+    "atmosphere",
+    7.99,
+    8.37
+   ],
+   [
+    "is",
+    8.37,
+    8.65
+   ],
+   [
+    "stacked",
+    8.65,
+    8.87
+   ],
+   [
+    "in",
+    8.87,
+    9.17
+   ],
+   [
+    "layers,",
+    9.17,
+    9.55
+   ],
+   [
+    "including",
+    9.79,
+    10.09
+   ],
+   [
+    "the",
+    10.09,
+    10.29
+   ],
+   [
+    "troposphere",
+    10.29,
+    10.77
+   ],
+   [
+    "and",
+    10.77,
+    11.07
+   ],
+   [
+    "stratosphere.",
+    11.07,
+    11.47
+   ],
+   [
+    "Powerful",
+    12.41,
+    12.85
+   ],
+   [
+    "winds",
+    12.85,
+    13.13
+   ],
+   [
+    "create",
+    13.13,
+    13.45
+   ],
+   [
+    "bands",
+    13.45,
+    13.75
+   ],
+   [
+    "of",
+    13.75,
+    13.97
+   ],
+   [
+    "clouds",
+    13.97,
+    14.27
+   ],
+   [
+    "across",
+    14.27,
+    14.53
+   ],
+   [
+    "the",
+    14.53,
+    14.79
+   ],
+   [
+    "surface.",
+    14.79,
+    15.25
+   ],
+   [
+    "These",
+    15.77,
+    15.93
+   ],
+   [
+    "jets",
+    15.93,
+    16.19
+   ],
+   [
+    "create",
+    16.19,
+    16.53
+   ],
+   [
+    "a",
+    16.53,
+    16.71
+   ],
+   [
+    "wild",
+    16.71,
+    16.97
+   ],
+   [
+    "phenomenon",
+    16.97,
+    17.45
+   ],
+   [
+    "called",
+    17.45,
+    17.93
+   ],
+   [
+    "super-rotation.",
+    17.93,
+    18.78
+   ],
+   [
+    "It",
+    19.31,
+    19.41
+   ],
+   [
+    "is",
+    19.41,
+    19.51
+   ],
+   [
+    "officially",
+    19.51,
+    19.89
+   ],
+   [
+    "the",
+    19.89,
+    20.17
+   ],
+   [
+    "largest",
+    20.17,
+    20.45
+   ],
+   [
+    "planetary",
+    20.45,
+    20.93
+   ],
+   [
+    "atmosphere",
+    20.93,
+    21.51
+   ],
+   [
+    "in",
+    21.61,
+    21.89
+   ],
+   [
+    "our",
+    21.89,
+    22.05
+   ],
+   [
+    "entire",
+    22.05,
+    22.43
+   ],
+   [
+    "Solar",
+    22.43,
+    22.81
+   ],
+   [
+    "System.",
+    22.81,
+    23.49
+   ]
+  ],
+  "b": [
+   0,
+   5,
+   13,
+   21,
+   32,
+   41,
+   49
+  ],
+  "trim_v": 2
+ },
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Interior_dos_gigantes_gasosos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "w": 720,
+   "h": 429,
+   "license": "Public domain",
+   "artist": "Transalated by Al Lemos",
+   "page": "https://commons.wikimedia.org/wiki/File:Interior_dos_gigantes_gasosos.png",
+   "desc": "Interior dos gigantes gasosos — Gas Giant Interiors Jupiter Jupiter's composition is mainly hydrogen and helium. In contrast to planetary bodies covered with a hard surface crust (the Earth, for example), the jovian surface is gaseous-liquid, rendering"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/960px-Jupiter_OPAL_2024.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 652,
+   "license": "Public domain",
+   "artist": "NASA/STSCI (S.T.A.R.S)",
+   "page": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+   "desc": "Jupiter OPAL 2024 — Jupiter in true color by Hubble's \"Outer Planet Atmospheres Legacy\" (OPAL) - January 5 2024"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Structure_of_Jovian_atmosphere.png/960px-Structure_of_Jovian_atmosphere.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 464,
+   "license": "CC BY-SA 3.0",
+   "artist": "Ruslik0",
+   "page": "https://commons.wikimedia.org/wiki/File:Structure_of_Jovian_atmosphere.png",
+   "desc": "Structure of Jovian atmosphere — The image shows the vertical structure of the atmosphere of Jupiter. The temperature is shown as a function of pressure (black line). The approximate altitudes of atmospheric transitions troposphere–stratosphere (tropopa"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Chaotic_Clouds_of_Jupiter.jpg/960px-Chaotic_Clouds_of_Jupiter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 720,
+   "license": "Public domain",
+   "artist": "NASA/JPL-Caltech/SwRI/MSSS/Gerald Eichstädt/Seán Doran",
+   "page": "https://commons.wikimedia.org/wiki/File:Chaotic_Clouds_of_Jupiter.jpg",
+   "desc": "Chaotic Clouds of Jupiter — This image captures swirling cloud belts and tumultuous vortices within Jupiter’s northern hemisphere. NASA’s Juno spacecraft took this color-enhanced image at 10:23 p.m. PDT on May 23, 2018 (1:23 a.m. EDT on May 24), as"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jupiter%2C_Earth_size_comparison.jpg/960px-Jupiter%2C_Earth_size_comparison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 720,
+   "h": 617,
+   "license": "Public domain",
+   "artist": "NASABrian0918 at English Wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Jupiter,_Earth_size_comparison.jpg",
+   "desc": "Jupiter, Earth size comparison — Rough visual comparison of Jupiter, Earth, and the Great Red Spot. Approximate scale is 44 km/px."
+  }
+ ],
+ "sent_img": [
+  0,
+  1,
+  0,
+  2,
+  3,
+  null,
+  4
+ ],
+ "vis": [
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "focus",
+   "target": "troposphere and stratosphere",
+   "box": [
+    133,
+    412,
+    168,
+    888
+   ]
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  },
+  {
+   "type": "image"
+  }
+ ],
+ "geo": null,
+ "qid": "Q3045",
+ "pron_wer": 0.032,
+ "angle": 0,
+ "source": {
+  "title": "Atmosphere of Jupiter",
+  "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter",
+  "license": "CC BY-SA 4.0",
+  "name": "Wikipedia"
+ },
+ "ai": {
+  "script": "gemini-3.1-flash-lite",
+  "voice": "open-source (chatterbox)",
+  "fact_check": "passed"
+ },
+ "created": "2026-11-21T14:32:51Z",
+ "trimmed": true
+}

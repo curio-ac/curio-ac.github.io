@@ -354,7 +354,8 @@
   "Big Butte Creek",
   "nasa:1490381",
   "55 Wall Street",
-  "Battle of the Great Plains"
+  "Battle of the Great Plains",
+  "nasa:1509841"
  ],
  "rejected": [
   "Chameleon",
@@ -1591,6 +1592,9 @@
   ],
   "Battle of the Great Plains": [
    "Rome's Bold North African Strike: Scipio launched a surprise night attack."
+  ],
+  "nasa:1509841": [
+   "Mars Rover's Oldest New Find: Perseverance just collected an ancient Mars rock."
   ]
  },
  "exhausted": []
